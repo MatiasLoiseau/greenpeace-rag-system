@@ -1,0 +1,1297 @@
+# Archivo original: solar-thermal-power-2020.pdf
+# Tipo: .PDF
+# Procesado el: Sat Oct 11 09:40:27 -03 2025
+
+EXPLOITING THE HEAT 
+FROM THE SUN TO COMBATCLIMATE CHANGESOLAR THERMAL POWER
+
+Over the period up to 2020
+a total of 154 milliontonnes of carbon dioxidewould be saved frombeing emitted into theatmosphere, making asubstantial contribution to international climatechange targets.
+
+SOLAR THERMAL POWER PLANTS 1FOREWORD
+EXECUTIVE SUMMARY 03PART 1: 
+SOLAR THERMAL POWER – 06
+THE BASICS
+PART 2: SOLAR THERMAL POWER – 09
+TECHNOLOGY, COSTS AND BENEFITS
+PART 3: THE GLOBAL SOLAR 24
+THERMAL MARKET
+PART 4: THE FUTURE OF SOLAR 34
+THERMAL POWER
+PART 5: POLICY RECOMMENDATIONS 42
+CONTENTS
+
+Co-author
+Georg. Brakmann, President
+European Solar Thermal Industry AssociationSven Teske, B.Sc 
+Renewables Director, Greenpeace
+This report demonstrates that there are no technical,
+economic or resource barriers to supplying 5% of the world’selectricity needs from solar thermal power alone by 2040 –even against the challenging backdrop of a projected morethan doubling in global electricity demand. The solar thermalindustry is capable of becoming a dynamic, innovative 
+€15
+billion annual business within 20 years, unlocking a new globalera of economic, technological and environmental progress. 
+The benefits of solar power are compelling: environmental
+protection, economic growth, job creation, diversity of fuelsupply and rapid deployment, as well as the global potentialfor technology transfer and innovation. The underlyingadvantage of solar energy is that the fuel is free, abundant andinexhaustible. The total amount of energy irradiated from thesun to the earth’s surface is enough to provide for annualglobal energy consumption 10,000 times over. 
+On climate change, a solid international consensus now
+clearly states that business-as-usual is not an option and theworld must move swiftly towards a clean energy economy.Solar thermal power is a prime choice in developing anaffordable, feasible, global energy source that is able tosubstitute for fossil fuels in the sunbelts around the world.
+Electricity for 100 million people
+Greenpeace and the European Solar Thermal Power Industry
+Association (ESTIA) have together produced this report in orderto update our understanding of the contribution that solarthermal power can make to the world’s energy supply. The reportis a practical blueprint to show that solar thermal power iscapable of supplying electricity to more than 100 million peopleliving in the sunniest parts of the world within two decades.
+Modern solar thermal power plants provide bulk power
+equivalent to the output from conventional power stationsand can be built in a matter of months. The aim of thisblueprint is to push further forward the boundaries oftechnological progress and unlock the benefits that willfollow. Solar thermal power does not need to be invented,
+nor is there a need to wait for any magical ‘breakthrough’; itis ready for global implementation today.
+The vision is clear: solar thermal power plants can
+become the offshore wind farms of the desert –exploiting the heat from the sun to combat climate change.
+Urgent political commitment 
+The solid industrial and political commitment to the expansion of
+the solar thermal power plant industry outlined in this reportshows clearly that the current surge of activity in the solarelectricity sector represents merely a foretaste of the massivetransformation and expansion it is capable of over the comingdecades. But although reports are a useful guide, it is peoplewho change the world by their actions. We encourage politiciansand policy-makers, global citizens, energy officials, companies,investors and other interested parties to support solar thermalpower by taking concrete steps which will help ensure thathundreds of millions of people will receive their electricity fromthe sun, harnessing its full potential for our common good.
+Following last year’s Earth Summit, the Johannesburg
+Renewable Energy Coalition was formed, with more than 80 countries proclaiming that their goal is to “substantiallyincrease the global share of renewable energy sources” on thebasis of “clear and ambitious time-bound targets”. Politicaldeclarations mean little if not put into practice. This report is ablueprint for action that governments can implement, andshows what is possible with just one renewable technology. 
+Solar thermal power is a global scale technology that has the
+capacity to satisfy the energy and development needs of theworld without destroying it. 
+Note: Figures are given in this report in both US dollars and Euros.
+Readers should note that the two currencies have a similar value.FOREWORD
+SOLAR THERMAL POWER PLANTS 2THE VISION IS CLEAR: SOLAR THERMAL POWER PLANTS CAN BECOME
+THE OFFSHORE WIND FARMS OF THE DESERT – EXPLOITING THE HEATFROM THE SUN TO COMBAT CLIMATE CHANGE.
+Co-author
+Rainer. Aringhoff, Secretary General
+European Solar Thermal Industry Association
+
+Power from the Sun
+Solar thermal power is a relatively new technology which has
+already shown enormous promise. With few environmentalimpacts and a massive resource, it offers an opportunity tothe sunniest countries of the world comparable to thebreakthrough offshore wind farms are currently offeringEuropean nations with the windiest shorelines.
+Solar thermal power uses direct sunlight, so it must be
+sited in regions with high direct solar radiation. Among themost promising areas of the world are the South-WesternUnited States, Central and South America, Africa, theMiddle East, the Mediterranean countries of Europe, Iran,Pakistan and the desert regions of India, the former SovietUnion, China and Australia. 
+In many regions of the world, one square kilometre of land
+is enough to generate as much as 100-200 Gigawatt hours(GWh) of electricity per year using solar thermal technology.
+This is equivalent to the annual production of a 50 MWconventional coal or gas-fired power plant. Worldwide, theexploitation of less than 1% of the total solar thermalpotential would be enough to stabilise the world climatethrough massive CO
+2reductions.
+Turni ng Solar Heat into Electricity
+Producing electricity from the energy in the sun’s rays is a
+relatively straightforward process. Direct solar radiation can
+be concentrated and collected by a range of ConcentratingSolar Power (CSP) technologies to provide medium to hightemperature heat. This heat is then used to operate aconventional power cycle, for example through a steam orgas turbine or a Stirling engine. Solar heat collected duringthe day can also be stored in liquid, solid or phase changingmedia like molten salts, ceramics, concrete, or in the future,phase changing salt mixtures. At night, it can be extractedfrom the storage medium to run the steam turbine.
+Solar thermal power plants can be designed for solar-only
+generation, ideally to satisfy demand during daylight hours,but with future storage systems their operation can beextended to almost base load requirements. 
+Electricity from solar thermal power is also becoming
+cheaper to produce. Plants operating in California havealready achieved impressive cost reductions, with generation costs ranging today between 10 and 13 US
+cents/kWh. However, costs are expected to fall closer to 5 US cents in the future. Advanced technologies, massproduction, economies of scale and improved operationwill together enable a reduction in the cost of solarelectricity to a level competitive with fossil power plantswithin the next 10 to 15 years.
+Technology, Costs and Benefits
+Four main elements are required to produce electricity
+from solar thermal power: a concentrator, a receiver, someform of a heat transport, storage and power conversionequipment much the same as for a fossil fuel-based plant.The three most promising solar thermal technologies arethe parabolic trough, the central receiver or solar tower,and the parabolic dish.
+Parabolic trough systems use trough-shaped mirror
+reflectors to concentrate sunlight on to receiver tubes
+through which a thermal transfer fluid is heated to roughly400°C and then used to produce superheated steam. Theyrepresent the most mature solar thermal power technology,
+with 354 MWe of plants connected to the SouthernCalifornia grid since the 1980s and more than two squarekilometres of parabolic trough collectors. These plantssupply an annual 800 million kWh – enough for more than200,000 households – at a generation cost of about 10-13US cents/kWh.
+Further advances are now being made in the technology,
+with utility scale projects planned in Greece, Spain, Egypt,Mexico, India, Morocco, Iran, Israel, Italy, the United Statesand Algeria. Electricity from trough plants combined withgas-fired combined cycle plants – ISCC (Integrated SolarCombined Cycle) systems – is expected to cost 6 
+€cents/kWh today and 5 €cents in medium terms.
+Central receiver (solar tower) systems use a circular array
+of large individually-tracking mirrors (heliostats) toconcentrate sunlight on to a central receiver mounted ontop of a tower, with heat transferred for power generationthrough a choice of transfer media. After an intermediatescaling up to 30 MW capacity, solar tower developers nowfeel confident that grid-connected tower power plants canbe built up to a capacity of 200 MWe solar-only units. Useof thermal storages will increase their flexibility. EXECUTIVE SUMMARY
+SOLAR THERMAL POWER PLANTS 3
+
+Although central receiver plants are considered to be
+further from commercialisation than parabolic troughsystems, solar towers have good longer term prospects forhigh conversion efficiencies. Projects are in various stagesof development (from assessment to implementation) inSpain, South Africa and the United States. In the future,central receiver plant projects will benefit from similar costreductions to those expected from parabolic trough plants.
+The anticipated evolution of total electricity costs is thatthey will drop to 5 cents/kWh in the mid to long term. 
+Parabolic dish systems are comparatively small units
+which use a dish-shaped reflector to concentrate sunlight,and heated gas or air to generate power in a small engineat the focal point of the reflector. Their potential liesprimarily in decentralised power supply and remote, stand-alone power systems. Projects are currently plannedin the United States, Australia and Europe. In terms ofelectricity costs, an attainable mid-term goal is a figure ofless than 15 cents/kWh.
+Current trends show that two broad pathways have
+opened up for large scale delivery of electricity usingsolar thermal power. One is the ISCC-type hybridoperation of solar collection and heat transfer combinedwith a conventional state-of-art combined cycle gas-firedpower plant. The other is solar-only operation, with aconventional steam turbine, increasing use of a storagemedium such as molten salt. This enables solar energycollected during the day to be stored and thendispatched when demand requires.
+A major benefit of solar thermal power is that it has little
+environmental impact, with none of the polluting emissionsor safety concerns associated with conventionalgeneration technologies. There is no pollution in the formof exhaust gases during operation. Decommissioning asystem is unproblematic. 
+Each square metre of surface in a solar field is enough to
+avoid the annual production of 200 kilograms (kg) ofcarbon dioxide. Solar power can therefore make asubstantial contribution towards international commitmentsto reduce emissions of greenhouse gases which contributeto climate change.
+The Global Solar Thermal Market
+New opportunities are opening up for solar thermal power
+as a result of the global search for clean energy solutions.Both national and international initiatives are supportingthe technology, encouraging commercialisation ofproduction. A number of countries have introduced
+legislation which forces power suppliers to source a risingpercentage of their supply from renewable fuels. Bulkpower high voltage transmission lines from high insulationsites, such as in northern Africa, could encourageEuropean utilities to finance large solar plants whosepower would be used in Europe.
+These and other factors have led to significant interest in
+constructing plants in the sunbelt regions. In addition,interest rates and capital costs have drastically fallenworldwide, increasing the viability of capital intensiverenewable energy projects. Examples of specific large solar
+thermal projects currently planned around the world,evidence of the “race to be first”, include:
+• Algeria : 140 MW ISCC plant with 35 MW 
+solar capacity.
+• Australia : 35 MW CLFR-based array to pre-heat
+steam at a coal-fired 2,000 MW plant.
+• Egypt : 127 MW ISCC plant with 29 MW 
+solar capacity.
+• Greece : 50 MW solar capacity using steam cycle.
+• India : 140 MW ISCC plant with 35 MW 
+solar capacity.
+• Israel : 100 MW solar hybrid operation.
+• Italy : 40 MW solar capacity using steam cycle.
+• Mexico : 300 MW ISCC plant with 29 MW 
+solar capacity.
+• Morocco : 230 MW ISCC plant with 35 MW 
+solar capacity.
+• Spain : 2 x 50 MW solar capacity using steam
+cycle and storage.
+• USA : 50 MW Solar Electric Generating
+Systems.
+• USA : 1 MW parabolic trough using 
+ORC engine
+The Future for Solar Thermal Power
+A scenario prepared by Greenpeace International and the
+European Solar Thermal Power Industry Associationprojects what could be achieved by the year 2020 giventhe right market conditions. It is based on expectedadvances in solar thermal technology coupled with thegrowing number of countries which are supporting projects in order to achieve both climate change andpower supply objectives. 
+SOLAR THERMAL POWER PLANTS 4
+
+Over the period of the scenario, solar thermal technology
+will have emerged from a relatively marginal position in thehierarchy of renewable energy sources to achieve asubstantial status alongside the current market leaderssuch as hydro and wind power. From a current level of just354 MW, by 2015 the total installed capacity of solarthermal power plants will have reached 5,000 MW. By2020 additional capacity would be rising at a level ofalmost 4,500 MW each year. 
+• By 2020, the total installed capacity of solar thermal
+power around the world will have reached 201,540 MW.
+• Solar thermal power will have achieved an annual output
+of more than 54,600,000 MWh (54.6 TWh) This isequivalent to the consumption of over one third ofAustralia’s electricity demand. 
+• Capital investment in solar thermal plant will rise from
+US$ 375 million in 2005 to almost US$ 7.6 billion in2020. The total investment over the scenario periodwould amount to US$ 41.8 bn. 
+• Expansion in the solar thermal power industry will result
+in the creation of 200,000 jobs worldwide, even notcounting those involved in production of the hardware. • The five most promising countries in terms of
+governmental targets or potentials according to thescenario, each with more than 1,000 MW of solar thermalprojects expected by 2020, are Spain, the United States,Mexico, Australia and South Africa.
+• Over the period up to 2020 a total of 154 million tonnes
+of carbon dioxide would be saved from being emittedinto the atmosphere, making an important contribution tointernational climate protection targets. 
+A further projection is also made for the potential
+expansion of the solar thermal power market over anothertwo decades up to 2040. This shows that by 2030 theworld-wide capacity will have reached 106,000 MW, andby 2040 a level of almost 630,000 MW. Increasedavailability of plants because of the greater use of efficientstorage technology will also increase the amount ofelectricity generated from a given installed capacity.
+The result if that by 2040 more than 5% of the world’s
+electricity demand could be satisfied by solar thermal power.
+SOLAR THERMAL POWER PLANTS 5
+KEY RESULTS FROM GREENPEACE-ESTIA SCENARIO 2002 TO 2020
+Capacity of Solar Thermal Power in 2020 21,540 MW
+Electricity Production in 2020 54,600,000 MWh (54.6 TWh)
+Cumulative Investment US$ 41.8 billion
+Employment Generated 200,000 jobs
+Carbon Emissions Avoided 2002 – 2020 154 million tonnes CO2
+Annual Carbon Emissions Avoided in 2020 32.7 million tonnes CO2
+Projection 2021 to 2040 
+Capacity of Solar Thermal Power in 2040 630,000 MW
+Electricity Production in 2040 1573 TWh
+Percentage of Global Demand 5%
+
+SOLAR THERMAL POWER PLANTS 61. Power from the Sun 
+Solar thermal power is a relatively new
+technology which has already shownenormous promise. With few environmentalimpacts and a massive resource, it offers anopportunity to the sunniest countries of theworld comparable to that which offshore windfarms are currently offering to European andother nations with the windiest shorelines.SOLAR THERMAL POWER
+– THE BASICSPatent for first parabolic trough collector in 1907 to 
+Dr. W. Maier of Aalen and A. Remshardt Stuttgart.
+These early designs formed the basis for R&D
+developments in the late 1970s and early 1980s, whensolar thermal projects were undertaken in a number ofindustrialised countries, including the UnitedStates, Russia, Japan, Spain and Italy (seeTable 1). Many of these plants, covering the
+whole spectrum of available technology,failed to reach the expectedperformance levels, andsubsequent R& D has continued to concentrate on technologyimprovement andincreasing the size of unit.
+
+
+Solar thermal power uses direct sunlight, so it must be sited in
+regions with high direct solar radiation. Suitable sites should
+offer at least 2,000 kilowatt hours (kWh) of electricity per m2of
+sunlight annually, whilst the best sites offer more than2,500kWh/m
+2. Typical locations, where the climate and
+vegetation do not offer high levels of atmospheric humidity,include steppes, bush, savannah’s, semi-deserts and truedeserts, ideally located within ±40 degrees of latitude. Amongthe most promising areas of the world are therefore the South-Western United States, Central and South America,Africa, the Middle East, the Mediterranean countries ofEurope, Iran, Pakistan and the desert regions of India, 
+the former Soviet Union, China and Australia. 
+In many regions of the world, one square kilometre of land is
+enough to generate as much as 100-200 Gigawatt hours(GWh) of solar electricity per year using solar thermaltechnology. This is equivalent to the annual production of a50 MW conventional coal or gas-fired power plant. Over thetotal life cycle of a solar thermal power system, its outputwould be equivalent to the energy contained in 16 millionbarrels of oil. Worldwide, the exploitation of less than 1% of the total solar thermal potential would be enough 
+to meet the recommendations of the United Nations’Intergovernmental Panel on Climate Change (IPCC) for the long-term stabilisation of the climate. 
+This large solar power potential will only be used to a limited
+extent, however, if it is restricted by regional demand and bylocal technological and financial resources. If solar electricity isexported to regions with a high demand for power but fewindigenous solar resources, considerably more of the potentialin the sunbelt countries could be harvested for the protectionof the global climate. Countries such as Germany are alreadyseriously considering the import of solar electricity from NorthAfrica and Southern Europe as a way of contributing to thelong-term sustainable development of their power sector.However, priority should still be given to supply for legitimateindigenous demand.
+2. Turning Solar Heat into Electricity
+Producing electricity from the energy in the sun’s rays is a
+relatively straightforward process. Direct solar radiation can be
+concentrated and collected by a range of Concentrating SolarPower (CSP) technologies to provide medium to hightemperature heat. This heat is then used to operate aconventional power cycle, for example through a steam or gasturbine or a Stirling engine. Solar heat collected during the daycan also be stored in liquid, solid or phase changing medialike molten salts, ceramics, concrete, or in the future, phasechanging salt mixtures. At night, it can be extracted from thestorage medium to run power generation plant.Solar thermal power plants can be designed for solar-onlygeneration, ideally to satisfy day-time peak load demand, butwith future storage systems operation can be extended untilbase load coverage. During the technology’s market
+development phase, hybrid plant concepts which back up thesolar output by fossil firing are likely to be the favoured option.This would involve, for example, Integrated Solar-CombinedCycle (ISCC) plants for mid-load or base-load operation.
+Combined generation of heat and power by CSP has
+particularly promising potential, as the high value solarenergy input is used to the best possible efficiency,exceeding 85%. Process heat from combined generationcan be used for industrial applications, district cooling orsea water desalination. 
+Current CSP technologies include parabolic trough power
+plants, solar power towers and parabolic dish engines (seePart Two). Parabolic trough plants with an installed capacity of354 MW have been in commercial operation for many years,whilst solar towers and dish engines have been testedsuccessfully in a series of demonstration projects.
+3. Why Concentrate Solar Power?
+Concentrating solar power to generate bulk electricity is one
+of the best suited technologies to help mitigate climatechange in an affordable way, as well as reducing theconsumption of fossil fuels.
+Environmental Sustainability
+Life cycle assessment of the emissions produced, together
+with the land surface impacts of CSP systems, shows thatthey are ideally suited to the task of reducing greenhousegases and other pollutants, and without creating otherenvironmental risks or contamination. Each square metre ofCSP solar field surface, for example, is enough to avoid theannual emisson of 200 kilograms (kg) of carbon dioxide. Theenergy payback time of concentrating solar power systems isin the order of just five months. This compares very favourablywith their lifespan of approximately 25 to 30 years. Most of theCSP solar field materials e.g. steel and glass can be recycledand used again for further plants.
+Economic Sustainability
+The cost of solar thermal power is falling. Experience from
+the Solar Electric Generating Systems (SEGS) in California(see Part Two) shows that impressive cost reductions havealready been achieved, with generation costs ranging todaybetween 10 and 13 US cents/kWh. However, most of thelearning curve is still to come. 
+SOLAR THERMAL POWER PLANTS 7
+
+Advanced technologies, mass production, economies of scale
+and improved operation will together enable a reduction in thecost of solar electricity to a level competitive with other powersources within the next 10 to 15 years. This will reducedependency on fossil fuels and avoid the risk of futureelectricity cost escalation. Hybrid solar-fossil fuel plants,making use of special finance schemes at favourable sites,can already deliver competitively priced electricity.
+Competition with the economics of solar thermal power plants
+comes mainly from conventional grid-connected fossil fuel-firedpower plants, particularly the modern natural gas-fired combinedcycle plants in mid-load or base-load operation mode. Insmall-scale off-grid generation systems, such as islands ordeveloping countries, the competition comes from gas oil orheavy fuel oil- powered diesel engine generators. However, a
+mixture of factors, including reform of the electricity sector, therising demand for ‘green power’, the possibility of gaining carboncredits from pollution-free generation and direct supportschemes for renewable energy in some countries, are allincreasing the viability of such projects.4. A Brief History
+Efforts to design devices for supplying renewable energy
+through use of the sun’s rays began some 100 years beforethe oil price crisis of the 1970s triggered the moderndevelopment of renewables. Experiments started in the 1860s,with Auguste Mouchout’s first solar-powered motor producingsteam in a glass-enclosed iron cauldron, then continued in theearly 1900s with Aubrey Eneas’ first commercial solar motors.In 1907 a patent was granted to Dr. Maier from Aalen and Mr.Remshardt from Stuttgart for a device to directly use solarirradiation for steam generation. This was based on the solarparabolic trough technology. In 1912 Frank Shuman used thistechnology to build a 45kW sun-tracking parabolic troughplant in Meadi, Egypt. 
+These early designs formed the basis for R&D developments
+in the late 1970s and early 1980s, when solar thermalprojects were undertaken in a number of industrialisedcountries, including the United States, Russia, Japan, Spainand Italy (see Table 1). Many of these plants, covering thewhole spectrum of available technology, failed to reach theexpected performance levels, and subsequent R& D hascontinued to concentrate on technology improvement andincreasing the size of units.
+A major breakthrough came in the early 1980s when the
+American-Israeli company Luz International commercialisedthe technology by building a series of nine Solar ElectricGenerating Stations in the Californian Mojave desert. TheSEGS plants range from 14 up to 80 MWe in capacity andaccumulates 354 MW capacity for the Southern Californian grid. 
+SOLAR THERMAL POWER PLANTS 8Table 1: Early Solar Thermal Power Plants
+Name Location Size Type, Heat Transfer Fluid Start–up Funding
+(MWe) & Storage Medium Date
+Aurelios Adrano, Sicily 1 Tower, Water-Steam 1981 European Community
+SSPS/ CRS Almeria, Spain 0.5 Tower, Sodium 1981 8 European countries & USASSPS/ DCS Almeria, Spain 0.5 Trough, Oil 1981 8 European countries & USASunshine Nio, Japan 1 Tower, Water-Steam 1981 JapanSolar One California, USA 10 Tower, Water-Steam 1982 US Dept. of Energy & utilities Themis Targasonne, France 2.5 Tower, Molten Salt 1982 FranceCESA-1 Almeria, Spain 1 Tower, Water-Steam 1983 SpainMSEE Albuquerque, USA 0.75 Tower, Molten Salt 1984 US Dept. of Energy & utilitiesSEGS-1 California, USA 14 Trough, Oil, Oil Storage 1984 Luz (private company)Vanguard 1 USA 0.025 Dish, Hydrogen 1984 Advanco Corp.
+MDA USA 0.025 Dish, Hydrogen 1984 McDonnell-DouglasC3C-5 Crimea, Russia 5 Tower, Water-Steam 1985 Russia
+
+1. Technology Overview
+Solar thermal power plants produce electricity
+in much the same way as conventional powerstations. The difference is that they obtaintheir energy input by concentrating solarradiation and converting it to high temperaturesteam or gas to drive a turbine or engine. Fourmain elements are required: a concentrator, areceiver, some form of heat transport media 
+or storage, and power conversion. Many different types of systems are possible,including combinations with other renewableand non-renewable technologies, but the three most promising solar thermaltechnologies are:SOLAR THERMAL POWER: 
+TECHNOLOGY, COSTS AND BENEFITS
+SOLAR THERMAL POWER PLANTS 9Arial View of five 30MW SEGS plants in Kramer Junction,
+California
+
+Figure 1: Parabolic Trough
+Parabolic trough-shaped mirror reflectors are used to
+concentrate sunlight on to thermally efficient receiver tubesplaced in the trough focal line. In these tubes a thermal transferfluid is circulated, such as synthetic thermal oil. Heated toapproximately 400°C by the concentrated sun’s rays, this oil isthen pumped through a series of heat exchangers to producesuperheated steam. The steam is converted to electrical energyin a conventional steam turbine generator, which can either bepart of a conventional steam cycle or integrated into a combinedsteam and gas turbine cycle.
+Figure 2: Central Receiver/Solar Tower
+A circular array of heliostats (large individually-tracking mirrors)
+is used to concentrate sunlight on to a central receivermounted at the top of a tower. A heat transfer medium in thiscentral receiver absorbs the highly concentrated radiationreflected by the heliostats and converts it into thermal energy
+to be used for the subsequent generation of superheatedsteam for turbine operation. Heat transfer media so fardemonstrated include water/steam, molten salts, liquidsodium and air. If a gas or even air is pressurised in thereceiver, it can be used alternatively to drive a gas turbine
+(instead of producing steam for a steam turbine).
+Figure 3: Parabolic Dish
+A parabolic dish-shaped reflector is used to concentrate
+sunlight on to a receiver located at the focal point of the dish.This absorbs energy reflected by the concentrators, enablingfluid in the receiver to be heated to approximately 750°C. Thisis then used to generate electricity in a small engine, forinstance Stirling engine or a micro turbine, attached to the receiver.
+Each technology has its own characteristics, advantages and
+disadvantages, some of which are shown in Table 2.
+SOLAR THERMAL POWER PLANTS 10Reflector
+Solar field pipingAbsorber tube
+HeliostatsCentral receiver
+Receiver/Engine
+Reflector
+
+2. Parabolic Trough Systems
+Technology Developments
+Parabolic trough systems represent the most mature solar
+thermal power technology, with 354 MW connected to theSouthern California grid since the 1980s and over 2 millionsquare meters of parabolic trough collectors operating with along term availability of over 99%. Supplying an annual 800million kWh at a generation cost of about 10 to 12 UScents/kWh, these plants have demonstrated a maximumsummer peak efficiency of 21% in terms of conversion ofdirect solar radiation into grid electricity (see box “TheCalifornia SEGS Power Plants” on page 14). 
+But although successful, they by no means represent the end
+of the learning curve. Advanced structural design will improveoptical accuracy and at the same time reduce weight andcosts. By increasing the length of the collector units, endlosses can be further reduced and savings in drive systemsand connection piping achieved. Next generation receivertubes will also further reduce thermal losses and at the sametime increase reliability. Improvements to the heat transfermedium will increase operating temperature and performance.Low cost thermal bulk storage will increase annual operatinghours and thereby reduce generation costs. Most importantfor further significant cost reductions, however, is automatedmass production in order to steadily increase marketimplementation. New structural collector designs are currently being developed in Europe and the US, whilst work
+on improved receiver tubes is under way in Israel, Germanyand the US.
+What promises to be the next generation of parabolic
+collector technology has been developed at the PlataformaSolar in Spain since 1998 by a European consortium. Known as EuroTrough, this aims to achieve betterperformance and lower costs by using the same well tried key components – parabolic mirrors and absorbertubes – as in the commercially mature Californian plants,but significantly enhancing the optical accuracy by acompletely new design of the trough structure. With fundingfrom the European Union, a 100m and a 150m prototype of the EuroTrough were successfully commissioned in 2000 and 2002 respectively at the Plataforma SolarResearch Centre. 
+SOLAR THERMAL POWER PLANTS 11Table 2: Comparison of Solar Thermal Power Technologies
+Applications
+Advantages
+DisadvantagesParabolic Trough
+Grid-connected plants, 
+process heat (Highest solar unit size built todate: 80 MWe)
+• Commercially available – over 
+10 billion kWh operationalexperience; operatingtemperature potential up to500°C (400°C commerciallyproven) 
+• Commercially proven annual
+performance of 14% solar to netelectrical output
+• Commercially proven investment
+and operating costs
+• Modularity• Best land use• Lowest materials demand• Hybrid concept proven • Storage capability
+• The use of oil based heat
+transfer media restrictsoperating temperatures to400°C, resulting in moderatesteam qualities 
+• Land availability, water demandCentral Receiver
+Grid-connected plants, high
+temperature process heat(Highest solar unit size built todate: 10 MWe)
+• Good mid-term prospects for
+high conversion efficiencies,with solar collection; operatingtemperature potential up to1000°C (565°C proven at 10MW scale)
+• Storage at high temperatures
+Hybrid operation possible
+• Projected annual performance
+values, investment andoperating costs still need to beproved in commercial operationParabolic Dish
+Stand-alone applications or small
+off-grid power systems (Highest solar unit size built todate: 25 kWe)
+• Very high conversion efficiencies
+– peak solar to electricconversion of about 30% 
+• Modularity • Hybrid operation possible• Operational experience of first
+prototypes
+• Reliability needs to be improved
+• Projected cost goals of mass
+production still need to beachieved
+
+Figure 5: Daily summer output pattern at the SEGS VI plant in Kramer Junction, CaliforniaFigure 4: Electricity generation at Californian plants using parabolic trough collectors, 1985 to 2001 
+SOLAR THERMAL POWER PLANTS 12016000
+140001200010000
+8000
+6000
+4000
+2000
+1985 1986 1987 1988 1989 1990 1991 1992 1993 1994 1995 1996 1997 1998 1999 2000 20011,600,000
+1,400,000
+1,200,000
+1,000,000
+800,000
+600,000
+400,000200,000
+0
+YearElectricity production [GWh]
+Electricity revenues [Million USD]
+02004006008001,000
+05.00 07.00 09.00 11.00 13.00 15.00 17.00 19.00 21.00020406080100Direct solar radiation [W/m?]
+Efficiency [%]
+Figure 6: Operating principles and daily
+tracking of a parabolic trough collector  
+Heat collecting
+elementDirect normal  radiation
+Drive motorParabolic mirrorSunpathfromeasttowestAnnual electricity 
+production [GWh]
+Accumulated electricity 
+production [gwh]
+Accumulated sales [MUSD]
+Direct solar radiation
+Solar field efficiencySolar to electric efficiency
+
+An extended 4,360m2loop of advanced EuroTrough collectors
+with both 100m and 150m units is now fully commerciallyoperational, as part of the the so-called PARASOL project, atthe SEGS V plant in Kramer Junction, California in April 2003.Developed by Solar Millenium AG, Germany this has receivedfinancial support from the German Ministry for Environment.Other new designs for parabolic troughs are underdevelopment in the US and in Belgium. 
+While the commercial plants in California use a synthetic oil as
+the heat transfer fluid, because of its low operating pressureand storability, R&D efforts are under way at the PlataformaSolar – through the DISS (Direct Solar Steam) and INDITEPprojects sponsored by the European Commission – to achievedirect steam generation within absorber tubes and to eliminatethe need for an intermediate heat transfer. This increasesefficiency and could reduce costs by as much as 30%. In thefirst DISS pilot plant, direct solar steam has been generated at100bar and 375°C. Following this success, the current R&Deffort from the INDITEP project is focused on increasing thesteam temperature beyond 400°C. The issue of a feasiblephase change storage medium for direct steam systems willbe the future focus of R&D activities.Another potential technology under investigation is a parabolic
+line focusing concept with segmented mirrors, employing theFresnel principle (see below). Although this will reduceefficiency, the developers expect a considerable potential forcost reduction, since the closer arrangement of the mirrorsrequires less land and provides a partially shaded, useful
+space underneath.
+An alternative to mechanical trackers is being developed in
+Australia, known as Yeoman’s Floating Solar Concentrators.These are designed as a low-tech, low-cost solution and use5m
+2concrete flotation modules and strips of low-iron glass
+mirrors set in the top surface in a Fresnel structured parabolictrough. To protect them from impact damage a simple high-flowirrigation pump can flood the top surface of the modules inminutes, sinking them in half a metre of water. Steam can beproduced at high temperatures and pressures at 60% effici ency.
+Final efficiency will depend on turbine operation and otherfactors. Full scale ponds are planned to be 110 meters indiameter and contain 340 individual modules. They wouldhave an estimated peak output of 1.5 MW, and an estimatedcapital cost of AU$ 1 million/MW.
+SOLAR THERMAL POWER PLANTS 13Figure 7: Side view of a EuroTrough ET150 collector unit (150m length)
+12m Solar Collector  
+Element (SCE)Regular pylon Parabolic
+reflector panelsCentral drive pylon Absorber tubes (HCE)
+Fresnel Principle Solar Collectors 
+A Linear Fresnel Reflector (LFR) array is a line focus system similar to parabolic troughs in which solar radiation is concentr ated
+on an elevated inverted linear absorber using an array of nearly flat reflectors. With the advantages of low structural supportcosts, fixed fluid joints, a receiver separated from the reflector system, and long focal lengths allowing the use of conventio nal
+glass, LFR collectors have attracted increasing attention. The technology is seen to be a lower cost alternative to troughtechnology for the production of solar steam for power generation.
+An LFR can be designed to have similar thermal performance to that of a parabolic trough per aperture area, but recent designs
+tend to use less expensive reflector materials and absorber components which reduce optical performance. However, this lowerperformance is outweighed by lower investment and operation and maintenance costs. Fresnel collectors also have otheradvantages, such as allowing use of the land below the mirror fields for other economic purposes, such as horticulture.
+In 1999 the Belgian Company Solarmundo erected the largest prototype of a Fresnel collector, with a collector width of 24 m
+and a reflector area of 2500 m
+2. The next step should be a pilot plant to demonstrate the technology in a large scale system
+under commercial operational conditions. Most convenient and cost-effective would be a plug-in solution of a Fresnel collector
+connected to an existing power plant. The Australian company Solar Heat and Power is planning a 24,000 m2pilot CLFR array
+for attachment to a coal-fired station in late 2003.
+
+The California SEGS Power Plants 
+Constructed over the period 1984-91, and ranging in size from 14 MWe up to 80 MWe, the nine separate parabolic trough
+systems in the Californian Mojave desert (with a total capacity of 354 MWe) are known collectively as the Solar ElectricityGenerating Systems (SEGS). For power generation they use a highly efficient steam turbine fed with steam from the solar field.The gas-fired back-up burners are used to maintain the temperature of the heat transfer fluid in hours of insufficient sunshine .
+However, the power purchase conditions restrict gas use to an annual maximum of 25% of the total heat input. With more thantwo million square meters of glass mirrors the plants have generated over 10 billion kWh of solar electricity since 1985. 
+The five 30HWe raised to build these plants came from private risk capital and, with increasing confidence in the maturity of t he
+technology, from institutional investors. Although backed originally by tax incentives and attractive power purchase contracts,these have since been withdrawn, whilst a fall in fuel prices in the late 1980s led to a 40% reduction in electricity sales rev enue.
+Nonetheless, significant cost reductions were achieved over the construction period through increased size, performance andefficiency. All nine SEGS plants are still in profitable commercial operation.
+The 30 MWe SEGS plants at Kramer Junction, with an annual insolation of over 2,700 kWh/m2, have generating costs of 15 US
+cents/kWh during high-priced daytime slots (mainly for peak load air conditioning), including an allowance to generate up to25% of the annual output by supplementary natural gas firing. The equivalent pure solar costs would be 20 US cents/ kWh. The80 MWe SEGS plants at Harper Lake, with the same annual insolation, have generating costs of 12 US cents/kWh. Theequivalent pure solar costs would be 16 US cents/ kWh).
+In terms of efficiency, the SEGS plants have achieved daily solar-to-electric efficiencies close to 20%, and peak efficiencies up
+to 21.5%. The annual plant availability has exceeded 98% and the collector field availability more than 99%. The five plants atKramer Junction have achieved a 30% reduction in operation and maintenance costs between 1995 and 2000. 
+The improvements gained in the performance of the Kramer Junction SEGS plants have been the result of successful
+adaptations to the design of the solar collectors, absorber tubes and system integration by a number of companies. Ongoingdevelopment work continues in Europe and the US to further reduce costs in a number of areas, including improvements in thecollector field, receiver tubes, mirrors and thermal storage. To date, as a result of the regulatory framework prevailing in
+California during implementation of the SEGS plants (seebelow), all existing commercial parabolic trough plants use asteam cycle, with a back-up natural gas-fired capability tosupplement the solar output during periods of low radiation,up to an annual maximum of 25% of primary thermal heatinput. From SEGS-II onwards, however, the SEGS plants canbe operated in solar only mode. Parabolic trough plants canbe built in unit sizes up to 200 MW.
+Current Projects
+Due to its commercial maturity, parabolic trough technology is
+the preferred choice of industrial bidders and investors inproposed utility scale projects in Europe and the South-westernUnited States (although only pure solar operation is eligibleunder the renewable electricity incentive programmes ofSpain, Greece and Italy), while in the proposed IntegratedSolar Combined Cycle Systems being sponsored by theGlobal Environment Facility in India, Mexico, Morocco andEgypt. The following utility scale parabolic trough projects arecurrently being planned:
+Spain
+Following introduction of a solar thermal incentive premium of
+12€cents/kWh in Spain in September 2002, Solar MillenniumAG completed land acquisition and planning for the first two 50
+MW AndaSol plants in Andalusia. With 510,120 m2of solar field
+and 6 hours of storage capacity, each plant will feed an annual157 GWh of solar electricity into the Spanish grid and have anannual efficiency of 14.7%. The EPC-specification documentsfor the power block have been prepared by Fichtner SolarGmbH. Detailed engineering and permitting documents arebeing prepared by the German company Flagsol GmbH. TheAndaSol-1 project has been granted 
+€5 million financial support
+from the 5th Framework Programme of the European Union. Atthe same time, the Spanish EHN group and Duke Solar (nowSolargenix Energy) are pursuing a 15 MW parabolic troughproject in the region of Navarra.
+Egypt
+The Egyptian New and Renewable Energy Agency published a
+Request for Pre-qualification Statements in March 2000 for a120 – 140 MW Integrated Solar Combined Cycle System to bebuilt near Kuraymat, 100km south of Cairo, in which the choiceof solar technology was left to the bidders. Eighteen of the 20responding consortia offered parabolic trough technology. 
+In August 2003 the NREA changed the approach toimplementation by an EPC cum O&M consortium andassigned Fichtner Solar GmbH with the preparation of theconceptual design and the request for Proposal (RfP).
+SOLAR THERMAL POWER PLANTS 14
+
+Mexico
+Mexico’s Comisión Federal de Electricidad issued a Request
+for Proposals in March 2002 for a 198 – 242 MW gas-firedcombined cycle plant with an optional integrated parabolictrough solar field of at least 25 MW electrical output underdesign conditions. The additional solar costs will be coveredby a grant from the Global Environment Facility.
+India
+Rajasthan Renewable Energy Corporation published a
+Request for Proposals in June 2002 for a combined cyclesystem of about 140 MW incorporating a parabolic troughsolar thermal field with a collection area of 220,000 m
+2to
+support a 35 to 40 MWe solar thermal plant. The additionalsolar costs will be covered by soft loans from the German KfWbank and grants from India, Rajasthan and the GlobalEnvironment Facility. Fichtner Solar GmbH has prepared theinitial feasibility study, the conceptual design as well as theRequest for Proposal for an EPC cum O&M contract. 
+The collector size should be changed to: 220 000 m
+2.
+Morocco
+A grant of US$ 50 million from the Global Environment Facility
+has been offered to Morocco for a 230 MW ISCC project with30-50 MW equivalent solar capacity. Fichtner Solar GmbH isnow preparing for the national electricity utility ONE theRequest for Proposals, with the choice of technology beingleft to the bidding investors. 
+Iran
+The government of Iran is interested in the implementation of
+a 200,000-400,000 m2parabolic trough field in a 300 MW
+natural gas-fired combined cycle plant in the Luth desert inthe area of Yazd. A detailed feasibility study had beenprepared jointly by Fichtner Solar GmbH and Flagsol (formallyPilkington Solar International GmbH).
+Israel
+The Israeli Ministry of National Infrastructure, which is also
+responsible for the energy sector, decided in November 2001
+to introduce concentrating solar power as a strategicingredient in the Israel electricity market from 2005, with aninitial parabolic trough plant of 100 MWe. The Israeli companySolel is currently preparing the engineering side of this project.Italy
+In 2001, the Italian parliament allocated €110 million for a CSP
+development and demonstration programme. Since then, severalparabolic trough plants have started development.
+United States
+Sierra Pacific Resources announced in January 2003 that its
+two Nevada-based utility subsidiaries had signed long-termcontracts with Solargenix Energy (formerly Duke Solar Energy)to supply 50 MW of electricity generated by solar power usingparabolic troughs from a plant to be located in EldoradoValley, near Boulder City, Nevada.
+Algeria
+This is the most recent country to have announced interest in
+implementing an Integrated Solar Combined Cycle Systemwith parabolic trough technology.
+Australia
+A 35 MWe CLFR-based array will be used for pre-heating
+steam at the large coal-fired 2,000 MW Liddell power station in Hunter Valley, New South Wales. Rather than being a coal replacement technology, this system increases theelectrical output for a given coal input. The use of existinginfrastructure reduces costs compared to a stand-alone plant.Promoters Solar Heat and Power expect construction to start during 2003.
+Cost Trends 
+The installed capital costs of the Californian SEGS 
+Rankine-cycle trough systems with on-peak power operationfell from US$ 4,000/kWe to under US$ 3,000/kWe between1984 and 1991, mainly due to the increase in size from 30 to80 MWe units and series experience.
+The investment cost of parabolic trough fields has dropped to 
+€210/m2for enhanced collectors like the SKALET Euro Trough
+design with large solar fields and to €130-110/m2for high
+production runs in the long term. A 15% reduction inUS/European price levels can be expected in developingcountries due to lower labour costs.
+SOLAR THERMAL POWER PLANTS 15Solar Costs 
+“For the current state of technology and at very good sites a solar kWh can be generated for about 15 US cents/kWh. This
+generation cost will be reduced when more projects will be implemented. The CSP industry anticipates reducing solar powergeneration costs by 20%, once 400 MWe of new solar capacity has been implemented. Upon reaching 5,000 MWe of new solarcapacity, solar electricity generation cost will be fully competitive with fossil-based grid-connected power generation costs.”
+Declaration of Berlin, June 2002
+
+According to a World Bank assessment of the US/European
+solar thermal power plant market (“Cost Reduction Study forSolar Thermal Power Plants”, Final Report, May 1999), theinstalled capital costs of near-term trough plants are expectedto be in the range of 
+€3,500-2,440/kWe for 30-200 MWe
+Rankine-cycle (SEGS type) plants and about €1,080/kWe for
+130 MWe hybrid ISCC plants with 30 MWe equivalent solarcapacity. The projected total plant electricity costs range from10 to 7 
+€cents/kWh for SEGS type plants and less than 7
+€cents/kWh for ISCC plants.
+The expected further fall in the installed capital costs of 
+grid-connected ISCC trough plants should result in electricitycosts of 6 
+€cents/kWh in the medium term and 5 €cents/kWh
+in the long term. The promising long term potential is that Rankine-cycle trough plants can compete with conventionalpeaking Rankine-cycle plants (coal or oil-fired) at good solarsites. The cost reduction potential of direct steam generationtrough technology is even greater in the longer term. InAustralia, the CLFR total plant electricity costs have beenestimated to be about AU$ 0.045/kWh when used inconjunction with coal fired plant, and AU$ 0.07/kWh to AU$ 0.09/kWh as a stand-alone solar thermal plant. 
+Table 3 shows how substantial cost reductions could be
+achieved over the next five to ten years, especially forplants with the largest solar fields. Similarly, the analysisshows that projects could be built cheaper outside thedeveloped world. In a pre-feasibility study for a plant inBrazil, for example, it was estimated that the constructioncost of a 100 MW Rankine-cycle plant would be US$2,660/kW, 19% lower than in the US, with savings in labour,materials and to some extent equipment. A number ofcompanies interested in building GEF projects haveindicated that using local labour and manufacturingcapabilities in India, Egypt, Morocco and Mexico will be 
+key to their bidding at a low cost.
+A US initiative called the Parabolic Trough Technology
+Roadmap, developed jointly by industry and the USDepartment of Energy’s SunLab, identified a number ofpotential improvements. The initiative suggests that furthercost reductions and performance increases of up to 50% arefeasible for parabolic trough technology.
+3. Central Receiver/Solar Tower Systems
+Technology Developments
+Concentrating sunlight by up to 600 times, solar tower
+technology has the potential advantage of delivering hightemperature solar heat in utility scale quantities attemperatures from 500°C for steam cycles and beyond1,000°C for gas turbines and combined cycles power plants. 
+The technical feasibility of central receiver technology was
+first proved during the 1980s by the operation of sixresearch power plants ranging from 1 to 5 MWe capacity,
+and by one demonstration plant with a water/steam receiver,connected to the Southern California grid. Their total netelectrical capacity was 21.5 MWe, with an installed heliostatmirror area of about 160,000 m
+2. Commercial solar tower
+operation has still to be demonstrated, however. After anintermediate scaling up to 30 MW systems, solar towerdevelopers now feel confident that grid-connected towerpower plants can be built up to a capacity of 200 MWesolar-only units. Conceptual designs of units with more than100 MWe have also been drawn up for ISCC plants. 
+For gas turbine operation, the air to be heated must first pass
+through a pressurised solar receiver with a solar window.Combined cycle power plants using this method will require
+SOLAR THERMAL POWER PLANTS 16Table 3: Cost Reductions in Parabolic Trough Solar Thermal Power Plants
+Near-Term Near-Term Near-Term Mid-Term Long-Term Long-Term
+(Next Plant (Next Plant (Next Plant (~ 5 Years) (~ 10 Years) (~ 10 Years)
+Power Cycle Rankine Rankine ISCC Rankine Rankine Rankine
+Solar Field (,000 m2) 193 1210 183 1151 1046 1939
+Storage (hours) 0 0 0 0 0 9-12Solar Capacity (MW) 30 200 30 200 200 200Total Capacity (MW) 30 200 130 200 200 200
+Solar Capacity Factor 25% 25% 25% 25% 25% 50%Annual Solar Efficiency 12.5% 13.3% 13.7% 14.0% 16.2% 16.6%Capital Cost ($/kW) US Plant 3500 2400 3100 2100 1800 2500International 3000 2000 2600 1750 1600 2100O& M Cost ($/kWh) 0.023 0.011 0.011 0.009 0.007 0.005Solar LEC ($/kWh) 0.166 0.101 0.148 0.080 0.060 0.061
+
+30% less collector area than equivalent steam cycles. At
+present, a first prototype to demonstrate this concept is beingbuilt as part of the European SOLGATE project, with threereceiver units coupled to a 250kW gas turbine.
+Various central receiver heat transfer media have been
+investigated, including water/steam, liquid sodium, moltensalt and ambient air. The 10 MWe Solar One pilotdemonstration plant operated in California from 1982 to1988 with steam as the heat transfer medium. Rebuilt as the10 MWe Solar Two plant, it was successfully operated from1997 to 1999 with a molten salt-in-tube receiver system anda two-tank molten salt storage system, accumulatingseveral thousand hours of operating experience anddelivering power to the grid on a regular basis. 
+As already explained, the molten salt storage system allows
+solar energy to be collected during daylight hours anddispatched as high value electric power at night or whendemanded by the utility. In the sunbelt regions of the US aplant could therefore meet demand for the whole of thesummer peak periods (afternoon, due to air conditioners, andevening). In developing countries, this storage capability couldbe even more important, with peak times occurring only duringthe evening.
+Today, the most promising storage systems are considered
+to be the European volumetric air technology and the USmolten salt-in-tube technology. The latter is now close to
+being commercially viable, and a joint venture betweenGhersa (Spain) and Bechtel (US), with further subcontractingwork from Boeing (US), is hoping to build the firstcommercial central receiver plant with the help of EU andSpanish grants. This proposed 15 MWe Solar Tres plant inCordoba, Spain will utilise a 16 hour molten salt storagesystem to run on a 24-hour basis.
+The European system involves irradiating fine wire mesh or
+ceramic foam structures, transferring the energy byconvection at a temperature range of 700-1,200°C. Testsconducted in the joint German/Spanish Phoebus projectbetween 1993 and 1995 with a German 2.5 MWth pilot plantdemonstrated the feasibility of the volumetric air receiversystem concept with a ceramic energy storage system.Spanish and German companies are now involved incommercialising this technology through the Planta Solar(PS10) 10 MWe project near Seville.
+As with parabolic troughs, efforts are underway to develop
+commercial central receiver plants using solar/ fossil fuelhybrid systems, especially in the ISCC mode. One conceptundergoing demonstration in Israel involves a secondaryreflector on the tower top which directs solar energy to
+ground level for collection in a high temperature air receiverfor use in a gas turbine. Coupling the output of the hightemperature solar system to a gas turbine could allow aFigure 8: Parabolic Trough Power Plant with Hot and Cold Tank Thermal Storage System and Oil Steam Generator 
+SOLAR THERMAL POWER PLANTS 17Solar field
+Solar
+superheater
+SolarreheaterBoiler
+(optional)
+Fuel
+SteamGenerator
+Solar
+Preheater
+Expansion 
+Vess elDeaerator
+Low Pressure
+PreheaterCondense
+rSteam Turbine
+
+higher efficiency than current steam turbine applications, as
+well as faster start-up times, lower installation and operatingexpenses, and perhaps a smaller, more modular system.
+Since heliostats represent the largest single capital
+investment in a central receiver plant, efforts continue toimprove their design with better optical properties, lighterstructure and better control. Activities include the 150 m
+2
+heliostat developed by Advanced Thermal Systems (USA),the 170 m
+2heliostat developed by Science Applications
+International Corporation (USA), the 150 m2stretched-
+membrane ASM-150 heliostat from Steinmüller (Germany),and the 100 m
+2glass/metal GM-100 heliostat from Spain.
+Initiatives to develop low cost manufacturing techniques forearly commercial low volume builds are also underway,whilst prices for manufacture in a developing country couldbe roughly 15% below US/European levels. As with manysolar thermal components, the price should fall significantlywith economies of scale in manufacture.
+Although central receiver plants are considered to be further
+from commercialisation than parabolic trough systems, solartowers have good longer term prospects for high conversionefficiencies. Meanwhile, more scaled-up demonstrationprojects are needed. Current Projects 
+Spain
+The first two commercial solar tower plants in the 10-15 MW
+range are currently being planned within the Spanish feed-in-lawfor CSP . The Spanish Abengoa group is promoting a 10 MWsolar tower with air receiver technology, known as PS-10. With a90,000 m
+2heliostat field, the PS-10 plant will feed an annual
+19.2 GWh of solar electricity into the grid and will achieve a10.5% annual net efficiency. In spite of the high receivertemperatures, the system is handicapped by its small turbinesize. The Spanish Ghersa group, together with its US partnersBoeing and Bechtel, is planning a 15 MW molten salt systemwith 16 hours of storage based on the Californian Solar Twomodel. With its 240,000 m
+2heliostat field the Solar Tres plant will
+feed an estimated annual 80 GWh of electricity into the Spanishgrid. Both the PS-10 and Solar Tres projects have each beengranted 
+€5 million in financial support from the 5th Framework
+R&D Programme of the European Union.
+South Africa
+The South African national electricity utility ESKOM has
+taken a strategic decision to assess the feasibility of moltensalt solar tower technology within its programme on bulkrenewable electricity, considering a possible 100 MW
+demonstration plant. 
+SOLAR THERMAL POWER PLANTS 18
+
+
+Cost Trends
+Installed capital costs for central receiver pilot plants are still
+too high, and no electricity generation costs for commerciallyscaled-up plants are yet available. Central receiver plants cantake credit, however, for their potential use with hightemperature energy storage systems. This will increase plantperformance and capacity factor, although not necessarilyreduce electricity costs.
+Promoters of new near-term tower projects in Spain, such as the
+10 MW PS-10 plant with 3 hours of storage, have indicated theirinstalled plant capital costs to be roughly 
+€2,700/kWe, with
+Rankine-cycle turbines and a small energy storage system, andwith the range of predicted total plant electricity costs from 20 to14 
+€cents/kWh. The total capital cost for the 15 MW Solar Tres
+plant, with 16 hours of storage, is estimated to be €84 million,
+with annual operating costs of about €2 million.
+For installing the heliostat field, expected costs range from
+€180 to €250/m2for small production runs in the USA, and
+from €140 to €220/m2in Europe. A 15% discount on the
+US/ European price level can be projected for developingcountries due to lower labour costs. Heliostat field costs areexpected to drop below 
+€100/m2at high production runs in
+the long term.In the future, central receiver plant projects will benefit from
+similar cost reductions to those expected from parabolictrough plants. The expected evolution of total electricity costs,according to the World Bank, is that they will drop to 8 to 7
+€cents/kWh in the medium term (100 MWe Rankine-cycle
+plant or 100 MWe ISCC, both with storage) and to 5
+€cents/kWh in the long term period (200 MWe Rankine-cycle
+plant with storage) for high insolation sites with an annual DNIof more than 2,700kWh/m
+2. 
+4. Parabolic Dish Engines
+Technology Status
+Parabolic dish concentrators are comparatively small units
+with a motor-generator at the focal point of the reflector.Overall size typically ranges from 5 to 15 meters in diameterand 5 to 50kW of power output. Like all concentratingsystems, they can be additionally powered by natural gas orbiogas, providing firm capacity at any time. 
+Due to their ideal point focusing parabolic optics and their dual
+axis tracking control, dish collectors achieve the highest solarflux concentration, and therefore the highest performance of allconcentrator types. For economic reasons, systems are currentlyrestricted to unit capacities of about 25kWe, but multiple dish
+arrays can be used in order to accumulate the power output
+SOLAR THERMAL POWER PLANTS 19
+
+
+upwards to the MWe range. Because of its size, the future for
+dish technology lies primarily in decentralised power supply andremote, stand-alone power systems.
+Several small off-grid power systems with parabolic dish units
+in the range of 5 to 50kWe have proved their technicalfeasibility in experimental projects around the world since the1970s. Dish/Stirling engine systems in particular have anexcellent potential for high conversion efficiencies because ofthe high process temperatures in the engine. The recordenergy yield so far has been from a 25kWe US dish/Stirlingsystem with a solar-to-electric peas efficiency of 30%. 
+Dish/engine prototypes which have successfully operated
+over the last 10 years include 7 to 25kW units developed inthe United States by Advanco, the McDonnell DouglasCorporation, the Cummins Engine Company and others,although large scale deployment has not yet occurred. InSpain, six units with a 9 to 10kW rating are currentlyoperating successfully. These were developed by theGerman company Schlaich, Bergermann and Partners (SBP)in collaboration with Mero (suppliers of the collector system)and SOLO Kleinmotoren (Stirling engine). Three of thesedishes have been continually operated with great successsince 1992, accumulating more than 30,000 hours ofoperating experience.The new EuroDish development, supported by the European
+Union, will advance this technology further. At the same time,two industrial teams working in the United States – StirlingEnergy Systems/Boeing Company and Science ApplicationsInternational Corporation/STM Corp – have installed severalsecond generation 25kW dish/Stirling prototypes for extendedtesting and evaluation. Finally, WG Associates havedemonstrated the first unattended, remote operation of anadvanced technology 10kW dish/Stirling prototype.Turnkey dish/Stirling systems, with the option of hybrid
+operation with gas combustion, are currently underdevelopment and expected to be available soon for initialdemonstration projects.
+Current Projects
+United States
+In July 2002, the US Department of Energy’s Concentrating
+Solar Power Program issued a request for proposals for aproject to deploy 1 MW or more of dish-engine systems at asite in Southern Nevada. This field validation scheme is knownas the Nevada Solar Dish Power Project.
+Europe
+A demonstration project at the PSA in Spain involves six
+German dish/Stirling pre-commercial units with 9 to 10kWecapacity. Over 30,000 operating hours have been accumulated
+SOLAR THERMAL POWER PLANTS 20Parabolic trough field295ºc395ºc
+Steam
+540ºc, 100barStack exhaust
+100ºc
+Exhaust
+600ºc
+Gas turbine Steam
+turbine Storage
+Condenser G ~Cooling
+tower
+Electricity 
+to the gridAir AirAir and vapou rSolar HX HRSG
+G ~Figure 9: Integrated Solar/Combined Cycle System (ISCC) 
+
+by the earliest system. Promising advanced heat pipe
+receivers and Stirling engines are currently under development
+with the aim of reducing costs.
+Australia
+The first 400 m2pilot “big dish” project with a capacity of up
+to 150kWth has been undergoing testing at the AustralianNational University since 1994. An alternative to the small unitphilosophy, this is designed for power generation using a50kWe steam engine generator or for co-generationapplications with solar steam production. 
+Cost Trends 
+The cost trend for dish collectors has already shown a sharp
+reduction, from €1,250/m2 in 1982 (40 m2array, Shenandoah,
+USA) to €150/m2 in 1992 (44 m2array, German SBP
+stretched-membrane dish).
+Overall installed plant capital costs for a first stand-alone 9 to
+10kWe dish/Stirling unit currently range from €10,000 to
+€14,000/kWe. If a production run of 100 units per year was
+achieved, this could fall to €7,100/kWe. In terms of electricity
+costs, an attainable near-term goal is a figure of less than 15
+€cents/kWh. In the medium to long term, with series
+production, dish/Stirling systems are expected to seedrastically decreasing installed system costs. The goal of the European EuroDish project is for a reduction
+from 
+€7,100/kWe, at a production rate of 100 units per year,
+to €3,700/kWe (1,000 units/year) to €2,400/kWe (3,000
+units/year) and eventually to €1,600/kWe (10,000 units/ year).
+Prices are unlikely to fall below that level due to the inherentlyhighly modular technology. Medium to long-term installed dishcollector costs are predicted to be in the range of 
+€125 to
+€105/m2for high production rates. Advanced dish/Stirling
+systems are expected to compete in the medium to long termwith similar sized diesel generator units at sunny remote sitessuch as islands.
+A 1999 US study on the utility market potential for dish
+systems concluded that costs will need to fall to between US$2,000 and US$ 1,200/kWe in order to achieve any significantmarket uptake. For initial market sectors, such as distributedgeneration, reliability and O&M costs will be crucial factors.Parabolic dish system commercialisation may well be helpedby hybrid operation, although this presents a greater challengewith Stirling engines. Gas turbine based systems may presenta more efficient alternative.
+5. Future Trends and Costs
+Two broad pathways have opened up for large scale delivery
+of electricity using solar thermal power. One is to combine thesolar collection and heat transfer process with a conventional
+SOLAR THERMAL POWER PLANTS 21Figure 10: AndaSol Configuration diagramatic scheme of the solar field, storage system and steam cycle at the 
+AndaSol-1 project, southern Spain
+Solar field 2-Tank salt
+storage
+Solar
+superheater
+Steam 
+generator
+Solar 
+preheater
+Solar
+reheater
+Expansion
+vesselLow pressure
+preheaterCondense rSteam turbine
+Hot
+salt
+tank
+Cold
+salt
+tankDeaerator510,000 m2
+50 MWe
+
+power plant. The most favoured current combination is the
+Integrated Solar Combined Cycle System (ISCC). 
+Essentially, the ISCC system uses the CSP element as a solar
+boiler to supplement the waste heat from a gas turbine inorder to augment power generation in the steam Rankinebottoming cycle (see Figure 9). Although yet to be built,studies have shown that efficiency would be improved andoperating costs reduced, cutting the overall cost of solarthermal power by as much as 22% compared with aconventional SEGS plant (25% fossil) of similar size.
+These systems could still have an equivalent solar capacity of
+30 to 40 MWe, and promise to be extremely attractive as away of introducing the technology to the market. They wouldalso have the advantage of allowing mid-load to base-loadoperation, as opposed to the peak load use which is theprimary market of the SEGS plants. 
+Increasing attention is being paid, however, to entirely solar-
+based systems. This is reflected, for instance, in the incentiveprogrammes currently available in both Spain and Nevada,USA, for which only 100% solar operation is eligible, whilst theUN and the World Bank-backed Global Environment Facility,an important source of funding, is focussing on supportinghybrid ISCC systems.
+The market for 100% solar only operation will broaden still
+further with the use of thermal storage as a way of storing thesun’s heat until required for power generation. A recent study,part of the USA Trough Initiative, evaluated several thermalstorage concepts, with the preferred design using molten saltsas the storage medium, as already chosen for the Solar Twopilot plant in California. Such a storage system will also beimplemented in the first 50 MW AndaSol plant now beingplanned in southern Spain. 
+Solar energy collected by the solar field during the day will be
+stored in the storage system and then dispatched after sunset.To charge the storage system, the salt is heated up to approx.
+384°C, to discharge the system, it is cooled down again toabout 291°C. At both temperatures the salt is in a liquid state.Cold and hot salt are stored in separate tanks, giving thesystem its “two-tank” label. A thermal storage system withseparate cold and hot tanks has the advantage that chargingand discharging occur at constant temperatures.
+Figure 10 shows a process flow diagram of the AndaSol-1
+plant, with a two-tank molten salt storage system. In thisconfiguration, hot thermal fluid from the solar field is divertedto a heat exchanger, where its thermal energy passes to thesalt flow arriving from the cold tank. This heats up andaccumulates in the hot tank. During the night or at times ofreduced radiation, the charging process is reversed, and salt
+from the hot tank is pumped to the heat exchanger, where thesalt returns its thermal energy to the cold thermal fluid. The
+thermal fluid heats up to keep producing steam for the turbine,while the cooled salt accumulates again in the cold tank. 
+In terms of costs, commercial experience so far has been
+exclusively from parabolic trough systems, such as theCalifornian SEGS. For current trough systems with 100% solaroperation, costs are in the range of 12-15 US cents/kWh. Thiscould fall to about 8.5 US cents/kWh after 2006 for projects insouthern Europe or the Sahara Desert.
+6. Environmental Benefits
+Solar thermal power involves none of the polluting emissions
+or environmental safety concerns associated withconventional generation technologies. There is no pollution inthe form of exhaust fumes or noise during operation.Decommissioning a system is unproblematic. 
+Most importantly, in terms of the wider environment, there are
+no emissions during the operation of a solar thermal plant ofcarbon dioxide – the main gas responsible for global climatechange (see panel “Climate Change and Fuel Choices”).Although indirect emissions of CO
+2occur at other stages of
+the life-cycle (construction and decommissioning), these aresignificantly lower than the avoided emissions.
+Solar power can therefore make a substantial contribution
+towards international commitments to reduce the steadyincrease in the level of greenhouse gases and theircontribution to climate change (see panel “The ClimateChange Imperative”). 
+SOLAR THERMAL POWER PLANTS 22
+
+SOLAR THERMAL POWER PLANTS 23Climate Change and Fuel Choices
+Carbon dioxide is responsible for more than 50% of the man-made greenhouse effect, making it the most important contributor
+to climate change. It is produced mainly by the burning of fossil fuels. Natural gas is the least dirty of the fossil fuels bec ause it
+produces roughly half the quantity of carbon dioxide as coal, and less of other polluting gases. Nuclear power produces verylittle CO
+2, but has other major pollution problems associated with its operation and waste products. 
+The consequences of climate change already apparent today include:
+• The proportion of CO2in the atmosphere has risen by about 30% since industrialisation began.
+• The number of natural disasters has trebled since the 1960s. The resulting economic damage has increased by a factor of 8.5.• The seven warmest years over the last 130 were recorded during the past 11 years.• The mass of inland glaciers has been halved since industrialisation began.•Rainfall and temperate in northern latitudes has increased by 5% since 1950. Average wind speed has also increased
+significantly.
+• Sea level has risen by 10-20 centimetres in the last 100 years, 9-12 cm of this in the last fifty.
+Because of the time lapse between emissions and their effects, the full consequences of developing climate change have still to
+emerge over the coming decades, bringing increased danger to the stability of the world’s ecosystems, economy and lifestyle.
+To effectively stem the greenhouse effect, emissions of CO
+2must therefore be greatly reduced. Scientists believe that only a
+quarter of the fossil fuel reserves which can be developed commercially today ought to be allowed to be burned if ecosystemsare not to go beyond the point at which they are able to adapt.
+The Climate Change Imperative
+The growing threat of global climate change resulting from the build-up of greenhouse gases in the earth’s atmosphere has
+forced national and international bodies into action. Starting with the agreement of the UN Framework Convention on ClimateChange at the Rio Earth Summit in 1992 a series of targets has been set for reducing greenhouse gas emissions and hasprompted national and regional measures for increasing the take-up of renewable energy, including solar power.
+• The 1997 
+Kyoto Protocol , brokered by the United Nations, committed the world’s developed countries to reduce their
+emissions of greenhouse gases by an average of 5% from their 1990 level. Most of the industrialised nations have taken upthis challenge.
+• The 
+European Union has set a target to double the proportion of energy in the 15 member states provided from renewable
+sources. The aim is for 12% renewable energy by 2010. A specific target for solar thermal power plants is under discussion.
+
+SOLAR THERMAL POWER PLANTS 24PART 3 
+1. International Market Overview
+Despite the success of the nine SEGS
+operating in California, no new commercialplants have been built since 1991. There are anumber of reasons for this, some of which ledto the collapse of the technology pioneer andfirst commercial project developer, LUZ.International, including the steady fall inenergy prices during the 1980s and a delay inrenewal of California’s solar tax credits.THE GLOBAL SOLAR
+THERMAL MARKET
+
+Progress on developing the market has been further hampered
+by the worldwide liberalisation of the electricity sector. Thishas significantly affected the viability of large, capital intensivegenerating plants. Lack of either firm market prices or long-term power purchase agreements has increaseduncertainty and shortened the depreciation times for capitalinvestments. The result has been a shift towards low capitalcost plant like gas fired combined cycles, with quick buildtimes, installed costs falling to below $ 500/kW and generationefficiencies of over 50%. In this climate, solar thermal plantwill need to scale up to larger unit capacities in order tocompete successfully for the generation of bulk electricity. 
+Against this trend has been the growing pressure from
+international agreements, often translated into nationaltargets and support mechanisms, for the accelerateddevelopment of power systems which do not pollute theenvironment and produce little or no carbon dioxideemissions. But although ‘green power markets’ have beenadvancing in both Europe and North America, with premiumspaid by customers or state funds for electricity generatedfrom renewable sources, solar thermal has generally notbeen included in the list of qualifying technologies.
+Even so, new opportunities are opening up as a result of the
+global search for clean energy solutions. Some of the mainsponsors of energy investments in the developing world,including the UN and the World Bank’s Global EnvironmentFacility (GEF), the German Kreditanstalt für Wiederaufbau (KfW)and the European Investment Bank (EIB), have recently beenconvinced of the environmental promise and economicprospects for solar thermal. Funding has also been madeavailable for demonstration and commercialisation projectsthrough the European Union’s 5th Framework Programme, withparticular interest in the sunbelt northern Mediterranean region.Projects are already planned in Spain, Italy and Greece. Other national initiatives will significantly advance solar
+thermal development. Spain, for example, as part of its CO
+2
+emissions limitation target, intends to install 200 MWe ofcapacity by 2010. Supported by the Spanish national pricingmechanism (see below), this could generate an annual powerproduction of 628 GWh. Similarly, the Italian government’sENEA energy/environment agency has produced a strategicplan for mass development of solar energy. This recommendsbringing thermal-electric solar technology to the market withinthree years. Commercial ventures would be encouragedthrough financial incentives to show the advantages of largescale schemes and reduce costs to competitive levels. 
+Bulk power transmission from high insolation sites (up to
+2,750kWh/m
+2) in southern Mediterranean countries, including
+Algeria, Libya, Egypt, Morocco and Tunisia, may also offeropportunities for European utilities to finance solar plants forelectricity consumption in Europe. 
+In the United States, the Solar Energy Industry Association
+(SEIA) and the Department of Energy have helped create SolarEnterprise Zones in sunbelt states. These zones are aimed atassisting private companies to develop large scale solarelectric projects of 1,000 MWe over a seven year period.Projects in Nevada (50 MW) and Arizona (10-30 MWe) are inthe planning stage and will benefit both from RenewablePortfolio Standards, which require a certain percentage ofelectricity supply to come from renewable sources, and greenpricing. Interest from the Australian government has resultedin Renewable Energy Showcase Grants being provided for twoprojects being integrated with existing coal-fired plants.
+SOLAR THERMAL POWER PLANTS 25How Spain Supports Solar Thermal Power
+Law 54/1997, which introduced competition into the Spanish electricity sector, also made this principle compatible with the
+achievement of other objectives such as improving energy efficiency, reducing consumption and protecting the environment, allvital to meet Spanish commitments to reduce greenhouse gases. The Spanish Royal Decree 2818 of 1998 followed this byestablishing a special legal framework which allowed for favourable treatment towards energy systems which contributed mostefficiently to those objectives. This decree established specific premiums for the electricity generated from different renewab le
+sources, all of them (with the exception of solar PV) of up to 90% of the average electricity price. 
+In 2000 a further national law allowed for an incentive premium payment to exceed 90% of the average electricity price to be
+paid for the output from solar thermal installations. The premium for solar thermal plants is currently set at 12 
+€cents/kWh. This
+and parallel incentives for other renewable energy sources have been established in order to enable them to contribute to a
+target for a minimum of 12% of Spanish energy demand to be supplied by renewables in the year 2010. 
+In the “Plan for Promotion of Renewable Energies in Spain”, approved by the Council of Ministers in December 1999, the
+installation of 200 MW of solar thermal plants is planned by 2010. 
+
+Table 4: Solar Thermal Projects in Development 
+SOLAR THERMAL POWER PLANTS 26Name/ Location Total Capacity Solar Capacity Cycle Companies/ Funding
+(MWe) (MWe)
+Parabolic Troughs
+Algeria 140 35 ISCC New Energy Algeria
+Stanwell Power Station, 1440 35 Compact Linear Austa Energy & Stanwell
+Queensland, Australia Fresnel Corp + Australian
+Reflector government grant
+Kuraymat, Egypt 127 29 ISCC Open for IPP bids
+GEF grant
+THESEUS – Crete, Greece 50 50 Steam cycle Solar Millennium 
+Fichtner Solar, 
+OADYK, EU FP5 grant
+Mathania, India 140 35 ISCC Open for IPP bids 
+GEF grant, KfW loan
+Israel 100 100 Steam Cycle with hybrid Israeli Ministry of National
+fossil firing Infrastructure Solel
+Italy 40 40 Steam Cycle ENEABaja California Norte, Mexico 300 29 ISCC Open for IPP bids
+GEF grant
+Ain Beni Mathar, Morocco 230 26 ISCC Open for IPP bids
+GEF grant
+ANDASOL1 and ANDASOL-
+2 – Granada Province, Spain 2x50 2x50 Steam Cycle with 6h storage Solar Millennium Group
+for solar only operation Spanish premium
+EU FP5 grant
+Navarra, Spain 15 15 SEGS EHN and Duke Solar
+Spanish premium
+Navarra Government’s 
+fiscal allowances
+Nevada, USA 50 50 SEGS Solargenix (formerly 
+Duke Solar) Solar Port
+ofolio – Nevada
+Central Receivers
+Planta Solar (PS-10), 10 10 Volumetric air receiver/ Abengoa (Spain) group
+Seville, Spain small energy storage EU/ Spanish premium
+grants/ subsidy
+Solar Tres, Cordoba, Spain 15 15 Molten-salt/ direct-steam Ghersa (Spain) and Bechtel/
+with 12-16h storage Boeing (US) EU/ 
+solar only Spanish premium grant/ subsidy
+Parabolic Dishes
+SunCal 2000, Huntingdon 0.4 0.4 8-dish/ Stirling system Stirling Energy Systems
+Beach, California, USA
+
+In other countries with a large solar thermal potential,
+especially in the Middle East, Southern Africa and SouthAmerica, interest is being shown by both governments andnational utilities. The attraction comes both from theavailability of post-Kyoto clean energy funding and, forcountries with oil-based electricity production, the desire toexploit indigenous renewable resources. Apart from the fourcountries which have received GEF grants (see Table 5), anumber of technology assessments and feasibility studieshave been carried out in Brazil, South Africa, Namibia, Jordan,Malta and Iran. Many of these countries are currentlyundergoing electricity sector reform, in the processencouraging independent power producers, seen as the mostappropriate vehicle for solar thermal projects. 
+These factors have led to recent but significant interest in
+constructing plants in the sunbelt regions from private sectorturnkey suppliers. In addition, interest rates and capital costshave drastically fallen worldwide, increasing the viability ofcapital intensive renewable projects. 
+Overall, it is clear that parabolic trough plants are the most
+economic and most mature solar thermal technology availabletoday, although there are still significant areas for improvementand cost cutting. Central receivers, with low cost and efficientthermal storage, promise to offer dispatchable, high capacityfactor solar-only plants in the near future, and are very close tocommercialisation. Whilst the modular nature of parabolic dishsystems will allow them to be used in smaller high value andoff-grid remote applications for deployment in the medium tolong term, further development and field testing is still needed, but with significant potential for cost cutting throughmass production.
+Upscaling of the size of projects will also produce economies
+of scale. Studies have shown that doubling the size of a plantreduces the capital cost by approximately 12-14%, both
+through increased manufacturing volume and reduced O& Mcosts. A number of projects are now in various stages ofdevelopment (see Table 4) which, if successful, will givevaluable learning experience and a clear indication of thepotential for cost reduction in the next generation.2. Market Breakthrough: The Race 
+to be First
+India
+After many years of planning, a 140 MW ISCC plant using
+parabolic trough collectors is now scheduled to be constructedat Mathania village near Jodhpur in Rajasthan, north-west India.Funding has come from a mixture of development agency (GEFand KfW) and state finance. Unlike other GEF supportedprojects, which are IPPs, the plant is being commissioned by the Rajasthan State Power Corporation.
+The technical feasibility of a 35 MW demonstration project
+was first established in the early 1990s by Germanengineering consultants Fichtner, with assistance from theKfW. Following a full feasibility study completed in 1995 byEngineers India Ltd, EIL and Fichtner came up with theoption of integrating the solar thermal unit with a fossil fuelbased combined cycle power plant with a total capacity of140 MW. The cost was estimated at US$ 200 million. 
+Eventually, an agreement was reached between the World
+Bank/GEF and the German KfW development bank to co-fundthe project. The GEF commitment is US$ 49 million, KfW’s aUS$ 150 million loan, whilst the Indian government willcontribute about $10 million. 
+Morocco
+This project has been developing rapidly following a four year
+pre-feasibility study by Pilkington Solar International. Fundedby the EU, this provided an economic analysis of 11 designsat different sites. 
+The eventual design involves the construction and operation
+of a solar/fossil fuel hybrid station of around 230 MW, with thesite expected to be Ain Beni Mathar, in the north-easternJerada province. A parabolic trough collector field will beintegrated with a natural gas-fired combined cycle plant, andsited close to the new gas pipeline from Algeria to Spain. 
+The Moroccan state utility Office National de l’Electricite has
+assigned Fichtner Solar to conduct the bidding, andnegotiations of the power purchase, fuel supply andimplementation agreements with the selected IndependentPower Producer (IPP). The IPP will be secured through either aBuild Own Operate Transfer (BOOT) or Build Own Operate(BOO) contract, with the final design and choice of technologyleft relatively open. For a BOOT contract, takeover costs forthe whole power plant are required, for a BOO contract a fixedtariff is needed for a number of years. The exact configurationand size will be chosen by the project sponsors aftercompetitive bidding. This should help to ensure that theresulting design is more likely to be replicated by the private
+sector in the future.
+SOLAR THERMAL POWER PLANTS 27
+
+Table 5: GEF Supported Solar Thermal Power Projects
+SOLAR THERMAL POWER PLANTS 28Location Expected Size Project Type Cost (US$) Status – Anticipated
+Technology Aug 2003 date of 
+commissioning
+Mathania, India Natural gas- 140 MW Greenfield: EPC Total 200 million: GEF grant 2006
+fired ISCC with Solar component: cum O&M 49.75 m (GEF); approved,
+Parabolic Trough 35 MW, (5 yrs) 125 m loan (KfW); RFP published
+solar field Solar field: 26 m June 2002
+220 000 m2 (Indian and 
+Rajasthan
+government)
+Ain Beni Mathar, Natural gas-fired 180 MW. Solar Merchant IPP: Total 220 million: GEF grant 2006
+Morocco ISCC;Technology component: BOO/ BOOT 43.9 m (GEF); approved,
+choice left to 35 MW Balance from RFP under
+bidder private IPP preparation
+Kuraymat, Natural gas- 120-140 MW. Solar Merchant IPP: Total 228 million GEF grant 2006
+Egypt fired ISCC; component: 29 BOO/ BOOT 41 m (GEF); approved
+Technology MW balance from 
+choice left private
+to bidder IPP; risk 
+guarantee -IRBD
+Baja California Natural gas- 300 MW. Solar Merchant IPP: Total 178 million: GEF grant 2006
+Norte, Mexico fired ISCC with component: 29 BOO 50 approved; RFP 
+Trough solar MW m (GEF); balance published March
+field from private IPP 2002
+The power output from the solar-based component of this
+project will be monitored by expert consultants throughoutthe project life.
+Egypt 
+The Egyptian government has endorsed the National
+Renewable Energy Authority’s long-term solar thermalprogramme, with planning underway for two subsequent300 MW hybrid solar/fossil plants following from an initial137 MW plant (see Table 5). These are expected to be online in 2007 and 2009. Key to the success of these projectsso far has been the firm commitment of NREA and thesupport of the Egyptian Electrical Authority (EEA) andMinistry of Energy. NREA has successfully conducted aseries of studies investigating the national solar thermalpotential, technology capacity and industrial resources, andtheir implications for the national energy plan, as well as thesupport of international development agencies. In August2003 the NREA changed the approach for the KuraymatSolar Hybrid Power Plant to implementation by an EPC cumO&M consortium and has assigned Fichtner Solar GmbHwith the preparation of the conceptual design and theRequest for Proposal (RfP).Mexico
+A solar thermal project is being considered as part of an
+expansion plan proposed by the national Comisión Federalde Electricidad. This would involve construction of up to 500MW of hybrid solar/combined cycle gas turbines spreadacross two sites, either Laguna or Hermosillio during 2004,followed by Cerro Prieto in 2005. 
+Spencer Management Associates, working on behalf of the
+World Bank and CFE, have since conducted a study on the
+economic viability and technical feasibility of integrating a solarparabolic trough with a Combined Cycle Plant at the CerroPrieto, Baja California Norte site owned by CFE. This hasresulted in approval of GEF part funding for the scheme. The
+project has been delayed, however, both by restructuring of thepower sector in Mexico and changes in the national government,putting political support for the project at risk.
+In March 2002, however, CFE issued a Request for Proposals (RFP)
+for a 198 – 242 MW gas-fired combined cycle with an optionalintegrated parabolic trough solar field of at least 25 MW electricaloutput under design conditions. The additional solar costs arecovered by a grant from the Global Environment Facility.
+
+One advantage of this project is that Mexico has a well
+developed industrial base and skilled labour force with thepotential to manufacture domestically most of the plant’sequipment and components. This would lower the total costand possibly develop an industry supplying solar thermalcomponents for other plants around the world. Mexicancompanies have already been manufacturing paraboliccollectors for US installations and have demonstrated theirability to meet international quality standards.
+Spain
+In September 2002, Spain was the first European country to
+introduce a “feed-in tariff” funding system for solar thermalpower. This means that the generation output from solarthermal plants is guaranteed a premium payment of 12 
+€
+cents/kWh on top of the electricity pool price which oscillated
+between 2-8 cents per kilowatt hour. The official target is toconnect 200 MW of solar thermal power to the grid by 2010. 
+On this basis, several solar thermal project developments have
+been proposed in Spain, the most prominent being:
+• 10 MWe solar-only power tower plant project 
+Planta Solar
+(PS-10) at Sanlúcar near Sevilla promoted by Solucar S.A.,
+part of the Abengoa Group. The PS-10 project has receiveda 
+€5 million grant from the 5th Framework Programme of
+the European Union. All permits had been received by late2002 and negotiations started with the financing banks.
+• 15 MWe solar-only power tower plant 
+Solar Tres project in
+the province of Cordoba promoted by the Spanish companyGhersa and Bechtel/Boeing employing US molten-salttechnologies for receiver and energy storage. Together withGhersa, Nexant and Boeing have formed a company calledSolar Tres to finance and build a fully commercial 15 MWesolar power tower plant that can deliver this power aroundthe clock. The Solar Tres project has received a 
+€5 million
+grant from the EU’s 5th Framework Programme.
+• 15 MWe solar trough power plant EuroSEGS at Montes de
+Cierzo near Pamplona promoted by the Spanish EHN groupin cooperation with SOLARGENIX (former Duke solar), USA. 
+• Two 50 MWe solar trough power plants, 
+AndaSol-1 and 2 ,
+are being promoted by the Millennium Solar AG group andits industrial partners in the region of Andalucia with a510,120 m
+2SKALET solar collector field and six hours
+thermal storage. The AndaSol-1 project has received a €5
+million grant from the EU’s 5th Framework Programme andfinancial support from the German Ministry forEnvironment. All permitting documents had beensubmitted by the end of 2002.
+Table 6 shows the Spanish government’s plans (by region)
+for solar thermal power development, together with currentplans from private companies. The third column shows avery conservative Greenpeace scenario where all proposedprivate projects succeed (and thus surpass the officialtargets for those regions) and the remaining regionalgovernments stick to their respective targets; a new target is added for the Balearic Islands. This Greenpeacescenario can be met, provided there is political will both to support private initiatives and to meet public targets.In fact, Greenpeace considers that a more ambitious target of 1,000 MW by 2010 is feasible and necessary, and thus the modest existing target should be raised, leading to a new more active policy of legislative, economic and fiscal measures in support of solar thermal power.Table 6: Solar Thermal Power Targets in Spain by Region
+SOLAR THERMAL POWER PLANTS 29Solar Thermal power targets in Spain by Regions
+Regions Government’s Existing plans Greenpeace
+Plan by 2010 from companies scenario by 2010
+(MW) (MW) (MW)
+Andalusia 50 125 125
+Balearic Islands 0 - 10Canary Islands 25 - 25Castilla-La Mancha 50 - 50Extremadura 25 - 25Madrid 25 - 25Murcia 25 - 25Navarra 0 15 15
+Total 200 140 300
+
+Iran 
+With a rapidly expanding population, an urgent need to increase
+the production of electricity, and concern about the build-up ofgreenhouse gases in the atmosphere, the Islamic Republic ofIran has shown a growing interest in renewable energytechnology, including solar power. Keen to exploit its abundantsolar resource, specifically by means of CSP technology, thegovernment also wants to diversify its power production awayfrom the country’s oil and natural gas reserves.
+In 1997, the Iranian Power Development Company contracted
+the Electric Power Research Centre (now the NIROO ResearchInstitute), Pilkington Solar International (now Flagsol) andFichtner (now Fichtner Solar) to execute a comprehensivefeasibility study on an Integrated Solar Combined Cycle withtrough technology. The best regions for installing solar thermalpower plants in Iran are Esfahan, Fars, Kerman and Yazd, butYazd was eventually selected for implementing the first plant.
+The entire high plateau of the Yazd region is characterised byan annual direct normal radiation of 2,511kWh/m
+2.
+The government of Iran is now discussing potential funding
+with the Global Environment Facility.
+Israel
+The Israeli Ministry of National Infrastructure, which is also
+responsible for the energy sector, decided in 2001 to make
+CSP technology a strategic element in the Israel electricitymarket in the period up to 2005, with an initial aim for a unit of100 MWe. There is an option to increase the CSP contributionup to 500 MWe at a later stage, after the successful operationof the first unit.
+The investment cost of the first unit is expected to be US$ 200
+million, with an estimated production cost of 9 ¢/kWh for theelectricity output, and an expected reduction to 7 ¢/kWh whenthe 500 MWe unit is completed. Construction and operation ofthe first unit will create around 1,000 jobs during the constructionperiod and 120 permanent jobs in operation and maintenance. The Ministry of National Infrastructure has now designated ateam to locate a suitable site, with the likely location in theYamin Plain near Arad in the south of the country. The
+technology will probably be parabolic troughs, although a finaldecision may depend on the company which builds the plant.
+Construction of a 100 MWe solar power plant at a cost of US$
+250 million was officially agreed by the Israel ElectricCompany (IEC) in February 2002, with the option to increasethe capacity up to 500 MWe. The IEC approved establishmentof the plant on the condition that the Israel Electric Authoritytakes account of the higher cost of the electricity through itsnational tariff policy. This will mean a slight increase in theprice of electricity to the public.Jordan 
+Jordan has a long-standing interest in large-scale solar
+thermal power generation. Nearly ten years ago a European-based industrial consortium known as Phoebusproposed the construction of a 30 MW volumetric-type solarpower tower. The consortium carried out site and feasibilitystudies, collected weather data and identified financing.Further project development, however, was delayed by the onset of the Gulf war. In 1997 a START (Solar ThermalAnalysis, Review and Training) team composed ofIEA/SolarPACES representatives from Egypt, Germany, Israel,Spain, Switzerland and the US, with guest observers from theEuropean Union, also visited Jordan, with the mission hostedby the Jordanian National Electric Power Company.
+In 2001, a request for solar plant proposals was published
+by the government. Solar Millennium AG (Germany)submitted a proposal to build a solar hybrid plant in theQuwairah area of southern Jordan (35km north of Aqaba) togenerate 100-150 MW of electricity and to be implementedon a Build, Own and Operate (BOO) basis. The solarelement will be backed up by gas or heavy fuel generation.The project will create at least 100 jobs in Quwairah, andwill be linked to the national electricity grid. The Jordangovernment now intends to conduct a detailed feasibilitystudy and seeks for financial sources.
+South Africa
+By 2007, South African power utility Eskom could be
+operating the world’s largest CSP plant. Eskom is currentlyin the final stages of a feasibility assessment of the moltensalt central receiver technology The study included thepossibility of manufacturing key components locally.Ultimately, a decision will be made on a variety of factors,including cost, and which plant can be constructed with thelargest local content. 
+United States
+Several paths towards CSP market development have gained
+momentum over the last year, all focused on projects in theUS South-west states, and encouraged by both the excellentdirect beam solar resource and growing demand for power. 
+In 2002, the US Congress asked the Department of Energy
+(DOE) to develop and scope out an initiative to fulfil the goalof having 1,000 MW of new parabolic trough, power towerand dish/engine solar capacity supplying the south-westernUnited States by 2006. The US CSP industry and SunLabcollaborated on development of this report.
+SOLAR THERMAL POWER PLANTS 30
+
+The key findings were:
+• The solar resource in the US South-west is comparable in
+scale to the hydropower resource of the North-west.
+• CSP is clean, large-scale power that could provide a very
+significant contribution to South-west US electricity needs.
+• CSP could be scaled up rapidly, although it might take 6-8
+years to achieve 1,000 MW because of initial projectdevelopment time.
+• CSP costs are not yet competitive with conventional power,
+requiring financial support for the first 1,000 MW.
+• Overall cost of a programme would be $1.8 billion,
+equivalent to $1.40/watt installed for troughs, $2.00/wattinstalled for towers and $2.60/watt installed for dishes.
+Solargenix Solar is now carrying out a planning project funded
+by the California Energy Commission, and in cooperation withCalifornian municipal utilities. This aims to develop thereference PPA terms and conditions for 1,000 MW of trough
+plants over ten years which will satisfy municipal utility goalsas well as industry needs. The project will also identify sites,transmission line issues, the resource mix for utilities and theexpected cost of electricity.
+Two other projects are meanwhile progressing in Nevada. A 50
+MW plant using parabolic trough technology is to be built inEldorado Valley by SOLARGENIX, with its output supplied toutility subsidiaries of Sierra Pacific Resources. This was madepossible by legislation requiring utilities to supply a percentageof electricity from renewable sources. Contracts are also beingfinalised for the Nevada Solar Dish Power Project, a 1 MWdemonstration plant (funded by the US Department ofEnergy’s Concentrating Solar Power Program) designed tovalidate the operation of a dish-engine system. A project for a1 MW parabolic trough using an ORC engine is also inprogress in Arizona. This is being implemented by Solargenix.
+A recent technical evaluation of US solar thermal power by
+Sargent and Lundy, commissioned by the Department ofEnergy, the most thorough technical analysis to date, shows adeclining cost curve towards 3.5-6 US cents perkWh – basedon continued technology improvements, mass productionefficiencies and larger plant sizes. Algeria
+As Algeria takes its place within the IEA/SolarPACES
+programme, the country’s emerging interest in CSPtechnology could lead to exciting developments in the future –including solar power exports to Europe. 
+The trigger which has provided the framework for new
+investment opportunities is liberalisation of the Algerian powermarket, created following a new law passed in February 2002.Two major objectives, to be achieved by 2010, are to build a
+number of power plants with a total capacity of 2,000 MW,and secondly, to construct two power export cables(Algeria-Spain and Algeria-Italy) with an export capacity of1,200 MW. Meanwhile, both the Algerian government andthe private sector are aware of Europe’s commitment torenewable energy sources, in particular the European
+Union’s aim to have 12% of renewable energy by 2010. 
+Algeria has now taken on its own domestic commitment, with
+the aim of increasing the solar percentage in its energy mix to5% by 2010. But beyond this Algeria is looking for a closepartnership with the European Union so that Algerian plantscan help deliver the green energy needed for Europe to meetits targets. To bring these plans to reality, and to enhance theparticipation of the private sector – both local and international– a new company has been created. New Energy Algeria(NEAL) brings together Sonatrach, the Algerian hydrocarbonproducer, Sonelgaz, the Algerian power producer anddistributor, and SIM, a privately owned company. 
+NEAL is to promote renewables in Algeria by helping to
+develop firstly, cost effective power plants which will enableaccess to energy for the whole population, secondly, thetechnical, economic and financial support for plantdevelopment, and thirdly, more efficient use of the country’sgas reserves. NEAL’s specific interest in solar thermal power isthe result of an analysis of national strengths, since Algeriabenefits not only from abundant solar radiation but also aready gas supply.
+NEAL’s first initiative is to build a new 140 MW ISCC power
+plant with 30 MW of solar output. With the expected politicalsupport, the aim is to have this ready for operation by 2006.But while preparing for the near-term supply of solar thermalpower, NEAL is also working closely with the Ministry ofEnergy to have a law adopted that will provide properincentives for renewable energy sources, underpinning theireconomic viability. Part of this will involve establishing a greencertificate market.
+SOLAR THERMAL POWER PLANTS 31
+
+SOLAR THERMAL POWER PLANTS 32US Policy Priorities
+Three trends are giving solar thermal power some market momentum in the US. Firstly, a deregulated power generation system
+has inspired state-mandated Renewable Energy Portfolio Standards, the right of interconnection and the sale of green power.Secondly, concerns about implementing the Clean Air Act and implementing climate change emissions reductions are drivinguse of cleaner technologies, including renewable energy. And thirdly, the private sector has been advancing solar thermaltechnologies on its own, with a bare minimum of federal support and some at a state and local government level.
+Emerging technologies need sustained orderly development, however, to attract further private capital, scale-up manufacturing
+and establish installation and service capabilities to meet expanding market demand. Six policies are required to expand themarket for solar thermal and to achieve the economies-of-scale required in manufacturing, system integration and deployment.
+1. National or Regional Solar Portfolio Standard – Establishing minimum set asides based on relative renewable energy resource
+availability, including solar thermal power alongside other clean distributed generation, is an essential tool to create marketbased mechanisms.
+2. Production and investment tax credits – With energy costs slightly higher than geothermal and wind, solar thermal power
+needs investment credits for its first two years of initial plant construction (with accelerated depreciation) and then product ion
+credits (1.8 cents per kWh) for the following eight years, with waivers for investors from the Alternative Minimum Tax (AMT).
+3. Encouragement for solar electric power can come via mandated green power purchases for federal agencies and other public
+and municipal bodies.
+4. Expanded federal support for a solar thermal power R&D program is required to support the market expansion envisaged for
+the Southwestern United States. A recent study by Sargent & Lundy concluded that further technology improvements willresult in approximately a 50% reduction in the cost of electricity from trough plants and 25% from power tower plants.
+5. Federal loan guarantees – As proposed for emerging coal and nuclear technologies, these should first be applied to CSP
+installations to “prove out” these federal tools in the cleanest, lowest emission technology available to displace higher cost,higher emissions midday peak power.
+6. Formal federal support to existing federal-to-state programs could yield a significant number of megawatts in both larger
+central CSP generating facilities and distributed CSP generation.
+There is no question that the United States has some of the world’s best high-value solar radiation, which is optimal for
+concentrated solar power. There now exists a critical mass of private companies and private investment along with a range oftechnologies that could play a meaningful role in the US and global markets. Policy trends relating to deregulation andenvironmental protection bode well for establishing a maturing industry. 
+
+Italy
+In 2001, the Italian parliament allocated €110 million for a
+CSP development and demonstration programme. Since then,several parabolic trough plant concepts have been underdevelopment.
+Brazil 
+Brazil applied in 1997 through the UNDP for a GEF-supported
+Project Development Fund to conduct a study on “Reducingthe Long-term Cost of Solar Thermal Power Generation”. Theapplication was approved by GEF in early 1998 and animplementation agreement signed with UNDP . After a period ofproject reorganisation, work was started by CEPEL inDecember 2001. The study is due to be published in 2003.
+Australia
+There are three main areas of solar thermal electricity generation
+in Australia. The most commercially advanced of these is the 35MW CLFR system to be incorporated into an existing coal-firedpower station, with construction already underway. The initialplant is being constructed by the company Solar Heat andPower for approximately US$ 500 per kWe (peak) without directsubsidy. This low cost is achieved because the project usesexisting turbines and electrical infrastructure. It has no storageand a relatively low capacity factors, but it is approximatelycompetitive with advanced wind generation. Further CLFR plantproposals using storage are now being discussed with utilitieshaving an annual output equal to 4% of the NSW electricitysupply. Including storage for a 56% capacity factor and using amoderate pressure turbine and generator, these will cost aboutUS$1400 per kWe peak according to SHP . Other analysissuggests that large systems such as CLFR plants will be morecost effective with a much more rapid uptake over the earlyyears. However, unlike trough technology, the CLFR technologywill have to be proven and thus represents a more optimisticscenario than the European Solar Thermal Power IndustryAssociation approach.
+The next most developed system is the 50kW parabolic dish
+prototype at the Australian National University, but although thedish is being refurbished, there is as yet no commercial projectannounced. A 1.5 MW version of the Yeoman?s Floating SolarConcentrator is currently being built. Research is also beingconducted into MTSA beam splitting technology that would bothpower a photovoltaic array and provide heat to operate aBrayton cycle micro-turbine, and a single tower prototype isbeing proposed by a consortium the CSIRO, the University ofSydney, and SHP Pty Ltd.
+SOLAR THERMAL POWER PLANTS 33
+
+SOLAR THERMAL POWER PLANTS 34The Greenpeace – ESTIA Scenario
+for 2020 and Projection to 2040
+This scenario was prepared by Greenpeace
+International and the European Solar ThermalPower Industry Association in order to projectwhat could be achieved given the right marketconditions. Its core assessment looks forward18 years from the base year of 2002 to theend of the second decade of the 21st century.It is not a prediction, but a scenario based onexpected advances in solar thermaltechnology coupled with the growing numberof countries which are supporting CSPprojects in order to achieve both climatechange and power demand objectives. THE FUTURE FOR SOLAR
+THERMAL POWER
+
+Over the period of the scenario, solar thermal technology will
+have emerged from a relatively marginal position in thehierarchy of renewable energy sources to achieve a substantialstatus alongside the current market leaders such as hydro andwind power. From a current level of just 354 MW, by 2015 thetotal installed capacity of solar thermal power plants will havepassed 5,000 MW. By 2020 additional capacity would berising at a level of almost 4,500 MW each year. 
+At the end of the scenario period, the total installed
+capacity around the world will have reached theimpressive figure of 21,540 MW
+. 
+The scenario also shows how much electricity would be
+produced by solar thermal power plants. This is based on theassumption that 1 MW of capacity produces 2,500 MW hoursof electricity per annum. 
+By 2020 solar thermal power will have achieved an annual
+output of more than 54,000,000 MWh, or 54 TWh.
+In terms of capital investment, it is assumed in the scenario
+that during the initial years, solar field investment costs are ata level of US$ 2,500/kW installed, slightly lower but close tothe US$ 3,000/kW level of the SEGS plants in California duringthe early 1990s. These specific investment costs then fallgradually over the timescale of the scenario, and are cut byhalf in 2020. This means that the investment volume in solarthermal power plants will rise from US$ 375 million in 2005 toalmost US$ 7.6 billion in 2020. 
+The total investment over the scenario period would
+amount to more than US$ 41.8 bn.
+A substantial level of employment would be an important
+by-product of this expansion in the solar thermal powerindustry. At the end of the scenario period, more than20,000 highly qualified jobs will have been created just inplant operation and maintenance. More than 40,000 jobs
+would be created in plant construction, and a further 40,000in plant component manufacture. 
+By 2020, about 200,000 people will be permanently
+employed in the solar thermal power industry worldwide.
+The final benefit from realisation of the Greenpeace-ESTIA
+scenario would be to the environment. 
+Over the period up to 2020 a total of 154 million tonnes of
+carbon dioxide would be saved from being emitted intothe atmosphere, making a substantial contribution tointernational climate change targets.
+The assumption here is that 1 MWh of installed solar thermal
+power capacity results in the saving of 600 kilograms ofcarbon dioxide. The total annual savings of 32.7 million tonnesCO
+2in 2020 is equivalent to 20 coal fired power plants.
+The scenario is also broken down by region of the world and
+into the main country markets. By 2020, the leading regionswill be Europe. The most promising countries according to thescenario, each with more than 1,000 MW of solar thermalprojects expected by 2020, are Spain, the United States,Mexico, Australia and South Africa.
+SOLAR THERMAL POWER PLANTS 35KEY RESULTS FROM GREENPEACE-ESTIA SCENARIO 2002-2020
+Capacity of Solar Thermal Power in 2020 21,540 MW
+Electricity Production in 2020 54.6 TWh 
+Cumulative Investment in Plant Construction 41.8 billion
+Employment Generated 200,000 jobs
+Carbon Emissions Avoided 2002 – 2020 154 million tonnes CO2
+Carbon Emissions Avoided in 2020 32.7 million tonnes CO2
+Projection 2021 to 2040 
+Capacity of Solar Thermal Power in 2040 630,000 MW
+Electricity Production in 2040 1573 TWh
+Percentage of Global Demand 5%
+
+Finally, a further projection is made for the potential
+expansion of the solar thermal power market over anothertwo decades up to 2040. This shows that by 2030 theworldwide capacity will have reached 106,000 MW, and by2040 a level of almost 630,000 MW. Increased availability ofplant because of the greater use of efficient storagetechnology will also increase the amount of electricitygenerated from a given installed capacity.
+This means that by 2040 the proportion of global
+electricity demand which could be satisfied by solarthermal power will have reached a share of 5%. This is onthe assumption that global electricity demand doubles bythat time, as projected by the International Energy Agency.Long before that point, however, solar thermal power willalready be a mature, well-established and market-orientated source of electricity supply.
+SOLAR THERMAL POWER PLANTS 36Year Total Total Total Total Total
+MW MWh tCO2investment Jobs
+2002 354 708,000 424,800 0 0
+2005 505 1,058,000 634,800 375 9,9002010 1,550 6,095,500 3,657,300 1,280 11,9292015 5,990 15,208,000 9,124,800 2,056 72,2942020 21,540 54,583,000 32,749,800 7,687 198,774
+Total 2000 to 2020 154,003,500 40,804Table 7: Solar Thermal Power – Global Projection 2002 to 2020 
+
+Table 8: Solar Thermal Power by 2020 – Key Results by Region: OECD Europe
+Table 9: Case Study: Greece 
+SOLAR THERMAL POWER PLANTS 37Year OECD-Europe MWh tCO2Market volume Jobs excl.
+MW in MUS$ Manufaction
+2002 0 0 0 0 0
+2005 100 250,000 150,000 250 1,3002010 470 1,800,000 1,080,000 310 1,9502015 1,620 4,050,000 2,430,000 426 3,2502020 3,970 9,925,000 5,955,000 775 7,150
+Total 2000 to 2020 6,834
+Year OECD-N-America MWh tCO2Market volume Jobs excl.
+MW in MUS$ Manufaction
+2002 354 708,000 424,800 0 0
+2005 405 808,000 484,800 125 5,2652010 1,350 2,258,000 1,354,800 413 2,6002015 2,400 6,483,000 3,889,800 853 6,5002020 6,400 16,983,000 10,189,800 1,409 13,000
+Total 2000 to 2020 9,646Table 10: Case Study: Spain
+Table 11: Solar Thermal Power by 2020 – Key Results by Region: OECD North AmericaYear Greece MWh tCO2Market volume Jobs excl. 
+MW in MUS$ Manufaction
+2002 0 0 0 0 0
+2005 0 0 0 0 02010 100 375,000 225,000 103 6502015 250 625,000 375,000 164 1,3002020 750 1,875,000 1,125,000 141 1,300
+Total 2000 to 2020 1,272
+Year Spain MWh tCO2Market volume Jobs excl.
+in MUS$ Manufaction
+MW 0
+2002 0 0 0 0 0
+2005 60 150,000 90,000 150 7802010 335 1,237,500 742,500 207 1,3002015 1,145 2,862,500 17,175,500 341 2,6002020 2,645 6,612,500 3,967,500 423 3,900
+Total 2000 to 2020 4,579
+
+SOLAR THERMAL POWER PLANTS 38Table 12: Case Study: USA 
+Table 13: Case Study: MexicoYear USA MWh tCO2Market volume Jobs excl.
+MW in MUS$ Manufaction
+2002 0 708,000 424,800 0 0
+2005 50 808,000 484,800 125 6502010 350 1,908,000 1,144,800 413 2,6002015 2,400 5,508,000 3,304,800 853 6,5002020 6,400 13,508,000 8,104,800 1,409 13,000
+Total 2000 to 2020 10,631
+Table 15: Case Study: AustraliaYear MEXICO MWh tCO2Market volume Jobs excl.
+MW in MUS$ Manufaction
+2002 0 0 0 0 0
+2005 0 0 0 0 02010 90 350,000 210,000 103 33,8002015 1,290 975,000 585,000 85 84,5002020 1,390 3,475,000 2,085,000 423 169,000
+Total 2000 to 2020 2,255
+Year OECD-Pacific MWh tCO2Market volume Jobs excl.
+MW in MUS$ Manufaction
+2002 0 0 0 0 0
+2005 0 0 0 0 02010 50 125,000 75,000 107 6502015 250 625,000 375,000 177 1,3002020 2,250 5,625,000 3,375,000 845 7,800
+Total 2000 to 2020 3,472Table 14: OECD-Pacific
+Year Australia MWh tCO2Market volume Jobs excl.
+MW in MUS$ Manufaction
+2002 0 0 0 0 0
+2005 0 0 0 0 02010 50 125,000 75,000 107 6502015 250 625,000 375,000 177 1,3002020 2,250 5,625,000 3,375,000 845 7,800
+Total 2000 to 2020 3,472
+
+SOLAR THERMAL POWER PLANTS 39Year OECD-Latin America MWh tCO2Market volume Jobs excl.
+MW in MUS$ Manufaction
+2002 0 0 0 0 0
+2005 0 0 0 0 02010 90 350,000 210,000 103 6502015 390 975,000 585,000 85 6502020 1,940 4,850,000 2,910,000 705 6,500
+Total 2000 to 2020 3,070Table 16: Latin America
+Table 17: Case Study: Brazil
+Table 18: Case Study: Chile 
+Table 19: Case Study: RussiaYear Brazil MWh tCO2Market volume Jobs excl.
+MW in MUS$ Manufaction
+2002 0 0 0 0 0
+2005 0 0 0 0 02010 45 175,000 105,000 52 3252015 195 487,500 292,500 43 3252020 970 2,425,000 1,455,000 352 3,250
+Total 2000 to 2020 1,535
+Year Chile MWh tCO2Market volume Jobs excl.
+MW in MUS$ Manufaction
+2002 0 0 0 0 0
+2005 0 0 0 0 02010 45 175,000 105,000 52 3252015 195 487,500 292,500 43 3252020 970 2,425,000 1,455,000 352 3,250
+Total 2000 to 2020 1,535
+Year OECD-Russia (south) MWh tCO2Market volume Jobs excl.
+MW in MUS$ Manufaction
+2002 0 0 0 0 0
+2005 0 0 0 0 02010 0 0 0 0 02015 0 0 0 0 02020 250 625,000 375,000 141 1,300
+Total 2000 to 2020 371
+
+Table 23: Middle East
+SOLAR THERMAL POWER PLANTS 40Table 20: South Asia (Pakistan and India)
+Table 21: Case Study: India 
+Table 22: Case Study: ChinaYear OECD-South Asia MWh tCO2Market volume Jobs excl.
+MW in MUS$ Manufaction
+2002 0 0 0 0 0
+2005 0 0 0 0 02010 70 300,000 180,000 103 6502015 420 1,050,000 630,000 171 1,3002020 1,670 4,175,000 2,505,000 493 4,550
+Total 2000 to 2020 2,684
+Year India MWh tCO2Market volume Jobs excl.
+MW in MUS$ Manufaction
+2002 0 0 0 0 0
+2005 0 0 0 0 02010 35 212,500 127,500 103 6502015 335 837,500 502,500 85 6502020 1,335 3,337,500 2,002,500 423 3,900
+Total 2000 to 2020 2,143
+Year OECD-China MWh tCO2Market volume Jobs excl.
+MW in MUS$ Manufaction
+2002 0 0 0 0 0
+2005 0 0 0 0 02010 50 125,000 75,000 103 6502015 100 250,000 150,000 164 1,3002020 1,100 2,750,000 1,650,000 423 3,900
+Total 2000 to 2020 1,690
+Year OECD-Middle East MWh tCO2Market volume Jobs excl.
+MW in MUS$ Manufaction
+2002 0 0 0 0 0
+2005 0 0 0 0 02010 335 837,500 502,500 215 1,3002015 405 1,012,500 607,500 62 4552020 2,455 6,137,500 3,682,500 916 8,450
+Total 2000 to 2020 3,947
+
+SOLAR THERMAL POWER PLANTS 41Table 24: Case Study: Israel 
+Year Israel MWh tCO2Market volume Jobs excl.
+MW in MUS$ Manufaction
+2002 0 0 0 0 0
+2005 0 0 0 0 02010 100 125,000 75,000 114 1952015 130 200,000 120,000 27 1952020 705 1,637,500 982,500 282 2,600
+Total 2000 to 2020 1,024
+Table 25: Africa
+Year OECD-Africa MWh tCO2Market volume Jobs excl.
+MW in MUS$ Manufaction
+2002 0 0 0 0 0
+2005 0 0 0 0 02010 185 300,000 180,000 248 4552015 405 762,500 457,500 520 4552020 1,505 3,512,500 2,107,500 1,980 3,250
+Total 2000 to 2020 2,532
+Table 26: Case Study: Morocco
+Year Morocco MWh tCO2Market volume Jobs excl.
+MW in MUS$ Manufaction
+2002 0 0 0 0 0
+2005 0 0 0 0 02010 50 125,000 75,000 107 6502015 100 250,000 150,000 89 6502020 250 625,000 375,000 146 1,300
+Total 2000 to 2020 421
+Table 27: Case Study: South Africa
+Year South Africa MWh tCO2Market volume Jobs excl.
+MW in MUS$ Manufaction
+2002 0 0 0 0 0
+2005 0 0 0 0 02010 0 0 0 0 02015 125 125,000 75,000 96 6502020 325 625,000 375,000 146 1,300
+Total 2000 to 2020 403
+
+SOLAR THERMAL POWER PLANTS 42PART 5 
+1. The Political Challenge 
+Energy is considered to be a vital ingredient
+for any economic development. The history ofindustrialisation in today’s developed nationsis also a history of massive fossil energyexploitation, with its associated benefits ofrapid availability, high energy density, and – atleast initially – low generation costs. Over thepast three decades, however, the harmfulenvironmental impact of fossil fuels on theregional and global climate has been brought
+into sharp focus.POLICY
+RECOMMENDATIONS
+
+SOLAR THERMAL POWER PLANTS 43For those nations still in development, energy is even more
+vital as they have to make up for, and keep pace with, themature energy infrastructure of the industrialised nations in anincreasingly globalised economy. Furthermore, it is widelyaccepted in the developing world that these countries shouldnot just copy the historical energy patterns of the developedworld, but should consider building up a sustainable energyinfrastructure which avoida long term detriments. 
+Although history has shown that building up such an
+infrastructure is most efficiently managed by the privatesector, governments do have a public responsibility to ensurefair market rules, level playing fields for the market participantsand, most importantly, sustainability of living conditions for thegenerations to come. Hence they face many challenges informulating current and future energy policies. They have torespond to the need for security of energy supply, economic
+growth, sustainable development, employment andtechnological development and to combat the growing effectsof climate change. Renewable energy technologies areconsidered to have a positive impact on all these parameters. 
+This study clearly demonstrates that solar thermal power
+plants, up to now not widely known as an energy technology,are one of the most promising renewable sources – capable of meeting 5% of future global electricity demand by the year2040. The developing world in particular, with its abundantand evenly distributed solar resource, can contribute in a cost-effective way to the bulk power supply of mega-cities,where decentralised or fluctuating power supply would beinadequate. This strategic power supply advantage hasalready motivated development banks, such as the WorldBank, European Investment Bank and the GermanKreditanstalt für Wiederaufbau to support the implementation of solar thermal power plants.
+Without initial political and financial support, however, solar
+thermal power remains at a competitive disadvantage, largelybecause of inadequate price information in the world’selectricity markets resulting from decades of massive financialand structural support to traditional polluting fuels and powerplant technologies. 
+Solar thermal power plants have to compete in a well
+established, very competitive energy market segment whereolder nuclear and fossil fuel power stations produce electricityat marginal cost because the interest payments anddepreciation on their investment costs have already been paidby consumers and taxpayers. Political action is thereforeneeded to overcome those distortions and create a levelplaying field in which the economic and environmentalbenefits of solar thermal power can be fully exploited.2. Successful Market Creation Policy
+Measures
+A clear, visible market for solar thermal power must be defined
+in order for a project developer to seriously consider gettinginvolved. Just as with any other investment, the lower the riskto the investor, the lower the costs can be for supplying theproduct. The most important measures for establishing newsolar power markets are therefore those where the market forsolar electricity is clearly embedded in national laws, providinga stable and long term investment environment with relativelylow investor risks and sufficient returns. 
+As already outlined, a key benefit of a growing solar thermal
+energy market is job creation. It is estimated that direct andindirect employment in the industry worldwide, not includingthe production of components and equipment, could rise toabout 100,000 jobs by 2020. In order to attract solar thermalpower plant suppliers to establish manufacturing facilities,markets need to be strong, stable and reliable, with a clearcommitment to long term expansion.
+• Legally Binding Targets for Renewable Electricity
+in the EU and US 
+In recent years an increasing number of countries have
+established targets for renewable energy as part of theirgreenhouse gas reduction policies. These are eitherexpressed as specific quantities of installed capacity or as apercentage of energy consumption.
+Renewable energy targets are most effective if they are
+based on a percentage of a nation’s total electricityconsumption. This creates an incentive to optimiserenewable technologies in the supply mix, and provides a
+guide to where immediate policy changes are required inorder to achieve the anticipated targets. But targets havelittle value if they are not accompanied by policies toachieve a level playing field in electricity markets, toeliminate market barriers and to create an economicframework environment that will attract investment. 
+The most ambitious target has been set by the European
+Union. In 2001 the European Council and the EuropeanParliament adopted a Renewable Energy Directiveestablishing national targets for each member state.Although these are not at present legally binding, theDirective aims at doubling the share of renewable energysources in the primary energy mix from 6% to 12% by 2010,equivalent to 22% of Europe’s total electricity consumption.If this non-binding approach appears not to be working,then the Directive allows the European Commission tosubmit proposals to the European Parliament and Councilfor mandatory renewable energy targets.
+
+SOLAR THERMAL POWER PLANTS 44The table below shows the national targets for supply from
+renewable energy expected in the 15 current EU member
+countries, expressed as a percentage of gross nationalelectricity consumption.
+The majority of current supply comes from large hydro
+stations, although this technology is already widely exploitedand will not represent a major new renewable source inEurope. Most of Europe’s renewable energy supply increasewill therefore come from biomass plants, wind energy parks,small hydro and solar thermal power plants.
+In the US, Renewable Portfolio Standards have been
+established to gradually increase the contribution of clean,renewable power in the supply mix of some of its federal
+states. If utility companies are failing to reach certain agreedtargets, they will be penalised through compensationpayments. This mechanism, with initial targets for 2-5% of astate’s total electricity demand by 2005 and 2010,respectively, already starting to work. As a result, Nevada and
+Arizona are both negotiating long-term power purchasecontracts for their first new solar thermal power plants. • Specific Policy Mechanisms – the Case of
+European “Feed-In Laws”
+A specific European policy mechanism which has enabled the
+achievement of renewable energy supply targets is the fixedtariff system, where a specific tariff rate or premium isallocated to particular renewable technologies. These ratesand premiums reflect the relative cost difference of thespecific renewable technology compared to the price offeredby the liberalised power market for bulk power. Utilitycompanies are obliged to buy all renewable power producedat the rates established in the specific feed-In law. Thedifferential cost of renewable power compared to the marketprice of bulk fossil or nuclear generated electricity is borne bythe electricity ratepayer. 
+The most successful feed-in law schemes have been
+established in Austria, Denmark, Germany and Spain, with themost remarkable result that about 20,000 MW of wind poweris currently on stream. Biomass and small hydro power plantsare also increasing. 
+Surprisingly, considering its cost-effectiveness amongst solar
+power technologies, solar thermal power had not beenincluded in any feed-in tariff system until Spain published its“Prima” in September 2002. Table 28: European Union Targets for Renewable Electricity in 2010
+Country RES-E in 1997 (%) RES-E 2010 Target (%)
+Belgium 1.1 6.0
+Denmark 8.7 29.0Germany 4.5 12.5Greece 8.6 20.1Spain 19.9 29.4France 15.0 21.0Ireland 3.6 13.2Italy 16.0 25.0Luxembourg 2.1 5.7Netherlands 3.5 9.0Austria 70.0 78.1Portugal 38.5 39.0Finland 24.7 31.5Sweden 49.1 60.0United Kingdom 1.7 10.0
+Community 13.9 22.1
+Source: Directive 2001/77/EC on the Promotion of Electricity Produced from Renewable Energy Sources
+
+3. Public-Private Partnerships for
+Introducing Solar Thermal Power 
+• The GEF-BMU-KfW-ESTIA/SEIA Approach
+At the International Executive Conference on Concentrating
+Solar Power, held in Berlin, Germany in 2002, the GlobalEnvironmental Facility, the German Kreditanstalt fürWiederaufbau bank, the German Federal Ministry for theEnvironment, and both the European and American SolarThermal Power Industry Associations discussed a GlobalMarket Initiative for Concentrating Solar Power and definedstrategies for its rapid and large-scale market introduction.This strategy was published as the Declaration of Berlin. 
+The participants included politicians, senior government
+executives, the financial community, donor organisations, theCSP industry, independent power project developers andpotential plant owners from 16 countries. The participatingstakeholder groups supported the launching of a CSP GlobalMarket Initiative to be further substantiated at the follow-upconference in Palm Springs, California in October 2003. 
+SOLAR THERMAL POWER PLANTS 45
+
+SOLAR THERMAL POWER PLANTS 46Solar energy is the most evenly distributed and readily available renewable energy resource on the planet. Solar thermal
+power plants, which make use of this concentrating solar power (CSP) technology have the capability to meet a significantpercentage of the future global electricity demand without technological, economic or resource limitations, specifically in sun-belt regions such as the south-west U.S., southern Europe and parts of the developing world.
+This capability and the ability of solar thermal power plants to dispatch power as needed during peak demand periods has
+motivated development banks, such as the World Bank, the European Investment Bank and the German Kreditanstalt fürWiederaufbau (KfW), as well as the Global Environmental Facility (GEF), the European Union and the U.S. Department ofEnergy, to support the implementation of this technology.
+At the First International Executive Conference on Concentrating Solar Power in June 2002 in Berlin, Germany, the GEF , the
+KfW, the German Federal Ministry for the Environment (BMU), the European Solar Thermal Power Industry Association(ESTIA) and the American Solar Energy Industries Association (SEIA) discussed a Global Market Initiative (GMI) for CSP , anddefined strategies towards the rapid and large-scale market introduction of the technology. This commitment was publishedas the Declaration of Berlin, which was registered as a UNEP Market Facilitation WSSD Type-II Partnership for ConcentratingSolar Power Technologies.
+The participating stakeholder groups of the Declaration of Berlin are now urging the implementation of this Global Market
+Initiative to accelerate the entry of CSP into the market. However, a visible, reliable and growing market for solar thermalpower with normal risk levels must be established in order for many project developers and CSP equipment suppliers tomake the needed long-term investments to achieve lower costs.
+There are three basic policy areas that will significantly impact the increased use of concentrated solar power
+I. Political and technological targets to trigger new power markets
+Establish a consistent basis of national laws and regulations, such as feed-in tariffs specifically also applicable for CSP , 
+to pave the way for reaching the anticipated renewable supply targets committed in Kyoto.
+Establish Renewable Portfolio Standards that encourage actual "portfolios" of electricity and heat generation from
+renewables, and insure that the locally available energy resources are evenly utilized and encouraged.
+Make green tariff schemes available for electricity imports from high insolation areas in neighboring states and/or
+countries.
+II. Regulatory improvements
+Avoid limitations on capacity or operating strategies that make the energy production introduction more costly thus
+hindering introduction of CSP technology. 
+Remove restrictive laws to interconnection which will allow concentrated solar plants to more easily hook into the electric
+grid at the end user (customer), distribution or transmission points.GLOBAL MARKET INITIATIVE
+TO DEVELOP AND EXPAND THE GLOBAL MARKET
+FOR CONCENTRATING SOLAR POWER (CSP)
+
+SOLAR THERMAL POWER PLANTS 47III. Improve financing mechanisms
+Ensure that the Kyoto instruments (emission trading) are made applicable to CSP and that the mechanisms are bankable.
+Institute Production Tax Credits (PTCs) as wind energy now enjoys and which catapulted the technology globally. Maintaininvestment tax credits to assist in the initial capital investments before CSP plants begin to produce power.
+Establish loan guarantee programs via existing windows at multilateral banks, existing US national lending programs such
+as SBA, RUS, FmHA, Regional Power Administrations, and global environmental programs such as GEF , UNEP , andUNDP . These programs allow private sector banking institutions to do the necessary project due diligence whileprovidingthem with some extra insurance to loan on new technology projects which are inherently more risky.
+The Global Market Initiative (GMI): 5000 MW till 2015
+Recent activities indicate that CSP technologies are at the threshold of very extensive commercial deployment. One of the
+primary market barriers is a lack of knowledge about the current technology and near-term potential of CSP by energy policymakers, regulators, general contractors and would-be owners and users. With increased awareness of the numerous benefitsof using the solar thermal energy resources around the world, it is anticipated that new CSP projects will soon come onstream. There are about 10 advanced projects underway around the world, totalling over 1000 MW of new solar capacity.
+With the understanding that these projects would come online faster and be more commercial viable if there was a forum for
+collaboration among interested countries and states, an international public-private partnership has been proposed to meetthis need. The goal of this partnership, called the CSP Global Market Initiative, is to facilitate the building of 5,000 MW ofCSP power world-wide over the next 10 years. Participation is open to governments in countries or states with adequatesolar thermal resources or that have an industrial capability in CSP , but lack the adequate solar thermal resources, and whoaccept the framework proposed below.
+Different Strategies for Different Regions
+Today's CSP technologies require a minimum direct normal solar radiation level of 1,900 kWh/m2/a. This can be found in
+many countries around the Sunbelt of the world. However, adequate solar radiation is just the beginning. Successful CSPprojects require adequate tariffs, long-term power contracts with credit worthy off-takers, access to commercial financingand where needed, subsidies and supportive policies. To take advantage of the different situations and needs of bothdeveloped and developing countries, the GMI will use three different strategies.
+(1) Region I
+In southern Europe, Israel, and the south-western US, most of the essential elements of the GMI (described below) already
+exist or could reasonably be expected. In these countries, existing CSP-specific targets or portfolio standards will createmarket-based demand and a feed-in law or system benefit charge, both of which rely on the ratepayers to cover the pricegap. In Region I, political support is primarily needed to make targets, policies and tariffs stable and predictable so thatcommercial financing can be secured. Tariffs should reflect different levels of solar radiation intensity so that each region,country or state with radiation patterns above 1,900 kWh/m
+2/a has the chance to built-up this strategic backstop technology. 
+Eventually, tariff harmonisation schemes may help to ensure that the resource is more evenly built. Capacity restrictions for
+individual projects should be removed to make best use of economies of scale to help drive prices lower. Alternatively, thedemand may be aggregated to assure that CSP plants are built in sizes of 50 MW or larger.
+
+(2) Region II
+For developing countries that are or will soon be connected to Region I countries by a power grid, such as Mexico and North
+Africa, power generated from CSP plants built in these countries may be sold to Region I countries and could receive apremium price. As a result of excellent solar radiation resources and good grid connections, the south-western US andnorthern Mexico as well as southern Europe and North Africa are two such regions. In Region II, political initiative is primari ly
+needed for formulating a fair scheme that accounts for both improved tariffs for clean energy generated in the Region IIcountries allowing a benefit from enhanced feed-in tariffs for such energy that is imported into their service territory. To av oid
+large tariff differences between cheap bulk fossil-based energy and solar power generation, access to favourable Region Itariffs should only be offered when subsidies are no longer available on fossil power production in Region II. The tariffdifference can be further reduced through a blend of CDM (i.e., carbon tax credits), and preferential financing, such astheEU´s energy sector infrastructure support MEDA Program for Region II.
+(3) Region III
+For other developing countries, not interconnected to the grid of Region I countries, such as Brazil, India, Iran, Jordan and
+South Africa, preferential financing in the form of subsidies (could be grants, soft loans, carbon credits, CDM, greenpremiums, etc.) provided by Region I sources will be required to support the Region III group of countries desire fordevelopment of clean CSP power plants. An example of such sources is the $0.5 billion dollars for renewable energy thatwas announced by German Chancellor, Mr. Gerhard Schroeder, in his UN Environmental Summit speech in Johannesburg inSeptember 2002. In the medium term, the Region III countries will profit from closing the price gap as a result of growinginstalled CSP capacity in Regions I and II. Recognising that financial resources are limited, Region II and III countries,therefore, must contribute something to help reduce the cost of the CSP plants, such as free or low cost land, infrastructureand grid access, etc.
+Organization, Structure and Management
+The Global Environment Facility (GEF) has agreed to endorse and sponsor the CSP Global Market Initiative (GMI). The GEF
+and the CSP industry will jointly form a CSP GMI Advisory/Management Board initially consisting of 2-3 highly respected andwell-known business leaders from Region I plus 1 board member representing Region II and 1 board member from Region III. 
+In order to represent the participating countries and states, an Executive Committee will be formed to support the Advisory
+Board, to provide input and to assure the effective and successful implementation of the Initiative.
+This Executive Committee will consist of senior people, representing power project development, power project finance,
+industry and government. Each participating country and state will be entitled to one Executive Committee seat. TheExecutive Committee is envisioned to include representatives from the following countries and states:
+SOLAR THERMAL POWER PLANTS 48Algeria 
+Jordan ArizonaMexicoCalifornia Morocco Egypt 
+NevadaGermany New MexicoGreece South AfricaIran 
+SpainIsrael Turkey
+Italy
+
+By 2040 the proportion
+of global electricitydemand which could besatisfied by solarthermal power will havereached a share of 5%. 
+
+Credits
+Reseacher and scenario analyst Rainer Aringhoff
+Georg Brakmann
+Editor Crispin Aubrey
+Greenpeace co-ordinator Sven Teske
+and scenario analyst
+Design bwa
+Images Unless marked photographs are provided 
+courtesy of ESTIA member compniesEuropean Solar Thermal Power Industry
+Association (ESTIA)
+192 Franklin Road
+BirminghamB30 2HEUnited Kingdom
+Greenpeace International
+176 Keizersgracht
+1016 DW AmsterdamThe Netherlands
+Tel: +31 20 523 6222
+Fax: +31 20 524 6291Email: sven.teske@greenpeace.deWebsite: www.greenpeace.org
+ISBN: 90-73361-82-6With participation of
+Solar-Paces, special thanks to Michael Geyer DLR-PSA, DLR-TT, and Fh6
+Special thanks also to Dr. Gerd Stadermann Forschungsverbund SonnenenergieDr. David Mills Principal Research Fellow,School of Physics, University of Sydney
+Jose-Luis Garcia Greenpeace Spain 
+Catherine Fitzpatrick Greenpeace Australia

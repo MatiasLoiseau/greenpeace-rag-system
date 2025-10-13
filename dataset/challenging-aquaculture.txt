@@ -1,0 +1,712 @@
+# Archivo original: challenging-aquaculture.pdf
+# Tipo: .PDF
+# Procesado el: Sat Oct 11 09:40:10 -03 2025
+
+Challengingthe
+AquacultureIndustryonSustainability
+Authors: Michelle Allsopp, Paul Johnston
+and David Santillo at Greenpeace Research
+Laboratories, University of Exeter, UK.
+greenpeace.org
+Defendingouroceans
+
+For more information contact:
+enquiries@int.greenpeace.org
+Authors: Michelle Allsopp,
+Paul Johnston and David Santilloat Greenpeace Research Laboratories,University of Exeter, UK.
+Ackowledgements:
+With special thanks for advice andediting to Nina Thuellen, EvandroOliveira, Sari Tolvanen, Bettina Saier,Giorgia Monti, Cat Dorey, Karen Sack,Lindsay Keenan, Femke Nagel, FridaBengtsson, Truls Gulowsen, RichardPage, Paloma Colmenarejo, SamuelLeiva, Sarah King and Mike Hagler.
+Printed on 100% recycled
+post-consumer waste withvegetable based inks.
+JN 106Published in January 2008
+by Greenpeace InternationalOttho Heldringstraat 51066 AZ AmsterdamThe NetherlandsTel: +31 20 7182000Fax: +31 20 5148151
+greenpeace.org
+Cover Image: Greenpeace / D Beltrá
+Designbyneo: creative
+Printer:EL TINTER, S.A.L., Barcelona – Spain
+©GREENPEACE / E DE MILDT
+
+ChallengingtheAquaculture
+IndustryonSustainability
+Part1:Introduction 4
+Part2:NegativeImpactsof
+AquacultureonPeopleand
+ontheEnvironment 7
+Part3:UseofFishmeal/FishOil/
+BycatchinAquacultureFeedsandtheirAssociatedProblems 12
+Part4:MovingTowardsMore
+SustainableFeeds 15
+Part5:MovingTowardsSustainable
+AquacultureSystems 16
+Part6:AquacultureCertiﬁcation 17
+Part7:Recommendations 18
+Footnotes 20
+
+01Introduction
+©GREENPEACE / M CARE
+imageBluefin tuna swim inside a
+transport cage.
+Greenpeace is taking action on the
+threats to the sea and calling for a
+network of large-scale marine reserves
+to protect the health and productivity of
+the Mediterranean Sea.
+4GreenpeaceInternational ChallengingtheAquacultureIndustryonSustainability
+
+GreenpeaceInternational ChallengingtheAquacultureIndustryonSustainability 5Thefarmingofaquaticplantsandanimalsisknownas
+aquacultureandhasbeenpractisedforaround4000yearsinsomeregionsoftheworld
+1.Sincethemid-1980s,however,
+productionofﬁsh,crustaceansandshellﬁshbyaquaculturehasgrownmassively(Figure1).Globally,aquaculturalproductionhasbecomethefastestgrowingfoodproductionsectorinvolvinganimalspecies.About430(97%)oftheaquaticspeciespresentlyinculturehavebeendomesticatedsincethestartofthe20thcentury
+2andthenumberofaquatic
+speciesdomesticatedisstillrisingrapidly.Itwasrecentlyestimatedthataquacultureprovides43%ofalltheﬁshconsumedbyhumanstoday
+3.The landings of ﬁsh from the world’s oceans have gradually declinedin recent years as stocks have been progressively overﬁshed
+4. At the
+same time, demand for seafood has been steadily rising and, inparallel, aquaculture production has expanded signiﬁcantly. Thisexpansion is both a response to increasing demand for seafood and,especially in the case of luxury products such as salmon and shrimp,an underlying cause of that rising demand (see ﬁgure 1).
+The animal species that tend to dominate world aquaculture are
+those at the lower end of the food chain – shellﬁsh, herbivorous ﬁsh(plant-eating) and omnivorous ﬁsh (eating both plants and animals),(see ﬁgure 2). For example, carp and shellﬁsh account for asigniﬁcant share of species cultivated for human consumption indeveloping countries
+5. However, production of species higher in the
+food chain, such as shrimp, salmon, and marine ﬁnﬁsh, is nowgrowing, in response to a ready market for these species indeveloped countries
+3,5.
+©GREENPEACE / R REEVEimageFish farm,
+Loch Harport,
+Scotland.
+WorldProduction
+(Milliontonnes) 2000 2001 2002 2003 2004 2005
+Marine Aquaculture 14.3 15.4 16.5 17.3 18.3 18.9
+Freshwater Aquaculture 21.2 22.5 23.9 25.4 27.2 28.9Table1.WorldAquacultureProductionForTheYears2000to2005
+Source:Adapted from FAO3.Figure1.GlobalFishHarvest,MarineCaptureFisheriesand
+Aquaculture,1950-2005.
+Source:FAO.Million Tonnes
+1950
+1960
+1970
+1980
+1990
+2000150200
+100
+50
+0Aquaculture
+Marine Capture
+
+6GreenpeaceInternational ChallengingtheAquacultureIndustryonSustainabilityIntroduction
+Againstacontinuingbackgroundofdiminishingandover–exploited
+marineresources,aquaculturehasbeenwidelyheldupasapanaceatotheproblemofprovidingagrowingworldpopulationwithever-increasingamountsofﬁshforconsumption.Withtheexpansionoftheindustry,however,thetendencyhasbeenformethodsofproductiontointensify,particularlyintheproductionofcarnivorousspecies.Thishasresultedinmanyseriousimpactsontheenvironmentandhumanrightsabuses.
+Thisreportexaminessomeoftheseriousenvironmentalandsocial
+impactsthathaveresultedfromthedevelopmentandpracticeofaquacultureandwhicharereﬂectedacrosstheglobalindustry.Itstartsbylookingattheproductionofsalmon,tuna,othermarineﬁnﬁsh,shrimpandtilapia.Thesecasestudiesservetoillustrateanumberoftheseenvironmentalandsocialproblems,whichtogetherunderminethesustainabilityofcontemporaryaquaculture(Section2).Negativesocialimpactshavebeenassociatedwithboththeproductionandprocessingindustriesindevelopingcountries.Abusesstemfromthedesireofproducersandprocessorstomaximiseproﬁtswithinahighlycompetitivemarket,whilemeetingthelowpricesdemandedbyconsumers(Section2).Theuseofﬁshmealandﬁshoilasfeedintheproductionofsomespeciesisakeyissue(Section3).Othernegativeenvironmentalimpactscanbeaddressedinavarietyofwaysinordertoplaceaquacultureonamoresustainablefooting(Section4and5).Section6brieﬂyexplorescertiﬁcationofaquacultureproducts.Ultimately,aquaculturemustbecomesustainable.Inordertoachievethis,theaquacultureindustrywillneedtoadoptandadheretorigorousstandards(Section7).A more extensive and fully referenced version of this report can bedownloaded at: www.greenpeace.org/aquaculture_report
+CARNIVOROUSFINFISH
+3.98milliontonnes– 7.3%
+OMNIVOROUS/SCAVENGINGCRUSTACEANS2.79milliontonnes– 5.1%
+HERBIVOROUS/OMNIVOROUS/FILTERFEEDINGFINFISH,MOLLUSCSAQUATICPLANTS47.84milliontonnes– 87.6%Figure2Globalaquacultureproductionpyramidbyfeedinghabitandnutrientsupplyin2003
+Source:FAO52CARNIVOROUS
+FINFISH
+CRUSTACEA
+OMNIVOROUS/
+HERBIVOROUSFINFISH
+16.02milliontonnes–29.2%
+FILTERFEEDINGFINFISH
+7.04milliontonnes–12.8%
+FILTERFEEDINGMOLLUSCS
+12.30milliontonnes–22.4%
+PHOTOSYNTHETICAQUATICPLANTS
+12.48milliontonnes–22.8%
+
+02NegativeImpactsofAquaculture
+onPeopleandontheEnvironment
+©GREENPEACE / C SHIRLEY
+imageGreenpeace & locals replant
+mangroves that had been cut for
+shrimp farming, Ecuador.
+GreenpeaceInternational ChallengingtheAquacultureIndustryonSustainability 7
+
+8GreenpeaceInternational ChallengingtheAquacultureIndustryonSustainabilityNegativeImpactsofAquaculture
+onPeopleandontheEnvironment
+The following case studies of negative impacts of aquaculture are far
+from exhaustive. Rather, they provide examples that illustrate the widespectrum of problems associated with aquacultural activities, andcast serious doubts on industry claims of sustainability.
+2.1SHRIMP
+DestructionofHabitat: The creation of ponds for marine shrimp
+aquaculture has led to the destruction of thousands of hectares of
+mangroves and coastal wetlands. Signiﬁcant losses of mangroveshave occurred in many countries including the Philippines
+6, Vietnam7,
+Thailand8, Bangladesh9and Ecuador10.
+Mangroves are important because they support numerous marine aswell as terrestrial species, protect coastlines from storms and areimportant in the subsistence of many coastal communities.Mangroves provide nursery grounds for various young aquaticanimals including commercially important ﬁsh, and their destructioncan lead to substantial losses for commercial ﬁsheries
+11,12.
+CollectionofWildJuvenilesasStock
+Aquaculture of some species relies on juvenile ﬁsh or shellﬁsh being
+caught from the wild to stock culture ponds. For example, eventhough hatchery-raised shrimp constitute a major supply of shrimpjuveniles (scientiﬁcally called “postlarvae”) to the aquaculture industry,shrimp farms in many parts of the world are still based on wild-caughtjuveniles. Some natural stocks of shrimp are now over-exploited as aresult of juveniles collection from the wild
+13,14. Furthermore, the
+juvenile shrimp may only represent a small fraction of each catch, witha large incidental catch (by-catch) and mortality of other speciestaking place (see text box 1). This poses serious threats to regionalbiodiversity and reduces food available to other species such asaquatic birds and reptiles.ChemicalsusedtoControlDiseases
+A wide variety of chemicals and drugs may be added to aquaculture
+cages and ponds in order to control viral, bacterial, fungal or otherpathogens
+16. There is a risk that such agents may harm aquatic life
+nearby. The use of antibiotics also brings a potential risk to publichealth as over-use of these drugs can result in the development ofantibiotic-resistance in bacteria that cause disease in humans.Studies on shrimp farms in Vietnam
+17and the Philippines18found
+bacteria had acquired resistance to the antibiotics used on the farms.
+DepletionandSalinizsationofPotableWaterandSalinisation
+ofAgriculturalLand
+Intensiveshrimpfarminginpondsrequiresconsiderable amountsof
+freshwatertomaintainpondwaterattheoptimumsalinityforshrimpgrowth.Typicallythisinvolvespumpingwaterfromnearbyriversorgroundwatersupplies,andthismaydepletelocalfreshwaterresources.Furthermore,ifaquifersarepumpedexcessively,saltwaterseepsinfromthenearbyseacausingsalinisationandmakingthewaterunﬁtforhumanconsumption
+19,20.Forexample,inSriLanka,
+74%ofcoastalpeopleinshrimpfarmingareasnolongerhavereadyaccesstodrinkingwater
+21.Shrimpfarmingcanalsocauseincreased
+soilsalinity inadjacentagriculturalareas,leadingtodeclinesincrops.Forinstance,therearenumerousreportsofcroplossesinBangladeshcausedbythesalinisation ofland,associatedwithshrimp farming
+22.
+HumanRightsAbuses
+The positioning of shrimp farms has often blocked access to coastal
+areas that were once common land in use by many people. There isoften a lack of formalised land rights and entitlements in such areasand this has led to large scale displacement of communities, oftenwithout ﬁnancial compensation or alternative land made available onwhich to live (see text box 2).
+Non-violent protests against the industry have frequently been
+countered with threats and intimidation. According to theEnvironmental Justice Foundation
+21, violence has frequently been
+meted out by security personnel and “enforcers” associated with theshrimp industry, many protesters have been arrested on false chargesand there are even reports from at least 11 countries of protestersbeing murdered (see ﬁgure 3). (In Bangladesh alone there have beenan estimated 150 murders linked to aquaculture disputes.)Perpetrators of such violence are very rarely brought to justice. •In Bangladesh, for each tiger shrimp juvenile collected there were
+12–551 shrimp larvae of other species caught and killed,together with 5–152 ﬁnﬁsh larvae and 26–1636macrozooplanktonic animals.
+• In Honduras, the reported annual collection of 3.3 billion shrimp
+juveniles resulted in the destruction of an estimated 15–20 billionfry of other species
+13.
+• In the Indian Sundarbans, tiger shrimp juveniles only account for
+0.25–0.27% of the total catch. The rest of the catch containshuge numbers of juvenile ﬁnﬁsh and shellﬁsh which are left asideon the beach ﬂats to die
+15.Box1Lossofotherspeciesduringthecollection
+ofwildshrimpjuveniles
+
+GreenpeaceInternational ChallengingtheAquacultureIndustryonSustainability 92.2SALMON
+NutrientPollutionOrganic wastes from ﬁsh or crustacean farming include uneaten food,
+body wastes and dead ﬁsh
+24. In salmon farming, these wastes enter
+the aquatic environment in the vicinity of the cages. In extreme casesthe large numbers of ﬁsh present in the cages can generate sufﬁcientwaste to cause oxygen levels in the water to fall, resulting in thesuffocation of both wild and farmed ﬁsh. More usually, the impacts ofintensive salmon culture are seen in a marked reduction in biodiversityaround the cages
+25. For example, a study in Scotland found a
+reduction in biodiversity on the seabed up to 200 metres away fromsalmon cages
+26. In Chile, biodiversity close to eight salmon farms was
+reduced by at least 50%. Wastes can also act as plant nutrients and,in areas where water circulation is restricted, these may also lead tothe rapid growth of certain species of phytoplankton (microscopicalgae) and ﬁlamentous algae
+27. Some of the algal blooms which can
+result are very harmful: they can cause the death of a range of marineanimals and also cause shellﬁsh poisoning in humans.
+©GREENPEACE / D BELTRAimageCrabs gathered
+from mangrove forest
+for sale at Gayaquil
+market, Ecuador.
+Mangrove ecology is
+endangered by cutting
+for shrimp farms.
+• Some Indonesian shrimp farms have been constructed following
+forced land seizures in which companies, supported by policeand government agencies, provided either inappropriatecompensation or none at all. Such cases have been reportedfrom Sumatra, Maluku, Papua and Sulawesi.
+• In Ecuador, reports indicate that there have been thousands of
+forced land seizures, only 2% of which have been resolved on alegal basis. Tens of thousands of hectares of ancestral land haveallegedly been seized. This has often involved use of physicalforce and the deployment of military personnel
+21.
+• Between 1992-1998 in the Gulf of Fonseca, Honduras, many
+coastal-dwelling people lost access to their traditional foodsources and access to ﬁshing sites because of encroachment onland by commercial shrimp-farming companies
+23.Box2Casestudiesoflandseizuresforshrimpfarm
+construction
+Figure3Worldmapshowing11countrieswheretherehasbeenmurderassociatedwiththeshrimpindustry
+Countries include Mexico, Guatemala, Honduras, Ecuador, Brazil, India, Bangladesh, Thailand, Vietnam, Indonesia and the Philippines.
+Source:Environmental Justice Foundation.
+
+10GreenpeaceInternational ChallengingtheAquacultureIndustryonSustainabilityNegativeImpactsofAquaculture
+onPeopleandontheEnvironment
+ThreattoWildFishfromescapedFarmedSalmon
+Farmed Atlantic salmon have a lower genetic variability than wild
+Atlantic salmon28,29. Hence, if they interbreed with wild salmon, the
+offspring may be less ﬁt than wild salmon and genetic variability that isimportant for adaptability in the wild may be lost. It was originallythought that escaped salmon would be less able to cope withconditions encountered in the wild and would be unable to survive,thereby not posing a threat to the genetic diversity of wildpopulations. In reality, the sheer numbers that have escaped (anestimated 3 million per year)
+30mean that they are now breeding with
+wild salmon in Norway, Ireland, the United Kingdom and NorthAmerica. Because they produce offspring less able to survive in thewild, this means that already vulnerable populations could be driventowards extinction. In Norway, farmed salmon have been estimated tocomprise 11–35% of the population of spawning salmon; for somepopulations this may rise to more than 80%
+28. Continuing escapes
+may mean that the original genetic proﬁle of the population will notre-assert itself
+31.
+In addition to threats to wild Atlantic salmon caused by escapees intheir native regions, farmed Atlantic salmon that have been introducedto Paciﬁc streams pose a threat to other native ﬁsh populations, suchas steelhead in North America and galaxiid ﬁshes in South America,because they compete for food and habitat
+28.
+DiseasesandParasites
+Diseases and parasites can be particularly problematic in ﬁsh farming
+where stocking densities are high. Wild populations of ﬁsh passingnear to farms may also be affected. One notable example is that ofparasitic sea lice which feed on salmon skin, mucous and blood andwhich can even cause the death of the ﬁsh. There is evidence thatwild salmon populations have been affected by lice spread from farmsin British Columbia
+32and Norway31. Recent research in British
+Columbia suggests that sea lice infestation resulting from farms willcause the local pink salmon populations to fall by 99% within theirnext four generations
+33. If outbreaks continue unchecked, extinction is
+almost certain.HumanRightsIssues
+In southern Chile the salmonfarming industry hasgrown rapidly since
+the late1980s to serveexport markets in western nations34,35. In 2005,
+nearly 40% of the world’s farmedsalmonwas suppliedfrom Chileanproducersand processors
+36.
+This burgeoning industry has an appalling safety record. Poor or non-existent safety conditions have been widely reported on Chilean farmsand in processing plants
+35,36. Over the past three years there have
+been more than 50 accidental deaths, mostly of divers. By contrast,no deaths have been reported in the Norwegian salmon industry, theworld’s largest producer of salmon
+37. Reports from Chile also tell of
+low wages (around the national poverty line), long working hours, lackof respect for maternity rights and persistent sexual harassment ofwomen
+35,36.
+2.3OTHERMARINEFINFISH
+Marine ﬁnﬁsh aquaculture is an emerging industry. Improvements in
+the technology of salmon farming together with decreasing marketprices for salmon have inspired the industry to start farming higher-value marine ﬁnﬁsh species. Species which are now being farmedinclude (1) Atlantic cod in Norway, UK, Canada and Iceland; (2)haddock in Canada, Norway and northeastern United States; (3)Paciﬁc threadﬁn in Hawaii; (4) black sableﬁsh under development inBritish Columbia and Washington State; (5) mutton snapper; (6)Atlantic halibut; (7) turbot; (8) sea bass and (9) sea bream
+5,28. Most
+species are reared in net pens or cages like salmon, although Atlantichalibut and turbot are generally farmed in tanks on land.
+It is likely that environmental problems similar to those encountered in
+salmon farming will also manifest themselves in the farming of these“new” marine species in cages. In some cases they could be worse.For example, cod produce considerably more waste than Atlanticsalmon
+28leading to potential nutrient pollution. Even if the impacts of
+this can be reduced by siting cages some distance offshore wherewater movements are more vigorous, other impacts are still likely toresult. As in the case of salmon aquaculture, these include a risk ofdisease spreading to wild populations and, if selectively bred, there isa risk of escapees competing with wild ﬁsh and interbreeding withthem, causing a reduction in genetic variability.
+2.4TUNARANCHING–WIPINGOUTBLUEFINTUNAINTHE
+MEDITERRANEANSEA
+The present level of ﬁshing effort directed at northern blueﬁn tuna in
+the Mediterranean threatens the future of this species in the regionand the future of hundreds of ﬁshermen. There are serious concernsthat commercial extinction of the species may be just around thecorner
+38.
+
+GreenpeaceInternational ChallengingtheAquacultureIndustryonSustainability 11In May 1999, Greenpeace released a report describing the depletion
+of blueﬁn tuna in the Mediterranean39. This noted that the spawning
+stock biomass (total weight) of tuna was estimated to have decreasedby 80% over the previous 20 years. In addition, huge amounts ofjuvenile tuna were being caught every season. Greenpeace reportedthat the main threat to the blueﬁn tuna at that time was Illegal,Unreported and Unregulated (IUU) ﬁshing, also called “pirate ﬁshing”.IUU ﬁshing operates outside of management and conservation rulesand, in effect, steals ﬁsh from the oceans. It has become a seriousand wide-ranging global problem, is a threat to marine biodiversityand a serious obstacle to achieving sustainable ﬁsheries
+40,41.
+Seven years on in 2006, further analysis by Greenpeace showed thatthreats to the tuna had worsened
+38. Pirate ﬁshing continued
+unabated, and was now fuelled by a new incentive of supplying tunato an increasing number of tuna ranches in Mediterranean countries.
+In tuna ranching, ﬁsh are caught alive and grown on in cages with
+artiﬁcial feeding. The fattened ﬁsh are then killed and exported, mainlyto Japan. Tuna ranching began in the late 1990s and has boomed,spreading to 11 countries by 2006 (see ﬁgure 4). Today, due to poormanagement of tuna ﬁsheries, nobody knows the exact numbers oftuna taken from the Mediterranean Sea each year. Nonetheless, it isclear that current catch levels are well above the legal quota. Forexample, it was estimated, based on 2005 ﬁgures, that over 44,000tonnes of tuna may have been caught in the Mediterranean. This was37.5% over the legally sanctioned catch limit and, disturbingly, almost70% above the scientiﬁcally recommended maximum catch level. Thetotal capacity of the tuna ranches exceeds the total allowable catchquotas which exist to supply them. This is a clear incentive for illegalﬁshing in the region. An examination of available trends in the industryclearly indicates that illegal ﬁshing for tuna is supplying ranches
+38.2.5TILAPIA
+IntroductionofAlienSpeciesWhen a species is released into an environment where is it not native,
+it may reproduce successfully but have negative consequences onnative species
+42. Tilapia species provide a striking illustration of the
+problems that such releases can cause. Three species of tilapia arethe most important in aquaculture: the Nile tilapia, the Mozambiquetilapia and the blue tilapia
+43. These freshwater ﬁsh are native to Africa
+and the Middle East but over the past 30 years their use inaquaculture has expanded and they are now farmed in about 85countries worldwide. Presently, tilapia are second only to carp as thequantitatively most important farmed ﬁsh in the world
+44. Tilapia have
+escaped from sites where they are cultured into the widerenvironment, have successfully invaded new habitats andconsequently have become a widely distributed exotic species.
+Once in a non-native environment, tilapia threaten native ﬁsh by
+feeding on their juveniles as well as on plants that are habitat refugesfor juveniles. Negative impacts of tilapia invasions into non-nativeregions have been widely reported and include:
+1the decline of an endangered ﬁsh species in Nevada and Arizona,
+2the decline of a native ﬁsh in Madagascar,
+3the decline of native cichlid species in Nicaragua and in Kenya, and
+4the breeding of escaped tilapia in Lake Chichincanab, Mexico to
+become the dominant species
+44at the cost of the native ﬁsh
+populations.
+©GREENPEACE / G NEWMANimageCaptive bluefin tuna
+inside a transport cage. The
+cage is being towed by a
+tug from fishing grounds in
+Libya to tuna farms in Sicily.
+Greenpeace is calling
+on the countries of the
+Mediterranean to protect
+bluefin tuna with marine
+reserves in their breeding
+and feeding areas.
+Source:Lovatelli, A. 2005. Summary Report on the status of BFT aquaculture in the Mediterranean. FAO Fisheries Report No 779 and ICCAT database on declared farming facilities, available online at
+www.iccat.es/ffb.aspFigure4Tunafarmingproliferation
+1985 1996 2000 2001 2002 2003 2004 2006
+Spain Spain Spain Spain Spain Spain Spain Spain
+Croatia Croatia Croatia Croatia Croatia Croatia Croatia
+Malta Malta Malta Malta Malta Malta
+Italy Italy Italy Italy Italy
+Turkey Turkey Turkey Turkey
+Cyprus Cyprus Cyprus
+Libya Libya Libya
+Greece Greece
+Lebanon Tunisia
+Morocco
+PortugalLebanon
+
+03UseofFishmeal/FishOil/Bycatch
+inAquacultureFeedsandtheirAssociatedProblems
+©GREENPEACE / G NEWMAN
+imageSalmon run at Annan Creek in
+the Tongass National Forest, Alaska.
+12GreenpeaceInternational ChallengingtheAquacultureIndustryStandardsonSustainability
+
+GreenpeaceInternational ChallengingtheAquacultureonSustainability 13Fishmeal and ﬁsh oil used in aquaculture feeds are largely derived
+from small oily ﬁsh such as anchovies, herrings and sardines (largersardines are also known as pilchards), taken in the so-called“industrial ﬁsheries”. As aquaculture methods have intensiﬁed, therehas been a growing dependence on ﬁshmeal/oil as a feed source.The farming of carnivorous species in particular is highly dependenton the use of ﬁshmeal and ﬁsh oil, in synthetic diets used to simulatenatural prey taken as food in the wild.
+FarmingCarnivores–ANetLossofProtein….
+Theaquacultureindustryhasconsistently promotedtheideathatits
+activitiesarekeytoassuring future sustainable worldﬁshsupplies andwillrelievepressuresonover-exploitedmarine resources. Infact, inthecaseofcarnivorousﬁshandshrimptheinputofwildcaught ﬁshexceedstheoutputoffarmed ﬁshbyaconsiderablemargin, sinceconversion efﬁcienciesarenothigh. Forexample,eachkilogram ofsalmon,othermarineﬁnﬁsh orshrimp produced mayuse2.5–5 kgofwildﬁshasfeed
+45.Fortunaranching,theratioofwildﬁshneededas
+feedtotheamountoftunaﬁshproduced isevenhigher –20kgﬁsh-feedto1kgfarmedﬁsh
+46.Thus,farmingofcarnivorous species results
+inanetlossratherthananetgainofﬁshprotein. Insteadofalleviatingpressure onwildﬁshstocks,therefore,aquaculture ofcarnivorousspeciesincreasespressureonwildstocksofﬁsh,albeit ofdifferentspecies.Withfurtherintensiﬁcationofaquaculture andexpansion ofmarineﬁnﬁshaquaculture,itislikely thatdemandforﬁshmealandﬁshoilwillevenoutstripthecurrentunsustainablesupply.
+UnsustainableFisheries….
+Many global marine ﬁsheries are currently exploited in an
+unsustainable manner, and this includes industrial ﬁsheries. Concernsextend to other marine species because ﬁsh taken by industrialﬁshers play a vital role in marine ecosystems. They are prey for manyother ﬁsh species (including commercially important species), marinemammals and sea birds. Overﬁshing of industrially ﬁshed species hasled to negative impacts on the breeding success of some seabirds(see text box 3).A speciﬁc assessment of several important industrially ﬁshed speciesconcluded that, for the most part, the ﬁsheries were entirelyunsustainable
+47. Other research has shown that the ﬁsheries must be
+regarded as fully exploited or over-exploited48,49. Consequently, there
+is a crucial need for aquaculture to reduce its dependence onﬁshmeal and ﬁsh oil.
+DemandsforFishmealandFishOilinAquaculture…..
+The quantity of ﬁshmeal and ﬁsh oil used by the aquaculture industry
+has increased over the years as aquaculture has expanded andintensiﬁed. In 2003, the industry used 53% of the total world’sﬁshmeal production and 86% of the world’s ﬁsh oil production
+5,52. The
+increased demand for ﬁshmeal and ﬁsh oil by aquaculture has beenmet by diverting these products away from their use as feed foragricultural animals, in itself a controversial issue. Currently,agricultural use of ﬁshmeal and ﬁsh oil is increasingly restricted tostarter and breeder diets for poultry and pigs. Fish oil previously usedin the manufacture of hard margarines and bakery products has nowbeen largely diverted to aquacultural use
+53. Figure 5 depicts the
+estimated global use of ﬁshmeal within compound aquafeeds in 2003by major species.
+Although a trend has emerged in recent years of replacing ﬁshmeal
+with plant-based proteins in aquaculture feeds, the fraction ofﬁshmeal/oil used for diets of carnivorous species remains high.Moreover, this trend has not been fast enough to offset the growinguse of ﬁshmeal, caused simply by an increase in the overall number offarmed carnivorous ﬁsh produced. For example, the quantity of wildﬁsh required as feed to produce one unit of farmed salmon reducedby 25% between 1997 and 2001, but the total production of farmedsalmon grew by 60%
+5, eclipsing much of the improvement in
+conversion efﬁciencies.
+©GREENPEACE / C SHIRLEYimageView from
+above of people
+sorting shrimps
+on long tables,
+Muisne, Ecuador
+• In the late 1960s the Norwegian spring-spawning herring stock
+collapsed due to over ﬁshing. Stocks continued to remain lowbetween 1969 and 1987 and this severely impacted the breedingsuccess of Atlantic pufﬁns due to lack of food
+50.
+•OverﬁshingofNorth Seasandeelstocksinrecent yearshashada
+negativeimpact onthebreedingsuccess ofblack-leggedkittiwakes
+51.ClosureoftheﬁsheryeastofScotlandwas
+recommendedfrom2000–2004 tosafeguard these birdsandthelocalpopulation ofpufﬁns.Box3NegativeimpactsofindustrialﬁsheriesonseabirdsFigure5Estimatedglobaluseofﬁshmealwithincompound
+aquafeedsin2003.
+Source:FAO52MarineShrimp 22.8%
+MarineFish20.1%
+Trout7.4%
+Salmon19.5%
+Eel5.8%
+Milkﬁsh1.2%
+Carp14.9%
+Tilapia2.7%
+Catﬁsh0.8%
+Freshwater
+Crustaceans 4.7%
+
+14GreenpeaceInternational ChallengingtheAquacultureIndustryonSustainabilityUseofFishmeal/FishOil/Bycatch
+inAquacultureFeedsandAssociatedProblems
+FoodSecurityIssues….
+The use of ﬁshmeal and ﬁsh oil derived from marine species of ﬁsh for
+aquaculture also has implications for human food security. Forexample, in Southeast Asia and Africa, small pelagic (open water) ﬁshsuch as those targeted by industrial ﬁsheries are important in thehuman diet
+54. Demand for such ﬁsh is likely to grow as populations
+increase, bringing them under pressure both from aquaculture anddirect consumption
+55. In addition, low value ﬁsh (inappropriately
+termed “trash ﬁsh”) caught as by-catch and used for ﬁshmealproduction are actually an important food source for poorer people indeveloping countries
+56. Use of “trash ﬁsh” in aquaculture inﬂates
+prices such that the rural poor can no longer afford to buy it52. With
+these factors in mind, the UN Food and Agricultural Organization(FAO) has recommended that governments of major aquaculture-producing countries prohibit the use of “trash ﬁsh” as feed for theculture of high value ﬁsh.
+©GREENPEACE / K DAVISON
+imageCatch landed on board EU
+bottom-trawler, the Ivan Nores, in the
+Hatton Bank area of the North Atlantic,
+410 miles north-west of Ireland.
+Bottom-trawling boats, the majority
+from EU countries, drag fishing gear
+weighing several tonnes across the sea
+bed, destroying marine wildlife and
+devastating life on underwater
+mountains - or 'seamounts'.
+
+04MovingTowards
+MoreSustainableFeeds
+©GREENPEACE / G NEWMAN
+imageTurkish tuna fleet Purse Seine
+fishing and transfering catch to
+transport cage.
+GreenpeaceInternational ChallengingtheAquacultureIndustryonSustainability 15The aquaculture industry is highly dependent upon wild caught ﬁsh to
+manufacture feed for cultured species. This is widely recognised as anintensive and generally unsustainable use of a ﬁnite resource. In turn,the industry has recognised the need to evaluate and use more plant-based feed materials and reduce dependence on ﬁshmeal and ﬁsh oil.
+Plants are already used in aquaculture feeds. Those that are used
+and/or show particular promise for the future include soybean, barley,canola, corn, cottonseed and pea/lupin
+57. It is important to note that if
+plant-based feeds are used in aquaculture, to be sustainable theymust be sourced from agriculture that is sustainable. Sustainableagriculture by deﬁnition precludes the use of any genetically modiﬁedcrops. These crops are associated with a number of potentialenvironmental impacts, genetic contamination of non-GE crops andhave also sparked a number of food-safety concerns which remainunresolved
+58.
+For some herbivorous and omnivorous ﬁsh, it has been possible toreplace completely any ﬁshmeal in the diet with plant-basedfeedstuffs without impacts on ﬁsh growth and yield
+52. Rearing such
+species in this way suggests a more sustainable future path foraquaculture provided that the feeds themselves are producedthrough sustainable agriculture.Feeding of carnivorous species seems to be more problematic.Fishmeal and ﬁsh oil can be reduced by at least 50% in the diet, butcomplete substitution for plant ingredients has not yet been possiblefor commercial production. Problems include the presence of certaincompounds in plants that are not favourable to ﬁsh, known as anti-nutritional factors, and the lack of certain essential (omega-3) fattyacids
+29,52. Oily ﬁsh is considered to be an important source of omega-
+3 fatty acids in human nutrition, but feeding ﬁsh with plant oil-baseddiets alone reduces the amount in their ﬂesh. Recent research,however, has found that the ﬁsh oil input could be reduced by feedingﬁsh with plant oils but switching to ﬁsh oils in the period just prior toslaughter
+59. Recent research on marine shrimp suggests that it may
+be possible to replace ﬁshmeal in the diet largely with plant-basedingredients, although further study is needed
+60,61.
+Some aquaculture, particularly that classiﬁed as “organic”, uses ﬁshtrimmings as feed – offcuts of ﬁsh from the ﬁlleting and processing ofﬁsh for human consumption. This is more sustainable than usingnormal ﬁshmeal in that a waste product is being used. However,unless the ﬁshery from which the ﬁsh trimmings come from is itselfsustainable, the use of ﬁsh trimmings cannot be seen as sustainablebecause it perpetuates the cycle of over-exploitation of ﬁsheries.
+
+16GreenpeaceInternational ChallengingtheAquacultureIndustryonSustainabilityIn order for aquaculture operations to move towards sustainable
+production, the industry needs to recognise and address the fullspectrum of environmental and societal impacts caused by itsoperations. Essentially, this means that it will no longer be acceptablefor the industry to place burdens of production, (such as the disposalof waste) onto the wider environment.
+In turn, this implies moving towards closed production systems. For
+example, in order to prevent nutrient pollution, ways can be found touse nutrients present in waste products beneﬁcially. Examples includeintegrated multi-trophic aquaculture (IMTA) (see text box 4),aquaponics and integrated rice-ﬁsh culture. In aquaponics systems, efﬂuents from ﬁsh farming are used as anutrient source for growing vegetables, herbs and/or ﬂowers. Oneexisting commercially viable aquaponics system involves thecultivation of tilapia in land-based tanks from which the waste water isused to grow vegetables (without soil) in greenhouses
+65. A company
+in the Netherlands called ‘Happy Shrimp’ partially use waste fromtheir farms to grow vegetables. The shrimp are fed on algae andbacteria as well as on aquaculture feed containing a high proportionof plant protein. The shrimp are cultivated in greenhousesand no shrimp juveniles are extracted from the wild
+66.
+In integrated rice–ﬁsh culture, ﬁsh are cultivated alongside rice, whichoptimises use of both land and water. The nitrogen-rich ﬁsh excretoryproducts fertilise the rice, and the ﬁsh also control weeds and pestsby consuming them as food. Much of the ﬁsh nutrition is derivednaturally in this way. Major constraints to widespread use of suchmethods include the fact that many farmers are not educated in therequired skills
+67. This could be overcome if policy makers gave active
+support to this practice. Integrated rice–ﬁsh culture is crucial for localfood security rather than for supplying export markets.In IMTA systems, organic waste products from the fed species(ﬁnﬁsh or shrimp) are used as food by other cultivated speciessuch as seaweed and shellﬁsh. For example, at a commercial IMTAfarm in Israel, marine ﬁsh (gilthead seabream) are farmed and theirnutrient-rich waste is used to grow seaweed. In turn, the seaweedis used to feed Japanese abalone which can be soldcommercially
+62. In other systems being developed, the seaweed
+itself may be commercially viable63,64.Box4Integratedmulti-trophicaquaculturesystems(IMTA)
+05MovingTowards
+SustainableAquacultureSystems
+©GREENPEACE / A SALAZAR
+imageAerial views of shrimp farms along the coast of Tugaduaja, Chanduy near Guayaquil in Ecuador.
+
+GreenpeaceInternational ChallengingtheAquacultureIndustryonSustainability 17
+06Aquaculture
+Certiﬁcation
+©GREENPEACE / D BELTRA
+imageShrimps.
+The growth of aquaculture has led to a multiplicity of concerns
+attached to environmental impacts, social impacts, food safety,animal health and welfare and economic/ﬁnancial issues. All of thesefactors inﬂuence the sustainability of a given aquaculture system.Presently, there are a growing number of certiﬁcation schemes whichseek to reassure buyers, retailers and consumers about various ofthese concerns. Currently existing certiﬁcation schemes, however, donot cover all of these issues and can sometimes present a confusingand conﬂicting picture to retailers and consumers. A recent analysis of18 aquaculture certiﬁcation schemes by the World Wildlife Fund(WWF) showed that they generally had major shortcomings in termsof the way in which they considered environmental standards andsocial issues
+68.The WWF report sets out benchmark criteria on environmental,social and animal welfare issues in aquaculture. The FAO has alsorecently published a document which covers many of the relevantissues and could be used as a guide by certification bodies
+69. Any
+certification process, as an absolute minimum, needs to conform tothese FAO guidelines. Nonetheless, certification criteria alone willnot ensure the sustainability of the aquaculture industry worldwide.In order to do so, a more fundamental rethink and restructuring ofthe industry is essential.
+
+18GreenpeaceInternational ChallengingtheAquacultureIndustryonSustainability
+07Recommendations
+©GREENPEACE / C SHIRLEY
+imageAerial view of damned ponds
+with intact mangroves visible on lower
+left, bay of Guayaquil, Ecuador.
+
+GreenpeaceInternational ChallengingtheAquacultureIndustryonSustainability 19
+©GREENPEACE / J NOVISimageMock up picture of salmon,
+which will be 37 times bigger than
+normal, when genetically engineered.
+Any aquaculture that takes place needs to be sustainable and fair.
+For aquaculture systems to be sustainable, they must not lead tonatural systems being subject to degradation caused by:
+1an increase in concentrations of naturally occurring substances,
+2an increase in concentrations of substances, produced by society,
+such as persistent chemicals and carbon dioxide and
+3physical disturbance.
+In addition people should not be subject to conditions thatsystematically undermine their capacity to meet their basic needs forfood, water and shelter.
+In practical terms, these four conditions can be translated into the
+following recommendations:
+UseofFishmeal,Fishoiland“TrashFish”: To reduce the
+pressure on stocks caught for ﬁshmeal and ﬁsh oil, there needs to be
+a continued move towards sustainably produced plant-based feeds.Cultivating ﬁsh that are lower down the food chain (herbivores andomnivores rather than top predators) that can be fed on plant-baseddiets is key to achieving sustainable aquaculture practices. Industrymust expand its research and development on herbivorous andomnivorous ﬁsh which have strong market potential and suitabilityfor farming.
+In more general terms, there is an urgent need for ﬁsheries
+management to shift towards an ecosystem-based approach whereina global network of fully protected marine reserves covering 40% ofthe oceans is established together with sustainable ﬁsheriesmanagement outside of the reserves
+70. This is key to achieving
+sustainable ﬁsheries.
+Greenpeaceconsidersthecultureofspeciesthatrequireﬁshmealor
+ﬁshoil-basedfeedsderivedfromunsustainableﬁsheriesand/orwhichyieldconversionratiosofgreaterthanone(i.e.representanetlossinﬁshproteinyield)asunsustainable.Plant-basedfeedsshouldoriginatefromsustainableagriculture,andsourcesofomega3shouldbealgalderivatives,grapeseedoils,etc.
+NutrientPollutionandChemicalPollution: To reduce nutrient
+wastes, there is great potential for the development of integrated
+multi-trophic aquaculture (IMTA) systems, aquaponics and integratedrice-ﬁsh culture.
+Greenpeaceconsidersaquaculturethatresultsinnegative
+environmentalimpactsintermsofdischarges/efﬂuentstothesurroundingenvironmentasunsustainable.EscapesofFarmedFishtotheWild: To overcome these problems
+it has been suggested that enclosed bag nets/closed wall sea pensshould be used to prevent ﬁsh from escaping, or that land-basedtanks should be used
+5. Ultimately, land-based tanks are the only
+option if the goal is to eliminate any risk of escapes which mightotherwise occur as a result of hurricanes or other extreme weatherevents at sea. It is crucial to use native rather than exotic species
+42.
+Greenpeacerecommendsthatonlyspecieswhicharenativeshouldbecultivatedinopenwatersystems,andthenonlyinbagnets,closedwallseapensorequivalentclosedsystems.Cultivationofnon-nativespeciesshouldberestrictedtoland-basedtanks.
+ProtectionofLocalHabitat: Some aquaculture practices have had
+serious negative impacts on local habitat. Aquaculture practices must
+be set up in a way that provides for the protection of coastalecosystems and local habitats. In addition, no new aquaculturepractices should be permitted in areas that are to be designated asmarine reserves and any existing aquaculture operations within suchareas should be phased out.
+Greenpeaceconsidersaquaculturewhichcausesnegativeeffectsto
+localwildlife(plantsaswellasanimals)orrepresentsarisktolocalwildpopulationsasunsustainable.
+UseofWildJuveniles: The use of wild-caught juveniles to supply
+aquaculture practices, particularly some shrimp aquaculture, is
+destructive to marine ecosystems.
+Greenpeaceconsidersaquaculturewhichreliesonwild-caught
+juvenilesasunsustainable.
+TransgenicFish: The physical containment of genetically engineered
+ﬁsh cannot be guaranteed under commercial conditions and any
+escapes into the environment could have devastating effects on wildﬁsh populations and biodiversity
+71.
+Greenpeacedemandsthatgeneticengineeringofﬁshforcommercialpurposesshouldbeprohibited.
+Diseases: Greenpeace recommends cultivation at stocking densities
+that minimise the risk of disease outbreaks and transmission and,
+therefore, minimise requirements for therapeutic treatments.
+Resources: Greenpeaceconsidersaquaculturethatdepleteslocal
+resources,forexample,drinkingwatersuppliesandmangrove
+forests,asunsustainable.
+HumanHealth: Greenpeaceconsidersaquaculturethatthreatens
+humanhealthasunfairandunsustainable.HumanRights: Greenpeaceconsidersaquaculturethatdoesnot
+supportthelong-termeconomicandsocialwell-beingoflocal
+communitiesasunfairandunsustainable.
+
+1Iwama,G.K.(1991).Interactionsbetweenaquacultureandthe
+environment. CriticalReviewsinEnvironmentalControl 21(2):177–216.
+2Duarte, C.M., Marbá, N. And Holmer, M. (2007). Rapid
+domestication of marine species. Science 316. (5823): 382-383
+3FAO (2007). The state of world ﬁsheries and aquaculture 2006. FAO
+Fisheries and Aquaculture Department. Food and Agricultural
+Organization of the United Nations, Rome, Italy. 162 pp.
+4Pauly, D., Christensen, V., Guénette, S., Pitcher, U., Sumaila, R.,
+Walters, C.J., Watson, R. and Zeller, D. (2002). Towards sustainability
+in world ﬁsheries. Nature 418: 689–695.
+5Naylor, R. and Burke, M. (2005). Aquaculture and ocean resources:
+raising tigers of the sea. Annu.Rev.Environ.Resour. 30: 185–218.
+6Beveridge, M.C.M., Ross, L.G. and Stewart, J.A. (1997). The
+development of mariculture and its implications for biodiversity. In:
+MarineBiodiversity:PatternsandProcesses (eds. R.F.G. Ormond,
+J.D. Gage and M.V. Angel), Ch. 16, pp. 105–128. CambridgeUniversity Press, Cambridge, United Kingdom.
+7Singkran, N. and Sudara, S. (2005). Effects of changing
+environments of mangrove creeks on ﬁsh communitites at Trat Bay,
+Thailand.EnvironmentalManagement 35 (1): 45–55.
+8Flaherty, M. and Karnjanakesorn, C. (1995). Marine shrimp
+aquaculture and natural resource degradation in Thailand.EnvironmentalManagement 19 (1): 27–37.
+9Das, B., Khan, Y.S.A. and Das, P. (2004). Environmental impact of
+aquaculture-sedimentation and nutrient loadings from shrimp cultureof the southeast coastal region of the Bay of Bengal. Journalof
+EnvironmentalSciences 16 (3): 466–470.
+10Boyd, C.E. (2002). Mangroves and coastal aquaculture. In:
+ResponsibleMarineAquaculture (eds. R.R.Stickney and J.P McVey).
+Ch. 9, pp. 145–158. CABI Publishing, New York NY, USA.
+11Rönnbäck, P. (1999). The ecological basis for economic value of
+seafood production supported by mangrove ecosystems. Ecological
+Economics 29: 235–252.
+12Kathiresan, K. and Rajendran, N. (2002). Fishery resources and
+economic gain in three mangrove areas on the south-east coast of
+India.FisheriesManagementandEcology 9: 277–283.
+13Islam, M.S., Wahad, M.A and Tanaka, M. (2004). Seed supply for
+coastal brackish water shrimp farming: environmental impacts andsustainability. MarinePollutionBulletin 48: 7–11.
+14Islam, M.S. and Haque, M. (2004). The mangrove-based coastal
+and nearshore ﬁsheries of Bangladesh: ecology, exploitation andmanagement. ReviewsinFishBiologyandFisheries 14: 153–180.
+15Sarkar, S.K. and Bhattacharya, A.K. (2003). Conservation of
+biodiversity of coastal resources of Sundarbans, Northeast India: anintegrated approach through environmental education. Marine
+PollutionBulletin 47: 260–264.16Gräslund, S. and Bengtsson, B-E (2001). Chemicals and biological
+products used in south-east Asian shrimp farming, and their potentialimpact on the environment – a review. TheScienceoftheTotal
+Environment 280: 93–131.
+17Le, T.X., Munekage, Y. and Shin-ichiro, K. (2005). Antibiotic
+resistance in bacteria from shrimp farming in mangrove areas.TheScienceoftheTotalEnvironment 349: 95–105.
+18Holmström,K.,Gräslund,S.,Wahlström,A.,Poungshompoo, S.,
+Bengtsson,B-E.andKautsky,N.(2003). Antibioticuseinshrimpfarmingandimplicationsforenvironmentalimpactsandhumanhealth.InternationalJournalofFoodScienceandTechnology 38:255–266.
+19Public Citizen (2004). Shell game. The environmental and social
+impacts of shrimp aquaculture. Public Citizen, Washington DC, US.20 pp.
+20Barraclough,S.andFinger-Stich,A.(1996).Someecologicaland
+socialimplicationsofcommercialshrimpfarminginAsia.UnitedNations
+ResearchInstituteforSocialDevelopmentGeneva,Switzerland.
+21Environmental Justice Foundation (2003). Smash & Grab: Conﬂict,
+Corruption and Human Rights Abuses in the Shrimp Farming Industry.
+Environmental Justice Foundation, London, UK
+22EJF (2004). Farming The Sea, Costing The Earth: Why We Must
+Green The Blue Revolution. Environmental Justice Foundation,
+London, UK. 77 pp.
+23Marquez, J.V. (2008). The human rights consequences of
+inequitable trade and development expansion: abuse of law and
+community rights in the Gulf of Fonseca, Honduras. Accessed Jan2008 at: http://www.mangroveactionproject.org/issues/shrimp-farming/shrimp-farming
+24Goldberg, R. and Naylor, R. (2005). Future seascapes, ﬁshing, and
+ﬁsh farming. FrontiersinEcologyandtheEnvironment 3 (1): 21–28.
+25Mente, E., Pierce, G.J., Santos, M.B. and Neoﬁtou, C. (2006).
+Effect of feed and feeding in the culture of salmonids on the marine
+aquatic environment: a synthesis for European aquaculture.AquacultureInternational 14: 499–522.
+26Fisheries and Oceans Canada (2003). A scientiﬁc review of the
+potential environmental effects of aquaculture in aquatic ecosystems.Volume 1. Far-ﬁeld environmental effects of marine ﬁnﬁsh aquaculture.(B.T. Hargrave) CanadianTechnicalReportofFisheriesandAquatic
+Sciences 2450: ix + 131 pp.
+27Buschmann, A.H., Riquelme, V.A., Hernández-Gonález, D., Varela,
+D., Jiménez, J.E., Henríquez, L.A., Vergara, P.A., Guíñez, R. and Filún,L. (2006). A review of the impacts of salmonid farming on marinecoastal ecosystems in the southeast Paciﬁc. ICESJournalofMarine
+Science63: 1338–1345.
+20GreenpeaceInternational ChallengingtheAquacultureIndustryonSustainabilityFootnotes
+
+GreenpeaceInternational ChallengingtheAquacultureIndustryonSustainability 2128Naylor, R., Hindar, K., Fleming, I.A., Goldburg, R., Williams, S.,
+Volpe, J., Whoriskey, F., Eagle, J., Kelso, D. and Mangel, M. (2005).
+Fugitive salmon: assessing the risks of escaped ﬁsh from net-penaquaculture. BioScience 55 (5): 427–437.
+29Scottish Executive Central Research Unit (2002). Reviewand
+synthesisoftheenvironmentalimpactsofaquaculture. The Scottish
+Association for Marine Science and Napier University. ScottishExecutive Central Research Unit. The Stationery Ofﬁce, Edinburgh,UK. 71 pp
+30Pure Salmon Campaign (2008). Environmental damage from
+escaped farmed salmon. Accessed Jan 2008 at:
+http://www.puresalmon.org/pdfs/escapes.pdf
+31Goldberg, R.J., Elliot, M.S. and Naylor, R.L. (2001). Marine
+aquacultureintheUnitedStates.Environmentalimpactsandpolicy
+options.Pew Oceans Commission, Philadelphia, PA, USA. 44 pp.
+32Naylor, R.L., Eagle, J., Smith, W.L. (2003). Salmon aquaculture in
+the Paciﬁc Northwest. A global industry. Environment 45 (8): 18–39.
+33Krkošek, M., Ford, J.S., Morton, A., Lele, S., Myers, R.A. and
+Lewis, M.A. (2007). Declining wild salmon populations in relation toparasites from farm salmon. Science318 (5857): 1772–1775.
+34Phyne, J. and Mansilla, J. (2003). Forging linkages in the
+commodity chain: the case of the Chilean salmon farming industry.SociologicaRuralis 43 (2): 108–127.
+35Barrett, G., Caniggia, M.I. and Read L. (2002). “There are more
+vets than doctors in Chiloé”: social and community impact of theglobalization of aquaculture in Chile. WorldDevelopment 30 (11):
+1951–1965.
+36Pizarro, R. (2006). APP No. 37: The ethics of world food
+production: the case of salmon-farming in Chile. Paperpresentedat
+theConference‘EthicsofGlobalization’Cornell,29–30September
+2006.Publicaciones Fundacion Terram, Santiago, Chile.
+37Santiago Times (2007). Unions scrutinize labor problems in Chile’s
+salmon industry. 5th December 2007.
+38Greenpeace (2006). Where have all the tuna gone? Howtuna
+ranchingandpirateﬁshingarewipingoutblueﬁntunainthe
+MediterraneanSea. Greenpeace International, Amsterdam, The
+Netherlands. pp 40.
+39Gual, A. (1999). TheblueﬁntunaintheEasternAtlanticand
+Mediterranean:chronicleofadeathforetold. Greenpeace
+International, Amsterdam, The Netherlands.40Greenpeace (2006). Witnessingtheplunder2006.Howillegalﬁsh
+fromWestAfricanwatersﬁndsitswaytotheEUportsandmarkets.
+Greenpeace International, Amsterdam, The Netherlands. 52 pp41High Seas Task Force (2006). Closingthenet:stoppingillegal
+ﬁshingonthehighseas. Governments of Australia, Canada, Chile,
+Namibia, New Zealand, and the United Kingdom, WWF, IUCN and theEarth Institute at Columbia University. 116 pp.
+42Pérez, J.E., Alfonsi, C., Nirchio, M., Muñon, C. and Gómez, J.A.
+(2003). The introduction of exotic species in aquaculture: a solution or
+part of the problem? Interciencia 28 (4): 234–238.
+43Watanabe, W.O., Lorsordo, T.M., Fitzsimmons, K. and Hanley, F.
+(2002). Tilapia production systems in the Americas: technologicaladvances, trends, and challenges. ReviewsinFisheriesScience 10
+(3–4): 465–498.
+44Monterey Bay Aquarium (2006). SeafoodWatch,SeafoodReport:
+FarmedTilapia. Final Report (eds. I. Tetreault). Monterey Bay
+Aquarium, Monterey, CA, USA. 38 pp.45Naylor, R.L., Goldberg, R.J., Primavera, J.H., Kautsky, N.,
+Beveridge, M.C.M., Clay, J., Folke, C., Lubcheno, J., Mooney, H. and
+Troell, M. (2000). Effect of aquaculture on world ﬁsh supplies. Nature
+405: 1017–1023.
+46Volpe, J.P. (2005). Dollars without sense: the bait for big-money
+tuna ranching around the world. BioScience 55 (4): 301–302.
+47Huntington, T.C. (2004). Feedingtheﬁsh:sustainableﬁshfeedand
+Scottishaquaculture. Report to the Joint Marine Programme (Scottish
+Wildlife Trust and WWF Scotland) and RSPB Scotland. Poseidon
+Aquatic Resource Management Ltd, Hampshire, UK. 49 pp.
+48Deutsch, L., Gräslund, S., Folke, C., Troell, M., Huitric, M.,
+Kautsky, N. and Lebel, L. (2007). Feeding aquaculture growth through
+globalization: exploitation of marine ecosystems for ﬁshmeal. Global
+EnvironmentalChange 17: 238–249.
+49Tacon, A.G.J (2005). Stateofinformationonsalmonaquaculture
+feedandtheenvironment. Report prepared for the WWF US initiated
+salmon aquaculture dialogue. 80 pp.
+50Anker-Nilssen, T., Barrett, R.T. and Krasnov, J.K. (1997). Long-
+and short-term responses of seabirds in the Norwegian and Barents
+Seas to changes in stocks of prey ﬁsh. Forage Fishes in MarineEcosystems. ProceedingsoftheInternationalSymposiumontheRole
+ofForageFishesinMarineEcosystems. University of Alaska
+Fairbanks, Fairbanks, AK, USA, pp. 683–698.
+51Frederiksen, M., Wanless, S., Harris, M.P., Rothery, P. and Wilson,
+L.J. (2004). The role of industrial ﬁsheries and oceanographic change
+in the decline of the North Sea black-legged kittiwakes. Journalof
+AppliedEcology 41: 1129–1139.
+52Tacon, A.G.J., Hasan, M.R. and Subasinghe, R.P. (2006). Use of
+ﬁshery resources as feed inputs for aquaculture development: trendsand policy implications. FAOFisheriesCircular. No. 1018, Food and
+Agricultural Organization of the United Nations, Rome, Italy. 99 pp.
+
+53Shepherd, C.J., Pike, I.H. and Barlow, S.M. (2005). Sustainable
+feed resources of marine origin. Presented at Aquaculture Europe
+2005.EuropeanAquacultureSocietySpecialPublication No. 35. June
+2005, pp 59–66.
+54Sugiyama, S., Staples, D. and Funge-Smith, S.J.. (2004). Status
+andpotentialofﬁsheriesandaquacultureinAsiaandthePaciﬁc. RAP
+Publication 2004/25. FAO Regional Ofﬁce for Asia and the Paciﬁc,
+Bangkok, Thailand. 53 pp.
+55Naylor, R.L., Goldburg, R.J., Primavera, J.H., Kautsky N.,
+Beveridge, M.C.M., Clay, J., Folkes, C., Lubchenco, J., Mooney, H.
+and Troell, M. (2000). Effect of aquaculture on world ﬁsh supplies.Nature405: 1017–1023.
+56FAO (2007). Thestateofworldﬁsheriesandaquaculture2006.
+FAO Fisheries and Aquaculture Department. Food and AgriculturalOrganization of the United Nations, Rome, Italy. 162 pp.
+57Gatlin, D.M., Barrows, F.T., Brown, P., Dabrowski, K., Gaylord,
+T.G., Hardy, R.W., Herman, E., Hu G., Krogdahl, A., Nelson, R.,
+Overturf, K., Rust, M., Sealey, W., Skonberg, D., Souza, E.J., Stone,D., Wilson, R. and Wurtele, E. (2007). Expanding the utilization ofsustainable plant products in aquafeeds: a review. Aquaculture
+Research 38: 551–579.
+58Greenpeace and Gene Watch UK (2007). GM contamination
+Register. Accessed Jan 2008 at: www.gmcontaminationregister.org
+59Pickova, J. and Mørkøre, T. (2007). Alternate oils in ﬁsh feeds. Eur.
+J.LipidSci.Technol. 109: 256–263.
+60Amaya, E., Davis, D.A., Rouse, D.B. (2007). Alternative diets for
+the Paciﬁc white shrimp Litopenaeusvannamei. Aquaculture 262:
+419–425.61Browdy, C., Seaborn, G., Atwood, H., Davis, D.A., Bullis, R.A.,
+Samocha, T.M., Wirth, E. and Lefﬂer, J.W. (2006). Comparison of
+pond production efﬁciency, fatty acid proﬁles, and contaminants inLitopenaeusvannamei fed organic plant-based and ﬁsh-meal-based
+diets.JournaloftheAquacultureSociety 37 (4): 437–451.
+62Neori, A., Chopin, T., Troell, M., Buschmann, A.H., Kraemer, G.P.,
+Halling, C., Shpigel, M. and Yarish, C. (2004). Integrated aquaculture:rationale, evolution and state of the art emphasizing seaweedbioﬁltration in modern mariculture. Aquaculture 231: 361–391.
+63Chopin,T.,Robinson,S.,Page,F.,Ridler, N.,Sawhney, M.,
+Szemerda,M.,Sewuster,J.andBoyne-Travis, S.(2007). Integratedmulti-trophicaquaculturemakingheadway inCanada. TheCanadian
+AquacultureResearchandDevelopmentReview, January 2007, p.28.
+64Zhou, Y., Yang, H., Hu, H., Liu, Y., Mao, Y., Zhou, H., Xu, X. And
+Zhang, F. (2006). Bioremediation potential of the macroalga Gracilaria
+lemaneiformis (Rhodophyta) integrated into fed ﬁsh culture in coastal
+waters of north China. Aquaculture 252: 264–276.65Diver, S. (2006). Aquaponics–integrationofhydroponicswith
+aquaculture. ATTRA – National Sustainable Agriculture Information
+Service, Fayetteville, AR, USA. 28 pp.
+66Happy Shrimp (2007). http://www.happyshrimp.nl/, and personal
+communication from Curtessi, G. (2007) employee of Happy Shrimp
+Farm B.V.
+67Frei, M. and Becker, K. (2005). Integrated rice-ﬁsh culture: coupled
+production saves resources. NaturalResourcesForum 29: 135–143.
+68WWF (2007). Benchmarking study on International Aquaculture
+Certiﬁcation Programmes. World Wildlife Fund (WWF), Zurich,
+Switzerland, and Oslo, Norway. 96 pp.
+69FAO (2007). FAO guidelines for aquaculture certiﬁcation.
+Preliminary Draft Only. Accessed Jan 2008 at:
+http://www.enaca.org/modules/tinyd10/index.php?id=1
+70Roberts, C.M., Mason, L., Hawkins, J.P., Masden, E., Rowlands,
+G., Storey, J. and Swift, A. (2006). Roadmaptorecovery:aglobal
+networkofmarinereserves. Greenpeace International, Amsterdam,
+The Netherlands. 56 pp.71Anderson, L. (2004). Geneticallyengineeredﬁsh–newthreatsto
+theenvironment. Greenpeace International, Amsterdam, The
+Netherlands. 20 pp
+22GreenpeaceInternational ChallengingtheAquacultureIndustryonSustainabilityFootnotes
+
+imageSalmon farm near
+Puerto Chacabuco.
+Any aquaculture
+that takes placeneeds to besustainableand fair
+©GREENPEACE / D BELTRA
+
+24 FishyBusiness:StolenPaciﬁcTunaintheEuropeanMarket 24Greenpeace is an independent global
+campaigning organisation that acts tochange attitudes and behaviour, toprotect and conserve the environmentand to promote peace.
+Greenpeace International
+Ottho Heldringstraat 51066 AZ AmsterdamThe NetherlandsTel: +31 20 7182000Fax: +31 20 5148151
+greenpeace.org

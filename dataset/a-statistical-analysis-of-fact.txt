@@ -1,0 +1,454 @@
+# Archivo original: a-statistical-analysis-of-fact.pdf
+# Tipo: .PDF
+# Procesado el: Sat Oct 11 09:41:14 -03 2025
+
+A Statistical Analysis of Factors Associated with Elevated Hair
+Mercury Levels in the U.S. Population:
+An Interim Progress Report
+Richard P. Maas Ph.D.
+Steven C. Patch Ph.D.
+Kimberly R. Sergent
+UNC-Asheville Environmental Quality Institute Technical Report #04-136
+October 2004
+
+Foreward:
+This report is intended to be an interim statement of progress and results of an on-
+going study of the mercury hair levels in the U.S. population and their statistical
+association with variables such as geographic location, gender, age, occupation, and fish
+consumption patterns. A final report on the completed study is scheduled for release in
+late February or early March 2005. With recent intense national interest in the issue of
+human exposure to mercury, prompted in part by U.S. Environmental Protection Agency
+reports that over 75 percent of 3,094 fish consumption advisories are caused by mercury
+contamination and that the extent of such consumption advisories has now increased to
+include about 35 percent of U.S. freshwaters, an interim progress report relating human
+mercury exposure to fish consumption patterns is appropriate.
+It should be noted that the final study report will include a national statistical
+analysis geographically correlating mercury hair levels of the U.S. population with aerial
+mercury atmospheric deposition data from coal-fired power plants and other sources now
+becoming available as detailed dispersion models from the U.S. Environmental Agency.
+An assessment of this relationship between human mercury exposure and atmospheric
+deposition levels has not yet been performed to be included as part of this interim report.
+
+Background and Introduction
+Exposure to mercury has become increasingly recognized as a significant public
+health issue affecting the U.S. population, especially infants and young children. Fetal
+exposure to mercury is a special concern because it is now recognized that even very low
+mercury exposures cause significant cognitive developmental defects and other
+neurological development disorders in children (e.g. Bienenfeld et al, 2003; NRC, 2000;
+Castoldi et al, 2001). Other recent research (e.g. Steuerwald et al, 2000; Grandjean et al,
+1999; Grandjean et al, 1997; Crump et al, 1998) has also repeatedly validated the fact that
+even moderate mercury exposure during pregnancy can cause measurable adverse effects
+on brain development, resulting in observed deficits in language development, memory,
+motor function, and visuospatial performance.
+Although people in the U.S. can be exposed to mercury through many routes
+including inhalation of ambient mercury-containing air, ingestion of terrestrial animal
+products such as eggs, meat, and butter, consumption of water, and hand-to-mouth
+contact with surfaces where fly ash and mercury have deposited, it has become clear that
+the primary route of mercury exposure to the U.S. population is through fish consumption
+(e.g. Mahaffey et al, 2001; McDowell et al, 2004).  Many fish species, especially those
+higher in the trophic web such as bass, salmon, walleye, and pike, are known to
+concentrate mercury to tens of thousands of times higher concentrations than found in the
+water column.
+While permanent neurological damage to infants and young children continues to be
+the primary public health concern from mercury exposure, some studies have also found
+increases in male heart disease associated with moderately elevated mercury exposure
+(e.g. Gualla et al, 2002; U.S. Environmental Protection Agency, 2004).  Although not yet
+adequately documented in the scientific literature, there is increasing evidence that many
+U.S. individuals of all ages have developed greatly increased sensitivities to periodic
+mercury exposure resulting in vision impairments, circulatory system problems, and other
+neurotoxic symptoms from even low mercury levels (eg. Snider, 2004; Wright and
+Wilson, 2004).
+The U.S Environmental Protection Agency (EPA) has set a “reference dose” (as
+measured by the mercury content of hair) of 1.0 mg/g (or one part-per-million, i.e. ppm)
+to assess human mercury exposure. At this level women of child-bearing age are advised
+to stop consumption of fish that may have elevated mercury levels. In a large national
+study conducted previously to our study, McDowell et at. (2004) measured the hair
+mercury levels of 2564 randomly selected U.S. individuals (838 children and 1726
+women of child-bearing age) from the 1999-2000 National Health and Nutrition
+Examination Survey (NHANES).  The geometric mean for the entire study population in
+1999-2000 was 0.12 mg/g in children and 0.20 mg/g in women aged 16-49.  Among
+frequent fish consumers the geometric mean increased to 0.38 mg/g, again further
+reinforcing the fact that fish consumption is the major pathway of mercury exposure in
+U.S.
+Approximately 12% of the women studied had hair mercury levels above the 1.0
+mg/g EPA health advisory, and about 23% had levels that were greater than one-half the
+EPA advisory level (ie.> 0.5 mg/g).  According to the NHANES data, between 300,000
+
+and 600,000 newborns in the U.S. in the year 2000 were prenatally exposed to in utero
+methylmercury levels above the USEPA health advisory limits (Mahaffey et al, 2004).
+While mercury can enter the environment from various natural and industrial
+sources, at least 40% of total U.S. mercury emissions come from coal-fired power plants.
+This percentage is increasing as other Hg sources such as medical incinerators and
+municipal waste combustors are greatly reduced (USEPA, 2004; NESCAUM, 2003).
+Also, in a large percentage of U.S. watersheds, coal-fired power plants are recognized to
+be the majority source of mercury emissions (NESCAUM, 2003). Without regulatory
+requirements and the installation of mercury control technologies, emissions from coal-
+fired power plants can be expected to increase as more plants are built and/or existing
+plants expanded (NESCAUM, 2003).
+Thus, the purposes of the current study were to: 1) Determine from a large study
+sample the percentage of people in various age/gender categories with excessive mercury
+exposure as measured by hair levels in 2004.  2) Examine statistical relationships for the
+study population between mercury exposure and age, gender, occupation, and fish
+consumption habits.  3) Develop statistical relationships between hair mercury levels and
+atmospheric mercury deposition rates across the United States.
+Methodology
+Study participants were recruited by Greenpeace, Aveda, and various nonprofit
+organizations in various areas of the U.S. through national internet notices, regional
+media coverage of the research project, special local awareness events, and other
+publicity efforts.  As of the September 23, 2004 cut off date for receiving samples, over
+3000 hair sampling kits had been sent to volunteer study participants, and 1449 were
+returned in time to be included in this interim project analysis.  It is anticipated that over
+5000 participants will eventually be included in the statistical analysis for the final report
+on this research project in February or March of 2005.  The study sample population
+areas are not intended to be statistically representative of the entire U.S. population, since
+participants were self-selected, and recruitment of study participants was focused more
+strongly in some areas of the country than others.  The study population is clearly
+weighted towards particular geographic areas, towards individuals who might be more
+concerned about this particular health issue, and towards individuals better able to afford
+the small fee to participate in the study.  It is unclear whether these selection factors
+would tend to inflate or reduce average hair mercury levels related to the general
+population. It is very unlikely, however, that the statistical relationships we examined
+between hair levels and other variables including age, gender, geographic area, and fish
+consumption levels would be different for our study population than for the general U.S.
+population.
+Each volunteer was sent a hair sampling kit by the Environmental Quality
+Institute (EQI) consisting of gloves, ziplock sample bags, labels, a cardboard weighing
+balance designed to tip when approximately 0.5g of hair was added, detailed instructions
+for cutting, weighing and labeling hair samples, and a return postage-paid mailer.  After
+washing their hair, each volunteer participant was instructed (complete with illustrations)
+on how and where to cut and weigh their sample.  Each sampling kit also included a
+detailed research questionnaire which requests information on age, gender, pregnancy
+
+status, hair color, occupation, dental amalgams and removal, flu shot history, and, several
+questions regarding specifics of fish consumption habits. (See Appendix A).
+Upon receipt at the EQI laboratory, samples were logged in and questionnaire
+data was transferred to a computerized database.  Hair samples were weighed to the
+nearest 0.0001 gram on an analytical balance and digested using EPA Method 3050B
+with concentrated nitric acid and 30% hydrogen peroxide on a SCP Science DigiblockTM
+graphite block digestor.  Final volume of the digestate was 50ml.
+Mercury determination was performed using EPA Method 7470A.  Either a
+Thermo-Jarrel-Ash 22 graphite furnace atomic absorption spectrometer (AAS) with
+deuterium arc background correction or a Thermo M6 AAS with a V90 vapor system
+were used to determine mercury concentration in the digestates.  Mercury levels in the
+original hair sample were determined by back-calculation according to the formula:
+[Hg Hair in ppm]= (Hg concentration (mg/L) x 0.05 L digestate volume)/(wt. of
+hair (g))
+Each volunteer participant was sent a confidential letter with their individual
+results along with explanatory information regarding USEPA advisory levels.
+Results and Discussion
+Of the 1449 individual hair samples completed for the interim report 20.3% (slightly
+over one-fifth) were found to have mercury levels above the USEPA advisory level of 1.0
+mg/g.  An additional 20.6% of participants had levels between 0.5 and 1.0 mg/g, also
+indicating significantly elevated mercury exposure. As noted earlier, the 1999-2000
+NHANES study found that about 12% of the U.S. population of children 0-5 years and
+women 16-49 years had mercury hair levels above the advisory level. It is unclear at this
+point to what extent this difference may be due to the self-selection procedure used for
+our study as opposed to the extent that mercury exposure of the U.S. population has
+actually increased since 1999-2000. It is very possible that overall fish consumption in
+the U.S. has increased over the past 4-5 years with the national health trend away from
+red meat and the widespread emphasis on the health value of the omega oils contained in
+fish. In our study we include males and females of all ages, and we found virtually no
+differences in the mercury hair levels between genders. Thus, we find nearly identical
+percentages above 0.5 mg/g and 1.0 mg/g regardless of whether we consider both men and
+women or just women as was done in the NHANES study.  In any case the data from
+both studies clearly show that a high percentage of Americans (estimated range 30 to 60
+million) have been exposed to mercury at levels above the levels deemed to be safe
+(especially for pregnant women), and that an additional 30-60 million Americans have
+exposure levels approaching these official cautionary levels.  Thus, there is clearly no
+other human-produced toxin that is causing officially-recognized elevated exposures to
+anywhere near this high a percentage of the U.S. population.
+Table 1 shows a breakdown of hair exposure levels by frequency of fish
+consumption.  As seen from Table 1 even those who consume a low to moderate amount
+of fish have nearly a 10 % probability of exceeding the EPA Advisory Level, while
+nearly 50 % of heavy fish consumers exceeded this level.
+Especially concerning is the finding that the highest 10 % of the heavy fish consumer
+group typically show mercury exposure several times greater than the Advisory Level.
+
+Table 2 shows that for the heavy fish consumption group, almost three-fourths of the
+individuals were found to have levels above 0.5 mg/g.  Even for the moderately high fish
+consuming group 28.5 % exceed the Advisory Level, and a total of almost 60 % of this
+group exhibit mercury hair exposures of at least 0.5 mg/g.
+Tables 3, 4, and 5 show a further detailed analysis of fish consumption habits.  Table
+3 shows that the more frequently individuals consume canned tuna, the higher their hair
+mercury levels become.  For people who consumed canned tuna four or more times per
+month, nearly one-third have mercury exposures exceeding the EPA Advisory Level.
+Table 4 shows that over half the people who consume either fresh store-bought or
+restaurant fish at least seven times per month have mercury exposures exceeding the EPA
+Advisory Level.  As shown in Table 5 consumption of locally caught fish seems
+especially to be a problem, with over half of individuals exhibiting exposures of at least
+0.5 mg/g from consumption of just one of two servings per month.
+    The USEPA Reference Dose (i.e. Health Advisory) of 1.0 mg/g was set for children
+and women of childbearing age. No Reference Dose has yet been established for adult
+males, but given the documented health effects, it can only benefit both genders to try to
+keep their mercury exposure as low as possible.
+Table 1.  Summary of Hair Mercury Concentrations (mg/g) by Total Fish Consumption
+(Note: The Result of 32.0 was Removed to Reduce Effect on Mean and Standard
+Deviation).
+Fish ConsumedN Mean Stand.Median 75%- ile 90%-ile
+Per Month Dev.
+0 - 4 701 0.35 0.42 0.19 0.43 0.87
+5 - 9 420 0.89 1.03 0.60 1.08 1.82
+10 + 166 1.35 1.30 0.97 1.92 2.68
+Table 2.  Percentages of Individuals with Hair Mercury Concentrations of 0.5 mg/g or
+Above and of 1.0 mg/g or Above, Broken Down by Total Fish Consumption
+Fish ConsumedN PercentagePercentagePercentage
+Per Month 0.00 - 0.490.50 - 0.991.00 or Greater
+0 - 4 702 78.5 13.4   8.1
+5 - 9 420 41.9 29.5 28.5
+10 + 166 26.5 25.3 48.2
+In Table 6 the results are broken down by region of the U.S.  From this table it can
+be seen that the study participants are relatively evenly distributed geographically.  The
+most obvious trend noticeable from Table 6 is that mercury exposures are significantly
+lower overall for individuals in the Midwest.  This trend may be due to any combination
+of factors including lower fish mercury levels in the Midwest, lower per-capita fish
+consumption, or other age/ gender differences in the study population from this versus the
+
+other three regions.  One factor which would tend to damp out differences between
+regions is the reality that fresh, frozen, and canned fish products are now shipped over
+very wide geographic regions.
+In Table 7 we have further broken down the geographic regions by individual states
+for which we had at least 50 study participants.  From Table 7 it can be seen that a
+significant percentage of individuals from all six states listed had moderately elevated
+mercury exposure levels.  Participants from New York State were particularly high with
+over 45 % of study subjects exhibiting mercury exposures above the EPA Advisory
+Level.  Florida and California were also well above the national percentage exceeding the
+EPA Advisory Level.  These percentages may change substantially as the study
+continues, and we obtain larger and more representative study populations from each
+state.
+Consistent with the 1999-2000 NHANES study (Mahaffey et al, 2004), it is shown in
+Table 8 that children and teens tended to have significantly lower mercury exposure
+levels than adults.  This trend is probably because children and teens tend to eat less fish
+than adults, which in terms of mercury toxicity is probably fortunate, given the greater
+neurotoxicity effects of mercury on children.
+Table 3.  Percentages of Individuals with Hair Mercury Concentrations of 0.5 mg/g or
+Above and of 1.0 mg/g or Above, Broken Down by Canned Tuna Fish Consumption
+Tuna Fish ServingsN PercentagePercentagePercentage
+Per Month 0.00 - 0.490.50 - 0.991.00 or Greater
+0 - 1 835 66.8 17.0 16.2
+2 - 3 327 52.0 25.4 22.6
+4 + 219 41.6 25.6 32.9
+Table 4.  Percentages of Individuals with Hair Mercury Concentrations of 0.5 mg/g or
+Above and of 1.0 mg/g or Above, Broken Down by Store or Restaurant Fish
+Consumption
+Fish Servings N PercentagePercentagePercentage
+Per Month 0.00 - 0.490.50 - 0.991.00 or Greater
+0 - 2 754 76.8 14.7 8.5
+3 - 7 445 42.7 28.3 29.0
+7 + 170 22.9 26.5 50.6
+Table 5.  Percentages of Individuals with Hair Mercury Concentrations of 0.5 mg/g or
+Above and of 1.0 mg/g or Above, Broken Down by Local Fish Consumption
+Local Fish ServingsN PercentagePercentagePercentage
+Per Month 0.00 - 0.490.50 - 0.991.00 or Greater
+0 954 65.6 18.0 16.4
+
+1 - 2 247 47.4 25.1 27.5
+3 + 109 33.0 31.2 35.8
+Table 6.  Percentages of Individuals with Hair Mercury Concentrations of 0.5 mg/g or
+Above and of 1.0 mg/g or Above Broken Down by Region.
+Region N PercentagePercentagePercentage
+0.00 - 0.490.50 - 0.991.00 or Greater
+Northeast 357 53.5 19.6 26.9
+Southeast 491 61.9 18.9 19.1
+Midwest 323 75.9 15.2   9.0
+West 271 40.2 31.7 28.0  
+Table 7.  Percentages of Individuals with Hair Mercury Concentrations of 0.5 mg/g or
+Above and of 1.0 mg/g or Above for States with More Than 50 Samples.
+State N PercentagePercentagePercentage
+0.00 - 0.490.50 - 0.991.00 or Greater
+California 148 37.8 31.8 30.4
+District of Columbia  58 62.1 20.7 17.2
+Florida   72 45.6 20.3 34.2
+New York   73 30.1 24.7 45.2
+Ohio 243 79.0 12.8   8.2
+Pennsylvania 289 77.2 13.5   9.3
+Table 8.  Percentages of Individuals with Hair Mercury Concentrations of 0.5 mg/g or
+Above and of 1.0 mg/g or Above, Broken Down by Age Category.
+Age N PercentagePercentagePercentage
+0.00 - 0.490.50 - 0.991.00 or Greater
+ 0 - 19 169 87.0   8.9   4.1
+20 - 40 768 56.1 21.2 22.7
+50 + 478 54.2 23.9 22.0
+In Table 9 we have summarized the statistical significance of various potential
+factors which might influence peoples’ overall mercury exposure.  The results are based
+on a linear regression model, and each factor in Table 9 is adjusted for all the other
+factors.  Factors with P-values of less than 0.05 would be considered statistically
+significant, which means that the association is almost certainly real as opposed to being
+a statistical coincidence.  As seen from the first three rows of data, the more store-bought
+fish, canned tuna fish, or locally caught fish a person consumes, the higher their hair
+mercury level will tend to be.  As noted previously, mercury exposure clearly increases
+
+with age, and the mercury hair levels vary significantly with geographic region. The
+geographic region analysis is particularly interesting because the result is adjusted for
+frequency of fish consumption.  This means that there remain differences in mercury
+exposure for the different geographic regions after adjusting for the amount of each type
+of fish consumed.
+As shown in Table 9, none of the other potential variables including occupation,
+gender, the presence or removal of mercury-containing dental amalgams, recent flu shots
+(which contain mercury as a preservative), or a recent hair dying (a few dyes still contain
+some mercury) were found to be statistically significant factors when adjusted for all the
+other factors.  As the study sample size continues to increase, it is possible that some of
+these variables (especially the mercury amalgam variables) may become statistically
+significant.
+Table 9.  Statistical Significance of Various Factors Associated with Hair Mercury Levels
+Based on 1109 Completed Questionnaires
+Factor DF F P-Value
+Store Fish Servings 1 233.1 < 0.001
+Tuna Fish Servings 1   33.5 < 0.001
+Local Fish Servings 1   14.2 < 0 .001
+Age Category 2   28.5 < 0.001
+Geographic Region 3   14.5 < 0.001
+Gender 1     0.2    0.685
+Work Exposure 1     0.4    0.513
+Have Amalgams 2     1.5    0.230
+Amalgams Removed Recently 1     0.8    0.374
+Flu Shot 1     0.2    0.637
+Hair Dyed  1     0.0    0.892
+Summary and Conclusions
+The preliminary results of this large nationwide study indicate that approximately 20 %
+of the U.S. population may have been exposed to mercury at levels above the U.S. EPA’s
+Advisory Level for public health protection.  This is an increase from the 12 % found in
+1999-2000 by other researchers, and this difference may be due to an upward bias in our
+self-selected sample and/ or the fact that mercury exposures to the U.S. public have
+increased in the past five years.  In either case both studies clearly indicate that a
+substantial percentage of the U.S. population, representing 30-60 million people, and
+300,000 to 600,000 newborn infants per year, have been exposed to mercury at levels
+above the US EPA health Advisory Level.
+The greatest factor influencing mercury exposure of the U.S. public is the
+individual’s frequency of fish consumption.  Fish, especially higher trophic level species
+such as bass, salmon, walleye, tuna, and other larger marine species, are known to
+
+generally concentrate mercury (which has entered water from atmospheric deposition or
+industrial discharges) in their muscle tissues.  We found that nearly half of the high fish-
+consuming subjects had mercury levels exceeding EPA Advisory levels.
+Mercury is well documented to cause measurable brain development deficits to
+children exposed to even relatively low levels prior to birth, and there is increasing
+evidence of neurological and cardiovascular illness in many mercury-sensitive adults as
+well.
+Coal-fired power plants are the greatest source of mercury to the environment of the
+U.S. and are the only significant source which continues to be unregulated.  Technologies
+(already installed on waste combustion and medical incinerators) exist to reduce mercury
+emission from coal-fired power plants by 90 %.
+Our preliminary work, as well as that of other researchers, clearly indicate that
+virtually no other pollutant is affecting such a large percentage of the U.S. population at
+levels above established government healthy advisory levels.  Thus, it would be
+reasonable and prudent that the United States should move quickly in the direction of
+greatly reducing mercury power plant emissions.  Such action would substantially
+increase the safety of fish consumption and provide a much-needed public health
+protection to the nation’s people, especially its children.
+An official final report on the project, projected to include over 5000 nationally-
+distributed study subjects, and thus the largest and most current of its type, is scheduled
+to be completed by the Environmental Quality Institute by late February or early March,
+2005.
+
+References:
+Bienenfeld, L.A., A.L. Golden, and E.S. Garland. 2003. Consumption of fish from
+polluted waters by WIC participants in east Harlem. Journal of Urban Health. 80(2):349-
+358.
+Castoldie, A.F., T. Coccini, S. Ceccatelli, and L. Manzo. 2001. Neurotoxicity and
+molecular effects of methylmercury. Brain Res Bull. 55: 197-209.
+Crump, K.S., T. Kjellstrum, A.M. Shipp, A. Silvers, and A. Stewart. 1998. Influence of
+prenatal mercury exposure upon scholastic and psychological test performance:
+benchmark analysis of a New Zealand cohort. Risk Analysis. 18(6): 701-713.
+Grandjean, P., R.F. White, A Nielson, D. Cleary, and E.C. Santos. 1999. Methylmercury
+neurotoxicity in Amazonian children downstream from gold mining. Environmental
+Health Perspectives. 107(7): 585-591.
+Grandjean, P., P Weihe, R.F. White, F. Debes, S. Araki, K. Yokoyama. 1997. Cognitive
+deficits in 7-year-old children with pre-natal exposure to methylmercury.
+Neurotoxicology and Teratalogy. 19(6): 417-428.
+Gualler, E., M.I. Sanz-Gallardo et al. 2002. Mercury, fish oils, and the risk of myocardial
+infarction. The New England Journal of Medicine. 347(22):1755-1760.
+Mahaffey, K.R., R.P. Clickren, and C.C. Bodurow. 2004. Blood Organic Mercury and
+Dietary Mercury Intake: National Health and Nutrition Examination Survey, 1999 and
+2000. Environmental Health Perspectives. 112(5): 562-570.
+McDowell, M.A. et al. 2004. Hair mercury levels in U.S. children and women of
+childbearing age: reference range date from NHANES 1999-2000. Environmental Health
+Perspectives. 112(11): 1165-1171.
+National Research Council. 2002. Toxicologic effects of methylmercury, Washington,
+D.C. National Academy Press.
+Steuerwald, U., P. Weihe, P.J. Jorgensen, K. Bjerve, J. Brock, and A. Heinzow. 2000.
+Maternal seafood test, methylmercury exposure, and neonatal neurologic function. The
+Journal of Pediatrics. 136(5): 599-605.
+Snider, Dr. Steven C., D.C. Personal Communication, Asheville, NC October 2004, 828-
+253-9856
+Wright, Dr. Eileen R. M.D. and J. Wilson, M.D. Great Smokies Medical Center. Personal
+Communication.Asheville, NC. October 2004  828-252-9833
+
+U.S. Environmental Protection Agency. 1997. Characterization of Human and Wildlife
+Risks from Mercury Exposure in the United States.  Volume VII of Mercury Study
+Report to Congress (EPA452/R 97-009)
+U.S. Environmental Protection Agency. 2004: www.epa.gov/mercury
+Northeast States for Coordinated Air Use Management. 2003. Praveen Anvar, Editor.
+“Mercury emissions from coal-fired power plants: the case for regulatory action”.
+Boston, MA. Oct. 2003 32p.
+
+Attachment A.
+Mercury Testing Questionnaire
+Date:
+Name:
+Address:
+Phone Number:
+Email Address:
+Are you taking this sample
+because you believe that
+you have had an unusually
+high mercury exposure?Y    N
+If yes, explain why:
+Gender:M    F
+Race (optional):
+Age:
+Are you currently
+pregnant?Y    N
+Black Dark Brown
+Light Brown BlondNatural Hair Color:
+(please circle one)
+Red Grey
+If you dye your hair, the
+date of your last dye:
+Black Dark Brown
+Light Brown BlondColor of dyed hair:
+(please circle one)
+Red Other
+If you perm your hair, the
+date of your last
+permanent:
+Do you work in an industry
+that requires regular
+exposure to mercury?Y    N
+
+Mercury Testing Questionnaire
+Page 2
+Dentistry Coal-fired Electricity Generation
+Or Manufacture of:
+Thermometers Mercury arc equipment
+Barometers Fungicide
+Chlorine (Chlor-alkali process) InsecticideIf yes, which industry?
+(please circle)
+Dry cell battery Pigment
+On average, how many servings of the following do
+you eat per month? (A standard serving is 6 oz.)
+Canned albacore (white) tuna:0  1  2  3  4  5  6  7 more than 7 (servings per month)
+Canned chunk light tuna0  1  2  3  4  5  6  7 more than 7 (servings per month)
+Any of the following store or restaurant fish:
+swordfish, shark, tilefish, king mackerel0  1  2  3  4  5  6  7 more than 7 (servings per month)
+Any other store or restaurant fish0  1  2  3  4  5  6  7 more than 7 (servings per month)
+What kinds of store or restaurant fish do you usually
+eat?
+Locally caught fish:0  1  2  3  4  5  6  7 more than 7 (servings per month)
+What kinds of locally-caught fish do you usually eat?
+Do you have dental amalgam (silver-colored)
+fillings?Yes    No    Don’t Know
+If yes, how many?
+Have you had dental amalgam fillings removed in the
+last twelve months?Y    N
+If yes, please give the approximate date of the last
+removal.
+Have you had a flu shot in the past twelve months?Y    N
+Do you use mercury at home in any rituals or as a
+medicine?
+You may choose whether or not you would like to receive information about the study findings.  By
+checking one or more of the following boxes, you can indicate the type of information you would like to
+receive.
+ I would like to receive the individual results of my mercury test by mail.
+ I would like to receive the general study findings by e-mail.
+ I do not wish to receive the results of my mercury test, the general study findings or any
+other communication about this study.

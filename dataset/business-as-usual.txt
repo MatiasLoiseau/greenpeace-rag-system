@@ -1,0 +1,592 @@
+# Archivo original: business-as-usual.pdf
+# Tipo: .PDF
+# Procesado el: Sat Oct 11 09:40:02 -03 2025
+
+page 1Business As Usual:
+A Report to the President on
+Pending Federal Climate Legislation 
+(ACES & CEJAPA)
+October 20, 2009
+
+page 2A Greenpeace Report
+Written on behalf of Greenpeace by David Sassoon,  
+President of Science First, Inc., publisher of SolveClimate 
+Including analysis conducted by: 
+PointCarbon and ICF International
+Business as Usual—Table of Contents
+Executive Summary
+Letter of Transmittal
+The Five Points of Maximum Danger
+The Clean Air Act is Being ThreatenedThe Carbon Cap Has Little BiteCoal is Sanctified as “Clean” Energy Choice
+Handouts and Loopholes are Legion
+Renewable Energy is Provided Insufficient SupportOptimists, Apologists and Principled Action
+Appendix
+Acronym Glossary
+ACES  American Clean Energy and Security Act
+BAU Business as Usual
+BTU British Thermal Unit
+CDM  Clean Development Mechanism
+CFC Chlorofluorocarbon 
+CCS Carbon Capture and Sequestration
+CEJAPA  Climate Energy Jobs and American Power Act
+CERES  Combined Efficiency and Renewable Energy Standard
+EIA Energy Information Administration
+EPA U.S. Environmental Protection Agency
+EU European Union
+GDP  Gross Domestic Product
+HFC Hydrofluorocarbon
+IPCC  Intergovernmental Panel on Climate Change
+REDD  Reducing Emissions from Deforestation and Forest Degradation
+RGGI  Regional Greenhouse Gas Initiative
+RPS Renewable Portfolio Standard
+UNFCCC  United Nations Framework Convention on Climate Change
+
+page 3This report is a call to action written to the President of the United States. In order for federal climate 
+legislation worthy of this nation to pass Congress, we see no alternative to active and principled engagement from the Oval Office. 
+The climate legislation currently pending in both houses of Congress is more likely to encourage the 
+perpetuation of a fossil fuel economy rather than a swift transition to a clean energy future. Incumbent industry and energy interests have too powerful a hold on members of Congress. They have hijacked the legislation and structured it to serve their own special interests. 
+In this plain-spoken Greenpeace analysis of the pending climate legislation called Business As Usual, 
+we identify five points of maximum danger in urgent need of Presidential attention. Individually and together these points of danger constitute an existential threat to the integrity of the law and the ability of the United States to resume its place as a respected leader in the world. The five points of maximum danger are:
+The Clean Air Act is Being Threatened
+Congress is threatening to preempt the Clean Air Act from regulating greenhouse gas emissions from the biggest pollution sources in the nation. The EPA already has permitting authority over coal plants to protect the public from mercury poisoning, acid rain, ground level ozone, airborne soot and other health and environmental hazards. Yet lawmakers might exclude the agency, the single arm of the federal government best-equipped to handle oversight of coal-fired power plants, from the opportunity to do its job in relation to greenhouse gases. 
+The Carbon Cap Has Little Bite
+Congress is adopting a novel and therefore misleading 2005 benchmark to make the proposed US carbon cap look significant. Science demands at least a 25% emissions reduction target based on the 1990 baseline used by the rest of the world. The weak target of a 4% reduction in the House bill will undermine our ability to negotiate a global deal with China, India and other developing nations. 
+Coal is Sanctified as “Clean” Energy Choice
+Coal is the big winner of the legislation, being handed tens of billions of dollars to figure out how to hide its pollution. Renewable and clean technology—wind, solar or geothermal receive scant the same level of federal support.
+Handouts and Loopholes are Legion
+The legislation will create a new form of carbon currency. Instead of auctioning the credits to make polluters pay for pollution, lawmakers are giving away the credits for free, with the lion’s share going to polluters. At the same time, Congress has created an enormous loophole—2 billion tons of offsets—that will effectively postpone the need to reduce US industrial emissions for close to two more decades.
+Renewable Energy is Provided Insufficient Support
+The outcome of the federal support for truly clean renewable energy created by the legislation is less than what would happen if Congress did nothing. Support for clean energy development from state governments and private enterprise already surpasses the weak structure of incentives embedded in pending federal legislation.
+If these five points of maximum danger are not addressed, the legislation will succeed in perpetuating 
+business as usual and fail to avert catastrophic climate disruption. Executive Summary
+
+President Barack Obama
+The White House1600 Pennsylvania Avenue
+Washington, D.C.
+Dear Mr. President, 
+On June 28th, just after the House passed the American Clean Energy and Security 
+Act (ACES), you responded to reporters questions on the state of play of in the United States by saying, “the final legislation that emerges is probably not going to satisfy the Europeans or Greenpeace.” 
+This report will provide you details on exactly why we are dissatisfied with the prevailing 
+model of climate legislation pending in both chambers of Congress. Our critical assess -
+ment is that the legislation, in the crucial near term, will be a perpetuation of business as usual in our energy sector, and it will not decrease emissions in the US.
+In other words:
+Federal climate legislation currently pending in Congress will deter a clean energy economy and fail to avert catastrophic climate disruption.
+This is a brief report written in plain English whose aim is to highlight the points of 
+maximum danger in the legislation. We’ve narrowed them down to five, and they all point to the same disheartening conclusion.
+It is already no secret that the American Clean Energy and Security Act and now the very 
+similar Senate bill have been a source of international disappointment, which handicaps America’s ability to provide global leadership in Copenhagen and beyond. 
+Addressing planetary climate disruption is a matter of national security, as well as eco -
+nomic and environmental urgency of the highest order. The continuation of business as 
+usual will usher in an unprecedented, sustained and irreversible period of national and global catastrophe. 
+Let us make no mistake about what “business as usual” means. It is a terrible euphemism. 
+It really means doing nothing to reduce the greenhouse gas emissions responsible for accelerating climate disruption and socio-economic destabilization everywhere. 
+Mr. President, your leadership is desperately needed to empower Congress to overcome 
+the influence of the corporate fossil fuel lobby and to craft climate law in the public and global interest.
+We cannot give polluters veto power on the most critical environmental law ever written. 
+There is no more time to waste.702 H S treet NW Suite 300
+Washington DC 20001
+tel: 202.462.1177 fax: 2 02.462.4507
+greenpeace.org
+
+page 5
+1900 1925 1950 1975 2000 2025 2050 2075 2100Degrees Fahrenheit
+YearBusiness as Usual
+Without signiﬁcant emission reductions, global temperatures are expected to increase by up to 8 degrees
+1900 to 2008 observations
+1900 to 2000 simulation
+Lower emissions scenario
+Higher emissions scenario
+Even higher emissions scenario
+Source: Thomas, Melillo & Peterson1
+
+page 6The Five Points of Maximum Danger
+1. The Clean Air Act is Being Threatened 
+2. The Carbon Cap Has Little Bite
+3. Coal is Sanctified as “Clean” Energy Choice
+4. Handouts and Loopholes are Legion5. Renewable Energy is Provided Insufficient Support
+
+page 7One of most important climate policy bright spots on the US record over the last decade was the 2007 
+Supreme Court ruling in the case of Massachusetts v. EPA. The high court under Chief Justice John Roberts ruled that CO
+2 could be considered a pollutant under the Clean Air Act. It was a landmark decision that has 
+pressured a laggard Congress to seriously take up federal climate legislation for the first time.
+With the ruling, the Clean Air Act became the de facto climate law of the land, and it positioned the Environ -
+mental Protection Agency as the chief potential regulator of CO 2 and leading arm of federal policymaking on 
+climate disruption.Obeying the court ruling, the agency issued a finding in the first months of the new administration that 
+declared CO
+2 a danger to the health and welfare of Americans, setting in motion EPA’s regulatory apparatus, 
+developed over decades of practice, and pointing it at CO 2. With the tools available, the EPA has also issued 
+new vehicle efficiency standards, and a national greenhouse gas reporting rule. 
+EPA action has lent great urgency to Congress to enact federal climate law, with lawmakers facing pressure 
+from industry and fossil fuel interests to write the EPA out of the climate equation. In the House, they have duti -
+fully complied by inserting provisions into the American Clean Energy and Security Act that would essentially nullify the broad impact of Massachusetts v. EPA and do damage to the public interest by limiting the Clean Air Act’s reach into climate protection.
+In the months since the House passed ACES, the Senate has had time to rethink the wisdom of preempting 
+the EPA, and in its version of the climate bill, the Clean Energy Jobs and American Power Act (CEJAPA) has thankfully refrained from handcuffing the agency. This is perhaps the most significant difference between the House and Senate versions of the legislation and a critical issue of paramount importance.
+Administrator Jackson demonstrated the importance of EPA involvement in climate regulation on the very day 
+the Senate version of the climate bill was introduced. She announced a proposed “tailoring” rule that would bring the nation’s biggest polluters responsible for 70% of US emissions under a sensible regulatory regime.
+EPA action, including this latest rule, has been widely regarded as an alternative to Congressional action. This 
+is a dangerous misperception arising from a limited “either-or” mentality: either the EPA regulates CO
+2, or 
+Congress does. The fact is that both are needed to get the job done. 
+The American Clean Energy and Security Act aims to write EPA out of climate regulation by prohibiting the 
+agency from performing familiar duties: EPA would not be allowed to write new performance standards for power plants based on climate change effects (section 811b); and its New Source Review could not be applied to future power plants on the basis of its emissions of any greenhouse gas (section 834).
+It would perpetuate business as usual by turning the clock backwards on one of the most successful and 
+cost-effective environmental laws in American history. Instead of building upon the demonstrated effectiveness of the Clean Air Act, lawmakers are aiming to undermine it. There are many lawmakers in the Senate who will try to accomplish the same thing, and some, like Senator Lisa Murkowski, have already tried and failed.
+Most Americans do not know what these preemptive provisions in ACES really mean. In plain English it means 
+that lawmakers in the House intended to prohibit the Environmental Protection Agency from having any say about the greenhouse gas emissions that come from coal-fired power plants, the biggest sources of global warming pollution. 1. The Clean Air Act is Being Threatened
+
+page 8It is a most curious set of prohibitions. The EPA already has permitting authority over coal plants to protect 
+the public from mercury poisoning, acid rain, ground level ozone, airborne soot and other health and environmental hazards. Yet lawmakers have seen fit to exclude the agency, the single arm of the federal government best-equipped to handle oversight of coal-fired power plants, from the opportunity to do its job in relation to greenhouse gases. 
+The consequences are doubly troubling. Not only do the restrictive provisions undermine the Clean Air Act, 
+they also undermine the purported goals of American Clean Energy and Security Act itself, and here’s why: Handcuffing the Clean Air Act creates perverse incentives that will encourage our oldest and dirtiest coal plants to continue operating for as long as possible.
+It as an outcome that is precisely the opposite of what is needed most—retiring the nation’s aging fleet of 
+coal plants. Shuttering these coal plants is the most important task we face in the effort to de-carbonize the utility sector. The battle against catastrophic climate disruption cannot be won without it. 
+Yet these coal plants enjoy a special status under existing law. They were built so long ago that they escape 
+regulation from the 30-year old Clean Air Act itself. They were “grandfathered” in when the Clean Air Act was signed into law, with industry arguing that market and regulatory forces would conspire to force them to retire the plants within a decade or two. That never happened.
+These old clunkers are still with us, because industry found it cheaper to keep them operating by flying them 
+under the radar of Clean Air Act regulations. With Massachusetts v. EPA, there was high expectation that these grandfathered plants could be brought under CO
+2 performance standards that would force them to 
+clean up or shut down, and finally correct the grandfathering flaw in the Clean Air Act. 
+Aging Power Plant Infrastructure 
+70% of US Coal-Fired Generating Capacity is More then 30 Years Old
+Source: U.S. Department of Energy3“The bill does not, however, impose any performance standards on existing power plants. And it explicitly removes 
+these plants from the reach of the Clean Air Act. This is a mistake. The overall cap on industrial emissions will 
+not be fully effective for a long time, and, meanwhile, the government should be able to impose lower-emissions 
+requirements on the older, dirtiest plants.”
+—New York Times editorial, “Climate Loopholes”, July 21, 2009 2
+
+page 9Indeed, the latest action from Administrator Jackson—the tailoring rule that would limit the emissions from 
+facilities that release more than 25,000 tons of greenhouse gases a year—shows precisely how the Clean Air Act can serve the national purpose to steer the economy in a clean direction. 
+Allow Congress to turn the preemptive provisions into law, however, and it will strip EPA of the authority to 
+issue the tailoring rule and serve the public interest. There is nothing in the Congressional legislation that could take the EPA’s place, and the dirtiest coal plants in the nation will get a free pas to poison another generation or two of Americans.
+Absent EPA authority, large loopholes and handouts in both the Senate and House versions of the climate 
+bill will make it difficult, if not impossible, for the nation to depart from the trajectory of business as usual for decades. EPA involvement is not an either-or proposition.
+Keep in mind that the Court interpreted the intention of Congress when they passed the Clean Air Act. 
+Congress is trying to take back its vote. The only reason lawmakers are interested in preempting the EPA is to serve the needs of special interests. It is a political concession that will allow the perpetuation of business as usual by writing it into federal law.
+Preemption of the EPA will create entirely the wrong incentives. A grandfathered plant will get a free pass on 
+greenhouse gases even if it undertakes a major overhaul that increases its emissions substantially and extends its life for decades. Extending the life of old coal plants will be the low-cost option that industry will choose. 
+Other provisions in both the House and Senate legislation are not strong enough to assure a different 
+outcome. The near-term carbon cap, as we will see, will not have sufficient bite to send a price signal strong enough to encourage cleaner operations; and the offsetting provisions, as we will also see, will create such large loopholes that they will discourage direct investments in emission reductions from existing coal plants because of the availability of cheaper compliance options elsewhere. 
+Nearly 40 proposed coal-ﬁred power plants in 21 states are 
+exempt from new performance standards under ACES
+Source: Shuster, Department of Energy4
+
+page 10This set of circumstances that will encourage the continued operation of the oldest and dirtiest 
+coal plants in the nation for as long as possible is not accidental. It is the result of deliberate lobbying intended to marginalize the EPA and provide industry with a free hand to continue with business as usual.
+For good measure, industry has also succeeded in another grandfathering gambit, similar to the 
+one that accompanied the passage of the Clean Air Act. A new burst of coal-fired power plant construction is now underway, the largest in decades. It is projected to put close to 40 new coal plants on American soil in the next five years, and will escape coming under performance standards written into pending legislation.
+In the House version, this additional feat of grandfathering was accomplished with the change of 
+a single word. When the discussion draft of the bill was first released in late March, it stipulated that coal plants “finally” permitted after Jan. 1, 2009, would be subject to new performance standards. But the word “finally” was changed to “initially” in the version that was approved by the House and sent to the Senate.
+With that single word change, the new coal plants now under construction were grandfathered 
+in. It is yet another bubble of special case coal plants whose burden will be felt for decades to come and slow the arrival of the clean energy future, unless the EPA remains empowered to do its job on behalf of ordinary citizens. 
+The system of checks and balances has been the recurring strength of the American political 
+system. When both the legislative and executive branches of government were laggard in their uptake of climate policy, it was the Roberts Court that delivered a verdict in Massachusetts v. EPA to rescue the democracy from national and global irresponsibility.
+Now Congress is making the attempt to overturn the wisdom of the Court and keep the 
+Executive—by handcuffing the EPA—from having an appropriate role in shaping solutions to one of the biggest challenges the nation has ever faced. There is no margin for error given the lateness of the hour, and the complementary contribution of every branch of government is needed to succeed.
+Mr. President, the attempt to preempt EPA authority over CO
+2 and turn the clock backwards on 
+the Clean Air Act is a maximum point of danger that needs your urgent attention.
+
+page 11Federal climate legislation proposes to set a cap on carbon. In and of itself, a cap on carbon is an unprec -
+edented step, a signal achievement, but both the House and Senate’s targets are weak and timid in the 
+short term and wishful thinking in the long term.
+The House target for 2020 is to reduce US emissions 17% below 2005 levels of CO 2 pollution, 80% by 
+2050. The Senate target ups the short-term ante slightly—to a 20% reduction by 2020 below 2005 levels. 
+These numbers seem to point to reasonable progress, but embedded within them is some sleight of hand that hides the truth about these targets: They are far short both of what science demands and what our European allies have committed to achieve.
+The sleight of hand involves using a 2005 benchmark. The honest vocabulary of international climate 
+discourse uses 1990 as the benchmark against which to measure progress, because it recognizes the Framework Convention on Climate Change, which emerged from the Rio Earth Summit of 1992. 
+It was the moment when the international community agreed “to achieve stabilization of greenhouse gas 
+concentrations in the atmosphere at a low enough level to prevent dangerous anthropogenic interference with the climate system.” 
+The US is party to this agreement. When it came into force, 2005 was still more than a decade away. There 
+was no question then that 1990 was the benchmark against which to measure progress, and it remains the benchmark of honest accounting practiced by climate scientists and the IPCC. 
+So for the US to adopt a 2005 benchmark is a purposeful attempt to create confusion. It is behavior unbe -
+coming a superpower reaching now, at least with its rhetoric, for global leadership on the climate issue.What happens to the proposed US emission target when measured against 1990 levels of CO
+2 pollution? 
+From an apparent 17% reduction, it shrinks to an actual 4%. Or from the Senate’s 20% reduction, it shrinks 
+to an actual 7%. That’s the raw, unvarnished truth. The US is seeking to reduce CO 2 pollution 4% to 7% 
+below 1990 levels. 2. The Carbon Cap Has Little Bite
+IPCC
+RecommendedRange
+4%–7% 20% 25% 40% 
+0% 5% 10% 15% 20% 25% 30% 35% 40% 45% 
+US EU Japan Germany % below 1990 levels Emission Reduction Targets 
+Source: Greenpeace, IPCC5
+
+page 12Now that we can compare apples to apples using a 1990 benchmark, we can ask, is the US cap enough of 
+a commitment for the world’s largest historical polluter to make?
+To begin with, the science says no. The IPCC’s 4th assessment report, now already a conservative 
+document, says a 25% to 40% cut in global emissions below 1990 levels is needed to prevent dangerous anthropogenic interference with the climate system. That level of reduction will be impossible to achieve without a commensurate US commitment.
+The European Union for its part is ready to pull its weight. It has committed to a 20% cut in emissions below 
+1990 levels by 2020 already and is willing to reach for a 30% cut within the same time frame if the US and other heavily polluting nations in the developed world match the commitment.
+The US has yet to ante up a sufficient marker to get in this high stakes game. The US carbon cap targets 
+create little leverage or negotiating room that will be needed to persuade China, India and other nations of the developing world to join an international climate regime to help solve a problem they did little to create. 
+What is particularly disappointing about the 2020 cap is that to meet it will require almost no effort or 
+change on the part of polluters. The pending legislation has very strong energy efficiency provisions which honestly promise to cut energy consumption—and hence carbon emissions—emanating from our buildings and appliances. 
+It is worth noting what McKinsey and Company, one of the most perspicacious management consulting 
+companies on the planet, has repeatedly and convincingly told us about energy efficiency, and its potential to reduce emissions. McKinsey believes it would be possible for the nation to reduce non-transportation energy consumption 23% through energy efficiency by 2020. It would translate into a CO
+2 abatement of 
+1.1 gigatons—more than 15% of annual current US emissions—from an integrated set of energy efficiency investments and solutions. 
+In other words through energy efficiency alone, the potential exists to surpass the proposed cap many times 
+over. Further, because the energy savings would eliminate $1.2 trillion in waste, this level of success would come at virtually no cost. 
+Given this prospect, it is embarrassing to think that our lawmakers do not have the courage to extract some 
+contribution from polluters to augment the size of the cap and allow the nation to at least stand as an equal among allies in Copenhagen in December.
+Instead we are being asked to take a leap of faith—that a carbon price signal—however weak—will conspire 
+with market forces to squeeze the carbon out of our economy.
+It is impossible to ignore the reality that the weak cap undermines the foundation of the theory, fundamental 
+to its integrity. It is as if we are imposing a price on carbon that nobody really has to pay, and this is happen -
+ing so that the current generation of political leaders can pass the baton of responsibility down the line for another decade or two.
+It is a bad foundation upon which to build a climate policy.Mr. President, this is another maximum point of danger that needs your urgent attention.“Climate change legislation is moving forward—but big polluters have shaped much of it. As I noted recently, the 
+Waxman-Markey climate bill, passed by the House last June, gives away 85 percent of pollution permits to the nation’s 
+biggest polluters, and the “cap” it proposes on overall carbon emissions would cut greenhouse gas emissions only by 
+an estimated 2 to 4 percent by 2020 compared to the UN reference year of 1990” 
+—Robert Reich, Former Secretary of Labor, Professor at Berkeley,  
+ Huffington Post , October 12, 20096
+
+page 13There is probably no better indication of the persistence of business as usual than the fact that both the 
+House and Senate climate legislation prioritize support for the primary industrial source of greenhouse gas. That’s right, the largest federal investment is to subsidize coal.
+It was expected that climate legislation would support coal energy to make a transition to a future where 
+its primacy as the source of electric power diminishes. But no one was prepared to see the enormous level of federal support in the bill aimed at an industry that employs fewer Americans than wind energy alone. It is beyond reason and integrity. It has led many to wonder whether the House bill might be more aptly named the American Coal Energy and Security Act, for embedded within it are generous subsidies and boondoggles that favor coal above all other energy sources.
+A good example is Section 114 of the bill, which is a giant gift to the coal-fired electric generation industry. It 
+would create the Carbon Storage Research Corporation and funnel $10 billion to support it over the next 10 years, with 5% or $500 million designated simply for “administrative expenses” to be spent at the discretion of new corporation’s officers. 3. Coal is Sanctified as “Clean” Energy Choice
+Clean Energy vs. Dirty Energy
+Allowance Allocations by % in ACES in 2020
+15% Low-Income 
+Households 
+13% Trade-Vulnerable 
+Industries 
+5% Avoided 
+Deforestation 
+5% Other 
+3% Adaptation 
+1% Auto Industry 6% Ef ﬁciency       Renewab les 
+Source: Point Carbon, Waxman-Markey (ACES 2009) Project Report 7
+
+page 14The most curious part is where all that money is going to come from: From every ratepayer who uses 
+electricity, in the form of an almost invisible tax that would average about 50-cents-a-month. If this program makes it through Congress and gets up and running without alteration, ratepayers will likely see a small new charge on their utility bills among all the others, called something like “Federal Clean Energy Assessment.” Talk about a light switch tax.
+There is no parallel provision in the bill to set up a federally created corporation to support solar or wind or 
+geothermal energy development, even though the House legislation is called the American Clean Energy and Security Act. 
+Section 114, however, is still only a very minor part of the favoritism being showered upon coal. Many times 
+more generous and decisive is the multi-billion-dollar bonus payment mechanism described in the very next section, Section 115. The mechanism is being created to encourage the commercial development of CCS—carbon capture and sequestration. CCS is the technology that aims to prevent the escape of CO
+2 
+pollution into the atmosphere by capturing it and burying it underground instead. 
+The bonus payments outlined in Section 115 will essentially cover the full capital costs of constructing a 
+CCS-capable coal plant—about $3.5 billion each. The mechanism does so by providing a bonus payment of as much as $90 a ton, and not less than $50 a ton, for sequestering carbon underground. Payments are for CO
+2 avoided for ten years of operation. Assuming the midpoint bonus of $70/ton, this means that a 1 
+gigawatt CCS-capable plant that sequesters five million tons of CO 2 a year will earn $350 million a year for 
+ten years—a total of $3.5 billion. 
+Phase I of the bonus program guarantees this rate for the first six gigawatts to come on line. Phase II of the 
+program extends the bonus payment through a reverse auction procedure that might lower the bonus rate slightly depending on the bids submitted, but it could apply to as much as 60 gigawatts of new capacity—ten times that of Phase I. This is an enormous level of support. 
+There is no parallel provision in the bill to set up a federally created bonus program to encourage solar or 
+wind or geothermal energy development. A similar provision that would pay a $50 to $90 bonus per ton of avoided CO
+2 pollution to generators of emission-free power would cause an unprecedented clean energy 
+and green jobs boom. 
+Yet no similar bonus mechanism is available to solar and wind and geothermal energy developers. The plain 
+evidence demonstrates that the proposed legislation presumes coal can one day become emissions-free, and forgets the other environmental and labor dilemmas with burning and mining coal. 
+We understand that most governments of the world—including America’s—believe that CCS is a crucial tool 
+needed to reduce CO
+2 pollution. The prevailing belief is that there is no way to resist burning the cheap and 
+abundant BTUs available in massive deposits of coal to meet rising global energy demand. Therefore, CCS technology is deemed essential to continued economic development. It is a belief that has overtaken equally valid and competing imperatives. 
+The coal lobby has secured a lock on the legislation, assuring the perpetuation of business as usual and 
+massive subsidies for their industry. It is not the bonus payments for CCS alone that accomplish this, but the bonus payments in combination with other maximum points of danger embedded in the proposed bill.
+Let’s recall the weakness of the proposed cap on carbon; the proposed amendments to the Clean Air Act 
+which would pre-empt regulation of the oldest and dirtiest coal plants in the US fleet; the grandfathering of a second bubble of new coal plants now in the pipeline, which will similarly escape regulation; and the giant loophole created by offset provisions (more on this below). When combined with the bonus payment mechanism for CCS commercialization, they create a perverse set of financial incentives that will take the US energy economy in a direction precisely the opposite to what is urgently needed.“By establishing requirements for new plants and then effectively exempting the old ones, you create the same 
+disconnect that has created problems under the Clean Air Act.” 
+—Eric Schaeffer, Director Environmental Integrity Project, former Director EPA Office of Regulatory Enforcement, 
+Washington Post , August 17, 20098
+
+page 15Consider a coal-burning utility company that in its operations includes a number of aging, high-polluting 
+plants that cannot be regulated by the Clean Air Act. It means the company has assets that are completely amortized and are essentially cash cows. The only real cost is fuel - cheap coal. 
+Further, with the coming build out of new transmission lines, the company will be able to get this cheap 
+power to new, more lucrative markets. These aging assets will be among the most valuable in the company portfolio, and they are going to be run full throttle.
+Consider also that this utility company also has a number of other plants under construction that have 
+been initially permitted before January 1, 2009. The company can complete construction in the coming years, secure in the knowledge that they will escape the performance standards in the proposed law. So in essence it has a second tranche of grandfathered coal plants also in its portfolio that it can build and operate before even thinking about a CCS-capable plant.
+With energy efficiency investments rippling through the building sector and a global recession, there really 
+in no rush to build new generating capacity anyway. The company, however, may want to add a CCS capable plant or two to its portfolio for two reasons. It’s good for the company image and each CCS-capable plant will throw off a windfall of bonus carbon credits—worth about $350 million a year. 
+Those credits can be combined with the free carbon allocations the company will receive under the new 
+law (see below), creating a store of pollution allowances that, when coupled with generously available offsets, the company can slowly spend and avoid feeling the weight of the carbon cap for at least the next two decades.
+So in current circumstances, it seems that the incentives align to support the indefinite extension of the 
+status quo—business as usual—an endless fossil future. 
+There is also another way in which this is so. Although the development of CCS technology will create the 
+lifeline for continued burning of coal, the oil and gas industries will be big winners as well. 
+It will be up to them to develop the sequestration portion of the technology. Industry journals have forecast 
+that it could lead to a doubling of the size of these incumbents industries as they create and control the business of disposing of billions of tons of CO
+2 pollution each year on an indefinite basis. The infrastructure 
+required for carbon sequestration on the scale contemplated is equal in size to the one that supplies oil and gas to the world right now.
+Government policy has the power to point society in new directions, and the nation and the globe is at an 
+important crossroads. At this moment of opportunity and danger, self-interested fossil fuel industries with enormous resources and power have hijacked clean energy and climate legislation to serve their counter interests. This cannot be allowed to proceed.
+The American Clean Energy and Security Act must be used as an opportunity to encourage wind, solar, 
+and other clean energy industries so that a clean energy economy becomes something more than rhetoric that polls well.
+For as we shall demonstrate in a subsequent section, the strong support the proposed bill provides to 
+fossil energy interests is mirrored by inexcusably weak federal support for the renewable energy sector as a whole. 
+Fossil energy lobbyists have negotiated a stunningly lucrative deal with Congress that both guarantees a 
+profitable future and assures that renewable energy technologies are poorly positioned for fair competition. We fear a deal that will backfire on both the environment and the nation’s economic security. 
+Mr. President, this is another maximum point of danger that needs your urgent attention.
+
+page 16“Handouts and Loopholes.” Those three words constituted the headline that The Economist used on 
+its May 21st story on the American Clean Energy and Security Act. “America’s climate bill is weaker and worse than expected,” the magazine elaborated in the sub-head.
+This should come as no surprise. One of the consequences of imposing a price on carbon is that it 
+creates a new currency called carbon credits, and everyone on K Street wants to get their hands on this new money. Congress has complied with one of the biggest proposed giveaways in American history.
+There are three fundamental industry giveaways that individually and together constitute an existential 
+threat to the cap and trade system the bill is aiming to create. 
+1. The scheme for allocating carbon credits; 
+2. The set of provisions permitting an enormous number of offsets to  
+substitute for pollution reduction; 
+3. And the forest offset mechanism that will undermine the effort to protect  
+the world’s tropical forests, whose continuing destruction contributes to  
+20% of annual global carbon emissions. 
+Carbon Credit Allocations
+Pending legislation creates a new carbon currency, and then proceeds to give most of it away for free  
+to polluters.
+The single largest share—around 30% of the total—goes for free to companies that distribute mostly 
+coal-fired electric power, and another 12% of the total goes for free to merchant coal generators and local natural gas distribution companies. The polluters have done a good job of getting the lion’s share of this new currency, worth hundreds of billions of dollars.
+This is not what you asked Congress to do in your speech to the joint session in February 2009, just 
+weeks after you took the oath of office. You asked lawmakers to craft climate legislation with 100% of credits being auctioned off to the highest bidders. Your public budget request assumed $650 billion in new government revenue from these auctions between 2012 and 2019. 
+You understood that these auctions would raise the money needed to implement the climate legislation 
+and uphold the fundamental principle that polluters must pay for the pollution they cause. 
+Every American traveler knows that when you enter a new territory, you need to take your dollars and buy 
+the local currency—be it the Euro, the Yen, the Ruble or what have you. No one expects to be able to walk up to the window at the currency exchange and receive a handout for free, but that is exactly what will happen as we enter the new territory of carbon regulation under the current provisions of pending legislation. Freshly minted currency is about to be handed over to polluters for free in the form of free carbon credit allocations.
+The pending legislation, however, attempts to hide this act of brazen robbery from public coffers by 
+adding a vague proviso that the free carbon credits given to power distributors must be used “for the benefit of consumers.” And so in the summary of the bill’s allocation structure and in the ensuing spin, supporters of the bill claim that all those allocations will go “for the benefit of consumers.” Just how, precisely, no one knows, so it is nothing more than an enormous instance of wishful thinking.
+It will be up to the Public Utility Commissions in each of our fifty states to individually decide how they will 
+use the windfall influx of billions of dollars “for the benefit of consumers.” It will require a Herculean effort of policing to make sure this open invitation to corruption is not wholeheartedly embraced.4. Handouts and Loopholes are Legion
+
+page 17Economists have been deployed to make the common-sense-defying argument that it really doesn’t matter 
+whether the credits are auctioned off or given away. They assert instead that what really matters is what happens to the value of the credits, and in a purely abstract and theoretical realm, they are probably right. But that’s like saying it doesn’t matter that you gave the thief the keys to the cash register. What matters is what the thief does with the keys or what happens to the money. Our point precisely. 
+Lawmakers in the New York statehouse have recently provided a concrete counter-example for federal law -
+makers to consider, what happens if you give the storeowner the keys to the cash register. They have provided 
+a lesson not only in how to really use the value of carbon credits “for the benefit of consumers,”  but also in how to leverage it for tens of times its value to kick start job creation and economic development.
+New York is one of ten northeastern states participating in the Regional Greenhouse Gas Initiative (RGGI), 
+which is the nation’s first and only cap and trade system that is currently functioning. In most states RGGI auctions off 100% of available carbon credits rather than giving them away to polluters for free, and here is what New York lawmakers decided to do with some of the millions of dollars of revenue it will earn from the sale of the carbon currency.
+The new Green Job/Green New York Act will leverage $112 million of the incoming revenue over the next five 
+years to kick-start a state-wide $5 billion energy efficiency effort that will pay for itself. These proceeds of the carbon auctions will deliver almost 50 times their value “for the benefit of consumers.” In the process, one million homes will be retrofitted to generate energy savings and create up to 16,000 new jobs.
+The New York law was passed by the legislature with overwhelming bipartisan support, unanimously by the 
+Assembly (147–0) and in the state Senate, by 52–8. The program creates a partnership with the private sector to jump-start economic activity that will be self-sustaining. It is that free-market formula which in the end attracted conservative Republican lawmakers to make common cause with the progressive Working Families Party, which spearheaded the legislation. 
+There is no local electric distribution company or Pubic Utility Commission on that would or could do what 
+these lawmakers in New York have done for their constituents with proceeds from the sale of the new carbon currency.
+Using this concrete example, a little simple math applied to your federal budget delivers a most hopeful  
+result. You project $650 billion flowing to federal coffers from the auction of carbon credits between 2012 and 2019 alone. If those funds were similarly leveraged to return 50 times their value in economic development, we are looking at more than $32 trillion in economic development deployed for the benefit of consumers. That is almost three times the size of current annual US GDP.
+That’s an awfully big handout for Congress to be giving away, with the lion’s share going to utility and coal 
+company executives instead of the American people.
+There is another set of reasons, too, that the allocation handout is counter-productive. It has to do with the 
+perpetuation of our existing energy infrastructure. PointCarbon has provided an analysis of this. 
+PointCarbon analysts conclude that the free allocations act as a fixed subsidy to utilities that encourages them 
+to maintain current technology. 
+Why change if you are getting paid to pollute with your old technology? Why adopt new technologies or build 
+cleaner power plants if you’d stop getting free carbon currency when you decommissioned the old ones? The free allowances work to conserve the existing capital structure instead of incentivizing a move to a clean energy future. 
+(Please refer to the PointCarbon report
+7 for a technical assessment of the way in which allocations diminish 
+the environmental efficiency of the American Clean Energy and Security Act.)“On May 15th Henry Waxman and Edward Markey, the Democratic point-men on climate change in the 
+House of Representatives, unveiled a bill that would give away 85% of carbon permits for nothing, with 
+only 15% being auctioned…most polluters, having just been promised hundreds of billions of dollars’ 
+worth of permits for nothing, are elated.”
+—The Economist , editorial, “Handouts and loopholes”, May 21, 20099
+
+page 18Offsets
+The point of a cap and trade system is to do something long overdue that has never been done before: 
+impose a price on carbon emissions, so that there is a cost associated with contributing to global warming pollution. 
+The cap-and-trade system is a mechanism that relies on the functioning of free-market forces. The 
+theory behind it expects that the market will find the cheapest way to squeeze carbon out of the economy if allowed to function unhindered. The cost of carbon will rise until its true cost to society is reached and balanced against alternatives. 
+The pending legislation creates a cap and trade system, but additional and extraneous provisions in the 
+bill interfere with its functioning, and chief among them are the “offset” provisions. The bill allows two billion tons of offsets to substitute for pollution reduction. 
+It is as if a man with heart trouble and diabetes who weighs 360 pounds is encouraged by his doctor to 
+pay someone else to go on a diet for him.
+To be fair, the economic thinking behind offsets has a narrow theoretical validity. Since the atmosphere 
+is one entity, it really does not matter precisely where or how CO 2 emissions get reduced. So the rational 
+thing to do is scour the planet for the cheapest opportunities to reduce CO 2 emissions, or their equivalent. 
+One problem with this approach is a moral one—it skirts complex issues of social justice—because it enables the wealthy nations to pay the poor ones to go on a carbon diet for them. It allows polluters to continue polluting by buying indulgences that clean the conscience more than the environment.Cummulative Emissions in ACES Covered Sectors  2012–2020
+(billion metric tons CO2-e)
+Source: The Breakthrough Institute10
+
+page 19Another problem is that this approach avoids the practical reality that it has not been possible to generate 
+real offsets in any meaningful quantity. The academic analyses of Michael Wara and the recent arrests in Europe over massive fraud in carbon trading provide ample concrete evidence for us to relinquish belief in workability of the offsetting theory. 
+The fact is that the allure of immense profits has mostly produced massive instances of cheating in the 
+offset market, with the environment left to suffer the consequence. We are on the brink of witnessing the creation of another sub-prime bubble, a global trade in ostensibly halted CO
+2 emissions that in reality are in 
+the atmosphere. 
+The fat patient will stay fat; the other man paid to go on a diet will do no such thing; and the doctor will 
+walk away satisfied. It is a healthcare system for the environment that will be in need of reform the day it is created.
+This is why the California legislature voted to strictly limit the use of offsets in the cap-and-trade program 
+it is developing to regulate emissions of the state economy. The California economy by itself is the eighth largest in the world. By forcing polluters to take action in-state, legislators are keeping new green jobs at home and bringing associated health benefits of cleaner air to their own constituents. 
+It is unfortunate that the federal and international discussion of offsets is usually a jargon-laden affair, with 
+experts talking about how to guard against “leakage” and assure “additionality.” These are euphemisms for the question—how do we make sure no one cheats. The jargon has assured that the general public has little access to the discussion. If it was conducted in plain English, we’d understand that the offsetting conversation is really about how to design a loophole to allow polluters to keep polluting—to continue with business as usual. Everyone already knows—wink, wink—that the cheating will continue because there is no practical way to stop it. 
+The number of offsets pending legislation authorized on an annual basis is truly astonishing: Two billion 
+tons worth. That is equivalent to one quarter of annual US emissions—or the first 75 pounds of flesh our fat man would shed on a diet. That’s why many analyses conducted by both the EPA and EIA have shown that the offset provisions will mean that the US will not have to start reducing its own industrial emissions for almost another two decades. If that is not business as usual, nothing is.
+When the number of allowable offsets was first revealed, in the climate community it had the impact of a 
+punch below the belt, and it left everyone temporarily down for the count and sucking air. Some of us have yet to recover. Some have picked themselves up off the canvas and brushed off the low blow. Others have found ways to rationalize the offsets as necessary, even playing the role of apologist for bad policy. 
+They make the argument about offsets that that there simply won’t be enough to go around. There is no 
+way that the world can supply 2 billion tons worth of verified, quality offsets to hungry markets, so the unmet demand will drive up their price and render them unattractive substitutes for real pollution reduction. They are saying, in essence see, don’t worry, offsets won’t be a problem, they don’t really exist.
+What’s interesting is that the same argument is being used by others to call for the imposition of a price 
+collar on top of the offset provisions, lest the price of carbon rise too high and force a change to business as usual. 
+We would be naive to assume that corporate lobbyists secured authorization for two billion tons of offsets 
+without having a plan for where to find them and how to use them. It is money that no profit-maximizing organization is going to leave on a table unclaimed, and without much effort even we can already identify two enormous pools of potential offsets that could go a long way in supplying a hungry market.
+
+page 20One of these pools of potential offsets are hydrofluorocarbons (HFCs)—also known as “super greenhouse 
+gases” because they have a global warming potential many thousands of times greater than CO 2. These HFCs 
+are part of the Kyoto basket of gases and already account for 25% of the total offset market (CDM)  in the current EU trading system. 
+Even though the likelihood is good that the production and consumption of these extremely dangerous sub -
+stances will be phased out through the Montreal Protocol, there will still be a steady supply of HFCs available 
+for the offset market in coming decades. International negotiations have made it clear that China, India, Brazil and many European nations are counting on being able to get credit under a climate treaty for reducing HFC emissions even as production is ramped down.
+Peer-reviewed scientific literature forecasts that HFCs equal to 3 billion tons of CO
+2 will still be produced in 
+2023 alone, the peak year under an aggressive HFC phase down scenario. Substituting alternatives for HFC 
+use or destroying banks of HFCs (or CFCs for that matter) could cheaply and easily provide verifiable sources of offset credits to allow polluters to otherwise continue with business as usual. 
+The other enormous pool of offsets—and this one the pending legislation specifically identifies—will come at 
+the expense of the world’s tropical forests. This requires a special discussion of its own.
+Forest Offsets
+The provisions relating to the world’s forests accomplish a similar give and take as the rest of the bill, leaving us again with the continuing prospect of business as usual. 
+This is particularly dangerous when the planet’s remaining tropical forests are at stake. At once the great 
+carbon sinks of our ecosystems, the locus of the richest stores of biodiversity, and the great moderators of our climate, these forests are in danger of being transformed into mere carbon commodities, used to fill a demand for cheap carbon offsets. It is crucial to preserve the “give” that is in the bill and remove the “take.”
+The “give” to the forests that is in the bill provides a good down payment for the international effort that will be 
+needed to achieve zero tropical deforestation. The bill sets aside 5% of carbon credit allocations to fund tropi -
+cal forest conservation. In 2020 alone, at an estimated carbon price of $17 a ton, those allocations would be worth almost $5 billion. The bill aims to have these allocations cut deforestation enough to result in emissions reductions of 6 gigatons by 2025. That would be almost equivalent to shutting down current US emissions entirely for a year.
+But one of the primary purposes of these funds serves corporate polluters: “preparing developing 
+countries to participate in international markets for international offset credits for reduced emissions from deforestation.”
+In other words, lawmakers are saying to developing nations with tropical forests, we’ll pay you develop capacity 
+to monitor and preserve your forests because we want to turn them into carbon commodities to side-step pollution cuts in the US and keep the cost of carbon low.
+There is widespread agreement that efforts to reduce emissions from deforestation and forest degradation 
+(REDD) should be a part of US legislation. The question is not whether to include REDD, but how to administer and fund it. Though they are potentially cheap and plentiful, REDD offsets are also particularly problematic. There are four main reasons why–leakage, additionality, permanence and measurement,—terms that will be explored below. 
+
+page 21Leakage  refers to displacement of deforestation from one area to another. The drivers of deforestation, such 
+as the demand for timber, or for land to grow soy beans or palm oil or to graze cattle are highly mobile in a 
+global economy. If deforestation is restricted in one location due to an offset project, it can be extraordinarily difficult to prove part or all of the avoided deforestation (and associated greenhouse gas emissions) did not simply happen elsewhere. This is especially problematic with so-called “sub-national” REDD offsets allowed in the ACES bill. The potential for leakage is extreme with sub-national REDD offsets because they are not even tiered to country-wide accounting. So, deforestation could actually increase in a nation while isolated parcels of forests are used to justify polluting activities in other parts of the world.
+Additionality  is another issue that is difficult to prove with REDD offsets. It is very difficult to prove that a 
+piece of protected forest absolutely would have been deforested without the offset project. With volatile, 
+dynamic drivers of deforestation, changing politics and economies in developing nations and a host of other factors, assessing additionality often requires shaky predictions and guesswork.
+Permanence  is also another real challenge for forest credits. Guaranteeing that a given forest, and its 
+estimated carbon value, will stay the same a long period of time (100 years or more) is difficult to do. Tropi -
+cal forests are dynamic, living ecosystems that are easily affected by changes in politics, human activity, 
+insects, disease, fires and global warming itself.
+Finally, simply estimating and crediting carbon values from avoided deforestation is hugely problematic. 
+When trading an avoided deforestation offset for industrial emissions like those from a coal plant, we are comparing apples with oranges. Our ability to come up with a value for avoided deforestation initiatives has improved with advances in technology, but there are still large margins of error when compared with measurement of industrial emissions.
+We must also remember that, unlike tailpipes or smokestack, forests are places inhabited by millions of 
+indigenous peoples around the world. In the rush to supply massive amounts of REDD offsets, serious ethical questions are raised. Who owns the land? Who owns the carbon rights on that land? Can revenues from carbon trading from these forests be equitably shared with indigenous communities? How can we be sure they rights are fully respected?
+To answer these questions, long, involved and expensive stakeholder processes are necessary; process 
+that add to the cost and bite into the profits of offset project developers. With powerful financial incentives to create as many “certified” REDD offset projects as possible at the lowest possible cost, the likelihood that the rights of indigenous peoples and local communities will be infringed is high. Similarly, biodiversity values could be ignored as carbon markets reduce diverse rainforests to little more than a collection of “carbon sticks” to generate cheap offset credits.
+With an offset approach to REDD, the higher the baseline deforestation rate in a region or country, the more 
+money could be generated from REDD offsets; this is because offsets only pay for avoided deforestation. This rewards nations with a history of undesirable behavior and leaves out countries with large tracts of forests with low deforestation rates (like those in the Congo Basin). This not only creates a perverse incen -
+tive, it increases likelihood for leakage in a dynamic global economy.
+Despite these issues, industry lobbyists have worked hard to make REDD offsets a critical piece of the bill, 
+playing both a huge role in supplying cheap offset credits and supporting the Strategic Reserve, a key “cost containment” mechanism in the bill.
+Mr. President, all of these handouts and loopholes—and many others we have declined to mention—are 
+maximum points of danger that need your immediate attention.
+
+page 22What is especially dangerous, and frankly Orwellian, is that the American Clean Energy and Security Act 
+and the Clean Energy Jobs and American Power Act both provide insufficient and grudging support to clean energy!
+What state governments and private enterprise are doing to promote the adoption of clean energy already 
+surpasses what the federal government is now proposing to do. 
+In other words, even the clean energy provisions of the bill support the status quo, the continuation of 
+business as usual. It is farcical that both bills have the words “clean energy” in their titles. They should instead be encouraging the rapid development and deployment of clean energy—the way we once encouraged a first lunar landing. 
+President Obama, you told the UN General Assembly that the US “will move forward with investments 
+to transform our energy economy, while providing incentives to make clean energy the profitable kind of energy.” The climate bill undermines that aim. 
+A look at some raw numbers provides the most obvious evidence. Research and development for all clean 
+energy technologies—solar, wind, geothermal, biomass and all others—will be supported with $47 billion worth of carbon credit allocations between now and 2030. That might work out to about $10 billion of support for each kind of clean energy—less than half a billion dollars a year—a paltry sum.
+At the same time, the American Clean Energy and Security Act provides more than $60 billion of support 
+for carbon capture and sequestration (CCS) development—a single technology that aims to make dirty coal clean. If the technology can be made economically viable—and that remains an open question—it would not be ready for deployment at scale for another 15 to 20 years. 
+On nuclear power, the House bill (ACES) includes massive loan guarantees that will benefit nuclear 
+power by reducing the cost to borrow money to build nuclear power plants, loans that Wall Street won’t touch. The draft Senate bill goes one step further, declaring nuclear a “clean” energy source, not unlike propaganda from the nuclear industry. Bowing to pressure from the pro-nuclear lobby, the bill states that “nuclear energy is the largest provider of clean, low-carbon, electricity....” All indications are that nuclear  will be given more handouts and lifelines to garner votes for the Senate bill.
+The imbalance in the levels of support for clean versus dirty energy is a glaring indication of where Con -
+gress is throwing its weight. One result of this imbalance is that the pace of clean energy deployment will 
+decline over the next 15 years and the use of coal-fired electricity will increase over the same time period, if the pending legislation becomes law. It doesn’t sound like truly clean energy will become the profitable kind of energy anytime soon.
+Over the last 10 years, Germany has actually figured out how to do what you wish to do in America. They 
+have used government policy to really support clean energy development so that renewable energy use, which in 2000 comprised 6.3% of total electricity supply, had risen to 14% in 2007. In just seven years, government policy had encouraged more than a doubling of the clean energy sector. 
+Germany created a new engine of development within its old industrial economy and that has meant 
+300,000 new jobs for its citizens. On a per capita basis, Germany now has eight times as many jobs in the wind and solar industry as the U.S. does. As a percentage of GDP, the clean energy sector in Germany is almost three times greater than in the U.S.
+That kind of economic performance is what has allowed Germany to aim to reduce its greenhouse gas 
+emissions 40 percent below 1990 levels by 2020. That’s double the EU commitment of 20 percent, and 10 times greater than the meager commitment of 4 percent below 1990 levels that the House passed in the American Clean Energy and Security Act. 5. Renewable Energy is Provided Insufficient Support
+
+page 23It is worth noting that it is not particularly sunny or windy anywhere in Germany, especially when compared 
+with the deserts of the American Southwest or the windy expanses of the Great Plains. 
+How did Germany—with all its clouds and cold—do it? They deployed a policy mechanism called a feed-in 
+tariff. Essentially, the government guaranteed producers of renewable energy a mandatory price for the more expensive power they generate. In addition, local grid operators were required to provide grid access to renewable energy producers and to transmit the clean power on a priority basis.
+It was a national clean energy subsidy, financed by a modest rate increase spread across the entire 
+population, a tariff that steadily declines and disappears completely over 20 years. It is a policy that indeed provides incentives to make clean energy the profitable kind of energy and it has worked. 
+A few cities and states in the US have adopted a feed-in tariff, but in pending US legislation, the policy 
+mechanism of choice for encouraging clean energy development is the Renewable Portfolio Standard (RPS). Twenty nine states plus the District of Columbia have passed mandatory Renewable Portfolio Standards or goals and five more states have passed voluntary standards or goals. Nominally, the ACES bill Combined Efficiency and Renewable Electricity Standard (CERES) requires 20% of the US electricity supply to come from renewable sources by 2020. 
+In 2007, renewable energy accounted for 9.4% of total US electricity supply. Existing organic growth of 
+business as usual in the clean energy sector will be enough to surpass the target in the pending legisla -
+tion. According to ICF International analysis contracted by Greenpeace, after exclusions for small utilities, credit for energy efficiency instead of new renewable generation and loopholes for nuclear power, carbon capture and storage and existing hydro, the real renewable requirement is less than 10 percent, a goal that the states alone will achieve with current RPS policies
+12. Is this the best that American Clean Energy and 
+Security Act and the Clean Energy Jobs and American Power Act can do?
+Mr. President, the weak support for clean energy is another point of maximum danger that needs your 
+urgent attention.
+0 10,000 20,000 30,000 40,000 50,000 60,000 70,000 80,000 90,000 TWh State Renewable Energy Policies 
+Do More Than ACES Would 
+Small Utilities Exempt 
+Hydr o Credit 
+Nuclear Credit Coal+CCS CreditEfﬁciency Credit 
+Total New Renewable Energy 
+Under ACES Demand under CERES 
+Existing State Level 
+Renewable Energy Requirements
+Source: ICF International, An Evaluation of Potential Demand for Renewable Generation12“...the bill would direct just $9 billion annually to technology innovation, assuming an average carbon price of $15 per ton. 
+That may sound like a lot compared to the nation’s current, anemic efforts, but it pales beside the $20 to $30 billion per year 
+on R&D called for by Brookings (or the $15 billion annually called for by Barack Obama).”
+—Mark Muro, Fellow, Brookings Institute and Policy Director, Metropolitan Policy Program,  
+Brookings Institute May 26, 200911
+
+page 24Optimists, Apologists, Opposition and Principled Action
+After more than 20 years of effort and attention to the issue, America has never been closer to enacting 
+climate legislation. The tantalizing prospect of having a climate law on the books has created a dangerous willingness to accommodate unacceptable compromise. 
+The legislative momentum of 2009 has prodded industry to spend tens of millions of dollars on lobbyists, 
+hired to secure handouts and craft loopholes. Together with longstanding opponents of progressive climate and energy legislation, they have driven lawmakers to make such steep concessions in order to secure votes that pending legislation has become merely an extension of business as usual.
+The optimists seem to believe that a price signal, no matter how weak or undermined by handouts and 
+loopholes, will provide the impetus to help us get started to turn the corner on climate change. They point to the Clean Air Act and Social Security as federal measures that started out weak and grew effective over time.
+It is attractive historical analogy that is in the end ultimately unpersuasive. Those national laws did not 
+have embedded within them a simultaneous and greater strengthening of the very thing in need of correction. The Clean Air Act, for example, did not send hundreds of billions of dollars in handouts and loopholes to the very polluters it was trying to regulate. The pending legislation does.
+Optimists argue, too, that we will likely never have a constellation of elected and appointed leaders in 
+Congress, in the White House and in the federal agencies as sympathetic to climate action as we do now, so, despite its apparent flaws, the American Clean Energy and Security Act is the best we’re going to get. Don’t let perfect be the enemy of the good, they say.
+That is a good argument used to poor purpose. Rather, let us stand firm not to adopt legislation that locks 
+in a permanent and endless fossil fuel future, let us insist that this constellation of great leaders be the enemy of impending catastrophe.
+There are apologists who go a step further than the optimists. They argue suddenly that it doesn’t matter 
+if you allocate carbon credits for free, rather than auction them; or that offsets might not be bad thing after all; or that the big bet we’re placing on technology to capture and bury carbon emissions will actually bring about the demise of coal as an energy source. 
+There is all manner of spinning—well-intentioned, disingenuous, self-serving—among supporters of 
+climate action, and it has become almost impossible to separate political calculation from scientific necessity. There is even a belief that the Senate will improve the legislation and correct its fatal flaws in the months ahead. We are under no such illusions.
+The Senate bill, now in play largely mimics the House bill, with lawmakers in the Senate poised to make a 
+fresh round of fresh handouts—to the nuclear power industry, the oil industry and agribusiness interests. Despite talk of raising the bar, the reality is that Congress will further weaken the bill before it has con -
+cluded its business.
+Many supporters of climate action find themselves forced to grasp a flimsy hope—that we just need to get 
+something started—anything—and strengthen it later.  And so we witness the cheerleading to which we cannot lend our voice.
+Politics as usual will only produce its corollary, business as usual. Corporate special interests are still 
+dictating United States’ global warming policy, slowing the pace of our nation’s ambition at every turn, and creating a dead weight on international cooperation to solve the climate crisis. 
+We see the only hope of global climate remedy to be active and principled engagement from the Oval 
+Office. The world is waiting.
+
+Appendix
+References
+1 Figure originally published in: Thomas, K.R., Melillo, J.M., and Peterson, T.C. (eds.). Global Climate Change Impacts in the United 
+States. Cambridge University Press, 2009. P.25.  <http://www.globalchange.gov/publications/reports/scientific-assessments/us-impacts>  
+The figure is based on data from the Coupled Model Intercomparison Project and Smith, T.M., R.W. Reynolds, T.C. Peterson, 
+and J. Lawrimore, 2008: Improvements to NOAA’s historical merged land–ocean surface temperature analysis (1880–2006). 
+Journal of Climate , 21(10), 2283-2296. The CMIPA analysis uses 15 model simulations from the WCRP CMIP3 that were 
+available at resolutions finer than 4 degrees. See Wehner, M., 2005: Changes in daily precipitation and surface air temperature 
+extremes in the IPCC AR4 models. US CLIVAR Variations, 3(3), 5-9.  
+See <http://www-pcmdi.llnl.gov/projects/cmip/index.php>  for more information on CMIP. 
+2 New York Times. “Climate Loopholes” New York Times . July 21, 2009.  
+<http://www.nytimes.com/2009/07/22/opinion/22wed11.html>
+3 U.S. Department of Energy. Existing Electric Generating Units by Energy Source, 2008  
+<http://www.eia.doe.gov/cneaf/electricity/page/capacity/capacity.html>  Accessed on October 14, 2009.
+4 Shuster, E. Tracking New Coal-Fired Power Plants. US Department of Energy’s National Energy Technology Laboratory, 2009. 
+<http://www.netl.doe.gov/energy-analyses/refshelf/detail.asp?pubID=194>  P. 15.
+5 US target based on Greenpeace calculations. IPCC target: UNFCCC IPCC Conclusions adopted by the Ad Hoc Working Group 
+on Further Commitments for Annex I Parties under the Kyoto Protocol at its resumed fourth session held in Bali, 3–11 December 
+2007 <http://unfccc.int/files/meetings/cop_13/application/pdf/awg_work_p.pdf > European and Japanese targets: Europa. “The 
+Copenhagen climate agreement: EU positions and state of play.” 2009. <http://europa.eu/rapid/pressReleasesAction.do?reference=
+MEMO/09/445&format=HTML&aged=0&language=EN&guiLanguage=en >  Accessed on October 12, 2009. German target: German 
+Federal Ministry of Environmental, Nature Conservation and Nuclear Safety. Climate Protection, 2008.  
+<http://www.bmu.de/english/climate/general_information/doc/4311.php>  Accessed on October 12, 2009.
+6 Reich, Robert. “Going to Copenhagen Empty-Handed.” Huffington Post . October 12, 2009.  
+<http://www.huffingtonpost.com/robert-reich/going-to-copenhagen-empty_b_318320.html>
+7 Point Carbon. Waxman-Markey (ACES 2009) Project Report. 2009.  <http://www.greenpeace.org/usa/pointcarbon/ACESreport> 
+8 Lyndersen, Karl. “The Clunkers of the Power-Plant World.” Washington Post . August 17, 2009.  
+<http://www.washingtonpost.com/wp-dyn/content/article/2009/08/16/AR2009081601806.html?wpisrc=newsletter>
+9 The Economist. “Handouts and Loopholes” The Economist . May 21, 2009. <http://www.economist.com/world/unitedstates/displayStory.
+cfm?story_id=E1_TPSDVQTS> (subscription required) 
+10 Jenkins, J. Climate Bill Analysis, Part 12: CBO Projects Waxman-Markey Would Cut Cumulative Emissions by Just 2% Through 
+2020. The Breakthrough Institute. June 16, 2009. <http://thebreakthrough.org/blog/2009/06/climate_bill_analysis_part_xii.shtml>  Data 
+available at <http://thebreakthrough.org/blog/BTI_ACES_Offsets_Scenarios.xlsx>  Emissions projections are for ACES covered sectors. 
+“ACES Target Emissions with Offsets” uses EPA’s projected levels of offset utilization.
+11 Muro, Mark. “Waxman-Markey: What About Innovation?” Brookings Institute. May 26, 2009.  
+<http://www.brookings.edu/opinions/2009/0526_innovation_muro.aspx>
+12 ICF International. An Evaluation of Potential Demand for Renewable Generation H.R. 2454 (Waxman-Markey) Renewable Electric -
+ity Standard vs. Existing State Renewable Portfolio Standards. 2009. <http://www.greenpeace.org/usa/ICF/ACESreport>
+
+Business As Usual

@@ -1,0 +1,643 @@
+# Archivo original: draft-what-bidens-lng-pause-does-and-doesnt-do.pdf
+# Tipo: .PDF
+# Procesado el: Sat Oct 11 09:41:16 -03 2025
+
+Media Briefing:  
+U.S. Liquefied Gas 
+Flooding Europe
+
+Table of Contents
+Key Findings  ................................ 1
+LNG Shock Therapy  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+From Shock to Lock-In   . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+Breaking the Climate  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Footing the Bill   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Harming Communities  . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Recommendations   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Endnotes  .................................... 9Greenpeace is a global network of 
+campaigning organizations that 
+uses peaceful protest and creative 
+communication to expose global 
+environmental problems and to promote 
+solutions that are essential to a green 
+and peaceful future .
+greenpeace.org
+Cover image by Tim Aubry
+
+ MEDIA BRIEFING: U .S . LIQUEFIED GAS FLOODING EUROPE  1Key Findings
+• If Europe enacts ambitious climate change policies to phase out fossil gas use by 2035, then 
+Europe will be able to halt all imports of liquefied natural gas (LNG) prior to 2030 .1 
+• Policies to phase down gas consumption in Europe would remove the need for new LNG export 
+terminals in the United States, which would in turn help phase out harmful oil and gas drilling 
+across the U.S. – from Texas to Pennsylvania. 
+• Such policies would help put both the U.S. and Europe on a pathway to limit global warming to 
+1.5°C (2.7°F) and meet the goals of the Paris Agreement.
+• However, the oil and gas industry is seizing a moment of crisis to drive a massive build out of 
+LNG infrastructure on both sides of the Atlantic that will lock us into reliance on fossil gas and 
+put our climate goals out of reach. 
+• This build out is anchored by long-term contracts to export U.S. LNG to Europe for decades to 
+come. In 2022 alone, 17.65 million tonnes per annum (mtpa) of new LNG (equivalent to 848 
+billion cubic feet of gas, bcf) was contracted for sales to European gas companies. These contracts 
+would continue for 15 to 20 years.
+• In Europe, eight LNG import terminals are under construction and 38 more have been proposed. 
+If built, these could more than double Europe’s LNG import capacity to 38 billion cubic feet per 
+day (bcf/d) and result in an additional 950 million tons of CO2-eq emissions per year.2
+• In the U.S., there are seven operating export terminals, three terminals under construction, 
+twelve new and expanded terminals that are approved but awaiting financing, and numerous 
+proposed projects that have not yet been approved. If built, the approved projects alone could 
+more than double U.S. export capacity to 42 bcf/d – with annual lifecycle emissions equivalent to 
+393 million cars.3 
+• By 2030, U.S. LNG export by itself could be larger than the Net Zero Emissions (NZE) estimate by 
+the IEA for global  LNG trade.4
+• This LNG expansion threatens the health of communities living near these export terminals, and 
+also those living near extraction sites and pipelines, which could see impacts from increased 
+production. LNG contributes to fossil fuel racism, whereby Black, Brown, Indigenous, and poor 
+communities are disproportionately harmed by pollution and climate impacts.
+• While the energy crisis has led to record profits for oil and gas companies, families in the U.S. 
+and Europe have struggled to make ends meet, and Global South nations suffered from high 
+energy prices. 
+• Policy makers in both Europe and the U.S. have the ability to halt this LNG buildout, break the 
+carbon lock-in inherent to long-term LNG contracts, and put both regions on a pathway to a 
+green and just future.
+
+2 MEDIA BRIEFING: U .S . LIQUEFIED GAS FLOODING EUROPELNG Shock Therapy
+The oil and gas industry has moved quickly to take ad -
+vantage of the disruptions caused by Russia’s invasion 
+of Ukraine. In 2022, a surge of shipments of liquefied 
+natural gas (LNG) from the United States was redi -
+rected to Europe in order to replace Russian pipeline 
+gas and secure supplies for the European winter. By 
+taking advantage of this short-term energy crisis, the 
+industry has also secured financing and begun con -
+struction on numerous LNG terminals on both sides 
+of the Atlantic that are designed to operate for de -
+cades to come. 
+This massive build out of unneeded new infrastruc -
+ture is a costly mistake that will come too late for the 
+current crisis, but will harm communities and put 
+both U.S. and EU climate goals at risk. 
+In classic “shock doctrine” style,5 the oil and gas 
+industry wasted no time in pushing a rapid increase 
+of U.S. LNG shipments as the solution to the crisis. 
+In Europe, the industry quickly shifted their public 
+messaging from “energy transition” to “energy securi -
+ty.” In response to the crisis, the EU’s REPowerEU plan 
+included around 10 billion euros in funding for gas 
+infrastructure.6 
+On March 25, 2022, U.S. President Joe Biden an -
+nounced plans to direct 15 billion cubic meters (bcm, 
+equivalent to 530 bcf) of additional LNG shipments 
+to Europe that year, with a goal to scale this up to 50 
+bcm (1,770 bcf) annually by 2030.7 Simultaneously, 
+the European Commission and the U.S. made a joint statement on European Energy Security in which Eu -
+rope expressed its intention to accelerate its regulatory 
+procedures to fast-track LNG import terminals, and to 
+encourage long-term contracts to support the final in -
+vestment decisions (FID) of U.S. LNG export terminals.8
+As a result, U.S. LNG imports to Europe more than 
+doubled, increasing from 1,029 bcf (29 bcm) in 2021 
+to nearly 2,500 bcf (70 bcm) in 2022 (see Figure 1) – 
+easily surpassing Biden’s initial goal.9 During this 2022 
+LNG boom, no country imported as much U.S. LNG as 
+France, accounting for nearly a quarter of all U.S. LNG 
+imports, followed by the United Kingdom, Spain, and 
+the Netherlands.
+From Shock to Lock-In
+Europe’s energy crisis is driven by the short-term need 
+to get off Russian oil and gas. But in order to meet 
+the climate goals laid out by the Paris Agreement, the 
+world must rapidly begin to phase out all fossil fuels 
+and reach net-zero emissions by 2050. Ambitious 
+climate pathways consistent with 1.5°C show that Eu -
+rope must phase out its gas consumption by 203510 or 
+2040,11 which would allow Europe to eliminate both 
+Russian gas imports and all LNG imports before 203012 
+(for an illustration, see Figure 2). The LNG industry 
+plan is in direct conflict with these short decarbon -
+ization timelines. The industry demands long-term 
+(15-20 year) purchase contracts, and the construction 
+of expensive terminals designed to generate revenues 
+for decades to come.
+2021 2022 20170 020406080100120
+First LNG
+Shipment
+Sabine PassAsia South Korea
+China
+Japan
+India
+Spain
+United Kingdom
+Netherlands
+France
+Other CountriesEurope
+Rest of World
+20406080100120
+2018 2019 2020 2021 2022 2023 2015 2014 2017 2016 2018 2019 2020US LNG Vessel Exports, by destination US LNG Vessel Exports, by regionBillion Cubic Meters (bcm/y)
+Billion Cubic Meters (bcm/y)Figure 1:  Growth of U .S . LNG shipments to markets in Asia and Europe . 
+(Data: U .S . EIA)
+
+ MEDIA BRIEFING: U .S . LIQUEFIED GAS FLOODING EUROPE  3In Europe, eight LNG import terminals are under 
+construction and 38 more have been proposed. If built, 
+these could more than double Europe’s LNG import 
+capacity to 38 bcf/d (394 bcm/y) and result in an addi -
+tional annual 950 million tons CO2-eq per year. Such 
+a massive overcapacity would be enough to supply 
+virtually all of the current annual EU gas demand. 
+Despite this, existing European import terminals only 
+utilized 63% of their regasification capacity in 2022, 
+leaving as much as 2,700 bcf (77 bcm) unused. To put 
+all this in perspective: the EU imported 5,400 bcf (153 
+bcm) of gas in 2021 from Russia,13 and has already 
+replaced nearly 75% of those imports primarily via 
+existing infrastructure and reducing demand – with -
+out the need for new LNG infrastructure or long term 
+contracts.14 
+The build out of import terminals in Europe has been 
+mirrored by a similar build out of export terminals in 
+the United States. Currently there are seven operating 
+export terminals, three terminals under construction, 
+twelve new and expanded terminals that are ap -
+proved but awaiting financing, and numerous pro -
+posed projects that have not yet been approved (see 
+Figure 3 on following page). This proliferation of U.S. 
+export terminals has been significantly financed by 
+European banks, and made possible by the signing of long-term supply agreements with European purchas -
+ers and portfolio traders. Long-term contracts are key 
+factors in determining whether an expensive liquefac -
+tion terminal can achieve its final investment decision 
+(FID).15 A total of 17.65 mtpa (848 bcf) of new LNG was 
+agreed for sales to European gas companies in 2022, 
+or about as much as 65% of French gas consumption.16
+The proposed and approved projects in the U.S. would 
+collectively represent a massive increase in U.S. LNG 
+export capacity. It is not certain that all of these proj -
+ects will be built, but the approved projects awaiting 
+financing alone could more than double U.S. export 
+capacity to 42 bcf/d (439 bcm/y).17 The estimated time -
+line for this additional LNG buildout shows that by 
+2030, U.S. LNG by itself could be larger than the IEA’s 
+net zero estimate for global  LNG trade.18
+This buildout is irrelevant to Europe’s real short-term 
+needs. As we have seen, the U.S. can temporarily in -
+crease their LNG exports to Europe to cover the short-
+term supply crunch, without the need for long term 
+contracts or new infrastructure.19 And by definition, 
+any LNG terminal coming online in 2026 or later is not 
+intended to help weather the immediate crisis – but 
+will certainly make the next crisis much worse.All Europe Gas Supply EU27 Gas SupplyBillion Cubic Meters (Bcm)
+0
+2020 2025 2030 2035 2040 2020 2025 2030 2035 2040100200300400500
+0100200300400500Figure 2:  Scenarios to phase out gas consumption in Europe are consistent with an end to both Russian 
+gas imports and LNG imports before 2030 . 
+(Greenpeace analysis, Data: BP Statistical Review 2022) .
+
+4 MEDIA BRIEFING: U .S . LIQUEFIED GAS FLOODING EUROPEBreaking the Climate
+Investments in pipelines, terminal infrastructure and 
+long-term contracts are all a form of “carbon lock-in”, 
+where decisions made today make it harder polit -
+ically, economically, and socially to decarbonize in 
+the future. Limiting warming to 1.5°C means that the 
+world cannot afford to develop any new coal, oil, or 
+gas fields. 
+LNG typically has higher lifecycle emissions than 
+pipeline gas due to its energy intensive liquefaction 
+process, shipping requirements, and methane leakage. 
+This makes it a particularly inappropriate fuel for a 
+carbon-limited world. Rystad Energy estimates that the 
+surge of LNG imports will drive up European emis -
+sions by 35 million tonnes.20
+The IEA’s Net-Zero Emissions (NZE) Scenario estimates 
+that in a 1.5°C aligned pathway, LNG exports will peak 
+in 2025, both globally (at 17,600 bcf or 497 bcm) and 
+from North America specifically (at 4,240 bcf or 120 
+bcm). Following that, North American LNG exports 
+will decline almost to zero by 2045.21 However, the export capacity of the seven operating U.S. terminals 
+(5,120 bcf or 145 bcm) is already larger than the peak 
+in this scenario. By 2030, U.S. LNG by itself could be 
+larger than the NZE estimate for the entire global LNG 
+trade. Existing and proposed export terminals have 
+also negotiated long-term contracts, the total volume 
+of which is also far higher than the NZE estimates 
+(see Figure 4).
+Analysis by the Sierra Club found that the annual 
+lifecycle emissions of the LNG passing through the 
+seven operating U.S. export terminals is the equivalent 
+to the emissions from 119 million cars. Adding the 
+LNG from under construction and approved terminals 
+would bring total annual emissions equivalent to 393 
+million cars.22
+The environmental and climate impact of these 
+contracts have made them controversial with Euro -
+pean citizens. In 2020, Engie initially backed out of a 
+deal with Next Decade LNG over concerns about high 
+methane emissions.23 To make these contracts more 
+palatable to an increasingly climate-conscious pub -
+lic, many companies have engaged in greenwashing TEXAS LOUISIANA ALABAMA MISSISSIPPI
+Cameron *
+Calcasieu Pass
+Lake Charles LNG
+Driftwood
+Magnolia
+Commonwealth
+CP2Operating
+Under Construction
+Approved
+In Review
+Cove Point, MD
+Elba Island, GA
+Alaska Gasline
+Eagle LNG, FLNot shown on map
+Rio GrandeCorpus Christi *New Fortress FLNGWest DeltaDeltaPlaquemines
+Fourchon LNG
+Freeport *
+Sabine Pass *
+Golden Pass
+Port Arthur LNG *DelfinGulf LNG
+Texas LNG* = Planned ExpansionFigure 1:  Growth of U .S . LNG shipments to markets in Asia and Europe . 
+(Data: U .S . EIA)
+
+ MEDIA BRIEFING: U .S . LIQUEFIED GAS FLOODING EUROPE  5schemes. For some contracts, European buyers are 
+demanding a certification of the emissions from the 
+purchased gas, either as assessed by a third party or 
+by the terminal operator. However, significant ques -
+tions about these gas certification schemes have been 
+raised,24 25 and to date there is no regulation requiring 
+standard methods or transparency.
+It’s clear that the LNG buildout being foisted upon the 
+U.S. and Europe is a long-term disaster rather than a 
+short-term solution.
+Footing the Bill
+The energy crisis has been very profitable for oil 
+and gas companies.26 The five supermajors (Exxon, 
+Chevron, Shell, BP, and TotalEnergies) generated $102 
+billion in profits in 2022 – roughly twice as much as 
+2021.27 LNG exporter Cheniere also nearly doubled 
+their revenues in 2022.28Families faced record high energy bills in 2022. Energy 
+costs for Europeans increased by $1 trillion and gov -
+ernments responded with around $700 billion in sub -
+sidies and aid packages to offset those costs.29 In the 
+2022-2023 winter 3 out of 4 Europeans have cut back 
+on food and everyday items in order to pay the rising 
+energy bills.30 A quarter of U.S. respondents polled in 
+the summer of 2022 said they had forgone necessities 
+like food or medicine to pay their energy bill.31
+The high prices that Europe was willing to pay for 
+LNG also resulted in a price competition where coun -
+tries from the Global South were outbid in the race 
+to secure their energy needs. Pakistan suffered from 
+European suppliers breaching their contracts forcing 
+gas rationing and emergency spot market purchases.32 
+Other countries faced blackouts and some resorted to 
+restarting coal plants.33Billion cubic meters per day (bcm/d)
+20150510152025
+2020 2025 2030 2035 2040 2045 2050Figure 4:  Contracted volumes of U.S. LNG exports to Latin America, Asia, Europe and Unspecified markets , 
+compared with the IEA Net-Zero Emissions scenario . 
+(Data: BloombergNEF)
+
+6 MEDIA BRIEFING: U .S . LIQUEFIED GAS FLOODING EUROPEHarming Communities
+Many of the European countries importing LNG know 
+how harmful fracking is because they banned it. But 
+they seem to have no issue with outsourcing that 
+pollution to other countries. Interestingly, many of the 
+banks helping to finance LNG terminals have at least 
+some policy excluding fracking from their banking 
+activities.34 
+Each stage of the life cycles of oil, gas, and coal — ex -
+traction, processing, transport, and combustion — 
+generates toxic air and water pollution that is linked 
+to negative health impacts for people living near 
+these pollution sources. In the context of the U.S., 
+these health impacts fall disproportionately on Black, 
+Brown, Indigenous and poor communities.35
+All the operating and under construction terminals 
+in the U.S. except one are located near a “disadvan -
+taged community” as determined by the White House 
+Council on Environmental Quality (CEQ). Notably, the 
+Corpus Christi and Freeport terminals have a large 
+population living within 3 miles of the site that are 
+disproportionately low-income and people of color. A 
+cluster of three terminals (Sabine Pass, Golden Pass, 
+Port Arthur LNG) is located near Port Arthur, Tex -
+as – a town of 50,000 (majority people of color) that is already home to three oil refineries, including the 
+largest in the U.S. Other terminals have been proposed 
+in regions that are disproportionately low-income 
+communities of color – notably Rio Grande LNG, Texas 
+LNG, and Plaquemines LNG. Terminals located in 
+Southwest Louisiana are in a region that already faced 
+elevated risks from air toxics.
+In addition to pollution harms from LNG terminals 
+themselves, the surge of LNG exports has sparked an 
+increase in oil and gas extraction as well as transport 
+and processing to meet the demand. A compendium 
+of scientific and medical research on the impacts of 
+fracking in the U.S. summarized its findings by saying, 
+“Our examination uncovered no evidence that frack -
+ing can be practiced in a manner that does not threat -
+en human health directly and without imperiling 
+climate stability upon which public health depends.”36 
+A growing body of research has associated proximity 
+to oil and gas activity with health problems such as 
+respiratory impacts (e.g., asthma), cancer, poor birth 
+outcomes, and more.37 Data from the EPA’s Air Toxics 
+Screening Assessment shows that 236 counties with a 
+total population of 14 million “face cancer risk exceed -
+ing EPA’s one-in-a-million threshold level of concern, 
+just due to oil and gas pollution.”38 
+“Europeans shouldn’t think gas exported from my community is 
+‘freedom gas’...you’re still being enslaved by this gas that causes 
+so many problems and troubles… It’s not freedom gas because 
+you’re really not free. It’s going to cost you. It’s going to cost you 
+more and it’s going to cost you in the long run. Because the more 
+you use it, the more peril it places on your life and health,  
+and the life and health of people across this entire planet.  
+Climate change is real. We see it here every day.” 
+– John Beard , Port Arthur Community Action Network 39 
+
+ MEDIA BRIEFING: U .S . LIQUEFIED GAS FLOODING EUROPE  7Recommendations
+The passage of the Inflation Reduction Act (IRA) marks 
+a turning point in U.S. Climate Policy. For the first time, 
+Congress has acted to curb demand for fossil fuels, but 
+has left fossil supply unconstrained. As a result, the 
+U.S. finds itself in a trap where declining domestic de -
+mand coupled with high production could fuel a surge 
+of exports. These exports are a form of “carbon leak -
+age” and if left unconstrained could erode the emis -
+sions reductions in the IRA.40 What’s more, continued 
+domestic production is a threat to the health of com -
+munities all along the fossil fuel supply chain. A more 
+robust climate policy would pair demand-side reduc -
+tions with policies to phase out fossil fuel production. 
+Long-term gas supply contracts will lock-in both the 
+U.S. and EU into decades of emissions at the expense 
+of our climate and the health and safety of commu -
+nities. LNG companies right now are signing export 
+agreements that risk locking the US into decades more 
+drilling, infrastructure buildout, and exporting. On 
+the buyer side, these contracts lock import countries 
+into decades more fossil gas consumption and de -
+layed renewable energy investment. Leaders from 
+these nations have the climate and moral imperative 
+to cut off the gas industry’s decades-long hold on our 
+energy future.
+U.S. policy makers must take the following steps to 
+align LNG exports with strong climate goals:
+• Reject federal permits for any new infrastruc -
+ture  projects that would increase GHG emissions 
+or worsen the climate crisis. This requires that 
+any new pipelines or new LNG export terminals 
+be rejected.
+• Reject federal approval for any LNG export ship -
+ments from existing or approved terminals  
+that are inconsistent with 1.5°C pathways, worsen 
+domestic energy poverty, or pose health threats to 
+nearby communities.
+ –The Department of Energy (DOE) has the au -
+thority to overhaul its “public interest” determi -
+nation (which governs LNG exports to non-free 
+trade agreement countries) to explicitly consid -
+er climate change, environmental justice and 
+energy justice. –DOE should hold hearings and take the nec -
+essary steps to document that the cumulative 
+lifecycle emissions associated with LNG exports 
+are inconsistent with our climate goals and 
+contrary to the public interest. Where needed, 
+DOE should revoke approvals or set time limits 
+for exports from existing terminals.
+• DOE should make public the long term contracts 
+signed between LNG sellers and buyers. 
+• President Biden must wield his global leader -
+ship and support ending international public 
+finance for fossil fuels, including LNG, at the G7, 
+G20 and COP28.
+Both Biden and Congress must take further steps to 
+protect the climate and communities living on the 
+fence lines of the fossil fuel supply chain. Such poli -
+cies include:
+• Establish a national plan and targets to wind down 
+existing fossil fuel production and infrastructure.
+• Eliminate federal fossil fuel subsidies.
+• Ban new fossil fuel leasing and permitting on pub -
+lic lands and waters, and phase out existing leases.
+• Phase out exports of crude oil and reject federal 
+permits for any new crude oil export terminals.
+• Enact regulations to eliminate methane emissions 
+and flaring from oil and gas facilities. 
+• Require air and water pollution reductions in pol -
+luted communities by implementing a comprehen -
+sive “No Pollution Hotspots” policy.
+• Pass the Environmental Justice for All Act to 
+provide legal remedies to citizens, improve eq -
+uity mapping tools, expand grant programs, 
+and strengthen consultation with impacted 
+communities.
+• Build on the renewable energy incentives in the 
+IRA to enact a Green New Deal that will direct 
+trillions of dollars in public investments to create 
+millions of green union jobs, rectify past injus -
+tices, and ensure that energy-dependent work -
+ers and communities are left better off through 
+the transition.
+
+8 MEDIA BRIEFING: U .S . LIQUEFIED GAS FLOODING EUROPEPhasing out fossil fuel exports from the U.S. must be 
+paired with strong demand-side policies to end fossil 
+fuel use in Europe and other importing markets. Stop -
+ping the expansion of gas requires strong policies both 
+to reduce harms where drilling occurs and all along 
+the supply chain to decrease the demand for gas and 
+incentivize the rapid buildout of renewables. 
+CHANGE THE SYSTEM
+1. Remove fossil fuels from politics, by: ending their 
+access to decision-making; ending conflicts of inter -
+est; excluding fossil fuel industry representatives 
+from climate negotiations; rejecting partnerships 
+with the fossil fuel industry.
+2. Revoke the privileged role of gas lobby group ENT -
+SOG in EU decision-making processes.
+3. Ensure full transparency on all available data on 
+gas flowing into, through, and out of the EU.
+4. Further strengthen, adopt and enforce due dili -
+gence legislation at European and nationals levels.
+PHASE OUT GAS
+1. Set mandatory gas reduction targets at EU and 
+national levels,
+2. Set targets for climate neutrality by 2040 in the EU 
+and the US,
+3. Pursue an active fossil gas phase-out by 2035. Due 
+to its higher carbon intensity and risk of methane 
+leaks, imports of LNG should be phased out first.
+4. Cancel all projects for the construction of new LNG 
+import terminals and expansion of existing termi -
+nals
+5. Halt new long-term contracts for the delivery of 
+LNG, and ban extension of existing contracts.
+6. Properly account for the higher lifecycle emissions 
+of LNG compared to pipelined gas.
+7. Critically assess hydrogen projections and projects 
+pushed by the fossil fuel industry.REDUCE CONSUMPTION, BOOST 
+EFFICIENCY AND EXPAND 
+RENEWABLE ENERGY
+Policies and measures are needed to support urgent 
+measures that provide the services required from 
+energy but do not rely on fossil gas through rapid 
+expansion of systems and mechanisms that reduce 
+consumption, expand efficiency and renewable en -
+ergy sources.
+Energy Saving and Conservation  measures to re -
+duce demand: 
+Efficiency (incl. insulation)  - in Building and Indus -
+try: Renewable heating (like heat pumps); Building 
+renovation heater efficiency in buildings; efficiency in 
+industrial processes.
+1. Financial support schemes for vulnerable people to 
+meet their basic energy needs
+2. Ban disconnections e.g. energy providers should 
+not have the right to cut off customers who fail to 
+pay their bills, in particular vulnerable ones
+3. Drive deep building renovations and sufficiency 
+that can realize the potential to permanently cut 
+demand by improving the energy performance of 
+buildings.
+Power production  – Maximize measures for renew- 
+able power sources at all public, commercial, and 
+industrial sites and operations. E.g. solar panels on 
+rooftops, install heat pumps and undertake renova- 
+tion measures.
+Industry  – where possible be fully electrical and more 
+circular, while always prioritizing energy saving
+Tax fossil fuel profits : to help meet the investment 
+needs of the energy transition, ensuring the burden 
+does not fall on citizens and the rest of the economy.
+
+ MEDIA BRIEFING: U .S . LIQUEFIED GAS FLOODING EUROPE  9Endnotes
+1 For more information, read the full report: Greenpeace Internation -
+al. 2023. Who Profits From War: How Gas Corporations Capitalise 
+on War in Ukraine. https://www.greenpeace.org/international/who-
+profits-from-war/ .
+2 Langebrunner, B., G. Aitken, R. Rozansky, & H. Hassan. 2023. Europe 
+Gas Tracker 2023. Global Energy Monitor, March. https://globalener -
+gymonitor.org/report/europe-gas-tracker-2023/  
+3 Sierra Club. U.S. LNG Export Tracker. https://www.sierraclub.org/
+dirty-fuels/us-lng-export-tracker
+4 International Energy Agency. 2021. Net Zero by 2050: A Roadmap for 
+the Global Energy Sector. May. https://www.iea.org/reports/net-zero-
+by-2050 , Figure 4.17
+5 Klein, N. 2017. How power profits from disaster. The Guardian, July 
+6. https://www.theguardian.com/us-news/2017/jul/06/naomi-klein-
+how-power-profits-from-disaster  
+6 European Commission. 2022. REPowerEU Plan. May 18. https://eur-
+lex.europa.eu/legal-content/EN/TXT/?uri=COM:2022:230:FIN  
+7 White House. 2022. Remarks by President Biden and European 
+Commission President Ursula von der Leyen in Joint Press Statement. 
+March 25. https://www.whitehouse.gov/briefing-room/speeches-re -
+marks/2022/03/25/remarks-by-president-biden-and-european-com -
+mission-president-ursula-von-der-leyen-in-joint-press-statement/  
+8 European Commission. 2022. Joint Statement between the European 
+Commission and the United States on European Energy Security. 
+March 25. https://ec.europa.eu/commission/presscorner/detail/en/
+statement_22_2041  
+9 U.S. Energy Information Administration (EIA).  U.S. Natural Gas 
+Exports and Re-Exports by Country. https://www.eia.gov/dnav/ng/
+ng_move_expc_s1_a.htm   
+10 Matyas, E., L. De Rosa & M. Józefiak. 2022. Fossil gas is a trap. Here’s 
+how we get out of it. Greenpeace International, June 7. https://www.
+greenpeace.org/international/story/54199/fossil-gas-trap-eu-eu -
+rope-greenwashing/  
+11 Paris Agreement Compatible (PAC) Scenarios for Energy Infrastruc -
+ture. 2020. Chapter 2: Energy Supply. https://www.pac-scenarios.eu/
+pac-scenario/scenario-development.html#Chapter2:EnergySupply  
+12 Bruegel. 2022. Europe’s Gas Security Crisis: An Analysis of Russian 
+Gas Flows and EU Resilience. https://www.bruegel.org/sites/default/
+files/2022-09/PC%2014%202022_2.pdf  
+13 Zachmann, G., G. Sgaravatti & B. McWilliams. 2023. European natural 
+gas imports. Bruegel, April 5. https://www.bruegel.org/dataset/euro -
+pean-natural-gas-imports  
+14 Zero Carbon Analytics. 2023. Why gas use must fall rapidly if climate 
+targets are to be met. March 9. https://zerocarbon-analytics.org/
+archives/energy/rapid-phasedown-of-natural-gas  
+15 Rozansky, R. 2022. Gas Run Aground. Global Energy Monitor, March. 
+https://globalenergymonitor.org/wp-content/uploads/2022/03/Gas-
+Run-Aground-2022.pdf  
+16 Eurostat Data Browser. Supply, transformation and consumption of 
+gas - monthly data. https://ec.europa.eu/eurostat/databrowser/book -
+mark/418b40ca-5a83-49a1-b93a-aa78ce45b2d4?lang=en  
+17 Current peak export capacity stands at 14 bcf/d and the 3 projects un -
+der construction would increase it to 19.7 bcf/d. Adding Port Arthur 
+LNG, Plaquemines Phase 2, the approved expansions at Freeport 
+and Cameron, and 10 new approved terminals would add 22.9 bcf/d 
+bringing the total to 42.6 bcf/d (15,500 bcf or 439 bcm per year).
+18 IEA 2021.
+19 Williams-Derry, C. 2022. The U.S. Can Increase LNG Exports to Eu -
+rope: No New Contracts or Infrastructure Are Required. IEEFA, April. 
+https://ieefa.org/wp-content/uploads/2022/04/The-US-Can-Increase-
+LNG-Exports-to-Europe_April-2022.pdf
+20 Rystad Energy. 2022. LNG import boom could drive up European 
+emissions by 35 million tonnes.
+21 IEA 2021.
+22 Sierra Club. U.S. LNG Export Tracker. 23 Ball, J. 2023. Inside the high-dollar race to sell natural gas as low-car -
+bon. Canary Media, January 30. https://www.canarymedia.com/arti -
+cles/liquefied-natural-gas/inside-the-high-dollar-race-to-sell-natural-
+gas-as-low-carbon  
+24 Donaghy, T., L. Stockman & A. Rowell. 2023. Madness Is The Method: 
+How Cheniere is Greenwashing its LNG With New Cargo Emissions 
+Tags. Greenpeace USA & Oil Change International, August. https://
+www.greenpeace.org/usa/reports/madness-is-the-method-how-che -
+niere-is-greenwashing-its-lng-with-new-cargo-emissions-tags/  
+25 Stockman, L., A. Rowell, K. Trout, J. Eisenfeld & D. Raynes. 2023. Cer -
+tified Disaster: How Project Canary & Gas Certification is Misleading 
+Markets & Governments. Oil Change International & Earthworks, April.
+26 Adomaitis, N. 2023. Oil and gas industry earned $4 trillion last year, 
+says IEA chief. Reuters, February 14. https://www.reuters.com/
+business/energy/oil-gas-industry-earned-4-trillion-last-year-says-iea-
+chief-2023-02-14
+27 Global Witness. 2023. Crisis year 2022 brought $134 billion in excess 
+profit to the West’s five largest oil and gas companies. February. 
+https://www.globalwitness.org/en/campaigns/fossil-gas/crisis-year-
+2022-brought-134-billion-in-excess-profit-to-the-wests-five-largest-
+oil-and-gas-companies  
+28 Cheniere. Cheniere Reports Fourth Quarter and Full Year 2022 
+Results https://lngir.cheniere.com/news-events/press-releases/de -
+tail/273/cheniere-reports-fourth-quarter-and-full-year-2022-results   
+29 Bloomberg News. 2022. Europe’s $1 Trillion Energy Bill Only Marks 
+Start of the Crisis. December 18. https://www.bloomberg.com/news/
+articles/2022-12-18/europe-s-1-trillion-energy-bill-only-marks-start-
+of-the-crisis  
+30 Sabido, P. 2022. How the gas lobby is fuelling the cost-of-living 
+crisis. Corporate Europe Observatory. https://corporateeurope.org/
+en/2022/11/how-gas-lobby-fuelling-cost-living-crisis  
+31 U.S. Census Bureau. 2022. Week 48 Household Pulse Survey: July 27 - 
+August 8. https://www.census.gov/data/tables/2022/demo/hhp/hhp48.
+html
+32 Williams-Derry, C. 2022. The liquefied natural gas (LNG) boom in 
+Europe isn’t all good news for U.S. exporters. IEEFA, December 20. 
+https://ieefa.org/resources/liquefied-natural-gas-lng-boom-europe-
+isnt-all-good-news-us-exporters  
+33 IEA. 2022. Global coal demand is set to return to its all-time high in 
+2022. July 28. https://www.iea.org/news/global-coal-demand-is-set-to-
+return-to-its-all-time-high-in-2022  
+34 Oil & Gas Policy Tracker. https://oilgaspolicytracker.org/  
+35 Donaghy, T. & C. Jiang. 2021. Fossil Fuel Racism: How Phasing Out Oil, 
+Gas, and Coal Can Protect Communities. Greenpeace USA, Gulf Coast 
+Center for Law and Policy, Movement for Black Lives, April. https://
+www.greenpeace.org/usa/reports/fossil-fuel-racism/  
+36 Concerned Health Professionals of New York & Physicians for Social 
+Responsibility, Compendium of scientific, medical, and media find -
+ings demonstrating risks and harms of fracking (unconventional gas 
+and oil extraction), (8th ed.), 2022. https://concernedhealthny.org/
+compendium/  
+37 Michanowicz et al. 2021. Methane and Health-Damaging Air Pol -
+lutants from the Oil and Gas Sector: Bridging 10 Years of Scientific 
+Understanding. PSE Healthy Energy. https://www.psehealthyenergy.
+org/our-work/publications/archive/methane-and-health-damaging-
+air-pollutants-from-the-oil-and-gas-sector-bridging-10-years-of-sci -
+entific-understanding/   
+38 Patel, H & L. Feldman. 2022.   Fossil Fumes (2022 update): A pub -
+lic health analysis of toxic air pollution from the oil and gas 
+industry. Clean Air Task Force. https://cdn.catf.us/wp-content/up -
+loads/2016/06/14175846/fossil-fumes-report-2022.pdf  
+39 Interview with John Beard on 24th March 2023.
+40 Donaghy, T. 2019. Real Climate Leadership: Why The Next President 
+Must Prioritize A Fossil Fuel Phase Out. Greenpeace USA, June. 
+https://www.greenpeace.org/usa/reports/fossil-fuel-phaseout/  
+
+10 MEDIA BRIEFING: U .S . LIQUEFIED GAS FLOODING EUROPE
+© Bob Pearson  / Greenpeace

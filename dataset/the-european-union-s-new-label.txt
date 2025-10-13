@@ -1,0 +1,1217 @@
+# Archivo original: the-european-union-s-new-label.pdf
+# Tipo: .PDF
+# Procesado el: Sat Oct 11 09:40:00 -03 2025
+
+The European Union’s new labelling 
+rules for genetically engineered 
+food and feed 
+ 
+Implications for the market of  
+GMO and non-GMO pr oducts 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+April 2004 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contact : 
+Greenpeace European Unit  
+Eric Gall - Genetic Engineering Policy Director 
+Haachtsesteenweg 159 
+1030 Brussels, Belgium 
+t (32) 496 16 15 82 
+f (32) 2 274 19 10 
+eric.gall@diala.greenpeace.org 
+www.greenpeace.org 
+ 
+
+The EU's new labelling r ules for  GM food & feed  April 2004 
+Contents 
+Introduction ................................................................................................................... .......................... 2 
+New labellin g and traceability  rules within the EU ............................................................................. ....3 
+New threshold: 0,9 % of any  ingredient ......................................................................................... .....3 
+Labelling of oil, starch, sugar etc. ........................................................................................... ............ 3 
+What GMOs? ..................................................................................................................... .................. 4 
+General traceabilit y rules and concept ......................................................................................... ....... 5 
+New rules and procedures for approva l of GMOs in food and feed ........................................................ 6 
+Market situation and im pacts ................................................................................................... ............... 6 
+Soybeans....................................................................................................................... ....................... 6 
+Maize (corn) ................................................................................................................... ..................... 7 
+Kernel maize for feed and processing ........................................................................................... ..7 
+Maize gluten feed for animal feed .............................................................................................. .....8 
+Sweet maize for direct human consu mption ................................................................................... 8 
+"Masa", a special preparati on for chi p production .......................................................................... 9 
+Oilseed rape  (Canola) .......................................................................................................... ................ 9 
+Other GM crops ................................................................................................................. .................. 9 
+Consumer attitudes ............................................................................................................. ..................... 9 
+European consu mer attitudes to GM food ......................................................................................... 10 
+Industr y response .............................................................................................................. ..................... 10 
+Supermarkets ................................................................................................................... .................. 10 
+Major Food producers ........................................................................................................... ............ 11 
+Anim al Feed producers .......................................................................................................... ........... 11 
+Meat, milk and egg pr oduc ers................................................................................................... ........ 11 
+The WTO case against the EU's de facto m oratoriu m.......................................................................... 12 
+The Cartagen a Protoc ol on Biosafety ............................................................................................ ........ 13 
+New Codex Alim entarius guidelines .............................................................................................. ....... 13 
+Annex 1: Soya Processing and Soy a Products Source: Soyatech, 2002 Soya and Oilseed Bluebook ...14 
+ 
+ 
+ 
+
+The EU's new labelling r ules for  GM food & feed  April 2004 
+Introduction 
+The European Union is im plem enting new labelli ng and traceability  legislation for genetically 
+modified food, feed and ingredients, which will be  the strictest world-wide. These new rules, which 
+apply to the worlds largest single m arket, will have  major repercu ssions on the future market  of all 
+genetically  modified crops,  vegetables, fruits and foo d and feed pro ducts derived from  GMOs. 
+The two major changes to the previous l abelling prov isions, which will affect more than 90 percent of 
+all GM i mports to the European Union, a re 
+1) The requirement to label g enetically  modified feed (so far labelling onl y applie d to fo od) 
+2) The requirement all produc ts derived fro m GM ingredients, irrespective whether they  can be 
+detected in the final produc t or not  (so far labelling was onl y require d where the DNA or protein 
+of the GMO could be detected in the fina l prod uct) 
+After y ears of public debate of the issue, European consumers in their large majority continue to have 
+an adverse attitude to GM Os in food an d the vast majority of retail -chains and food producer s have a 
+non-GM pol icy or at least avoid any  GM labelling. With the new extension of labelling requirem ents 
+the European market will b e furthe r closed to GM food im ports. This not onl y applies to im ports of 
+bulk comm odities such as soy a and m aize, but al so to all processed food and food ingredients 
+imported to t he European Union.  
+40.000 ton fr eighters of soybean and m aize will be  equally affected  as toppings on frozen pizzas, 
+chocolate bars, canned tun a or sardines in oil, so ft drinks containing glucose sweeteners, and all 
+processed food containing emulsifier s (lecithin) or st arch. Countrie s which export their goods to the 
+European m arket will also be directly  affected by the new labelling rules and may re-consider their 
+import polici es on GM commodities including oil, starch and corn derived swee teners. 
+Also the European feed market, which is the larg est in the world, is increasingly  demanding non-GM 
+supplies. Whi le labelling of  animal products will not  be mandatory  major European meat, milk and 
+egg producers and retailers start to guarantee non-GM fed qualit y on a voluntar y base. As GM 
+labelling of al l feed im ports and preparations b ecomes mandatory , the differentiation of the feed 
+market will acceler ate. 
+These market  restrictions are effective f or end pr oduc ts from  18 April 2004. Ar ound the same ti me the 
+present EU moratorium  on the formal approval of new GMOs, whic h is being cha llenged by  the USA 
+at the World Trade Organisations dispute settlement body , may be lifted - leaving the US case at the 
+WTO idle, but European markets even more tightl y closed to GM i mports.  
+ 
+ 2
+
+The EU's new labelling r ules for  GM food & feed  April 2004 
+New labelling and traceability rules within the EU 
+The European Union' s new Regulation on genetically m odified (GM) food an d feed1 together with the  
+regulation on traceability2 were finally  adopted o n July 2nd 2003 by the European Parliament and 
+entered into f orce in October 2003. Fr om the da y they are applicable on 18 Apr il 2004, hese 
+regulations will substantially change the rules a nd practicalities of l abelling gene tically  modified 
+organisms (GMOs) in prod ucts fo r hum an consum ption and anim al feed. This first com prehensive 
+labelling regi me also set global standards as they  apply to the large st single market world-wide. The 
+major change s are: 
+1. All products containing or consisting of or derived from  an ing redient, which 
+contains more than 0,9% of GMO must be labelled "this product contai ns 
+genetically m odified organism s" or "this product is produced from genetica lly 
+modified organism s".  
+Additional la belling m ay be required if the nutritional properties of the product are 
+different from  its natural counterparts or where the genetic modification may  give 
+raise to ethica l or religious concerns. 
+2. Labelling is also required where the specific DNA or protein of the GMO can no 
+longer be identified in the final produc t. 
+3. GMO in animal feed and additives will also have to be labelled. 
+ 
+Food and feed processors, trade and retailers have al ready  begun t o implement the new regulations and 
+require their suppliers to com ply with the ir subsequent private quality a nd traceability  standards and 
+certification s chemes. This may  also result in globa l certification standards and trade specific ations for 
+non-GMO commodities an d other agricultural products , especially  regarding m aize, soy a, rape seed 
+(canola) and eventually wheat, should GM wheat varieties ever b e commercialised in the USA, 
+Canada or other countries. 
+ 
+New threshold: 0,9 %  of any  ingredient 
+The maxim um threshold for GM contamination (" adventitious or t echnically unavoidable presence "), 
+which is exem pted from  labelling requi rements, has been lowered from  1% to 0,9% . This percentage 
+refers to each indivi dual in gredient in a product, e.g . 0,9%  GM in t he lecithin used in a chocol ate bar 
+triggers labelling of t he wh ole bar, which itself may  only contain 0,5% lecithin3 It is also i mportant to 
+note that this level only  applies if the operator can  prove that he has taken all app ropriate steps to 
+avoid such co ntam ination.4 
+The 0,9 %  threshold onl y applies to GMOs which are approved u nder the Food a nd Feed Regu lation 
+and in accordance with Dir ective 2001/18 on t he delib erate rel ease of GMOs into the environment.5 A 
+three y ear transitional exem ption is made for a fe w GMOs, which are not appr oved bu t hav e benefited 
+from  a favourable opinion of the EU Scientific Co mmitt ee(s) before this regulation entered into force. 
+Such GMOs may  be accidentally  present up to 0,5%. 
+ 
+Labelling of oil, starch, sugar etc. 
+Labelling of genetically  modified food and feed sha ll also be required for products in which the DNA 
+or specific protein of the G MO can no lo nger be detected, but whic h are produced from  GMOs.6 A 
+distinction is made between products which are prod uced from  GM materials and have to  be labelled, 
+and prod ucts which are produced with GMOs (e.g. enzy mes, vita mins, GM processing aids and also 
+products from  anim als fed with GMOs) and do not require labelling u nder this regulation.7 
+ 3
+
+The EU's new labelling r ules for  GM food & feed  April 2004 
+Products affected by  this new definition,  which did not have to be l abelled before, include starch, oil, 
+sugar, glucos e and alcohol.  
+An esti mated 90% of G M imports t o the European Union are used as animal feed 
+and for starch or oil production. Thes e products n ow require, f or the first ti me, 
+labelling as genetically modified food or feed.  
+Examples of Labellin g of GM-F ood and GM-Feed  
+GMO-ty pe EXAMPLE Labelling under 
+new Regulation Labelling under 
+past Regulation 
+GM plant Chicor y Yes Yes 
+GM seed Maize seeds Yes Yes 
+GM food Maize, So ybean sprouts, Tomato  Yes Yes 
+Food Maize flour   Yes Yes 
+produced Highly  refined maize o il, soybean oil, rape 
+seed oi l  Yes No 
+from GMOs Glucose s yrup p roduced f rom maize starch  
+Yes No 
+Food from animals fed  
+on GM feed Eggs, meat, milk  No No 
+Food produced  with th e 
+help of  a GM en zyme baker y produ cts produced with the help of  
+amylase No No 
+Food additive/f lavouring 
+produced f rom GMOs Highl y filtered lecithin extracted from  GM 
+soybeans used in choco late  Yes No 
+GM Feed Maize Yes Yes 
+Feed produced f rom a 
+GMO Corn glut en feed, Soybean  meal 
+Yes No 
+Feed add itive produced 
+from a GMO Vitamin B2 (r iboflavin) 
+Yes No 
+Source: European Commission, Questions and Answers on the regulation of GMOs in the EU8 
+ 
+What GMOs? 
+A total num ber of 18 GMOs wer e approved under Directive 90/220, (which has now been replaced by 
+Directive 2001/18) prior to  the establishment of a de facto moratorium  for approvals of GMO 
+commerciali sation in 1998. These include four m aize lines, Roundup Ready  soybeans (not for planting 
+but only  for consum ption) and three oilseed rape  lines . However, in many  cases a pproved varieties 
+have later been banned i n individ ual member states.9 For others the f inal act of approval b y the 
+mem ber state has been withheld. These approvals n eed to be re-evaluated under t he new Directive 
+over a transition perio d. 
+At present 24 new applications for the placing on the market of GMOs are pen ding (som e for as long 
+as six y ears). An updated li st of all pendi ng approv als is provided by the EU Joint Research Centre.10 
+Some of them  have already  had a favourable assess ment by  national Com petent Authorities, Scientific 
+Committees of the EU or t he European Food Safet y Authorit y (EFSA). In many other cases national 
+competent authorities have subm itted questions and objections to the approval a nd in other cases the 
+ 4
+
+The EU's new labelling r ules for  GM food & feed  April 2004 
+competent authorit y in charge of the init ial eval uation is still not satisfied with the information 
+provided by  the applicants and the quality of their assess ment and documentation.  
+General traceabilit y rules and concept 
+According to the European Commission " traceability is defined as the ability to trace GMOs, and 
+products produced from them, at all stages of th eir pl acing on the market throughout  the production 
+and distributi on chai ns, fac ilitating contr ol and also  holding the pot ential to withdraw product s if 
+necessary. The obligation of traceability is designe d to facilitate accurate  labelling of the final 
+product and t o provide the means fo r inspection and control of  labe lling claims. I t is a direct response 
+to the voices of consumers who have made it clear that they want – and have a ri ght – t o make 
+informed choi ces. This proposal pl aces an obligati on on all  parts of the distribution chain t o provide 
+that inf ormati on. It also bui lds on the cur rent EU food- labelling sche me but adds additi onal 
+provisions to allow for inspection and control of compliance with the current rules and reduces 
+reliance on analytical methods to detect the presence of GMOs."11 
+Operators pl acing on the market an auth orised GMO are obliged to infor m in 
+writing rec eiving operators about the fact that  the product contains or consists or is 
+produced fr om GMOs, and of the unique identifie rs assigned t o these GM Os. This 
+information must be tran smitted to any s ubsequent  operator rec eiving the product. 
+Records of a ny such transactions mus t be kept by the operators for a period of five 
+years. 
+This concept of "farm  to fork" traceability not only relates to GMO ingredients, but is a general 
+philosop hy of the European  Union' s approach to fo od safety  and consumer information, estab lished in 
+2002  through a Co mmunity Regulation "laying down the general principles and requirem ents of food  
+law, establish ing the Eur opean Food Saf ety Authorit y and la ying down procedur es in matters of food  
+safety "12 This regulation will be com plemented by  sectoral legislation, such as the GMO labelli ng 
+regulation, an d gui des the further develo pment of th e food law with in the EU and  its newly  established 
+European Food Safet y Authorit y, EFSA13. Other sector al legislation underway  is a regulation for feed 
+hygiene, recentl y proposed by  the Com mission.14  
+As a prerequisite for its authorisation an y GMO requi res a "unique identifier", i.e. a method to identif y 
+and test for the specific GMO, which has to be s ubmitted to the E uropean Reference Laborat ory by the 
+applicant. Details of the concept of these uni que identifiers have bee n established by  the 
+Commission15. Work related to GMO identification is carried out by  the EU's Joint Rese arch 
+Laborator y and its Euro pean Network of GMO Laboratories, ENGL16, and com plemented by  the 
+European Committee For Standardisation, CEN.17 International standardisation of  uniq ue identi fiers 
+for GMOs will be conduct ed within the fram ework of the International Biosafety Protocol.  The 
+European Uni on has adopte d implementing legislation  of the Biosafety  Protocol18 in June 20 03, which 
+also governs t he term s of eventual expor ts of GMOs from  the EU. 
+The concept and the m eaning of traceability  of GM Os is also discussed at the W HO/FAOs joint Codex 
+Alimentarius , where an Ad Hoc Intergovernmental Task Force On Foods Derived From 
+Biotechnolog y had been established in 1999 and presented its recommendations to the Meeting of the 
+Codex Plenary in Rom e (June 30 - Jul y 7th 2 003).19 No agree ment has been reac hed so far on 
+traceability , while an agreem ent on minimum standar ds for health r isk assess ment was adopted in 
+Rome. These principles are  to be based on pre-ma rket asse ssment, perfor med on a cas e-by-case basis 
+includin g an evaluation of both direct effects from the GMO and any uni ntended effects. Although 
+these Codex principles would not have a binding effect  on national legislation, they  could be used as a 
+referenc e in case of trade disputes. Prese nt US regul ations m ay not fully  confirm  with these sta ndards, 
+especially  as regards pre- market testing. 
+ 5
+
+The EU's new labelling r ules for  GM food & feed  April 2004 
+New rules and procedures for approval of GMOs in food 
+and feed 
+With the entering int o force of the new labelling and t raceability regulations new  approvals for the 
+commercial u se of so me GMOs can be expected within this year. A new approval procedure will 
+apply, which will be executed by  the E uropean  Unions newly  establish European Food Safet y 
+Authorit y, EFSA.20  
+Approval can be sought  for food an d feed use of specific GMOs as well as for foods containin g or 
+consisting of specific GM Os. A detaile d risk assess ment regarding the safety  for hum an and animal 
+consum ption and in cases where the GMO will also be released into the environment additional 
+environm ental risk assessment (which is detailed in E U Directive 2 001/1821) will be required. These 
+shall be carri ed out by the EFSA. The agency  informs all national Co mpetent Authorities and may  
+seek their advise. In cases of applications for e nvironmental releases EFSA is obliged to seek the 
+advice of a national authori ty . An o pinion of the EFS A regarding t he safety  of the product wi ll then 
+be published and the public will ha ve the possibility  to m ake comments. Havin g received this opinion 
+the Commission shall subm it a draft decision to t he Standing Com mittee on the Food Chain a nd 
+Animal He alth com posed of representati ves of the me mber state s.22 The Commis sion m ay also take 
+into account " other legitim ate factors relevant to the matter", not dir ectly  referring to health and 
+environm ental risks. If the Committee approves th e Commission 's decision, the approval shall be 
+granted or de nied accordingly . Should the Comm ittee not agree with the propos ed decision by 
+qualified m ajority, the decision will be subm itted to th e Council of  Ministers, who are to decide with 
+qualified m ajority.23 The authorisation wil l be granted o nly for a lim ited time period of ten years, after 
+which the approval needs to be reviewed or expires. 
+ 
+Market situation and impacts 
+Food and feed ingredients presently  affected by  GM l abelling are mainly  soya and m aize products. 
+The introduction of GM w heat in the USA and Canada, which has been recently subm itted for 
+approval b y Monsanto, co uld have equa lly m assive implications for tr ansatlantic and global 
+commodity  trade.24  
+Soybea ns 
+Soybeans, which arrive in bulk carriers, are crushe d in a few, central ised facilities into oil , prote in 
+preparations, lecithin and a diversit y of other pr oducts (for a full list of soy  produc ts see Annex 1) as 
+well as ani mal feed (soy  meal and soy  cake) which is also directly  imported in large quantities. 
+02.000.0004.000.0006.000.0008.000.00010.000.000
+199619971998 1999 2000 2001 2002
+yeartonsUSA
+Brazil
+Argentina12.000.000
+Impor t of soybeans  
+to the  EU i n metric 
+tons 
+Source:  European 
+Statistical Office 
+ 
+ 
+ 
+ 6
+
+The EU's new labelling r ules for  GM food & feed  April 2004 
+02.000.0004.000.0006.000.0008.000.00010.000.00012.000.000
+19961997 19981999 200020012002
+yeartonsUSA
+Brazil
+ArgentinaImpor t of soy meal 
+and cake to the EU 
+in metric tons 
+Source:  European 
+Statistical Office 
+ 
+Soybean im ports are by  far the m ost sig nificant in terms of quantiti es and value. The EU is the largest 
+import marke t for soy beans and meal in the world.25 Soybeans account for o ver 40 % of all EU feed 
+imports26 and for nearly a qu arter of all US agricultu ral exports to t he Community.So ya is also t he 
+most significant GM ingredient in term s of disp ersion throughout t he food chain (see Annex 1).  
+A single ingr edient derived from  soybeans - lecithin - which is used as an em ulsifier, accounts for an 
+estimated 80% of potential presence of GM material in products on supermarke t shelves. It is yielded 
+after crushing from  a small fraction (0,5 %) of the crude  soya oil. 150.000 tonne s of lecithin are traded 
+world-wide. Demand is increasing, also  due to its health properties. Cleaning methods for lecit hin are 
+available, which prevent the detection of DNA in  the product. How ever, with the new traceabilit y 
+regulation, de tectability  is no longer the decisive point  for future labelling. Substantial im pacts on this 
+market c an be expected. 
+As major oil and fat processors, such as Unilever,  have requested a non-GM suppl y for EU production 
+already  over t he past y ears, large quantiti es of  the oil derived from  GMOs was re-exported by 
+European oil mills to Eastern European Countries. However, with the accession to the EU of Poland, 
+Hungar y, the Czech Republic and the Baltic States in 2004, labelling laws w ill also appl y in these 
+countries. 
+These factors, com bined with in creased dem and for non-GMO feed is a strong i ncentive for oil m ills 
+to increase their non-GMO processing quantities. Many  of them at present switch seasonally  between 
+US or Argentinean GM imports and Brazilian or other non-GM imports. Cleaning the facilit y to a 
+degree that allows to stay  below the 0,9% contam ination threshol d is costly  and r educes the econom ic 
+advantage of different sources of i mport. This ma y increase the pre ssure to entirely switch to non-
+GMO process ing. 
+ 
+Maize (cor n) 
+Kernel maize for feed and processing 
+The European Union allows the annual im ports of maize at reduced duties int o Spain (2 m illion tons) 
+and Portu gal (500.0 00 tons), which are regulated in sp ecific legislation o n the tari ff quota and 
+organised b y a tendering pr ocedure 27. 
+US im ports of kernel maize under this r egulation ha ve collapsed to near zero since 1999, d ue to the 
+fact that so me GM varieties grown in t he US are not approved for food or  feed use within th e EU. US 
+officials claim  that the 'de facto'  moratorium  translates into an annual loss of ove r 300 m illion US$ in 
+maize exports for US far mers. This woul d be accurate , if the US could regain the entire market share it 
+used to have i n 1996.28 However, price advantages of im ports fro m Argentina (which onl y allo ws 
+growing of  EU approved GM varieties)  and Braz il (no GM varieties approved) may  cast so me doubts 
+on these figures.  
+ 7
+
+The EU's new labelling r ules for  GM food & feed  April 2004 
+0500.0001.000.0001.500.0002.000.0002.500.000
+1996199719981999200020012002
+yeartonsUSA
+Canada
+Argentina
+BrazilImpor t of kernel 
+maiz e to the EU in 
+metric tons 
+Source:  European 
+Statistical Office 
+ 
+In addition the new labelli ng regulati ons require not only the labelling of GM m aize, but also of starch 
+and glucose produced from such maize. This will cont inue to be a major trade barrier for GM  maize, 
+even when approvals for additional GM maize varieti es will be granted later this year. 
+Some of these varieties wh ich contain antibiotic markers and new proteins m ay also face opposition 
+from  national  authorities. T he use of antibiotic m arkers in GMOs is supposed to be phased out within 
+the EU b y the end of 2 004.29 
+Maize gluten feed for animal feed  
+The rem ains of maize aft er milling and starch extract ion are used as cheap sources of ani mal feed and 
+account for about 10% of EU feed concentrates. Larg e quantities are being im ported to the E U from 
+the USA. While so me disputes arose in the past, whet her GM maize gluten feed was to be considered 
+a live GMO ( some viable kernel seeds us ually remain in  the m ixture s), the new re gulations will clearly  
+require labelling of t his pro duct. 
+01.000.0 002.000.0 003.000.0 004.000.0 005.000.0 006.000.0 00
+1997 1998 1999 2000 2001 2002
+yeartonsUSA
+Argentina
+BrazilImport of maize 
+glute n feed to the 
+EU in metric to ns 
+Source:  European 
+Statistical Office 
+ 
+ 
+Sweet mai ze for direct human consumption 
+Sweet maize, mainly  canne d, som e also frozen, is prod uced b y Fran ce (300.00 0 tons), Ital y (40.000 t) 
+and Spain (2 0.000 t) . Imports from  the US have  decreased to around  1000 tons. H ungar y, now 
+accessing the EU Co mmon Market, is a major expor ter of sweet maize, co mpeting with France. 
+Consum ption had dip ped in 1998 due to consum er concerns linkin g maize to GMOs. 30 No GM sweet  
+maiz e varieti es are pre sently approved in the EU. However, Sy ngenta’ s GM variety  Bt11 is a sweet 
+maize variety and m ight be one of t he first GM variet ies to be approved, if the pre sent moratorium  is 
+lifted. Even t houg h it wou ld have to be labelled, sweet maize producers in Europ e are concern ed about 
+the potential i mpact on their products rep utation. 
+ 8
+
+The EU's new labelling r ules for  GM food & feed  April 2004 
+"Masa", a special preparation for chip production 
+GMOs in maize chips have been one of the first c onsumer issue s in Europe. The s pecial prepar ation 
+for their production is now available in non-GM O quality  both from  new European sources and from  
+traditional suppliers in the USA and Mexico, who set up Identity Preservation (IP) sy stem s for this 
+purpose.31 
+ 
+Oilseed rape (Canola) 
+Canadian exports of canola have collapsed sin ce the introductio n of GM varieties in 199 5/96.32 The 
+impacts of the new European labelling r ules on othe r international canola markets can be expected, as 
+avoiding the use of GM oil in processed foods im ported to the EU (from  cookies to canned fish and 
+vegetables) will be crucial to prevent G M labelling. 
+0100. 000200. 000300. 000400. 000500. 000600. 000700. 000800. 000900. 0001.000. 0001.100. 0001.200. 000
+92-
+9393-
+9494-
+9595-
+9696-
+9797-
+9898-
+9999-
+0000-
+0101-
+02
+Seeds Oil
+ Impor t of 
+Canadian  canola 
+seeds and oil  to the 
+EU in metric to ns 
+Source:  Canola C ouncil 
+of Canad a  
+ 
+Also affect ed by  GM labell ing requirem ents is  Canadian hone y, which increasingly contains GM 
+pollen from  canola and wo uld therefore also be re quired to be label led as genetically  modified.33 
+ 
+Other GM crops 
+Other GM crops, which co uld be im ported, but are of minor econo mic significance, are cotton oil and  
+fresh or processed Papay a. Future applic ations coul d include potato, tom ato (GM  varieties of both had 
+been co mmercialised in the US but were taken off the market again) , wheat, beet, sunflower and 
+eventually rice as w ell as fr uits and vegetables. 
+ 
+Consumer attitudes 
+European consu mers remain sceptical ab out GMOs, especially  when it com es to their own foods. 
+Continued survey s of the European Unions Eurobaro meter and other sources sh ow a constant rejection 
+of GM foods,  even thou gh confidence in benefits arising from  genetic engineering technolo gies seems 
+to increase in other areas.  
+Public attenti on and sensiti vity was especially  high in 1996- 99, whe n the first GMOs hit the European 
+market. It has  decreas ed since, after the 'de fa cto' moratorium  on GMO appr ovals was established in 
+1998 and nea rly all major supermarke ts and food brands committed  to a non GMO polic y. So far, with 
+negligible ex emptions and attem pts, no GM products  appear on Eu ropean supermarket shelves. As 
+there are currently no GM products in t he pipe line which would pr omise any  specific consu mer 
+benefits, it is unlikel y that this situ ation will change in the near fut ure. 
+ 9
+
+The EU's new labelling r ules for  GM food & feed  April 2004 
+With the de facto moratorium  possibly  coming to an end and the US adm inistration’s recent 
+aggressive policy  on Eur ope's rejection of GM foods , the level of public awareness may increase and 
+concerns about GMOs in food m ay rise again. Also , concerns about  environm ental im pacts of GMOs 
+appear to have increased in addition to initial concerns about food safety . 
+Recent political discussions focus m ore and m ore on the issue of whether or not G MOs should be 
+planted within the EU at a co mmercial scale and how to secure European far mers ability to guarantee 
+non-GM products for their custo mers in the future. W hile labelling of products seems to be resolved 
+with the new Regulation, these issue s of "co-exis tence" re main unresolved and fiercely  disputed. A 
+majority  of Mem ber Stat es are not sati sfied with the non-legall y “guidelines” published by t he 
+Commission in July  2003, and demand instead the adoption of a EU legislation on “co-existence”. 
+Special conce rns are rais ed by  the organic sector, as its standards ca tegorically  exclude the use of 
+GMOs. Cross pollination a nd seed c ontamination with GMOs could severely  jeopardise the purity  of 
+non-GM and organic farm  products. Local and regional initiatives to  declare communities, counties 
+and districts "GMO free zones" are wide spread acros s Europe and f requentl y supported b y the local 
+authorities. Their num ber increas es desp ite the fact that the EU Commis sion has recently  stated that 
+GMO free zones would only be accepta ble on a voluntary  basis. 
+European consumer attitudes to GM food34 
+ 
+94,62,5
+2,8
+agree disagree
+don't k now don't know don't know70,916,9
+12,9
+agree disagree70,916,9
+12,9
+agre e disagre e 
+ 
+ 
+ 
+ 
+I wan t to have  the right to 
+chose : 94,6 % I don't w ant to e at this  
+type of food: 70,9 %They could hav e negative 
+effec ts on the  
+environment: 59 %  
+Source: Eurobar ometer 55.2 , December 2001 
+ 
+Industry response 
+Supermar kets 
+Since 1999/ 2000 m ost European Super markets follow a non-GMO polic y with  regard to thei r own 
+brand pro ducts and have no t sold an y products labelled as genetically m odified. In June 20 03 the 
+British Retail  Consortium , which represents 90 per cent of British S upermarkets, has sent an 
+unequiv ocal warning to th e Govern ment that GM fo od is not com mercially viable in the UK.  
+"The customer is where the real power li es. Supermarkets are not goin g to give 
+shelf space t o something that doesn't sell." 
+David Sout hwell, British Retail Consortium 35 
+In 200 1 the B RC had publi shed a co mprehensive "Technical Standard For the S upply of Iden tity 
+Preserved No n-Genetically  Modified  Food Ingredient s and Product s".36. 
+It can be anticipated that safety  margins well be low the allowable thresholds will be im posed  on 
+suppliers thro ugho ut the fo od chain b y those pla yers who have the market power to do  so. 
+ 10
+
+The EU's new labelling r ules for  GM food & feed  April 2004 
+Some supermarket chains, such as Carrefour (EU' s No.1), n ot only impose non-GMO requirements on 
+their supplier s, but activel y use their mar ket infl uence to secure the necessary  non-GMO supply in co-
+operation wit h their partne rs.37 
+Major Food producers 
+Most international and m ajor nati onal br ands of foo d producers have made co mmitm ents to their 
+custo mers not to use GM ingredients. Considerable efforts have been m ade over t he past few years to 
+avoid any  necessity  to label  products as genetically  modified. The ne w labelling rules will entail  new 
+challenges for food producers, especially with  regard to starch and oil ingredient s. 
+A survey  conducted in 2003 by  Greenpeace in Ger many reveals, however, that the large majority of 
+the food i ndustry has alread y prepared sy stem s to comply with the se challenges and does not  intend to 
+put an y products on the m arket which are labelled as genetically  modified. More  than half a year ago,  
+companies who had alread y done their " homewor k" included Apol linaris-Schweppes, Coca Cola, 
+Barilla, Campbells, Frosta, General Mil ls, Karlsb erg, Kraft Jacobs Suchard, Procter & Gam ble, 
+Unilever. Man y others responded to Greenpeace' s inquiries that th ey were presentl y organisin g the 
+transition with regard to th e new ingredients requiring  labelling.38 
+Animal Feed producers 
+While GM anim al feed now has to be labelled, c onsu mer products derived from  the use of this  feed, 
+such as meat, eggs and m ilk do not req uire labelling.  Therefore the im pact of the new labelling regim e 
+on the m arket remains to be seen. The trend to increase non-GMO im ports of soybeans will continue, 
+provided suppl y, especially from  Brazil , rem ains stab le and reliable. Other sources of non-GM 
+soybeans are Canada, India, Paraguay  and potentiall y China. 
+In addition there are moves within the European Comm unity  to partially  replace i mported soya with 
+other sources of protein t hat can also be grown domestically  as the "Blairhouse Agreement" between 
+the EU and the USA, whic h put tight res trictions on EU  oilseed subsidies is prese ntly expiring. In this 
+context it is noteworthy  that the EU Commission r ecently decided to open an exa mination proc edure 
+in response to a co mplaint by  the Eur opean O ilseed Alliance (EOA) about US soybean subsidies.39 
+The Commis sion is collecting evidence on the negative  impact of the US oilseed subsidies on prices 
+and will present a report no later than the end of 200540. 
+Meat, milk and egg producers 
+Major meat p roducers, but also so me milk and egg producers in Eur ope have already  started voluntary  
+schemes to guarantee non-GMO feeding41. Also, some exporters, such as the major Brazilian poultr y 
+producers Sadia and Perdi gão, have started non-GM programmes.42 
+The BSE cris is and subsequent feed conta mination scandals have made ani mal feed an extre mely 
+sensitive issu e in the European public. The Commission is presently preparing additional legislation 
+regarding lists of perm issible ingredients and HAC CP (Hazard An alysis and Critical Control Points) 
+systems for feed producers. Various national a nd regi onal vol untar y qualit y pro grammes attem pt to 
+regain consumer confidence. One of the bigger programmes, QS ("Qualität und Sicherheit") in 
+Germany, at present does not exclude GM feed. Cri ticised by  consu mer organisations the organising 
+industries argued that the l ack of labelling m ade it too difficult for  producers to comply with such a 
+standard. Thi s will change now. 
+Selected list of 
+major food 
+companies with a 
+non-GM polic y, 
+representin g  total 
+revenue s in e xcess 
+of 450 billio n $ 
+annually.  
+Source: Innovest Aldi Coca Co la Findus McDonald' s Superquinn
+Alpro So ya Colruyt Friki Migros Tegel 
+Amadori Coop FujiOil Nestlé Tengelmann
+Asahi Corona Gerbe r Nutrici a Tesco 
+ASDA Danone Heinz ParknSho p Trader Joe's
+Barill a Delhai ze Le Lion Hipp Perdigao Unilever
+Ben & Jerr y's DUC Kirin Sadia VitaSo y
+Burger Kin g Edeka Kraft Jacobs Safeway Waitrose
+Cadbur y's Esselunga Marks&Spencer Soya Hellas Wiesenhof
+ 11
+
+The EU's new labelling r ules for  GM food & feed  April 2004 
+Carrefou r Ferrero McCain Spar Wimpy Fast Foods
+43 
+ 
+Stringent de mands for no n-GM ingredi ents also co me fro m the pet food i ndustr y. 
+The WTO case against the EU's de facto moratorium 
+In May 20 03 the US ad ministration took  formal steps against the European Union’ s "de facto 
+moratoriu m" on the appr oval of GMOs and a num ber of national marketi ng and i mport bans of 
+mem ber states. These steps were supported by  similar requests of Canada and Argentina.44 After  
+bilateral talks in Geneva collapsed the US request ed the establish ment of a dispute settlement panel, 
+which was ev entually appo inted on 4 Ma rch 2004 . The  panel has six to nine m onths to jud ge whether 
+the EU moratorium  was or is in breach of WTO rul es. The panels decision can be appealed agai n by 
+the defendant. A final result may  be expe cted so metime during 2005. 
+The m oratorium  is based on unilateral declarations  of mem ber states that they  will not f ollow the 
+present rules of GMO approvals until substantia l improvements are made regardi ng the risk 
+assessment, labelling and t raceability and liabilit y issues. With the adoption of t he new Release 
+Directive 2001/18/EC (whi ch still needs to be im plem ented by  most mem ber states) and the Food and 
+Feed and Traceability  Regulations, m any of the initia l demands of these member  states appear  to be 
+satisfied. Ho wever, liability rules and anti-contam ination m easures regarding the commercial release 
+of GMOs are still missing. The European Commissio n argues that the m oratoriu m is about to be lifted 
+or even no l onger exists. 
+The pres ent moratorium is not the majo r and persistent stu mbling block for GMO 
+imports to the EU. Ironically it will be  the Food an d Feed Labelling and 
+Traceability Regulations designed to finally  lift thi s moratoriu m, that will prevent 
+marketability of GM products within the EU  as it enables consumers to effectively 
+reject these products on the market. 
+Whether the US will also take the new European  labelling and tra ceability  rules to a WTO dispute 
+settlement, remains to be seen. This would be a ser ious global pre cedence and a severe challenge of 
+the EU's sovereignt y and a bility to protect and inform their citizens.  
+In recent y ears the USA has thr eatened countries establishing restrictive GMO legislation with t he 
+argument that these contravened WTO rules, usually  combined with direct economic and politi cal 
+pressure. 45 A recently  passed US bill eve n goes as far as directly  linking aid on combating AI DS/HIV 
+with the requi rement that beneficiary  nations shoul d accept GM food aid.46 
+The European Union has strong m eans t o counter su ch pressure. They  include t wo recent decisions by  
+the WTO allowing the EU t o impose pen alty tariffs up  to four billion US $ to reta liate against unfair 
+US practice s in the FSC case47 and an im pending penalty of 2,2 bi llion US $ in the case of US st eel 
+subsidies viol ating WTO rules.48 The first option has not been used so far. The EU decided, in the case 
+of horm one treated beef, to pay penalties im posed  rather than respec t a WTO deci sion it does not 
+accept.49 Conti nued US pressure on China  about its rest rictions of GM soybean i mports has also 
+yielded no re sults so far. It was met with firm  rejectio n of the Chi nese govern ment, which has adopted 
+labelling rule s very  similar to the Eur opean standa rds. Smaller and m ore de pendent nations, h owever, 
+do not have s uch opti ons. 
+ 
+"The US action in the WTO was clearly  timed to preem pt the final ratification of the Protocol.  The US 
+agenda is to assert the predom inanc e of the WTO over the Protocol by defining G MO restrictio ns as 
+‘trade barrier s’, and by doing so seeks to block furt her progress in the im plementation of the Protocol. 
+By using t he WTO to unde rmine the new global cons ensus on bios afety , the US is targeting th e 
+countries in t he South. "50 
+ 12
+
+The EU's new labelling r ules for  GM food & feed  April 2004 
+The Cartagena Protocol on Biosafety  
+The International Cartagena Protocol on  Biosafety  under the Convention on Biol ogical Diversity51 
+entered into f orce on Septem ber 11th 2003, while the negotiations at the WTO m inisterial meeting in 
+Cancun were collapsing. T his inte rnational agree ment sets up m inimum saf ety standards regarding the 
+transboundar y movement of GMOs.  
+The Protocol,  inter alia , requires an advance infor med agree ment for the im port of GMOs from  one 
+countr y to another, environmental risk assessment s and explicitl y establishes th e right of m ember 
+states to refus e such agree ment al so on the basis of the precautionary  principle. This means t hat the 
+lack of scientific certainty  regarding the safety  of GMOs for hum an health and th e environm ent, is 
+accepted a s legal grounds to refuse their i mport. 
+A major dispute durin g the  negotiations of the Prot ocol was about whether the Protocol super sedes 
+WTO provisi ons or vice ve rsa. The final text put both agreements on equal leve l, which could put the 
+UN sy stem  of m ultilateral environm ental agreements in direct conflict with the WT O system .  The 
+WTO however could also decide to acc ept the Biosaf ety Protocol a s a refer ence agree ment for their 
+own decision s, as it has done with the Codex Alim entarius and oth er internation al agreements. The US 
+case against the EU moratorium  is mainly a politi cal move to under mine the "right to sa y no" 
+enshrined in the Protocol in the run-up to its entering into force. It is seen to ai m at many less powerful 
+nations, which have also i mposed moratori a and othe r restrictions on GMO im ports. 
+The signatory states of the Protocol have  agreed to  extend the provi sions of the a greem ent to labelling 
+and liability  issues within two y ears after its ente ring into force. These negotiations have become 
+another "battl eground"  between the different a pproaches of the USA and the Eur opean Union.  
+However, despite massive oppositi on an d obstruction tactics fro m the USA, the Parties to the Protocol, 
+at their first Meeting held in Kuala Lumpur on  23-27th Februar y 2004, alread y adopted m ore detailed 
+requirem ents on the d ocumentation and l abelling of « Living M odified Organisms » , including  those 
+intended for f ood, feed or  processing. The docum entation accom panying transboundar y movements of 
+living GMOs will have to i nclude the « common, scientific and commercial names » of the GMOs 
+present in the shipm ent, as well as their « transfor mation event codes » or, wher e available, their 
+« unique iden tifier codes »52. A Biosafety  Clearinghouse, which will collect all information on 
+transboundar y movements of GMOs and which will also provide a database for  unique identi fiers of 
+individual GMO events, has alre ady been set up in Montreal.  
+The US has neither ratified the Biosafety Protocol n or the Conventi on on Biolo gical Diversity  and has 
+strongl y critic ised the precautionar y principle, which is also enshrined in the Treaty of the E uropean 
+Union. The B ush adm inistration could be heading fo r a conflict which appears ha rd to win, especially  
+after the international comm unity  has sh own a strong consensus to m ove forward with the 
+implem entation of t he Prot ocol. Forcing products  upon unwilling c ountries and t heir citizens may 
+resonate with  some do mestic agricultural constituencies in the short run. It is certainl y not a smart and 
+prom ising way to win m arkets, as long as these are free. 
+New Codex Alimentarius guidelines  
+In Jul y 2003 the Codex Alimentarius Co mmission adopted two ne w guidelines regarding the safety  of 
+foods derived  from  genetically  modified organism s: "Principles for the Risk Analy sis of F oods 
+Derived fro m Modern Biot echnology"  and "Guideline for the Conduct of Food Safety  Assessment of 
+Foods Derived from  Recom binant-DNA Plants".53. These docu ments represent an im portant step 
+forward in defining at an international level th e accept able procedures for evaluating the safety of 
+genetically  engineered food s. Notably, th e guidelines serve to highli ght the i nadequacies and lack of 
+scientific rigor used in the approval proc ess in th e United States, where the bulk of the genetically 
+modified vari eties ar e developed and grown.  Th e US process is se en as sorely  inadequate in 
+comparison to the new gui delines; in fact, the US Food and Dru g Administration (FDA) does not have 
+its own detailed safety  standard or testin g gui delines.54 
+ 13
+
+The EU's new labelling r ules for  GM food & feed  April 2004 
+Annex 1: Soya Processing and Soya Products 
+Source: Soy atech, 2002 Soya and Oilseed Bluebook 
+ 
+ 
+ 
+ 14
+
+The EU's new labelling r ules for  GM food & feed  April 2004 
+II) Pending G MO product notificati ons received by the Commission 
+under Directive 2001/18/EC  
+As of 26 Jun e 2003 
+ 
+Product notification details  Company  
+1. Oil seed r ape herbicid e resi stant GT 73   
+Received by the Nethe rlands  (C/NL/98/11) under Dir 90/22 0/EC.  
+Received by the Commiss ion under Dir 200 1/18 :  16/1/03   
+Uses: i mport and uses in feed and industrial processin g, not for cultivation.  Monsanto  
+2. Maiz e Ro undup Ready NK603 , tolerant to glyphosate herbicide Re ceive d 
+by Spain  (C/ES/00/0 1) under Dir 90/22 0 : 21/ 12/2000  
+Received by the Commiss ion under Dir 200 1/18 :  17/01/03   
+Uses: i mport and use in feed and indus trial processing, not for cultivation. Monsanto  
+3. Maiz e hybrid MON810 x NK603 (gl yphosate-tol erant and containing Bt 
+toxin)   
+Received by UK under Dir 90/2 20/EC. (C/GB/02/M3/03)  
+Received by the Commiss ion under Dir 200 1/18 :  15/01/03   
+Uses: i mport and use in feed and indus trial processing, not for cultivation. Monsanto   
+4. Potato with altered starch composit ion from  Sweden (C/SE/96 /3501)   
+Received by the Commiss ion under Dir 90/2 20: 2 0.05.98 Fav ourable opini on of 
+EU Scientific Committee 18.07.02  
+Received by the Commiss ion under Dir 200 1/18/EC:  24/01/03  
+Uses: for cult ivation and production of st arch, not for use as hu man food. Amylogene   
+HB 
+5. Oilseed ra pe (Ms8, Rf3) from  Belgium  (C/BE/96/01)  
+Received by the Commiss ion: under Dir 90/2 20 16.01.97  
+Favourable opinion of EU Scientific Committee 19.05.98  
+Received by the Commiss ion under Dir 200 1/18: 5/02/03  
+Uses: i mport and cultivation in the EU, uses in feed an d industrial processing. Bayer 
+CropScience  
+6. Soybeans Glufosinate tolerant (Events A 2704-1 2 and A 5 547-127)   
+from  Belgium  (C/BE/98/01) Received  by the Commission under Dir 2001/ 18: 
+5/02/0 3  
+Uses: i mport only Bayer 
+CropScience  
+7. Roundup Ready sugar beet (event T9100152), glyphosate tol erant   
+from  Belgium  C/BE/99/01  
+Received by the Commiss ion under Dir 200 1/18: 5/02/03  
+Uses: for cult ivation and use in ani mal feed, processi ng of sugar and other 
+products. Monsanto/ 
+Syngenta  
+ 15
+
+The EU's new labelling r ules for  GM food & feed  April 2004 
+ 
+Product notification details  Company  
+8. Oilseed ra pe tolerant for glufos inate-ammonium herbicid es. (FALCON 
+GS40/90pHo e6/Ac) from Germany (C/DE/96/5)  
+Received by the Commiss ion under Dir 90/2 20: 2 5.11.96  
+Opinion of EU Scientific Committee 27.07.98  
+Received by the Commiss ion under Dir 200 1/18: 7/02/03  
+Uses: for i mport and cultivation Bayer 
+CropScience  
+9. Oilseed ra pe tolerant for glufos inate-ammonium (Liberator  pHoe6/Ac) 
+from  Germany (C/DE/98/6) Received b y the Commi ssion  under Dir 90/22 0: 
+29.10.98  
+Favourable opinion of EU Scientific Committee 30.11.00  
+Received by the Commiss ion under Dir 200 1/18: 7/02/03  
+Uses: for i mport and cultivation Bayer 
+CropScience  
+10. Roundup  Ready Sugar Beet even t H7-1 (tolerant to glyph osate)   
+from  German y C/DE/00/8  
+Received by the Commiss ion under Dir 200 1/18: 7/02/03   
+Uses: for cult ivation and use in processi ng of sugar and ot her proc essed products. KWS SAAT 
+AG/Monsant o 
+11. Maiz e MON 863 X MON 810 (protection against certain insect pest s)  
+from  German y C/DE/02/9 (6788- 01-09)  
+Received by the Commiss ion under Dir 200 1/18: 7/02/03   
+Uses:, for i mport and use of grain and grain products. Monsanto  
+12. Oilseed r ape (event T45) tolerant  for glufosinate-ammonium herbicid e  
+from  UK C/GB/99/M5/2  
+Received by the Commiss ion under Dir 200 1/18: 10/02/03   
+Uses: i mport and use in feed and industrial processing. Bayer 
+CropScience  
+13. Maiz e herbicide and insect resista nt (line 1507 -- CRY1F)   
+received by  the Netherlan ds (C/NL/00/10) un der Dir 90/2 20/EC.  
+Received by the Commiss ion under Dir 200 1/18 :  12/02/03   
+Uses: i mport and processing, not for cultivation Pioneer/ Mycogen 
+Seeds  
+ 16
+
+The EU's new labelling r ules for  GM food & feed  April 2004 
+ 
+Product notification details  Company  
+14. Insect-pr otected Cott on expressin g the Bt cryIA(c) gene (line 531)   
+from  Spain (C/ES/96/02) (Rec eived by the Commis sion under D ir 90/220: 
+24.11.97  
+Favourable opinion of EU Scientific Committee 14.07.98)  
+Received by the Commiss ion under Dir 200 1/18: 12/2/03  
+Uses: for i mport, processing and cultivation  Monsanto  
+15. Roundup  Ready Cotton tolerant t o herbicide (line 1445) from Spain 
+(C/ES/97/01)   
+(Received by the Comm ission under Dir 90/22 0: 24 .11.97  
+Favourable opinion of EU Scientific Committee 14.07.98)  
+Received by the Commiss ion under Dir 200 1/18: 12/2/03  
+Uses: for i mport, processing and cultivation  Monsanto  
+16. Roundup  Ready Maize tolerant to glyphosate ( GA21) from Spain 
+(C/ES/98/01)   
+Received by the Commission under Dir 90/220: 20.05.99   
+Favourable opinion of EU Scientific Committee 22.09.00  
+Received by the Commiss ion under Dir 200 1/18: 13/2/03  
+Uses: use in feed and indus trial processi ng Monsanto  
+17. Maiz e MaisGard/Roundup Ready (derived fro m MON 810 and 
+GA21). Tolerance to glyp hosate and Cry1Ab protein derived from  Bt.  
+Received by  Spain (C/ES/99/02)  3/9/1999 under Dir 90/22 0/EC.  
+Received by the Commiss ion under Dir 200 1/18: 13/2/03  
+Uses: i mport and use in feed and indus trial processing, not for cultivation. Monsanto  
+18. Maiz e 1507 (or Bt Cry1F 1 507)  
+Received by Spain (C/ES/01/01)  11/7/2001 under Di r 90/2 20/EC.  
+Received by the Commiss ion under Dir 200 1/18: 13/2/03  
+Uses: i mport, feed and industrial proces sing, and cultivation  Pioneer Hi-B red 
+/Mycogen Seeds  
+ 17
+
+The EU's new labelling r ules for  GM food & feed  April 2004 
+ 
+Product notification details  Company  
+19. Roundup  Ready Fodd er beet (line A5/15) from  Denmark (C/DK/97/01)  
+Received by the Commiss ion under Dir 90/2 20: 09.10.97  
+Favourable opinion of EU Scientific Committee  23.06.98  
+Received by the Commiss ion under Dir 200 1/18/EC:  26/02/03  
+Uses: for cultivation and a nimal feed DLF-Trifoli um, 
+Monsanto and 
+Danisco Seed  
+20. Maiz e tolerant to glufosinate ammonium and expressing the Bt 
+cryIA(b) gene (Bt-11)  from  France (C/ F/96/05-10)  
+Received by the Commiss ion under Dir 90/2 20: 1 2.04.99 an d 03.05.99 
+respectively   
+Favourable opinion of EU Scientific Committee 30.11.00  
+Received by the Commiss ion under Dir 200 1/18/EC : 16.6 .2003  
+Uses : for cultivation , feed and industrial processing Syngenta Se eds SAS   
+ 
+ 18
+
+The EU's new labelling r ules for  GM food & feed  April 2004 
+III) Pending applications under Regul ation (EC) N° 258/97 of the 
+Europea n Parliament and of the Council 
+ 
+ Applicant Desc ription of  Food or 
+Food Ingredient  Initial Asses sment 
+Carried out by  Application  
+Date  Status By 
+June 200 2 
+1 Bejo-Zaden  
+P.O.Box 50  
+NL - 1749 
+Warm enhuizen Transgenic Radicchio rosso
+with male st erilit y The Provisional 
+Committee for the 
+safety  evaluation of 
+novel fo ods ( VcVnv) 
+(NL) 8 April 19 98 Under 
+assessment by 
+the Scientific 
+Committee on 
+Food (SCF).  
+2 Bejo-Zaden  
+P.O.Box 50  
+NL - 1749 
+Warm enhuizen Transgenic G reen hearted 
+Chicoree wit h male sterilit yThe Provisional 
+Committee for the 
+safety  evaluation of 
+novel fo ods ( VcVnv) 
+(NL) 8 April 19 98 Under 
+assessment by 
+the SCF 
+3 Monsanto 
+Services  
+International S.A. 
+Avenue de 
+Tervueren 27 0-
+272  
+B - 1150  
+Bruxelles Roundu p Read y Maize line 
+GA21  The Provisional 
+Committee for the 
+safety  evaluation of 
+novel fo ods ( VcVnv)  24 Jul y 1998 SCF opinio n 
+of 27 
+February  
+2002 
+4 Plant Genetic 
+System s N.V.  
+Jozef 
+Plateaustra at 22  
+B - 9000  Gent Liberty Link Soybean b y 
+AgrEvo  Bioveiligheid sraad (B)2 Februar y 
+1999 Initial 
+assessment 
+report 
+pending . 
+5 Novartis Seeds 
+AG  
+Basel  
+CH - 4002 B asel Bt11 sweet maize Gezondheidsraad 
+(NL) 11 Februar y 
+1999 SCF opinio n 
+of 13 March 
+2002 
+6 Monsanto 
+Services  
+International S.A. 
+Avenue de 
+Tervueren 27 0-
+272  
+B - 1150  Belgium  MaisGard/Ro undu pReady  Gezondheidsraad 
+(NL) 16 March 
+2000 Initial 
+assessment 
+report 
+pending  
+ 
+ 19
+
+The EU's new labelling r ules for  GM food & feed  April 2004 
+ 
+ Applicant Desc ription of  Food or 
+Food Ingredient  Initial Asses sment 
+Carried out by  Application 
+Date  Status By 
+June 200 2 
+7 Monsanto 
+Europe S.A.  
+Avenue de 
+Tervueren 27 0-
+272  
+B - 1150  
+Brussels and;  
+Novartis Seeds 
+AB, Box 302  
+S - 261  23 
+Landskrona Foods and f ood in gredient s 
+derived from  Roundu p 
+Ready  Sugar Beet  Gezondheidsraad (NL)  Initial 
+assessment 
+report 
+pending  
+8 Pioneer Overseas 
+Corporation  
+Avenue Tedesco 
+7  
+B - 1160  
+Brussels Food prod ucts of 
+genetically  modified B.t. 
+CRY1F Maize line 1507  Gezondheidsraad (NL)26 Februar y 
+2001 Initial 
+assessment 
+report 
+pending  
+9 Monsanto 
+Services  
+International 
+S.A.  
+Avenue de 
+Tervueren 
+2702 72  
+B - 1150  
+Bruxelles Roundu p Read y maize line 
+NK603  Gezondheidsraad (NL) June 2001  Initial 
+assessment 
+report  
+10 Monsanto 
+Services  
+International 
+S.A.  
+Avenue de 
+Tervueren 27 0-
+272  
+B - 1150  
+Bruxelles Insect protect ed maiz e line 
+MON 863 an d maize 
+hybrid  
+MON 863 X MON 810 Robert Koch Institut 
+(D) 28 August 
+2002 Initial 
+assessment 
+report 
+pending   
+ 
+ 20
+
+The EU's new labelling rules for GM food & feed  April 2004 
+ 21 
+  
+Footnotes and References 
+1 Regulation (EC)No 1829/2003 of the European  Parliament and of the Council of 22 September 2003on genetically modified food an d feed.  
+http://europa.eu.int/eur-lex/pri/en/ oj/dat/2003/l_268/l_26820031018en0001 0023.pdfHereafter referred to as F&F Regulation  
+2 Regulation (EC) No 1830/2003 of the European Parliament and Council of 22 Sept ember 2003 concerning the traceability and labe lling of 
+genetically modified organisms and the tr aceability of food and feed products produced fr om genetically modified organisms and amending 
+Directive 2001/18/EC  
+http://europa.eu.int/eur-lex/pri/en/ oj/dat/2003/l_268/l_26820031018en0024 0028.pdfHereafter referred to as Traceability Regulation  
+3 F&F Regulation, Section 2, Article 12. 2." This Section shall not apply to foods containing material which contains, consists of or is 
+produced from GMOs in a proportion no higher than 0,9 %of the f ood ingredients considered indivi dually or food consisting of a single 
+ingredient, provided that this presence is adventitious or technically unavoidable. to be easily identified and read. " 
+4 F&F Regulation, consideration (28) " In order to establish that the presence of this  material is adventitious or technically unavoidable, 
+operators must be in a position to demonstrate to the competent authorities that they have taken appropriate steps to avoid the  presence of 
+the genetically modified food or feed. " 
+5 Directive 2001/18/EC of 12 March 2001 on the deliberate release in to the environment of genetica lly modified organisms and re pealing 
+Council Directive 90/220/EEC http://biotech.jrc.it/doc/2001-18-EC.pdf   
+6 F&F Regulation Section 2 Art. 12, 1. "This Section shall apply to foods which are to be delivered as such to the final consumer or mass 
+caterers in the Community and which:  
+(a)contain or consist of GMOs, or  
+(b)are produced from or contain ingredients produced from GMOs."  
+And Consideration (22) " The labelling should include objective information to the eff ect that a food or feed consists of, contains or is 
+produced from GMOs. Clear labelling, irrespective of the detect ability of DNA or protein resulting from the genetic modificatio n in the final 
+product, meets the demands expressed in numerous surveys by a la rge majority of consumers, facilitates informed choice and prec ludes the 
+potential misleading of consumers as regar ds methods of manufacture or production. "   
+7 F&F Regulation, Consideration (17)  "This Regulation should cover food and feed produced ‘from ’a GMO but not food and feed ‘with ’a 
+GMO. The determining criterion is whether or not material derived  from the genetically modified s ource material is present in t he food or in 
+the feed. Processing aids which are only used during the food or  feed production process are not covered by the definition of f ood or feed 
+and, therefore, are not included in the scope of this Regulation. Nor are food and feed which are manufactured with the help of  a genetically 
+modified processing aid included in the scope of this Regulation.  Thus, products obtained from animals fed with genetically modified feed or 
+treated with genetically modified medicinal products will be s ubject neither to the authorisation requirements nor to the label ling 
+requirements referred to in this Regulation." 
+8Also available in French and German 
+ http://europa.eu.int/rapid/start/cg i/guesten.ksh?p_action.gettxt=gt&doc=MEMO/02/160|0|AGED&lg=EN&display= 
+9 e.g. Austria, Germany and Luxembourg have imposed a ban on Syngenta's "Bt-176" maize, Austria and Italy have imposed a ban on  
+Monsanto's "MON-810" maize 
+10 http://gmoinfo.jrc.it/default.asp  
+11 "GM food and feed: A new regulatory framew ork ahead on authorisation, labelling and traceability", Consumer Voice, Special e dition 1, 
+April 2003, From the European Commission’s Health and Consumer Protection DG http://europa.eu.int/comm/dgs/health_consum er/newsletter/200305/consumervoice_en.pdf 
+12 Regulation (EC)No 178/2002, laying down the general principles and requirements of food law, establishing the European Food 
+SafetyAuthority and laying down proce dures in matters of food safety 
+http://www.efsa.eu.int/pdf/En_Base.pdf  
+13 For an overview see http://europa.eu.int/pol/food/print_overview_en.htm  
+14 Proposal for a Regulation of the European Parliament and of  the Council laying down requirements for feed hygiene and traceability, /* 
+COM/2003/0180 final - COD 2003/0071 http://wwwdb.europarl.eu.int/oe il/oeil_ViewDNL.ProcViewCTX?lang=2&procid=6998&HighlighType=1&Highlight_Text=feed 
+15 Commission Regulation (EC) No 65/2004 of 14 January 2004 establishing a system for the development and assignment of unique 
+identifiers for genetically modified organisms 
+http://europa.eu.int/eur-lex/pri/en/o j/dat/2004/l_010/l_01020040116en00050010.pdf 
+16 ENGL, The European Network of GMO Laboratories, has been esta blished in December 2002 by the European Commission. Details ca n 
+be found on their web-site http://engl.jrc.it 
+http://www.jrc.cec.eu.int/download/ press/releases/gmomemo.pdf  
+An outline of their tasks can  be found at: http://eoi.cordis.lu/docs/int_36630.doc   
+Methods for assured and reliable traceability of all genetic modifi cations elaborates especially on the task of detecting unapp roved GMO 
+varieties in the furture: 
+http://eoi.cordis.lu/docs/int_28502.doc  
+The predecessor project QPCRGMOFOOD is present on the web at 
+http://www.entransfood.com/RTDproj ects/qpcrgmofood/Qpcrgmofood.html  
+17 European food standardization: Elements for a CEN strategy and action plan-Annex I reference to the CEN standards on GMO tes ting 
+under development in CEN TC 275 WG11 - Genetically modified  foodstuffs- Six projects are currently under development. 
+http://www.cenorm.be/sectors/f ood/resources/food_strat.pdf  
+18 Regulation of the European Parliament and of the Council on transboundary movements of ge netically modified organisms 
+http://wwwdb.europarl.eu.int/oeil/oeil_ViewDNL.ProcViewCTX?lang=2&procid=597 3&HighlighType=1&High light_Text=Cartagena  
+ 
+
+The EU's new labelling rules for GM food & feed  April 2004 
+ 22 
+ 19 Report Of The Fourth Session Of The Codex Ad Hoc Intergovernmental Task Force On Foods Derived From Biotechnology, Yokohama, 
+Japan 11-14 March 2003 
+ftp://ftp.fao.org/docrep/fao/meeting/006/y9220e.pdf  
+General information on the 26th Session of the Codex Alim entarius: http://www.codexali mentarius.net/session_26.stm  
+20 www.efsa.eu.int  
+21 For the state of the art of risk assessment see guidance document for the risk assessment of genetically modified plants and  derived food 
+and feed, March 2003, Prepared for the Sc ientific Steering Committee by The Joint Wo rking Group on Novel Foods and GMOs Composed 
+of members of the Scientific Committees on Plants, Food and Animal Nutrition http://europa.eu. int/comm/food/fs/sc/ssc/out327_en .pdf 
+22 The Committee is composed of competent representatives of all Member States, w ho vote with qualified majority. Until 1 Novem ber 
+2004, the date of the entry into force of the provisions in th e Nice Treaty the qualified majority is set at 62 votes out of 87  (71%). Member 
+States' votes are as follows: France, Germany, Italy and Unite d Kingdom 10 votes each; Spain 8 votes; Belgium, Greece, the Neth erlands and 
+Portugal 5 votes each; Austria and Sweden 4 votes each; Denm ark, Ireland and Finland 3 votes each; Luxembourg 2 votes. 
+For details about the Standing Committee on the Food Chain see their homepage: http://europa.eu. int/comm/food/fs/rc/scfcah/inde x_en.html  
+23 For details about this "Commitology Pr ocedure" see 1999/468/EC: Council Decision of  28 June 1999 laying down the procedures for the 
+exercise of implementing powers conferred on the Comm ission, Official Journal L 184 , 17/07/1999 P. 0023 - 0026 
+http://europa.eu.int/eur-lex/pri/en/o j/dat/1999/l_184/l_18419990717en00230026.pdf  
+24 The EU while a net exporter of wheat also imports between 3,5 and 5,5 mio tons of wheat annually. See 
+http://www.fas.usda.gov/grain/circ ular/2001/12-01/graintoc.htm 
+25 SEAFOOD.COM NEWS, February 13, 2003, World soybean consumpti on rises rapidly as demand for animal and fish feed grows 
+26 USDA, July 2002, Livestock feeding and feed impor ts in the European Uni on – A decade of change 
+http://www.ers.usda.gov/publica tions/fds/july02/fds0602-01/ 
+27 Commission Regulation (EC)No 1839/95 of 26 July 1995 laying down detailed rules for the application of tariff quotas for imp orts of 
+maize and sorghum into Spain and imports of maize into Portugal, (OJ L 177,28.7.1995,p.4) 
+http://europa.eu.int/eur-lex/en/cons leg/pdf/1995/en_1995R1839_do_001.pdf 
+28 The value of US maize exports to the European Uni on dropped from US$ 305.1 mio in 1996 to US$ 2.6 mio in 2002 
+USDA Foreign Agriculture Service, BIOC Export Commodity  database, http://www.fas.usda .gov/ustrade/USTExBico.asp 
+29 Directive 2001/18/EC of 12 March 2001 on the deliberate release in to the environment of genetica lly modified organisms and r epealing 
+Council Directive 90/220/EEC http://b iotech.jrc.it/doc/2001-18-EC.pdf  
+30 See GAIN Report #FR2054, 7/31/2002 
+"France Processed Sweet Corn French Sweet Corn Je opardized by Biotech and Hungarian Sweet Corn 2002" 
+http://www.fas.usda.gov/ga infiles/200207/145783462.pdf  
+31 In November 2002 Cargill opened £3.85 million state-of-the-art masa flour plant at its  Seaforth site in Liverpool, which exc lusively 
+provides non-GMO masa for the European market. 
+32 For details see htt p://www.canola- council.org/markets/markets.html  
+33For falling honey imports to the EU see USDA's GAIN Report #CA2140 Canada Honey Pro duction and Trade Update 2002 
+http://www.fas.usda.gov/ga infiles/200212/145784870.pdf 
+34 All Eurobarometers on the public opinion w ithin the European Union can be found at: 
+http://europa.eu.int/comm/ public_opinion/index.htm  
+35 The Observer, June 8 2003, "Supermarke ts tell Blair: We won't stock GM" 
+http://observer.guardian.co.uk/ politics/story/0, 6903,972904,00.html  
+36 BRC/FDF Technical Standard For the Supply of Identity Preser ved Non-Genetically Modified Food Ingredient s and Products 
+http://www.tso.co.uk/bookshop/bookstore.as p?AF=A10096&FO=38383&Action= Book&ProductID=0117028495 
+37 For an example see See Carrefour Sustainability report 2002 at http://www.carrefour.com/d ocs/carrefour_r apport_en.pdf  
+38 For details see w ww.greenpeace.de  
+39 On March 12, 2003, the European Commission adopted a Decision to  open an examination procedure in response to a complaint by  the 
+European Oilseed Alliance (EOA) about US soybean subsidies. After the Commission w ill have completed its report in 2005, furthe r action 
+could then be taken, including bilateral negotiations or WTO consultations. Full deta ils can be found in Council Regulation 328 6/1994.  
+http://europa.eu.int/smartapi/cgi/sga_doc?smartapi!celexa pi!prod!CELEXnumdoc&lg=EN&n umdoc=31994R3286&model=guichett  
+40 http://europa.eu.int/comm/trade/issues /respectrules/tbr/cases/usa_oil.htm 
+41 Some prominent representatives are "Wiesenhof", Germanys lead ing chicken producer, Carrefour and its suppliers Cooperl (Fran ces 
+leading pork producers), Duc-Bourgoin and La Cana, Zaffini and LDC;  Danpo, Denmarks biggest chicke n producer and Danish Crown, a 
+world leading pork producer. 
+42 In 2002, Sadia and Perdigão announced that they will eliminat e GM ingredients from all their food products, including meat, and 
+introduce additional mechanisms to  ensure its supplies are not genetically cont aminated. The companies rank among the largest f ood 
+companies in Brazil and are also respectively Brazil’s first and second largest processors and exporters of poultry meat. In 20 00, Sadia and 
+Perdigão together accounted for over 20%  of the Brazilian broiler production and 50% of Brazilian broiler exports  
+http://www.fas.usda.gov/gain files/200104/90680478.pdf  
+Agência Estado, Brazil, September 13, 2002, "Perdi gão se compromete a não usar transgênicos"  
+43 Innovest Strategic Market Advisors, Monsan to and Genetic Engineering. Risks for Investors, April 2003,can be downloaded at  
+www.innovestgroup.com , (publications) 
+44 Excerpts from the requests of United States, Canada and Argen tina (original documents are sear chable as WT/DS291/1, WT/DS292 /1 and 
+WT/DS293/1 at http://docsonline.wto.org): 
+WTO, WT/DS291/1, 20 May 2003: EURO PEAN COMMUNITIES - MEASURES AFFECTING THE APPROVAL AND MARKETING 
+OF BIOTECH PRODUCTS. Request for Consultations by the United States, dated 13 May 2003. 
+
+The EU's new labelling rules for GM food & feed  April 2004 
+ 23 
+ "Since October 1998, the EC has applied a moratorium on the approval of biotech products.  The EC has suspended consideration o f 
+applications for, or granting of, approval  of biotech products under the EC approval system. A number of applications for placi ng biotech 
+products on the market have been blocked in  the approval process under EC legislation a nd have never been considered for final approval.  
+The approvals moratorium has restricted imports of agricultura l and food products from the United States. Moreover, the member States 
+maintain a number of national marketing and import bans on biotech products even t hough those products have already been approv ed by the 
+EC for import and marketing in the EC.  Th e national marketing and import bans have restricted imports of agricultural and food  products 
+from the United States." (...) 
+These measures appear to be inconsistent with the SPS Agreement, the GATT 1994, the Agriculture Agreement and the TBT Agreement , 
+including but not limited to the following provisions: 
+(1) SPS Agreement, Articles 2, 5,  7 and 8, and Annexes B and C; 
+(2) GATT 1994, Articles I, III, X and XI;  
+(3) Agriculture Agreement, Article 4;  and 
+(4) TBT Agreement, Articles 2 and 5.“ 
+WTO, WT/DS292/1, 20 May 2003: EURO PEAN COMMUNITIES - MEASURES AFFECTING THE APPROVAL AND MARKETING 
+OF BIOTECH PRODUCTS. Request for Consultations by Canada, dated 13 May 2003. 
+„The Government of Canada hereby request s consultations with the Eur opean Communities ("EC") ... c oncerning measures affecting the 
+approval and marketing of products that c ontain, consist of, or are produced from, ge netically modified or ganisms ("GM products "). As a 
+result of measures taken by EC Member States, including Austria,  Belgium, Denmark, Finland, France, Germany, Greece, Italy, 
+Luxembourg, the Netherlands, and Sweden, since 1998, the EC has ma intained a de facto moratorium  on the approval of GM products .  The 
+moratorium prevents GM products from accessi ng or proceeding through the EC's approvals process. As a consequence of the morato rium, 
+Canadian GM products have been blocked at va rious stages of the EC's approval process.  
+In addition, some EC Member States, including Austria, France , Greece, and Italy have prohibited the importation and marketing of GM 
+products despite those products having been a pproved by the EC for importation and marketing. 
+These measures appear to be inconsistent with the SPS Agreem ent, the TBT Agreement, the GATT 1994, and the Agreement on Agricul ture.  
+The provisions of these Agreements with which the measur es appear to be inconsis tent include the following: 
+• SPS Agreement:  Articles 2.2, 2.3, 5.1, 5.5, 5.6, 7, 8 an d Annexes B and C; 
+• TBT Agreement:  Articles 2.1, 2.2, 2.8, 5.1 and 5.2; 
+• GATT 1994:  Articles I:1, III:4, X:1 and XI:1; 
+• Agreement on Agriculture:  Article 4.2.“ 
+WTO, WT/DS293/1, 21 May 2003: EURO PEAN COMMUNITIES - MEASURES AFFECTING THE APPROVAL AND MARKETING 
+OF BIOTECH PRODUCTS. Request for Consultations by Argentina, dated 14 May 2003. 
+„Since 1998, the European Communities has suspended consideration of applications for approval of biotechnology products.  In a ddition, 
+some of their member States have intr oduced prohibitions, even infringing Community  rules for biotechnology products. In effect , Argentina 
+indicates that the action by the European Communities is detrim ental to international trade in biotechnology products, as can b e seen from 
+the following:  (a) de facto measures leading to the suspension of consideration or the non-cons ideration of various applicatio ns without 
+sufficient scientific evidence or a proper risk assessment;  and (b) undue delay in fi nalizing consideration of various applica tions for approval 
+of biotechnology products submitted by various WTO Members. This  action affects biotechnology pr oducts approved for marketing i n 
+Argentina and those still being considered, pr ior to approval, as indicated in Annex I.  Furthermore, Argentina challenges the s pecific 
+prohibitions introduced by the me mber States of the Eur opean Communities, which infringe Co mmunity legislation and affect, inter alia, 
+biotechnology products approved fo r marketing in Argentina, as indicated in Annex II. 
+The relevant measures by the European Co mmunities and some of their member States infringe the following provisions of the WTO 
+Agreements: 
+(a) Inter alia, but not exclusively, Articles 2, 5, 7, 8, 10 a nd Annexes B and C of the Agreemen t on the Application of Sanitar y and 
+Phytosanitary Measures; 
+(b) Article 4 of the Ag reement on Agriculture; 
+(c) inter alia, but not exclusively, Articl es I, III, X and XI of the GATT 1994;  and 
+inter alia, but not exclusively, Articles 2, 5 and 12 of the Agreement on Technical Barriers to Trade.“ 
+45 States which have been under US pressure  because of their GM O policies include Egypt, Bolivia, Sri Lanka, Thailand, South Ko rea, 
+Croatia. For a full assessment of the US strategy also see th e briefing "The US war on Biosafety" published by Greenpeace Inter national in 
+June 2003.  
+http://www.greenpeace.org/internationa l_en/reports/?campaign%5fid=3942 
+46 "(...) Sense of Congress relating to food assistance for indi viduals living with HIV/AIDS. (...) (C) Although the United States  is willing to 
+provide food assistance to these countries in need, a few of the countries object to part or all of the assistance because of f ears of benign 
+genetic modifications to the foods. (...) 2) Sense of Congress - It is therefore the sense of Congress that United States food assistance should 
+be accepted by countries with large populations of individuals infected or living with HIV/AIDS, particularly African countries , in order to 
+help feed such individuals." 
+Bill Number H.R.1298 for the 108th Congress (M ay 15, 2003) United States Leadership Agai nst HIV/AIDS, Tuberculosis, and Malaria  Act 
+of 2003 (Enrolled as Agreed to or Passed by Both House and Senate) 
+http://thomas.loc.gov/cgi-bin/query/F? c108:5:./temp/~c108JRD6En:e56633: 
+47 FINANCIAL TIMES: Brussels sets ultimatum in trade dispute with US (b Tobias Buck in Brussels). May 7 2003: „The European Uni on 
+on Wednesday dramatically raised the stakes in the biggest trad e dispute ever to hit the World Trade Organisation, when it issu ed an 
+ultimatum to the US over a long-running battle over corporate tax breaks.Brussels is giving US Congress until the end of Septem ber to repeal 
+the Foreign Sales Corporations pr ovision, which benefits large exporters such as  Microsoft and Boeing, or face sanctions worth $4bn - the 
+largest retaliation package in the history of  the WTO.The deadline was announced hours before the WTO in Geneva gave ist final approval 
+to the list of 1,800 US products targeted by the EU, which means Brussels now only needs the approval of EU member states to im pose the 
+sanctions.“ 
+
+The EU's new labelling rules for GM food & feed  April 2004 
+ 24 
+48 See The International Herald Tribune July 12, 2003: U.S. tari ffs on steel are illegal; Europe and others are widely expected  to impose 
+sanctions (by Paul Meller, The New York Ti mes): „U.S. import tariffs on steel products imposed in the spring of 2002 were deeme d illegal 
+Friday by the World Trade Organization, raising the likelihood th at the EuropeanUnion and others will retaliate with sanctions on American 
+exports... Richard Mills, spokesman for the U. S. trade representative, sa id the United States would appeal the decision...If th e appeal fails to 
+reverse Friday's decision, then  the European Union will impose sanctions on American imports worth up to $2.2 billion almost im mediately, 
+the European Commission spokeswoman on tr ade issues, Arancha Gonzalez, said.“ 
+49 In 1998 a WTO dispute settlement body decided that the EU ban on beef treated with hormones to  speed up growth was lacking s cientific 
+evidence of detrimental health effects and therefor was an  unfair trade barrier. A penalty fee of US$ 116.8 million and additional Canadian $ 
+11,3 million was imposed on the EU by the WTO on 15 July 1999 allo wing the US and Canada to impose 100 percent tariffs on selec ted 
+European goods. Still the EU ban is not lifted but confirmed by the  COMMISSION PROPOSAL AMENDING DIRECTIVE 96/22/EC 
+CONCERNING THE PROHIBITION ON THE USE IN STOCK-FARMING OF CERTAIN SUBSTANCES HAVING A HORMONAL 
+OR THYROSTATIC ACTION AND BETA-AGONISTS and by scientific findings. See: Growth promoting hormones pose health risk to 
+consumers, confirms EU Scientific Committee, Press relase IP/ 02/604 , 23/04/2002: „The EU Scientific Committee on Veterinary Me asures 
+relating to Public Health (SCVPH) confirmed today (23 April 2002) that  the use of hor mones as growth promoters for cattle pose s a 
+potential health risk to consumers, following a review  of 17 studies and other recent scientif ic data. Publishing its third opinion on the risks 
+to human health from  hormone residues in beef products, the SCVPH found no reason to change its previous opinions of 1999 and 2000.The 
+final opinion of the SCVPH "Review of previous SCVPH opinions of 30 April 1999 and 3 May 2000 on the potential risks to human h ealth 
+from hormones residues in bovine meat and meat  products" is available on the Internet at: 
+http://europa.eu.int/comm/food/fs/sc/scv/out come_en.html . For further background in formation on the "hormone-case", go to: 
+http://europa.eu.int/comm/food/fs/him/him _index_en.html. For the WTO case see: 
+http://www.wto.org/english/tratop_e/dis pu_e/dispu_subjects_index_e.htm#bkmk63 
+50 Taken from the briefing "The US war on Biosafety" publishe d by Greenpeace International in  June 2003. See note 44 or 
+http://www.greenpeace.org/international_en/reports/?camp aign%5fid=3942 . 
+51 The Cartagena Protocol on Biosafety homepage can be found at: http://w ww.biodiv.org/biosafety  
+The protocol text can be downloaded at http://www.biodiv.org/biosafety/protocol.asp . 
+52 www.biodiv.org , UNEP/CBD/BS/COP-MOP/1/WG.1/CRP.3/Rev.1 
+53 Both documents can be found in the report of the third session of the Codex Ad Hoc Intergovernmental Task Force on Foods Der ived 
+from Biotechnology.  Available from the Codex web site:  ftp://ftp.fao.org/codex/a linorm03/Al03_34e.pdf .  Accessed 30 June 2003 . 
+54 Taken from Doreens’s report: New Codex Alimentarius guidelines s how how out of step  the United States is from world scienti fic 
+opinion.

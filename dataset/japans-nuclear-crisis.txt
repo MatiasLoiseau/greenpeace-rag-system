@@ -1,0 +1,525 @@
+# Archivo original: japans-nuclear-crisis.pdf
+# Tipo: .PDF
+# Procesado el: Sat Oct 11 09:40:11 -03 2025
+
+© Robert Knoth / Greenpeace
+www.greenpeace.orgFukushima Daiichi Status reportJapan’s  
+nuclear crisis 
+February 2015
+
+ 
+ 
+ 
+The Fukushima D aiichi nuclear crisis  
+Year Four  
+Status report  
+ 
+February 2015  
+Written by Shaun Burnie (Greenpeace Germany)  
+____________ _________________ _________________________________ _______ _________ ______________
+ 
+“(The) impact from accumulating radioactive water at the crippled Fukushima No. 1 nuclear plant has been “under 
+control.” Prime Minister Shinzo Abe, October 16th 2013.1 
+ 
+"There is a mountain of issues, including co ntaminated water, decommissioning, compensation and 
+contamination...When I think of the victims still living in difficult evacuation conditions I don't think we can use the word  
+'settled'," to describe the Fukushima plant," Prime Minister Shinzo Abe, Janua ry 30th 2015.2 
+ 
+ 
+Introduction  
+Four years af ter the start of the Fukushima D aiichi nuclear power plant disaster of March 11th 2011 the enormous 
+scale of the nuclear crisis continues to unfold. In the face of the continuing disaster, even Japanese Prime Minister Abe 
+appears to be revising his position of 2013 that the situation at Fukushima is under control. The INES 7 nuclear 
+accident on the International Atomic Energy Agency (IAEA) nuclear event scale3, which led to the melt down of three 
+General Electr ic Mark 1 Boiling Water Reactors (BWRs) at Fu kushima D aiichi has created a nuclear disaster unique in 
+the history of nuclear power. Plant owner, Tokyo Electric Power Company (TEPCO), and sub -contracting companies 
+have used tens of thousands of workers duri ng the past four years,4 in an attempt to bring the site under some form of 
+control, reduce the risks of further accidents and to lower radioactive releases into the environment, including the 
+Pacific Ocean. Despite the enormous efforts of these workers si gnificant contamination continues to be released from 
+the site and the threats of further accident remain high. The scale of the challenges, including those yet to be identified, 
+mean s that this work will continue for decades to come. As the people of Japa n remember and pay their respects to 
+the victims of the Great Tohoku earthquake, and amidst all the unc ertainties about the Fukushima D aiichi nuclear 
+disaster, one thing is certain, tragically there will be many more anniversaries in the years ahead when t he crisis at the 
+Fukushima site will still threaten the environment and people of Japan.   
+ 
+ 
+Water, water everywhere  
+The multiple problems facing TEPCO in relation to the management of contaminated water are unprecedented. For 
+nearly four years si nce the s tart of the Fukushima D aiichi accident, TEPCO has been pumping hundreds of tons of 
+water each day into the plant to cool the molten nuclear reactor fuel reactor units 1, 2 and 3.5 Without this cooling 
+water the molten fuel (corium) temperature would rise leading to additional nuclear reactions. The precise locations of 
+the molten cores6 remain unknown to TEPCO or anyone else, though it is accepted that a large proportion has melted 
+through the steel pressure vessels into the lower containment.7 The coolant  water with added neutron -absorbing 
+                                                 
+1 “Abe claims Fukushima radioactive water woes are ‘under control’, Kyodo, October 16th 2013, 
+http://www.japantimes.co.jp/news/2013/10/16/national/politics -diplomacy/abe -claims -fukushima -radioactive -water -
+woes -are-under -control/#.VNk15yiaH6g  
+2 “Japan lo oks at 2030 energy targets in shadow of Fukushima cleanup,  Osamu Tsukimori and Mari Saito, Reuters, 
+January 30th 2015, http://www.reuters.com/article/2015/01/30/us -japan -nuclear -idUSKBN0L314M20150130, 
+accessed January 30th 2015, accessed February 11th 2015.  
+3 In reality the radioactive releases in the first 12 days of the accident were the equivalent of at least 3 level seven INES 
+(International Nuclear Event Scale), Fukushima Already Level 7 Chernobyl Accident Greenpeace analysis concludes 
+https://www .greenpeace.de/sites/www.greenpeace.de/files/INES_7march_25th_0.pdf, accessed February 11th 2015.  
+4 “Special Report - Japan's homeless recruited for murky Fukushima clean -up”, Reuters, December 30th, 2013, 
+http://uk.reuters.com/article/2013/12/30/fukushima -workers -special -report -pix-grf-idUKL3N0K51ZU20131230, 
+accessed F ebruary 11th 2015.  
+5 PCV Venting and Alternative Cooling Water Injection Preparation for Fukushima Daiichi Nuclear Power Station Unit 
+2http://www.tepco.co.jp/en/nu/fukushima -np/interim/images /111202_12 -e.pdf  
+6 TEPCO began new efforts to identify the location of the molten fuel in reactor unit 1 on February 9th 2015. Fukushima Daiichi NPS Prompt 
+Report 2015 Fukushima Daiichi NPS Prompt Report (Feb 09,2015) Recent topics: Cosmic "MUON" Rays To L ook Inside Fukushima Reactors 
+As Tepco Begins Testing, TEPCO, http://www.tepco.co.jp/en/press/corp -com/release/2015/1248057_6844.html, accessed February 11th 
+2015.  
+7 Update  on the Nuclear and Radiolog ical Situation at Fukushima Dai ichi, Large and Associat es, Greenpeace Germany May 25th 2011; TEPCO: 
+
+ 
+ 
+ 
+boron is pumped and sprayed into the main vessels; it then leaks into the secondary containment through the holes 
+and cracks at the bottom of the reactor vessels, into the basements of the reactor buildings and the conne cted turbine 
+buildings. The molten fuel cooling operation will be required to continue for many years.  
+ 
+It is the massive volume of cooling water that accounts for the majority of the radioactively contaminated water stored 
+in approximately 1000 steel tank s assembled on the site since 2011. As of December 2014, a total of 320,000 tons of 
+this highly contaminated water was stored in the tanks.8 TEPCO is operating several technologies to remove up to 62 
+radionuclides from this water, not including the radioac tive isotope tritium.9 Multiple delays and technical breakdowns 
+have occurred during the past years.10 However, TEPCO have scaled up their program and during the month to 
+December 17th 2014, the volume of highly contaminated water was reduced by 20,000 tons . The principle 
+technologies being used, including for the removal of strontium -90, a bone -seeking carcinogenic isotope – are ALPS11 
+and Kurion12. In the week to February 12th, 2015, TEPCO expect to process 16,000 tons of highly contaminated 
+water,13 with a predicted maximum processing of 60,000 tons of water each month according to the company.14 At 
+the same time, treated water with high levels of tritium amounted to 297,000 tons as of February 8th 2015, which will 
+continue to increase until they reac h the point if and when they are able remove tritium.15 
+ 
+TEPCO's schedule was to have completed processing of all highly contaminated water by the end of March 2015 but 
+was revised in January 2015 when the company announced that it had completed processing of “approximately 50 
+percent”.16 A new schedule is to be announced in March, with TEPCO predicting that it will complete processing of 
+water in May. At the same time, around 300 tons of water each day is required to cool the remaining core and molten 
+fuel in the three reactors.17  
+ 
+Underground water – The official estimate is that 800 tons of water flows onto the site each day, of which TEPCO 
+estimate 300 -400 tons becomes contaminated. TEPCO state that the contamination of groundwater entering the site 
+is due to surface contamination permeating the soil and reaching the ground water, and that 'theoretically' the 
+                                                                                                                                                                            
+Nearly all nuclear fuel melted at Fukushima No. 3 reactor, Asahi Shimbun, August 7th 2014, 
+http://ajw.asahi.com/article/0311disaster/fukushima/AJ201408070055, accessed February 11th 2015.  
+8 Situation of Storage and Treatment of Accumulated Water including Highly Concentrated Radioactive Materials at Fukushima Daiichi Nuclear 
+Power Station (181th Release) December 17, 2014 Tokyo Electric Power Company. http://www.tepco.co.jp/en/press/corp -
+com/release/betu14_e/imag es/141217e0101.pdf, accessed February 1st 2015.  
+9 Multi-nuclide Removal Equipment (ALPS) Confirmatory Testing, Installation and Characteristics of Radioactive Waste June 25, 2012 To kyo 
+Electric Power Company, TEPCO, http://www.tepco.co.jp/en/nu/fukushima -np/roadmap/images/m120625_01 -e.pdf , accessed February 11th 
+2015.  
+10 “Tepco Set to Miss Target for Fukushima Radioactive Water Cleanup”, Jacob Adelman, Bloomberg, August  4th 2014, 
+http://www.bloomberg.com/news/articles/2014 -08-04/tepco -set-to-miss-target -for-fukushima -radioactive -water -cleanup, accessed February 
+11th 2015; Fukushima Daiichi NPS Prompt Report 2014 Fukushima Daiichi NPS Prompt Report (Jun 26,2014) Tepco's ' ALPS' Restart Part Of 
+Major Upgrade To Water Treatment, http://www.tepco.co.jp/en/press/corp -com/release/2014/1238403_5892.html, accessed February 11th 
+2015.  
+11 Overview of the Multi -nuclide Removal Equipment (ALPS) at Fukushima Daiichi Nuclear Power Statio n, March 29th, 2013 Tokyo Electric Power 
+Company, http://www.tepco.co.jp/en/nu/fukushima -np/handouts/2013/images/handouts_130329_01 -e.pdf , accessed Janu ary 30th 2015.  
+12 Wastewater Treatment at Fukushima Daiichi Nuclear Plant,  http://www.kurion.com/applications/separation/fukushima  and 
+http://www.environmentalleader.com/2014/12/12/kurion -mobile -processing -system -exceeds -fukushima -decontamination -targets/  accessed 
+January 30th 2015.  
+13 Situation of Stora ge and Treatment of Accumulated Water including Highly Concentrated Radioactive Materials at Fukushima Daiichi Nuclear 
+Power Station (187th Release) February 6, 2015 Tokyo Electric Power Companyhttp://www.tepco.co.jp/en/press/corp -
+com/release/betu15_e/imag es/150206e0201.pdf, accessed February 11th 2015.  
+14 Fukushima Daiichi NPS Prompt Report - TEPCO Reports Major Progress In Water Treatment, But Completion Target Date Extended Due To 
+Implementation Of New Technologies And To Ensure Worker Safety – January 23 rd, 2015. http://www.tepco.co.jp/en/press/corp -
+com/release/2015/1247689_6844.html, accessed January 31st 2015.  
+15 Three companies were selected in September 2014 to demonstrate the potential use of technology for tritium removal at the Fuk ushima -daiichi 
+site. The three companies are RosRAO, a subsidiary of Russia’s state nuclear corporation Rosatom, GE Hitachi Nuclear Energy Cana da and US -
+based Kurion. The technology must be shown to be capable of achieving a separation factor higher than 100 and of being ab le to process up to 
+400 cubic metres of water a day with a tritium concentration between 0.6 and 4.2 million becquerel per litre (Bq/ℓ). The dead line for the 
+demonstration is 31 March 2016., 08.09.2014_No282 / News in Brief Companies Chosen For Fukushima -Daiichi Tritium Demonstration Project, 
+http://www.nucnet.org/all -the-news/2014/09/08/companies -chosen -for-fukushima -daiichi -tritium -demonstration -project, accessed February 
+11th 2015.  
+16 Fukushima Daiichi NPS Prompt Report - TEPCO Reports Major Progress In Water Treatment, But Completion Target Date Extended Due To 
+Implementation Of New Technologies And To Ensure Worker Safety – January 23rd, 2015. http://www.tepco.co.jp/en/press/corp -
+com/release/2015/1247689_6844.html, accessed January 31st 2015.  
+17 Situation of Storage and Treatment of Accumulated Water including Highly Concentrated Radioactive Materials at Fukushima Daii chi Nuclear 
+Power Station (175th Release) November 5, 2014 Tokyo Electric Power Company, http://www.tepco.co.jp/en/press/corp -
+com/r elease/betu14_e/images/141105e0201.pdf, accessed January 31st 2015.  
+
+ 
+ 
+ 
+groundwater does not come into contact with water inside the reactor buildings;18as such its a theory not yet proven.  
+Efforts to reduce the flow on to t he site have included pumping ground water from wells on the land side of the plant.  
+ 
+TEPCO also launched efforts during the last year to pump up contaminated water in the drainage system immediately 
+around the plant (both land side and ocean side), as we ll as at the groundwater drain in close proximity to the ocean. It 
+was confirmed that this water was contaminated.19 TEPCO plans to process this water to remove radionuclides, with 
+the exception of tritium20, and then release it into the Pacific Ocean – but not before 'understanding' is reached with 
+local commercial fishing associations.21  
+ 
+TEPCO is also installing what is described as an 'impermeable' wall on the ocean -side of the plant, the aim of which is 
+to prevent contaminated water continuing to flow in to the Pacific. After admitting in 2013 that up to 400 tons of 
+contaminated water has been flowing into the ocean since the beginning of the nuclear crisis,22 attempts to prevent 
+this contamination have focussed on the construction of the 770 metre undergro und steel pipe and sheet wall. As of 
+January 2015, the structure has been nearly completed.23 How effective this will be in preventing contaminated 
+groundwater from entering the Pacific remains to be seen. The steel structure is located to a depth of 30 met res, 
+which TEPCO asserts is below the permeable soil layer. This assumption is highly questionable due to geological 
+surveys of the site, which show permeable sandstone and pumice layers from the surface to a depth of nearly 200 
+metres.24 Based upon this po tentially deep ly flawed geological assessment , TEPCO has estimated that there will be a 
+reduction of 97.5% of cesium and strontium released into the ocean once this wall is in place, and contaminated 
+groundwater is pumped to storage tanks. Tritium discharg es are predicted to be reduced by 93%.25 
+ 
+Ice wall  - TEPCO plans to reduce the volume of groundwater entering the site by constructing what has become 
+known as a frozen ice wall – with a circumfer ence of 1.5km around Fukushima D aiichi.26 The technology to be  used 
+involves drilling holes and inserting 1571 steel pipes 30 metres into the ground, which will then be cooled to minus 30 
+centigrade. TEPCO's aim is that this will then gradually freeze soil to create what they hope will be an ice  wall that will 
+signif icantly reduce to one third the present rate of groundwater entering the site and contaminated water on site from 
+leaking out. TEPCO plans to begin the freezing operation in March 2015, with the objective to maintain it for six years – 
+the time they say th at will be required to seal the reactors from the environment. In addition to looking like an 
+unrealistic schedule, there are significant doubts about the effectiveness of the ice wall plan. The uncertainties include 
+the actual rate of ground water migrati on, the effect this diversion of water will have on the site, the geology of the site, 
+soil movement (including seismic risks) and surface temperature. For good reason, even one of TEPCO's own senior 
+international advisors and a Commissioner at the Nuclear  Regulatory Authority (NRA) have questioned the prospects 
+for the ice wall barrier's effectiveness and its consequences.27 
+ 
+                                                 
+18 Efforts to ensure ocean protection Tokyo Electric Power Company August 11th, 2014, http://www.tepco.co.jp/en/nu/fukushima -
+np/handouts/2014/images/handouts_140811_03 -e.pdf, accessed Febru ary 12th 2015.  
+19 Fukushima ice wall plan delayed by 2 weeks, NHK, August 2014, http://www3.nhk.or.jp/nhkworld/english/news/nuclear.html , accessed 
+February 11th 2015.  
+20 “The hazards of  tritium – revisited”. Medicine, Conflict and Survival. Vol 24:4, October 2008. pp 306 -319,   
+http://www.ccnr.org/tritium_Fairlie.pdf ,  accessed February 10th 2015.  
+21 “Tepco Faces Decision to Dump Ra dioactive Water in Pacific”, Tsuyoshi Inajima, Bloomberg, April 12th 2013, 
+http://www.bloomberg.com/news/2013 -04-11/tepco -faces -decision -to-dump -radioactive -water -in-pacific -ocean.html , accessed February 9th 
+2015.  
+22 “New Leaks Into Pacific at Japan Nuclear Plant”, Martin  Fackler,  New York Times, August 6th 2013,  
+http://www.nytimes.com/2013/08/07/world/asia/leaks -into-pacific -persist -at-japan -nuclear -plant.html?pagewanted=all&_r=1& , accessed 
+January 31st 2015.  
+23 Overview of Impermeable Wall Construc tion on the Sea Side, Tokyo Electric Power Company, April 2nd, 2013, 
+http://www.tepco.co.jp/en/nu/fukushima -np/handouts/2013/images/handouts_130402_01 -e.pdf, accessed February 2nd 2015.  
+24 Stratigraphic geology of the site of Fukushima Daiichi, August 2011,  http://ddata.over -blog.com/4/37/62/00/The -Geology -of-Fukushima.pdf , 
+accessed January 31st 2015.  
+25 Efforts to ensure ocean protection, Tokyo Electric Power Company August 11 , 2014, http://www.tepco.co.jp/en/nu/fukushima -
+np/handouts/2014/images/handouts_140811_03 -e.pdf, accessed January 30th 2015.  
+26 The Oak Ridge National Laboratory in the United States demonstration project is cited as the example on why the ice wall shou ld work, but 
+there are significant differences and therefore uncertainties with the Fukushima plan, not least the scale of the project in Japan, see, Frozen Soil 
+Barrier Technology, SEG Facilities Oak Ridge, TN in cooperation with U.S. Department of Energy Oak  Ridge Operations U.S. Department of 
+Energy Office of Environmental Management Office of Technology Development April 1995.  
+27 “Experts Criticize Ice Wall Plan At  Japan's Fukushima Nuclear Plant”, Mari Yamaguchi, February 5th 2014, Associated Press, 
+http://www.huffingtonpost.com/2014/05/02/fukushima -ice-wall_n_5252868.html, accessed January 29th 2015.  
+
+ 
+ 
+ 
+Another operation that aimed to prevent 11,000 tons of highly contaminated water located in undergr ound trenches at 
+the Fukushima D aiichi plant from leaking into the Pacific Ocean also involved efforts to freeze the water – this failed 
+during 2014.28 TEPCO have denied29 that this delay will have any effect on the much larger ice wall construction and 
+operation around the site, but it has raised further questions as to the effectiveness of their plan. The failure of this 
+project would have a major impact on decommissioning plans, radiation dose to workers, and environmental impacts 
+at the site over the coming decades.30 
+ 
+Spent fuel removal  - In a positive development, by November 5th 2014, workers completed the removal of all spent 
+fuel assemblies in the Fukushima D aiichi reactor Unit 4 storage pool to the common pool storage building on the site.31 
+According to its decommissioning plan, TEPCO  plans to transfer 566 fuel assemblies, including 514 spent fuel 
+assemblies, now at the Unit 3 reactor to either the common pool or the Fukushima -Daiichi Unit 6 pool during 2015. 
+However, unlike the Unit 4 fuel transfer, the work at reactor Units 1 -3 will be done by remote control due to higher 
+radiation dose levels in the building, which makes it impossible for human beings to work in the heavily contaminated 
+environment. Complicating further the fuel removal is the presence of debris from the damaged cont ainment buildings 
+and structures, particularly in spent fuel pools in unit 1 and 3. A range of plans have been developed for each reactor 
+with major uncertainties on when they can be implemented.32 On October 30th 2014, TEPCO announced that it would 
+review its plan to begin removing spent nuclear fuel from the Unit 1 pool in the first half of fiscal 2017 at the earliest.33 
+The utility said it will postpone this work for two years, to sometime during 2019.  
+ 
+Reactor cores and decommissioning schedule  – Proceed ing to decommissioning of the reactors, including accessing 
+the molten cores is dependent upon gaining control over the water crisis at the plant. The current plan of TEPCO for 
+the removal of 450 tons of molten/damaged fuel is to be based on the flooding o f the containment and torus with the 
+aim of reducing radiation levels for workers. The effectiveness and safety implications of this plan remain 
+considerable.34 However, due to the scale of damage to the reactor buildings, high radiation le vels as well as t he 
+unrealistic  timeframe for removal of spent fuel and debris, there are enormous uncertainties in the actual schedule for 
+when TEPCO will reach the point when actual detailed inspection and removal of the molten fuel can begin.  
+TEPCO announced in October  2014 that it would reschedule its plan to begin removing the molten nuclear fuel in 
+reactor Unit 1 from the first half of 2020 to 2025.35 Clearly given the complexity of t he challenges at the Fukushima 
+Daiichi site the prospects for this schedule slipping further are obvious. While TEPCO have published a medium to long 
+term decommissioning schedule,36 in reality a final path to decommissioning of the nuclear reactors has yet to 
+materialise. Given the scale of the nuclear disaster at Fukushima and the amount of unknowns this is perhaps not 
+surprising.  
+ 
+Finally on the overall timescale for decommissioning, TEPCO is on record as indicating 30 -40 years.37 However this is 
+based on completing stage 2 of the schedule by 2021 (debris removal, sealing of the plant agai nst leaks, and flooding 
+of containments). That is already unrealistic. Nuclear power plant decommissioning of commercial reactors worldwide 
+– and depending on the strategy adopted – is in the range of 40 -80 years.38 This timeframe is based upon reactors 
+                                                 
+28 “TEPCO faces hurdles in construction of ice walls to block flo w of contaminated water”, Akira Hatano and Shunsuke Kimura, Asahi Shimbun, 
+July 9th 2014,   http://ajw.asahi.com/article/0311disaster/fukushima/AJ201407090052, accessed January 28th 2015.  
+29 Status of and measures for removing highly contaminated water in t rench, TEPCO, June 20th 2014, 
+http://www.tepco.co.jp/en/decommision/planaction/images/140620_01.pdf, accessed January 29th 2015.  
+30 “Ice wall failure sends Tepco back to drawing board”, Nikkei Asian Review, November 21st 2014, 
+http://asia.nikkei.com/Busines s/Companies/Ice -wall-failure -sends -Tepco -back -to-drawing -board, accessed January 28th 2015.  
+31 “Tepco removes all spent fue l from unit 4 at Fukushima I”, Shota Ushio, Tokyo, Nuclear Fuel, January 5th 2015.  
+32 Mid-and-Long -Term Roadmap towards the Decommissio ning of TEPCO’s Fukushima Daiichi Nuclear Power Station Units 1 -4 June 27, 2013 
+Nuclear Emergency Response Headquarters Council for the Decommissioning of TEPCO's Fukushima Daiichi Nuclear Power Station, 
+http://www.meti.go.jp/english/press/2013/pdf/0627_01 .pdf, accessed February 3rd 2015.  
+33 http://www.tepco.co.jp/nu/fukushima -np/roadmap/images/d141030_10 -j.pdf#page=10  (in Japanese), accessed February 1st 2015 . 
+34 Tepco Plan To Flood The Primary Containment Of Unit 1, Fukushima Dai -Ichi, Large and Associates, Greenpeace Germany, May 2011, 
+https://www.greenpeace.de/sites/www.greenpeace.de/files/Large_Report_engl_0.pdf, accessed February 11th 2015.  
+35 http://www.tepco.co.jp/nu/fukushima -np/roadmap/images/d141030_10 -j.pdf#page=10  (in Japanese), accessed February 1st 2015.  
+36 Mid-and-Long -Term Roadmap towards the Decommi ssioning of TEPCO’s Fukushima Daiichi Nuclear Power Station Units 1 -4 June 27, 2013 
+Nuclear Emergency Response Headquarters Council for the Decommissioning of TEPCO's Fukushima Daiichi Nuclear Power Station, 
+http://www.meti.go.jp/english/press/2013/pdf/062 7_01.pdf, accessed February 3rd 2015.  
+37 Mid-and-long-Term Roadmap towards the Decommissioning of Fukushima Daiichi Nuclear Power Units 1 -4, TEPCO (Digest Version) December 
+21 2011, http://www.tepco.co.jp/en/press/corp -com/release/betu11_e/images/111221e10.pdf , accessed February 1st 2015.  
+38 Deloitte (2006). Nuclear Decommissioning and Waste: A Global Overview of Strategies and the Implications for the Future. Delo itte Energy and 
+Resources, May. http://deloitte -ftp.fr/Lot -B-Energie -ressources/doc/ NuclearDecommissioning.Mai06.pdf, as cited in Closing and 
+Decommissioning Nuclear Power Reactors Another look following the Fukushima accident, UNEP Yearbook 2012, 
+
+ 
+ 
+ 
+that did not experience the kind of catastrophic accident, multiple reactor core meltdowns and exploded containment 
+buildings, and continuing uncontrolled radiation releases to the environment as is the reality at Fukushima Daiichi. 
+Deferred decommissioning i s the closest comparison with Fukushima: this is where a period of years are allowed to 
+pass to reduce radiation levels. The average period estimated for this deferred process is around fifty years. The 
+timeframe within TEPCO's decommissioning schedule is simply not credible.  
+ 
+Fukushima prefecture contamination, decontamination and evacuees  
+Greenpeace has conducted 23  radiation surveys in the Fukushima prefecture since March 2011.39 We have found 
+radiation at levels high enough to raise health concerns for the people who continue to live daily with this 
+contamination and those who may be forced to return to places in which the evacuation order has been lifted.  
+ 
+We have also shown th at the authorities have consistently underestimated both the risks and extent of radioactive 
+contamination. Based on our results in March 2011, we called for a significant extension to the evacuation area,40 
+which was later implemented.41 We advised that unt il decontamination was completed, children should be held back 
+from their schools to avoid high radiation levels. We have also found that official monitoring stations systematically 
+underestimate the radiation risks for the population.42 
+ 
+Our analysis of th e threats to public health have given residents an alternative to the often contradictory information 
+released by Japan’s authorities since the Fukushima disaster began.43 
+ 
+The teams are made up of Greenpeace radiation experts who have been trained in radia tion monitoring and the use of 
+sophisticated measuring devices.  
+ 
+In October 2014, Greenpeace monitoring results fr om Iitate (40km from Fukushima D aiichi), Fukushima city (60km), 
+Miyakoji of Tamura city (20km) and Kawauchi village (20km) showed that efforts  at decontamination were still failing to 
+reduce contamination in many areas to meet the Japanese government’s long -term decontamination target level of 
+0.23micro Sv/h. In Kawauchi, part of which had its evacuation order lifted in October 2014,44 Greenpeace  monitoring 
+found 59% of our radiation measurements were over the target level and, again, with higher levels found away from the 
+roads.45 The decontamination efforts also do not “get rid” of the contamination – they simply move it. The process is 
+generatin g vast amounts of radioactive waste, which is being piled up at temporary sites throughout the prefecture. 
+Currently 120,000 residents of the prefecture remain displaced in temporary housing or elsewhere in Japan.46  
+ 
+                                                                                                                                                                            
+http://www.unep.org/yearbook/2012/pdfs/UYB_2012_CH_3.pdf , accessed February 11th 2015.  
+39 Radiation surveys - Fukushima October 30th, 2014, 
+http://www.greenpeace.org/international/en/campaigns /nuclear/safety/accidents/Fukushima -nuclear -disaster/Radiation -field-team/, accessed 
+February 11th 2015.  
+40 “Greenpeace radiation team pinpoints need to extend Fukushima evacuation zone: Need to protect pregnant women and children”, March 27th 
+2011, http://www.greenpeace.org/international/en/press/releas es/Greenpeace -radiation -team -pinpoints -need -to-extend -Fukushima -
+evacuation -zone-especially -to-protect -pregnant -women -and-children -/, accessed February 9th 2015.  
+41 “Japan Nuclear Disaster Put on Par With Chernobyl”, Hiroko Tabuchi And Keith Bradsher, April 11th 2011, 
+http://www.nytimes.com/2011/04/12/world/asia/12japan.html?pagewanted=all&_r=0, accessed February 9th 2015.  
+42 Radiation surveys – Fukushima, Greenpeace, October 30th 2014, 
+http://www.greenpeace.org/international/en/campaigns/nuclear/safety/accide nts/Fukushima -nuclear -disaster/Radiation -field-team/, accessed 
+February 12th 2015.  
+43 Greenpeace measuring data as well as sample analyses can be found in spreadsheets at the 
+link.http://www.greenpeace.org/international/en/camp aigns/nuclear/safety/accidents/Fukushima -nuclear -disaster/Radiation -field-team/ , 
+accessed on February 2nd 2015.  
+44 “Evacuation advisory lifted for part of Fukushima village of Kawauchi”, JIJI, October 1st 2014, 
+http://www.japantimes.co.jp/news/2014/10/01/national/radiation -evacuation -advisory -lifted-part-fukush ima-village -kawauchi/#.VNtkWSiaH6g , 
+accessed February 11th 2015.  
+45 Learning the tragic lesson of Fukushima: No nuclear restart at Sendai,  Jan Vande Putte, October 31st 2014, 
+http://m.greenpeace.org/international/en/mid/news/Blogs/nuclear -reaction/No -nuclear -restart -at-Sendai/blog/51158/ , accessed February 11th 
+2015.  
+46 “Fukushima nuclear disaster: three years on 120,000 evacuees remain uprooted” Justin McCurry, The Guardian, September 10th 2013, 
+http://www.theguardian.com/world/2014/sep/10/fukushima -nuclear -disaster -japan -three -years -families -uprooted  
+
+ 
+ 
+ 
+The problems with the compensation proc ess for evacuees are manifold: the processing of claims is delayed, and the 
+monthly payments are not enough to ensure people a living, let alone enough to set up a new life. Not everyone is 
+eligible for compensation, and the lucky ones only get a fraction of the value of their lost homes. According to many 
+polls, most have abandoned hope of picking up their old lives and want enough money to set up new ones.47 
+However, in November 2013, a Liberal Democratic Party (LDP) panel called on the government to state  that for some 
+residents they will never be able to return home - "At some point in time, someone will have to say that this region is 
+uninhabitable, but we will make up for it," LDP's secretary general, Shigeru Ishiba.48 
+ 
+In some parts of Fukushima’s 20km evacuation zone, the government has partially lifted the evacuation order. A survey 
+by Namie town office in 2013 found that 37.5% of residents had given up on reclaiming their old lives, and the same 
+percent remained “unsure”.49 The evacuation order was lif ted in April 2014.50 Only about 19% were confident they 
+would return, but even that figure is viewed with scepticism. “Why would people come back here permanently to live?” 
+asks Masami Yoshizawa, a farmer who refused to leave his cattle herd in Namie. “Ther e is no infrastructure any more; 
+no schools, shops or transport.”  
+ 
+Japan’s central government refined its policy in December 2011, defining evacuation zones as “areas where 
+cumulative dose levels might reach 20 millisieverts per year”. This is 20 times hig her than the limit recommended by 
+the International Commission on Radiological Protection for non -accidental situations. The 2014 UNSCEAR report51 on 
+radiation health consequences from Fukushima has been criticized as not scientific, including by the former  head of 
+the radiation -protection program at the World Health Organization’s Regional Office for Europe.52 
+ 
+Local governments are spending millions of dollars to persuade refugees to come back, dividing the nuclear clean -up 
+costs with the central government , which handles the most toxic areas. One estimated price tag for decontaminating a 
+heavily mountainous and wooded area is $50 billion U.S. dollars.53 That figure is widely considered an underestimate. 
+Fighting radiation is now one of the few growth industr ies in Minamisoma, abo ut 20km north of the Fukushima D aiichi 
+plant. Most of the city’s 71,000 people fled in March and April 2011. One third had yet to return as of March 2014.  
+Decontamination employs about 1,000 people – a large percentage of the town’s remaining able -bodied workforce. 
+Minamisoma budgeted US$230m in 2014 alone to clean local homes and businesses of radioactivity.54 
+ 
+In spite of the massive effort and expenses inc urred, decontamination is likely to be a never ending process. The hills, 
+mountains, and forests of Fukushima prefecture are heavily contaminated. As a result, radioactive material washes 
+down into reservoirs and lower river basins,55 as well as to formerly  decontaminated areas. To put this in some 
+                                                 
+47 “70% of Fukushima evacuees: won’t return home”, NHK, December 6th 2013, as cit ed in  
+http://recoveringtohoku.wordpress.com/2013/12/06/70 -of-fukushima -evacuees -wont -return -home -nhk-12613/ , accessed February 9th 2015.  
+48 “Fukushima residents may never go home, say Japanese officials”, Justin McCurry, The Guardian, November 12th 2013, 
+http://www.theg uardian.com/environment/2013/nov/12/fukushima -daiichu -residents -radiation -japan -nuclear -power , accessed February 9th 
+2015.  
+49 As cited in “Three Years On: Lives in Limbo” Dr David McNeill, Greenpeace International,  February 2014, 
+http://www.town.namie.fuku shima.jp/uploaded/life/5229_11523_misc.pdf and 
+http://www.greenpeace.org/international/Global/international/briefings/nuclear/2014/Fukushima -3rd/Three%20Years%20On.pdf , accessed 
+February 9th 2015.  
+50 “Fukushima’s Namie sees no -go zone designation lifted”, JIJI, April 1st 2015, 
+http://www.japantimes.co.j p/news/2013/04/01/national/fukushimas -namie -sees-no-go-zone-designation -lifted/#.VNtlfiiaH6g, accessed 
+February 11th 2015.  
+51 “Sources, Effects And Risks Of Ionizing Radiation” UNSCEAR 2013 Report Volume I Report To The General Assembly Scientific Ann ex A: Levels 
+And Effects Of Radiation Exposure Due To The Nuclear Accident After The 2011 Great East -Japan Earthquake And Tsunami, United Nations 
+Scientific Committee on the Effects of Atomic Radiation, http://www.unscear.org/docs/reports/2013/14 -
+06336_Report_2013_Annex_A_Ebook_website.pdf , accessed January 30th 2015.  
+52 'British researcher blasts U.N. report on Fukushima cancer risk as unscientific', citing Kei th Baverstock, December 1st 2014, Asahi Shimbun, 
+http://ajw.asahi.com/article/0311disaster/fukushima/AJ201412010036, accessed January 30th 2015.  
+53 With Fukushima nuclear plant still leaking, Japan clean -up bill soars to $50bn, David McNeill, The Independen t, July 24th 2013, 
+http://www.independent.co.uk/news/world/asia/with -fukushima -nuclear -plant -still-leaking -japan -cleanup -bill-soars - to-50bn -8730832.html, 
+accessed February 10th 2015.  
+54 “Three Years On: Lives in Limbo”, Dr David McNeill, February 2014, Gre enpeace International, 
+http://www.greenpeace.org/international/global/international/briefings/nuclear/2014/fukushima -3rd/three Years on.pdf, accessed January 30th 
+2015.  
+55 “Evolution of radioactive dose rates in fresh sediment deposits along coastal rivers draining Fukushima contamination plume”, Olivier Evrard, 
+Caroline Chartin, Yuichi Onda, Jeremy Patin, Hugo Lepage, Irène Lefèvre, Sophie Ayrault, Catherine Ottlé & Philippe Bonté, Sc ientific Reports 3, 
+October 29th  2013 http://www.nature.com/srep/2013/131029/srep03079/full/srep03079.html , accessed February 11th 2015.  
+
+ 
+ 
+ 
+perspective the half life of one of the most prevalent radionuclides released from the Fukushima accident, cesium 137, 
+at 30 years, means that it will remain a hazard for around ten half lives – or 300 years.  
+ 
+Nuclear waste crisis  - As a result of the decontamination program in Fukushima prefecture, temporary storage areas 
+are already near capacity and radioactive debris is being stored at about 54,000 locations in the prefecture, including 
+the backyards of homes, parking lots, and parks.56 Official estimates of the storage volume required are between 15 
+and 28 million cubic meters of waste, enough to fill 12 to 23 Tokyo Domes, generated from the cleanup process. This 
+is based on decontamination being restricted to t owns and farmland. The estimated area of Fukushima prefecture 
+contaminated above the 1mSv level is 2000 square kilometers, which if it was to be decontaminated would generate in 
+the range of 100 milli on tons of  radioactive waste.57 In reality this is not po ssible, and therefore recontamination will 
+continue from the forested mountains and rivers for the foreseeable future.  
+ 
+In August 2011, then Prime Minister Naoto Kan, announced that intermediate storage facilities would be needed to 
+take in the waste from decontamination in the countermeasure areas in Fukushima prefecture. The Abe Government 
+announced in December 2013 that in exchange for hosting the interim storage facilities, the central government plans 
+to provide a tax grant to the host municipality and  compensation to individuals whose land will be used in the project.58 
+In spite of the incentives offered, plans for buying land in Fukushima were largely abandoned in June 2014,  due to 
+public opposition. A total of 16 square kilometers is planned to be use d for hosting the storage facilities, but as of 
+February 2015, only 2 percent of this had been secured by the Ministry of Environment, all of it in former industrial 
+parks owned by private companies.59 The most likely option is that most of the land will be  acquired through a leasing 
+arrangement – but it remains unclear how much of the land will be secured and it “It will take a very long time,” 
+according to a senior Environment ministry official.60 
+ 
+In January 2015, the Environment Ministry reached agreement  with Fukushima prefecture for the storage of waste at 
+Okuma and Fu taba towns, near the Fukushima D aiichi plant.61 Former residents and community members have an 
+legitimate fear that the 16 square kilometres site will end up being the permanent and final nu clear waste disposal site, 
+despite a condition that commits the government to remove the waste no later than 2045.62 
+The plan was originally to have operation of the interim storage sites by the end of March 2015. Due to the significant 
+delays, this will no t be possible, with no timescale for securing sufficient capacity to store the existing nuclear waste at 
+tens of thousands of sites around Fukushima, and certainly not the estimated 30 million tons predicted to accumulate 
+over the coming years. The first w aste transfer as part of a year long trial will begin in March 2015 with a total of 
+43,000 tons planned to be transported during the next year.63 This waste will be stored temporarily, prior to depositing 
+in the actual interim storage facilities, constructi on of which is only now about to begin.  
+ 
+ 
+ 
+                                                 
+56 “Fukushima governor sets 5 conditions for storing radioactive waste”, Asahi Shimbun, December 2nd 
+2015,ht tp://ajw.asahi.com/article/0311disaster/fukushima/AJ201409020061, accessed February 8th, 2015.  
+57 “Fukushima clean -up may require removal of 100 million cubic meters of soil”, September 15th 2011, 
+http://ajw.asahi.com/article/0311disaster/fukushima/AJ201109 1510556, accessed February 9th 2015.  
+58 “Government asks Fukushima to accept intermediate storage facilities”, Asahi Shimbun, December 15th 2014, 
+http://ajw.asahi.com/article/0311disaster/fukushima/AJ201312150018. Accessed February 9th 2015.  
+59 Land secured in Fukushima opens door for 1st shipment of radioactive waste, Asahi Shimbun, February 4th 2015, 
+http://ajw.asahi.com/article/0311disaster/fukushima/AJ201502040078, accessed February 12th 2015.  
+60 Land secured in Fukushima opens door for 1st shipment of rad ioactive waste, Asahi Shimbun, February 4th 2015, 
+http://ajw.asahi.com/article/0311disaster/fukushima/AJ201502040078, accessed February 12th 2015.  
+61 Gov't to start interim storage of nuclear waste in March, January 19th 2015, Japan News,  
+http://www.japant oday.com/category/national/view/govt -to-start-interim -storage -of-nuclear -waste -in-march  
+62 Five conditions have been set by the Fukushima Governor as of September 2014: a law should be passed stipulating that the was te will be 
+moved outside the prefecture w ithin 30 years of the opening of waste sites; compiling a budget to provide 301 billion yen ($2.89 billion) in grants 
+to the local governments; detailed measures should be presented to maintain and manage the transportation routes and secure t he safety of 
+local communities along those routes; securing the safety of the interim storage facility and transportation of the waste;  a nd, reaching a safety  
+agreement between the central government and the governments of Fukushima Prefecture, Okuma and Futaba over t he waste storage. An 
+amendment to law regulating operations of the government -affiliated Japan Environmental Safety Corp. (JESCO) was passed in November 
+requiring removal not later than 2045.  
+63 Land secured in Fukushima opens door for 1st shipment of radio active waste, Asahi Shimbun, February 4th 2015, 
+http://ajw.asahi.com/article/0311disaster/fukushima/AJ201502040078, accessed February 12th 2015.  
+
+ 
+ 
+ 
+Cost of Fukushima accident  
+There have been a range of figures on the costs of the Fukushima accident. Note the figures below in dollars reflect the 
+yen to dollar rate at that time, since when the yen has depreciated. In November 2013, a figure of US$ 50 billion spent 
+so far was published, which did not include the cost of decommissioning.64  
+ 
+Estimates of the total cost of the Fukushima catastrophe, including compensation, fluctuate wildly. TEPCO was told b y 
+an advisory panel in October 2011 to prepare for claims of 4.5tn yen ($59bn) in the two years following the disaster, 
+until March 2013.65 In December 2011, a Japanese government panel estimated the total costs of the accident at 20 
+trillion yen – at that time US$257 billion.66 
+ 
+The private research institute, Japan Centre for Economic Research (JCER), put the bill over the next 10 years at 5.7tn 
+yen ($74bn) to 20tn yen ($261bn) or higher.67 But, neither figure includes compensation to the fisheries and farmi ng 
+industries, though the latter does budget for the purchase of contaminated land inside the 20km evacuation zone. 
+Some sources calculated the cost of buying up contaminated land alone at about 4.3tn yen ($52bn).68 The same JCER 
+assessment gave a total ran ge of estimated cost of the disaster, including compensation and  decommissioning the 
+Fukushima D aiichi plant’s six reactors, at 40 -50tn yen ($520bn – $650bn).  
+ 
+Conclusion  
+“Workers are forced to handle contaminated water in such grim working conditions, whe re any human being should 
+not be put to work...They tend to make easy mistakes under the pressure, but it’s not they who are at fault — it’s the 
+conditions that force them to do terrible tasks.” Fukushima nuclear worker, March 2014.69 
+ 
+Every day, thousands of workers struggle to make slow delibe rate progress at the Fukushima D aiichi site – confronted 
+as they are with high radiation levels, contaminated water, terrible working conditions and low pay.70 In contrast to the 
+government and TEPCO, it is the workers  of Fukushima that are doing their best to reduce the risks  from the 
+devastated Fukushima D aiichi nuclear power plant. Many things remain unclear about the future, but what is obvious is 
+that the threats from Fukushima will persist for many decades to come . Long after the present government, politicians 
+and executives of Japan's electric companies are distant memories, future generations of workers will enter the 
+Fukushima site each day with the aim of trying to reduce the threats to the people and environm ent of Japan.  
+ 
+The eleventh of March 2015 is a day for us to remember the devastation brought to the lives and communities of the 
+people of Japan - but they do not need an anniversary to remember. They live with the consequences every day as 
+they have for the past four years, and as they and their families will continue to do for generations to come. The 
+principle lesson of the Fukushima Daiichi accident is clear to the people of Japan, if not the Abe government – never 
+again should nuclear power threaten t he very existence of the Japanese nation.71  
+ 
+                                                 
+64 “Fukushima residents may never go home, say Japanese officials”, Justin McCurry, The Guardian, November 12th 2013, 
+http://www.theguardian.com/environment/2013/nov/12/fukushima -daiichu -residents -radiation -japan -nuclear -power, accessed January 30th 
+2015.  
+65 “TEPCO seeks 690 billion yen more for Fukushima compensation”, Asahi Shimbun , December 27th 2011,  
+http://ajw .asahi.com/article/0311disaster/fukushima/AJ201112270013, accessed January 30th 2015.  
+66 “Japan sees atomic power cost up by at least 50 pct by 2030 -Nikkei”, Reuters, December 6th 2011, 
+http://www.reuters.com/article/2011/12/06/japan -nuclear -cost-idUSL3E7N 60MR20111206, accessed January 30th 2015.  
+67 “Impact to last Decade or more if Existing Nuclear Plants Shut Down GDP Could Drop 2% on Power Shortages”, JCER Economic Rese arch 
+Department, http://www.jcer.or.jp/eng/research/pdf/pe%28iwata20110425%29e.pdf , accessed January 31st 2015.  
+68 “Impact to last Decade or more if Existing Nuclear Plants Shut Down GDP Could Drop 2% on Power Shortages”” p.11, Japan Center  for 
+Economic Research. (J CER), April 25th 2011, http://www.jcer.or.jp/eng/research/pdf/pe(iwata20110425)e.pdf, as cited in “Lessons from 
+Fukushima”February 2012, https://www.greenpeace.de/sites/www.greenpeace.de/files/20120228 -Lessons -from-Fukushima -Greenpeace.pdf,  
+accessed Febru ary 1st 2015.  
+69 “Fukushima No. 1 workers rally against Tepco”, AFP/Jiji, March 14th 2014, http://www.japantimes.co.jp/news/2014/03/14/national/fukushima -
+no-1-workers -rally-against -tepco/ . accessed February 9th 2015.  
+70 Nuclear workers kept in dark on Fukushima hazard pay Mari Saito And Antoni Slodkowski, Reuters, October 7th 2014, 
+http://www.re uters.com/article/2014/10/08/us -fukushima -workers -insight -idUSKCN0HW24120141008, accessed February 9th 2015.  
+71  “Nuclear crisis turns Japan ex -PM Kan into energy apostle,” Linda Sieg and Yoko Kubota, Reuters, February 7th 2012, 
+http://www.reuters.com/artic le/2012/02/17/us -japan -kan-idUSTRE81G08P20120217, accessed February 9th 2015.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+For more information, contact:  
+ 
+Shaun Burnie – Senior nuclear campaigner – Greenpeace Germany – sburnie@greenpeace.org  
+Heinz Smittal – Senior  nuclear campaigner – Greenpeace Germany – hsmital@greenpeace.org  
+Kendra Ulrich – Senior nuclear campaigner – Greenpeace Japan – kulrich@greenpeace.org  
+Jan van  de Putte – Senior nuclear campaigner – Greenpeace Belgium – jan.vande.putte@greenpeace.org

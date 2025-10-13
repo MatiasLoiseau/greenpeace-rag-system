@@ -1,0 +1,4027 @@
+# Archivo original: clicking-clean.pdf
+# Tipo: .PDF
+# Procesado el: Sat Oct 11 09:42:38 -03 2025
+
+greenpeace.orgClicking Clean: 
+How Companies 
+are Creating the 
+Green Internet
+April2014  
+
+2
+For more information contact: 
+enquiries@greenpeace.org
+Lead Author:  
+Gary Cook, Greenpeace
+Co-Authors: 
+Tom Dowdall, Greenpeace
+David Pomerantz, Greenpeace
+Yifei Wang, Greenpeace
+Editor:
+David Pomerantz, Greenpeace
+Creative Direction & Design by:
+Arc Communications
+Published in April 2014 by 
+Greenpeace Inc.702 H Street, NW
+Suite 300Washington, D.C. 20001 
+United Statesgreenpeace.org
+
+
+Executive Summary   5
+Company Scorecard   7
+Cloud Source   9
+Global Energy Snapshot   13
+The Cloud’s Next Stop: China   17
+The Road Map to a Green Internet   19
+Your Online World: Green IRL, or #dirty?  25
+Green Internet Leaders and Best Practices  29
+Where the Cloud Touches the Ground   35 
+-- Map: Global Data Center Hot Spots   36 
+-- Map: US Data Center Hot Spots   38 
+-- US Regional Profiles   40
+Appendix 1: Methodology   42
+Appendix 2: Company Scores Explained  44
+Appendix 3: Company Data Center  
+Facilities and Estimates of Power Demand  64
+Notes    78Contents
+
+
+03
+44
+
+Greenpeace  
+USA5  
+Clicking Clean: 
+How Companies are Creating the Green InternetExecutive  
+Summary
+  5  For the estimated 2.5 billion people around the 
+world who are connected to the internet, it is 
+impossible to imagine life without it. The internet 
+has rewoven the fabric of our daily lives – how we communicate with each other, work and entertain ourselves – and become a foundation 
+of the global economy. 
+Seemingly on a daily basis, new businesses that use 
+the internet as their foundation are disrupting and often 
+replacing long-standing business models and industries. 
+From music and video to communications and mail, more and more of our “offline” world is moving online. We can 
+expect that trend to continue and accelerate as the global 
+online population reaches 50% of the world’s projected population, moving from 2.3 billion in 2012 to an expected 
+3.6 billion people by 2017.
+1 
+While the online world appears to grow at the expense 
+of some traditional business models in the offline world, it is rapidly creating increased demand for at least one 
+offline product: electricity. The rapid growth of the cloud 
+and our use of the internet have produced a collective electricity demand that would currently rank in the top six 
+if compared alongside countries; that electricity demand 
+is expected to increase by 60% or more by 2020 as the online population and our reliance on the internet steadily 
+increase.
+2 
+While shifting businesses to an online model can create 
+significant gains in energy efficiency, the energy appetite of the internet continues to outstrip those gains thanks to its 
+dramatic growth. Critically, the internet’s growing energy 
+footprint has thus far been mostly concentrated in places where energy is the dirtiest.But there is good news to report: since our last report, How Clean is Your Cloud? (April 2012),
+3 leading data 
+center operators have taken key steps toward building 
+a green internet, particularly those companies that have 
+committed to build a 100% renewably powered platform. These commitments are having a profound impact in the 
+real world, shifting investment from legacy coal, gas and 
+nuclear power plants to renewable energy technologies, and disrupting the status quo among major electric utilities.
+In US states like North Carolina, Nevada and Iowa, these 
+companies’ commitments to clean energy are resulting in large amounts of wind and solar power displacing coal, gas 
+and nuclear plants or preventing them from being built, to 
+the tangible benefit of the global climate and communities living in those states.
+The environmental rationale for technology companies 
+to act has been clear for many years, as a rapid shift to 
+renewable energy is necessary to stem the worst impacts 
+of climate change. Now, the business case is becoming more compelling as well: costs for renewable energy 
+continue to drop, prices for fossil fuel-based electricity are 
+rising, and leading companies are perceiving those price cues. They are also heeding customers who increasingly 
+value sustainability.
+Unfortunately, despite the leadership and innovation 
+demonstrated by green internet pioneers, other companies 
+lag far behind, with little sense of urgency, choosing to 
+paper over their growing dirty energy footprints with status quo solutions such as renewable energy credits and 
+carbon offsets while rapidly expanding their infrastructure. 
+Other internet companies have refused to pay even lip service to sustainability, and are simply buying dirty energy 
+straight from the grid. Those companies, most notably 
+Amazon Web Services, are choosing how to power their infrastructure based solely on lowest electricity prices, 
+without consideration to the impact their growing electricity 
+footprints have on human health or the environment.Executive  
+Summary 
+© Frank van Biemen / EvoSwitch / Greenpeace
+
+6
+6 A Green Internet is Crucial  
+for a Healthy Climate
+We witness on a daily basis evidence that the foundation 
+of our offline world, our planet, is out of balance as a 
+result of climate change and other threats caused by 
+our reliance on dirty sources of energy. The scientific community is issuing warnings, increasingly dire in nature, 
+that our continued reliance on the energy technologies 
+of the past is putting our future in grave danger. We need to shift at internet-like speed to a world powered by 
+renewable sources of energy, disrupting the status quo 
+to which electric utilities and other fossil fuel providers are desperately clinging.
+We cannot make the transition to a renewable powered 
+society fast enough unless the internet is a platform leading the world toward a clean energy future, and not building a 
+new attachment to our dirty energy past.
+The pressing need for the internet to drive the clean 
+energy revolution is perhaps most evident in China, which 
+will host much of the internet’s growth in the decade to 
+come. China is also the country with the world’s largest 
+carbon footprint. As companies begin to build their 
+internet infrastructure there, acceptance of status quo dirty energy would be disastrous for efforts to wean China 
+off of polluting energy sources. Innovative approaches 
+to clean energy procurement, by contrast, could be transformational there.
+Major brands are taking meaningful steps to steer their 
+infrastructure investments toward cleaner energy, but the 
+sector as a whole remains focused on rapid growth. Most companies still are myopic to the critical nature of their 
+energy choices, focusing only on maximizing efficiency. 
+The replacement of dirty sources of electricity with clean renewable sources is still the crucial missing link in the 
+sector’s sustainability efforts.
+With this year’s update, we have expanded our analysis to 
+examine a total of 19 global IT companies that are leading 
+the sector’s move to the cloud, including several major colocation companies for the first time. These companies, 
+while less well-known than branded giants like Google 
+or Amazon, operate the data centers behind much of the Internet. As a function of that expanded analysis, this 
+update now includes over 300 data centers in our survey, 
+up from approximately 80 in the previous edition. We have updated our evaluation to account for how these 
+colocation companies are pursuing opportunities to play a 
+meaningful role in driving renewable energy deployment to meet the internet’s energy needs.Key Findings
+(1) Six major cloud brands – Apple, Box, Facebook, 
+Google, Rackspace, and Salesforce – have committed 
+to a goal of powering data centers with 100 % 
+renewable energy and are providing the early signs of the promise and potential impact of a renewably 
+powered internet.
+(2) A number of leading brands, most notably Apple and 
+Facebook, have made significant improvements in their energy transparency, discarding the previous 
+dogma within the sector of withholding energy data due to competitiveness concerns. Transparency still 
+remains weak overall among many brands, particularly 
+colocation providers.   
+(3) Amazon Web Services (AWS), which provides the 
+infrastructure for a significant part of the internet, remains among the dirtiest and least transparent companies in the sector, far behind its major 
+competitors, with zero reporting of its energy or 
+environmental footprint to any source or stakeholder. 
+Twitter lags in many of the same areas.
+(4) As a result of pressure by three major brands (Apple, 
+Facebook and Google) located in North Carolina, 
+Duke Energy, the largest utility in the US, adopted a 
+Green Source Rider, opening the market to renewable 
+electricity purchases for large customers in North Carolina.
+(5) Google maintains its leadership in building a renewably 
+powered internet, as it significantly expands its 
+renewable energy purchasing and investment both 
+independently and through collaboration with its utility vendors. 
+(6) Facebook continues to prove its commitment to build a 
+green internet, with its decision to locate a data center in Iowa driving the largest purchase of wind turbines in 
+the world.
+(7) Apple is the most improved company since our last full 
+report, and has shown itself to be the most innovative 
+and most aggressive in pursuing its commitment to be 100% renewably powered.
+ 
+Company Scorecard
+
+7  Energy 
+TransparencyClean 
+Energy 
+IndexNatural 
+GasCoal Nuclear
+A
+F
+A
+A
+A
+BB
+CCCC
+B
+F
+C
+D
+C
+B
+C
+CRenewable 
+Energy 
+Commitment 
+& Siting 
+Policy
+B
+F
+A
+D
+A
+B
+D
+D
+C
+F
+B
+B
+D
+B
+DDD
+D
+DEnergy 
+Efficiency & 
+Mitigation
+B
+D
+B
+B
+A
+B
+B
+B
+C
+D
+C
+C
+F
+B
+DD
+C
+C
+BRenewable 
+Energy 
+Deployment  
+& Advocacy
+C
+F
+AC
+B
+A
+C
+C
+C
+D
+CC
+F
+B
+DDD
+D
+C
+  7  
+Company ScorecardCompany 
+Scorecard
+Colocation Companies17%
+15%
+100%
+6%
+49%48%15%
+18%
+29%15%27%28%21%
+59%
+17%
+6%
+16%
+21%
+NA
+* 25%
+0%
+47%
+7%
+13%
+37%
+37%
+21%20%
+26%
+17%42%
+6%
+31%
+21%
+29%26%
+NA
+* 28%
+0%
+24%25%
+22%
+32%
+25%
+32%44%
+30%
+22%22%20%
+25%
+32%
+27%27%
+NA
+* 27%
+0%
+14%16%
+15%
+12%
+15%
+18%10%
+17%
+26%15%12%
+19%
+38%
+23%24%
+NA
+* 
+(a) Clean Energy Index and Coal Intensity are calculated based on estimates of power demand for evaluated facilities. See Appendix III: Facilities Table.
+(b) Akamai’s energy consumption is spread across 1,100 data centers around the world, making individual tracking difficult. Regional demand and renewable energy data from Carbon Disclosure Project and information provided by company.(c) Greenpeace provided AWS and Twitter with respective facility power demand estimates to review. Both companies responded that the estimates were not correct, but neither provided alternative data. Using conservative calculations, Greenpeace has used the best information available to derive power demand. Greenpeace invites both AWS and Twitter to be transparent and provide more accurate data fortheir facility power demands.* (d) There is insufficient public data to evaluate Verizon Terremark’s energy footprint. Greenpeace encourages Verizon Terremark to release more data and will update our analysis in the future.
+
+
+03
+801
+
+Greenpeace  
+USA9  
+Clicking Clean: 
+How Companies are Creating the Green InternetSection 01  
+Cloud Power
+01
+Information Technology (IT) companies have 
+a central role to play in enabling a modern, 
+renewable-powered energy infrastructure.  
+An estimated 2.5 billion people are currently online, and that number is expected to increase by nearly 60% in the next five years.
+4 If the 
+rapid growth of the digital economy is linked to 
+renewable energy sources, the IT sector has the 
+opportunity to catalyze transformative change in the consumption and production of energy, with the potential to drive a significant reduction 
+in the greenhouse gases (GHGs) that cause 
+climate change.   Powering the Digital Economy
+Despite significant improvement in transparency from 
+some companies since 2012, estimates of the energy 
+demand of our growing number of electronic devices 
+and the online world to which they are connected have varied widely in their methodology and scope. Many of 
+the existing studies are based on country samples, annual 
+surveys or industry predictions that are difficult to compare due to variant methods and areas of focus between the 
+three different parts of the internet system: data centers, 
+communication networks and end user devices.   
+One of the most comprehensive and well recognized 
+snapshots of the internet’s energy demand at the global 
+level is the SMART 2020 report (2008), and the update in 2012, the SMARTer 2020 report, which pegs IT-related 
+emissions at approximately 2% of global emissions, on par 
+with emissions from the global aviation sector.
+5Cloud Source
+© Frank van Biemen / EvoSwitch / Greenpeace
+2002 2011 202062%
+End User Devices Networks Data Centers2002 2011 202013%
+25% 22%
+24%17%23%
+61% 53%
+The Cloud’s Growth:  
+A Breakdown
+
+1010   
+The updated analysis of the SMARTer 2020 report shows 
+the relative shift in the energy footprint of the IT sector from 
+devices to data center and networks, tracking the ongoing 
+growth of internet-based computing and the shift to thin client devices like tablets. Data centers will be the fastest 
+growing part of the global IT sector energy footprint as our 
+online world rapidly expands; their energy demand will increase 81% by 2020.
+Based on the estimates contained in the SMARTer 2020 
+analysis, the aggregate electricity demand of the cloud (including data centers and networks, but not devices) in 
+2011 was 684 billion kWh. If compared with the electricity 
+demand of countries in the same year, the cloud would rank 6th in the world, with demand expected to increase 
+63% by 2020.
+6
+The US remains the largest consumer of data center 
+power globally, followed by Japan, the UK, Germany 
+and France. Emerging markets in Latin America, China, 
+Malaysia, Indonesia, Singapore, Poland and Turkey are countries where power demand is growing above the 
+global average (See China ” The Cloud’s Next Stop: China” 
+on page 17). Global power demand for data centers alone grew to an estimated 40GW in 2013, an increase of 7% 
+over 2012.
+7 Data Drivers
+Internet data will almost triple from 2012-2017, growing 
+from 44 to 121 exabytes.8 Streaming video and audio are 
+the biggest drivers of explosive data growth, along with 
+a 50% increase in the number of internet users globally. 
+Netflix and YouTube combined represent more that 50% of internet traffic at peak times in North America.
+9  Globally, 
+YouTube remains the largest single source of data growth, 
+but social media services Instagram, Twitter, and Pinterest 
+are also growing rapidly. 
+
+
+11  
+Greenpeace  
+USASection  
+xxxxClicking Clean: 
+How Companies are Creating the Green InternetApril2014Greenpeace  
+USA
+Section 01  
+Cloud Power
+Electricity in Billion kWh, 2011
+UK 318
+France 420
+Brazil 457
+Canada 519
+Germany 522
+India 774
+Japan 939
+US 3790
+China 3862
+Cloud computing 684
+Russia 7296th largest
+consumerElectricity demand:  
+Cloud computing  
+vs. Countries
+
+
+03
+121202
+
+©  Greenpeace
+Greenpeace  
+USA
+13  
+Clicking Clean: 
+How Companies are Creating the Green InternetSection 02  
+Energy Snapshot
+02 Global Energy  
+Snapshot
+Power for a Green Internet  
+is Growing Rapidly
+Renewable energy is available to power the Internet: the 
+transition to a clean energy economy is underway, driven 
+by the increasingly competitive price of renewable power 
+compared to fossil fuels. Germany is leading the way with 25% of its electricity coming from renewable sources, 
+and targets of 50% by 2030 and 80% by 2050. More and 
+more studies show how renewable energy can provide all future power needs for countries across the globe; indeed, 
+countries like Scotland, Denmark and the Philippines have 
+now set targets to be 100% renewable powered. 
+In 2012, over half of all new installed electric capacity 
+worldwide came from renewable sources. In the EU 
+the share was almost 70%, mostly due to solar and wind power growth. The US added more capacity from 
+wind power than any other energy form in 2012, and all 
+renewable energy made up about half of total electric capacity additions during the year.
+10  Solar is booming 
+in the US as well, following in wind energy’s footsteps; in 
+2013, solar energy accounted for 29% of all new electric 
+generation capacity, up from 10% in 2012.11 
+In the US, there are now nine states that are getting 10%  or more of their electricity from wind power, with Iowa (25%) – a data center hub – topping the list.
+12  In China, 
+wind energy produced 135TWh in 2013 – 22% more 
+power than all of the country’s nuclear reactors.13 
+Fossil Fuels: Barriers to a Green Internet
+While penetration of renewable energy technologies 
+like wind and solar energy has grown rapidly in the past 
+decade, legacy energy generation from coal, gas and 
+nuclear power remains the status quo for most parts of the world. To prevent the most dangerous climate change 
+(brought on by global warming of 2 °C or more), global 
+emissions must peak before 2020. The International Energy Agency (IEA) states that most proven reserves of 
+fossil fuels must stay in the ground in order to meet those 
+goals.
+14 
+Coal is the chief culprit for global greenhouse gas (GHG) 
+pollution.15  A combination of energy efficiency, activism, 
+environmental regulations and cheaper gas has started a wave of coal plant shutdowns in the US in recent years, 
+and caused a halt in the construction of new coal-fired power plants.
+16  However, coal is still the source for 
+approximately 40 % of electricity in the US,17  and is still 
+burnt for electric generation around the world. It should be 
+the energy source most avoided by IT companies when 
+making decisions about how to power their data centers.
+Solar PV Global Capacity, 1995-2012 
+100 283
+199519961997199819992000200120022003200420052006200720082009201020112012102030405060708090100
+0
+GigawattsWind Power Capacity, 1996-2012 
+1996199719981999200020012002200320042005200620072008200920102011201250100150200
+Adapted from REN21's Renewables Global Status Report250300
+0
+Gigawatts
+
+1414   Is it green? 
+Nuclear: Nuclear power plants create unacceptable 
+risk to the environment and human health and are an 
+expensive diversion from the deployment of renewable 
+energy and energy efficiency required to stave off the worst impacts of global warming. Efforts to revive 
+the nuclear industry in the US have failed due to the 
+impossibly high costs of building and maintaining nuclear power plants – that money is best spent on 
+renewable sources of power.
+20 
+Hydropower: Hydropower is the most established 
+baseload clean energy source. Sourcing energy for a 
+data center from existing hydropower reduces carbon 
+emissions and is more environmentally friendly than 
+powering from a predominantly coal, gas, or nuclear powered grid. However, using existing hydropower 
+does not lead to investment in new renewable energy 
+capacity, and large hydropower projects can have detrimental effects on local environments. Well-
+planned and managed small-scale or microhydro 
+power projects have much less impact on river ecosystems, and have the potential to provide a 
+scalable baseload power source for data centers.
+Geothermal: Geothermal energy is a consistent and 
+renewable source of power in areas of the world where 
+it can be found. It provides significant and growing electric generation in countries like the US, Iceland, 
+and Indonesia. In 2013, 600MW of new geothermal 
+power was added globally.
+21  Apple has recently 
+secured electricity for its Reno data center for local 
+geothermal sources.22 
+Biogas: Biogas can come from many sources; 
+methane from landfill sites and anaerobic digestion of 
+farm waste or sewage sludge are the most common. 
+The environmental benefits of biogas vary widely 
+depending on the source.
+Biomass: Large-scale biomass used for electricity 
+generation can create significant environmental 
+problems, as the source of biomass is likely to come 
+from unsustainable sources. Wood pellets from the 
+southeast US are currently being shipped to the UK and other parts of the EU, simultaneously driving 
+deforestation and undermining climate protection 
+goals in both countries.
+23 
+Dont Frack the Internet
+In the US, utilities have vastly increased their generation of electricity from gas obtained from unconventional 
+reserves, known as “shale gas” or “tight gas.” Shale gas 
+requires drillers to crack the reservoir rock using a process known as hydraulic fracturing. Hydraulic fracture methods 
+(“fracking”) are associated with a range of environmental 
+impacts, including the pollution of local groundwater. While natural gas from conventional reserves has a lower 
+carbon intensity than coal, it still generates significant 
+GHG emissions.The GHG footprint of shale gas may be significantly greater than for conventional gas, with some 
+life-cycle analyses showing shale gas to have a GHG 
+footprint that is higher than even coal, due to fugitive methane emissions that are leaked during gas extraction 
+and transportation.
+18 While the increasing supply of natural 
+gas due to fracking has helped to shut down a number of coal plants, shale gas also diverts investment away from 
+renewable energy.
+19 
+A small but increasing number of data center companies are deploying natural gas-powered fuel cells on site as both primary and backup power supplies. Natural gas 
+used in fuel cells creates less pollution than when it is 
+combusted in power plants, and fuel cells can be a good mitigation strategy when used as a primary power source 
+to unplug a data center from a coal-fired grid (See “eBay 
+unplugs from a dirty grid: p 29). Nonetheless, natural gas cannot be considered renewable even when used in fuel 
+cells.
+
+15  
+Greenpeace  
+USAClicking Clean: 
+How Companies are Creating the Green Internet
+© Frank van Biemen / EvoSwitch / Greenpeace
+
+03
+1616  03
+
+Greenpeace  
+USA17  
+Clicking Clean: 
+How Companies are Creating the Green InternetSection 03  
+The Cloud’s  
+Next Stop:  
+China
+China has 618 million internet users and is the single 
+largest internet market on the planet,24 with more people 
+online than inhabitants of Western Europe. In 2012 alone, 
+almost 53.5 million people came online in China – a rate of 
+1.7 new online users per second. China will add another 200 million users by 2015,
+25 with most accessing the 
+internet via mobile technology.
+Internet companies are growing rapidly to provide 
+services for the new market. China’s largest internet company, Tencent, ranked as the 4th largest in the world 
+by market capitalization, behind only Google, Facebook 
+and Amazon.
+26  In addition to Tencent, Alibaba, Baidu and 
+Sina (owner of Weibo) are the biggest internet companies 
+in China. Both Tencent and Alibaba are expanding into 
+international markets. These companies are investing billions of dollars in new Chinese data centers to match 
+their explosive growth.
+27 
+The rapid growth in internet use in China means huge 
+quantities of electricity will be needed to power internet and online mobile services. Between 1.5% (700TWh) and 
+3% (1412TWh) of all electricity generation in China was 
+used for the internet in 2011, according to estimates.
+28  
+That power comes from a national grid that is currently 
+dominated by coal. 
+Chinese IT companies have been introducing energy 
+efficiency measures to reduce power consumption, but 
+the rapid growth in demand for online services means any carbon savings are quickly overwhelmed, and emissions 
+from the Chinese IT sector will continue to grow unless 
+aggressive energy efficiency targets are combined with prioritizing renewable energy sources.International internet companies are all looking at options to grab a share of the Chinese market. Amazon has just 
+announced plans for a Chinese-hosted AWS China Region 
+and IBM has plans to build its own Chinese data center
+29,30.  
+Industry experts are predicting that China will become the 
+key location for data center construction in the coming 
+years.31 
+Until 2012, any company plugging into the grid in China 
+had no choice over its source of power. However, the 
+Chinese Government is now acting to cap the growth of coal power in key regions to tackle its air pollution crisis, 
+and is introducing ambitious renewable energy targets 
+to transition China’s electricity generation toward clean energy. 
+32  In 2013, China increased its solar target to 
+35GW by 2015 and enacted new policies to allow private 
+solar installations to connect to the grid and achieve 
+attractive economic terms for the power they generate.33  
+The changes represent a crucial opportunity for internet 
+companies and data center operators in China to invest 
+directly in clean energy and slash their growing energy bills.
+IKEA34 and Lenovo35  are investing in their own solar PV 
+installations in China. China’s top internet companies have 
+yet to take advantage of the new opportunities to invest 
+in solar power, as sector leaders Apple, Facebook and Google are doing in the US. The Cloud’s Next  
+Stop: China03
+©  Greenpeace
+
+03
+181804
+
+Greenpeace  
+USA19  
+Clicking Clean: 
+How Companies are Creating the Green InternetSection 04  
+Defining a Green 
+Internet Company 
+  19  The IT sector has made substantial progress in driving 
+innovation in data center and server energy efficiency 
+design in the past 5-plus years, which is helping to curb the 
+expected growth in data center energy demand. However, given the scale of predicted growth in the energy footprint 
+of the online world, all major online companies must 
+factor access to renewable sources of electricity into any meaningful sustainability strategy.  At both a company and 
+a sector level, delivering  a green internet has to include a 
+long-term commitment to growing with renewable energy, and a near-term strategy that will put both existing demand 
+and future growth on a path to being 100% renewably 
+powered.
+The environmental rationale for technology companies 
+to act has been clear for many years, as a rapid shift to 
+renewable energy is necessary to stem the worst impacts of climate change. Now, the business case is becoming 
+more compelling as well: costs for renewable energy 
+continue to drop, prices for fossil fuel-based electricity are rising, and leading companies are perceiving those price 
+cues. They are also heeding customers who increasingly 
+value sustainability.Fortunately, several leading companies have recently  
+made meaningful commitments to embed within their 
+business model the goal of a renewably powered internet, and taken steps to implement those goals. These 
+leaders recognize their rapid energy demand growth as 
+a responsibility, but also as an opportunity to disrupt the status quo in the energy sector and ensure their long-
+term sustainability. While each company will have different 
+opportunities depending on their business model and geographic location, key ingredients for any company 
+that wants to build their part of the internet with renewable 
+energy must include:
+• A long-term commitment to become 100%  
+renewably powered. 
+• A commitment to transparency on IT performance 
+and consumption of resources, including the source 
+of electricity, to enable customers, investors, and stakeholders to measure progress toward that goal.
+• A strategy for improving energy efficiency while 
+increasing the supply of renewable energy, through a mixture of procurement, investment, and corporate 
+advocacy to both electricity suppliers and government 
+decision-makers.
+By making better energy choices and demanding more 
+from utility vendors, some internet companies are already 
+demonstrating their ability to be critical catalysts in driving utilities and governments toward the development of 
+cleaner electricity generation that will ensure a truly green 
+online world – and a greener offline world for us all.The Road Map to  
+a Green Internet04
+© Frank van Biemen / EvoSwitch / Greenpeace
+
+2020   
+I. Energy Transparency
+It is not possible to properly assess whether a company 
+or its products are sustainable without adequate 
+transparency on the company’s inputs and outputs. Just 
+a few years ago, while there were a number of companies touting how “green” the cloud or their cloud was, very few, 
+if any, offered useful details on one of the biggest inputs 
+into a data center: electricity. The sector was reluctant to discuss electricity use in any level of detail, as if IT 
+companies had adopted a collective code of silence.
+Fortunately, we are beginning to see a meaningful shift 
+among leading data center operators, particularly within 
+the last two years, to acknowledging that revealing energy 
+information is no longer equivalent to publishing the secret formula for Coca-Cola. Business and government 
+customers increasingly want to know key data points 
+on the environmental performance of facilities to which they have “off-shored” their computing capacity, as 
+they have goals on carbon reduction and renewable 
+energy they expect their cloud provider to help them achieve. Customers need reliable data to evaluate the 
+environmental performance and carbon footprint of their IT 
+vendors and suppliers. Among the major cloud providers, only Amazon refuses to provide any details on the energy 
+performance and environmental impact associated with its 
+operations.
+Despite the adoption by the Green Grid of new data 
+center environmental performance metrics like Carbon Utilization Effectiveness (CUE, to measure carbon intensity) 
+and Green Energy Coefficient (GEC, to indicate the 
+amount of renewable energy),
+36 the number of companies 
+reporting under these new metrics remains quite low, 
+though there has been some recent improvement. eBay 
+provides the best example, including CUE as part of its regularly updated Digital Service Effectiveness dashboard, 
+illustrating the performance connection between 
+environmental and business metrics.
+37 II. Renewable Energy 
+Commitment & Siting Policy
+Starting with Facebook in 2011, six major cloud 
+companies have now made long-term commitments to 
+be 100% renewably powered (Apple, Box, Facebook, 
+Google, Salesforce and Rackspace). These commitments send a powerful signal to both utilities and colocation 
+providers that if they expect to earn the business of these 
+companies, they will need to provide a strategy for how they can help them achieve this goal.  
+Site selection is a critical decision for determining the near-
+term sustainability of the facility, whether a company is building or renting data center space. Location has a large 
+impact on what options are available to leverage outside 
+air cooling, as well as access to renewable energy sources. These six companies and others have also strengthened 
+the weighting of access to renewable electricity in their 
+site selection criteria and energy policies, as shown by Facebook and through the energy policies published by 
+Google
+38   and Apple. 39
+“ Utilities are now much more 
+interested in collaborating 
+with us, and I think we are at the beginning of a period in 
+which we could see a very 
+rapid change in the energy mix utilities are providing in just a few short years
+”Bill Weihl, Facebook Manager of Energy 
+Efficiency and Sustainability
+
+21  
+Greenpeace  
+USAClicking Clean: 
+How Companies are Creating the Green InternetSection 04  
+Defining a Green 
+Internet Company 
+III. Energy Efficiency and 
+Mitigation Strategy
+Energy efficiency is a critical element in each aspect of 
+operating a data center: data center design to reduce 
+energy spent on cooling; energy efficient servers; and 
+software and load management strategies to maximize utilization of data center compute capacity. Improvements 
+in the utilization of data center compute resources has 
+been a key factor in curbing the rate of growth across the sector.
+Those companies which own and operate their own 
+facilities are already aggressively managing energy use, and many have begun to collaborate in sharing and 
+developing more efficient facilities with peer operators 
+as well as many equipment manufacturers (see “Open Compute Project shows potential of collective action” 
+p 30). While some companies still conflate their energy 
+efficiency with operating a green data center, often with little in the way of comparative data to substantiate their 
+claims, leading companies such as Akamai, Yahoo and 
+IBM are setting clear benchmarks for improving the energy efficiency and carbon intensity of their operations, 
+and regularly report their progress to stakeholders and 
+customers.IV. Clean Energy Strategy
+The options for securing a greater supply of renewable energy for data center operators varies significantly 
+depending on their business model (cloud, colocation or 
+managed hosting) and the options available to them by the state or utility to choose their electricity supply or electricity 
+supplier.
+Moving away from RECs
+With a few notable exceptions, the trend away from simply 
+buying renewable energy credits (RECs) as a means of achieving environmental performance goals has continued 
+and accelerated among data center companies. By 
+themselves, RECs (and their cousins carbon offsets) are largely instruments that preserve the status quo, as they 
+do little to increase the amount of renewable energy on 
+the grid, or displace dirty sources of electricity.
+40  RECs 
+also do not provide any meaningful return on investment, 
+as companies must continue to “rent” the right to claim 
+they are renewably powered each year. Companies that buy them should only do so when they do not have 
+more meaningful options for securing renewable energy 
+in the locations available to them. If companies do buy RECs, they must at a bare minimum buy RECs that 
+demonstrate strong additionality, and are in close proximity 
+to the facilities they wish to claim are renewable. They should otherwise look to make more direct investments 
+in renewable energy or push utility and government 
+policymakers to add more renewable energy on the grid, allowing customers to have the right to directly contract  
+for it.
+Utility-based Strategies to Procure 
+Renewable Energy
+Renewable Grid Power 
+Options for grid-supplied renewable electricity for a 
+data center operator depend upon the location of the 
+data center, its proximity to available renewable energy generation capacity, and the investment strategy of the 
+respective utility. High availability of low-cost hydroelectric 
+or renewable sources of energy has led many companies to locate in the Pacific Northwest in the US (hydropower), Iceland (geothermal), and Sweden (hydro and wind).“ Our goal is to power 
+every facility at Apple entirely 
+with energy from renewable sources — solar, wind, hydro, 
+and geothermal
+”Apple Facilities Report  
+on Renewable Energy
+
+2222   
+Investment in renewable energy 
+While renewable energy and energy efficient technologies 
+continue to develop and grow, there are still significant 
+gaps in private-sector financing needed to deploy them at scale across many markets. IT companies such as Google 
+have demonstrated significant interest (over $1 billion 
+invested) in making direct clean energy investments.
+42  
+Google’s investments have created much higher impact 
+than when companies purchase RECs; such investment 
+can provide much-needed capital for the development and deployment of renewable energy, as opposed to RECs, 
+which only “rent” the clean attributes of renewable energy 
+generated by others. Investments can be structured so that the investing company becomes an owner of the 
+project, or is only providing capital for the tax equity portion 
+of the project.
+V. Advocacy
+In order to ensure that the supply of clean energy can keep pace with a data center’s growing electricity demand 
+over its lifetime, companies need to at a minimum make 
+a corporate commitment to engage in energy policy decisions in regions where they establish operations. As 
+large commercial consumers of electricity, IT companies 
+have standing with utilities and policy-makers to influence acceleration in the investment and deployment of the clean 
+electricity supply, enabling data centers to operate on 
+100% renewable energy. Companies can support:
+• Adoption of renewable energy investment incentives, 
+including those specific to the IT sector for energy 
+efficiency and renewable energy deployment. 
+• Deployment of cost-effective, regionally appropriate sources of renewable power generation for data centers, and the retirement of coal-fired generation.
+• Increased distributed generation to drive greater deployment of renewable energy, which increases grid stability and enables the retirement of older, dirtier 
+centralized generation. Facebook and Microsoft recently 
+advocated for this in Iowa.
+43 
+• Investment in the development of grid infrastructure and 
+energy storage technology to enable higher utilization of 
+variable renewable energy sources, such as wind and solar.
+• Greater availability of options for renewable energy procurement, especially in states with monopoly utilities that do not allow third-party sales of electricity.
+ Renewable Energy Tariff Programs 
+A number of utilities have recently established renewable 
+energy tariffs, or green tariffs, as a means of offering a renewable class of electricity service to interested 
+customers, often at the behest of major data center 
+operators.
+41 Utilities in regulated markets in the US, such 
+as North Carolina and Virginia, which otherwise offer very 
+low percentages of renewable energy in their generation 
+mix, have been among those to offer renewable energy tariffs.
+Direct Access 
+Direct Access programs allow the customer to purchase electricity from a different generator than the utility, 
+potentially creating stronger options for securing a 
+renewable electricity supply. Direct access is not available in every jurisdiction, and is often made difficult by utilities 
+aiming to discourage participation.
+Non-Utility Strategies to  
+Procure Renewable Energy
+On-Site Generation 
+A growing number of data center operators have installed 
+renewable or alternative generation technology (primarily 
+fuel cells) on site to generate power for their facilities.  The declining cost of solar technology, along with tax incentives 
+available in many jurisdictions, has made solar an 
+increasingly attractive option for some facilities. However, it may be difficult technically or economically for many data 
+centers to power a significant portion of their electricity 
+needs with on-site renewable energy, unless there is nearby land available, as Apple had in North Carolina. 
+In jurisdictions that allow third-party sales of electricity, 
+it may be possible for data center operators to allow the renewable technology to be owned and operated by third 
+parties.  
+Power Purchase Agreements (PPAs) 
+An increasing number of cloud companies, such as 
+Google and Microsoft, have begun to take charge of their electricity supply chain by signing long-term contracts to 
+buy renewable electricity from a specific source through 
+a utility or renewable energy developer via a power purchase agreement (PPA), which helps to increase the supply of renewable electricity onto the grid, and provides 
+the purchaser an effective buffer against rising or volatile 
+electricity prices.   “ The wonderful thing about 
+power purchase agreements 
+for clean energy is that they’re at a fixed price, unlike brown 
+power costs which are going 
+up
+”Gary Demasi, Google Director  
+of Global Infrastructure.
+
+23  
+©  Greenpeace
+
+03
+2424    How Clean is Your Cloud? 2405© Frank van Biemen / EvoSwitch / Greenpeace
+
+Greenpeace  
+USA25  
+Clicking Clean: 
+How Companies are Creating the Green InternetSection 05  
+Your Online  
+World: Green  
+IRL, or #dirty? 
+From social media to music, streaming video, 
+email and commerce, we are increasingly 
+moving much of our lives online. That means a 
+lot of new data to store. But where is that data being stored, which companies are storing it, and what kind of energy are they using? 
+Unlike internet giants like Google and Facebook, most 
+online companies do not, in fact, own their own data 
+centers. Most internet sites, video streaming services, 
+and cloud based storage services operate in data centers 
+managed by other companies, paying rent to digital 
+landlords that rent data center space or computing and storage capacity. Many companies have turned to Amazon 
+Web Services to host their data, a problematic trend as 
+long as Amazon continues to power its data centers with dirty forms of energy. 
+In the graphic on the next page, we offer a sampling to 
+show where some of the internet’s most popular sites and 
+services are being hosted – and the relative greenness 
+of the energy that those data centers are using. Energy 
+demand symbols are not drawn to scale and are meant to offer a relative indication. For more information on the 
+energy footprints of each hosting company, see “Company 
+Scores Explained” starting on page 44. 
+44Your Online World: 
+Green IRL, or #dirty?05
+© Frank van Biemen / EvoSwitch / Greenpeace
+
+
+Amazon
+Web
+Services
+Digital
+RealtyDupont
+Fabros Ebay
+EquinixGoogle
+FacebookTwitterMAIL
+Yahoo
+IBMTelecityMicrosoft
+Apple
+2626   
+Your Online World: 
+Green IRL, or #dirty?
+
+Amazon
+Web
+Services
+Digital
+RealtyDupont
+Fabros Ebay
+EquinixGoogle
+FacebookTwitterMAIL
+Yahoo
+IBMTelecityMicrosoft
+Apple
+  27  
+
+03
+2828 06
+
+Greenpeace  
+USA29  
+Clicking Clean: 
+How Companies are Creating the Green InternetSection 06  
+Green Intenet  
+Leaders and  
+Best Practices 
+II. Energy Efficiency & Mitigation
+Greenhouse Gas Mitigation:  
+eBay Unplugs From a Dirty Grid
+The electricity grid surrounding eBay’s Topaz data center 
+in Utah is one of the dirtiest in the United States, with over 60% of the electricity still coming from coal-fired 
+generation.
+47  To address its outsized carbon footprint for 
+Topaz, eBay has chosen to effectively “unplug” its facility from the local grid as its primary power source, relying 
+instead upon on-site fuel cells powered by natural gas for 75% of its electricity needs, and using the grid only as 
+backup power in case of fuel cell failure.
+48  In addition, eBay 
+is currently financing a combined heat and power project at a nearby facility, which it uses to offset the carbon 
+emissions produced by the natural gas powered fuel cells. While fuel cells powered by natural gas are not renewable, 
+eBay’s innovative approach highlights the potential to use 
+distributed generation to power the cloud in certain areas, rather than driving further utility investment in centralized 
+fossil fuel generation. 
+Honorable Mention: IBM, for repeated strong performance 
+on emissions reduction goals, and its patent for shifting 
+cloud computing demands on a distributed network to 
+meet environmental impact criteria.
+49I. Energy Transparency
+Energy Performance Transparency:  Facebook opens its books 
+Facebook dramatically improved its energy transparency 
+just a few months after it became a publicly traded company in 2012, and now provides one of the most 
+accessible snapshots of its energy footprint in the sector. 
+Facebook now annually publishes its energy and carbon footprint across its entire operations, and has also added 
+facility-specific performance dashboards
+45  to provide 
+nearly real-time reporting of the Power Usage Effectiveness (PUE) and Water Usage Effectiveness (WUE) of its data 
+centers. Facebook recently open-sourced the code for those dashboards.
+46 While many companies remain 
+reluctant to provide facility-level information, Facebook 
+sets a high bar for others to meet by allowing its users to 
+follow the platform’s progress toward becoming 100% renewably powered. 06 Green Internet Leaders  
+and Best Practices
+©  Greenpeace
+
+3030   
+Energy Efficiency:  
+Open Compute Project  
+shows potential of collective  
+action (Multiple Companies) 
+Launched initially by Facebook in 2011, the Open 
+Compute Project (OCP) seeks to replicate the success 
+of the open-source software model in data center and server design.
+50 OCP aims to spur improvements in energy 
+efficiency across the sector, which is critical to building an 
+internet that can be renewably powered. With participating 
+companies sharing their hardware designs, OCP could 
+disrupt the status quo among server manufacturers, a key 
+sector vendor, allowing best practices to drive the market more quickly. While OCP’s impacts are still emerging, the 
+project shows the potential of collective action in tackling 
+the sector’s energy footprint.  
+OCP provides one model for how internet companies 
+could approach another key vendor, electric utilities, to 
+accelerate the deployment of renewable energy. Such a collective approach could have a truly disruptive effect 
+on the status quo in the utility sector, which is stubbornly 
+clinging to outdated models of centralized, polluting power plants. That type of effort would ultimately help both the 
+internet and utility sectors accelerate their transition to 
+sustainable business models based on renewable energy. III. Siting Policy & Commitment to 
+Renewable Energy
+Commitment to Renewable Energy: Rackspace, 
+Salesforce, and Box Show That Renters Can Buy 
+Renewable Too
+Three rapidly growing cloud companies, Rackspace, 
+Salesforce and Box, all adopted 100% renewable energy 
+policies in 2013.51,52,53 These commitments show that the 
+desire and motivation to build a green internet is not limited 
+to big public brands or those that own and operate their 
+own data centers. While internet companies enjoy a more limited set of options to meaningfully procure renewable 
+energy when they do not own their facilities, commitments 
+by such prominent and fast-growing cloud brands create important pressure on colocation companies to offer their 
+best customers real options for green hosting.  
+The launch of companies such as GreenQloud and Green 
+Mountain, data center operators in Iceland and Norway 
+respectively, are evidence of the rising demand for cleaner 
+options in the colocation sector. Rackspace’s sustainability director described why they set the ambitious 100 % 
+renewable goal at a Greenpeace forum in November, 
+saying: “Our customers simply expect green energy.”
+Renewable Energy Commitment & Siting Policy: 
+Facebook harnesses Iowa’s wind
+Facebook adopted a strong preference for renewable 
+energy supply in its data center siting policy in 2011 to 
+support its long-term commitment to make the platform 
+100% powered by renewable energy. The company showed the power of that siting policy in April, 2013, 
+when it announced plans to build its fourth data center in 
+Iowa, choosing the state over neighboring Nebraska in part because Iowa had better policies and a more willing 
+utility to help Facebook meet its renewable goals. Just two Google increases 
+transparency on its data center energy use
+Google releases information 
+on exactly how much energy it takes to provide searches, 
+email, youtube videos and 
+all other Google services, as well as its energy mix.Facebook to renewable energy siting policy for data centers
+Facebook commits to a 
+siting policy with a stated preference to locate data 
+centers in areas with 
+renewable energy available, bringing to a close the 20-month Greenpeace Unfriend Coal campaign.Apple commits to  100 % renewable  energy for iCloud
+Apple announces a doubling 
+of its solar installation at its North Carolina data center, 
+along with a commitment 
+that all of its data centers will be powered by 100 % renewable energy.Sept 2011 Timeline: 
+Creating  
+the Green InternetDec 2011 May 2012
+
+
+31  
+Greenpeace  
+USAClicking Clean: 
+How Companies are Creating the Green InternetSection 05  
+Green Intenet  
+Leaders and  
+Best Practices 
+In North Carolina, Apple’s large-scale solar investment, 
+made economically feasible in part by its ability to leverage 
+tax incentives against other parts of its business, helped 
+propel North Carolina to third place in 2013 among US states in solar growth.
+58 Apple’s solar installations, in 
+combination with pressure for better energy options that 
+it applied along with data center neighbors Facebook and 
+Google, led Duke Energy to offer a new tier of renewable electricity service. Duke’s new Green Source Rider 
+program is geared to prevent losing additional business to 
+increased solar investments from customers like Apple.
+59 
+In Nevada, Apple’s solar installation broke new ground for 
+renewable energy from the local utility, NV Energy, which 
+agreed to work in partnership with Apple to co-develop a solar project and adopt a Green Energy rate tariff. That tariff 
+opened the door for other companies to explore renewable 
+energy options, showing the catalytic power that data center operators can have when they push for more 
+renewable energy. 
+Google Greens the Grid with Renewable Purchases 
+at Unprecedented Scale
+Google has continued to lead the charge among major 
+IT brands by signing five long-term power purchase 
+agreements (PPAs) for renewable energy,
+60 helping to 
+green the grid for its data centers in Iowa,61 Oklahoma,62  
+and Finland63 to date. Google has also worked to expand 
+its options for green electricity in Oklahoma to include buying directly from the utility, resulting in the utility making 
+its first ever renewable energy investment.
+64 In addition to 
+greening its data centers, Google has invested over $1 
+billion in 15 renewable energy projects, such as the world’s 
+largest solar plant in Southern California, collectively good for 2 GW of clean power.
+65weeks after Facebook’s announcement, MidAmerican Energy, the local utility in Iowa, announced plans to invest 
+$1.9 billion to increase its wind generation by 1,050MW. 
+That plan simultaneously marked the largest investment in Iowa’s history
+54 and the world’s largest order of wind 
+turbines.55
+Facebook has since announced it has an agreement56 
+with MidAmerican to purchase energy from a new wind 
+project nearby its data center to allow it to fully power the 
+facility with renewable energy, but its desire for renewable energy clearly had a much larger catalytic role in Iowa – and 
+potentially in Nebraska as well. Facebook’s decision to 
+spurn Nebraska has spurred debate in that state legislature to strengthen policies to support renewable energy 
+investment, so that Nebraska can be more competitive for 
+future data center business.
+57
+IV. Renewable Energy  
+Deployment & Advocacy 
+A) Renewable Energy Deployment
+Apple applies innovation to on-site solar in Nevada 
+and North Carolina
+Apple has done the most of any data center operator to 
+make its part of the internet green through the on-site 
+installation of renewable energy, particularly solar power. 
+For both its Maiden, North Carolina and Reno, Nevada data centers, Apple is deploying large solar farms on site  
+or at nearby locations to provide a significant amount of 
+new renewable energy to meet its data center electricity needs and fulfill its goal to be 100% renewably powered 
+and coal-free.  eBay quits the coal grid 
+for its Utah data center
+eBay installs fuel cells 
+for its Utah data center, setting them up in a way that allows the facility to 
+run independently from 
+the electricity grid, which is heavily powered by coal there. Facebook publishes its energy and carbon footprint data for first 
+time
+Facebook publishes 
+its 2011 energy and 
+carbon footprint data and 
+announced a 2015 goal of powering 25% of the platform with renewable energy.  Rackspace commits to 100 % renewable energy Rackspace commits to a 
+goal of powering its data 
+centers with 100 % clean energy. Salesforce commits to 100 % renewable energy Salesforce becomes the 
+fifth company to commit to 
+powering its cloud with 100 % clean energy. 
+June 2012 Aug 2012 Feb 2013 March 2013
+
+
+3232   
+In purchasing and investing in renewable energy at scale, 
+Google is also developing options that can be seized 
+by others. Google’s earlier PPA in Iowa contributed to 
+MidAmerican’s decision to dramatically expand its wind generation capacity and enter into an agreement to provide 
+Facebook wind energy directly.
+B. Advocacy
+Apple, Google, Facebook try to make NC into a  
+Clean Data Triangle 
+North Carolina has been a hot spot for data center 
+expansion (see “Where the Cloud Touches the Ground”, 
+p 40), featuring major facilities operated by three of the 
+largest internet brands, Apple, Facebook and Google. The dirty energy mix offered by utility Duke Energy to these 
+large electricity customers prompted a North Carolina 
+newspaper in 2011 to ask whether the companies were creating a “Dirty Data Triangle.”
+66Since then, all three of the companies have developed long-term commitments to be 100% renewably powered. 
+The companies successfully teamed up with others to 
+compel Duke Energy, the nation’s largest utility and one of its biggest emitters of global warming pollution, to offer 
+renewable energy to its major customers through a special 
+“Green Source Rider.”
+67 While not perfect, the program 
+represents an important shift in North Carolina, particularly 
+coming from a utility that has sold only a one-size-fits-all 
+dirty energy offering for decades. Google, Facebook and Apple’s leadership shows how innovative companies can 
+disrupt the status quo, and how the online world can drive 
+green behavior in the offline world, even wrestling changes 
+from recalcitrant utilities, when IT leaders work together.Apple report reveals  
+its path to 100% renewable energy
+Apple releases an 
+environmental report disclosing how it would 
+reach 100 % renewable 
+energy for its data centers allowing customers to have faith that Apple is meeting its ambitions with real action. Apple, Facebook, Google Team Up to Push Nation’s Largest Utility 
+to Renewable Energy 
+Offering
+Apple, Facebook and 
+Google team up to compel 
+their electric utility in North Carolina, Duke Energy, to offer a new breakthrough renewable energy program. Apple chooses solar for Nevada data center
+Apple announces it will work 
+with the local utility to power its data center near Reno, NV with 100 % solar and 
+geothermal power. Microsoft makes its first 
+large-scale purchase of renewable energy to 
+power a data center
+Microsoft purchases wind 
+energy in Texas to power its 
+data center there, marking 
+its first ever large-scale purchase of renewable energy. 
+March 2013 April 2013 June 2013 Nov 2013
+
+
+33  
+Greenpeace  
+USAClicking Clean: 
+How Companies are Creating the Green Internet
+Section 05  
+Green Intenet  
+Leaders and  
+Best Practices 
+A Stain on IT clean energy efforts: ALEC 
+Some of the same companies using innovative 
+strategies to power the internet with renewable 
+energy are undermining those very efforts via their 
+political support for organizations which are actively committed to sabotaging the clean energy revolution 
+and efforts to address climate change. 
+The most troubling of these political affiliations 
+is the membership by many IT companies in the 
+American Legislative Exchange Council (ALEC), a 
+group that allows member corporations to pay to ghostwrite model legislation for mostly right-wing 
+state legislators around the country. ALEC members 
+evaluated in this report include:
+68,69,70 
+• Google
+• Facebook• Microsoft
+• Yahoo!
+• eBay
+• Verizon TerremarkALEC is actively collaborating with many of the 
+nation’s worst polluters to kill clean energy and climate 
+policies around the country. In 2013, ALEC pushed 
+model legislation to repeal renewable energy portfolio standards in over a dozen states, failing across the 
+board.
+71 
+The group’s 2014 agenda includes continued assaults on renewable energy laws, plus a new effort to 
+attack net metering policies,
+72 which encourage the 
+growth of decentralized solar energy by allowing solar 
+customers to be fairly compensated for extra electricity 
+they sell back to the grid. ALEC is also targeting the Environmental Protection Agency’s effort to limit global 
+warming pollution from coal-fired power plants.
+73
+In addition to their membership in ALEC, Google and 
+Facebook also attracted criticism in 2013 for offering 
+political contributions to the Competitive Enterprise 
+Institute, a conservative think tank funded by fossil fuel interests with a history of denying the reality of climate 
+change.
+74Box becomes sixth 
+company to commit to 100 % renewable energy
+Box becomes the sixth 
+and latest company to join the growing club of global 
+technology firms who have 
+committed to powering their cloud computing operations with 100 % renewable energy. Apple begins powering manufacturing with renewable energy too
+Apple announces it will start 
+building high-tech glass for its products in Arizona 
+at a facility that will be 100 
+% powered by solar and geothermal energy.Facebook powers new Iowa data center with 100 % wind energy
+Facebook announces that it 
+will use 100% wind energy to power its data center in 
+Iowa. 
+Nov 2013 Nov 2013 Nov 2013 ?
+
+
+03
+3434  07
+
+Greenpeace  
+USA35  
+Clicking Clean: 
+How Companies are Creating the Green InternetSection 07  
+Where the  
+Cloud Touches  
+the Ground
+Data center operators have followed each 
+other to different regions, forming data center 
+hubs that create concentrated pockets of high 
+electricity demand. Those data center hot spots push utilities to build new electricity generation that can harm both the local environment and 
+the broader climate if fueled by gas or coal-
+fired power plants. The clusters could also drive utilities to invest in clean energy if the data center operators demand it. Three regions in the 
+US which feature explosive data center growth 
+are North Carolina, the Pacific Northwest, and Virginia.07 Where the Cloud 
+Touches the Ground
+© Frank van Biemen / EvoSwitch / Greenpeace
+
+3636    How Clean is Your Cloud? 
+RE GOAL - NA
+Japan
+RE GOAL 14%
+NetherlandsRE GOAL - NA
+RE GOAL 20%
+Nordic
+RE GOAL - 38.6%
+Germany
+RE GOAL 40%
+Ireland
+RE GOAL 32%
+UK
+RE GOAL -  NA
+Singapore
+Nuclear Power 
+Natural Gas
+Hydro
+Coal
+Other Fossil Fuels
+Renewable Energy
+Data Center Growth: 3%
+Data Center Growth: 3%Data Center Growth: 9%
+Data Center Growth: 14%
+Data Center Growth: 6%Data Center Growth: 10%
+Hong Kong
+RE GOAL - 35 GW SOLAR
+China
+Data Center Growth: 9%
+RE GOAL - NA
+Brazil
+Data Center Growth: 11%Data Centers  
+Go Global
+Key countries’ data center investments,  
+current grid mixes and expected renewable  energy supplies by 2020.
+75
+
+  37  
+Greenpeace  
+USAHow Clean is Your 
+Cloud?  Section 05  
+Location Matters
+RE GOAL - NA
+Japan
+RE GOAL 14%
+NetherlandsRE GOAL - NA
+RE GOAL 20%
+Nordic
+RE GOAL - 38.6%
+Germany
+RE GOAL 40%
+Ireland
+RE GOAL 32%
+UK
+RE GOAL -  NA
+Singapore
+Nuclear Power 
+Natural Gas
+Hydro
+Coal
+Other Fossil Fuels
+Renewable Energy
+Data Center Growth: 3%
+Data Center Growth: 3%Data Center Growth: 9%
+Data Center Growth: 14%
+Data Center Growth: 6%Data Center Growth: 10%
+Hong Kong
+RE GOAL - 35 GW SOLAR
+China
+Data Center Growth: 9%
+RE GOAL - NA
+Brazil
+Data Center Growth: 11%
+
+RE GOAL 33 % by 2020
+San Jose
+Utilities: 
+Silicon Valley Power
+RE GOAL15% by 2025
+Virginia
+Utilities:
+Dominion Power
+RE GOAL - NA
+Atlanta
+Utilities: 
+Georgia Power
+RE GOAL 25% by 2025
+Chicago
+Utilities:ComEd
+RE GOAL - NA
+Iowa
+Utilities: 
+MidAmerican
+RE GOAL - NA
+Utah/Wyoming
+Utilities: 
+Rocky Mountain 
+Power
+RE GOAL 15% by 2025 
+Phoenix
+Utilities: 
+Arizona Public 
+Service
+RE GOAL 22.5% by 2021
+New Jersey
+Utilities: 
+PSEG
+Nuclear Power 
+Natural Gas
+Hydro
+Coal
+Other Fossil Fuels
+Renewable Energy
+RE GOAL Add 5880 MW by 2015
+Dallas
+Utilities: 
+ERCOT
+RE GOAL 12% by 2021
+N Carolina
+Utilities:
+Duke Energy
+RE GOAL 25 % (OR, 2025); 15 % (WA)
+Paciﬁc NW
+Utilities: Umatilla Electric, 
+Grant County PUD, 
+North Wasco PUD
+RE GOAL 25 % (2025)
+Central Oregon
+Utilities: 
+Paciﬁc Power
+Data Centers in the US
+The US has more data centers than any other country. Below, some 
+of the regions that have been data center hot spots, their energy mixes, and projected growth of renewable energy.
+76 
+
+RE GOAL 33 % by 2020
+San Jose
+Utilities: 
+Silicon Valley Power
+RE GOAL15% by 2025
+Virginia
+Utilities:
+Dominion Power
+RE GOAL - NA
+Atlanta
+Utilities: 
+Georgia Power
+RE GOAL 25% by 2025
+Chicago
+Utilities:ComEd
+RE GOAL - NA
+Iowa
+Utilities: 
+MidAmerican
+RE GOAL - NA
+Utah/Wyoming
+Utilities: 
+Rocky Mountain 
+Power
+RE GOAL 15% by 2025 
+Phoenix
+Utilities: 
+Arizona Public 
+Service
+RE GOAL 22.5% by 2021
+New Jersey
+Utilities: 
+PSEG
+Nuclear Power 
+Natural Gas
+Hydro
+Coal
+Other Fossil Fuels
+Renewable Energy
+RE GOAL Add 5880 MW by 2015
+Dallas
+Utilities: 
+ERCOT
+RE GOAL 12% by 2021
+N Carolina
+Utilities:
+Duke Energy
+RE GOAL 25 % (OR, 2025); 15 % (WA)
+Paciﬁc NW
+Utilities: Umatilla Electric, 
+Grant County PUD, 
+North Wasco PUD
+RE GOAL 25 % (2025)
+Central Oregon
+Utilities: 
+Paciﬁc Power
+
+
+4040   
+Energy 
+Demand in MW
+2010
+2011 2012500
+0
+Energy Demand in MW
+(Not to 
+scale)
+2012 2013 20302500
+500
+0North Carolina
+North Carolina has become a hot spot for data centers in 
+recent years, led by the high-profile entrances of Google, 
+Facebook and Apple into the state. Others have joined 
+them, including Walt Disney, AT&T, Wipro, Bed, Bath & Beyond and others.
+77 
+As a result, data center electricity demand nearly tripled in 
+North Carolina from 2010 to 2012, according to data filed 
+by the local utility there, Duke Energy. Since Duke enjoys a virtual monopoly on electricity sales in the state, its load 
+has grown considerably due to this data center investment 
+– and that load is powered by one of the dirtiest energy mixes in the country. Duke generated 57 % of its electricity 
+in 2013 from nuclear power plants, 38% from coal, and 4 
+% from gas.
+78 A mere 0.1 % of their electricity came from 
+renewable sources like wind and solar power.79 Duke has 
+shown little ambition to get cleaner – its resource planning 
+documents show that in 2028, it still intends to generate 
+only 3 % of its energy from renewable sources.80Internet companies’ growth in North Carolina gives them a great deal of leverage over Duke – an official from the 
+utility once said that a data center “may be the most ideal 
+customer we could have.” 
+81 
+Pacific Northwest
+Oregon and Washington’s large data centers demanded 400 MW of electricity in 2012 and grew by almost 40 %  
+to 550 MW in 2013. A report from the Northwest Power 
+and Conservation Council estimated that data center demand for the region could get “potentially as large as the 
+past aluminum industry in the region with loads in excess 
+~2500 MWa”.
+82 
+Amazon’s data centers in Boardman, OR have grown so 
+quickly that it appears to have almost single-handedly 
+pushed its electricity provider, the Umatilla Electric Cooperative, to a large enough size that it now is bound 
+by a state law to generate more renewable energy.
+83 
+Umatilla sought to avoid having to comply with the state’s renewable energy requirement, financing a statewide ballot 
+initiative to redefine renewable energy to include 60-year-old dams.
+84 Amazon has been content to let Umatilla do 
+just that, exerting none of its leverage as one of Umatilla’s 
+biggest customers to pressure the utility to call off its 
+assault on the law. In early 2014, Umatilla successfully bullied its way into attaining a legislative loophole that 
+would allow it to comply with the law without investing in 
+wind and solar energy.
+85Amazon’s course of inaction stands in stark contrast to Apple, Google, Facebook and Rackspace, which operate 
+or are building data centers in Oregon, and are demanding 
+that their utilities provide more, not less, renewable energy. In response, some utilities are asking the state for the ability 
+to provide more renewable energy to their data center 
+customers.
+86Data Centers Driving Utility Growth: NC
+Data Centers Driving Utility Growth: 
+Pacific Northwest
+
+41  
+Greenpeace  
+USAClicking Clean: 
+How Companies are Creating the Green InternetSection 07  
+Where the  
+Cloud Touches  
+the Ground
+Energy 
+Demand 
+in MW
+2010 2011 2012 2013 20175001000
+0Virginia
+Northern Virginia contains one of the most concentrated 
+epicenters of data centers in the world – it is a key location 
+in the internet’s infrastructure. Amazon operates multiple 
+data centers in the region, but is far from the only company there. Much of the internet’s traffic is routed through this 
+area, and large amounts of federal government data are 
+stored in the region’s data centers as well. 
+Dominion, the utility in Virginia, services these data centers 
+with electricity. Its web site shows that data centers 
+demanded over 500 MW of electricity in 2012, a quantity it expects to double by 2017. Unfortunately, Dominion’s 
+generation mix is comprised of almost entirely dirty 
+energy sources.
+87 Burning coal generates 38 % of the 
+state’s power; nuclear power plants generate 42 %; gas 
+generates 17 %. Renewable energy generates only 2 % 
+of the company’s power.88 Dominion’s long-term plan that 
+it submitted to regulators shows that it does not intended 
+on making any significant increase in its investment in 
+renewable energy over the next 15 years.89Data Centers Driving Utility Growth: Virginia
+
+034242 Clean energy index methodology (Column 2)
+Greenpeace has established the Clean Energy Index as a 
+response to the lack of useful metrics and publicly available 
+data to evaluate and compare the energy footprints of major cloud providers and their respective data centers.
+This lack of data is not due to the fact that data does 
+not exist. However, most companies remain unwilling to provide even the most basic information about both 
+the amount and source of their growing electricity 
+consumption. Despite a proliferation of metrics created by the industry (such as PUE) that attempt to quantify how 
+green a data center is as measured by energy efficiency, 
+very few companies report under newer metrics (such as 
+Green Energy Coefficient, GEC) that could shed any light 
+on the basic question: how much dirty energy is being used, and which companies are choosing clean energy to 
+power the cloud?
+The Clean Energy Index attempts to provide a basic 
+answer to this question, based on what can be gleaned 
+from the limited information available, and focusing on 
+recent investments of select brands and the current clean energy supply associated with each investment.
+Starting with an initial set of some of the largest cloud 
+providers, Greenpeace has attempted to identify two main inputs from a representative sample of their most recent 
+(five years or less) infrastructure investments. 
+Those inputs are:
+(1) Estimated size of electricity demand of each facility (in 
+megawatts);
+(2) Amount of renewable electricity being used to power it 
+(by percentage).This information is then used to approximate, initially on a 
+facility level, the number of megawatts of clean energy the 
+facility will consume. Having calculated a facility-level Clean 
+Energy Index for a representative sample of data centers, Greenpeace derives a company average of clean energy 
+percentage across its facilities.
+In compiling the information included in this report, 
+Greenpeace contacted all companies featured here and 
+asked for information regarding their data center facilities, and for information on their infrastructure siting and mitigation efforts. Greenpeace made estimates of data 
+center power demand available to companies for comment 
+in advance of publication, and issues raised by the companies are highlighted in footnotes on the scorecard.The above inputs are from the following sources:
+• Submissions by companies directly to Greenpeace
+• Public submissions by companies to reporting entities or 
+stakeholder publications
+• As defined by company when announcing investments• As reported by the media (in stories on the investments or 
+construction of facilities, etc.)
+• Electricity demand is derived by taking the announced 
+size of investment and deriving total number of MW, using 
+industry average cost per IT load ($15million US dollars per MW) multiplied by publicly available PUE for facility or, 
+if not available, 1.5 for new facilities.
+• If not reported by the company, the generation mix of the 
+electricity is taken from one of the following sources, as available, in declining order of preference:
+• The most recent published generation mix of the local 
+utility
+• In the U.S., the 2010 eGrid State level generation mix 
+(9th Edition) as reported by US EPA, or if not applicable, reported subregional eGrid generation mix
+• Outside the US, the European Commission and 
+International Energy Agency 2009 Statistics
+Important Note: This analysis does not attempt to 
+represent itself as a comprehensive snapshot of how much 
+clean energy is being consumed on a company-wide level. 
+Only the companies can properly provide that.
+Greenpeace would welcome the opportunity to incorporate 
+more detailed data to inform our analysis, as that would 
+likely provide a more complete and refined picture of cloud 
+providers’ energy use. As companies provide better data, Greenpeace will incorporate this into our evaluation and 
+encourage other companies to follow.
+For those companies that have adopted 100% renewable 
+energy targets and also provide facility-level energy details, 
+Greenpeace uses current consumption and renewable procurement data provided by the company instead of 
+ultimate facility capacity.Appendix 1
+Methodology
+
+43   43  Clicking Clean: 
+How Companies are Creating the Green InternetGreenpeace  
+USAAppendix 1
+Coal and nuclear intensity (Column 3)
+A company’s coal intensity is a simple calculation of the 
+approximate total percentage of coal-generated electricity 
+powering the company’s data centers. A company’s nuclear and gas intensities are similar: simple calculations 
+of the approximate total percentages of nuclear- and gas-
+generated electricity powering the company’s data center. This is calculated initially on a facility level, based on the 
+estimated maximum power demand of the facility and 
+the percentage of coal and nuclear-generated electricity supplied by the contracting utility or the local grid.
+The company-level intensity of coal, nuclear and gas 
+energy is rendered by adding the total MW of estimated 
+maximum power from coal, nuclear and gas generation 
+across the sample data center fleet, divided by the total estimated MW maximum power demand of the same 
+sample data centers.
+Energy transparency methodology (Column 4)
+Companies are evaluated on the scope and level of detail 
+made publicly available on energy consumption of IT 
+infrastructure that allow stakeholders and customers to evaluate the energy-related environmental performance 
+and impact at corporate, product, and facility levels. 
+Public information includes information from a company’s website, annual reports, and submissions to regulatory 
+agencies or information clearinghouses such as the 
+Carbon Disclosure Project.
+• For corporate and facility-level reporting, key elements 
+of information include: location and size of facilities; size of 
+electricity demand; generation mix and associated carbon content (including power purchase agreements specific 
+to the facility); and carbon intensity of data delivery and 
+storage. Reporting should include both owned and rented facilities.
+• For customer level reporting, companies should provide 
+regular energy and carbon footprint information (pre-offset) associated with the customers’ consumption, reported in a 
+manner consistent with established reporting protocols.
+Infrastructure siting methodology (Column 5)
+CCompanies are assessed on the strength of their 
+commitment to powering their data centers with renewable energy, including infrastructure siting criteria and investment decisions that enable the development 
+of the company’s IT infrastructure to maximize the use of 
+clean sources of energy, and avoid an increase in demand for coal or nuclear power to meet the growing demand for 
+electricity from their operations. High scoring companies 
+demonstrate:• Adoption of a 100% renewable energy commitment
+• A clean energy siting policy to prioritize IT infrastructure 
+investments or procurements that rely primarily 
+upon renewable energy as a source of electricity and discriminate against coal and nuclear power to meet 
+infrastructure electricity demand.
+• Consistent patterns of major infrastructure investment 
+decisions that increase or shift electricity demand to 
+renewable sources of electricity.
+•Commi tment to eliminate coal, nuclear and gas energy 
+from powering company infrastructure.
+Energy efficiency and GHG mitigation strategy 
+methodology (Column 6)
+CCompanies are evaluated on the strength of their strategies and measurable progress to mitigate the demand for dirty energy generated by their IT 
+infrastructure. The effectiveness and strength of a 
+company’s mitigation strategy is measured along the following guidelines:
+• Companies with absolute emission reduction goals 
+will be rated higher than those companies that adopt an 
+intensity-based target.
+• Companies participating in open-source sharing of 
+energy efficient design and equipment specification to 
+enable further learning & improvement within sector.
+ 
+Renewable energy investment and political 
+advocacy methodology (Column 7)
+Companies are evaluated on the strength of their 
+measurable progress and commitment to renewable 
+energy investments and actions taken to advocate for ambitious policies at all levels of government that 
+encourage wide scale renewable energy generation and 
+use. High scoring companies also demonstrate:
+• Efforts to meet electricity demand with the direct 
+installation of renewable energy, and the reduction of 
+emissions through higher efficiency, which will receive the highest marks.
+• Investments in clean energy supply and local energy efficiency mechanisms, which will be rated higher than 
+the purchase of offsets and renewable energy credits to 
+reach established environmental goals.
+• Proof of long-term commitment to renewable energy through local renewable energy developers.
+
+4444   
+Appendix 2
+Company scores 
+explained
+Akamai is one the largest global content distribution 
+networks (CDN), helping the bigger brand names in 
+this report and other online content providers deliver 
+their content faster to users around the world. Akamai delivers between 15% and 30% of internet traffic through 
+its network.
+90 As a CDN, Akamai’s network is highly 
+distributed, with over 127,000 servers spread across 1,100 data centers in 81 countries. Akamai’s highly 
+distributed business model and relationships across the internet ecosystem put it in a unique position to leverage 
+influence across its vendor network, particularly as a 
+growing number of its content customers have explicit goals related to energy efficiency and renewable energy.  
+Transparency: A
+Akamai has been an early leader among internet 
+companies in providing details on the carbon intensity of 
+its network data. Akamai continues to provide detailed submissions through the Carbon Disclosure Project, and 
+is now reporting its network’s use of renewable energy 
+by region of operation. Akamai will also provide to its customers a monthly carbon footprint associated with content delivery through the Akamai network servers. 
+Akamai provides the results of its annual sustainability 
+survey back to its vendor network, providing a benchmark to assist data center operators to understand how well 
+they are performing in relationship both to their customers’ 
+expectations, and to the competition.
+91 By providing 
+vendors with this information, Akamai is enabling better 
+awareness of energy and carbon management associated 
+with data consumption, which will hopefully trigger additional reporting and competition for environmental 
+performance.  Renewable Energy Commitment & Siting Policy: B
+Akamai’s distributed business model makes it more 
+challenging to choose only those data centers which 
+have access to renewable energy. Though its siting options are different, Akamai has been leveraging its 
+influence with data center operators through an annual 
+sustainability survey, and providing anonymous results to each vendor to inform them on how they compare with operators. Most significantly, Akamai’s recent 
+decision to shift its network labs, which it does control 
+directly, to a location with a mostly hydro-electric 
+powered grid, reflected the company’s commitment to 
+reduce the carbon intensity of its operations.
+Energy Efficiency & Mitigation: B
+Akamai has been aggressively improving its efficiency, 
+with annual targets to reduce greenhouse gas intensity 
+30% each year as it rapidly grows with the online world; the company has been achieving those goals. In 
+addition to educating its colocation providers on best-
+practice data center operations, Akamai has also been 
+seeking to gradually convert its flat-rate power contracts 
+to metered ones to provide a financial incentive to implement off-peak efficiency measures.
+92
+Renewable Enery Deployment & Advocacy: C
+Akamai’s decision to shift its Network Labs to a location 
+with renewable electricity available from the grid was an 
+important first step toward powering Akamai’s network with renewable energy. Due to its distributed business 
+model, Akamai has not made significant investments in 
+direct or grid purchases of renewable energy, but has begun to become more demanding of its colocation 
+providers for information on clean and low-carbon 
+energy options. Akamai should also be more proactive at taking the political advocacy necessary to shift toward 
+cleaner energy opportunities for the industry, as recently 
+demonstrated by its joining the climate declaration sent to US decision makers.
+93
+
+45  
+Greenpeace  
+USAClicking Clean: 
+How Companies are Creating the Green InternetAppendix 2
+Amazon Web Services (AWS), owned by Amazon.com, 
+has grown since its launch in 2006 into one of the largest 
+digital ecosystems of the online world. With an impressive 
+array of services and the ability to quickly scale based on demand, AWS now serves as the infrastructural 
+cornerstone of many of the most well-known online 
+brands, including Netflix, Pinterest, Spotify, and Vine. Unfortunately, despite its dominant position and well-
+established business model, AWS has dropped further 
+and further behind its competitors in building an internet that runs on renewable sources of energy, and is the least 
+transparent of any company we evaluated.  
+Transparency: F
+Despite a significant shift toward greater energy 
+transparency across the sector in the past two years, AWS still fails to make public even the most basic details on its 
+energy footprint or its source of electricity, beyond claiming 
+that its Oregon data centers are “carbon free.”
+94 Even 
+for AWS customers, detailed information on the carbon 
+footprint or energy mix of AWS data centers is not easily 
+obtained.
+Renewable Energy Commitment & Siting Policy: F
+Despite the recent adoption of 100% renewable 
+energy commitments by competitors Rackspace, Google, and Apple, AWS continues to rapidly expand 
+its global infrastructure without any apparent regard to 
+environmental impact or access to renewable energy. The AWS US-East availability zone in Northern Virginia 
+remains by far the largest, now with 10 data centers and 
+60% of EC2 servers
+95; it is powered by only 2% renewable 
+energy.96  Ireland comes in a very distant second.97 The 
+AWS US West (Oregon) region is located in an area that is 
+significantly served by hydroelectric power, but it is unclear 
+what generation mix AWS receives from the utility there, the Umatilla Electric Cooperative.Energy Efficiency & Mitigation: D
+AWS certainly has advantages over many in the cloud 
+sector given its raw scale, and it is clearly operating its 
+data centers at a high state of efficiency. AWS professes to have much higher utilization rates, and offers 
+products designed to increase utilization by offering 
+below-market cost server capacity at off-peak hours.
+98 
+However, AWS’ near complete lack of transparency 
+on its utilization or energy performance, and its lack of 
+energy efficiency targets, means that customers cannot 
+verify its high efficiency or compare it to other vendors, 
+and peers cannot learn from any of its best practices.
+Renewable Energy Deployment & Advocacy: F
+AWS continues to fall further behind other major data 
+center companies in procurement and investment in 
+renewable energy. While AWS has been willing to invest in the capacity to build its own 50-100 MW electricity 
+substations in order to maintain the grid’s ability to meet 
+the scale of its energy demand, it has failed to register a single investment or purchase of renewable energy.
+99  
+In sharp contrast to competitors Google, Apple, Rackspace and Microsoft, which are working with their electric utilities to increase the supply of renewable 
+electricity, AWS’ Oregon utility (Umatilla Electric) is 
+working to gut the state renewable energy law in order to avoid having to meet the higher renewable targets it 
+now faces as result of AWS’ rapid growth in electricity 
+demand.  (See Where the Cloud Touches the Ground,  p 40)
+100
+
+4646   Apple’s aggressive pursuit of its commitment to power 
+the iCloud with 100 % renewable energy has given the 
+company the inside track among the IT sector’s leaders 
+in building a green Internet. Apple has made good on its pledge by building the largest privately owned solar farms 
+at its North Carolina data center, working with its utility in 
+Nevada to power its upcoming data center there with solar and geothermal energy, and purchasing wind energy for 
+its Oregon and California data centers. Apple still has work 
+to do in some areas – its pledge gives it a strong reason to advocate in front of governments and utilities for renewable 
+energy-friendly policies, and 2014 is likely to offer several 
+opportunities where Apple can use its clout effectively. But on the whole, Apple’s commitment to renewable energy 
+has helped set a new bar for the industry, illustrating in very 
+concrete terms that a 100% renewable internet is within its reach, and providing several models of intervention for 
+other companies that want to build a sustainable Internet.
+Transparency: A
+In March 2013, Apple released a trove of information 
+disclosing the amount of energy it uses at all of its data 
+centers, as well as the principles and mechanisms it would use to meet the goal of powering those data centers with 
+100 % renewable energy.
+101 The data Apple released 
+gives its consumers confidence in its ability to meet its 100 % renewable energy goal. Apple’s report disclosed 
+the electricity needs of its Maiden, NC data center, and detailed how Apple will meet that demand with two 20 MW 
+solar installations, fuel cells, and limited use of renewable 
+energy credits. Apple has continued to update its web site with progress toward its 100% renewable goal for Apple-
+owned and operated facilities, and has also recently begun 
+to report basic details on its progress in achieving this goal for its online services hosted by colocation companies.
+102 
+Renewable Energy Commitment & Siting Policy: A
+Apple’s pledge to power its data centers with 100 % 
+clean energy should steer the company to build new data 
+centers in locations where renewable energy options are plentiful. This proved true in 2012, when Apple announced 
+that its next data center would be built near Reno, 
+Nevada, which has ample renewable resources. Apple 
+made good on that pledge in 2013, when it announced 
+that solar and geothermal resources would power the facility.
+103 Apple also established a procurement principle 
+that the renewable electricity it buys should come from 
+local sources where possible, and should displace dirtier 
+electricity in the same grid area.  
+Energy Efficiency & Mitigation  B
+Apple has gone to impressive lengths to mitigate the dirty 
+energy mix providing power to its largest data center in Maiden, NC, where utility Duke Energy services customers 
+with a mix of almost entirely coal, nuclear, and gas energy. 
+Apple’s installation of two large solar arrays and fuel cells has helped it displace a large amount of its electricity 
+demand from Duke. Apple has also provided evidence of 
+a number of innovative energy efficient design features at its NC data center.
+104  However, sharing more detail about 
+Apple’s energy efficient designs would help the IT sector 
+to learn from, and improve upon, Apple’s best efficiency 
+practices. 
+Renewable Energy Deployment & Advocacy: A
+Given the scale of its operations and growth, Apple’s 2012 
+pledge to power its data centers with 100 % renewable energy has put Apple on a path to being one of the biggest users of renewable electricity in the US. It began making 
+good on that pledge by doubling the size of its solar 
+installation at its Maiden, NC data center; it now owns two 20 MW solar facilities, the largest privately-owned 
+solar installations in the country. Additionally, Apple has 
+made a deal to source the electricity for its Reno, NV data center from 100 % solar and geothermal energy; Apple 
+partnered with utility NV Energy to build those renewable 
+resources. Apple is also demonstrating innovation and real commitment to its goals at its data center in Oregon, 
+overcoming regulatory hurdles to bring additional wind 
+energy to the facility via the state’s Direct Access program.
+Apple says it has increased the use of renewable energy at 
+its facilities from 35% to 75% over the past three years.
+105  
+Apple has not yet disclosed whether it will sign up for Duke 
+Energy’s 100% renewable energy tariff, or “Green Source 
+Rider” in North Carolina, which would help it reach its goal of 100 % renewable energy there without the need for 
+Renewable Energy Credits (RECs) as the facility continues 
+to grow. Apple joined other California companies in signing a call for US policymakers to address climate change in 
+Feb, 2014.
+106 
+
+47  
+Greenpeace  
+USAClicking Clean: 
+How Companies are Creating the Green InternetAppendix 2
+eBay is one of the best known internet brands, but it has 
+lagged behind other innovative companies in prioritizing 
+access to renewable energy when choosing the location 
+of its three data center facilities. However, eBay has recently taken several steps that indicate it is serious about 
+changing the options it has to buy renewable electricity 
+and otherwise reducing its data center energy footprint. Though still heavily reliant on coal, eBay’s Dashboard 
+Initiative has helped demonstrate an important innovation 
+in providing meaningful data about its energy use. eBay’s advocacy efforts in Utah have changed the landscape 
+for companies that would like to have alternatives to the 
+surrounding dirty grid.
+Transparency: A
+eBay has dramatically increased its energy transparency 
+at both a corporate and operational level. In the spring 
+of 2013, eBay launched its Digital Service Efficiency 
+Dashboard, which provides up-to-date metrics on its energy performance and is integrated into important 
+business performance metrics.
+107  The DSE dashboard has 
+helped drive a bigger conversation within the data center 
+sector on energy transparency, and how environmental 
+performance metrics are tightly connected to business 
+performance.
+Renewable Energy Commitment & Siting Policy: D
+eBay’s shift from colocation to owned and operated 
+facilities in 2008 has resulted in data centers that are all 
+in locations with grids powered by high percentages of 
+coal.108  These siting decisions were a major factor in 
+eBay’s failure to meet its 2012 greenhouse gas reduction 
+target of 15% below 2008 levels, instead coming in at 
+224% above the target.109  eBay claims that it now has 
+a siting policy that names renewable energy access as 
+an important priority for future growth. eBay has recently 
+adopted a near-term goal of at least 8% “cleaner” energy by 2015, but clear long-term and more transformational 
+goals for renewable energy would send a signal to eBay’s 
+customers and electricity vendors that the company is serious about achieving its long-term goal of becoming the 
+“leading global engine for greener commerce.”
+110Energy Efficiency & Mitigation: B
+Despite a dirty electricity grid powering each of eBay’s 
+three data center locations, the company has resisted the temptation to paper over its dirty energy problem by buying 
+Renewable Energy Credits. eBay has been particularly 
+aggressive in its efforts to clean up the electricity supply for its Utah facility, where it has deployed an innovative combination of fuel cells and electricity produced from 
+a nearby combined heat and power project. (See “eBay 
+Unplugs from a Dirty Grid”, p 29) Those mitigation efforts 
+have a big impact, since the grid is currently powered by 
+over 60% coal.
+111  eBay has established 2015 goals both 
+for efficiency (10% improvement) and for 8% “cleaner” 
+electricity sources, and is sharing details on both energy 
+efficiency and electricity supply innovations with other companies in the sector.  
+Renewable Energy Deployment & Advocacy: C
+eBay has deployed rooftop solar power at its Utah data 
+center, and its fuel cell installations, while not renewable, do dramatically reduce its reliance on a grid largely 
+powered by coal. Going forward, eBay must prioritize 
+energy sources that are truly renewable, not just those 
+that are cleaner than the surrounding grid. eBay has 
+demonstrated that it recognizes the importance of advocacy, both in achieving its own environmental goals 
+and for advancing greener commerce in the economy as 
+a whole. eBay successfully worked with legislators in Utah to pass a change to state law that would allow “non-utility 
+energy consumers to buy and transmit power directly from 
+renewable energy developers” for the first time.
+112 eBay 
+has also publicly supported key climate and clean energy 
+policy shifts at the federal and state level; it joined the 
+climate declaration sent to US decision makers.113  While 
+eBay is an active member of BICEP , it is also a member of 
+ALEC, which undermines its clean energy efforts.114   (See 
+“A stain on IT clean energy efforts: ALEC”, p 33)
+
+4848   Digital Realty Trust (DRT) is the largest digital landlord in 
+the world, with 131 data centers worldwide, roughly three-
+fourths of which are located in the US, 18% in Europe and 
+4% in Asia, totaling over 24 million square feet of rental space.
+115 Digital Realty operates on the wholesale end of 
+the colocation spectrum, providing both entire data center 
+properties to large customers like Equinix and Amazon 
+Web Services, and also renting portions of facilities to meet the needs of large online properties such as Facebook, 
+Rackspace, Salesforce, Google, Microsoft and Yahoo. 
+Digital Realty Trust was the first data center company to operate as a real estate investment trust, a special tax 
+status in the US designed to attract investment in real 
+estate without having to pay standard corporate taxes.
+Transparency: D
+Unlike some of its larger customers, DRT does not report 
+the energy or greenhouse gas footprint of its properties on 
+a company level, though it reports the energy capacity of 
+more than half of its facilities. Digital Realty Trust does not report its aggregate power consumption, but our survey of just over half of its facilities indicated a consumptive 
+capacity of over 1,000 MW.
+116 
+Renewable Energy Commitment and Siting Policy: D
+Digital Realty Trust does not have an overall goal for 
+driving renewable electricity to its facilities. As a wholesale 
+provider, DRT’s siting options are less flexible than some 
+cloud companies, but its massive size and penchant for concentrated growth in markets provides the company 
+with a great deal of opportunity to use its buying power to 
+demand or secure renewable electricity for its customers at an advantageous price. Energy Efficiency & Mitigation: D
+Digital Realty’s lack of both an energy reduction plan and 
+any transparency about its facilities’ energy mix makes it difficult to evaluate its overall performance. DRT claims 
+to be one of the early adopters of the Power Usage 
+Effectiveness standard to benchmark facility efficiency, but it does not indicate whether it uses other Green Grid metrics to measure carbon or renewable energy. Doing 
+so would help DRT’s customers to better measure and 
+manage their environmental performance. 
+Renewable Energy Deployment & Advocacy: D
+Given the scale of its operations and electricity demand, 
+DRT is almost certainly a very well-known and highly sought after customer by electric utilities. Energy regulators 
+in regions where it has major operations likely would be 
+interested in the company’s opinions as well. If DRT made a commitment to renewable electricity, working to phase 
+in clean energy in collaboration with its customers across 
+the globe, the company would become a driving force for building a green internet, far bigger than even Google 
+is currently. But aside from its recent collaboration with 
+Rackspace to secure renewable electricity for its UK data 
+center, DRT appears to be on a path that will extend the 
+business model of polluting utilities and hold back a large portion of the digital economy from being powered with 
+clean energy.
+
+49  
+Greenpeace  
+USAClicking Clean: 
+How Companies are Creating the Green InternetAppendix 2
+Dupont Fabros (DFT) is one of the largest wholesale data 
+center colocation providers in the US, providing large 
+blocks of data center capacity to a range of customers in 
+several major markets, including companies like Facebook and Yahoo which also build their own datacenters. DFT’s 
+largest market is Northern Virginia, with upwards of 
+200MW in data center capacity built or under construction there.
+Transparency: C
+Dupont Fabros does report on its web site the power 
+demand and energy performance of its cloud computing 
+service at the facility level.
+117  However, DFT does not 
+participate in the Carbon Disclosure Project or otherwise 
+report its total energy or carbon footprint. DFT states that 
+it will provide the carbon and energy footprint data upon request by its customers.
+118 
+Renewable Energy Commitment and Siting Policy: D
+Dupont Fabros does not state a public preference for 
+renewable energy supply when it sites its data centers, nor has it set a renewable energy target for future investments. 
+Its many data centers in Northern Virginia are powered by a 
+local utility, Dominion Energy, whose electricity is generated by a mix of coal, gas and nuclear energy, with no plans 
+to increase its minuscule usage of renewable power to 
+significant levels.
+119 Energy Efficiency & Mitigation: D
+As a wholesale colocation provider, DFT’s primary 
+opportunity for driving efficiency across its data centers is 
+in the design, monitoring, and management of the overall facility, but the performance of the servers is left to its 
+customers. DFT has implemented strong energy efficiency 
+practices for its Santa Clara data center. That facility is equipped with a dashboard to monitor some of the energy-related parameters, including temperature and power 
+usage. Dupont Fabros expects the real-time information 
+will help the facility to lower its PUE (<1.38).
+Renewable Energy Deployment & Advocacy: D
+DFT does not have a stated goal or vision to power its data 
+center infrastructure with renewable energy. The company did install 2.7 MW of solar arrays on the roof of its New 
+Jersey data center. Unfortunately, the company currently 
+has no further plans to invest in renewable energy for any of its other 10 facilities.
+
+5050   Equinix occupies a significant place in the digital economy, 
+as the largest retail colocation provider in the U.S.120. Equinix 
+customers include many of the other brands evaluated in 
+this report, including Apple, Salesforce and Box, which all 
+have made 100% renewable commitments. Equinix is also a customer of wholesale colocation companies like Digital 
+Realty Trust. With over 100 data centers spread around 
+the world, Equinix collectively consumed 1,830 GWh of electricity in 2012, the equivalent to 162,000 average U.S. 
+121 
+homes.
+Transparency: B
+Equinix has recently taken a big stride in its energy 
+transparency. With plans for a new green web portal, Equinix will provide a snapshot of its energy demand and related 
+greenhouse gas footprint, as well as electricity supply mix at a 
+regional level. That makes Equinix by far the most transparent of the collocation providers, but the company needs to go 
+beyond the regional level in its reporting, including through 
+such mechanisms as the Carbon Disclosure Project to facilitate year-over-year benchmarking. Equinix should also 
+report on resource-reflective metrics such as CUE and WUE.
+Renewable Energy Commitment & Siting Policy: D
+Equinix will hopefully follow its recent increase in energy 
+transparency by placing a higher priority on securing 
+renewable sources of electricity to power its data centers. To 
+date, Equinix does not have any commitment to increasing its amount of renewable energy. While colocation providers 
+do not have the same level of flexibility on where they site their 
+data centers, a long-term commitment to renewable energy and short-term targets are certainly within their grasp. As we 
+have seen with other companies, a commitment and targets 
+would likely increase Equinix’s leverage with electric utilities.Energy Efficiency & Mitigation: C
+Equinix does not currently have energy efficiency, 
+greenhouse gas, or renewable energy targets to guide its growth. However, Equinix has demonstrated in several of 
+its newer facilities a range of strategies to improve efficiency 
+or reduce the facilities’ energy and environmental footprint, including fuel cells, combined heat and power, and green roofs. With over 100 properties globally, Equinix should take 
+these strategies beyond pilots and bring them to scale, along 
+with setting ambitious targets to improve efficiency and 
+greenhouse gas performance.
+Renewable Energy Deployment & Advocacy: D
+While Equinix is able to claim a 25% renewable energy mix at 
+the global level, most of that is associated with the purchase 
+of Renewable Energy Credits (RECs) or the equivalent in 
+the European market.
+122  Given Equinix’s global reach and 
+concentration of buying power in major markets, if the 
+company turned its focus to steadily increasing its supply of 
+renewable electricity through a combination of investment, procurement, and advocacy, it could play an important role in 
+delivering a major part of a green internet.
+
+51  
+Greenpeace  
+USAAppendix 2 Clicking Clean: 
+How Companies are Creating the Green Internet
+Facebook continues to grow and dominate the global 
+social media landscape with 1.23 billion monthly active 
+users. Facebook has made huge strides forward since 
+2012 to become one of the clear green internet leaders. Radical improvements in transparency and efforts to 
+deliver significant wind energy investment in Iowa have 
+helped drive Facebook into the top tier of companies creating the green internet. By building on the advocacy it 
+has started with energy utilities to drive more clean energy 
+investment, and continuing to find ways to bring renewable energy to scale to power its data centers in North Carolina 
+and Oregon, Facebook is setting a clear bar for other major 
+social media networks and internet companies to follow.
+Transparency : A
+Following its shift to becoming a publicly held company, 
+Facebook has drastically improved its transparency with 
+annual reporting on its entire operation, broken down 
+by location, operations, energy source and purchasing contracts, with annual updates and comparisons. 
+Facebook’s efficiency dashboards have won industry 
+awards for innovation in sustainability reporting, including facility-level Power Usage Effectiveness (PUE) and Water Usage Effectiveness (WUE).
+123 
+Renewable Energy Commitment & Siting Policy: A
+Facebook was one of the first companies to publicly 
+announce a preference for renewable energy supply when 
+siting its data center infrastructure in 2011. The social 
+network subsequently selected Lulea, Sweden, which is powered by 100% hydropower, for its next data center.
+124  
+Facebook’s newest data center will be in Iowa, where its 
+agreement to purchase 100% wind power has directly 
+influenced the local energy utility to invest nearly $2 billion in wind energy to meet this significant increase in demand, 
+resulting in the largest single purchase of wind turbines in 
+the world.
+125 Energy Efficiency & Mitigation: A
+In addition to its long-term goal to be 100% renewably 
+powered, Facebook has also established a near-term 
+target to be 25% renewably powered by 2015 and is 
+regularly reporting on progress toward this goal. Facebook has continued to provide valuable leadership through the Open Compute Project, which it founded in 2010, and is 
+providing a critical forum to open-source energy efficiency 
+best practices in data centers, helping to reduce energy demand across the sector.
+126 
+Renewable Energy Deployment & Advocacy: B
+Facebook has made a significant investment in securing 
+a 100% wind contract in Iowa, which is helping to drive broader renewable energy investment in the state.
+127 
+Facebook, along with Google, Apple and other major 
+electricity consumers in North Carolina, played an 
+important role in pushing Duke Energy to create a new renewable electricity tariff, and is reported to be active in 
+Oregon to establish a similar tariff program in that state.
+128  
+Facebook needs to identify how it can leverage these new tariff programs to bring new renewable energy onto the 
+grid to power its operations in those states, or identify other 
+pathways that will bring new renewable energy on the grid 
+at scale to meet its rapidly growing energy needs. In 2014, Facebook joined Microsoft in advocating on behalf of 
+distributed energy generation to the Iowa Utilities Board.
+129 
+Facebook’s strong reputation for climate change and renewable energy advocacy was tarnished in 2013 when it 
+was revealed that the company donated money to CEI,
+130  
+a noted climate denying group, and became a member of 
+the American Legislative Exchange Council (ALEC) (see A 
+stain on IT clean energy efforts: ALEC, p 33).131 
+
+5252   Google has continued to lead the major internet brands in 
+purchasing renewable energy at scale to power its massive 
+online ecosystem. The company is now reporting electricity 
+consumption of 3,315 GWh, with 34% of its operations powered by clean energy. Google’s use of power purchase 
+agreements (PPAs) to procure clean energy has been 
+adopted by others in the sector, like Microsoft, and it has successfully influenced utilities in Oklahoma and North 
+Carolina to offer new renewable energy options by using its 
+immense business clout. As Google expands its footprint to Latin America and Asia, it will need to maintain its innovative 
+edge to make sure that it continues to source clean energy 
+even in countries that feature dirty electric grids. 
+Transparency: B
+Google has steadily increased the level of detail it makes 
+public on its energy footprint, particularly with regard to 
+its renewable energy procurement and policy advocacy.   
+Google has provided important intellectual leadership to the sector by publishing white papers on its renewable 
+energy principles,
+132  hosting conferences with peers on 
+how to make the Internet greener,133  and publishing a 
+robust web site explaining its energy footprint.134  Google 
+provides detailed reporting on its facilities’ PUE135  and also 
+a detailed snapshot of its corporate energy footprint to the Carbon Disclosure Project.  However, unlike Rackspace, 
+Facebook and Apple, Google has yet to report the energy demand, grid mix, or carbon emissions for each of its data 
+centers at a facility level or regional level, or provide details 
+on its data center footprint among its colocation vendors.
+Renewable Energy Commitment & Siting Policy: B
+Google has committed to power its data centers with100 % 
+renewable energy, an impressive goal given the scale of the 
+company’s operations. Google also applies a shadow price 
+for carbon when it is deciding where to build its next data centers. However, Google faces serious challenges to keep 
+its renewable commitment on track given its recent growth 
+in Asia. While Google scrapped plans to build a data center in Hong Kong,
+136  the company has recently opened or 
+expanded facilities in Singapore,137  Taiwan,138  and Chile,139  
+locations which have fossil fuel heavy electric grids. Google 
+has an opportunity to lead the industry again, this time in 
+finding renewable energy solutions in Asia, a region where the digital economy is experiencing rapid growth and which badly needs clean energy leadership from the private sector.Energy Efficiency & Mitigation: B
+Google continues to demonstrate considerable innovation 
+in improving the performance of its data centers,
+140  and 
+has published details and held industry events that 
+highlight its best practices in energy efficiency.141  Recent 
+Innovations include using seawater for cooling at Google’s Finland location
+142 and thermal energy storage at its Taiwan 
+location.143
+Aside from its long-term goals to be carbon neutral and 
+100% renewably powered, Google has not established 
+near-term benchmarks for either its carbon intensity or 
+renewable energy procurement. As Google’s growth will increasingly be outside the US, near-term targets will be 
+critical to guiding this next phase of growth, or Google will 
+lose its ability to reach its carbon-zero goal without the heavy use of carbon offsets.
+Renewable Deployment & Advocacy: A
+Google has been the pioneer in the IT sector when it 
+comes to innovating new ways to power its operations 
+with renewable energy. The company reports that its use 
+of renewable sources of electricity currently stands at 34%.
+144 Google’s tactic of purchasing renewable energy via 
+power purchase agreements (PPAs) has helped green its 
+data centers in Iowa, Oklahoma, Texas145 and Finland.146  
+Other tech companies, such as Microsoft, have since adopted this technique that Google pioneered. In addition 
+to side-stepping utilities through the use of PPAs, Google worked with the Grand River Dam Authority (GRDA) in 
+Oklahoma on a deal that resulted in the GRDA making 
+its first renewable energy investment, for 48 MW of wind energy.
+147  Google also used its data center expansion 
+in North Carolina as leverage to push Duke Energy, the 
+nation’s largest utility, to offer its first ever Green Source 
+Rider, which would allow large customers like Google to purchase 100 % renewable energy.
+148  In addition to 
+greening its data centers, Google has invested over $1 
+billion in 15 renewable energy projects, good for 2 GW of 
+clean power.149 
+Google advocated for an extension of key wind energy tax credits in the US, and its philanthropic arm offered $2.5 million to the Energy Foundation to support policy 
+reforms leading to more intelligent energy use.
+150 Google’s 
+otherwise impressive pro-renewable energy political advocacy is dampened by its decision to join the American 
+Legislative Exchange Council (ALEC),
+151 which is actively 
+fighting to dismantle renewable energy policy at the state 
+level. Google also contributed political donations to a noted 
+climate denying group in 2013, the Competitive Enterprise Institute.
+152 (See “A stain on IT clean energy efforts: ALEC”, 
+p 33)
+
+53  
+Greenpeace  
+USAClicking Clean: 
+How Companies are Creating the Green InternetAppendix 2
+HP both provides hardware to internet companies and 
+is expanding its own cloud business to compete in the 
+enterprise market. The company maintains an impressive 
+level of corporate-wide transparency and accountability on reducing its emissions, but it could improve public 
+disclosure on how it is applying its labs division’s innovation 
+to reduce the energy footprint of its data center fleet. HP does have a corporate-wide emissions reduction target for 
+2020 that includes data centers. The company is slowly 
+increasing its purchasing of renewable energy via a limited number of on-site solar installations and a mixture of direct 
+purchasing and Renewable Energy Credits. However, HP 
+is not showing the overall leadership needed to ensure its cloud expansion is driving demand for clean energy.
+Transparency: B 
+HP has a high level of transparency on a company-wide 
+level, but beyond the consolidation of its data center 
+footprint, HP does not provide any specific disclosure on its own data center operations. This lack of transparency 
+about its own data center footprint means that current and 
+potential future customers of HP data centers are unable to compare HP’s services to others.Renewable Energy Commitment & Siting Policy: D
+HP has touted the energy efficiency gains obtained through 
+its server and data center consolidation over the last five-plus years, but the company selected some of the dirtiest 
+parts of the U.S. electricity grid to site its data centers: 
+Houston and Atlanta.
+153  Even though HP is increasing 
+the amount of renewable energy purchased, the growth of its data center fleet underlines the importance for the 
+company to implement stronger prioritization of renewable 
+energy in order to achieve its targets for greenhouse gas 
+mitigation and renewable energy usage targets.
+Energy Efficiency & Mitigation: B
+HP has a comprehensive emissions reduction target for 
+its overall operations (20% by 2020 from a 2010 baseline) 
+which includes all its owned and client-serving data 
+centers.
+154  HP continues to produce research papers from 
+its Labs division on increasing data center efficiency and 
+reducing power demand, but it does not provide much 
+new information on how it is specifically applying that work to its own data centers. Project Moonshot products do 
+have significant potential to reduce server energy demand, 
+but to date there is limited data available on its adoption.
+155 
+Renewable Energy Deployment & Advocacy: C
+HP operates a larger, more diversified business than 
+some other companies assessed in this report. While HP purchases a small percentage of renewable energy 
+(13% in 2012),
+156  it has increased renewable purchasing 
+(in addition to grid supply) 60% since 2010. HP has been more active than most technology companies 
+in advocating for better energy policy; most recently it publicly supported extending the US wind tax credit.
+157 
+
+5454   IBM continues to shift from being a hardware company 
+to an increased focus on services delivered by cloud 
+computing, announcing a $1.2 billion investment in 
+expanding its global cloud business and data center fleet.
+158  In addition to maintaining its impressive track 
+record on cutting corporate emissions, IBM has added 
+a limited amount of increased transparency in its data 
+center operations in its 2012 Environment report, along with an increase in renewable energy purchasing.
+159  As 
+it continues to scale its investments in cloud-related 
+infrastructure, IBM needs to identify how it will secure 
+a renewable electricity supply, and use its influence to demand clean energy and boost its direct renewable 
+energy purchasing in the US.
+Transparency: C
+IBM participates in the Carbon Disclosure Project voluntary 
+reporting program and provides significant, detailed information on the total greenhouse gas (GHG) emissions 
+of its business. IBM has added more details about its data 
+center operations, but doesn’t offer the same standard of facility-level data accompanies like eBay, Equinix and Facebook.
+Renewable Energy Commitment and Siting Policy: D
+IBM does not have a specific siting policy for new data 
+center construction, apart from a stated aim to secure 
+more renewable energy across its operations.
+160  As IBM 
+has recently announced a large geographic expansion of 
+its data centers, including a planned expansion in China, 
+it is crucial that the company implements a robust siting policy to ensure that its new sites are driving demand for 
+clean instead of dirty energy. Energy Efficiency & Mitigation B
+IBM has engaged in comprehensive emissions reductions 
+and energy efficiency work, with the company achieving 
+significant absolute GHG reductions over the past few 
+decades. The company’s 2012 annual report of energy savings details energy efficiency measures and renewable energy purchasing at its current data centers.  IBM also 
+has developed products for better integrating renewable 
+energy in power grids and load shifting to better match renewable energy outputs.
+163 To show its customers how 
+it plans to keep becoming more efficient, IBM should announce new energy saving goals, which it has not done since 2012. 
+Renewable Energy Deployment & Advocacy: C
+IBM reports that in 2012 it purchased 4990 MWh of 
+renewable power from utilities, which represented 9.8 % of its global electricity usage and resulted in the avoidance 
+of 212,000 metric tons of CO2 emissions.
+164  Including 
+renewable energy available on the grid, IBM’s total renewable energy percentage was 15% in 2012, up from 
+11.2% in 2010.
+165  IBM’s purchase of renewable energy is 
+concentrated in Europe, according to the company’s CDP 
+submission. IBM could show how it will apply its smart 
+grid renewable energy integration solutions to its own data center operations, and otherwise leverage its close ties to 
+electric utilities to ensure that its expansion of cloud data 
+centers creates demand for additional renewable energy capacity. IBM set a positive example for the sector by 
+leaving the American Legislative Exchange Council (ALEC), 
+which is actively attacking renewable energy policy at the state level.
+166
+
+55  
+Greenpeace  
+USAClicking Clean: 
+How Companies are Creating the Green InternetAppendix 2
+With the adoption of its “Carbon Neutral by 2013” plan 
+in May 2012, Microsoft sought to project that it had 
+become more proactive in managing its energy-related 
+environmental footprint.167  While Microsoft’s adoption of an 
+internal carbon tax168 offered the potential to drive efficiency 
+within the company, it is still unclear whether Microsoft 
+will pursue a path to power its cloud that is innovative and 
+disruptive, or one that maintains the status quo. To achieve its goal of becoming “carbon neutral” virtually overnight, 
+Microsoft has thus far relied heavily on buying Renewable 
+Energy Credits (RECs) (see Moving Away from RECs, p 20) and carbon offsets, creating the appearance on paper of 
+being clean but not altering Microsoft’s status quo supply 
+of dirty electricity.
+169  Microsoft’s recent announcement 
+to sign a long term purchase agreement for wind power 
+near its Texas data center is an important development, 
+and hopefully indicates that Microsoft has decided to join its competitors Google and Apple to apply its talents and 
+resources toward building an internet that is green in real 
+life, not just on paper.  
+Transparency: C
+Microsoft continues to provide detailed corporate reporting 
+of its energy and environmental footprint through the Carbon Disclosure Project, but its data center energy 
+transparency has actually decreased since announcing its 
+intent to become “Carbon “Neutral.”
+170  In its 2012 CDP 
+Report, Microsoft reported over 147MW of data center 
+demand, but in 2013, Microsoft declined to report data 
+center electricity demand at all. Microsoft’s backpedaling stands in stark contrast to the significant improvement in 
+transparency overall in the sector in the past two years, 
+particularly by Facebook, eBay and Apple.
+Renewable Energy Commitment and Siting Policy: C
+Microsoft continues to invest heavily in cloud computing, 
+with $15 billion invested in related infrastructure and new 
+data center expansion in Ireland and Brazil in 2013, along 
+with continued growth in the US, particularly to support its X-Box platform.
+171  Microsoft continues to lack clear policy 
+or goals on sourcing clean energy for its current and future 
+data centers. While data centers are part of Microsoft’s 
+Carbon Neutral and carbon price policy established in 2012, the company’s rapid expansion of data center infrastructure in the past two years does not reflect any meaningful prioritization of siting in locations with access 
+to renewable energy.
+172  Microsoft’s heavy reliance on 
+carbon offsets and RECs to achieve its “carbon neutrality,” combined with the company’s rapid expansion to keep 
+pace with Google and Amazon, places it on a dangerous path of fueling dirty energy growth. Microsoft risks locking 
+itself into a long-term supply of dirty energy if it continues 
+not to commit to becoming 100% renewably powered as Apple, Facebook, and Google have done.  
+Energy Efficiency & Mitigation: C
+Microsoft appears to have replaced its previous specific 
+renewable energy and greenhouse gas targets with its 
+“Carbon Neutral” policy adopted in 2012.
+173  Microsoft’s 
+adoption of an internal carbon tax across its operations 
+has significant promise to help drive emissions reductions 
+and serve as a useful model for others. The company has helpfully published a “Carbon Fee Guide”
+174  so that others 
+can learn from its experience. While revenue from this 
+internal tax could become an important stream of funding 
+for actually procuring or investing in renewable electricity, much of the current effort goes to greenhouse gas offset projects, such as methane capture from landfills, rather 
+than reducing the amount of dirty energy in Microsoft’s 
+electricity supply chain.
+175
+Renewable Energy Deployment & Advocacy: C
+Until 2013, Microsoft’s approach to renewable energy 
+has primarily focused on simply buying renewable energy 
+credits, which often have little or no direct effect on creating new renewable energy demand.
+176  In November 2013, 
+Microsoft announced its first direct 20-year power purchase 
+agreement in Texas, which will bring new wind energy to 
+the same electricity grid as its data center.177  While this is 
+an important first step for Microsoft, the company must 
+quickly accelerate its efforts just to keep pace with its rapid 
+data center expansion. Microsoft has become more active on the policy front, including support for extending the 
+US wind energy tax credit in 2012,
+178  joining the climate 
+declaration sent to US decision makers,179  and writing a 
+recent joint letter with Facebook to the Iowa Utilities Board in support of distributed energy generation.
+180 
+
+5656   The world’s second-largest software company,181  Oracle 
+provides enterprise-scale software products and computer 
+hardware systems to the world’s largest corporations. Like 
+others in this space, Oracle is now making a bigger play for cloud-based offerings, even partnering with Amazon Web 
+Services to offer some of Oracle’s products via the AWS 
+cloud. Oracle powers its own cloud services and solutions through its three main data centers in Texas, Colorado and 
+Utah, with four smaller facilities elsewhere. Like others, 
+Oracle has focused on efficiency in its servers and data centers, but it lags behind sector leaders in building a 
+renewably powered digital economy.
+Transparency: C
+Oracle reports the standard level of detail on the 
+company’s greenhouse gas emissions and energy consumption to the Carbon Disclosure Project, but it 
+discloses only a portion of energy-related information 
+about its data centers at a fleet-wide or facility level. Those data centers reflect nearly 40% of Oracle’s greenhouse gas 
+footprint.
+182  Oracle does not disclose its corporate-wide or 
+data center energy mix, nor has it indicated that it shares 
+the carbon footprint of its services with consumers.Renewable Energy Commitment and Siting Policy: F
+Having previously consolidated its data center operations, 
+Oracle is now undergoing a significant expansion, 
+announcing its intention to operate 17 data centers 
+globally.183  Lacking a meaningful commitment to 
+renewable energy, in contrast to competitors Rackspace, Google and Salesforce, Oracle is likely to continue to 
+fall further behind industry leaders as it undergoes its 
+expansion.
+Energy Efficiency & Mitigation: D
+While Oracle has established a modest carbon intensity 
+reduction goal of 10% per employee by 2016, it expressly excludes data centers.  With regard to data center 
+operations, Oracle only has in place a Power Usage 
+Effectiveness-based reduction goal of 6% over its 2010 base year by 2016.
+185 Oracle had previously established a 
+renewable electricity goal for its data centers, but has not 
+renewed that goal since it expired in 2010. Oracle needs 
+to reestablish energy performance and renewable energy goals that are applicable to its data center operations.
+Renewable Energy Deployment & Advocacy: D
+Having let its previous renewable electricity goal for its 
+data center expire, Oracle still purchases 5% of its Austin 
+data center’s electricity demand from renewable sources, down from the 25% it had previously claimed.
+186 Unlike its 
+Utah neighbor eBay, Oracle has not been active in pushing 
+for policies that will increase the amount of renewable 
+electricity in that coal-heavy state.187
+
+57  
+Greenpeace  
+USAClicking Clean: 
+How Companies are Creating the Green InternetAppendix 2
+Though not a household name, Rackspace is well-
+known within the IT sector as one of the leading cloud 
+and managed hosting providers, and a strong supporter 
+of open-source computing platforms. Rackspace has begun to embrace a leadership role in supporting a 
+digital economy that is powered with renewable energy. 
+The company adopted a commitment to become 100% renewably powered in 2012 as part of a forward 
+thinking energy policy, and is now in its early stages of 
+operationalizing this commitment.
+188 
+Transparency: C
+Rackspace regularly reports the total amount of energy 
+demand across its data centers, as well as the full 
+capacity under reserve. However, Rackspace does not yet 
+participate in the Carbon Disclosure Project or otherwise publicize details of its energy and environmental footprint 
+that would allow for customers and stakeholders to track 
+its progress toward its 100% commitment. 
+Renewable Energy Commitment and Siting Policy: B
+Rackspace’s Global Energy Policy, adopted in 2012, 
+establishes its goal to be 100% renewably powered.
+189  
+The policy provides a solid framework for guiding the 
+company’s journey to becoming a leader in building a 
+sustainable digital economy, identifying energy efficiency, renewable energy, and energy advocacy as critical pieces 
+of the company’s long-term strategy. Though Rackspace 
+has not begun to build its own data centers, its policy and recently adopted green leasing guidelines appear to be 
+informing its most recent expansion in the UK, and the 
+renewable supply of electricity it has contracted to support its growth there.
+190 Energy Efficiency & Mitigation: C
+With the long-term goal in place, Rackspace needs to 
+identify shorter-term benchmarks on both energy efficiency 
+and renewable energy. Those shorter-term benchmarks, along with greater energy transparency, should help the 
+company demonstrate its improved performance and 
+commitment to renewable sources of energy to investors and stakeholders as it continues expanding. Rackspace has been an early and active contributor to the Open 
+Compute Project, helping to drive open-source energy 
+efficiency best practices.
+Renewable Energy Deployment & Advocacy: C 
+Rackspace currently is able to claim it is 35% renewable 
+powered.
+191 While some of that claim comes from buying 
+a greater supply of bundled renewable energy to meet the 
+needs of its UK data centers, a significant portion of this, 
+particularly among its US footprint, is through the buying of Renewable Energy Credits (RECs).
+192 Rackspace has 
+indicated that it hopes to sunset its REC-only purchases in 
+the at some point, though it has yet to set a timeline for that 
+phase-out. The company says it is currently exploring more 
+innovative options for bringing about a 100% renewable 
+Rackspace.
+
+5858   
+Salesforce is the biggest name in online enterprise 
+software, growing at over 30% in 2013. Salesforce took 
+a leadership position by committing in March 2013 to 
+base its growth on renewable energy, adopting a 100% renewable policy and siting policy that puts priority on 
+renewables.
+193  Salesforce now needs to show clearly 
+how its policy is being implemented across its operations, especially as the company rapidly expands.
+Transparency: B
+Salesforce has improved its transparency with the launch 
+of its first ever sustainability report for the 2012 fiscal year.
+194 The report discloses overall greenhouse gas (GHG) 
+emissions, relative GHG emissions per employee and 
+revenue, and efficiency metrics for rented datacenters. 
+Salesforce also discloses its emissions per facility via the Carbon Disclosure Project. 
+Renewable Energy Commitment and Siting Policy: B
+In March 2013, Salesforce released its commitment to 
+100% renewable energy, one of the first companies that 
+does not own its own data centers to do so.
+195 Salesforce 
+also adopted a more explicit siting policy that states a preference for renewable energy, including with its 
+colocation providers. It is demonstrating that policy with the announcement of its first UK data center, which will be 
+100% renewably powered.
+196  Energy Efficiency & Mitigation: C
+Salesforce reports efficiency by comparing in-house 
+hosting against Salesforce solutions and the Power Usage 
+Effectiveness (PUE) of its data centers. While it recognizes the limitations of a pure PUE measurement, Salesforce 
+does not yet have a clear efficiency target or action plan for 
+increasing the efficiency of its data center operations. 
+Renewable Energy Deployment & Advocacy: C
+Salesforce made a big step forward with the renewable 
+energy policy it released in March 2013, and has followed that up with a new data center in the UK that will be 100% renewably powered. But Salesforce has thus far not taken 
+any steps to change its electricity supply in the U.S., 
+despite its continued rapid expansion and a renewable energy mix that is significantly lower than that of many of 
+its competitors.
+197 Though it had been active in the past, 
+Salesforce has recently been quiet in its support for climate and renewable energy policies.
+ 
+
+59  
+Greenpeace  
+USAClicking Clean: 
+How Companies are Creating the Green InternetAppendix 2
+Telecity is one of the largest retail colocation providers 
+in Europe, operating in 12 major markets across the 
+continent and providing a European home for major online 
+properties such as streaming music platform Spotify and professional social network Xing.  
+Transparency: C
+Telecity started reporting its overall corporate greenhouse 
+gas emissions in February, 2014. However, the company’s 
+disclosure does not break down emissions on a facility or even a country basis.
+198 Telecity is, however, one of the few 
+companies reporting Carbon Usage Effectiveness (CUE), 
+and the only colocation provider to do so thus far. Telecity 
+falls short of the level of transparency shown by one of its main competitors, Equinix, which provides a snapshot of 
+its energy demand and discloses its electricity supply mix 
+at the regional level.
+Renewable Energy Commitment and Siting Policy: D
+Telecity’s environment policy makes no mention of 
+renewable energy.
+199 Telecity has been expanding its 
+data center operations without offering the public any 
+information on how it intends to power that expansion with 
+an increased demand for clean energy.Energy Efficiency & Mitigation: C
+Telecity reports its CUE performance and is the only 
+company with a target to improve its CUE on an annual 
+basis until 2016. Telecity highlights on its web site that it gained a Carbon trust standard recognition for “achieving 
+a 13.5 percent reduction [in carbon efficiency] over the 
+assessed period, benchmarked against revenue.”
+200 The 
+recognition indicates that Telecity does have a plan to 
+address its energy demand, but the company has not 
+provided any useful information about how it will mitigate 
+its expanding use of dirty energy.
+Renewable Energy Deployment & Advocacy: D
+The only specific information on renewable energy 
+sourcing available from Telecity is a 2008 announcement 
+to purchase 21% renewable energy from the French 
+utility EDF for its Paris data center.201 However, a lack of 
+up-to-date and comprehensive information on Telecity’s 
+approach to renewable energy falls far short of sector 
+leaders, and even below what Equinix is offering its customers in the European market.
+202
+
+6060   
+Twitter’s public offering in 2013 marked the latest chapter 
+in the growth of a company that has changed the way 
+people around the world communicate. Twitter does not 
+yet own any data centers of its own, instead renting from wholesale colocation facilities operated by Raging Wire 
+and QTS. The microblogging platform has remained silent 
+about the type and amount of electricity that is powering those data centers, despite the fact that the company’s 
+new investors would benefit from knowing the potential 
+risks of Twitter’s energy footprint, such as those posed by rising fossil fuel prices or future carbon policies. Twitter’s 
+recent data center investments make it clear that the 
+company’s footprint is expanding to accommodate its continued growth in users and data, particularly as it 
+becomes more and more a platform for photo and video 
+sharing.
+203 As it was two years ago, Twitter remains at the 
+bottom of the industry for energy transparency, disclosing 
+no information about its energy footprint. Twitter lags 
+behind companies like Salesforce and Box, which have shown that it is possible for those leasing data center 
+space to commit to a long-term goal of being 100 % 
+renewably powered. Twitter also lags behind its peer and competitor in social media, Facebook, which took steps to 
+adopt clean energy soon after it went public. 
+Transparency: F
+Twitter remains at the bottom of the industry for its lack of 
+transparency, having disclosed essentially no information 
+about the company’s energy footprint. Twitter does not file 
+any data with the Carbon Disclosure Project, and releases no information to its users about the platform’s energy 
+demand or its energy mix. Renewable Energy Commitment and Siting Policy: D
+Twitter hosts its rapidly growing data footprint by leasing 
+wholesale space in data centers that it does not own. Thus far, Twitter has not shown that it is considering its energy 
+footprint at all when it chooses where to make those deals. 
+It continued to expand its data footprint at a Sacramento, CA
+204 data center, which has a relatively cleaner electricity 
+mix, but also has expanded its footprint in Atlanta, GA,205 
+where it spent up to $300 million on an expansion in the 
+end of 2012. The local utility in Georgia offers virtually no 
+renewable energy and powers the grid almost exclusively 
+with coal, gas and nuclear energy.206
+Energy Efficiency & Mitigation: F
+In stark contrast to competitors like Facebook, which has 
+led the field with its Open Compute Project to increase 
+data center efficiency sector-wide, Twitter has provided no information on efficiency or mitigation measures at 
+any of its data center sites. Twitter’s lack of transparency 
+makes it impossible to know what, if any, notable efficiency measures the company employs. 
+Renewable Energy Deployment & Advocacy: F
+Twitter has made no public effort to procure renewable 
+energy for its data centers or advocate for a greater renewable energy mix with its utilities or with policymakers 
+at the state or federal level. While other technology 
+companies have accepted some responsibility – and recognized an opportunity to exercise their trademark 
+disruption in positive ways by engaging in energy issues 
+– Twitter has remained silent. As it continues to grow, it should consider the actions of peers like Facebook, 
+and other data renters like Box and Salesforce, all of 
+which have committed to a goal of powering with 100 % renewable energy.
+
+61  
+Greenpeace  
+USAClicking Clean: 
+How Companies are Creating the Green InternetAppendix 2
+Verizon Terremark, formed by Verizon’s $1.4 billion 
+purchase of Terremark in 2011, has emerged as one 
+of the larger telecom/cloud hybrid companies, and has 
+been rapidly expanding since the merger to allow it to compete with AWS and others for the business and 
+government cloud markets. While the parent company 
+Verizon announced in April 2013 that it plans to invest over $100 million in renewable energy across its operations, it 
+is unclear the extent to which this investment has helped 
+drive deployment of renewable energy for the Verizon Terremark datacenters.
+207 Verizon reported over 165 MW 
+of data center power consumption in 2012.208 
+Transparency: C
+Verizon Terremark’s parent company Verizon provides 
+detailed energy and carbon reporting both from its web 
+site and its CDP submission, including its total data center 
+power consumption and carbon per terabyte.209 However, 
+the company does not provide a distinct breakout on 
+what is happening within Verizon Terremark, nor does the 
+company provide carbon footprint details to its customers for their use of data center services. 
+Renewable Energy Commitment and Siting Policy: D
+Neither Verizon Terremark nor its parent company has 
+established a goal or policy for directing their data center 
+investment toward renewable sources of energy. While 
+Verizon’s 2013 announcement that it plans to invest $100 million in renewable energy is significant, it is not clear that 
+this is part of a longer-term commitment to increase the 
+supply of renewable energy to Terremark’s data centers.Energy Efficiency & Mitigation: B
+Parent company Verizon has established a mid-term goal 
+to reduce carbon intensity by 50% by 2020 (from a 2009 
+baseline) for the data that traverses Verizon’s networks, as 
+well as a near-term goal to derive 15 MW from renewable resources by 2014 across its entire operations.
+210 To help 
+increase the incentive for its data center customers to improve the efficiency of their servers, Verizon Terremark 
+will be shifting the pricing model for colocation customers 
+to one that does not require them to pay for data center 
+space they are not using, creating a model that increases 
+flexibility and places the incentive to improve efficiency on the end customer.
+211 
+Renewable Energy Deployment & Advocacy: C
+Parent company Verizon’s 2013 announced that it is 
+investing $100 million in renewable energy as part of its 
+plan to reduce the carbon intensity of its data by 50%.212   
+Verizon should offer more concrete plans to indicate how 
+its goals will be operationalized across Verizon Terremark’s 
+data center operation.
+ 
+
+6262   
+Yahoo has been expanding its online platform via 
+acquisitions such as Tumblr, and it owns a stake in 
+Alibaba, the Chinese e-commerce giant. While Yahoo has 
+previously been a leader in clean energy procurement, it has lost ground as others have become more innovative 
+and aggressive in increasing their renewable energy 
+supply. Still, Yahoo’s decision to shift more capacity to its New York State data center and increase purchasing 
+of hydropower means the company maintains a high 
+percentage of renewable energy in its mix. 
+Transparency: C
+While Yahoo has provided more detail about its energy 
+footprint in its annual submission to the Carbon Disclosure 
+Project than its competitors, the company’s level of 
+carbon disclosure has remained largely unchanged while Facebook, Apple, Google, and eBay have significantly 
+raised the bar on their energy transparency. 
+Renewable Energy Commitment and Siting Policy: B
+Since 2009, Yahoo has made steady progress to reduce 
+the environmental footprint of its operations by focusing 
+both on making its data centers highly efficient and by increasing the amount of renewable energy used to power 
+them. Yahoo has a short-term commitment to reduce the 
+carbon intensity of its data centers by 40% by 2014, and its recent decision to move out of its colocation space in 
+fossil fuel-heavy Virginia is the latest positive step down 
+that path.
+213 Energy Efficiency & Mitigation: B
+Yahoo has started to consolidate its data center operations 
+to bring more of its global operations into its very efficient “chicken coop” design, announcing in 2013 plans to 
+expand its New York State data center and reduce its 
+dependence on less efficient, rented data centers.
+214 
+Renewable Energy Deployment & Advocacy: B
+Yahoo’s data centers in New York and Washington State 
+rely on clean hydropower, and Yahoo has negotiated an agreement for increasing its allotment of hydropower to power its continued expansion.
+215 Yahoo has been active 
+in clean energy advocacy, most recently supporting an 
+extension to the US wind energy tax credit.216 
+
+
+
+Estimated 
+Nameplate  
+Power CapacityClEAN ENERGy INDEx 17%
+NATuRAl GAS -%  /  COAl -%  /  NuClEAR -%  
+% of Clean  
+Energy Supply  
+to Data CenterResource Mix of local utility
+0.2
+1
+5
+16
+0.5
+0.3Africa Total
+Asia Total
+Europe Total
+North America Total
+Oceania Total
+South America Total0%
+4%
+22%17%
+8%
+41%Natural Gas Nuclear CoalAkamai’s energy consumption is spread across 1,100 data 
+centers around the world, making individual tracking difficult. 
+Regional demand and renewable energy data from Carbon 
+Disclosure Project and information provided by company.Facility  
+location
+Estimated 
+Nameplate  
+Power CapacityClEAN ENERGy INDEx 15%
+NATuRAl GAS 25%  /  COAl 28%  /  NuClEAR 27%  
+% of Clean  
+Energy Supply  
+to Data CenterResource Mix of local utility
+131
+17
+183014
+8
+2uS East (Virginia)  
+(10+ Data Centers)
+uS West (Oregon)
+uS West  
+( N.California)
+Eu (Ireland)
+Asia Pacific (Tokyo) 
+Asia Pacific 
+(Singapore)
+South America  
+(Sao Paulo)2%
+86%
+30%20%10%
+1%
+78%17%
+1%
+27%54%43%80%
+8%42%
+8%
+21%
+0%2%0%
+2%38%
+4%
+0%
+25%28%
+0%
+2%Natural Gas Nuclear CoalAmazon Web Services does not provide data about its electricity 
+demand. Greenpeace estimated data using a combination of publicly 
+reported investment data and independent estimates of Amazon’s servers counts by region, found here: http://huanliu.wordpress.
+com/2014/02/26/amazon-ec2-grows-62-in-2-years/
+10+ facilities
+2 facilities
+2 facilities*
+* Amazon told Greenpeace that our energy mix data for AWS 
+facilities was incorrect, but refused to offer alternative data other 
+than for Ireland, where it claimed a mix of 50 % renewable energy 
+and 22 % coal. Amazon did not provide data on how it is achieving 
+that mix, so Greenpeace has continued to use Irish national data for its facility. Using Amazon’s Ireland data would result in a 
+company CEI of 19 %.Facility  
+locationAppendix 3 Company Data Center  
+Facilities and Estimates of Power Demand
+64   
+
+65  Estimated 
+Nameplate  
+Power CapacityClEAN ENERGy INDEx 49%
+NATuRAl GAS 7%  /  COAl 25%  /  NuClEAR 16%  
+% of Clean  
+Energy Supply  
+to Data CenterResource Mix of local utility
+70
+2170277070Prineville, OR
+West Coast (Colo)
+Forest City,NC
+East Coast (Colo)
+lulea, Sweden
+Altoona, IA17%38%
+1%2%
+100%100%12%34%
+4%
+17%
+1%
+19%0%0%
+57%42%40%
+6%60%
+9%
+38%38%
+1%
+45%Natural Gas Nuclear Coal
+Facebook is powering its Sweden facility with 100 % 
+hydropower 
+Facebook has co-developed a new wind project nearby its 
+Altoona data center with its utility to provide renewable energy for the first phase of this facility.Facility  
+locationEstimated 
+Nameplate  
+Power CapacityClEAN ENERGy INDEx 100%
+NATuRAl GAS O%  /  COAl O%  /  NuClEAR O%  
+% of Clean  
+Energy Supply  
+to Data CenterResource Mix of local utility
+2
+19
+15
+5Prineville, OR
+Maiden, NC
+Newark, CA
+Reno, NV100%100%100%100%12%
+4%
+27%51%0%
+57%21%15%60%38%
+0%7%
+Natural Gas Nuclear Coal
+Apple is using Direct Access to contract wind energy for 100 % 
+of the 2013 load of its Prineville facility.
+Apple uses on-site solar farms and directed biogas fuel cells to 
+power 100 % of the 2013 load of its Maiden facility.
+Apple is using Direct Access to contract renewable energy for 
+100 % of the 2013 load of its Newark facility.
+Apple is partnering with its utility to provide renewable energy for 
+100 % of the 2013 load of its Reno facility.Facility  
+location
+Estimated 
+Nameplate  
+Power CapacityClEAN ENERGy INDEx 6%
+NATuRAl GAS 47%  /  COAl 24%  /  NuClEAR 14%  
+% of Clean  
+Energy Supply  
+to Data CenterResource Mix of local utility
+8
+4
+12Salt lake City, uT
+las Vegas, NV
+Phoenix, AZ5%
+11%
+5%12%55%23%0%0%
+29%60%
+9%
+38% Natural Gas Nuclear Coal
+75% of Utah data center load is powered by on-site natural gas 
+fuel cells, 1% on-site solar, and the rest from the local gridFacility  
+location
+
+6666   Estimated 
+Nameplate  
+Power CapacityClEAN ENERGy INDEx 48%
+NATuRAl GAS 13%   /  COAl 22%  / NuClEAR 15%  
+% of Clean  
+Energy Supply  
+to Data CenterResource Mix of local utility
+19
+8484
+105
+84
+49
+36
+7
+8
+42192411Douglas County, GA
+Berkeley County, SC
+lenoir, NC
+Council Bluffs, IA
+Dalles,OR
+Pryor,OK
+Eemshaven, 
+Netherlands
+Dublin, Ireland 
+Singapore
+Taiwan
+Hamina, Finland
+St. Ghislain,Belgium
+Quilicura, Chile1%
+0.4%
+1%
+100%
+90%
+100%
+12%20%
+1%3%
+100%
+12%40%33%17%
+4%
+19%
+0.5%
+25%
+53%
+54%80%24%13%28%21%27%
+9%
+57%
+6%
+5%
+0%
+4%
+0%0%
+17%32%54%
+0%39%58%38%45%
+0%
+46%
+24%
+25%
+0%
+50%22%
+6%
+30%Natural Gas Nuclear Coal
+Google has a PPA for wind energy associated with its Iowa 
+facility.
+Google has multiple PPAs for wind energy associated with its 
+Oklahoma Facility.
+Google has two PPAs for wind energy for its Hamina Facility.Facility  
+location
+66   
+
+67  67  Estimated 
+Nameplate  
+Power CapacityClEAN ENERGy INDEx 15%
+NATuRAl GAS 37%  /  COAl 32%  /  NuClEAR 12%  
+% of Clean  
+Energy Supply  
+to Data CenterResource Mix of local utility
+10
+121530
+30
+22
+20
+10 Wynyard, England
+Atlanta  
+(Alphareetta), GA
+Atlanta  
+(Suwanne),GA
+Austin, Tx
+Houston, Tx
+Colorado
+Tulsa,OK
+Sydney, Australia100%
+1%1%
+15%
+14%
+9%0%
+10%28%
+33%33%20%
+37%
+50%
+77%
+20%18%27%27%22%
+13%
+0%0%
+0%39%39%39%27%
+27%
+40%
+23%
+69%
+Natural Gas Nuclear Coal
+2 facilities
+2 facilitiesFacility  
+location
+
+68Estimated 
+Nameplate  
+Power CapacityClEAN ENERGy INDEx 18%
+NATuRAl GAS 37%  / COAl 25%  /  NuClEAR 15%  
+% of Clean  
+Energy Supply  
+to Data CenterResource Mix of local utility
+2
+2
+16
+2
+1
+1
+2
+2
+17
+44
+20
+664
+4
+6
+22Bogota, Colombia
+Singapore
+Boulder, CO
+Toronto,  
+Canada
+Guadalajara,  
+Mexico
+Hong Kong
+Canada
+Dublin, Ireland
+Research Triangle 
+Park, NC
+Auckland, New 
+Zealand
+Ehningen, Germany
+Dallas
+Houston
+San Jose
+Seattle
+Washington DC
+Amsterdam
+Singapore82%
+1%
+17%62%
+16%
+0%
+62%
+20%
+1%
+76%22%
+9%9%
+38%94%
+4%
+12%
+1%13%80%24%10%
+53%
+29%
+10%
+54%
+4%
+19%14%45%45%34%
+0%
+19%53%80%0%0%
+12%15%
+3%
+0%
+15%
+0%
+57%
+0%
+18%
+12%12%
+0%4%
+35%
+4%0%3%0%
+46%12%
+12%
+71%
+12%
+25%38%
+5%
+45%34%34%
+9%1%
+42%24%
+0%
+Natural Gas Nuclear Coal
+5 facilitiesFacility  
+location
+68   
+
+69  69  Estimated 
+Nameplate  
+Power CapacityClEAN ENERGy INDEx 29%
+NATuRAl GAS 21%  /  COAl 32%  /  NuClEAR 18%  
+% of Clean  
+Energy Supply  
+to Data CenterResource Mix of local utility
+71
+372746
+70
+47
+8
+18
+7
+33Chicago
+Dublin
+San Antonio,Tx
+Quincy
+Boydton,VA
+W Des Moines, IA 
+Cheyenne, Wy
+Amsterdam
+Santa Clara
+Reston, VA
+Chicago3%
+20%
+100%
+83%
+2%
+30%
+17%
+12%38%
+2%3%17%54%37%
+3%
+17%
+19%
+12%
+53%34%17%17%35%
+0%
+13%
+2%
+42%
+6%
+0%
+4%0%
+42%35%44%25%27%11%
+38%
+45%
+60%
+24%
+9%
+38%44%Natural Gas Nuclear Coal
+Microsoft buys wind power through a long-term PPA to 
+power its San Antonio facility.Facility  
+location
+Estimated 
+Nameplate  
+Power CapacityClEAN ENERGy INDEx 15%
+NATuRAl GAS 20%  /  COAl 44%  /  NuClEAR 10%  
+% of Clean  
+Energy Supply  
+to Data CenterResource Mix of local utility
+7
+822Austin, Tx
+West Jordan, uT
+Colorado Springs, CO
+linlithgow, uK15%17%
+9%
+12%20%12%50%28%22%
+0%0%
+18%27%60%40%39%
+Natural Gas Nuclear CoalFacility  
+location
+
+7070   70   Estimated 
+Nameplate  
+Power CapacityClEAN ENERGy INDEx 27%
+NATuRAl GAS 26%  /  COAl 30%  /  NuClEAR 17%  
+% of Clean  
+Energy Supply  
+to Data CenterResource Mix of local utility
+6
+12
+6
+3
+1
+0.3Chicago, Il
+Dallas, Tx
+london, uK
+Virginia
+Hong Kong
+Sydney, Australia3%
+9%
+100%
+2%
+0%
+10%17%
+45%28%17%
+29%
+20%35%
+12%18%42%
+0%
+0%44%
+34%39%38%
+71%
+69%Natural Gas Nuclear Coal
+2 facilities
+3 facilitiesRackspace has arranged with its colocation provider to 
+procure 100 % renewable energy for its London facility.Facility  
+location
+Estimated 
+Nameplate  
+Power CapacityClEAN ENERGy INDEx 28%
+NATuRAl GAS 17%  /  COAl 22%  /  NuClEAR 26%  
+% of Clean  
+Energy Supply  
+to Data CenterResource Mix of local utility
+2
+333Slough, uK 
+Chicago, Il
+Virginia
+California100%
+3%2%
+30%28%17%17%27%18%35%42%21%39%44%38%
+0%
+Natural Gas Nuclear Coal
+2 facilities
+2 facilitiesSalesforce is powering its UK data center, built 
+by NTT, with 100 % renewable energy.Facility  
+location
+
+71  71  71  Estimated 
+Nameplate  
+Power CapacityClEAN ENERGy INDEx 21%
+NATuRAl GAS 42%  /  COAl 22%  /  NuClEAR 15%  
+% of Clean  
+Energy Supply  
+to Data CenterResource Mix of local utility
+38
+30Atlanta, GA
+Sacramento, CA1%
+45%33%53%27%
+0%39%
+0%Natural Gas Nuclear CoalFacility  
+location
+Estimated 
+Nameplate  
+Power CapacityClEAN ENERGy INDEx 59%
+NATuRAl GAS 6%  /  COAl 20%  /  NuClEAR 12%  
+% of Clean  
+Energy Supply  
+to Data CenterResource Mix of local utility
+2323
+74
+21Omaha, NE
+lockport,  
+Ny
+Avenches, 
+Switzerland
+Singapore
+Quincy, WA5%
+100%
+57%
+1%
+83%2%
+36%
+2%
+80%
+3%29%23%31%
+0%2%55%12%10%
+0%
+11%Natural Gas Nuclear Coal
+Yahoo negotiated to expand its allotment of hydropower to 
+100 % for its Lockport facility.Facility  
+locationGreenpeace provided Twitter with facility power demand 
+estimates to review. Twitter responded that the estimates 
+were not correct, but did not provide alternative data. Using conservative calculations, Greenpeace has used the best 
+information available to derive power demand. Greenpeace 
+invites Twitter to be transparent and provide more accurate data 
+for its facility power demands.
+
+Estimated 
+Nameplate  
+Power CapacityClEAN ENERGy INDEx 17%
+NATuRAl GAS 31%  /  COAl 25%  /  NuClEAR 19%  
+CONTINuED NExT PAGE% of Clean  
+Energy Supply  
+to Data CenterResource Mix of local utility
+38
+124
+65
+10
+18
+71
+3
+7
+261666
+0
+121886
+14
+29
+2
+114
+212%
+1%
+13%
+1%3%9%
+20%57%
+0%
+12%22%10%
+0%2%7%
+30%
+4%
+2%
+10%47%53%
+33%36%
+4%
+17%
+45%
+54%
+2%
+29%
+28%30%28%70%17%33%
+27%
+5%
+21%
+14%21%4%
+27%26%57%
+35%
+12%
+0%
+41%
+0%
+18%
+14%18%17%42%49%
+21%
+79%40%18%
+0%24%39%
+5%
+38%
+44%
+34%
+25%
+0%
+71%
+39%27%39%
+5%
+38%11%
+0%3%
+35%53%30%Natural Gas Nuclear Coal
+4 facilities
+3 facilities6 facilities
+3 facilities
+6 facilities
+3 facilities
+5 facilities
+2 facilities
+3 facilities
+7 facilities
+4 facilitiesFacility  
+location
+72   Amsterdam, 
+Netherlands
+Atlanta, GA
+Boston, MA
+Charlotte, NC
+Chicago, Il
+Dallas, Tx
+Dublin, Ireland
+Geneva, Switzerland
+Hong Kong
+london, uK
+los Angelas, CA
+Manchester, uK
+Miami, Fl
+N Virginia
+New york Metro
+Oakland, CA
+Paris, France
+Philadelphia, PA
+Phoenix, AZ
+Portland, ORColocation Companies
+
+73  CONTINuED FROM PREVIOuS PAGE
+73  Estimated 
+Nameplate  
+Power Capacity% of Clean  
+Energy Supply  
+to Data CenterResource Mix of local utility
+10
+3017
+177
+30
+18
+6
+12Sacramento, CA
+San Francisco, CA
+Seattle, WA
+Silicon Valley, CA
+Singapore
+St. louis, MO
+Sydney, Austrlia
+Toronto, Canada45%
+30%94%38%
+1%
+0%
+10%
+62%53%27%
+0%
+34%
+80%
+1%
+20%
+10%0%
+21%
+4%0%
+0%
+12%
+0%
+15%0%
+0%1%9%
+0%
+85%69%
+12%Natural Gas Nuclear Coal
+2 facilities
+2 facilities
+2 facilities
+13 facilitiesFacility  
+location
+
+74   Estimated 
+Nameplate  
+Power CapacityClEAN ENERGy INDEx 6%
+NATuRAl GAS 21%  /  COAl 32%  /  NuClEAR 38%  
+% of Clean  
+Energy Supply  
+to Data CenterResource Mix of local utility
+19
+185147
+34
+47
+47
+46181448Ashburn, VA (ACC2)
+Ashburn, VA (ACC3)
+Ashburn, VA (ACC4)
+Ashburn, VA (ACC5)Ashburn, VA (ACC6)
+Ashburn, VA (CH1)
+Piscataway, NJ (NJ1)
+Santa Clara, CA  (SC1)
+Reston, VA(VA3)
+Bristow, VA (VA4)
+Ashburn, VA (ACC7)-
+ 
+under construction2%
+2%2%2%
+2%
+3%
+0%
+38%
+2%
+2%2%17%17%17%17%
+17%
+17%
+32%
+34%17%17%17%42%42%42%42%
+42%
+35%
+57%
+0%
+42%
+42%42%38%38%38%38%
+38%
+44%
+11%
+9%
+38%
+38%38%
+Natural Gas Nuclear CoalFacility  
+location
+
+75  75  Estimated 
+Nameplate  
+Power CapacityClEAN ENERGy INDEx 16%
+NATuRAl GAS 29%  /  COAl 27%  /  NuClEAR 23%  
+CONTINuED NExT PAGE% of Clean  
+Energy Supply  
+to Data CenterResource Mix of local utility
+15
+6538
+2
+13
+33
+11
+9
+2
+80
+0.75
+121
+19
+3
+50
+18
+402862
+594%38%24%17%
+9%
+3%
+1%
+0%
+13%
+0%4%2%
+78%
+62%
+12%12%13%57%22%
+0%0%
+34%37%24%
+45%
+17%
+33%
+70%36%32%21%17%
+8%
+10%53%
+28%
+5%
+2%
+14%98%4%0%
+19%12%
+12%
+35%
+27%
+17%26%57%40%42%
+2%
+15%
+4%
+18%79%41%18%
+0%1%9%7%
+46%
+34%
+44%
+39%
+5%
+5%
+11%35%38%
+2%
+12%24%
+39%
+3%
+0%
+45%
+0%Natural Gas Nuclear Coal
+4 facilities7 facilities2 facilitiesData Source for facility power capacity: http://www.equinix.
+com/#
+5 facilities
+3 facilities
+2 facilities
+10 facilities
+4 facilities
+7 facilities
+10 facilities4 facilities
+7 facilities
+4 facilities
+5 facilities
+5 facilitiesFacility  
+location
+Seattle,WA
+Siclicon Valley,CA
+los Ageles,CA
+Denver,CO
+Dallas, Tx
+Chicago,Il
+Atlanta,GA
+Miami,Fl
+Boston,MA
+New york
+Philadelphia, PA
+Washington,DC
+Brazil
+Toronto
+Netherlands
+london, uK
+Paris, France
+Switzerland
+Germany
+Dubai
+
+76CONTINuED FROM PREVIOuS PAGE
+76   Estimated 
+Nameplate  
+Power Capacity% of Clean  
+Energy Supply  
+to Data CenterResource Mix of local utility
+41
+104348
+38Japan
+Shanghai, China
+Hong Kong
+Singapore
+Australia10%
+19%
+0%1%
+10%43%
+0%
+29%80%
+20%2%
+2%0%0%
+0%28%
+79%71%
+0%
+69%Natural Gas Nuclear Coal
+5 facilities
+4 facilities
+3 facilities
+2 facilities
+4 facilitiesFacility  
+location
+
+
+77  77  Estimated 
+Nameplate  
+Power CapacityClEAN ENERGy INDEx NA
+NATuRAl GAS NA  /  COAl NA  /  NuClEAR NA  
+% of Clean  
+Energy Supply  
+to Data CenterResource Mix of local utility
+25
+1
+27NAP Culpepper,VA
+Bogota, Colombia
+Sao Paulo, Brazil
+Amsterdam, 
+Netherlands3%
+82%78%12%17%13%
+8%
+53%42%
+0%2%4%38%
+3%2%
+24%Natural Gas Nuclear CoalThere is insufficient public data to evaluate Verizon Terremark’s 
+energy footprint. Greenpeace encourages Verizon Terremark to release more data and will update our analysis in the future.
+Facility  
+locationEstimated 
+Nameplate  
+Power CapacityClEAN ENERGy INDEx 21%
+NATuRAl GAS 26%  /  COAl 27%  /  NuClEAR 24%  
+% of Clean  
+Energy Supply  
+to Data CenterResource Mix of local utility
+11
+9
+95
+34
+5
+5
+10
+12
+3Amsterdam, 
+Netherlands
+Northwest Business  
+Park, Dublin
+Gutleutstrasse, 
+Frankfurt
+Helsinki, Finland
+Power gate, london
+House, Manchester
+Milan, Italy
+Condorcet, Paris 
+Skondal, Stockholm
+Bulgaria12%20%22%41%
+12%
+12%
+29%
+13%57%
+9%53%54%14%13%
+28%
+28%
+48%
+5%
+1%4%4%0%
+18%32%
+18%
+18%
+0%
+79%
+40%32%24%25%45%22%
+39%
+39%
+17%
+3%
+1%
+54%Natural Gas Nuclear CoalFacility  
+location
+
+7878   
+1 http://newsroom.cisco.com/release/1197391/
+2 GeSI SMARTer2020: The Role of ICT in Driving a Sustainable Future 
+http://gesi.org/SMARTer2020
+3 http://www.greenpeace.org/international/en/publications/
+Campaign-reports/Climate-Reports/How-Clean-is-Your-Cloud/4 The Cisco® Visual Networking Index (VNI) Forecast (2012-2017)  
+http://newsroom.cisco.com/release/1197391/5 http://gesi.org/assets/js/lib/tinymce/jscripts/tiny_mce/plugins/
+ajaxfilemanager/uploaded/SMARTer%202020%20-%20The%20
+Role%20of%20ICT%20in%20Driving%20a%20Sustainable%20
+Future%20-%20December%202012.pdf
+6 IEA: Electricity Information (2012 Edition) http://www.iea.org/media/
+training/presentations/statisticsmarch/electricityinformation.pdf
+7 Data Center Dynamics 2013 Census Report: Global Data 
+Center Power 2013 http://www.datacenterdynamics.com/focus/
+archive/2014/01/dcd-industry-census-2013-data-center-power
+8 The Cisco® Visual Networking Index (VNI) Forecast (2012-2017)
+9 Sandvine Global Internet Phenomenon, 2H 2013 https://
+www.sandvine.com/downloads/general/global-internet-
+phenomena/2013/2h-2013-global-internet-phenomena-report.pdf
+10 http://cleantechnica.com/2013/01/18/wind-power-tops-in-new-
+us-generation-capacity-for-2012/
+11 www.seia.org/research-resources/us-solar-market-insight
+12  http://www.smartgridnews.com/artman/publish/Technologies_
+DG_Renewables/Wind-penetration-crosses-10-threshold-in-nine-
+states-Grid-problems-to-follow-5606.html#.Ux9IHxC-KWI
+13 http://www.earth-policy.org/data_highlights/2014/highlights45
+14  IEA. World Energy Outlook 2012. Executive Summary.
+15 BP Statistical Review of World Energy 2012
+16 http://www.washingtonpost.com/blogs/wonkblog/
+wp/2012/07/31/the-decline-of-u-s-coal-in-three-charts/17 http://www.eia.gov/todayinenergy/detail.cfm?id=11391
+18 http://www.bloomberg.com/news/2013-04-09/shale-gas-isn-t-a-
+low-emissions-fuel-yet.html19 http://emf.stanford.edu/publications/emf_26_changing_the_
+game_emissions_and_market_implications_of_new_natural_gas_
+supplies/
+20 http://www.ft.com/intl/cms/s/0/da2a6bc6-98fa-11e3-a32f-
+00144feab7de.html?siteedition=intl#axzz2tmcJXV4u21 http://www.geo-energy.org/pressReleases/2013/GEA_2013_
+Expanding_Global_Growth.aspx22 https://www.apple.com/environment/renewable-energy/23 http://www.dogwoodalliance.org/wp-content/uploads/2013/05/
+Forrests-not-fuelsFS_10b.pdf24 http://www.zdnet.com/cn/china-has-618m-internet-users-80-
+percent-on-mobile-7000025291/25 http://thenextweb.com/asia/2013/01/07/chinese-internet-
+population-expected-to-grow-to-800-million-users-in-2015/#!zq0Mm
+26 http://www.forbes.com/companies/tencent-holdings/
+27 http://www.datacenterdynamics.com/focus/archive/2012/08/
+china-data-center-roundup-big-cloud-news-big-cloud-players
+28 http://tech.idcquan.com/pro/34910.shtml
+29 http://www.datacenterdynamics.com/focus/archive/2013/12/
+amazon-launch-first-data-center-china
+30 http://venturebeat.com/2014/01/16/ibms-latest-weapon-for-the-
+cloud-fight-a-massive-15-new-data-centers/
+31 http://www.datacenterknowledge.com/archives/2014/03/05/
+scott-noteboom-keynote-data-center-world-global-conference/32 http://www.businessweek.com/news/2012-03-22/china-to-
+restrict-coal-demand-output-to-3-dot-9-billion-tons33  http://www.pv-tech.org/news/china_to_target_35gw_of_solar_
+by_2015
+34  http://start.lenovo.com/news/read/category/Technology/article/
+earth_tech-ikea_stores_in_china_embrace_solar_power-ncrd
+35  http://www.lenovo.com/social_responsibility/us/en/climate.html36  http://www.thegreengrid.org/~/media/WhitePapers/
+Harmonizing%20Global%20Metrics%20for%20Data%20Center%20Energy%20Efficiency%202012-10-02.pdf?lang=en
+37  http://tech.ebay.com/dashboard38  http://www.google.com/green/energy/use/#purchasing39  https://www.apple.com/environment/renewable-energy/40  http://www.bloomberg.com/news/2010-12-07/renewable-
+energy-credits-prove-inflated-with-green-claims-seen-as-hot-air.html
+41  https://static.googleusercontent.com/media/www.google.com/
+en/us/green/pdf/renewable-energy-options.pdf
+42 https://www.google.com/green/energy/investments/43  http://www.desmoinesregister.com/article/20140302/
+BUSINESS/303020033/Iowans-weigh-distributed-energy-generation
+44  Relationships noted in this infographic are intended as a sampling 
+to show where some of the internet’s most popular sites and services 
+are hosted – not as a comprehensive survey. Relationship data is sourced from media reports of hosting arrangements, and customer 
+profiles like the ones listed here: http://aws.amazon.com/solutions/
+case-studies/. 
+45  https://www.facebook.com/green/app_51148828558283746  http://gigaom.com/2014/03/14/facebook-open-sources-data-
+center-efficiency-code/Endnotes
+
+79  
+Greenpeace  
+USAClicking Clean: 
+How Companies are Creating the Green InternetEndnotes
+47  https://www.rockymountainpower.net/content/dam/
+pacificorp/doc/CCCom_Update/2013/April_13/RMP_UT_
+ConservationReport_F_no_crops.pdf
+48  http://gigaom.com/2012/06/21/ebay-to-build-huge-bloom-
+energy-fuel-cell-farm-at-data-center/
+49  http://www-03.ibm.com/press/us/en/pressrelease/42357.wss
+50  http://www.opencompute.org/
+51  http://166.78.157.131/sites/default/files/P-RS-GL-SC-002%20
+Global%20Energy%20Policy%20v1.0%2010.28.2012.pdf
+52  http://www2.sfdcstatic.com/assets/pdf/misc/Sustainability_
+Commitment.pdf
+53  http://www.datacenterknowledge.com/archives/2013/11/04/box-
+commits-to-adopting-renewable-energy-for-its-data-centers/
+54  http://www.economicdevelopmenthq.com/blog/midamerican-
+energy-wind-generation-iowa/
+55  http://www.midamericanenergy.com/wind_news.aspx 
+56  http://newsroom.fb.com/News/760/Bringing-New-Wind-to-Iowa57  http://www.omaha.com/apps/pbcs.dll/article?AID=/20130424/
+NEWS/704249913
+58  http://www.triplepundit.com/2014/03/another-banner-record-
+breaking-year-u-s-solar/
+59  http://gigaom.com/2013/11/15/pushed-by-internet-companies-
+utility-makes-progress-to-sell-clean-power-in-north-carolina/
+60  https://static.googleusercontent.com/media/www.google.com/
+en/us/green/pdfs/renewable-energy.pdf
+61  http://googleblog.blogspot.com/2010/07/reducing-our-carbon-
+footprint-with.html
+62  http://googleblog.blogspot.com/2011/04/oklahoma-where-wind-
+comes-sweepin-down.html
+63  http://googlegreenblog.blogspot.com/2014/01/more-swedish-
+wind-power-for-our-finnish.html
+64  http://googleblog.blogspot.com/2012/09/more-renewable-
+energy-for-our-data.html
+65  http://www.google.com/green/energy/investments/66  http://www.newsobserver.com/2011/04/28/1158644/feeding-
+triplets.html#ixzz1Kpxy4HIk
+67  http://greenpeaceblogs.org/2013/11/18/apple-facebook-google-
+team-up-to-push-nations-largest-utility-to-clean-energy-offering/
+68  eBay listed as a member in ALEC documents: http://www.
+commoncause.org/atf/cf/%7BFB3C17E2-CDD1-4DF6-92BE-
+BD4429893665%7D/telecom&it_updated_35-day_mailing%20New%20Orleans.pdf
+69  http://www.thedailybeast.com/articles/2013/08/15/yelp-joins-
+with-advocacy-group-alec-to-fight-slapp-lawsuits.html70  http://www.sourcewatch.org/index.php/Verizon_Communications
+71  http://www.washingtonpost.com/blogs/wonkblog/
+wp/2013/08/08/state-renewable-energy-laws-turn-out-to-be-really-
+hard-to-repeal/
+72  http://alec.org/docs/EEA_2013_SNPS_35_Day.pdf
+73  http://alec.org/docs/EEA_2013_SNPS_35_Day.pdf74  http://www.washingtonpost.com/blogs/the-fix/wp/2013/06/20/
+anatomy-of-a-washington-dinner-who-funds-the-competitive-
+enterprise-institute/
+75  Energy data sourced from government statistics or International 
+Energy Agency 2011 statistics. IT company presence in specific 
+countries sourced from company data or media reports. Data center energy demand and demand growth sourced from 
+DataCenterDynamics. Ireland data center energy demand growth 
+estimate from eirgrid. http://www.eirgrid.com/media/2013%20Generation%20Capacity%20Statement.pdf
+76  State energy grid mixes sourced from utility web sites or Integrated 
+Resource Plans filed to regulators. Renewable Energy goals sourced from the Database for State Incentives for Renewable Energy and 
+Efficiency, accessible at http://www.dsireusa.org/documents/
+summarymaps/RPS_map.pdf.  Texas data for grid mix and renewable energy goals sourced from ERCOT: http://www.ercot.com/news/
+press_releases/show/26382 and Nodal Protocols Section 14: State 
+of Texas Renewable Energy Credit Trading Program. IT company presence in specific states or regions sourced from company data or 
+media reports.
+77  http://www.datacenterknowledge.com/archives/2013/01/04/
+north-carolina-data-center-corridor/ 
+78  http://www.duke-energy.com/north-carolina/nc-rate-case/our-
+energy-mix.asp
+79  http://www.duke-energy.com/north-carolina/nc-rate-case/our-
+energy-mix.asp
+80  http://www.duke-energy.com/pdfs/DEC_2013_IRP_10.23.2013.
+pdf
+81  http://www.wired.com/wiredenterprise/2012/04/duke-energy/
+82  Update on Data Centers in the Northwest (Memorandum). 
+Northwest Power and Conservation Council. July, 2013
+83  www.oregonlive.com/mapes/index.ssf/2013/12/battle_over_
+oregon_renewable_e.html
+84  http://www.oregonlive.com/mapes/index.ssf/2013/12/battle_
+over_oregon_renewable_e.html
+85  http://www.oregonlive.com/business/index.ssf/2014/02/
+lawmakers_move_toward_compromi.html
+86  http://www.oregonlive.com/business/index.ssf/2014/02/
+lawmakers_move_toward_compromi.html
+87  https://www.dom.com/dominion-virginia-power/powering-
+virginia/data-centers-and-dominion-virginia-power.jsp
+
+8080   
+88  https://www.dom.com/dominion-virginia-power/powering-
+virginia/data-centers-and-dominion-virginia-power.jsp
+89  See Dominion’s Integrated Resource Plan, 2013: https://www.
+dom.com/about/pdf/irp/va-irp-2013.pdf
+90  http://www.akamai.com/html/about/facts_figures.html
+91  Provided by Akamai92  Provided by Akamai93  http://www.ceres.org/bicep/climate-declaration/climate-
+declaration-full-signatory-list
+94  http://aws.amazon.com/about-aws/sustainable-energy/95  http://huanliu.wordpress.com/2012/03/13/amazon-data-center-
+size/
+96  https://www.dom.com/dominion-virginia-power/powering-
+virginia/data-centers-and-dominion-virginia-power.jsp
+97  http://huanliu.wordpress.com/2012/03/13/amazon-data-center-
+size/
+98  See EC2 Spot Instances http://aws.amazon.com/ec2/purchasing-
+options/spot-instances/
+99  http://gigaom.com/2s013/11/15/how-amazon-is-building-
+substations-laying-fiber-and-generally-doing-everything-to-keep-
+cloud-costs-down/
+100  www.oregonlive.com/mapes/index.ssf/2013/12/battle_over_
+oregon_renewable_e.html
+101  http://images.apple.com/environment/reports/docs/Apple_
+Facilities_Report_2013.pdf
+102  https://www.apple.com/environment/renewable-energy/103  http://gigaom.com/2013/07/01/apple-is-planning-a-solar-panel-
+farm-for-its-data-center-in-reno/
+104  http://images.apple.com/environment/reports/docs/Apple_
+Facilities_Report_2013.pdf
+105 http://images.apple.com/environment/reports/docs/Apple_
+Facilities_Report_2013.pdf106  https://www.ceres.org/press/press-releases/apple-inc.-san-
+diego-international-airport-solarcity-and-sapphire-energy-join-call-for-u.s.-action-on-climate-change
+107  http://tech.ebay.com/dashboard108  See eBay’s facilities in Facilities Table Appendix.109  eBay Carbon Disclosure Project 2012 and 2013 report.110  www.ebayinc.com/system/download_links/eBaySI_Goals_
+FINAL3_2.pdf?download=1
+111  https://www.rockymountainpower.net/content/dam/
+pacificorp/doc/CCCom_Update/2013/April_13/RMP_UT_ConservationReport_F_no_crops.pdf
+112  http://green.ebay.com/greenteam/blog/eBays-Clean-Energy-
+Leadership-in-Utah/8420113  http://www.ceres.org/bicep/climate-declaration/climate-
+declaration-full-signatory-list
+114  eBay listed as a member in ALEC documents: http://www.
+commoncause.org/atf/cf/%7BFB3C17E2-CDD1-4DF6-92BE-
+BD4429893665%7D/telecom&it_updated_35-day_mailing%20New%20Orleans.pdf
+115  DRT Company Info, March 2014  http://investor.digitalrealty.com/
+Cache/1500057391.PDF?Y=&O=PDF&D=&fid=1500057391&T=&iid=4094311
+116  Greenpeace estimate based on public data center facility data 
+published by DRT. See DRT in Data Center Facilities Table Annex
+117  http://www.dft.com/data-centers/location-information
+118  Provided by Dupont Fabros
+119  Dominion’s Integrated Resource Plan indicates that the company 
+does not have plans to increase its renewable energy use to significant levels. See https://www.dom.com/about/integrated-resource-
+planning.jsp
+120  http://www.equinix.com/company/news-and-events/
+press-releases/equinix-receives-2013-frost-and-sullivan-us-retail-colocation-services-market-share-leadership-award/
+121  Provided by Equinix.122  Provided by Equinix123  https://www.facebook.com/green/app_511488285582837124  www.ebayinc.com/system/download_links/eBaySI_Goals_
+FINAL3_2.pdf?download=1
+125  http://www.economicdevelopmenthq.com/blog/midamerican-
+energy-wind-generation-iowa/
+126  http://www.opencompute.org/127  https://newsroom.fb.com/News/760/Bringing-New-Wind-to-
+Iowa
+128  See http://www.oregonlive.com/business/index.ssf/2014/02/
+lawmakers_move_toward_compromi.html. PacifiCorp is Facebook’s 
+utility in Oregon.
+129  http://www.desmoinesregister.com/article/20140302/
+BUSINESS/303020033/Iowans-weigh-distributed-energy-generation
+130  http://www.washingtonpost.com/blogs/the-fix/wp/2013/06/20/
+anatomy-of-a-washington-dinner-who-funds-the-competitive-
+enterprise-institute/
+131  http://www.thedailybeast.com/articles/2013/08/15/yelp-joins-
+with-advocacy-group-alec-to-fight-slapp-lawsuits.html
+132  http://www.google.com/green/bigpicture/#/grid/whitepaper
+133  http://googleblog.blogspot.com/2013/06/how-green-is-internet.
+html
+134 http://www.google.com/green/bigpicture/#/grid/whitepaper135  http://www.google.com/about/datacenters/efficiency/internal/
+136  http://blogs.wsj.com/digits/2013/12/10/google-scraps-plan-to-
+build-hong-kong-data-center/
+
+  81  
+Greenpeace  
+USAClicking Clean: 
+How Companies are Creating the Green InternetEndnotes
+137  http://www.google.com/about/datacenters/inside/locations/
+singapore/
+138  http://www.google.com/about/datacenters/inside/locations/
+changhua-county/
+139 http://www.google.com/about/datacenters/inside/locations/
+quilicura/
+140  http://googlegreenblog.blogspot.com/2013/07/pushing-our-
+energy-performance-even.html
+141 http://static.googleusercontent.com/external_content/
+untrusted_dlcp/www.google.com/en/us/corporate/datacenter/dc-
+best-practices-google.pdf
+142  http://www.datacenterdynamics.com/focus/archive/2013/06/
+google-buys-wind-power-finland-data-center
+143  http://gigaom.com/2012/04/04/google-to-build-its-first-thermal-
+storage-for-a-data-center/
+144  http://www.google.com/green/bigpicture/#/
+145  http://static.googleusercontent.com/external_content/
+untrusted_dlcp/www.google.com/en/us/green/pdfs/renewable-
+energy.pdf
+146  http://www.datacenterdynamics.com/focus/archive/2013/06/
+google-buys-wind-power-finland-data-center
+147  http://googleblog.blogspot.com/2012/09/more-renewable-
+energy-for-our-data.html
+148  http://googleblog.blogspot.com/2013/04/expanding-options-
+for-companies-to-buy.html
+149  https://www.google.com/green/energy/investments/150  http://googlegreenblog.blogspot.com/2013/01/paving-path-to-
+intelligent-energy-use.html
+151  http://www.google.com/publicpolicy/transparency.html152  http://www.washingtonpost.com/blogs/the-fix/wp/2013/06/20/
+anatomy-of-a-washington-dinner-who-funds-the-competitive-
+enterprise-institute/
+153  See HP in the Facilities Table Appendix of this report.
+154  http://www8.hp.com/us/en/hp-information/environment/
+operations-index.html#.UyK4VVFdXi4
+155  http://h17007.www1.hp.com/us/en/enterprise/servers/
+products/moonshot/index.aspx#.UyCJyxC-KWI
+156  http://h20195.www2.hp.com/V2/GetPDF.aspx/c03742918.pdf157  http://www.awea.org/MediaCenter/pressrelease.
+aspx?ItemNumber=4751
+158  http://www.reuters.com/article/2014/01/17/us-ibm-datacenters-
+idUSBREA0G05P20140117
+159  http://www.ibm.com/ibm/environment/160  http://www.ibm.com/ibm/environment/climate/renewable_
+energy.shtml161  http://venturebeat.com/2014/01/16/ibms-latest-weapon-for-the-
+cloud-fight-a-massive-15-new-data-centers/
+162  http://www.ibm.com/ibm/environment/163  http://www-03.ibm.com/press/us/en/pressrelease/41310.wss164  http://www.ibm.com/ibm/environment/annual/
+IBMEnvReport_2012.pdf
+165  http://www.ibm.com/ibm/environment/annual/
+IBMEnvReport_2012.pdf
+166  http://www.sourcewatch.org/index.php/ALEC_
+Corporations#cite_note-105
+167  http://www.washingtonpost.com/business/technology/
+microsoft-pledges-to-go-carbon-neutral/2012/05/08/gIQAGVE4AU_story.html
+168  http://www.theguardian.com/sustainable-business/microsoft-
+internal-carbon-fee
+169  http://blogs.msdn.com/b/microsoft-green/archive/2013/09/10/
+microsoft-s-carbon-offset-strategy-making-a-difference-one-project-
+at-a-time.aspx
+170  http://www.microsoft.com/environment/our-commitment/our-
+footprint.aspx
+171  www.microsoft.com/eu/PRESSRELEASE_Microsoft_cloud_
+services_growth_drives_Expansion.aspx
+172  See Microsoft in Facilities Table Appendix173  http://www.microsoft.com/environment/our-commitment/our-
+footprint.aspx
+174  http://blogs.msdn.com/b/microsoft-green/archive/2013/12/11/
+creating-amp-driving-carbon-accountability-microsoft-releases-
+carbon-fee-playbook.aspx
+175  http://www.microsoft.com/environment/our-commitment/our-
+footprint.aspx
+176  http://www.bloomberg.com/news/2010-12-07/renewable-
+energy-credits-prove-inflated-with-green-claims-seen-as-hot-air.html
+177  http://blogs.msdn.com/b/microsoft-green/archive/2013/11/04/
+microsoft-signing-long-term-deal-to-buy-wind-energy-in-texas.aspx
+178  http://www.environmentalleader.com/2012/06/15/microsoft-
+sprint-call-for-extension-to-wind-power-tax-credit/
+179  http://www.ceres.org/bicep/climate-declaration/climate-
+declaration-full-signatory-list
+180  http://www.desmoinesregister.com/article/20140302/
+BUSINESS/303020033/Iowans-weigh-distributed-energy-generation
+181  http://allthingsd.com/20131018/arik-2/182  From Oracle’s Carbon Disclosure Project filing183  http://www.oracle.com/us/corporate/press/2054851184  Oracle Carbon Disclosure Project (CDP) 2013 submission 185  Oracle 2013 CDP submission186  Oracle 2013 CDP Submission
+
+8282   
+214  http://www.colocationamerica.com/blog/yahoo-expands-new-
+york-data-center.htm
+215  http://www.ydatacentersblog.com/blog/new-york/216  www.greenbiz.com/blog/2012/09/21/companies-extension-
+wind-tax-credit187  See eBay in Appendix II, Company Scores Explained
+188  http://responsibility.rackspace.com/planet/energy/renewables
+189  http://responsibility.rackspace.com/planet/energy/renewables
+190  Information provided by Rackspace
+191  http://responsibility.rackspace.com/planet/energy/renewables
+192  https://responsibility.rackspace.com/sites/default/files/
+RECcertification.pdf
+193  http://www2.sfdcstatic.com/assets/pdf/misc/Sustainability_
+Commitment.pdf
+194  http://www2.sfdcstatic.com/assets/pdf/misc/
+SustainabilityReport.pdf
+195  http://www.salesforce.com/assets/pdf/misc/Sustainability_
+Commitment.pdf
+196  http://www.datacenterdynamics.com/focus/archive/2013/05/
+salesforcecom-officially-announces-new-uk-data-center
+197  See Facebook’s Clean Energy Index in the Company Scorecard
+198  http://www.telecitygroup.com/data-centres/european-data-
+centres.htm
+199  http://www.telecitygroup.com/Policy/Environment_Policy.pdf
+200  http://www.telecitygroup.com/our-company/news/2012/
+telecitygroup-first-data-centre-provider-to-achieve-recertification-for-
+carbon-trust-standard-in-the-uk.htm
+201  http://www.telecitygroup.com/our-company/news/2008/
+telecitygroup-continues-to-develop-environmentally-sustainable-
+business-by-becoming-the-first-data-centre-to-take-up-edfs-
+equilibre-offer.htm
+202  See Equinix in Company Scores Explained Appendix.203  See Twitter in Facilities Table Appendix.204  http://www.datacenterknowledge.com/archives/2013/05/10/
+twitter-plans-huge-data-center-expansion/
+205  http://www.bizjournals.com/atlanta/blog/atlantech/2012/12/
+tweet-this-twitter-takes-100k-sf-in.html?page=all
+206  http://www.georgiapower.com/about-energy/energy-sources/207  http://online.wsj.com/article/BT-CO-20130430-713077.html208  From Verizon’s Carbon Disclosure Project submission209  https://www.cdproject.net/210  http://online.wsj.com/article/BT-CO-20130430-707382.html211  Information provided by Verizon Terremark212  http://online.wsj.com/article/BT-CO-20130430-713077.html
+213  http://www.datacenterknowledge.com/archives/2014/03/10/
+yahoo-sublease-24-megawatts-virginia-space/
+
+83  
+
+
+8484    How Clean is Your Cloud? Greenpeace is an independent global 
+campaigning organisation that acts 
+to change attitudes and behaviour, 
+to protect and conserve the environment and to 
+promote peace.
+greenpeace.orgPublished in April 2014 by 
+Greenpeace Inc.
+702 H Street, NWSuite 300
+Washington, D.C. 20001 
+United Statesgreenpeace.org

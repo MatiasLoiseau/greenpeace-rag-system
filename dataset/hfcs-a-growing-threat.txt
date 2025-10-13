@@ -1,0 +1,1079 @@
+# Archivo original: hfcs-a-growing-threat.pdf
+# Tipo: .PDF
+# Procesado el: Sat Oct 11 09:40:56 -03 2025
+
+HFCs: A growing threat to the climate 1
+ greenpeace.org
+InternationalHFCs: A growing threat 
+to the climate
+The worst greenhouse gases 
+you’ve never heard of....
+Updated Edition, December 2009
+
+2 HFCs: A growing threat to the climate
+01 Introduction 05
+02  The problem  
+HFCs are a climate issue 06
+03  The politics of F-gases: A tale of two treaties  
+How HFCs came to be internationally controlled 10
+04  The chemical industry  
+False hopes and unacceptable risks 12
+05  The solutions  
+Environment friendly, business friendly 16
+06  Greenpeace’s role  
+Technology, business and politics 24
+References 28
+For more information contact:
+supporter.services.int@greenpeace.org
+Written by:
+Paula Tejón Carbajal, David Kanter
+Edited by:
+Steve Erwood
+Designed by:
+Atomo Design
+Acknowledgements:
+Kert Davies, Liping Fan, Amy Larkin, Wolfgang Lohbeck, Janos Mate, Claudette Papathanasopoulos
+Updated Edition, December 2009
+JN 277Contents
+Published by
+Greenpeace International
+Ottho Heldringstraat 5The NetherlandsTel: +31 20 7182000
+Fax: +31 20 7182002
+greenpeace.org
+
+HFCs are  
+‘super-greenhouse 
+gases’ up to 
+thousands of  
+times more 
+powerful than  
+CO2. They pose  
+a growing threat  
+to the climate.
+symbol HFC 125
+Is part of the HFC 
+mixtures used in 
+supermarket refrigeration.
+This HFC has a 20-year 
+GWP of 6,350, which 
+means that it is 6,350 
+times more powerful than 
+CO2 as a greenhouse gas 
+over a 20-year period.
+03 HFCs: A growing threat to the climate
+
+symbol HFC 134a
+Is used as a refrigerant and foaming agent. It has a 20-year GWP of 3,830, 
+which means that it is 
+3,830 times more powerful than CO
+2 as a greenhouse 
+gas over a 20-year period. 
+04 HFCs: A growing threat to the climate
+
+Introduction
+As governments grapple with the urgent 
+task of drastically cutting greenhouse gas emissions to avert dangerous climate change, there is a group of little-known but very powerful greenhouse gases which, if left unchecked, could hinder all of our efforts to tackle the issue.
+We use these chemicals in our everyday 
+lives for refrigeration and air-conditioning: they cool our drinks, our cars and our buildings. 
+They are man-made fluorinated 
+greenhouse gases - commonly known  as F-gases. 
+By 2005, this group of ‘super-greenhouse gases’ was responsible for 17% of climate change impacts.
+1
+“Emissions of HFCs… if left unchecked 
+could be equivalent to nearly half of global 
+CO2 emissions by mid-century.”
+New Y ork Times - July 31, 200901
+F-gases are thousands of times more powerful than carbon dioxide 
+(CO2).  Their major applications are in refrigeration and air-conditioning 
+(where they are used as refrigerants, which accounts for 80% of their 
+use2), foams, aerosols, fire extinguishers and solvents. It is these same 
+heat-trapping properties that make most F-gases such good refrigerants which also make them extremely powerful greenhouse gases. (See 
+‘How do scientists measure the impact of HFCs?’ on page 9 for more information on how the potency of greenhouse gases is measured).The most commonly known F-gases are the early, so-called first generation F-gases: the CFCs that destroyed the ozone layer and were banned by the Montreal Protocol.  However, in the race to save the 
+ozone layer we accelerated the use of their second generation chemical 
+cousins: HCFCs (now also being banned under the Montreal Protocol). 
+Our focus today is on the third generation of F-gases: HFCs - 
+powerful greenhouse gases developed by the chemical industry to solve the ozone crisis. They are already the refrigerants of choice in most 
+industrialised countries. But if HFCs are used as substitutes for all the 
+ozone-destroying chemicals they were designed to replace - and end up in the atmosphere - they will have a devastating impact on the climate. 
+These chemicals could be one of the most dangerous and yet most 
+avoidable chapters in our environmental history.
+That’s the bad news.
+The good news is that there are tried-and-tested environmentally safer 
+technologies available to meet today’s needs. The time to implement 
+these technologies is now, because developing countries are just now in the process of making technological choices for replacing HCFCs. The 
+world is at a crossroads: we can go for HFCs and commit ourselves to 
+catastrophic climate change, or we can go for environmentally-friendly alternatives and save the planet billions of tonnes of greenhouse gas 
+emissions.
+Greenpeace is therefore calling on governments and corporations in
+industrialised countries to rapidly phase out the use of HFCs. At the 
+same time, Greenpeace is urging developing countries to leapfrog the use of HFCs, and to immediately move to environmentally safer 
+alternatives. This is one of the easiest and quickest ways to significantly 
+reduce greenhouse gas emissions, and to avoid unnecessary damage  
+to the climate.
+05 HFCs: A growing threat to the climate
+
+HFCs: A growing threat to the climate06F-gases are ‘super-greenhouse gases’. Molecule for molecule, some of 
+them have the capacity to heat the planet thousands of times more than 
+carbon dioxide. As a result, you don’t need much F-gas to do serious 
+damage to the climate. It only takes about 300g of F-gas to keep one domestic refrigerator working. The release into the atmosphere of  
+300 grams of HFC-134a, the most commonly used HFC today,  
+is equivalent to the carbon emissions from driving a Volkswagen Golf, for example, from London to Moscow.
+A rapidly growing threat
+The use of F-gases around the world is expanding rapidly. While the first 
+two generations of F-gases (CFCs and HCFCs) are being eliminated under 
+the Montreal Protocol (the United Nations ozone agreement), the third generation, HFCs, is fast replacing them. This is despite the fact that HFCs 
+are supposed to be regulated under the international climate framework, 
+the United Nations Framework Convention on Climate Change (UNFCCC) – in fact, since the implementation of the UNFCCC’s Kyoto Protocol, 
+HFC emissions have risen by 15% a year.
+3
+HFCs don’t deplete the ozone layer like their predecessors, but 
+they are very powerful greenhouse gases.
+If left unchecked, HFCs will counteract other 
+global climate action
+The consequences of the rapid growth in HFC emissions are 
+shocking - a recent peer-reviewed report by top scientists shows that 
+if we only focus on reducing CO2 and do nothing about HFCs, they 
+will be responsible for between 28% and 45% of carbon-equivalent emissions by 2050. Even if we don’t act on CO
+2, HFCs would still 
+be responsible for between 10% and 20% of carbon-equivalent emissions by 2050.  
+This graph shows that 
+while CFC and HCFC emissions go down (the light-blue blocks), HFC emissions (the light-brown block) will overtake them by around 2025, and rapidly increase up towards 2050.Fig 1: Growing HFC emissions
+2000     2010     2020     2030     2040     2050
+YearEmissions (GtCO2-equ yr -1)high
+lowGWP-weighted (100-yr)Global ODS and HFC emissions
+HFCs
+HCFCsCFCs
+Without accelerated
+HCFC phase-out10
+8
+64
+2
+0}This graph shows that 
+the rapid growth in HFC consumption will come almost exclusively in developing countries. This is why it is crucial that developing countries leapfrog HFCs straight to environmentally safer technologies.Fig 3: Growing HFC marketThat translates into 5.5 to 8.8 billion tonnes of extra carbon-
+equivalent emissions a year by 20504. 5.5 billion tons of CO2 is 
+the equivalent of driving 43 million of those Volkswagen Golfs 
+mentioned above to the Moon - and back! 8.8 billion tons of CO2  
+is 8% more than what the USA is predicted to emit in 2010.5
+Developing countries – a growing problem and 
+a huge opportunity
+In developing countries, demand for HCFCs - the refrigerants currently 
+in use - increased annually by around 20% between 1989 and 20076. 
+This increase in refrigerant consumption is set to continue up to, and 
+possibly beyond, 2050. By then, consumption of HFCs in developing 
+countries will be 8 times greater than in developed countries. That 
+will translate into global consumption of HFCs being up to 3.5 times 
+higher than the peak consumption of CFCs and HCFCs in 1989.7 The problem
+HFCs are a climate issue 02
+This graph compares CO2 
+and HFC emissions up 
+to 2050. The line that is most important is the one representing CO
+2 emissions 
+if they are kept below 450 ppm - the 2
+oC threshold. If 
+you compare that with HFC emissions in 2050, then HFCs are responsible for between 28% and 45%  
+of carbon emissions.Fig 2: HFC vs. CO
+2  emissions
+2000     2010     2020     2030     2040     2050
+YearEmissions (GtCO2-equ yr -1)
+550 ppm
+450 ppm
+high
+lowGWP-weighted (100-yr)Global CO2 HFC emissions
+CO2 stabilization
+scenarios
+HFC range60
+5040302010
+0
+2000     2010     2020     2030     2040     2050
+YearConsumption (GtCO2-equ yr -1)
+HFC rangehigh
+lowGWP-weighted (100-yr)HFC consumption
+Developing
+countries
+Developed 
+countries10
+8
+6420SOUrCE: Velders et al, 2009
+SOUrCE: Velders et al, 2009 SOUrCE: Velders et al, 2009
+
+With strong international and national regulation and financing 
+mechanisms, as well as the forward-thinking action of global 
+corporations, the developing world can completely leapfrog HFCs. 
+Containment: a shameful legacy
+The main greenhouse gases we know (carbon dioxide, methane, etc.) 
+are emitted as a by-product of a process – for example, burning coal 
+releases carbon dioxide into the atmosphere. However, F-gas emissions 
+happen differently. As they are made specifically for use in appliances, 
+emissions occur through leaks, during maintenance, or when an 
+appliance is scrapped at the end of its life. 
+This means that if appliances using F-gases were much better built, 
+properly serviced and responsibly disposed of at the end of their lives, then F-gases would hardly ever be released into the atmosphere.
+But, industry itself says that 61% of the most popular HFC (HFC 
+134a) ever produced is already in the atmosphere.The fact that 97% of all CFCs - the very first generation of F-gases - ever 
+produced in developed countries are in the atmosphere does not 
+bode well for HFC containment.
+8 There has to be a sharp reversal of 
+this dismal trend. 
+For years, Greenpeace has called for a global network for the recapture, 
+recycling and destruction of F-gases in order to avoid such emissions. 
+Until such a network is in place, we have to assume that every kilo of 
+F-gas that is produced will eventually be emitted into the atmosphere.
+What’s what
+CFCs (chlorofluorocarbons): the first and most 
+well-known class of F-gases. They are both ozone-
+depleting and powerful greenhouse gases. From 2010, 
+CFC production or consumption anywhere in the world is illegal. They are regulated by the Montreal Protocol.
+HCFCs (hydrochlorofluorocarbons): the second 
+generation of F-gases, introduced as a temporary 
+replacement for CFCs. Less ozone-depleting and not contributing to global warming as much as CFCs, 
+they are still extremely potent. They will continue to 
+be used until 2020 in developed countries and 2030 in developing countries. They are regulated by the 
+Montreal Protocol.
+HFCs (hydrofluorocarbons): the third generation 
+of F-gases, yet another ‘temporary’ replacement for 
+CFCs. Although HFCs do not deplete the ozone layer, 
+they are extremely potent greenhouse gases, some 
+even more powerful than CFCs. There is currently no international agreement to phase them out. They are 
+included in the United Nations Framework Convention 
+on Climate Change (UNFCCC) basket of controlled greenhouse gases.
+HFOs (hydrofluoroolefins): the fourth(!) generation of 
+F-gases, HFOs are actually just HFCs marketed under 
+a different name to avoid the negative connotations of HFCs. According to the chemical industry that 
+is manufacturing them, they do not damage the 
+ozone layer and they have a minimal impact on the climate. However, there are other environmental and 
+health risks of these chemicals that make their use 
+unacceptably dangerous (see ‘The chemical industry: false hopes and unacceptable risks’ on page 12).
+The Montreal Protocol: The Montreal Protocol is 
+the UN-sponsored international ozone treaty.  It was 
+signed in 1987 and has since reduced the production and consumption of 96 ozone-depleting chemicals 
+by 97%. CFCs and HCFCs are regulated under this 
+agreement.
+The United Nations Framework Convention 
+on Climate Change (UNFCCC): The international 
+body that deals with global climate change. The 1997 Kyoto Protocol is an agreement that resulted from negotiations under the UNFCCC.
+“[HFCs] were introduced to save the 
+ ozone layer in the upper atmosphere 
+ from destruction but scientists say they 
+ are beginning to pose a serious threat 
+ to the global climate.”
+Financial Times - July 15, 2009
+07 HFCs: A growing threat to the climate
+
+symbol HFC 227ea
+Is a refrigerant and medicine propellant. This HFC has a 20-year GWP 
+of 4,930, which means 
+that it is 4,930 times more powerful than CO
+2 as a 
+greenhouse gas over a 20-year period). 
+HFCs: A growing threat to the climate08
+
+How do scientists measure 
+the impact of HFCs on the 
+climate?
+Global Warming Potential (GWP) 
+Global Warming Potential (GWP) measures the 
+potency of a greenhouse gas over a period of time 
+(compared to carbon dioxide, which has a GWP of 1). The measurement of global warming potential 
+changes depending on what timescale you use. For 
+example, 20 years compared to 100 or 500 years. By convention, scientists and policy makers look at 
+a 100-year time scale when converting the global 
+warming potential of a HFC gas to the equivalent in CO
+2. However, a lot of HFCs have a much shorter 
+lifetime than 100 years, so their full impact on the 
+climate is actually much better captured using a 20-
+year time-scale.  For example, HFC 134a, the most commonly-used HFC, has an atmospheric lifetime 
+of only 14 years. As a result it has a GWP of 1,430 
+over 100 years, and 3,830 over 20 years.
+9 It is clear 
+that using a 20-year GWP would stress even more 
+the need to take action to limit emissions from 
+HFCs, and it shows that early action on HFCs will have an immediate, strong and positive impact in 
+a world fast approaching the limits of dangerous 
+climate change. 
+Radiative forcing
+Radiative forcing measures how much extra heat a greenhouse gas puts on every square metre of the 
+planet. It’s the most direct measure of climate change. 
+CFCs and HCFCs, which deplete ozone, and the HFCs that replaced them, contributed to 17% of net 
+human-induced radiative forcing in 2005. This figure 
+is much higher than many other data show, as most other reports (including those from the IPCC) only refer 
+to the six gases covered by the Kyoto Protocol, and 
+thus do not include CFCs and HCFCs.
+What is the difference between GWP and 
+radiative forcing? GWP measures the potency of a greenhouse gas 
+over a specific period of time. It is independent of how 
+much of a greenhouse gas there is in the atmosphere, because it looks at how ‘good’ a molecule of a 
+particular greenhouse gas is at heating the planet over 
+time. Radiative forcing measures the potency of a greenhouse gas over a specific area (one square metre) 
+and it does change depending on how much of a 
+greenhouse gas there is in the atmosphere. The more of a greenhouse gas there is per square metre, the 
+more heat it will exert, the higher its radiative forcing.
+© GREENPEACE / NICK COBBING
+09 HFCs: A growing threat to the climate
+
+10 HFCs: A growing threat to the climateThe politics of F-gases: A tale of two treaties
+How HFCs came to be internationally controlled
+F-gases and the Montreal Protocol
+CFCs were first used as refrigerants in the 1930s. At the time they were 
+considered the perfect chemicals: non-toxic to humans, non-flammable, 
+and very cheap. However, in 1974 atmospheric scientists Sherwood 
+Rowland and Mario Molina made the case that if CFCs rose high enough in the atmosphere, the chlorine contained in CFCs could break 
+down ozone molecules that make up the stratospheric ozone layer.
+10 
+The ozone layer is what keeps harmful UV rays from hitting the planet, 
+which would otherwise have devastating effects on ecosystems and 
+massively increase the incidences of skin cancer and eye cataract  
+cases in humans.11
+Rowland and Molina’s theory was confirmed in 1985 when the British 
+Antarctic Survey discovered an ozone hole over the Antarctic during the 
+summer months.12 This spurred international action that first took shape 
+in the 1986 Vienna Convention and then the 1987 Montreal Protocol on Substances that Deplete the Ozone Layer. During the years leading 
+up to the formation of the Montreal Protocol, the chemical corporations did everything in their power to deny that their CFC and HCFC products 
+were environmentally dangerous, and they tried to stop and delay 
+international action to reduce and eliminate the use of these substances. Since the Montreal Protocol came into existence, the chemical industry 
+has tried to maintain the global monopoly it had with CFCs and HCFCs 
+by promoting HFCs as the only viable alternatives.
+Having reduced the production of 96 different ozone-depleting 
+substances by 97% in the past two decades,
+13 the Montreal Protocol 
+is regarded as one of, if not the most, successful environmental treaties 
+ever. It is also the only international treaty ever that every country in the 
+world has signed.
+5 things you need to know about 
+HFCs and the F-gas family
+ 1    In 2005, CFCs, HCFCs and HFCs were responsible for 17%  
+of direct global warming.
+ 2    While CFC and HCFC emissions go down, HFC emissions  
+are going up – 15% a year.
+ 3    If we do everything to keep global warming below 2°C,  
+but do nothing about HFCs, they will responsible for  
+the equivalent of between 28% and 45% of carbon  
+emissions by 2050.
+ 4    By 2050, developing countries will consume  
+8 times more HFCs than developed countries.
+ 5    HFC 134a, the most abundant HFC in use  
+today, is 3,830 times more powerful than CO2  
+as a greenhouse gas over a 20-year period.03
+“Because HFCs are used as replacements for ozone-deplet
+-ing substances and have global warming potentials up to 
+hundreds or thousands of times greater than CO
+2, their soaring growth for use in refrigerators and air-conditioners 
+threatens to negate the benefits that might be obtained 
+from reducing other greenhouse gas emissions.”
+www.foxbusiness.com - September 15, 2009© GREENPEACE / NICK COBBING
+
+HFCs: A growing threat to the climate 11The chemical industry: blocking 
+real solutions while harming the 
+climate
+Since the Montreal Protocol was signed, the chemical industry 
+has introduced a series of unnecessary chemicals harmful to 
+both the ozone layer and the climate. 
+The Montreal Protocol could have achieved much more to protect 
+the ozone layer and the climate had it not submitted to industry 
+demands which paved the way for the large-scale global uptake of HCFCs and HFCs. From the very beginning, the Protocol could 
+have done more to encourage the development and market penetration of environmentally safer technologies.
+The chemical industry has never taken any moral or financial 
+responsibility for the damage it has wrought to the ozone and now the climate. Yet it makes sense that when someone 
+damages your property, they pay for its repair. In environmental 
+terms, this is known as the ‘polluter pays’ principle. Greenpeace 
+believes that governments should legally compel the 
+chemical industry to contribute funds towards the cost  
+of eliminating CFCs, HCFCs and HFCs. 
+But this is not the whole story. Once the Montreal Protocol was in place, 
+the question became: what should we replace CFCs with? The answer 
+was obvious: natural substances that are environmentally-friendly and 
+economically practical (see ‘The solution’ on page 16).
+Greenpeace proved, as far back as 1992, that replacement of CFCs 
+with natural refrigerants was possible (see ‘Technology: the Greenfreeze story’ on page 24). The chemical industry had a different view.
+HFCs and the UNFCCC/Kyoto Protocol
+The UN Framework Convention on Climate Change is the international climate agreement under which the Kyoto Protocol was negotiated. 
+Under the Kyoto Protocol, developed countries are bound to reduce 
+their emissions by 5.2% of 1990 by 2012.
+14 While the Protocol is 
+known for regulating CO2, it is also responsible for the reduction of five 
+other greenhouse gases – three of them being F-gases: HFCs, PFCs 
+(perfluorocarbons) and SF6 (sulphur hexafluoride).
+Greenpeace was the main force behind the inclusion of HFCs and 
+other F-gases into the Kyoto basket of greenhouse gases.Their inclusion is important and remains so, because as greenhouse 
+gases they should be covered by the international climate framework. 
+This puts the most pressure on their elimination.
+HFCs: the link between the Montreal and  
+Kyoto Protocols
+HFCs are a bridge between the Montreal and Kyoto Protocols. They 
+were introduced as replacements to CFCs and HCFCs under Montreal, 
+but are regulated under Kyoto because they are purely greenhouse 
+gases, not ozone depleters. This unique history means that the Montreal and Kyoto Protocols have a shared responsibility to phase out HFCs and 
+must work in close cooperation to do so. 
+See ‘Politics: Greenpeace’s policy demands’ on page 27 for our 
+proposal of how HFCs should be regulated in 2010 and beyond.The ‘polluter pays’ principle
+The ‘polluter pays’ principle is a tenet of environmental law 
+which states that the party responsible for producing pollution 
+should be responsible to pay for the damage done to the 
+environment. It is mentioned in Principle 16 of the 1992  Rio Declaration on Environment and Development.
+© GREENPEACE / BISSET
+
+12 HFCs: A growing threat to the climateThe chemical industry
+False hopes and unacceptable risks
+HFOs: The new HFCs 
+Given the number of applications using natural refrigerants around 
+the world (see ‘The solutions’ on page 16), one would expect the 
+chemical companies who introduced F-gases to finally invest in these 
+environmentally-friendly chemicals. However, the chemical industry has come out with yet another F-gas alternative – a new generation of HFCs 
+it calls HFOs (h ydrof luoroo lefins). This time, it says that not only are they 
+ozone-friendly, they also have a low impact on the climate. What the 
+chemical industry has kept quiet though is how risky and toxic these 
+new chemicals can be in other areas of the environment and human 
+health. Until these risks are taken care of, Greenpeace will oppose these chemicals, in line with the precautionary principle (see ‘The precautionary 
+principle’ for definition). For the moment, they are only meant for car 
+air-conditioning, but plans for other applications are in the pipeline even though HFC-free environmentally-friendly alternatives are already 
+available. New chemicals will simply delay the deployment of the long-
+term solutions - HFOs are wolves in sheep’s clothing. 
+1 HFOs are only a short-term fix
+HFC black marketThe chemical industry trumpets the use of HFOs as a ‘drop-in’ 
+alternative, i.e. you can just ‘drop’– the new HFO into an old system 
+without having to fundamentally change it. However, becauseHFOs are much more expensive than any of the F-gases currently 
+on the market, the door is left open to a black market in older, more 
+environmentally harmful, but less expensive F-gases. This would prolong the use of more harmful F-gases, even after they are phased out (which 
+happened with CFC and HCFCs when they were first regulated).
+Looking backwards: soon to be phased-out HCFCs  
+used to make HFOs
+HCFCs, which destroy the ozone layer and have a high global warming potential are used to make HFO 1234yf.
+15 This means that ozone-
+depleting and global warming chemicals that are soon going to be 
+banned under the Montreal Protocol are the source of the refrigerants 
+of the future. As opposed to natural refrigerant technology that is tried, tested and open for all to use and develop, the chemical details of HFO 
+1234yf are shrouded in secrecy. There are human health concerns for 
+developmental toxicity and lethality of HFO 1234yf when inhaled at high concentrations
+16 Additionally, the substances that are released into the 
+atmosphere as a result of its production are unknown.2 HFOs – an unnecessary risk to the  
+environment and human health
+Trifluoroacetic acid (TFA): a danger to aquatic ecosystems
+When HFO 1234yf breaks down in the atmosphere it produces 
+a substance called trifluoroacetic acid (TFA). In high enough 
+concentrations, TFA is toxic in aquatic ecosystems.17 While TFA is 
+a common by-product when other HFCs breakdown, HFO 1234yf 
+produces 4 to 5 times as much TFA than the same amount of HFC 
+134a does.18 This means that if HFO 1234yf and other HFOs become 
+the refrigerants of choice, the concentration of TFA in fresh water bodies 
+around the world could increase dramatically, with unknown effects on 
+ecosystems and human health, as TFA concentration approaching a miligram per litre may be toxic to some aquatic life forms.
+19
+Hydrogen fluoride: a very toxic acid, fatal to humansHFO 1234yf is flammable, and when it burns, it releases hazardous 
+substances such as hydrogen fluoride (HF), which is toxic and can be 
+lethal in unventilated spaces (e.g. tunnels, cars with no open doors or 
+windows, etc.) A normal charge of HFO1234yf can produce an amount 
+of HF which is potentially lethal to a large number of people.
+20 It would 
+greatly increase the number of casualties from car crashes, particularly 
+in confined and unventilated areas (such as indoor parking lots and 
+tunnels). This risk makes the use of HFO 1234yf unacceptable.
+Greenpeace does not consider the flammability of a refrigerant an inherent 
+impediment to its use. Flammable refrigerants in mobile air-conditioners (MACs) can be safely used with the right systems. However, should the 
+car industry opt for refrigerants that are flammable, then hydrocarbons are 
+a superior choice to HFO 1234yf. They are already widely used in MACs in Australia and US.
+21 Hydrocarbons are environmentally-friendly, more 
+efficient, much cheaper, and immediately available.22
+Top scientists still have unanswered questionsThe Scientific Assessment Panel to the Montreal Protocol recently 
+raised its concerns about HFOs. These included the possibility of its 
+break down products being high GWP HFCs or even ozone depleting substances, and the potential for low-level ozone pollution formation.
+23
+All this shows that the fluorocarbon industry is using the low GWP of these new chemicals as a front, glossing over other serious 
+environmental and health issues.04
+
+The precautionary principle
+If an action or policy might cause severe or 
+irreversible harm to the environment, in the absence 
+of a scientific consensus that harm would not 
+ensue, the burden of proof falls on those who would advocate taking the action.
+In the context of HFOs, if there is a chance that 
+a chemical will cause serious damage to the 
+environment and/or human health, then the burden 
+is on those who are promoting that chemical to make certain that it is safe. Until such a time, that 
+chemical should not be put on the market.3 Natural refrigerants are the best available 
+technology and HFO development will only 
+delay their deployment. 
+Tests by the German Federal Environment Agency (Umweltbundesamt 
+- UBA) show CO2 as more efficient than HFC-134a in a standard vehicle 
+at temperatures up to 35oC. 24 A leading manufacturer of CO2 mobile 
+air-conditioning units has shown similar results at temperatures up to 
+45oC25. Other tests have shown that MACs using CO2 show better 
+efficiency under all climates and in all world regions26.
+In addition to all of this, it is well-documented that as a drop-in replace ment, 
+HFO 1234yf is less efficient than the current refrigerant in use, HFC-134a27, 
+28, 29, 30
+4 Greenpeace does not want to see history  
+repeating itself; after three subsequent 
+generations of destructive chemical products, it 
+is time to opt for the only acceptable alternative: natural refrigerants
+Low GWP and non-ozone damaging properties are not reason enough 
+to support the new generation of HFCs or ‘HFOs’. Other serious 
+environmental and health risks potentially make them just as dangerous as their predecessors. The way the chemical industry has marketed 
+CFCs, HCFCs and HFCs over the past 70 years should teach us to be 
+extremely sceptical of any industry assertions regarding new products. Therefore, governments should not base policies within the Montreal 
+Protocol or the UNFCCC on industry claims, but on the independent 
+testing of these products.
+HFOs are just the beginning. 
+There is a whole family of these gases waiting to be rolled out with untold environmental and health effects. New F-gases potentially containing 
+chlorine (which is responsible for most of the ozone depletion in the 
+stratosphere) are being tested.
+ While scientists indicate that because of 
+their short lifetime, these new chemicals won’t reach the stratosphere, 
+there are certain to be unanticipated environmental impacts from 
+increased chlorine in the atmosphere.
+Finally, Greenpeace does not support countries providing public 
+financial support to HFOs at the expense of funding natural refrigerants development and investment. 
+For more information see Greenpeace’ s Position Paper on the 
+chemical industry’s new generation of F-gases, available for download 
+at www.greenpeace.org/international/hfo-position-paper
+13 HFCs: A growing threat to the climate
+
+Section header
+Secondary section header
+If the rapid  
+growth in HFC  
+consumption  
+continues,  
+developing  
+countries will  
+consume 8 times 
+more than developed countries by 2050. This threat to the climate can be avoided if developing countries leapfrog HFCs straight to the long-term solutions: natural refrigerants.
+HFCs: A growing threat to the climate14
+
+Section header
+Secondary section header
+symbol HFC 23
+HFC 23 is a by-product  of HCFC-22 production, a low temperature refrigerant and 
+a firefighting agent.
+This HFC has a 20-year GWP of 11,100, which means that it is 11,100 times more powerful than CO
+2 as a greenhouse gas 
+over a 20-year period. 
+15 HFCs: A growing threat to the climate
+
+16 HFCs: A growing threat to the climateThe solutions
+Environment friendly, business friendly05
+MOBILE AC 
+32%DOMESTIC 1%
+COMMERCIAL 45%
+TRANSPORT 3% INDUSTR Y 4%STATIONAR Y AC 
+15%DOMESTIC
+COMMERCIAL
+TRANSPOR T
+INDUSTR Y
+STAT IONAR Y AC
+MOBILE ACBecause F-gases are such powerful greenhouse gases, a small 
+amount seriously damages the climate. However, this works both 
+ways: eliminating F-gases can also be an extremely effective way 
+of tackling climate change. And, if you replace them with natural alternatives that are environmentally-friendly and economically 
+practical, the climate benefits from eliminating F-gases are secured. 
+What are natural refrigerants?
+Natural refrigerants, as the name suggests, are substances that occur 
+in nature and which can be used in refrigerators and air-conditioners. 
+Greenpeace has championed them since the early 90s, along with 
+other environmentally-friendly technologies. Natural refrigerants don’t harm the ozone layer or the climate, they are often cheaper and more 
+energy efficient than their F-gas counterparts, and they have been 
+proven to work in all applications.
+31 
+The three main natural refrigerants in use are hydrocarbons, ammonia and carbon dioxide (yes, that’s right, carbon dioxide). They do not deplete the ozone layer and have been proven to be more energy 
+efficient than HFCs in countless case studies. Here are a few examples 
+and how they compare to HFCs (see box top right).
+SOUrCE: US EPA and ADEME Report: Determination of comparative HCFC and HFC emission profiles 
+for the Foam and Refrigeration sectors until 2015; Part 1 – Refrigerant emission profiles (April 2004)Fig 4: HFC emissions in CO2  equivalents
+Sectors that use refrigerants
+Commercial refrigeration  Encompasses all refrigeration 
+in the commercial sector: from vending machines, to refrigeration of fast-food restaurants and supermarkets. It will be the largest sector using HFCs in 2015.
+Industrial refrigeration  This sector refers to very large 
+installations such as warehouses, airports and dairy farms. HFC use is not so widespread in this area (only 4% of the total HFC market in 2015) because ammonia (a natural refrigerant) is cheaper and more energy efficient. In fact, over 90% of US industrial refrigeration uses ammonia as a refrigerant.
+Mobile air-conditioning  All the air-conditioning used in 
+vehicles.
+Stationary air-conditioning  All air-conditioning in 
+buildings, from offices to homes.
+Domestic Refrigeration  All refrigerators and freezers used 
+for domestic use
+Transport  All refrigeration used to keep loads cool during 
+transport (for example, supermarket trucks)Hydrocarbons: A well-known family of organic substances.  
+The properties of certain hydrocarbons make them stand out as 
+very efficient refrigerants. They are used as insulation foam blowing 
+agents and in domestic refrigerators, small commercial cooling 
+equipment like ice-cream coolers and vending machines, as well  
+as in air-conditioning. 
+Ammonia: Ammonia’s popularity has continued despite the advent 
+of F-gases, which is a testament to its unique properties. On average, 
+ammonia refrigeration systems cost 10-20% less to install than 
+systems using competitive industrial refrigerants.  Ammonia is 3-10% 
+more energy efficient than HFCs; as a result ammonia systems 
+use less electricity. Ammonia systems are used in a wide range of 
+applications, from air-conditioning for the International Space Station 
+to cooling the Vancouver 2010 Winter Olympics bobsleigh run. 
+Carbon dioxide: In spite of its notoriety as a greenhouse gas,  
+CO2 has very positive characteristics as a refrigerant. It does 
+not deplete the ozone layer and its GWP value is 1 (compared to thousands for a typical HFC). It is cheap and has good 
+safety characteristics. Its properties permit the design of smaller 
+components and more compact systems with its main uses being 
+vehicle air-conditioning and supermarket refrigeration.
+This pie chart shows which sectors using 
+HFCs will have the most impact on the climate by 2015 in a business as usual scenario.  
+The commercial sector is the biggest contributor (45%) which is why it is so important that companies take the  
+lead in phasing out HFCs from  
+all their applications.
+
+HFCs: A growing threat to the climate 17Conclusion: It is clear that natural refrigerants make both environmental and financial sense, compared to HFCs.38  The Bad
+Around 100 million domestic refrigerators are made every year. Over 
+60% of them use HFC 134a as a refrigerant. That translates into the equivalent of approximately 22 million tonnes of CO
+2 being put 
+into new fridges every year, the same as the annual emissions of 4.5 
+million cars. Due to the abysmal global failure of F-gas containment, 
+we have to assume that all this HFC 134a will be in the atmosphere in 20 years time - a ticking time-bomb that could unleash a climate 
+catastrophe.
+  The Good
+The other 40% of domestic refrigerators use technology pioneered 
+by Greenpeace: Greenfreeze (see page 24). It uses hydrocarbons with GWPs close to zero and - contrary to the nay-sayers - it is 
+the ultimate proof that natural refrigerants are capable of wide 
+application.Domestic refrigerators
+  The Bad
+HFC 134a, nearly 4000 times more powerful than CO2 as a 
+greenhouse gas, has been the standard refrigerant used in vending 
+machines and coolers in recent years. Due to their high refrigerant 
+leakage rates, vending machines and coolers using HFCs cause more harm to the climate than any other refrigeration application.
+35
+  The Good
+Major companies are investing in natural refrigerant technology for their new vending machines and coolers. CO
+2 technology in 
+vending machines has shown to be on average 10% more energy efficient than equivalent HFC applications
+36, while hydrocarbon 
+technology in coolers has shown to be 10% more energy efficient.37 
+So not only do natural refrigerants have a lower climate impact, 
+they also consume less energy.Vending Machines and CoolersSupermarkets
+  The Bad
+The most frequently used HFCs in supermarket refrigeration are 
+HFC 134a (3,830 times more powerful than CO2 over a 20-year 
+period) and HFC 404A (6,010 times more powerful than CO2 over 
+the same period).   
+  The Good
+Recently, a big supermarket chain compared the energy savings of a CO
+2 refrigeration system to a R404A system in one of its outlets. 
+It found that over a 1-year period, the CO2 system’s environmental 
+impact was 60% less than the R404A system. That included not 
+just the fact that CO2 – when used as a refrigerant - has much 
+less of an impact on the climate (relative to r404A), but it is 
+also more energy efficient, saving money on energy costs.32Mobile Air-conditioners (MACs)
+  The Bad
+In most vehicle air-conditioners, HFC 134a is the refrigerant of 
+choice. Molecule for molecule, HFC 134a is 3,830 times more powerful as a greenhouse gas than CO
+2 over a 20-year period.  
+  The Good 
+Ironically, CO2 causes less harm to the climate and is a more energy 
+efficient refrigerant than HFC 134a. A recent study on CO2 in MACs 
+showed energy savings of up to 10% to 12% using CO2 instead 
+of HFC 134a.33 Even up to temperatures of 45oC, CO2 has been 
+shown to consume less fuel per kilometre than HFC 134a.34
+“[HFCs] are… low hanging fruit in the climate change challenge. By some 
+estimates, action to freeze and then reduce this group of gases could buy the world the equivalent of a decades-worth of CO2 emissions”
+Achim Steiner, Executive Director of the United  
+Nations Environment Programme
+
+As demand for air-
+conditioning and refrigeration grows globally and new markets emerge, natural refrigerant technology is not only a business opportunity but a real sustainable solution for the climate
+18 HFCs: A growing threat to the climate
+
+HFCs: A growing threat to the climate 19
+Global supermarket Global supermarket
+Congratulations!
+Walmart has developed a refrigeration system 
+which reduces HFC leakage by up to 94%, a very impressive margin.
+Criticism
+While HFC leakage is an important factor, otherretailers with stores using CO
+2 refrigeration  
+systems have shown significant increases in en-ergy efficiency. Despite this, Walmart is consider -
+ing the new generation of HFCs (so-called HFOs) recently developed by the chemical industry. See the section on HFOs for why Greenpeace is opposed to these new chemicals.
+Challenge
+Walmart should set a deadline by when all its new stores will be HFC-free. We encourage it to choose the long-term solution - natural refrigerants - as an alternative to HFCs. There should be no difference in the new refrigeration technology between its stores in industrialised and developing countries.Congratulations!
+Carrefour has taken important steps in reporting 
+and reducing HFC leakage in its stores.
+Challenge
+Carrefour has yet to choose its refrigeration strategy for the future. We encourage it to go for the long-term solution – natural refrigerants – and not be conned into short-term fixes (HFOs) that not only pose serious environmental and health risks but are not economically viable. Carrefour should set a deadline by when all its new stores in both industrialised and developing countries use natural refrigerant technology.Congratulations!
+ Tesco has 5 stores using CO2 refrigeration 
+systems in the UK, with another 6 planned for the 
+end of the year. By the end of 2012, it plans to have 150 stores using CO
+2 refrigeration systems.
+ Outside the UK, it has stores and/or trials 
+planned with CO2 refrigeration systems in 
+Korea, Thailand, Hungary, the USA, Turkey and Malaysia. It has taken important steps to reduce HFC 
+leakage - from 19% in 2006, to 14% in 2008. It has invested in a training programme for its 
+engineers and plans to expand this into a more general educational programme. 
+Challenge
+Tesco should set a deadline by when all its new stores will use natural refrigerant technology. These high standards for refrigeration should be the same for its stores in developing as well as industrialised countries.Global & UK supermarketCorporate action Congratulations, criticism and challenges.
+HFC emissions from commercial refrigeration will have the biggest impact on the climate by 2015 (45%). As a result, we have profiled the 
+environmental strategies of 18 corporations that use HFCs to see how they are approaching this significant part of their carbon footprint.   
+Our response is organised into the 3 Cs: congratulate, criticise, and challenge. December 2009 Update: While some of these 18 corporations have 
+made steps towards going HFC-free, the recent actions of three of them merits special mention: the UK supermarket chains Sainsbury’s and Marks & Spencer have committed to going HFC-free in all their new supermarkets by the summer of 2010. Meanwhile, Coca-Cola has committed to going 
+HFC-free in all its new vending machines and coolers by 2015. There is now no excuse for other supermarkets and corporations not to do the same.
+Global supermarket UK supermarket
+Congratulations!
+Metro has 5 stores across Germany and 
+Denmark using CO2 refrigeration technology. 
+Criticism
+Metro currently has no plans to expand the number of its stores using CO
+2 refrigeration 
+systems, and as a result has no plans to go HFC-free.
+Challenge
+As a top global retailer, Metro has a responsibility to set an example in the refrigeration sector. We encourage it to set a deadline by when it will use natural refrigerant technology in all its new stores, in industrialised countries and also in developing countries such as China and India.Congratulations!
+Sainsbury’s has committed to going HFC-free 
+in all its stores (both old and new) by 2030. This move alone is going to cut Sainsbury’s carbon footprint by 30% by 2030. From summer 2010, all its new stores will be using CO
+2 refrigeration systems, a natural refrigerant 
+technology. Sainsbury’s is leading the way in HFC-free refrigeration.
+Challenge
+Sainsbury’s has set the bar high, both for itself and all other companies for whom refrigeration is a big part of their carbon footprint. We urge Sainsbury’s to continue its leadership role and honour its commitment, strengthening it where possible.Congratulations!
+Asda is working to reduce energy consumption 
+and HFC leakage in its stores. It has also started to train its engineers in natural refrigerant technology.
+Criticism
+Asda’s initial commitment in 2007 to transition to natural refrigerants has been disappointingly delayed. 
+Challenge
+Asda should honour its commitment to go HFC-free. Training its engineers in the safe use of natural refrigerants and installing natural refrigerant systems in all new stores is an important step in this direction. UK supermarket
+Updated, December 2009
+
+20 HFCs: A growing threat to the climate
+UK supermarket UK supermarket
+Congratulations!
+By the end of 2009, Morrison’s will have 20 
+stores using CO2 refrigeration systems (out of 
+418). It has set up a training programme for its refrigeration engineers in natural refrigerants. 
+Challenge
+CO2 is currently the standard system for its 
+new stores in low temperature applications (e.g. freezer cabinets). However, for higher temperatures, it is still using HFCs. This is unnecessary – natural refrigerants can be  
+used in both cascade refrigeration systems  
+with CO
+2 and stand-alone equipment. 
+Greenpeace encourages it to commit to a  
+fixed deadline by when it will be HFC  
+free in all its new stores.Congratulations!
+Marks & Spencer is showing real leadership 
+on HFCs by honouring its commitment to go HFC-free. From 2010, all new Marks & Spencer supermarkets will use CO2 refrigeration systems, and by 2015 it will hall halved its carbon footprint arising from F-gases simply by improving maintenance to prevent leakage. It is also progressively phasing out HFCs in all its old stores, with a view to becoming HFC-free in all its stores, old and new, by 2030.
+Challenge
+Marks & Spencer has again set the bar high, and we urge it to honour its commitment. It should also share its expertise in training engineers to use natural refrigerants and its experiences with natural refrigerant technology with national and international supermarket chains. We encourage Marks & Spencer to take a leadership role in the spread of HFC-free technology.Congratulations!
+Coca-Cola currently has 85,000 coolers and 
+vending machines using natural refrigerant technology worldwide. Coca-Cola recently committed to going HFC-free in all its new vending machines and coolers by 2015.The company is committing to use its scale  
+to aggregate demand and encourage supply as a means of accelerating the transition to HFC-free equipment.  
+Challenge
+To continue its efforts to honour its commitment to become 100% HFC-free in its point-of-sale equipment worldwide. We believe that, being one of the most recognisable brands in the world, Coca-Cola can set the standard in many markets, and use that market power to drive change in the transition to natural refrigerant technologies.Food & Beverage
+Food & Beverage Food & Beverage
+Congratulations!
+Danone has 1000 coolers using hydrocarbon 
+technology across a number of countries including Denmark, Mexico and Germany. 
+Criticism
+Danone has committed to using new HFCs, or HFOs in its coolers in 2010. Yet it has done no tests on the energy efficiency of these new HFCs, and independent testing obtained by Greenpeace shows that they are around 10% less energy efficient than old HFCs (see the section HFOs for more information on why Greenpeace is opposed to these new chemicals).
+Challenge
+Given the success of other global corporations, Danone should set a deadline by when all its new coolers use natural refrigerant technology.Congratulations!
+Commitment to a full phase-out of all F-gas 
+refrigerants. It is using hydrocarbons in several thousand of its coolers in Germany.
+Criticism
+It is yet to use natural refrigerants in commercial applications outside Western Europe. In order for developing countries to leapfrog HFCs straight to natural refrigerants, it is essential that Nestle introduce this technology in emerging markets.
+Challenge
+Nestle should set a deadline by when all its commercial applications use natural refrigerants.Criticism
+Heineken has no information on the 
+consumption and leakage of HFCs in its current equipment. This information is essential for transparency and to understand the scale of its contribution to climate change.
+Challenge
+Heineken says it is making a decision in the coming months on whether to go for hydrocarbon technology. We strongly urge it to do so. We encourage Heineken to set a deadline by when all its new commercial equipment will use natural refrigerant technology. Food & Beverage
+Updated, December 2009 Updated, December 2009
+
+HFCs: A growing threat to the climate 21Food & Beverage Food & Beverage Food & Beverage
+Congratulations!
+Pepsi has over 8000 vending machines using 
+either hydrocarbon or CO2 technology around 
+the world. It is one of the first companies to test CO
+2 
+vending machines and coolers in the United States.  Pepsi is the first global corporation to establish a schedule to go HFC-free across a whole country. From 2009, all new coolers in Turkey will be HFC-free, and old coolers will be gradually taken off the market. 
+Challenge
+Pepsi should step up its efforts globally and have a specific phase-out date for the elimination of HFCs in all its new applications.  
+With one country now HFC-free, there’s 194 to go - and it’s time to fix the schedule!Congratulations!
+Unilever has over 400,000 coolers that use 
+hydrocarbon technology around the world, from South Africa to China, from Brazil to the United States. It is the first company to test coolers using hydrocarbons in the United States.
+Challenge
+To continue its efforts to become 100% HFC-free in its point-of-sale equipment worldwide and establish a concrete deadline to do so. Congratulations!
+McDonald’s has one restaurant using natural 
+refrigerant technology.
+Criticism
+It has yet to honour its commitment to go HFC-free in refrigeration equipment in its restaurants. Back in 2004, Greenpeace congratulated  McDonald’s on its commitment to move away from HFCs, but the progress of  other companies has left it lagging behind.
+Challenge
+If one restaurant can go HFC-free, all of them can. We encourage McDonald’s to make natural refrigerants the standard in all its new restaurants. 
+Food & Beverage Food & Beverage Other
+Congratulations!
+Carlsberg has over 3,500 coolers using 
+hydrocarbon technology in Denmark, Sweden 
+and Switzerland. 
+Challenge
+This should only be a beginning. Greenpeace 
+encourages Carlsberg to commit to a fixed deadline by when it will be HFC-free in all it new cooling equipment. Criticism
+It has not made any commitment to reduce 
+HFC usage in its equipment.
+Challenge
+AB-Inbev should ascertain the climate footprint of its cooler fleet and fix a schedule as soon as possible to become HFC-free in all its new equipment.Criticism
+Ikea has abandoned the commitment it made in 
+2006 to natural refrigerants by abandoning the Refrigerants, Naturally! coalition. (See page 26 for more information on Refrigerants, Naturally!)
+Challenge
+Ikea should set a deadline by when all  
+its commercial applications will use natural refrigerant technology. The success of  
+other global corporations proves that this  
+is possible now. 
+
+
+Denmark: From 1 January 2006 to 1 
+January 2011 there is a general ban on the 
+use, import or sale of fluorinated greenhouse 
+gases (HFCs, PFCs and SF6). A gradual 
+phase-out has been put in place for some 
+applications. Products for export are not 
+covered by the ban. 
+Germany: Within Germany’s ‘Integrated 
+Energy and Climate Protection Programme’ the country recently launched a funding 
+programme to advance the development and market launch of commercial refrigeration
+systems using natural refrigerants. The 
+German Federal Ministry for Environment 
+also instituted a Climate Protection Incentive Programme for commercial refrigeration 
+plants, in order to advance development and 
+market launch of particularly energy-efficient and ecological refrigeration systems using 
+natural refrigerants. 
+Switzerland: HFCs, PFCs and SF6 have 
+been regulated since July 2003. The 
+regulation encompasses licensing, reporting leak checks, servicing and end-of-life 
+requirements for equipment containing more than 3kg of such refrigerants. The regulations 
+are intended to reduce the contribution of 
+synthetic greenhouse gas emissions to 2% 
+by 2010.
+Norway: The country’s main policy measure 
+is a tax on imported HFCs and PFCs, which has been introduced explicitly as a GHG-
+reduction measure. The tax is coupled to a 
+refund scheme.
+Sweden: Sweden has a long record of 
+prohibiting HFCs in large quantities and the refrigerant charge per system has been 
+limited to some 30 or 40kg for many years.Solutions
+➤  There are natural refrigerants that can work in 
+virtually all applications.
+➤  On top of their environmental benefits, natural refrigerants are usually cheaper and more energy 
+efficient than HFCs.
+➤  The three main classes of natural refrigerants are hydrocarbons, ammonia and CO
+2.
+➤  Greenfreeze, the technology that Greenpeace 
+pioneered, is used in over 350 million domestic refrigerators worldwide and dominates 40% of  
+the global market.
+➤  Developing countries are at a crossroads. With 
+HCFCs (the second generation of F-gases) 
+being phased out, developing countries have the opportunity to leapfrog HFCs and move directly to 
+long-term solutions offered by natural refrigerants. 
+They would thus avert the unnecessary  release of billions of tonnes of CO
+2 equivalent greenhouse 
+gas emissions, as well the need to yet again switch 
+technologies in the not too distant future.
+HFCs: A growing threat to the climate22Examples of National  
+Post-HFC Legislation
+
+Section header
+Secondary section header
+“Coca-Cola, Pepsi and Unilever have all developed 
+Greenfreeze technology for their vending machines and 
+coolers; Unilever, maker of Ben & Jerry’ s ice-cream, alone has deployed 2 million ice-cream coolers worldwide, in-
+cluding 2,000 in Boston and W ashington on a test basis… This year W al-Mart began using a non-HFC refrigeration 
+system in one of its Canadian stores, and is moving toward implementing the technology in the US, where its coolers 
+are responsible for more greenhouse gases than its trucks.”
+Newsweek - April 25 2009
+23 HFCs: A growing threat to the climate
+
+Greenpeace’s role 
+Technology, business and politics06
+24 Greenpeace InternationalThe US ban: progress under the EPA
+The US Environmental Protection Agency (the EPA) is the body that 
+controls which chemicals can and cannot be used as refrigerants 
+in the US. Greenpeace has been helping companies for years to 
+navigate the cumbersome approval process, and in 2008 we finally 
+saw some (limited) progress. 
+In September 2008, Ben & Jerry’s launched test Greenfreeze ice-
+cream coolers around Washington DC and Boston. Soon after, 
+GE announced the development of a line of refrigerators using Greenfreeze technology, hopefully to be launched in 2010 subject to EPA approval. In March 2009, just across the border in Mexico, 
+Greenfreeze refrigerators made by Bosch were launched in Sears. 
+Coca-Cola and PepsiCo are testing vending machines using natural refrigerants around the US.
+North America is the only region in the world where people can’t buy 
+a climate-friendly refrigerator. Greenpeace is tackling this head-on by 
+challenging government bureaucracy and chemical industry tactics. When Greenfreeze technology is finally accepted in North America, 
+this will open the door for the wider global application of natural 
+refrigerants and a quicker transition to a safer, greener, planet.Technology: the Greenfreeze story
+In the early 1990s, Greenpeace set out to find climate-friendly 
+alternative technologies, convinced that there was a way to avoid 
+the HFC route proposed by the chemical industry. The result was 
+the creation of Greenfreeze technology, which uses hydrocarbons for both the blowing of the insulation foam and the refrigerant and 
+are entirely free of ozone-depleting and global warming chemicals. 
+Greenpeace then commissioned the manufacture of 10 prototypes  
+of this technology. 
+Greenpeace open-sourced the technology and has received no financial 
+remuneration or royalty for developing the product. Greenpeace 
+marketed, gathered orders, and pre-sold 70,000 refrigeration units (in 
+three weeks) for an East German manufacturer in order to make the retooling of its factory worthwhile. Since March 15, 1993, when the first 
+Greenfreeze refrigerator rolled off the assembly line, 350 million units 
+have been sold in Europe, Russia, Asia and South America by leading brands including Whirlpool, Bosch, Panasonic, LG, Miele, Electrolux, 
+and Siemens. Greenpeace’s achievement was recognised by the United 
+Nations Environment Programme in 1997, when Greenfreeze received the prestigious UNEP Ozone Award.
+There would be many more than the 350 million Greenfreeze 
+refrigerators already around the world today if Greenfreeze technology 
+wasn’t banned in North America.
+The reason for the ban is because Greenfreeze uses hydrocarbons, 
+which - despite being ozone and climate-friendly - are flammable. 
+The chemical industry has, over the years, used this to argue that Greenfreeze is a ‘fringe’ option, while promoting its own ozone and 
+climate-harming chemicals. However, major appliance manufacturers who operate around the globe use Greenfreeze - they would not deem hydrocarbons safe for the rest of the world but unsafe in North America.
+This was clear in a recent Greenpeace survey of refrigerator 
+manufacturers, where Bosch (the single biggest manufacturer of 
+Greenfreeze refrigerators worldwide) reported not one recorded incident in all its 50 million refrigerators. A recent study stated that  there is 
+a bigger chance of your washing machine exploding.
+39 This shows 
+beyond doubt that, with the correct safety  specifications, hydrocarbon flammability can be easily circumvented. 
+350 million refrigerators (and counting) can’t be wrong.
+“Greenfreeze dominates the market in Europe 
+and is prominent in Japan and China. The 
+technology is also in use in India, Brazil and 
+Argentina. Factories around the world pro
+- duce HFC-free fridges for domestic use and 
+fridges with HFC for export to Canada and 
+the United States because the new technology 
+isn’t allowed in yet.”
+The Globe and Mail (Canada) 
+- September 9th 2009
+
+HFCs: A growing threat to the climate 2516 years of Greenfreeze. 350 million worldwide. 40% of the global market.
+Between 90% and 100% of domestic refrigerator production uses Greenfreeze
+Mixed market of both Greenfreeze and other technologyOngoing tests but Greenfreeze still banned
+Europe
+since 1993Saxony, Germany
+ﬁrst Greenfreeze refrigerator 1993
+India
+since 2004Turkey
+     since 1997Russia     
+since 2007
+China     since 1997
+Japansince 2001
+Australia
+since 1997Indonesia
+since 1997Brazil
+since 2004
+map:Cubasince 1997
+Mexicosince 2007
+Peru
+since 2002since 2008
+Argentina
+
+26 HFCs: A growing threat to the climate
+“W e recognise that the accelerated 
+phase-out of HCFCs mandated 
+under the Montreal Protocol is 
+leading to a rapid increase in the use of HFCs, many of which are 
+very potent GHGs.”
+The G8 Declaration - July 2008Business: Refrigerants, Naturally!
+In 2004, with support from Greenpeace and UNEP , several major 
+food and beverage companies launched Refrigerants, Naturally!, a 
+multi-stakeholder initiative to develop HFC-free point-of-sale retail 
+vending machines, display cases, beverage coolers, etc. In so doing, Refrigerants, Naturally! became the first corporate alliance 
+with the explicit goal of replacing HFC technology in favour of natural 
+refrigerants. The companies have, over the last years and together with their suppliers, developed and tested multiple innovative HFC-free 
+refrigeration technologies.
+Politics: Greenpeace’s policy demands
+As the demand for fresh food, cold drinks and cool cars grows rapidly in 
+emerging economies such as China and India, the right technology must 
+be made available and ready to use. The overriding imperative for 
+the coming years is that developing countries have strong policy and financial incentives to leapfrog HFCs and move straight to 
+environmentally-friendly alternatives. 
+The keys to this solution are clear.  We have two global conventions, the 
+Kyoto Protocol (the international climate agreement) and the Montreal 
+Protocol (the international ozone agreement), both of which could – and must - act swiftly to get rid of F-gases.  
+Greenpeace is calling for a complete phase-out of HFCs by 2020. 
+Furthermore, we believe that the UNFCCC and the Montreal 
+Protocol both have important and unique collaborative roles to 
+play in the phasing-out of HFCs. 
+➤  This collaborative approach would include the following 
+elements:  HFCs would remain within the regulated basket of gases 
+under the UNFCCC, and HFC phase-out would be incorporated in 
+the Copenhagen agreement.  
+➤  The Montreal Protocol would limit the production and consumption of HFCs around the world. The UNFCCC would control emissions and 
+facilitate funding and technology transfer to the developing countries.  
+➤  Both Protocols would be amended to accommodate such collaboration. Such a dual approach will combine the political and scientific authority of the UNFCCC/Copenhagen process with the vast practical expertise and on-the-ground infrastructure of the Montreal 
+Protocol. It recognises the importance of regulating all current and 
+future industrial greenhouse gases under the UNFCCC framework, keeps the focus on HFCs as major greenhouse gases, continues 
+to take into account their overall emissions and proportional 
+contribution to global warming, and at the same time enables their systematic reduction towards an eventual phase-out through a 
+Montreal Protocol structured and implemented regulatory framework 
+on production and consumption. 
+The first step the Parties to the Montreal Protocol must take 
+is to mandate the Multilateral Fund to maximise the climate benefits of the accelerated HCFC phase-out by only funding 
+HFC-free projects. This action is essential for developing countries 
+to leapfrog HFCs straight to natural refrigerants and other not-in-kind alternatives.
+Another equally important step in securing the climate benefits of  
+the Montreal Protocol is the recovery and safe destruction of the 
+millions of tonnes of ‘banked’ HFCs, CFCs and HCFCs sitting in old 
+cooling equipment.
+The entire HFC challenge is what could be termed a ‘low-hanging 
+fruit’ in the fight to solve climate change – the business-as-usual, could mean a massive amount of unnecessary greenhouse gases 
+being released into the atmosphere at the very time when we need  
+to cut them the most. 
+
+HFCs: A growing threat to the climate 27
+What you can do
+When it comes to HFCs, all you need to do to become a 
+climate activist is make smart consumer choices.
+Domestic refrigerators
+Make sure you check the type of refrigerant used in your domestic 
+refrigerator before you buy it. Look for the R600a sign that denotes 
+the Greenfreeze technology pioneered by Greenpeace. Avoid refrigerants called R22 (ozone-depleting and 5,160 times more 
+powerful than CO
+2 over a 20-year period) and R134a (3,830  
+times more powerful than CO2 over a 20-year period). Brands  
+like Bosch currently use Greenfreeze technology in the majority  
+of their refrigerators.
+Air-conditioning
+Avoid the refrigerants R134a and R22 and look out for air-
+conditioners using natural refrigerants like R600a and R290. Italian manufacturer De Longhi currently sells room air-conditioners using 
+R290, which are 10% more energy efficient than those using 
+R134a. So, you can save money on energy bills as well!
+Supermarkets
+Supermarkets are one of the biggest emitters of HFCs. Try and choose a supermarket that uses natural refrigerants in  
+its refrigeration systems.
+
+
+28 HFCs: A growing threat to the climategreenpeace.orgGreenpeace is an independent global 
+campaigning organisation that acts to change attitudes and behaviour, to protect and conserve the environment and to promote peace. 
+ 
+Greenpeace InternationalOttho Heldringstraat 5The NetherlandsTel: +31 20 7182000
+Fax: +31 20 7182002
+ 1 IPCC (2007): Report of Working Group 1 
+ 2  IPCC (2006): Special Report on Ozone and Climate (SROC), 
+Ch.11 Table 11.2
+ 3  Proposed amendment to the Montreal Protocol submitted by the Federated States of Micronesia and Mauritius in July 2009
+ 4   The above information is taken from Velders et al. (2009): Proceedings of the National Academy of Sciences, vol. 106 no. 27 p.10949
+ 5   http://globalis.gvu.unu.edu/indicator_detail.cfm?country=US&indicatorid=197
+ 6  Velders et al., op. cit.
+ 7  Ibid.
+ 8   For HFC 134a, see http://afeas.org/data.php?page=emission_hfc134a. For CFCs, see both http://afeas.org/data.php?page=emission_cfc11 and http://afeas.org/data.php?page=emission_cfc12 
+ 9  IPCC/TEAP Special Report on Ozone and Climate Ch. 2, p. 160
+10   Molina, M. J. and Rowland, F. S., Nature 249 (1974): Stratospheric Sink for Chlorofluoromethanes: Chlorine Atom-Catalysed Destruction of Ozone
+11   NASA et al.: Twenty Questions and Answers About the Ozone Layer: 2006 Update -  Q3: Why do we care about atmospheric ozone?
+12   Farman, J. C., Gardiner, B. G. & Shanklin, J. D. (1985): Nature 315, pages 207–210
+13   http://climate21.wordpress.com/2009/09/03/use-montreal-protocol-to-limit-super-greenhouse-gases-in-face-of-resistence-to-kyoto/
+14   http://unfccc.int/kyoto_protocol/items/2830.php
+15  HCFC-225 ca (20-year GWP: 550, ODP: 0.07) and HCFC-225 cb (20 year GWP: 1700, ODP: 0.03) – US patent no. 7,470,828 B2 (30 December, 2008). Available from http://www.freepatentsonline.com/7470828.html 
+16 REACH evaluation –HFC 1234yf
+17  Boutonnet et al. (1999) “Environmental risk assessment of trifluoroacetic acid” Human and Ecological Risk Assessment, 5(1), 59–124.
+18  EPA Proposed Ruling on HFO 1234yf p. 11-12 – 19 October, 2009. Available at http://www.epa.gov/ozone/downloads/NPRMHFO1234yf.pdf
+19  IPCC/TEAP Special Report on Ozone and Climate, Chapter 2, p.22
+20  R. Monfortte/ L. Caretto, FIAT: Safety Issues in the Application of a Flammable Refrigerant Gas in MAC Systems: the OEM Perspective, January 2009, copyright SAE International.
+21  The Australian company HyChill (www.hychill.com.au) and American company OZ technology (www.oztechnologyinc.com) provide hydrocarbon refrigerants for mobile air conditioning.
+22  Certain hydrocarbon blends show an increase in energy efficiency of up to 17% in mobile air conditioners compared to HFC134a - Wongwies S. et al. “Experimental investigation of hydrocarbon mixtures to replace HFC-134a in an automotive air conditioning system” Energy Conversion and Management 47 (2006) 1644–1659
+23  Newman et al. (2009) “HCFCs and HFCs: An Update from the Scientific Assessment Panel”
+24  Umwelt Bundes Amt. “Natural refrigerants – CO2-based air conditioning system put to practical testing” May 2009.
+25  Wieschollek, F., Heckt, R., “Improved Efficiency for Small Cars with R744.” Visteon. Presentation prepared for VDA Alternative Refrigerant Winter , February 13-14, 2008, Saalfelden, Austria.
+26  ARCRP2, Results in Green Mac LCCP (Lifetime), datasheet provided by Shecco
+27  Monforte, R., Rose, B., L’Huillier, J-M., “Updated situation about alternative refrigerant evaluation.” Fiat Group Automobiles, PSA Peugeot Citroen, Renault. Presenation prepared for SAE 2008 Alternative Refrigerant Systems Symposium, June 10-12, 2008, Phoenix, AZ
+28  Meyer, J., “R-1234yf Sysetm Enhancements nad Comparison ot R134a.” Visteon. Presentation prepared for SAE 2008 Alternative Refrigerant Systems Symposium, June 10-12, 2008, Phoenix, AZ.
+29  Benouali, J., Karl, S., Petitjean, C. “A/C System Control Strategies for Major Refrigerant Options.” Valeo. Presentation prepared for SAE 2008 Alternative Refrigerant Systems Symposium, June 10-12, 2008, Phoenix, AZ.
+30  Ikegami, T., Iguchi, M., Aoki, K., Iijima, K., “New Refrigerants Evaluation Results.” Toyota, Honda, Nissan, Valeo joint presentation prepared for the VDA Alternative Refrigerant Winter Meeting, February 13-14, 2008, Saalfelden, Austria.
+31  Colbourne, D. (2009): Opportunities for the application of Natural Refrigerants. Natural Refrigerants. Pachai, A. C. et al. (2009): Achieving the green dream by the use of natural refrigerants
+32  Campbell A, Missenden JF and Maidment GG, - Institute of Refrigeration. (2007). Carbon dioxide for Supermarkets p. 10
+33   Hafner, A. & Nekså, P . (2006): Global environmental consequences of introducing R744 (CO2) mobile air conditioning. SINTEF Energy Research, 7th IIR Gustav Lorentzen Conference on Natural Working Fluids, Trondheim, Norway.
+34 Visteon (2007). Op. cit.
+35 TEAP XX/8 Task Force Report p.2, May 2009
+36  Elefsen F, Nyvad J and Gerrard A. (2004). Field test of 75 R404A and R290 ice cream freezers in Australia. EcoLibrium AU 2 (10), 24–27. 
+37  Azar A. (2009). Coca-Cola presentation to the members of ‘Refrigerants, Naturally!’
+38  Colbourne D. (2009). Op. cit.
+39  Colbourne, D. (2008). Safety of Appliances Using Hydrocarbon Refrigerants. Chapter from the GTZ Proklima publication Natural RefrigerantsReferences

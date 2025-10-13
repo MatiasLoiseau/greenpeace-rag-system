@@ -1,0 +1,1534 @@
+# Archivo original: false-hope-why-carbon-capture.pdf
+# Tipo: .PDF
+# Procesado el: Sat Oct 11 09:42:07 -03 2025
+
+greenpeace.org
+CatalysinganenergyrevolutionWhycarboncapture
+andstoragewon’tsavetheclimateFalseHope
+
+For more information contact:
+enquiries@int.greenpeace.org
+Lead Author: Emily Rochon
+Editor: Jo KuperContributing Authors: Dr Erika Bjureby,Dr Paul Johnston, Robin Oakley,Dr David Santillo, Nina Schulz,Dr Gabriela von Goerne
+Printed on 100% recycled
+post-consumer waste withvegetable based inks.
+JN 136Published in May 2008
+by Greenpeace InternationalOttho Heldringstraat 51066 AZ AmsterdamThe NetherlandsTel: +31 20 7182000Fax: +31 20 5148151
+greenpeace.org
+Design: neo
+Communications for Positive Change
+www.neocreative.co.uk
+image Smokestacks from
+LTV Steel Co with Cleveland,
+Ohio, USA.
+©GREENPEACE / R VISSERcoverimage Cogeneration
+electric power generation site nearMidland, Pennsylvania, USA.
+©GREENPEACE / R VISSER
+
+Sections
+1. Executivesummary 5
+2. Introduction 9
+3. CCStechnicallyspeaking 11
+4. Liftingthesmokescreen 17
+4.1 CCS cannot deliver in time to save the climate 17
+4.2 CCS wastes energy 19
+4.3 CCS storage – where will all the CO 2go,
+will it stay there permanently? 21
+4.4 CCS is too expensive 27
+4.5 CCS and liability: risky business 30
+5. Theworldalreadyhastherealsolutions
+totheclimatecrisis 37Listoftables
+1. Geological trapping mechanisms 15
+2. Geological storage capacity estimates 20
+3. Performance of air-blown PC generating
+units with and without CCS 20
+4. Impact of CCS system on resource
+consumption and emission rates 22
+5. Cost ranges for components of CCS system 27
+Listoffigures
+1. Trapping mechanisms 15Contents
+3Greenpeace
+InternationalFalseHopeWhy carbon captureand storage won'tsave the climate
+
+
+4image View of Prunerov coal-fired
+power plant, Czech Republic. One
+of the many sites where Greenpeacehas staged climate change protests.
+©GREENPEACE / K DAVISON
+
+5This report, based on peer-reviewed independent
+scientific research shows that:
+CCScannotdeliverintimetoavoiddangerous
+climatechange. The earliest possibility for deployment
+of CCS at utility scale is not expected before 2030.1To
+avoid the worst impacts of climate change, globalgreenhouse gas emissions have to start falling after 2015,
+just seven years away.
+CCSwastesenergy. The technology uses between 10
+and 40% of the energy produced by a power station.2
+Wide scale adoption of CCS is expected to erase the
+efficiency gains of the last 50 years, and increase
+resource consumption by one third.3
+Storingcarbonundergroundisrisky. Safe and
+permanent storage of CO 2cannot be guaranteed. Even
+very low leakage rates could undermine any climate
+mitigation efforts.
+CCSisexpensive. It could lead to a doubling of plant
+costs, and an electricity price increase of 21-91%.4
+Money spent on CCS will divert investments away from
+sustainable solutions to climate change.CCScarriessignificantliabilityrisks. It poses a threat
+to health, ecosystems and the climate. It is unclear how
+severe these risks will be.The climate crisis requires urgent action. Climate scientistswarn that to avoid the worst effects, global greenhousegas emissions must peak by 2015 and then start falling byat least 50% by 2050, compared to 1990 levels. Coal isthe most polluting of all fossil fuels, and the single greatestthreat to the climate. If current plans to invest hundreds ofbillions of dollars in coal plants are realised, CO
+2emissions
+from coal could increase 60% by 2030.
+Concerns about the feasibility, costs, safety, and liability of
+CCS make it a dangerous gamble. A survey of 1000“climate decision-makers and influencers” around theworld reveals substantial doubt in the ability of CCS todeliver. Just 34% were confident that retrofitting ‘cleancoal technology’ to existing power plants could reduceCO
+2emissions over the next 25 years without
+unacceptable side effects, and only 36% were confidentin its ability to deliver low-carbon energy from new powerstations.
+5
+The real solutions to stopping dangerous climate changelie in renewable energy and energy efficiency that can startprotecting the climate today. Huge reductions in energydemand are possible with efficiency measures that savemore money than they cost to implement. Technicallyaccessible renewable energy sources – such as wind,wave and solar- are capable of providing six times moreenergy than the world currently consumes – forever.Carboncaptureandstorage(CCS)aimstoreducetheclimate
+impactofburningfossilfuelsbycapturingcarbondioxide(CO 2)
+frompowerstationsmokestacksanddisposingofitunderground.Itsfuturedevelopmenthasbeenwidelypromotedbythecoalindustryasajustificationfortheconstructionofnewcoal-firedpowerplants.However,thetechnologyislargelyunprovenandwillnotbereadyintimetosavetheclimate.Executive
+summary1Greenpeace
+InternationalFalseHopeWhy carbon captureand storage won'tsave the climateSectionOne
+
+
+Greenpeace’s Energy [R]evolution6provides a practical
+blueprint that shows how renewable energy, combined
+with greater energy efficiency, can cut global CO 2
+emissions by almost 50%, and deliver half the world’senergy needs by 2050.
+WhatisCCS?CCS is an integrated process, made up of three distinct
+parts: carbon capture, transport, and storage (includingmeasurement, monitoring and verification).
+Capture technology aims to produce a concentrated
+stream of CO
+2that can be compressed, transported, and
+stored. Transport of captured CO 2to storage locations is
+most likely to be via pipeline.
+Storage of the captured carbon is the final part of the
+process. The vast majority of CO 2storage is expected to
+occur in geological sites on land, or below the seabed.Disposing of waste CO
+2in the ocean has also been
+proposed but this method has been largely discounted dueto the significant impacts CO
+2would have on the ocean
+ecosystem and legal constraints that effectively prohibit it.
+CCScannotdeliverintimeThe urgency of the climate crisis means solutions must be
+ready for large-scale use as soon as possible. CCS simplycannot deliver in time. As the United Nations DevelopmentProgramme (UNDP) says “CCS will arrive on the battlefieldfar too late to help the world avoid dangerous climatechange”
+8At present, there are no large-scale coal-fired
+power plants in the world capturing carbon, let alone anythat are integrated with storage operations.
+9
+The earliest CCS may be technically feasible at utility scaleis 2030.
+10The Intergovernmental Panel on Climate
+Change (IPCC) does not expect CCS to becomecommercially viable until at least the second half of thiscentury.
+11Even then, plants responsible for 40-70% of
+electricity sector CO2 emissions will not be suitable forcarbon capture’.
+12
+Despite this, CCS is being used as an excuse by power
+companies and utilities to push ahead with plans to buildnew coal-fired power plants; branding them “capture-ready.” The International Energy Agency (IEA) describes a“capture-ready” plant as one “which can be retrofittedwith CO
+2capture when the necessary regulatory or
+economic drivers are in place”.13This definition is broad
+enough to make any station theoretically “capture-ready”,and the term meaningless.The very real danger of “capture-ready” power stations isthat promises to retrofit are unlikely to be kept. Retrofitsare very expensive and can carry such high efficiencylosses that plants become uneconomic.
+14Furthermore,
+even if a plant is technically suitable for carbon capturethere is no guarantee that there will be accessiblestorage locations.
+In the UK, a proposed new coal-fired power plant at
+Kingsnorth, Kent, is being sold as “capture ready”; able toincorporate CCS should the technology ever becomeavailable in the future. However, no one has any idea ifand when this might be. In the meantime, and possibly forits entire lifetime, Kingsnorth (if built) will pump out around8 million tonnes of CO
+2per year, an amount equivalent to
+the total annual CO 2emissions of Ghana.15
+If CCS is ever able to deliver at all, it will be too little,too late.
+CCSwastesenergyCapturing and storing carbon uses lots of energy,
+anywhere from 10-40% of a power station’s capacity.
+16An
+energy penalty of just 20% would require the constructionof an extra power station for every four built.
+17
+These reductions in efficiency will require more coal to be
+mined, transported, and burned, for a power station toproduce the same amount of energy as it did withoutCCS.
+CCS will also use more precious resources. Power
+stations with capture technology will need 90% morefreshwater than those without. This will worsen watershortages, already aggravated by climate change.
+18
+Overall, wide-scale adoption of CCS is expected to erasethe efficiency gains of the last 50 years, and increaseresource consumption by one third.
+19
+Storingcarbonundergroundisrisky
+The IEA estimates that for CCS to deliver any meaningful
+climate mitigation effects by 2050, 6000 projects eachinjecting a million tonnes of CO
+2per year into the ground
+would be required.20At the moment, it is not clear that it
+will be technically feasible to capture and bury this muchcarbon, i.e. whether there are enough storage sites, or thatthey will be located close enough to power plants.Transport of CO
+2over distances greater than 100
+kilometres is likely to be prohibitively expensive.21
+6“CCSwillarriveonthebattlefieldfartoo
+latetohelptheworldavoiddangerous
+climatechange.”7
+
+7Efforts to capture CO 2make no sense if there is not
+adequate accessible space to store it permanently. Even if
+it is feasible to bury hundreds of thousands of gigatonnesof CO
+2there is no way to guarantee that storage locations
+will be appropriately designed and managed over thetimescales required.
+As long as CO
+2is in geological sites, there is a risk of
+leakage. While it is not currently possible to quantify the
+exact risks, any CO 2release has the potential to impact
+the surrounding environment; air, groundwater or soil.Continuous leakage, even at rates as low as 1%, couldnegate climate mitigation efforts.
+22Remediation may be
+possible for CO 2leaks, but there is no track record or cost
+estimates for these measures.23
+A natural example of the danger of CO 2leakage occurred
+at Lake Nyos, Cameroon in 1986. Following a volcaniceruption, large quantities of CO
+2that had accumulated on
+the bottom of the lake were suddenly release, killing 1700people and thousands of cattle over a range of 25 km.
+24
+CCSisexpensiveandunderminesfundingforsustainablesolutions
+While cost estimates for CCS vary considerably, one thing
+is certain – it is extremely expensive.
+CCS will require significant funding to construct the power
+station and necessary infrastructure to transport and storecarbon. Existing policy mechanisms, such as a price oncarbon, would need to be significantly increased (by asmuch as five times higher than their current levels) andsupplemented by additional policy commitments andfinancial incentives.
+25
+The US Department of Energy (US DOE) calculates thatinstalling carbon capture systems will almost double plantcosts.
+26This will lead to electricity price hikes of anywhere
+between 21 and 91%.27
+Providing the substantial levels of support needed to getCCS off the ground comes at the expense of realsolutions. Current research shows electricity generatedfrom coal-fired power stations equipped with CCS will bemore expensive than other less-polluting sources, such aswind power and many types of sustainable biomass.
+28
+In recent years, coal’s share of research and developmentbudgets in countries pursuing CCS has ballooned.Meanwhile, funding for renewable technologies andefficiency has stagnated or declined.In the US, the Department of Energy has asked for a26.4% budget increase for CCS-related programmes (toUS$623.6 million) while at the same time scaling backrenewable energy and efficiency research by 27.1% (toUS$146.2 million).
+29Australia has three research centres
+for fossil fuels, including one committed to CCS; there isnot one for renewable energy technology.
+30The
+Norwegian government recently committed 20 billionNOK (US$4 billion) for two CCS projects at the expenseof investment in renewable technologies.
+Spending money on CSS is diverting urgent funding away
+from renewable energy solutions for the climate crisis.Even assuming that at some stage carbon capturebecomes technically feasible, commercially viable,capable of long-term storage and environmentally safe, itwould still only have a limited impact and would come at ahigh cost. In contrast, as Greenpeace’s Futu[r]eInvestment report shows, investing in a renewable energyfuture would save US$180 billion annually and cut CO
+2
+emissions in half by 2050.31
+CCSandliability:riskybusiness
+Large-scale applications of CCS pose significant liability
+risks, including negative health effects and damage toecosystems, groundwater contamination includingpollution of drinking water, and increased greenhouse gasemissions resulting from leakage. There is no reliablebasis for estimating the probability or severity of theserisks. As current regulations are not designed toadequately manage them, significant questions as to whois liable remain unanswered
+32
+Industry views liability as a barrier to wider deployment ofCCS
+33and is unwilling to fully invest in CCS without a
+framework that protects it from long-term liability. The riskis so great that some utilities are unwilling to make CO
+2
+available for storage unless they are relieved of ownershipupon transfer of the CO
+2off the property of the power
+station.34Potential operators are urging that they only
+retain legal liability for permanently stored carbon for tenyears.
+35Greenpeace
+InternationalFalseHopeWhy carbon captureand storage won'tsave the climateSectionOne
+©GREENPEACE / S YASHWANT
+image Smoke stacks of the lignite (brown
+coal) fuelled Mae Moh power plant
+discharging smoke, Mae Moh, Lampang
+province Thailand.
+
+CCS proponents are demanding almost complete legal
+protection from governments, including mechanisms thatcompletely shield operators from legal challenges, transferownership to government and/or limit the amount ofmoney that can be recouped should damage occur.
+37It is
+expected that the public will assume the risk for, and payfor the damages resulting from, CO
+2storage projects.
+The extent of support offered to the recently collapsedFutureGen project in the US gives some idea of the realcosts of CCS. FutureGen was the Bush Administration’sflagship CCS project, a public-private partnership betweenthe US government and industry giants including Rio TintoandAmerican Electric Power Service Corp. FutureGen not
+only was promised unprecedented public funds (to thetune of US$1.3 billion) but was also protected fromfinancial and legal liability in the event of an unanticipatedrelease of carbon dioxide,
+38indemnified from lawsuits, and
+even had its insurance policies paid for.39
+Theworldalreadyhasthesolutionstotheclimatecrisis
+Investment in CCS risks locking the world into an energy
+future that fails to save the climate. Those technologieswith the greatest potential to provide energy security andreduce emissions, and to provide renewable energy andenergy efficiency, need to be prioritised.
+Greenpeace’s Energy [R]evolution blueprint shows how
+renewable energy, combined with greater energyefficiency, can cut global CO
+2emissions by almost 50%,
+and deliver half the world’s energy needs by 2050.40
+The renewable energy market is booming; in 2007, globalannual investment in renewables exceeded US$100billion.
+41Decades of technological progress have seen
+renewable energy technologies such as wind turbines,solar photovoltaic panels, biomass power plants and solarthermal collectors move steadily into the mainstream. Thesame climate decision-makers who were sceptical aboutCCS believed far more in the ability of renewabletechnologies to deliver reductions in greenhouse gasemissions: 74% expressed confidence in solar hot water,62% in offshore wind farms, and 60% in onshore windfarms.
+42Many nations have recognised the potential of these trueclimate solutions and are pressing ahead with ambitiousplans for energy revolutions within their borders. NewZealand plans to achieve carbon neutrality by mid-century. Renewable energy and energy efficiency, notCCS, are leading the way. New Zealand already obtains70% of its electricity from renewable resources and aimsto increase it to 90% by 2025.
+43In Germany, renewable
+energy use has increased 300% in the past 10 years. Inthe US, over 5,200 megawatts (MW) of wind energy wereinstalled in 2007, accounting for 30% of new powerinstalled that year; an increase of 45% in one year.
+44
+The urgency of the climate crisis means solutions must beready for large-scale deployment in the short-term. CCSsimply cannot deliver in time. The technology is highlyspeculative, risky and unlikely to be technically feasible inthe next twenty years. Letting CCS be used as asmokescreen for building new coal-fired power stations isunacceptable and irresponsible. “Capture ready” coalplants pose a significant threat to the climate.
+The world can fight climate change but only if it reduces
+its dependence on fossil fuels, particularly coal.Renewable energy and energy efficiency are safe, cost-effective solutions that carry none of the risks of CCS, andare available today to cut emissions and save the climate.
+8Asurveyof1000“climatedecision-makersandinfluencers”around
+theworldrevealssubstantialdoubtaboutCCS.Just34%wereconfidentthatretrofitting‘cleancoaltechnology’couldreduceCO
+2
+emissionsoverthenext25yearswithoutunacceptablesideeffects,andonly36%wereconfidentinitsabilitytodeliverlowcarbonenergywithnewpowerstations.Incontrast,74%expressedconfidenceinsolarhotwater,62%inoffshorewindfarms,and60%inonshorewindfarms.
+36
+
+9Greenpeace
+InternationalFalseHopeWhy carbon captureand storage won'tsave the climateSectionTwo
+This report starts by giving a technical introduction to
+carbon capture and storage, explaining the process aswell as the system components. It then details why CCStechnology will not be ready in time to save the climateand also explains how CCS being used as asmokescreen to get the green light to build new coal-firedpower plants. It then moves on to look at how CCStechnology actually wastes energy by making powerplants less efficient.
+Next, the report considers the substantial challenges
+related to storing massive quantities of CO
+2underground
+and the fact that safe and permanent storage cannot beguaranteed, as well as the many risks posed by CO
+2
+leakage. After this, the report details how large-scaleapplications of CCS are prohibitively expensive andthreaten to undermine investments in renewable energyand energy efficiency measures urgently needed to savethe climate.The report then considers the significant environmental,economic, legal, political, technological and sustainabilityrisks associated with CCS. It details how currentregulations are not designed to adequately managethese, leaving unanswered significant questions as towho is liable.
+Finally, the report outlines how the world already has the
+real solutions to the climate crisis. Greenpeace’s Energy[R]evolution provides a practical blueprint that shows howrenewable energy combined with greater energy efficiencycan cut global CO
+2emissions by almost 50%, and deliver
+half the world’s energy by 2050.45Introduction2
+
+10image Pipeline network in Romania.
+©GREENPEACE / J HODSON
+
+11CCS aims to capture carbon dioxide resulting from
+various combustion and industrial processes, and store itunderground or below the sea floor. Its application isproposed for large point sources of CO
+2, such as fossil
+fuel power stations.
+As an integrated process, CCS consists of three distinct
+components: carbon capture, transport and storage(including measurement, monitoring and verification).These components are explained in greater detail below.
+Capture
+By far the most energy intensive portion of the CCSprocess, carbon capture produces a concentrated streamof CO
+2that can be compressed, transported, and
+eventually stored. Depending on the process or powerstation in question, three approaches to capture exist;pre-combustion, post-combustion and oxyfuelcombustion. Pre- and post-combustion capture rates aretypically between 85-95% of the CO
+2emitted, while
+oxyfuel combustion capture rates are nearer to 98%.46Pre-combustion capture systems remove CO 2prior to
+combustion. This is accomplished via gasification.Gasification of fossil fuels produces a “synthesis gas”(syngas), which is primarily a mixture of carbon monoxide,methane and hydrogen. Before combustion, the syngas isreacted with steam to produce CO
+2that is then scrubbed
+from the gas stream, usually by a physical or chemicalabsorption process.
+47Pre-combustion systems are not a
+mature market technology but are intended fordeployment in conjunction with Integrated Gasificationand Combined Cycle (IGCC) power stations. However,significant engineering challenges need to be overcomebefore large-scale integration of coal-based IGCC andCCS can occur.
+48
+Post-combustion techniques are the standard practice
+for removing pollutants, such as sulphur, from the flue gasof coal-fired power stations. Flue gas typically contains upto 14% CO
+2, which must be separated either through
+absorption (chemical or physical), cryogenics ormembrane technologies. For CO
+2capture, chemical
+absorption with amines, such as monoethanolamine(MEA), is currently the process of choice.
+49Once
+recovered, the CO 2is cooled, dried and compressed for
+transport. Post-combustion systems are promoted as apossible carbon mitigation solution for existing coal-firedpower plants worldwide.Thefollowingreviewisbynomeansexhaustive,butisintendedto
+provideageneralunderstandingofthedifferentstagesofcarboncapture,transportandstorage,aswellasthesystemcomponents.CCS technically
+speaking3Greenpeace
+InternationalFalseHopeWhy carbon captureand storage won'tsave the climateSectionThree
+
+
+Oxyfuel combustion burns fossil fuels in 95% pure
+oxygen instead of air. This results in a flue gas with high
+CO 2concentrations (greater than 80%) that can be
+condensed and compressed for transport and storage.Substantial issues relating to controlling combustion andthe cost of producing oxygen must be overcome beforethis technology is viable.
+52To date, this form of carbon
+capture has only been demonstrated at laboratory andpilot scale (up to 3 MW).
+53
+Transport
+Once CO 2has been captured, it needs to be transported
+to a storage location. Options for moving the gas fromone location to another include pipelines, ships, rail androad transport. Cost considerations and proximity towater bodies leaves pipelines as the likely choice for mostCCS operations.
+54
+Transporting carbon dioxide via pipelines requirescompression of the gas to a supercritical (dense) or liquidstate to reduce its volume. It also requires a dry, purestream of CO
+2to reduce the risk of pipeline corrosion.
+Though mixed wet streams of CO 2can be transported
+they may require the use of corrosion-resistant steel,which is more expensive than the materials typicallyused.
+55The dangers associated with transporting CO 2are
+relatively low as it is neither flammable nor explosive.However, CO
+2is denser than air and tends to pool in low-
+lying, poorly ventilated areas posing a hazard to humanhealth if it reaches concentration levels higher than 3% byvolume.
+56
+Pipeline transport of CO 2is currently used in the US. Over
+2500 km of CO 2pipelines exist in the western half of the
+country where 50 million tons57(Mt)CO 2/yr (an amount
+equivalent to the annual output of about sixteen 500 MWcoal-fired power stations) is carried to enhanced oilrecovery (EOR) projects in west Texas and elsewhere.
+58
+Currently, no such infrastructure exists in Europe.59The
+construction of a dedicated network of pipelines for themovement of CO
+2from power stations to disposal sites is
+likely to require a considerable outlay of capital.60Storage
+The final component of CCS is storage, i.e. the long-termisolation of CO
+2from the atmosphere. A number of
+“storage options” and associated techniques are indifferent stages of research and development. Theyinclude methods for ocean and geological storage. Aswell as the actual physical storage of CO
+2in these
+locations, the subsequent measuring, monitoring andverification processes needed to ensure that the integrityof the storage site is maintained are under development.
+Ocean storage is the disposal of CO
+2into the water
+column or at the seabed in deep waters. However, major
+concerns regarding both the efficacy and direct adverseimpacts around the injection site means this approach isnow largely discredited.
+There is no question that oceans serve as natural carbon
+sinks; CO
+2in the atmosphere gradually dissolves into
+ocean surface waters until an equilibrium is reached.Oceans have absorbed about 500 gigatonnes (Gt) CO
+2of
+the total 1,300 GtCO 2emitted by human processes in
+the past 200 years.61Proponents of ocean storage of
+CO 2seek to “accelerate” this natural process by injecting
+CO 2directly into the water or directly on the ocean floor
+via pipelines. However, the storage is not permanent.Once in the ocean, the CO
+2eventually dissolves,
+disperses and returns to the atmosphere as part of theglobal carbon cycle. Some computer models estimatethat injected CO
+2would be isolated from the atmosphere
+for several hundred years at most, with the length ofstorage dependent on injection depth.
+62
+In addition to lack of permanency, there are many othersubstantial concerns with ocean storage. CO
+2stored in
+this way cannot be easily monitored or controlled andnegative impacts on the ocean environment due toacidification and other changes in ocean chemistry areunavoidable.
+63Ocean storage remains in research stages,
+and has not yet been deployed or demonstrated even atpilot scale.
+64International legal instruments, such as the
+London Protocol65and OSPAR Convention, already
+effectively prohibit it.
+12“Thereisnooperationalexperiencewith
+carboncapturefromcoalplantsand
+certainlynotwithanintegratedsequestrationoperation.”
+50Itisbelieved
+thattheearliestCCSmightbecomefeasibleis2030.
+51
+
+13Greenpeace
+InternationalFalseHopeWhy carbon captureand storage won'tsave the climateSectionThree
+©GREENPEACE / M LODEWIJKX
+image Oil spill and pipelines in
+Nizhnevartovsk, West-Siberia
+Carboncaptureandstorageataglance
+Carbon capture is the most energy-intensive part of the process.
+Carbon capture systems have yet to be applied to a single utility scalecoal-fired power station anywhere in the world.Costs for installationare estimated to result in a near doubling of plant costs.Retrofitscould be even more costly.
+Capture
+Transport
+StorageCO2can be transported to a storage location via pipelines,
+ships,rail or road transport.Cost considerations andproximity to water bodies leaves pipelines as the likelychoice for most CCS operations.
+Ocean storage of CO
+2has largely been ruled
+out due to unavoidable negative impacts onthe ocean environment from acidificationand other changes in ocean chemistry.The construction of a network of pipelines for CCS is
+likely to require a considerable outlay of capital.Costswill depend on a number of factors.Pipelines built nearpopulation centres or on difficult terrain will be moreexpensive.Costs also increase the further CO
+2needs to
+be transported.
+Geological storage injects CO 2into
+permeable rock formations deep belowthe Earth’s surface.The IEA estimatesthat by 2050,at least 6000 storageprojects,each injecting a million tonnesof CO
+2a year into the ground,need to
+be in operation.At present,only threesuch storage projects exist worldwide.
+It is not currently possible to quantify the exactrisk of leakage,however any CO
+2release has the
+potential to impact the surrounding environment;air,groundwater or soil.A leakage rate as low as1% could undermine any climate benefit of CCS.
+
+14Assumingthatcommercialviabilityisreached,scenario
+studiesindicatethatby2050only20-40%ofglobalfossilfuelCO
+2emissionscouldbetechnicallysuitable
+forcapture.Thisincludes30-60%ofemissionsfromthepowersector.
+66Therefore,upto70%ofemissions
+fromelectricitygenerationin2050maynotevenbetechnicallysuitedtoCCS.
+Geological storage involves the injection of CO 2into
+permeable rock formations sealed by impermeable, dense
+rock units (cap rocks) more than 800 metres below theEarth’s surface. In practical terms, both onshore andoffshore sedimentary formations can serve asrepositories. Geological storage involves a combination ofphysical and geochemical trapping mechanisms (seeTable 1). One of these mechanisms involves trapping ofCO
+2as precipitates or in adsorbed phases via reactions
+with aquifer solids. This process, known as mineraltrapping, is slow, and continues over long time framescompared to solubility trapping (see Figure 1). In this case,the mechanism of storage involves dissolution or mixingof CO
+2with formation water. When CO 2is pumped into a
+reservoir it also displaces formation water. The exactchemical processes involved depend on both the rockformation and the purity of the CO
+2stream.
+The four types of geological sinks that have received themost attention are: deep saline aquifers, depleted oil andgas reservoirs, enhanced oil recovery and deep coalseams.
+• Deepsalineaquifers are porous rock and contain
+very saline water. Their depth and high concentrations
+of solids means they hold little economic value,therefore they are considered appealing storagelocations. Capacity estimates are highly uncertain butmost assume a technical storage potential of at least1000 Gt of CO
+2.67The major obstacle to full exploitation
+of this storage option is demonstrating that safety andenvironmental protection can be assured.
+68
+Since 1996, a deep saline storage project, Sleipner, hasoperated off the coast of Norway, in the North Sea.Sleipner is a non-power application of carbon storagethat strips CO
+2from natural gas as it is brought up from
+the sea floor and re-injects it into a deep salinereservoir, known as the Utsira sandstone formation. Theinjection rate for this project is approximately 1 Mt CO
+2
+per year,69an amount equal to the CO 2emissions from
+a typical 150 MW coal-fired power station in the US.70• Depletedoilandgasreservoirs have a combination
+of water and hydrocarbons in their pore spaces as notall oil and gas can be recovered during exploitation.These reservoirs are probably the best characterised ofall available storage options. The IPCC Special Reporton CCS estimates that the technical potential for storagein these reservoirs ranges from 675 to 900 GtCO
+2.71
+• Enhancedoilrecovery involves injecting CO 2into
+geological formations to achieve greater oil recovery.The best-known CO
+2– EOR project is located in
+southeastern Saskatchewan, Canada, at the WeyburnField. This project uses waste CO
+2piped from a
+gasification plant in North Dakota. It is the only CO 2–
+EOR project to date that is being monitored specificallyto understand CO
+2storage. At Weyburn, the CO 2
+storage-to-oil production ratio is about one-to-one, ona per ton basis.
+72Over the 25-year lifespan of the
+project, it is expected that about 18 million tons of CO 2
+injected into the ground will yield approximately 130million barrels of oil.
+73
+CCS supporters advocate the potential value of thisform of geological storage as it provides supplementaryrevenue streams (through the sale of the recovered oil),lowering the overall cost of the CCS. While this may betrue for some small projects deployed in the earlyphases of CCS development, “EOR sites are ultimatelytoo few and too geographically isolated toaccommodate much of the CO
+2from widespread
+industrial CO 2capture operations.”74Furthermore, as
+“Oil fails to pay for CCS” (page 28) shows, EOR is not
+always able to offset CCS costs.
+• Deepcoalseams are coal deposits that cannot be
+mined due to technological or economic constraints.CO
+2is stored in these sites via a gas adsorption
+mechanism that leads to the release of methane. ThisEnhanced Coal Bed Methane (ECBM) could potentiallybe recovered and used to offset the costs of CCS.Substantial technical concerns related to the injection ofCO
+2and subsequent storage processes limit the
+immediate attractiveness of these sites.75Technical
+storage capacity is uncertain and could be as little as 3GtCO
+2or as high as 200 GtCO 2.76
+
+15Greenpeace
+InternationalFalseHopeWhy carbon captureand storage won'tsave the climateSectionThree
+©GREENPEACE / V LEE HUNTER
+image Hatfield’s Ferry Power Station,
+located near Masontown, Pennsylvania.
+Table 1Geologicaltrappingmechanisms
+Structural WhenCO 2ispumpeddeepunderground,itisinitiallymorebuoyantthanwaterandwillriseup
+throughtheporousrocksuntilitreachesthetopoftheformationwhereitcanbecometrapped
+byanimpermeablelayerofcaprock,suchasshale.
+Residual AsCO2migratesthroughaformation,someofitisretainedinporespacebycapillaryforces.
+ThiscanimmobilisesignificantamountsofCO 2.
+Solubilitytrapping WhenCO 2dissolvesintorockformationwater,CO 2nolongerexistsasaseparatephaseandthe
+buoyantforcethatdrivesitupwardsiseliminated.DissolutionisrapidwhenformationwaterandCO
+2sharethesameporespace.
+Mineral CO2,whendissolvedinwater,isweaklyacidicandcanreactwithmineralsintherockformation.
+ThismayresultintheconversionofCO 2tostablecarbonateminerals,themostpermanentform
+ofgeologicalstorage.
+Source: IPCC, 2005Figure 1Trappingmechanisms
+The storage of CO 2underground is based on the ability of
+physical and chemical trapping mechanisms to immobilise
+CO 2permanently and store it forever.
+Source: IPCC, 2005100
+0
+1 10 100
+Timesinceinjectionstops(years)ResidualCO 2
+trapping
+Solubility
+trapping
+Mineral
+trappingTrappingcontribution%
+1,000 10,000Structural&
+starigraphic
+trapping
+IncreasingStorageSecurity
+
+16image Cementa cement factory,
+Gotland, Sweden.
+©GREENPEACE / J CUNNINGHAM
+
+17Below are five reasons why CCS should not be accepted
+as either justification for building new coal-fired powerplants or for continuing our dependence on coal in thelonger term.
+4.1
+CCS cannot deliver in time
+to save the climate
+Every decision made about new power plants today will
+influence the energy mix of the next 30-40 years. Theurgency of the climate crisis means solutions must beready for large-scale deployment in the short-term. CCSsimply cannot deliver in time.
+While some system components of CCS are already in
+commercial use – mostly in the oil and gas industry-“there is no operational experience with carbon capturefrom coal plants and certainly not with an integratedsequestration operation”.
+78While plans for demonstration
+facilities are underway, it is believed that the earliest CCSmight become feasible is 2030.
+79
+The UNDP concludes that CCS “will arrive on thebattlefield far too late to help the world avoid dangerousclimate change.”
+80“Captureready”powerstations
+Proponents of CCS circumvent the fact that the
+technology is not ready, by proposing to build “captureready” power stations. This term refers not to a particulartype of technology but more a state of being for a powerstation. While there is no strict definition of “captureready”, the IEA describes a capture ready plant as “[one]which can be retrofitted with CO
+2capture when the
+necessary regulatory or economic drivers are in place.”81
+This is sufficiently broad to make any station theoreticallycapture ready, and the term meaningless.
+The concept of “capture ready” power stations allows
+new coal-fired power stations to be built today whileproviding no guarantee that emissions will be mitigated inthe future. In lieu of delivering a concrete solution tofighting climate change, it banks on the promise of anunproven technology and risks locking us into an energyfuture that fails to protect the climate.
+In the UK, for example, a proposed new coal-fired power
+plant at Kingsnorth, Kent is being sold as “capture ready.”Yet this doesn’t mean that the new plant will be able tocapture and store carbon; it will just be ready toincorporate CCS should the technology ever becomeviable in the future; and no-one has any idea if and whenthis might be. In the meantime, and possibly for its entirelifetime, Kingsnorth (if built) will pump out around 8 millionCCSisnotthecatch-allclimatesolutionitsproponents’claim,and
+inanycaseitisyearsawayfrombeingmarket-ready.Atpresent“therearestillmanyunansweredquestionsregardingthesafe,sociallycompatibleaswellasecologicalandeconomicsoundapplicationsofCCS.”
+77Energycompaniesandpowerutilitiestend
+toglossoverthesewhileproposingtobuild“capture-ready”plantsthatwillexacerbatetheclimatecrisis.Lifting the
+smokescreen4Greenpeace
+InternationalFalseHopeWhy carbon captureand storage won'tsave the climateSectionFour
+
+
+tonnes of CO 2per year, an amount equivalent to the total
+annual CO 2emissions of Ghana.82
+Recent project cancellations highlight some of the
+technical and economic concerns tied to CCS. In 2007,at least 11 CCS projects were scrapped; plans for newprojects stagnated; and the pace of development forexisting projects slowed considerably.
+83Most recently,
+the US DOE pulled out of its flagship CCS project,FutureGen, citing cost concerns (see “ US abandons CCS
+flagship programme” , page 34). Delays and cost over-
+runs have also led to project cancellations in the UK,Canada, and Norway.
+The vote of no confidence that CCS received in a survey
+of 1000 “climate decision-makers and influencers” fromaround the world is also significant. The survey,conducted by GlobeScan, the World Conservation Union,IUCN and the World Bank, reveals substantial doubtabout CCS. Only 34% of those polled were confident thatretrofitting clean coal technology could reduce CO
+2
+emissions over the next 25 years without unacceptableside effects, and only 36% in the ability of ‘clean coaltechnology’ to deliver low carbon energy with new powerstations. In contrast, 74% expressed confidence in theability of solar hot water to deliver, 62% for offshore windfarms, 60% for onshore wind farms, and 51% forcombined heat and power plants.
+84
+“Capture ready” or not, a coal-fired power station built
+today aggravates the climate crisis. Maintaining the statusquo in the hope that CCS might some day be able todeliver is not a climate mitigation strategy.Emissionreductionpotential
+Even if CCS were ready, the IPCC notes that deployment
+would only take place if the appropriate subsidymechanisms and policy drivers (including a price oncarbon) were put in place. As a result, it estimates that thebulk of the technology’s adoption would not happen untilthe second half of this century.
+85
+Assuming that commercial viability is reached, scenariostudies indicate that by 2050 only 20-40% of global fossilfuel CO
+2emissions could be technically suitable for
+capture86. This includes 30-60% of emissions from the
+power sector.87Therefore up to 70% of emissions from
+electricity generation in 2050 may not even be technicallysuited to CCS. Furthermore, this figure does not accountfor the fact that power stations will often be far away fromstorage sites.
+In Australia, CCS would lead, at best, to a 9% emissions
+reduction in 2030 and a cumulative emissions reductionfrom 2005 to 2030 of only 2.4%.
+88This is partly due to the
+lack of suitable storage locations. For example, in theNewcastle-Sydney-Wollongong area of New South Walesand at Port Augusta in South Australia, which togetherproduce about 39% of Australia’s current net CO
+2
+emissions from electricity generation, there are noidentified storage sites within 500 km of the coal-firedpower stations.
+89In comparison, a modest improvement
+in energy efficiency could – at zero or even negative cost– decrease emissions in 2030 by about the same amount,and cumulative emissions by twice as much.
+90
+Climate scientists warn global emissions must peak by2015, just seven years away. CCS is unable to deliver thenecessary greenhouse gas emission reductions to meetthis goal.
+18CCSwastesenergyandresources.
+Powerplantswithcarboncapturewilluse10-40%moreenergythanthosewithout.A20%increaseintheenergyrequirementduetocarboncapturewouldrequiretheconstructionofanadditionalpowerplantforeveryfourbuilttooffsettheenergyloss.
+
+194.2
+CCS wastes energy
+Relying on CCS to mitigate CO 2emissions means
+accepting a 10-40% energy penalty at the power station,
+depending on the type of technology used.91An energy
+penalty of just 20% would require the construction of anadditional power station for every four of the same sizebuilt with CCS, to maintain the same net output beforethe CCS was fitted.
+92
+These reductions in efficiency will require more coal to bemined, transported and burned to produce the sameamount of energy as power stations without CCS. A new500 MWe sub-critical pulverised coal (PC) unit withcarbon capture will have to burn an additional 76,000 kgof coal per hour to maintain the same net output as asimilar sized plant without capture. An ultra-critical PC unitwould require a boost in its coal feed rate of 44,000 kg/h(see Table 2).
+93CCS would not only worsen fuel security
+issues but intensify the major localised environmentalproblems associated with extraction and transport of coal,including habitat destruction, damage to rivers and
+waterways and air pollution.
+Power station efficiency losses would be most pronounced
+when capture systems are retrofitted to existinginfrastructure. This is because technical mismatchesbetween power stations and capture systems meanscomponents function below their design capacity levels.These mismatches are most pronounced with pulverisedsub-critical coal units. A study by Alstom Power, Incestimates that the addition of MEA flue gas scrubbing to a500 MWe pulverised coal unit would reduce efficiency by14.5% points (from 35% efficiency to 20.5%) and cost asmuch as US$1600/kWe.
+94The substantial loss in efficiency,
+coupled with the high cost of retrofitting these types ofplants, means a large proportion of existing coal powerstations are unlikely ever to be retrofitted for capture.The decision on whether or not to retrofit also hinges on apower station’s proximity to a storage site; the necessaryinfrastructure to deliver the CO
+2to it; and the availability of
+additional resources, such as water. The numerous coal-fired power stations scheduled to be built between nowand whenever CCS may be ready for commercialdeployment will most likely never have their carboncaptured and will continue to pollute unabated until theyare closed down.
+CCS not only cuts energy efficiency but also increases
+resource consumption. A study by Rubin et al. (2005),quantified the impacts of capture systems on plantresource consumption and emission rates. For a 500MWePC unit fitted with carbon capture, a 24% energy penaltywas estimated to have resulted in an increase ofapproximately 25% for fuel, limestone (for the flue gasdesulphurisation system) and ammonia (for nitrogen oxidecontrol) inputs (see Table 3).
+95A US DOE analysis on the
+freshwater requirements for carbon capture found that in2030, deploying CCS in PC plants with scrubbers andIGCC plants would increase water consumption in allscenarios examined by 90% (anywhere from 2.2 to 4.3billion gallons of water per day).
+96In a report for the
+German Department for the Environment, the FraunhoferInstitute estimates that wide-scale adoption of CCS coulderase the efficiency gains of the last 50 years and increaseresource consumption by one third.
+97
+Greater energy efficiency is half of the solution to tacklingthe climate crisis. Employing a technology that reducesthe energy efficiency of coal-fired power plants will notbring about the sustainable energy future needed toprotect the climate.Greenpeace
+InternationalFalseHopeWhy carbon captureand storage won'tsave the climateSectionFour
+©GREENPEACE / S VIELMO
+image Germany's most polluting coal
+fired power station, RWE brown coal
+power plant, Frimmersdorf
+
+20TheIEAestimatesthatthemagnitudeof
+CO2emissionsthatneedtobecaptured
+andstoredby2050isontheorderof6000projects,eachinjectingamilliontonnesofCO
+2ayearintotheground.Currently,
+onlythreesuchstorageprojectsexistworldwide.
+98
+Table 2Performanceofair-blownPCgeneratingunitswithandwithoutCCS
+SubcriticalPC SupercriticalPC Ultra-SupercriticalPC
+w/o capture w/capture w/o capture w/capture w/o capture w/capture
+Performance
+Generating 34.3% 25.1% 38.5% 29.3% 43.3% 34.1%
+efficiency(HHV)Coalfeedrate,kg/h 208,000 284,000 185,000 243,000 164,000 209,000
+CO
+2emitted,kg/h 466,000 63,600 415,000 54,500 369,000 46,800
+CO2emitted, 931 127 830 109 738 94
+g/kWe-h*
+Reference plant is 500 MWe, 85% capacity factor; *assumes a 90% capture rate
+Source: MT, 2007
+Table 3ImpactofCCSsystemonresourceconsumptionandemissionrates
+Captureplantparameter Reference plant* Reference plant with capture
+Rate Increase
+Resourceconsumption (all values in kg/MWh)
+Fuel 390 93
+Limestone 27.5 6.8
+Ammonia 0.80 0.19
+CCSReagents 2.76 2.76
+Solidwastes/by-product
+Ash/slag 28.1 6.7
+FGDresidues 49.6 12.2
+SpentCCSsorbent – 4.05
+*Reference plant is a 500 MWe new pulverised coal-fired power station. Energy penalty associated with installation of CCS is assumed to be 24%
+Source: Rubin et al., 2005b
+
+214.3
+CCS storage – where will all the CO 2
+go, will it stay there permanently?
+Most scenarios for stabilisation of atmospheric CO 2levels
+between 450 and 750 parts per million (ppm) place the
+economic potential of CCS anywhere from 220-2200gigatonnes (Gt)CO
+2cumulatively.99It is likely that a vast
+majority of captured CO 2would be disposed of in
+geological sites. The challenge of storing manygigatonnes worth of carbon dioxide underground isensuring it stays there. To have any potential climatebenefit, buried CO
+2must remain underground forever.
+However, safe, permanent storage cannot be assured;the world has no experience with the deliberate long-termstorage of anything, let alone CO
+2. The longest running
+storage project, Sleipner in Norway, is only 12 years old.While some geological reservoirs could have the specificcombination of physical features and chemical processesthat trap injected CO
+2and essentially hold it for all time,
+there is insufficient data or practical experience to knowwhether there are enough.
+StorageestimatesEfforts to capture carbon dioxide make no sense if there
+is not adequate space to dispose of it permanently. Globalanthropogenic CO
+2emissions are close to 26 Gt100
+annually and growing at a rate of about 0.5 % perannum.
+101From a purely technical perspective, estimates
+excluding economics and transport factors indicate thatthere is enough capacity to store CO
+2emissions for
+several decades, up to several hundreds of years.102Deep
+saline aquifers are believed to have the greatest potential,followed by depleted oil and gas fields, and coal seams.
+The Massachusetts Institute of Technology’s (MIT) The
+FutureofCoal report, however, notes that there is a great
+degree of uncertainty associated with storage estimates.
+While most “support the contention that sufficient capacity
+exists to store many 100’s to many 1000’s of Gigatonnes ofCO
+2… this uncertain range is too large to inform sensible
+policy.”103This stems from the use of inappropriate
+methodology, lack of reliable data and the diverse nature ofgeological settings. There is very little of the informationneeded to assess the majority of the potential storagereservoirs available; national level estimates are largelybased on modelled average values and therefore remain asource of considerable uncertainty.
+104The vast majority of these estimates quantify technicalcapacity assuming that the whole of a reservoir isaccessible to store CO
+2in its pore volume.105This can
+easily lead to unrealistically high numbers as the fractionof pore volume that can be used for CO
+2storage is site-
+specific and depends on factors such as injection rate,relative permeability, density and mobility of fluids androck heterogeneity.
+106A geological reservoir with
+enormous capacity but no injectivity would for example,be included in a technical capacity estimate, even thoughit could never be used.
+107
+The technical, regulatory and economic limitations that willalways prevent full usage of storage capacity quicklyreduce capacity estimates. For example, deep salineformations appear to have the greatest storage potential(see Table 4) but several capacity estimates factoring inboth technological and economic constraints put theactual feasible storage capacity at 200-500 GtCO
+2.108
+Adding in the limits of co-location of CO 2sources and
+storage sites (also known as source-to-sink matching)could easily decrease these numbers further and is adeterminant factor.
+Costs increase the further CO
+2needs to be transported.
+Australia’s Commonwealth Scientific and Industry
+Research Organisation (CSIRO) finds “transport of carbondioxide over distances of more than a hundred kilometrescan become prohibitively expensive... Unless the cost canbe significantly reduced, it will not be feasible to pipecarbon dioxide long distances”.
+109High quality storage
+sites are of no use if the source of CO 2is too far away
+from them. Current estimates clearly fail to portray therealistic storage capacity available for CO
+2sequestration.Greenpeace
+InternationalFalseHopeWhy carbon captureand storage won'tsave the climateSectionFour
+©GREENPEACE / M ANGEL GREMO
+image Industrial pipeline in
+Portman Bay, near Cartagena, Spain
+
+22Table 4Geologicalstoragecapacityestimates
+Reservoirtype Range(GtCO 2)
+Deepsalineformations 1000-uncertain,butpossibly10,000
+Oilandgasfields 675-900
+Deepcoalseams 3-200
+Source: IPCC, 2005Overviewofgeologicalstorageoptions
+4.Deepsalineformations
+(a)onshore(b)offshore
+Deep saline aquifers are porous
+rock,which contain very salinewater.The major obstacles to fullexploitation of this storage optionare accurate characterisationand demonstration that safetyand environmental protectioncan be assured.3.EnhancedOilRecovery(EOR)
+EOR involves injecting CO
+2into geological
+formations to achieve greater oil recovery.
+EOR sites are ultimately too few and toogeographically isolated to accommodate muchof the CO
+2from widespread capture operations.2.Depletedoilandgasreservoirs
+These reservoirs tend to be the best characterised of all available storage options.
+However,the multiple bore holes and wells drilled to find and extract oil and gascan increase the leakage risk for storage operations.1.Deepcoalseams
+In these formations,CO
+2is stored via a mechanism that leads to the release of methane.
+Substantial technical concerns related to the injection of CO 2and subsequent storage processes
+limit the immediate attractiveness of these sites.
+
+23Greenpeace
+InternationalFalseHopeWhy carbon captureand storage won'tsave the climateSectionFour
+©GREENPEACE / K DAVISON
+image The Philippines biggest
+coal-fired power station, Sual, in the
+province of Pangasinan.
+Scalingup
+Achieving the substantial CO 2emissions reductions
+required to avoid catastrophic climate change would
+require broad deployment of CCS in a relatively shortperiod of time. Global emissions from coal are currently2.5 Gt of carbon per year. Sequestering just 1 Gt ofcarbon (3.6 Gt of CO
+2) would require the injection of
+approximately 50 million barrels of supercritical CO 2per
+day from about six hundred 1000 MWe coal plants.110The
+IEA estimates that the magnitude of CO 2emissions that
+need to be captured and stored by 2050 is in the order of6000 projects each injecting a million tonnes of CO
+2a
+year into the ground.111The vast infrastructure required to
+capture and transport CO 2from diverse and widely
+distributed point sources would also need to be built.
+In the US alone, reducing CO 2emissions from the
+electricity sector could require 200 projects, each with
+injection rates ten times bigger than Sleipner.112The US
+DOE estimates the country has enough technical capacityto store CO
+2for tens to hundreds of years.113However, a
+recent Congressional Research Services report showsthat on the ground realities complicate the picturesubstantially. The report examines several scenarios forpipeline development in a seven-state region. The modelscenario considered CO
+2emissions from the 11 largest
+CO 2sources, all coal-fired power stations.114In the report, the first storage option considered is RoseRun sandstone, a deep saline formation, very close to theCO
+2sources. Though its proximity is ideal, the site has
+many problems including limited storage capacity, lowpermeability and questionable integrity (i.e. high risk ofleakage).
+115The second storage option examined includes
+a combination of coal beds and depleted oil and gasfields in the area. Further away than Rose Run, these siteswould have limited utility. The coal beds lack sufficientstorage capacity and the practicality of storing CO
+2in coal
+seams is virtually untested. The oil and gas fields also lacksufficient capacity, and leakage is a concern mostly dueto the numerous boreholes drilled to extract fossil fuelsfrom them in the first place.
+116The third storage option is
+the Mt. Simon formation, appealing because it is bothlarger and less fractured than the Rose Run location.Distance, however, is a limiting factor; Mt. Simon wouldrequire the construction of pipelines with an averagelength of 374km.
+117
+When scaling up CCS from demonstration phases, suchscenarios are likely to be repeated many times over.
+
+24Sequesteringjust1Gtofcarbon
+wouldrequiretheinjectionofapproximately50millionbarrelsofsupercriticalCO
+2perdayfromabout
+sixhundred1000MWecoalplants.118
+CO2leakage
+Storing CO 2underground is predicated on the ability of
+physical and chemical trapping mechanisms to immobilise
+CO 2permanently, and store it forever. Trapping
+mechanisms work in different ways and at different rates,from low-permeable cap rocks serving as physicalbarriers to CO
+2movement, to dissolving CO 2into water.119
+The former mechanism is immediately effective, while thelatter can take thousands of years to complete. Theefficiency of trapping mechanisms depends on the“migration rate of the CO
+2, which itself is highly dependent
+on the rock and fluid properties and geologicalcharacteristics of each site”.
+120This means that each
+storage site would need to undergo detailedcharacterisations both to determine suitability, as well asto assess the likelihood of leakage.
+As long as CO
+2is present in geological formations, there
+is a risk of leakage – it can migrate laterally or upwards to
+the surface. In contact with water, CO 2becomes
+corrosive and can compromise the integrity of cap rocks,well casings and cement plugs. Undetected fractures incap rocks or those created by injecting CO
+2at too high a
+pressure can provide another avenue for CO 2to escape.
+Improper design and construction of wells can also createopportunities for leakage.
+121The implications for climate
+mitigation as well as the other environmental and publichealth risks make leakage a serious concern.
+Preventing leaks will largely rely upon careful technology
+choices, project design, plant operation and reservoirselection. The IPCC notes that the fraction of CO
+2
+retained in “geological reservoirs is very likely to exceed99% over 100 years and is likely to exceed 99% over1000 years”.
+122However, these findings are only valid for
+well-selected, fully characterised, properly designed andmanaged storage locations. At the moment, sufficientcapacity in high quality reservoirs cannot be assured, norcan their appropriate design and management beguaranteed. It is likely that some CO
+2storage will occur in
+lower quality sites, without proper management. In thesecases, the risk of leakage could be even greater.For example, a CCS experiment in Texas (see “Storing
+carbon underground can have unintendedconsequences”, page 26) found CO
+2injected into saline
+sedimentary aquifers caused carbonates and otherminerals to dissolve rapidly. This could allow CO
+2and
+brine to leak into the water table.123
+While it is not currently possible to quantify the exact riskof leakage, any CO
+2release has the potential to impact
+the surrounding environment; air, groundwater or soil.Most computer models suggest leakage will occur fastestin the first 50-100 years of a project’s lifetime, beforetrapping mechanisms take effect. Others indicate that littlehappens in the first 1000-year period with leakage mostlikely to occur over the following 3000 to 5000 yearperiod.
+124Either way, even a tiny rate of leakage could
+undermine any putative climate benefit of CCS. A leakagerate of just 1% on 600 Gt of stored carbon (2160 GtCO
+2
+or about 100 years’ worth of CO 2emissions from fossil
+fuels), could release as much as 6Gt of carbon (21.6GtCO
+2) per year back into the atmosphere. This is roughly
+equivalent to current total global CO 2emissions from fossil
+fuels.125Remediation may be possible for CO 2leaks but
+there is no track record or cost estimates for these sortsof measures.
+126
+The absence of a reliable risk management method is ofconcern, as leakage risks remain after the closure of an
+injection site. Monitoring would be required for longperiods after closure, possibly forever. Therefore,appropriate tools to detect and protect against leaks willbe essential.
+
+25image Coal Energy Power Plant
+©JOSEPPI / DREAMSTIME.COM
+
+26CaseStudy
+One of the key challenges for CCS is
+the safe and permanent storage ofcaptured carbon. Even very smallleakage rates could completelyundermine any climate mitigationefforts.
+The world has no experience of the
+long-term storage of anything, letalone CO
+2.
+As the results of a 2006 UnitedStates Geological Survey (USGS) fieldexperiment
+1show, there is every
+chance that carbon dioxide willbehave in ways that are totallyunexpected. The USGS scientistswere testing deep geological disposalof carbon dioxide at a pilot project inFrio, Texas.The researchers were surprised whenthe buried CO
+2dissolved large
+amounts of the surrounding mineralsresponsible for keeping it contained.
+The CO
+2reacted with salty water
+(brine) in the geological formation
+turning it as acidic as vinegar. Thisacidified brine then dissolved otherminerals, including metals such asiron and manganese, organic materialand relatively large amounts ofcarbonate materials. Carbonatesnaturally seal pores and fractures ingeological sites; the reaction of theacidic brine with them is extremelyconcerning. Carbonate is also foundin the cements used to plugabandoned oil and gas wells. If theseopen, CO
+2could leak into the
+atmosphere and/or the contaminatedbrine could leak into the aquifers thatsupply drinking and irrigation water.In an interview with Greenpeace, leadscientist Yousif Kharaka warned thatthe results are “a cautionary note: fordetailed and careful studies ofinjection sites, and a well thought outmonitoring program to detect earlyleaks of CO
+2into shallow potable
+groundwater or to the atmosphere.”2
+The results of the UGCS study showthat we simply do not know enoughabout how stored carbon will behaveto be able to assure its safe andpermanent storage.
+1Kharaka Y K, Cole D R, Hovorka S D, Gunter W D, Knauss K G & Freifeld B M, ‘Gas-water-rock interactions in frio formation following CO 2injection:
+Implications for the storage of greenhouse gases in sedimentary basins’, Geology, vol., 34, no. 7, 2006, pp. 577–580.
+2Kharka, Yousif, 2007, USGS, Research Hydrologist, Interview conducted over e-mail.Storingcarbonunderground
+canhaveunintendedconsequences
+
+27Greenpeace
+InternationalFalseHopeWhy carbon captureand storage won'tsave the climateSectionFour
+©GREENPEACE / R VISSER
+image Blast furnaces of LTV Steel Co,
+Cleveland, Ohio, USA.
+4.4
+CCS is too expensive
+Cost estimates for CCS vary considerably depending on
+factors such as power station configuration, CCStechnology, fuel costs, size of project and location. Onething is certain, CCS is expensive. It requires significantfunds to construct the power stations and necessaryinfrastructure to transport and store carbon. The IPCCsets costs between US$15-75 per ton of capturedCO
+2.127A recent US DOE report found installing carbon
+capture systems to most modern plant technologiesresulted in a near doubling of plant costs.
+128Such costs
+are estimated to increase the price of electricity anywherefrom 21-91%.
+129
+For transport, pipeline networks will need to be built tomove CO
+2to storage sites. The construction of a network
+of pipelines for CCS is likely to require a considerableoutlay of capital.
+130Costs will vary depending on a
+number of factors, including pipeline length, diameter andspecific steel components (corrosion-resistant) as well asthe volume of CO
+2to be transported. Pipelines built near
+population centres or on difficult terrain (such as marshyor rocky ground) are more expensive.
+131The IPCC
+estimates a cost range for pipelines between US$1-8/tonof CO
+2transported (see Table 5).132A United States
+Congressional Research Services report calculated capitalcosts for an 11-mile (18 km) pipeline in the midwesternpart of the country at approximately US$6 million. Thesame report estimates that a dedicated interstate pipelinenetwork in North Carolina would cost upwards of US$5billion due to the limited geological sequestration potentialin that part of the country.
+133Storage and subsequent monitoring and verification costsare estimated to range from US$0.5-8/tCO
+2injected and
+US$0.1-0.3/tCO 2injected, respectively.134The overall cost
+of CCS could serve as another barrier to itsdeployment.
+135EOR has been suggested as a way to
+offset the costs but as “Oil fails to pay for CCS” (page 28)
+shows, in reality this is questionable.136
+CCSdivertsresourcesawayfromrealsolutions
+In recent years, the share of research and development
+budgets in countries pursuing CCS has ballooned, withCCS often included as part of renewable energypackages. Meanwhile, funding for real renewabletechnologies and efficiency has stagnated or declined.
+The US DOE’s fiscal year 2009 budget seeks a 26.4%
+increase (US$493.4 million in FY 2008 vs. US$623.6million in FY 2009) in funding for CCS-relatedprogrammes, at the same time it is scaling backprogrammes tied to renewable energy and efficiencyresearch and cutting budgets by 27.1% (US$211.1 millionin FY 2008 vs. US$146.2 million in FY 2009).
+137Australia
+has three cooperative Research Centres for fossil fuels,one particularly committed to CCS. There is not one forrenewable energy technology.
+138
+In Norway, petroleum-based research receives over fivetimes more funds than renewable energy research. Arecent commitment of more than 20 billion NOK (US$4billion) for two CCS projects aimed at capturing 2 MtCO
+2
+annually (see ”How CCS has crippled the Norwegian
+energy debate”, page 29) further widens the gap.
+Table 5CostrangesforcomponentsofCCSsystem
+CCSsystemcomponents Costrange Remarks
+Capturefromcoal– US$15-75/tCO 2netcaptured NetcostsofcapturedCO 2comparedto
+orgas-firedpowerplant thesameplantwithoutcapture
+Transport US$1-8/tCO 2transported Per250kmpipelineorshippingformassflowratesof
+5(highend)to40(lowend)MtCO 2/yr
+Geologicalstorage US$0.5-8/tCO 2netinjected ExcludingpotentialrevenuefromEORorECBM
+Monitoringandverification US$0.1-0.3/tCO 2injected Thiscoverspre-injection,injection,andpost-injection
+monitoring,anddependsontheregulatoryrequirements
+Source: IPCC 2005
+
+28CaseStudy
+Even if CCS were available, large
+applications are prohibitivelyexpensive. EOR is often proposed asa way round this. Its proponentsargue that the profits from therecovered oil will cover the costs ofcarbon capture.
+However, not only are EOR sites too
+few and far between to accomodatemuch carbon from widespread CCSoperations,
+1the cancellation of CCS-
+EOR projects due to associated costsand low returns show it is not alwaysable to offset the extra costs.In 2005, when production in theBritish Miller oil and gas field becameuneconomic, BP sought governmentsubsidies to initiate an EOR project.With EOR the life of the oil field couldhave been extended by up to 20years, delaying the costlydecommissioning process andallowing access to an estimated 57million barrels of currentlyunrecoverable oil.
+2
+The potential profits from therecovered oil, however, could notmake up the difference between thecost of carbon using CCS (€38 pertonne), and the current price ofcarbon credits (€21 per tonne, inthe EU).
+3
+BP tried to convince the UKgovernment to bridge the gap, askingfor a tax break of over 50%, and aguaranteed subsidised rate of return.When the UK government decidedthat all proposed CCS projects had tocompete for funding and tax relief, BPcancelled its plans.The Norwegian governmentabandoned a similar project after theStatoil-Hydro and Shell companieswithdrew. The companies argued thatalthough CCS would probably betechnically feasible, it would nevermake economic sense. Building theCCS technology would have meantclosing oil production for a year, andcompletely modifying the facilities.Overall, oil production would onlyhave increased by 2%
+4nowhere near
+enough to cover the costs ofinstalling the CCS technology.
+EOR is one of the main ways
+proposed by industry to make CCSaffordable, yet as the above caseshighlight, projects are often unlikely tobe able to cover the costs. FundingCCS is an extremely unwiseinvestment.
+1Hannnegan, B, 2007, pg 25
+2Shepherd & Wedderburn, ”Carbon Capture and Storage: The Race is On”, http://www.shepwedd.co.uk/knowledge/article/779-1610/carbon-capture-
+and-storage-the-race-is-on/current/, retrieved 23.1.08.
+3http://pointcarbon.com
+4Taz.de, ”CO 2-Injektion ist kein Geschäftsmodell”, http://www.taz.de/index.php?id=archiv&dig=2007/07/03/a0140, retrieved 23.1.08OilfailstopayforCCS
+
+Despite the fact that Norway
+generates nearly 100% of itselectricity from renewabletechnologies, State funding forrenewable energy research is lessthan one-sixth of that received bythe petroleum industry.
+1
+Over the last decade CCS has cometo dominate the energy debate inNorway, diverting resources andpolitical attention away fromrenewable generation and energyefficiency measures. Though theNorwegian Parliament recentlyannounced an increase in the totalfunding for renewable energyresearch, CCS is considered partof this
+2.
+Recently, the Norwegian governmentcommitted to cover all additionalconstruction and operation costs toensure carbon capture and storagefrom two natural gas-fired powerplants on the Norwegian west coast,Kårstø and Mongstad. This has beenestimated to amount to more than20 billion NOK (US$4 billion) overtheir lifetimes.
+3The highly controversial Kårstø plant,which emits around 1 million tonnesof CO
+2per year, began operating in
+November 2007. High gas costs andlow electricity returns mean the planthas hardly been in operation. Full-scale carbon capture was promisedfrom 2009 but is now postponed to2012. Significant technologicalconstraints will likely push back thedate even further. The capture plant,the pipeline to a storage location andthe storage process control facilityhave yet to be built.
+4
+Given how much better the samemoney could have been spent onother climate and energydevelopment projects, the head ofthe Norwegian Institute for EnergyResearch (IFE), called the decision torush development of the Kårstø plant“close to immoral.
+5”At the Mongstad refinery, known asthe “European CCS test centre”, twopilot plants using different captureprocesses (amine and carbonate) areunder construction, the aim ofcapturing 100,000 tonnes of CO
+2per
+year from 2011. Yet, until 2014 at theearliest, they will simply release thecaptured CO
+2back into the
+atmosphere. This is because thepipelines to the storage sites are notdue to be finished until 2014. In factthey may well not even be ready bythen, as potential delays ininvestment decisions threaten topostpone their completion.
+6
+In Norway, as in other countriespursuing CCS, the technology isfailing to deliver on its promises.Renewable energy and energyefficiency are safe, cost-effectivesolutions to tackling climate change.Given the urgency of confronting theclimate crisis, halting development ofthese technologies in favour ofwaiting for CCS really is immoral.
+1Article based on Norwegian Research Council figures; http://www.klassekampen.no/49135/mod_article/item/null
+2Climate white paper agreement http://www.stortinget.no/diverse/klimaforlik.html
+3Kårstø report: http://nve.no/modules/module_111/news_item_view.asp?iNewsId=32570&iCategoryId=1604
+4Rapport nr 13, CO 2-håndtering på Kårstø, Norges vassdrags- og energidirektorat, Olav Falk-Pedersen, Mari Hegg Gundersen, Asle Selfors and Pål
+Tore Svendsen. December 2006. Pages 31 and 42. http://www.nve.no/FileArchive/388/NVErapport13-06_b.pdf
+5Comment to NRK radio 31.01.2008. See background statement, where they suggest a more stepwise strategy, at
+http://www.ife.no/ife_nyheter/2007/IFE_nei_til_CO2-haandtering_pa_Kaarstoe/view?set_language=no&cl=no
+6Technology Weekly, “Frykter store forsinkelser på Kårstø”, http://www.tu.no/energi/article148205.ece, retrived 03.04.08HowCCShascrippled
+theNorwegianenergydebate
+29Greenpeace
+InternationalFalseHopeWhy carbon captureand storage won'tsave the climateSectionFour
+
+4.5
+CCS and liability: risky business
+CCS carries significant environmental, economic, legal,
+political, technological and sustainability risks. First is thedanger that new coal plants are approved and built on thebasis of being “capture-ready”, but never have thetechnology installed. Secondary risks arise from the largequantities of CO
+2to be injected, the prolonged storage
+times required for any real climate benefit, and the factthat injection wells, and other infrastructure and geologicalimperfections, may result in CO
+2leakage.
+Environmentalrisks
+Environmental risks of geological CO 2storage include:
+•Reservoir leakage: the slow, long-term release of CO 2
+from storage sites, for example through geological
+faults;
+•Sudden catastrophic leakage: the large-scale release ofCO
+2from storage sites, for instance through failures of
+active or abandoned injection wells;
+•Escape of CO 2and associated substances into shallow
+groundwater;
+•Displacement of brines and mobilisation of toxic metalsand organics moving upwards leading to contaminationof potable water, overlying sediments, soils or seawater;
+•Escape of other hazardous captured flue gases.
+The specific environmental risks associated with CO
+2
+leakage can be divided into two catergories: global andlocal. On a global scale, continuous leakage of CO
+2has
+the potential to undermine climate change mitigationefforts. While some leakage may be acceptable, it isgenerally agreed that it can only be tolerated within certainlimits.
+141Even leakage rates as low as 1% per year could
+be too high. Leakage at this rate would reduce a givenquantity of stored CO
+2to 37% of the original amount after
+100 years.142On a local scale, CO 2leakage from storage sites poses a
+threat to human health. CO 2is denser than air and
+therefore tends to pool in low-lying, poorly ventilatedareas posing a hazard if it reaches levels higher than 3%by volume.
+143This risk also applies to pipeline transport of
+CO 2through populated areas, raising critical issues with
+regard to route selection, overpressure protection, andleak detection.
+144
+A natural example of the danger of CO 2leakage occurred
+in a volcanically active area at Lake Nyos in Cameroonin 1986. Large quantities of CO
+2that had accumulated
+on the bottom of the lake were suddenly released, killing1700 people and thousands of cattle over a range of25 km.
+145
+CO 2rising to the shallow subsurface can have lethal
+effects on plants and subsoil animals and contaminategroundwater. Soil acidification and suppression of rootzone respiration has been reported in volcanic andearthquake zones. In Mammoth Mountain, California, therelease of CO
+2following several small earthquakes killed
+100 acres of trees.146Migration of CO 2can acidify waters
+and mobilise toxic heavy metals. Its injection can buildpressure, displace brines and cause seismic activities.
+147
+Greater environmental damage due to increased fossil fuelextraction is another risk. The higher power demands ofplants using carbon capture require higher coal and otherfossil fuel use. Thus the major localised environmentalproblems associated with extraction and transport offossil fuels including habitat destruction, damage to riversand waterways (from subsidence due to longwall mining),and air pollution will also increase.
+30AUSDOEreportfoundinstallingcarbon
+capturesystemstomostmodernplanttechnologiesresultedinaneardoublingofplantcosts.
+139Suchcostsare
+estimatedtoincreasethepriceofelectricityanywherefrom21-91%.
+140
+
+31Liabilityrisks
+Large-scale applications of CCS pose significant liability
+risks. Current regulations are not designed to adequatelymanage these, leaving unanswered significant questionsas to who is liable.
+148At a minimum, any CCS regulatory
+regime would need to address: capture; transport; sitecharacterisation and permitting; operating standards,including monitoring, measurement and verification andremediation plans; crediting of mitigated CO
+2; and
+measures to deal with long-term storage. In theformulation of such a framework, industry’s best interests(limitation of liability and costs) may run counter to publicbest interest (safety over unlimited timescales).
+Industry views liability as a barrier to wider deployment of
+CCS
+149and is unwilling to fully invest in CCS unless it is
+protected from the risks associated with long-term CO 2
+storage. The risks are so great that many utilities areunwilling to make CO
+2available for storage unless they
+are relieved of ownership upon transfer of the CO 2from
+the power station.150Potential operators are urging that
+they only retain legal liability for permanently storedcarbon for 10 years.
+151
+Many factors impact the scope of liability associated withCCS. Just a few examples include the classification andpurity of captured CO
+2, definition of property rights and
+ownership of injected CO 2. Captured CO 2can, for
+example, be labelled as a resource, waste product oreven hazardous waste. The latter designations triggerstricter regulatory regimes for the handling, transport anddisposal of CO
+2and increase the price of CCS.152
+Another issue is the purity of the CO 2stream. Captured
+CO 2often contains various by-products of combustion
+processes such as nitrogen oxides (NOx) and sulphurdioxide (SO
+2) as well as trace heavy metals including lead,
+mercury and cadmium.153Allowing injection of mixed
+streams underground is appealing as they require lessscrubbing at the plant level, reducing costs. However,permitting the disposal of non-CO
+2components alters the
+risk profile of geological storage as well as the regulatoryand legal responses.
+154For example, co-storage of CO 2
+with sulphur dioxide (SO 2) increases the risk of leakage
+due to its chemical properties. In contact with water, SO 2
+forms the highly corrosive sulphuric acid that more readilydissolves materials, such as the cement used to sealwells. A greater risk of leakage means higher likelihood ofdamage and liability. How much SO
+2, if any, to allow in
+captured CO 2streams will need to be determined.Regulations will have to account for its more corrosivenature in pipeline transport and long-term storage, inorder to minimise risk.
+155
+Perhaps the most critical questions relate to propertyrights and who is liable for the captured CO
+2, particularly
+once the respective CCS project stops operating. Theanswer will determine who pays for any damage causedby CCS. Potential risks include liability for (1) health effectsand damage to ecosystems from surface leakage; (2)groundwater contamination, including pollution of drinkingwater; (3) induced seismicity; and (4) climate effects fromincreased greenhouse gas emissions through surfaceleakage. To limit the liability of those engaged in CCSactivities, liability caps, federal indemnity programmes anda complete transfer of liability from the private to publicsector has been proposed.
+156These mechanisms
+completely shield operators from legal challenges, transferownership to government and/or limit the amount ofmoney that can be recouped should damage occur.Some argue that such measures are necessary asprojects will be unable to secure financing or insurancewithout them.
+157
+The recently collapsed FutureGen project in the US, forexample, (see “US abandons flagship CCS programme”
+page 34) was protected from financial and legal liability inthe event of an unanticipated release of carbon dioxide.
+158
+Lawmakers also agreed to indemnify FutureGen fromlawsuits and pay for insurance policies to cover the plant.
+159Greenpeace
+InternationalFalseHopeWhy carbon captureand storage won'tsave the climateSectionFour
+©GREENPEACE / M LODEWIJKX
+image Big oil spill, dead trees,
+pipelines in Nizhnevartovsk,
+West Siberia
+
+32LeakagepathwaysandpotentialimpactsofCO 2escape
+Anumber of leakage pathways could result in the migration of CO 2intothesurrounding
+environment.They include leakage through or along injection wells,abandoned wells,
+undetected faultsor those created byinjecting CO 2attoohigh apressure,corrosion of
+caprocksand cement plugs used toseal injection wells anddiffusion into shallowergeologic formations.Potential consequences of leakage are equally broad.Releases ofCO
+2backintothe atmosphere would undermine any climate benefit of geological
+storage; CO 2risingintothe subsurface could negativelyimpact soil ecosystems,harming
+both flora and fauna; CO 2contamination of surfacewaters might negatively impact
+aquatic ecosystems; leakage into groundwater aquifers could degrade their quality bymobilising toxic metals and dissolving other minerals; and human health impacts areaconcern should concentrations of CO
+2reach levels higherthan 3%byvolume.
+Source: Benson, S, 2006
+Accumulation in water ofdeep,stably stratified lake
+DiffusionPlumePlume
+PlumePlume
+Annularflow Casingcorrosion
+CaprockCO
+2directtoair
+Water table Vadose zoneOil
+well
+LakeWetlandsCO2injection
+well
+CO2 CO2
+
+33Greenpeace
+InternationalFalseHopeWhy carbon captureand storage won'tsave the climateSectionFour
+Accumulation
+in basement
+Diffusion
+CO2plume
+Plume
+CO2dissolvedin
+groundwater
+CO2inlowpermeability
+environmentDiffusionSeparatephaseCO 2Abandoned
+well
+CO2Accumulation
+in topographic
+depressionShallow
+groundwater
+well
+Off-gas from well
+CO2
+
+34CaseStudy
+FutureGen, the flagship of the Bush
+Administration’s CCS programme,was hailed as a first-of-its-kind near-zero emission coal plant
+1. Yet, in
+January 2008, following repeateddelays and chronic cost overruns, theUS government pulled the plug onFutureGen, stating "when a projectdoubles in cost, it's the time to sitdown and rework those agreements."
+2
+Announced in 2003, FutureGen wassupposed to be online by 2012 butnever left the development phase.The public-private partnership behindthe project included the US DOE andcorporate giants American ElectricPower Service Corp., AngloAmerican, BHP Billiton, Rio Tinto, andChina's largest coal-based powercompany, China Huaneng Group.Federal government support forFutureGen was to be supplementedby a generous package from theState of Illinois. This included a $17million grant, a sales tax exemptionon building materials and selectedequipment, and $50 million set asidefor below-market-rate project loans.The State also passed a law toprotect FutureGen from financial andlegal liability in the event of anunanticipated release of carbondioxide.
+3Lawmakers also agreed to
+indemnify FutureGen from lawsuitsand pay for insurance policies tocover the plant.
+4
+In 2007, the DOE reassessed theproject design after costs had risenby 85% in three years to $1.8 billion.
+5
+The Department, orginally slated tocover 74% of the costs, askedindustry to assume more of thefinancial burden to “prevent furthercost escalation”
+7. However, the head
+of FutureGen estimated that everymonth of delay cost the project $10million; “solely due to inflation”.
+8What happens to FutureGen now isunclear. Industry partners, promisedtheir costs would be capped at $400million, will have to finance itthemselves to continue. This seemshighly unlikely given how much theproject relied on public financing andliability.
+FutureGen collapsed despite being
+promised an unprecedented level ofsupport; a total of US$1.3 billion ofpublic funds, and being shielded fromany legal responsibility. The debacleshould serve as a stark warning togovernments and industryconsidering investing in CCS.FutureGen–USabandons
+CCSflagshipprogramme
+1FutureGen Alliance, http://www.futuregenalliance.org/faqs.stm, retrieved 11.03.08
+2Helenair.com, “Senators press official on carbon projects”, http://www.helenair.com/articles/2008/02/01/national/100na_080201_carbon.txt, retrieved
+27.02.08.
+3Illinois Department of Commerce and Economic Opportunity, “Gov. Blagojevish Appluads the Passage of Important Legislation to Continue Illinois’
+Strong Bipartisan Push to Bring FutureGen to Illinois”, http://www.ildceo.net/dceo/News/pr07262007-2.htm, retrieved 23.1.08.
+4Gatehouse News Service, “Mattoon gets FutureGen nod, but hurdles remain”,
+http://www.gatehousenewsservice.com/regional_news/midwest/illinois/x1414531785, retrieved 23.1.08.
+5US Department of Energy, “Statement from US Department of Energy Acting Principal Deputy Assistant Secretary for Fossil Energy James Slutz”,
+http://www.energy.gov/news/5779.htm, retrieved 23.1.08
+6USA Today, “Emissions-free coal plant’s costs worries feds”, http://www.usatoday.com/money/industries/energy/2008-01-06-futuregen_N.htm
+retrieved 23.1.08.
+7US Department of Energy, “Statement from US Department of Energy Acting Principal Deputy Assistant Secretary for Fossil Energy James Slutz”,
+http://www.energy.gov/news/5779.htm, retrieved 23.1.08
+8USA Today, “Emissions-free coal plant’s costs worries feds”, http://www.usatoday.com/money/industries/energy/2008-01-06-futuregen_N.htm
+retrieved 23.1.08.
+
+35Financialrisks
+Immense amounts of money have already been spent
+supporting fossil-fuel power plants that are the maincontributors to climate change. Implementation of CCSwould require governments not only to continue butaugment this support with additional subsidies and policydrivers. CCS adoption will only be possible with extremelyheavy incentives. The technology is very expensive, andthere are no guarantees that it will ever work. Economicanalysis of absolute costs for CCS is characterised by ahigh level of uncertainty. For power stations, the IPCCestimates a range of US$14 to $91 per tonne of CO
+2
+avoided for the entire CCS process.160A more recent
+assessment placed the cost of merely capturing the CO 2
+anywhere from €24-75 per tonne CO 2avoided.161
+Carbon emission cap-and-trade schemes have beenpromoted by CCS supporters as a way to lower the costbarriers of technology adoption.
+162However, in order for
+CCS to be profitable, the price for carbon emissions wouldhave to be even higher than the additional costs associatedwith deploying the technology. Current CO
+2market prices
+of around €21 per tonne as well as future projections forthe 2008-2012 period of the Emissions Trading Schemeare insufficient to spur deployment of CCS.
+163Prices as
+high as €100 per tonne might be needed to support initialprojects.
+164However , not even a high price on carbon is
+enough to ensure a future for CCS.165
+To make projects viable, however, carbon prices wouldneed to be coupled with additional policy commitmentsand financial incentives.
+166Additional mechanisms
+proposed to supplement carbon prices include directinvestment support, loan guarantees and public-privatepartnerships.
+167Instead of polluters being asked to pay for
+these programmes, deployment of CCS envisages ascheme where governments, and ultimately taxpayers,pay polluters to try not to pollute. If costs turn out to behigher than expected, the conditions for commercialviability may never be met and the money spent will havebeen wasted.Providing the substantial levels of support to get CCS offthe ground raises a serious question about priorities whencurrent research shows that electricity generated fromcoal equipped with CCS will be more expensive thanother less polluting sources, such as gas, wind power andmany types of sustainable biomass. It is also much moreexpensive than increasing energy efficiency.
+168Even
+assuming that, at some stage, carbon capture becomestechnically feasible, capable of long-term storage,environmentally safe and commercially viable, its impactwould be limited and come at a high cost.
+Meanwhile, as Greenpeace’s Futu[r]e Investment report
+169
+shows, investing in a renewable energy future would save
+US$180 billion annually and cut CO 2emissions in half
+by 2050.Greenpeace
+InternationalFalseHopeWhy carbon captureand storage won'tsave the climateSectionFour
+©GREENPEACE / J CUNNINGHAM
+image Cementa cement factory,
+Gotland, Sweden.
+
+36image Tour around the South East of Asia to
+promote the use of clean energy, Manila, Philippines.
+©GREENPEACE / K DAVISON
+
+37Greenpeace’s Energy [R]evolution scenario provides a
+practical blueprint that shows how renewable energy,combined with greater energy efficiency, can cut globalCO
+2emissions by almost 50%, and deliver half the world’s
+energy by 2050.170Decades of technological progress
+have seen renewable energy technologies such as windturbines, solar photovoltaic panels, biomass power plantsand solar thermal collectors move steadily into themainstream. The market for renewable energy is growingdramatically; in 2007 global annual investment inrenewables exceeded US$100 billion.
+171At the same
+time, there is enormous potential for reducing ourconsumption of energy, even while providing the samelevel of “energy services”.
+Many nations have recognised the potential of these true
+climate solutions and are pressing ahead with ambitiousplans for energy revolutions within their borders. NewZealand plans to achieve carbon neutrality by mid-century. Renewable energy and energy efficiency, notCCS, are leading the way. New Zealand already obtains70% of its electricity from renewable resources and aimsto increase it to 90% by 2025.
+172In Germany, renewable
+energy supply has increased 300% in the past 10 years.New legislation will require all homes built after 1 January2009 to install renewable energy heating systems.
+173In
+the US, over 5,200 MW of wind energy were installed in2007, accounting for 30% of new power installed thatyear; an increase of 45% in one year.
+174These are just a
+few examples of the renewable energy boom.
+The urgency of the climate crisis means solutions must be
+ready for large-scale deployment in the short term. CCSsimply cannot deliver in time. The technology is highlyspeculative, risky and unlikely to be technically feasible inthe next 20 years. Allowing CCS to be used as asmokescreen for building new coal-fired power stations isunacceptable and irresponsible. “Capture-ready” coal-fired power plants pose a significant threat to the climate.To tackle the climate crisis, the world needs to reduce theamount of CO
+2produced, not bury it underground and
+hope that it stays there. Dirty energy sources, such ascoal, must be phased out while investments in sustainableenergy solutions must be increased. Renewable energyand energy efficiency are safe, cost-effective solutionsthat carry none of the risks of CCS and are available nowto cut emissions and save the climate.ThepromiseofCCSdivertsattentionawayfromsustainableenergy
+solutionsandriskslockingtheworldintoanenergyfuturethatfailstosavetheclimate.Priorityshouldbegiventoinvestmentsinrenewableenergyandenergyefficiencywhichhavethegreatestpotentialtoprovideenergysecurityandreduceemissions.The world already
+has the real solutionsto the climate crisis5Greenpeace
+InternationalFalseHopeWhy carbon captureand storage won'tsave the climateSectionFive
+
+
+38Abanades, J C et al., 2005. SummaryforPolicymakers inIPCC
+SpecialReportonCarbonDioxideCaptureandStorage , B. Metz
+et al., Editors. 2005, Cambridge University Press: Cambridge, U.K.
+Azar, C et al, 2006, Carbon Capture and Storage from Fossil
+Fuels and Biomass – Costs and Potential Role in Stabilizing the
+Atmosphere, Climactic Change vol. 74, 2006, pp. 47-79.
+Bachu, S et al., 2007. CO2storage capacity estimation:
+Methodology and gaps, International Journal of Greenhouse Gas
+Control I, 2007, pp. 430-443.
+Benson, S, 2004. Carbon Dioxide Capture and Storage in
+Underground Geologic Formations, Lawrence Berkley National
+Laboratory, Berkeley 2004,<http://www.pewclimate.org/docUploads/10-50_Benson.pdf>.
+Benson, S, 2006. Liability Issues Related to Geological Storage
+of CO
+2.Lawrence Berkley National Laboratory. Presentation for
+WRI Workshop on Carbon Capture and Storage Liability,
+Washington, DC, September, 2006.’
+Benson, S et al., 2005. UndergroundGeologicalStorage inIPCC
+SpecialReportonCarbonDioxideCaptureandStorage , B. Metz
+et al., Editors. 2005, Cambridge University Press: Cambridge, U.K.Bradshaw, J et al., 2007. CO
+2storage capacity estimation:
+Issues and development of standards, International Journal of
+Greenhouse Gas Control 1, 2007, pp. 62-68.
+Bruant, R, et al., 2002. Safe Storage of CO 2in Deep Saline
+Aquifers, Environ. Sci. and Technol. vol. 36, issue 11, 2002,
+pp. 240a-245a.Carbon Capture Journal (CCJ), 2008. Only 34% confidence in
+clean coal- climate decision-makers. Keith Forward, Editor.
+January/February 2008, Issue 1.
+Damen, K et al., 2006. Healthy, SafetyandEnvironmentalRisksof
+UndergroundCO
+2Storage–OverviewofMechanismsandCurrent
+Knowledge . Climactic Change, vol. 74, 2006, pp. 289-318.
+de Figueiredo, M et al., 2005. Framing the Long-Term In Situ
+Liability Issue for Geologic Carbon Storage in the United States,
+Mitigation and Adaptation Strategies for Global Change vol. 10,2005, pp. 647-657.
+Diesendorf, M, 2006. Can geosequestration save the coal
+industry?, in J Byrne, L Glvoer & N Toly (eds), Transforming
+power: Energy as a social project, Energy and Environmental
+Policy Series vol. 9, 2006, pp. 223-248.Doctor, R et al., 2005. Transport of CO
+2inIPCC Special Report
+on Carbon Dioxide Capture and Storage, B. Metz et al., Editors.2005, Cambridge University Press: Cambridge, U.K.
+Energy Information Administration (EIA), 2007. The International
+Energy Outlook 2007, US Department of Energy, Washington,
+DC, May 2007,< http://www.eia.doe.gov/oiaf/ieo/pdf/0484(2007).pdf>.
+Forbes, S, 2002. Regulatory Barriers for Carbon Capture Storage
+and Sequestration. National Energy Technology Laboratory,
+November 2002.
+Gough, C & Shackley, S, 2006. Towards a Multi-Criteria
+Methodology for Assessment of Geological Carbon Storage
+Options, Climactic Change 74, 2006, pp. 141-174.
+Groenenberg, H & de Coninck, H, 2007. Technological support
+for an enabling policy framework for carbon dioxide capture andgeological storage, Task 3: Incentivising CO
+2capture and storage
+in the European Union, April 2007.
+Hannegan, B, 2007. Testimony for Hearing of the Science,
+Technology and Innovation Subcommittee of the Committee onCommerce, Science, and Transportation. 110
+thCong., 1st Sess.
+7 November 2007.
+Heddle, G et al., 2003. The Economics of CO 2Storage, MIT,
+August 2003,
+< http://sequestration.mit.edu/pdf/LFEE_2003-003_RP .pdf>.
+Herzog, H & Golomb, D, 2004. Carbon Capture and Storage
+from Fossil Fuel Use in Energy Encyclopaedia, C. Cleveland,
+Editor. 2004. Elsevier: Amsterdam, Netherlands.International Energy Agency (IEA) Greenhouse Gas R&D
+Programme, 2007a .CO
+2capturereadyplants , 2007/4, May 2007.
+International Energy Agency (IEA), 2007b. Near-term
+Opportunities for Carbon Dioxide Capture and Storage, Global
+Assessments Workshop in Support of the G8 Plan of Action,June 2007.
+IPCC, 2005. Carbon Dioxide Capture and Storage: Special
+Report of the Intergovernmental Panel on Climate Change, IPCC,
+Geneva 2005,<http://arch.rivm.nl/env/int/ipcc/pages_media/SRCCS-final/SRCCS_WholeReport.pdf>.References6
+
+39Johnston, P . & Santillo, D., 2003. Carbon Capture and
+Sequestration: Potential Environmental Impacts. Proceedings of
+IPCC Workshop on Carbon Dioxide Capture and Storage,Regina, Canada 18-21 November 2002, publ. Energy ResearchCentre of the Netherlands (ECN): 95-110.
+Kharaka Y et al., 2006. Gas-water-rock interactions in frio
+formation following CO
+2injection: Implications for the storage of
+greenhouse gases in sedimentary basins, Geology, vol. 34, no. 7,
+2006, pp. 577–580.Levinson, Marc, 2007. Carbon Capture and Sequestration, The
+London Accord, JP Morgan, 2007.
+<http://www.london-accord.co.uk/final_report/ reports/pdf/c6.pdf>
+Massachusetts Institute of Technology (MIT), 2007. The Future of
+Coal, MIT, Boston 2007,
+< http://web.mit.edu/coal/The_Future_of_Coal.pdf>.
+McFarland, J et al., 2000. Economic Modeling of the Global
+Adoption of Carbon Capture and Sequestration Technologies, in
+Proceedings of the Sixth International Conference of GreenhouseGas Control Technologies. Editors J Gale and Y Kaya, 2000.
+National Energy Technology Laboratory (NETL), 2006.
+International Carbon Capture and Storage Projects OvercomingLegal Barriers. NETL, June 2006,< http://www.netl.doe.gov/energy analyses/pubs/CCSregulatorypaperFinalReport.pdf>.
+National Energy Technology Laboratory (NETL), 2007, Cost and
+Performance Baseline for Fossil Energy Plants, NETL, August
+2007, < http://www.netl.doe.gov/energy-analyses/pubs/Bituminous%20Baseline_Final%20Report.pdf>
+Pacala, S et al., 2004. Stabilization Wedges: Solving the Climate
+Problem for the Next 50 years with Current Technologies.
+Science, vol. 305, no. 968, 2006, pp.968-972.
+Parfomak, P & Folger, P , 2008. Pipelines for Carbon Dioxide
+(CO
+2) Control: Network Needs and Cost Uncertainties. 2008.
+Congressional Research Services: Washington, DC.Ragden, P et al., 2006. Technologies for CO
+2capture and
+storage, Summary. Westermann, B, Editor. 2006. Federal
+Environmental Agency: Berlin, Germany.
+REN21, 2007. Renewables 2007 Global Status Report, A pre-
+publication for the UNFCCC COP13, Bali, Indonesia, 2007,
+< http://www.ren21.net/pdf/REN21_GSR2007_Prepub_web.pdf>.
+Rubin, E et al., 2005a. Technical Summary inIPCC Special
+Report on Carbon Dioxide Capture and Storage, B. Metz et al.,
+Editors. 2005, Cambridge University Press: Cambridge, U.K.
+Rubin, E et al., 2005b. Comparative Assessments of Fossil Fuel
+Power Plants with CO 2Capture and Storage. Proceedings of the
+7thInternational Conference on Greenhouse Gas Control
+Technologies, Vancouver, Canada, September 5-9, 2004, Volume
+1:; Peer-Reviewed and Overviews, E.S. Rubin, D.W> Keith adC.F. Gilboy (eds), Elsevier, 2005 (in press).Saddler, H, et al., 2004, Geosequestration: What is it and how
+much can it contribute to a sustainable energy policy forAustralia?, The Australia Institute, Anu, 2004.
+Shuster, E et al., 2007. Estimating Freshwater Needs to Meet
+Future Thermoelectic Generation Requirements, 2007, National
+Energy Technology Laboratories: Pittsburgh, PA.
+Spreng, D et al., 2007. CO
+2capture and storage: Another
+Faustian Bargain? Energy Policy, vol. 35, 2007 pp. 850-854.
+Thambimuthu, K et al., 2005. Capture of CO 2inIPCC Special
+Report on Carbon Dioxide Capture and Storage, B. Metz et al.,
+Editors. 2005, Cambridge University Press: Cambridge, U.K.
+The Interstate Oil and Gas Compact Commission, 2007.
+Storage of Carbon Dioxide in Geologic Structures: A Legalsand Regulatory Guide for States and Provinces. Task Force onCarbon Capture and Geologic Storage, September 2007.
+United Nations Development Programme (UNDP), 2007.
+Avoiding Dangerous Climate Change: Strategies for Mitigation,Human Development Report 2007/2008.
+United Nations Foundation, 2007. Confronting Climate Change:
+Avoiding the Unmanageable and Managing the Unavoidable,
+<http://www.unfoundation.org/SEG/>.
+US Department of Energy (US DOE), Office of Fossil Energy,
+2007.Carbon Sequestration Atlas of the United States and
+Canada, 2007.<http://www.netl.doe.gov/technologies/carbon_seq/refshelf/atlas/>.
+Vajjhala, S et al., 2007. An International Regulatory Framework
+for Risk Governance of Carbon Capture and Storage. CICERO,
+May 2007.
+Van der Zwaan, B, & Smekens, K, 2007. CO
+2Capture and
+Storage with Leakage in an Energy Climate Model, Environ
+Model Assess, August 2007.
+Viebahn, P , et al., 2007. Comparisonofcarboncaptureand
+storagewithrenewableenergytechnologiesregardingstructural,
+economic,andecologicalaspectsinGermany , International
+Journal of Greenhouse Gas Control, vol 1, pt 1, 2007, pp 121-133.
+von Goerne, G, 2002. Implication of CO 2impurities on the
+integrity of caprocks during CO 2Sequestration in Sub-Seabed
+Geological Structures. Greenpeace, May 2006.
+Wilson, E et al., 2007. Research for Deployment: Incorporating
+Risk, Regulation, and Liability for Carbon Capture and
+Sequestration Environ. Sci. Technol. vol. 41, 2007,
+pp. 5945-5952.
+World Business Council for Sustainable Development (WBCSD),
+2006. ‘Facts and Trends- Carbon Capture and Storage’, 2006.< http://www.wbcsd.org/web/publications/facts&trends-ccs.pdf>.Greenpeace
+InternationalFalseHopeWhy carbon captureand storage won'tsave the climateSectionSix
+
+Endnotes
+1World Business Council for Sustainable Development (hereafter
+“WBSCD”), 2006
+2Abanades, J C et al., 2005, pg 3
+3Ragden et al., 2006, pg 24
+4Rubin et al., 2005a, pg 40
+5Carbon Capture Journal (hereafter “CCJ”), 2008, pg 14
+6Greenpeace’s Energy [R]evolution was produced in conjunctionwith the European Renewable Energy Council and the GermanAerospace laboratories – it is available atwww.greenpeace.org/energyrevolution
+7United Nations Development Programme (hereafter “UNDP”),2007 pg 145-146
+8Ibid
+9Massachusetts Institute of Technology (hereafter “MIT”), 2007,pg xiii
+10WBSCD, 2006
+11Rubin et al., 2005a, pg 41
+12Abanades, J C et al., 2005, pg 8
+13International Energy Agency Greenhouse Gas R&D Programme(hereafter “IEA”), 2007 a, i
+14MIT, 2007, pg 29
+15CAIT institute, http://cait.wri.org/
+16Abanades, J C et al., 2005, pg 3
+17In other words: 20% reduced efficiency for each of these 4power stations leads to an overall extra demand for power of 4x 20% = 80% = 1 extra power station of the same size. Theremaining 20% is needed for CCS for the fifth power plant.
+18Shuster et al., 2007, pg 60
+19Ragden et al., pg 24
+20IEA, 2007a, pg 7
+21CSIRO submission to the Australian Parliamentary House ofRepresentatives Inquiry in Geosequestration Technology,August 2006.
+22Azar et al., 2006
+23Benson et al., 2005, pg 264
+24Diesendorf, M, 2006, p. 16
+25IEA Clean Coal Centre, http://www.iea-epl.co.uk/content/default.asp?PageId=885
+26National Energy Technologies Laboratory (hereafter “NETL”)2007, ii
+27Rubin et al., 2005a, pg 40
+28Saddler, H et al., 2004, xi
+29US DOE, FY 2009 Congressional Budget Request,February 200830Diesendorf, M, 2006, pg 13
+31http://www.greenpeace.org/raw/content/international/press/reports/future-investment.pdf
+32Wilson, E et al., pg 5945
+33IEA Clean Coal Centre,http://www.iea-epl.co.uk/content/default.asp?PageId=885
+34Levinson, Marc 2007, pg 14
+35The Interstate Oil and gas Compact Commission 2007, pg 11
+36CCJ, 2008, pg 14
+37NETL, 2006
+38Illinois Department of Commerce and Economic Opportunity,“Gov. Blagojevish Appluads the Passage of ImportantLegislation to Continue Illinois’ Strong Bipartisan Push to BringFutureGen to Illinois”,http://www.ildceo.net/dceo/News/pr07262007-2.htm,retrieved 23.1.08.
+39Gatehouse News Service, “Mattoon gets FutureGen nod, buthurdles remain”,http://www.gatehousenewsservice.com/regional_news/midwest/illinois/x1414531785, retrieved 23.1.08.
+40Energy [R]evolution: A Sustainable World Energy Outlook,
+Greenpeace and EREC, Jan 2007 –http://www.greenpeace.org/energyrevolution
+41REN21, 2007, pg 2
+42CCJ, 2008, pg 14
+43Renewable Energy Access, New Zealand Commits to 90%Renewable Electricity by 2025, September 26 2007,http://www.renewableenergyaccess.com/rea/news/story?id=50075
+44AWEA, US Wind Energy Power Surges 45%, Again ShattersRecord, Wind Energy Weekly, vol 27, issue 1273, January 182007, http://www.awea.org/windenergyweekly/WEW1273.html#Article1
+45www.greenpeace.org/energyrevolution
+46Thambimuthu, K et al., 2005, pg 107
+47Ibid, pg 109
+48Hannegan, B,2007, pg 20
+49MIT, 2007, pg 24
+50Ibid, pg 13
+51WBSCD, 2006
+52Ragden, P et al., 2006, pg 14
+53Hannegan, B, 2007, pg 22
+54Rubin, E et al., 2005a, pg 27
+55Doctor, R et al., 2005, pg 182
+56Spreng, D et al., 2007, pg 851
+40
+
+4157These are US (imperial) tons (2240lbs). Both US tons and
+metric tonnes,(1000kg) are used in this report. The spelling(tons or tonnes) indicates whether they are imperial or metric.
+58Doctor, R et al., 2005, pg181
+59Ragden, P et al., 2006, pg 18
+60Ibid
+61Rubin, E et al., 2005a, pg 34
+62Rubin, E et al., 2005a, pg 35
+63Johnson, P and Santillo, D, 2003
+64Rubin, E et al., 2005a, pg 34
+65Most recently, the international London Convention (1972)adopted protocol that expressly forbids the dumping of CO
+2
+streams unless: “(1) disposal is into a sub-seabed geologicalformation; (2) they [the streams] consist overwhelmingly ofcarbon dioxide; and (3) no waste is added for the purpose ofits disposal. In other words, these rules do not permit CO
+2
+sequestration in the deep oceans themselves.”http://www.londonconvention.org
+66Abanades, J C et al., 2005, pg 8
+67Benson, S et al., 2005, pg 197
+68Bruant et al., 2002
+69Benson, S et al., 2005, pg 202
+70Forbes, S, 2002
+71Benson, S et al., 2005, pg 197
+72At the Weyburn Field storage project, it is estimated that forevery barrel of oil produced, approximately 85 standard cubicmeters (scm) of CO
+2remains underground. As one scm of CO 2
+weighs 1.56 kg and one barrel of oil equals 130 kg then 130kg oil/(85 scm * 1.56 kg/scm)= 0.97 kg of oil per kg of CO
+2,
+essentially a ratio of 1:1 so that 1 ton of CO 2stored
+underground yields approximately 1 ton of oil (Heddle, G et al,2003, pg 33).
+73Herzog, H & Golomb, D, 2004, pg 6
+74Hannnegan, B, 2007, pg 25
+75MIT, 2007, pg 159
+76Benson, S et al., 2005, pg 197
+77Viebahn, P et al., 2007 pg 1 and 2
+78MIT, 2007, pg xiii
+79WBSCD, 2006
+80UNDP , 2007, pg 145-146
+81IEA, 2007 a, i
+82CAIT institute , http://cait.wri.org/
+83Cited in Point Carbon, 9.1.08
+84CCJ, 2008, pg 14
+85Rubin et al., 2005a, pg 4186Abanades, J C et al., 2005, pg 8
+87Ibid, pg 8
+88Saddler, H et al., 2004, xii
+89Ibid, x
+90Ibid, xii
+91Abanades, J C et al., 2005, pg 3
+92In other words: 20% reduced efficiency for each of these4 power stations leads to an overall extra demand for power of4 x 20% = 80% = 1 extra power station of the same size. Theremaining 20% is needed for CCS for the fifth power plant.
+93MIT, 2007, pg 24 and 25
+94Ibid, pg 146 and 147
+95Rubin et al., 2005b, pg 8
+96Shuster et al., 2007, pg 60
+97Ragden et al., 2006, pg 24
+98IEA, 2007, pg 7
+99Abanades, J C et al.,2005, pg 10
+100Herzog, H & Golomb, D, 2004, pg 5
+101Energy Information Administration (herefter “EIA), 2007, pg 73
+102Damen, K et al., 2006, pg 290
+103Pg 45
+104Gough, C & Shackley, S, 2006, pg 159
+105Bradshaw et al., 2007, pg 66
+106Gough, C, Shackley, S, 2006, pg 159
+107Bachu, S et al., 2007, pg 432
+108Bruant et al., 2002
+109CSIRO submission to the Australian Parliamentary House ofRepresentatives Inquiry in Geosequestration Technology,August 2006.
+110MIT, 2007, pg xii
+111IEA, 2007 b, pg 7
+112Benson, S, 2004, pg 15
+113US Department of Energy (hereafter “US DOE”), 2007
+114Parfomak, P & Folger, P , 2008, pg 4
+115Ibid, pg 6
+116Ibid, pg 7
+117Ibid, pg 8
+118MIT, 2007, pg xii’
+119Damen, K et al., 2006, pg 293
+120Bradshaw et al., 2007, pg 66
+121MIT, 2007, pg 50Greenpeace
+InternationalFalseHopeWhy carbon captureand storage won'tsave the climateSectionSix
+
+122Pg 13
+123http://www.smh.com.au/news/environment/buried-gases-
+may-escape-scientists/2006/07/04/1151778936655.html.
+124Vajjhala, S et al., 2007, pg 5
+125Azar et al., 2006
+126Benson et al., 2005, pg 264
+127Abanades, J C et al., 2005, pg 10
+128National Energy Technology Laboratories (hereafter “NETL”),2007, ii
+129Rubin et al., 2005a, pg 40
+130Ragden, P et al., 2006, pg 18
+131Heddle, G et al., 2003, pg 17
+132Abanades, J C et al., 2005, pg 10
+133Parfomak, P & Folger, P , 2008, pg 5 and 12
+134Abanades, J C et al., 2005, pg 10
+135Rubin et al., 2005b, pg 4444
+136Ragden, P et al., 2006, pg 20
+137US DOE, FY 2009 Congressional Budget Request, February2008
+138Diesendorf, M, 2006, pg 13
+139NETL, 2007, ii
+140Rubin et al., 2005a, pg 40
+141Abanades, J C et al., 2005, pg 15
+142Van der Zwaan, B & Smekens, K, 2007
+143Spreng, D et al., 2007, pg 851
+144Abanades, J C et al., 2005, pg 12
+145Diesendorf, M, 2006, p. 16
+146Forbes, S, 2002
+147Bruant et al., 2002
+148Wilson, E et al., pg 5945
+149IEA Clean Coal Centre, http://www.iea-epl.co.uk/content/default.asp?PageId=885
+150Levinson, Marc 2007, pg 14
+151The Interstate Oil and gas Compact Commission 2007, pg 11
+152NETL, 2006, pg 5
+153von Goerne, G, 2002, pg 2
+154Wilson et al., 2007, pg 5946
+155The London Convention has attempted to answer the purityquestion in regulations governing the disposal of CO
+2sub-
+seabed geological formations. In ANNEX 4.5 Action List ofdocument LC/SG 29/15, it is written that the composition ofthe injection stream should be overwhelmingly CO
+2. However,
+this fails to give guidance for proper stream characterisation(www.londonconvention.org). Does “overwhelmingly” mean51%, 75% or 99%? This lack of clarity only adds to theuncertainty surrounding CO
+2storage. Greenpeace believes that
+the purity of a CO 2injection stream should exceed 99.9% and
+any attempt to define “overwhelmingly” should reflect that.
+156de Figueiredo, M et al., 2005, pg 6
+157NETL, 2006
+158Illinois Department of Commerce and Economic Opportunity,“Gov. Blagojevish Appluads the Passage of ImportantLegislation to Continue Illinois’ Strong Bipartisan Push to BringFutureGen to Illinois”,http://www.ildceo.net/dceo/News/pr07262007-2.htm,retrieved 23.1.08.
+159Gatehouse News Service, “Mattoon gets FutureGen nod, buthurdles remain”,http://www.gatehousenewsservice.com/regional_news/midwest/illinois/x1414531785, retrieved 23.1.08.
+160Rubin et al., 2005a, pg 43
+161Ragden, P et al., 2006, pg 15
+162McFarland, J et al., 2000
+163Groenenberg, H & de Coninck, H, 2007, pg 9
+164http://www.pointcarbon.com/
+165IGroenenberg, H & de Coninck, H, 2007, pg 9
+166IEA Clean Coal Centre,http://www.iea-epl.co.uk/content/default.asp?PageId=885
+167Groenenberg, H, de Coninck, H, pg 9
+168Saddler, H et al., 2004, xi
+169Futu[r]e Investment: A sustainable investment plan for thepower sector. A Greenpeace and European RenewableEnergy Council (EREC), July 2007 -http://www.greenpeace.org/international/press/reports/future-investment
+170Energy [R]evolution: A Sustainable World Energy Outlook,Greenpeace and EREC, Jan 2007 –http://www.greenpeace.org/energyrevolution
+171REN21, 2007, pg 2
+172Renewable Energy Access, New Zealand Commits to 90%Renewable Electricity by 2025, September 26 2007,http://www.renewableenergyaccess.com/rea/news/story?id=50075
+173Franz Alt, For German Homeowners, Renewable Energy is NoLonger a Choice, 2007,http://www.sonnenseite.com/index.php?pageID=60&article:oid=a9008&template=article_detail.html&flash=true
+174AWEA, US Wind Energy Power Surges 45%, Again ShattersRecord, Wind Energy Weekly, vol 27, issue 1273, January 182007, http://www.awea.org/windenergyweekly/WEW1273.html#Article1
+42
+
+image Several large wind turbines in the
+Shangyi Manjing Wind Farm. China has
+huge wind resources, which could beeasily and profitably exploited byswitching investment from climatedestroying fossil fuels into harvesting thisclean, abundant energy resource.
+©GREENPEACE / H WEI
+
+Greenpeace is an independent global
+campaigning organisation that actsto change attitudes and behaviour,to protect and conserve theenvironment and topromote peace.
+Greenpeace International
+Ottho Heldringstraat 51066 AZ AmsterdamThe NetherlandsTel: +31 20 7182000Fax: +31 20 5148151
+greenpeace.org

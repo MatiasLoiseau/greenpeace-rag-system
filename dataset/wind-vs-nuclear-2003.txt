@@ -1,0 +1,347 @@
+# Archivo original: wind-vs-nuclear-2003.pdf
+# Tipo: .PDF
+# Procesado el: Sat Oct 11 09:41:05 -03 2025
+
+Wind vs N uclear  2003
+A report  commissi oned by Gre enpeace France
+summary
+Dec. 4th 2003
+About the Report
+Greenpeace France has com missi oned a report with the French research institute
+DET ENTE  to help i nform the discussion on the  European Pressurized Re actor. The
+main authors are Antoin e Bondu elle and Mathias Lefère. The full  version of th e report
+is onl y available in F rench at http://www. greenpeace.fr 
+Intro duction
+Plans being promoted by the French Industry Minister, Fontaine, are currently being
+considered by the French government. The so-called European  Pressurized Reactor (EPR)  - a
+ten-year o ld Framatome /Siemens design - wou ld offic ially cos t some 3.5 billion € and begin
+producing electricity as early as 2010 . In the Min ister's view, the 59th  French reactor would
+not be need ed to match  a growin g electricity demand at a competitive price, but to « to have
+at our dispo sition a maximum  of energ y options which will enable  us to decide wheth er or
+not to replace the nuclear park  entirely or partly at the time  horiz on of 2020 -  2025 1.»
+The Government  was widely believed  to planning to support the Min ister's proposal but ma y
+delay a decision until after the 'Energy Debate' in the French Assembl ée next  March, as
+concerns have been raised about  the EPR’s  economi cs.
+To help  inform this discussion, Greenpeace France has commissioned a report from  the
+French research institute DETENT E compar ing the EPR op tion with  wind energy. If instead
+of investing in  an EPR, the Fren ch utility EdF would instead invest as much money in wind
+generation, how mu ch electricity will then be produce d and how  many jobs will be created?
+In recent years  wind po wer has gone through an  industrial and techno logical revolut ion. In
+Germany , some 13,500 MW  are now  operational, of which 3,200 MW have been installed last
+year alone, the equival ent of the consumpti on of more than  2 milli on househo lds. Franc e is
+lagging far behind with only 220MW  installed today. At a Europe an level, the European
+Wind Energ y Association (EWEA)  is cauti ously estimating that the installed wind  capac ity
+by 2010 wil l be 75,000MW2, tripling the  current installed capacity and adding th e equivalent
+electricity produc tion of some  14 large nuclear reactors or more  than  2 reactors every year. In
+reality, wind has already taken the lead and left nuclear far behind.
+1 Quote from the 'Livre Blanc' or white paper on energy as pre sented by the French Industry Minister
+Fontaine on Nov. 7Th 2003  : www.industrie.gouv.fr
+2See http://www.ewea.org 
+Page 1  Wind vs Nuclear 2003 
+
+
+Meanwh ile, nucle ar power  has been at a standstill or even in decline retreat in the Europea n
+Union.  No single  reactor has been  connected to the grid in the last 4 years. In reality, it will
+take at least another 10 years before a new reactor could come  on line, while  a growing
+number of old reactors will be permanently shut down.
+The aim of the repo rt is not to present a compreh ensive energy scenario, but to clarify the
+econo mic and soci al impacts of a key energ y choice about  to be made  by the French
+government: either to add a 59th nuclear reactor to the nuclear overcapacity or to launch a
+renewable energ y sector. The latter would be supported by 85%  the French clients of EdF3.
+Methodo logy
+The report compar es the job creation and electricity production of 2 energy options: a new
+EPR or  wind  power:  
+1.The repor t first calculates the cost of a new EPR , based on fig ures
+from the French  nuclear industry and French  official references. It
+then estimates the amount of electricity (TWh) that would  be
+produced over its lifetime.
+2.Calculates at an equal investmen t base  as 1 EPR, how many  wind
+turbines could be installed, and how much electricity would be
+produced. Interest rates are assumed  to be identical.
+3.Compares the electricity product ion of the EPR and wind options
+4.Estimates and com pares the job creation for both options
+A sensitivity stud y, compar ing nucl ear and wind option under  4 scenario's:
+1. DETENTE scenario, or central scen ario: based on the  construction of
+1 EPR 'demonstration' reactor'
+2. EoP-H scenario: lower costs nuclear – higher costs wind
+3. EoP-B scenario: higher costs nuclear – lower costs wind
+4. 1+4 EPR scenario: wher e 5 EPRs are constructed inste ad of 1, based
+on the central scenario
+The 4 scen ario's are descr ibed in more detail in the annex. It should  be noted  that the capital
+base in the 4 scenario's is different, as based  on the investmen t in the nuclear capacity.
+A conservative estimation of costs, in favor of nuclear
+DETE NTE has preferred to use figures from  the French nuclear indust ry and French official
+references (government,  parliament) in orde r to give the repor t more relevance to the
+forthcoming  French  Ener gy Deba te. Howe ver, DETENT E questions the credibility and
+correctness of these figures, which in general favor the nuclear option  by under -estimating
+nuclear costs and over-estimating costs related to wind  power. 
+3 The most recent opinion polls have been summarized in the annex of the full report (only available
+in French) 
+Page 2  Wind vs Nuclear 2003 
+
+Main Results
+The DETENTE scenario or central scenario, is based on the mos t 'balan ced' figure s from the
+French nuclear industry and official references. Comparing the cons truction of 1 EPR with  a
+wind project of an ident ical investment, gives a much higher job creation and electricity
+production in the  wind optio n. This is shown  in graph 1 a nd gr aph 2
+Electricity produ ction
+Figure 1: annual elect ricity generation – DETENTE scenario: (nuclear: red ;   total wi nd:
+yellow ; offshore wi nd: blue)
+A wind pro gramme  generates 2.3 times  more electricity at its full deployment than an EPR.
+In electricity terms : 24 TWh / year for wind instead of 10 T Wh / year for  EPR.
+This annual production is not iden tical to the actualized produc tion which is used in the
+econo mic calculations of this study. Produ ction early in the studied time frame  are favored by
+the actualization. The actualized wind produc tion is thus  'only' 52%  higher (111  TWh wind  –
+compared to 73 TWh nucl ear over their lifetime), wher eas the annual  wind production – once
+fully deplo yed – is 2.3 times higher than the nuclear produ ction.
+In the wind pro gramme, the increase in capacity is more smooth  than in the nuclear option,
+which  would  be an advantage in the French  cont ext of large generation overcapacity. Th e
+need for new capacity will indee d be large from 20 30 onwards . The startup of an EPR as
+early as 2012 will thus  be more of a com mercial handic ap to EdF.
+Page 3  Wind vs Nuclear 2003 "Eole ou Pluton ?" : Scénario DETENTE 
+Production d'énergie 
+0510152025
+2004
+2007
+20102013
+2016
+2019
+2022
+2025
+20282031
+2034
+2037
+2040
+2043
+2046
+2049Energie en TWh
+Nucléaire
+Dont off-shore
+Eolien (total)
+
+Generated Employment
+Figure 2: job cr eation in m an-years – DETENTE scenari o: (nuclea r:red ; total  wind: yello w ;
+offshore wind: blue)
+The results in terms of employment  are spectacular. In the EPR option, the construction
+generates up to 8000 tempor ary jobs4 with a peak shortly in advance of the entry into
+operation of the reactor in 2012. B ut after startup, emplo yment takes  a steep dive. In the wind
+optio n, construction is more evenl y spread over time and emplo yment takes  the lead over
+nuclear.
+But above all, the perman ent employmen t in the nucl ear sector – either in the maintenance
+and the  operation of the reactor – remain s very limit ed, even if ratios favorable to nuclear are
+applied5.
+In the EPR case, refurbishmen t creates tempor arily increases in employment.  In the wind
+case, the decrease in employment after 2030 correspond s to the choice of this scenario not to
+construct new turbines after this date.
+The distribution of the creation of employmen t in time is different in the 2 cases. A
+comparison of man- years of employment is howeve r possible. It correspond s more or less to
+the surface under  the graphs  pres ented above.
+Job creation could be valued  more by decis ion-ma kers if it arises earlier in time. This is
+presented by actualizing the job creation, using  a rate of 8% as used by the Fren ch publi c
+services6.
+4 This figure is higher than the 5000 used  by the industry. Quoted  from 'Le Point' July 27th 2003  
+5 The ratios of permanent employment in the nucle ar sector are taken from SFEN (Société Française d’Energie
+Nucl éaire), and  are clearly favoring the nuclear optio n  
+6 As part of the sensitivity study, a rate of 3% has been applied, which gives an even more favorable
+result for wind power. 
+Page 4  Wind vs Nuclear 2003  "Eole ou Pluton ?" : Scénario DETENTE
+Emplois créés
+0200040006000800010000120001400016000
+2004
+2006
+2008
+2010
+2012
+2014
+2016
+2018
+2020
+2022
+2024
+2026
+2028
+2030
+2032
+2034
+2036
+2038
+2040Nucléaire
+Eolien (total)
+Dont off-shore
+
+Jobs created in the DETEN TE scenario  « Wind  vs Nuclear 2003 »
+Man-years Man-years actualised
+EPRWindRatioEPRWindRatio
+DETENTE 133 477 630 339 4,7 50 051 98 502 2,0
+Over a time frame of 60 y ears – the official lifetime of the EPR – the number of man-years
+generated by the wind option is nearly 5 times higher.  If emplo yment is actualized, reflecting
+the political preference for early job creation, the ratio is still a factor 2 higher for wind.   The
+wind option  thus show s major socia l bene fits.
+Sensiti vity study
+Starting from the 'central' DETENTE scenario, 3 other scenario's are developed, which  are
+presented in more  deta il in the annex.
+It is remarkable  that in every scenario, the annual produc tion by wind  energy is by far larger
+at its full deplo yment.  Even in the case where 5 EPRs  are const ructed – a case considered as
+unrealistic given the  large nucl ear overca pacity in Fran ce – wind still generates 30%  more
+electricity (65 TWh/y instead of 50 TWh/y for the EPR) at an equal capital base.
+The wind option has large social advantages with  a job creation which surp asses the nucl ear
+optio n in every scenario.  Even in the 1+4 scenario, nearly 3 times  as much j obs are created
+by wind (if  actualized, the ratio remains 1.6 tim es higher).
+Conclusion s
+Based on fig ures from  the nuclear industry and Fren ch official references which in general
+favor nuclear energy, the report «Wind vs Nuclear 2003» demo nstrates that a clear choice for
+wind power  instead of a new EPR would  offer  France major social and economi c benefits. At
+an equa l investment, wind  power generates 5 times more jobs and 2.3 times more electricity
+than nuclear. Even in  an extreme scenario with low costs  for nucl ear and high costs for wind,
+wind remai ns the best option.
+In the context of the Fren ch 'Ener gy Debate', the French  Parliament should  carefully and
+critically evaluate the socio-economi c consequences of the proposal of the Fren ch Industry
+Minister to construct the EPR.
+Page 5  Wind vs Nuclear 2003 
+
+Annexe 1 :
+Overv iew of cost and productivity valu es in the differen t
+scenar io's
+Overview of the scenario's 
+scenario's Char acteristics
+DETEN TE « Wind vs Nuclear  »1 EPR , medium estimation of costs 
+EoP-H 1 EPR , costs favorable for nuc lear and  unfavorable for wind 
+EoP-B 1 EPR , costs unfavorable for nucle ar and favorable for wind  
+1+4 EPR 5 EPR  with 4 more added, medium estimation of costs  
+Summary of hypothesis of EPR
+Summary of hypothesis on EPR
+UnitsScenario DET ENTEscen EoP-Hscen EoP-B
+Economic li fetimeyears 60 ans60 ans50 ans
+Constr uctio n timeyears 8612
+load factor % 7590 71
+gross inv estment* €/kWe 155014721705
+Lead time costs €/kWe 527380728
+Oper ation  and maintenance€/MWh 10,464,812,55
+dismantling €/kWe15% of cost DI GEC15% of cost DI GEC50% of cost DI GEC
+Addi tional  provision s€/MWh 0,61 0 3
+fuel €/MWh 8,46,9 8,4
+Reprocessing and/or  stora ge€/MWh 4,122,74 16
+Liability / assurance€/MWh 0,220,2213,72
+research €/MWh 1,140,76 2,29
+External costs €/MWh 4,95 2,5 7,4
+* without  lead time costs and dismantling cos ts  - DE TENTE 200 3
+Summary of hypothesis on Wind
+Summary of hypothesis on Wind
+UnitsScenario DETENTEscen EoP-Hscen EoP -B
+Economi c lifetimeyears 15 ans15 ans15 ans
+Cons tructio n timeyears 444
+Load factor (land)Hours/y 280025003020
+Load factor (offshore)Hours/y 330031003500
+Investment (land)€/kWe base 200 1Base 962  €/kWe 
+decreasing a fterwardsIdemIdem
+Investment (offshore)€/kWe base 200 1Base 199 5 €/kWh 
+decreasing a fterwardsIdemIdem
+Lead time costs (8%
+actualisation)% 3,8%  of investment
+Lead time costs (3%)% 2,3%  of investment
+Operation and maintenanc e€/MWh See table
+dism antling€/kWe20% of initial inv estment IdemIdem
+fuel €/MWh n.a.n.a.n.a.
+Reprocessing and storag e€/MWh n.a.n.a.n.a.
+Liability / nuclear assurance€/MWh n.a.n.a.n.a.
+Extern al costs€/MWh 2,243,650,84
+* without   lead time costs  and  dismantling  costs  - DETENTE 2003
+Page 6  Wind vs Nuclear 2003 
+
+Annex 2 : Results  of the different  scenar io's: Electr icity
+production
+Page 7  Wind vs Nuclear 2003  "Eole ou Pluton ?": Variante EoP-H
+Production électrique
+024681012141618
+2004
+2007
+2010
+2013
+2016
+2019
+2022
+2025
+20282031
+2034
+2037
+2040
+2043
+20462049TWh Nucléaire
+Eolien (total)
+dont off-shore
+"Eole ou Pluton ?": Variante EoP-B
+Production électrique
+0102030405060
+2004
+2007
+2010
+2013
+2016
+2019
+2022
+2025
+20282031
+2034
+2037
+2040
+2043
+20462049TWhNucléaire
+Eolien (total)
+dont off-shore
+"Eole ou Pluton ?" : Variante "1 + 4 EPR"
+Production électrique 
+010203040506070
+2004
+2007
+2010
+2013
+2016
+2019
+2022
+2025
+2028
+20312034
+20372040
+2043
+2046
+2049Nucléaire
+Eolien (total)
+dont off-shore
+
+Results of the different scenario's :  job creat ion
+Page 8  Wind vs Nuclear 2003 "Eole ou Pluton ?": Variante EoP-H
+Emplois créés
+020004000600080001000012000
+2004200720102013201620192022202520282031203420372040204320462049Nucléaire
+Eolien (total)
+Dont off-shore
+"Eole ou Pluton ?": Variante EoP-B
+Emplois créés
+05000100001500020000250003000035000
+2004200720102013201620192022202520282031203420372040204320462049Nucléaire
+Eolien (total)
+Dont off-shore
+"Eole ou Pluton ?" : Variante "1 + 4 EPR"
+Emplois créés
+0500010000150002000025000300003500040000
+2004
+2006
+2008
+2010
+2012
+2014
+2016
+2018
+2020
+2022
+2024
+2026
+2028
+2030
+2032
+2034
+2036
+2038
+2040Nucléaire
+Eolien (total)
+Dont off-shore

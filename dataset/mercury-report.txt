@@ -1,0 +1,524 @@
+# Archivo original: mercury-report.pdf
+# Tipo: .PDF
+# Procesado el: Sat Oct 11 09:41:17 -03 2025
+
+AN INVESTIGATION OF FACTORS RELATED  
+TO LEVELS OF MERCURY IN HUMAN HAIR  
+ 
+Environmental Quality Institute 
+The University of North Carolina-Asheville 
+One University Heights 
+Asheville, NC 28804 
+ 
+Technical Report # 05-150 
+ 
+ 
+ 
+October, 2005 
+ 
+ 
+Steven C. Patch 
+Richard P. Maas 
+Kimberly R. Sergent 
+
+ 
+  
+Abstract 
+ 
+Hair analysis provides a historical record of an individual’s exposure to mercury or 
+methylmercury.  In this study hair analysis of mercury was performed on samples from self-selected volunteer participants from across the Un ited States.  Participants completed detailed 
+questionnaires that included questions regarding their level of fish c onsumption (broken down by 
+type of fish), as well as age, gender, race, hair  treatments, flu vaccinations , and dental amalgams.  
+The responses to these questions we re then related to data regardi ng hair mercury concentrations  
+to compare groups of interest and to use in an ANOVA statistical analysis.  Total hair mercury 
+was found to be significantly associated with age, race, gender, geographic region, and fish 
+consumption frequency.  The median hair mercur y concentration for participants who consumed 
+eight or more servings of seafood per month (inc luding shellfish) was 0.83 ug/g more than those 
+who reported consuming no fish, 0.68 ug/g more th an those who consumed 1-2 servings per 
+month, and 0.43 ug/g more than those who consumed 3-7 servings per month.  There was not a statistically significant difference between the hair mercury concentration of those who had 
+dental amalgams and those who did not or betw een those who had had a flu vaccination in the 
+past year and those who had not, although the diff erence for dental amalgams was close to being 
+statistically significant.  Mi dwesterners had substantially lower median hair mercury 
+concentrations than those in othe r regions of the US, even after adjusting for other factors such 
+as frequency of fish consumption. 
+ 1. Introduction  
+ 
+Mercury is an element that cycl es through the environment.  It enters the environment naturally 
+from volcanoes, mineral deposits and evaporatio n from soil and oceans.  Anthropogenic sources 
+of mercury such as emissions from coal-fired ut ility boilers (the largest source), municipal waste 
+combustion, commercial/industrial boilers, and medi cal waste incinerators increase the natural 
+mercury levels in the air, water, and soil7.  Mercury is most often used in alloys, thermometers, 
+batteries, and dental amalgams because it is the only common metal liquid1.   
+   There are three types of mercury:  elementa l mercury, organic mercury, and inorganic mercury.  
+Elemental or metallic mercury is the familiar metal liquid in thermometers and is one of the most 
+common forms found in the environment.  Metallic  mercury is also used in silver dental 
+amalgam fillings which contain approximately 50% mercury1.  Organic mercury compounds are 
+combinations of mercury with carbon.  Orga nic mercury takes several forms as some 
+microorganisms (bacteria and fungi) and natu ral processes change the mercury in the 
+environment from one form to another; the mo st common form being me thylmercury.  Inorganic 
+mercury compounds form when mercury combines w ith elements such as chlorine, sulfur, or 
+oxygen; some inorganic mercury co mpounds are used as fungicides1. 
+   In the United States, coal-fired utility boilers are the biggest source (33 percent) of 
+anthropogenic mercury emissions to the atmosphere7.  Mercury eventually falls from the 
+atmosphere or runs off the ground into water (stream s, lakes, rivers) and accumulates in the soil 
+and bottoms of water bodies.  After the mercury deposits into water, microorganisms (bacteria 
+and fungi) convert it to a form of organic merc ury.  Methylmercury, a highly toxic form of 
+organic mercury, accumulates in the water and is then absorbed by fish and plants near the 
+source.  This bioaccumulation process continues w ith levels of mercury increasing as it moves 
+ 2
+
+up the food chain8.  Mercury builds up through the food ch ain until it reaches toxic levels, many 
+times greater than levels in the surrounding water, in predator animals such as predatory fish and 
+mammals.8 
+   The United States Environmental Protection Agency (EPA) has set the Reference Dose 
+associated with hair mercury concentration at 1.0 µg/g 7.  Mercury is primarily considered a 
+health risk to children and wome n of childbearing age because of its effects on brain and organ 
+development.  Mercury can pass from mother to  child through the blood stream or through the 
+mother’s breast milk1.  The EPA warns, “Offspring born of women exposed to methylmercury 
+during pregnancy have exhibite d a variety of developmental neurological abnormalities, 
+including the following: delayed onset of walking, delayed onse t of talking, cerebral palsy, 
+altered muscle tone and deep tendon reflex es, and reduced neurol ogical test scores”7.  Mercury 
+also poses problems for adults.  In general, th e nervous system is very sensitive to mercury.  
+Current studies are also explor ing the risks of continuous low levels of mercury exposure in 
+adults and its effects on brain functions such as memory and attention.  A recent study found no association between number of dental amalgams, which contain mercury, and cognitive 
+dysfunction
+2.  The study did find, however, a linear a ssociation between th e total number of 
+amalgams and the urinar y mercury concentration2.  Two other recent studies explored the 
+relation between mercury and th e risk of heart problems in men.  One study found a direct 
+association between the risk of myocardial infarction and mercury3, while the other study’s 
+results on coronary heart disease were inconclusive9. 
+   Tests for mercury exposure in humans can be  performed using analysis of blood, urine, nail 
+clippings, or hair samples.  The different an alyses provide different information about the 
+mercury levels in the body.  Blood and urine levels  are used as markers to determine if recent 
+exposure has occurred.  They are more useful  for measuring recent exposures to mercury 
+because blood concentrations decrease rapidly ov er a few days if exposure is stopped.  Hair 
+samples are associated mainly with methylme rcury exposures and can be used to indicate 
+exposures that occurred over the past  several months or a year.  Ho wever, hair concentrations are 
+not able to detect recent expos ures such as a few days prior1.  Mercury is incor porated into hair 
+during the growth of hair, which is about one centimeter a month7.  Hair is a simpler means by 
+which to do large studies because the samples ar e easier to obtain from a large and varied 
+sampling group.  The cost is also minimized because the hair samples are simply cut from the subject’s hair and placed in a small plastic bag.  Fewer individuals would be willing to draw a 
+blood sample or return a urine sample than to provide a hair sample.  The EPA presumes that 
+hair mercury concentrations reflect blood mercury concentrations at the moment of hair growth
+7.  
+A previous mercury-in-hair study conducted duri ng the 1999-2000 National H ealth and Nutrition 
+Examination Survey (NHANES) concluded, “Hair Hg  [mercury] analysis in national samples of 
+U.S. children and women of childbearing age pr ovide a useful biomarker for long-term Hg 
+exposure”4.  
+  In this study, samples of hair  are analyzed from a nationally di stributed self-selected sample.  
+Participants complete a questionnaire about demographic factors and potential exposure to mercury.  A statistical analysis is  performed to relate mercury con centrations in hair to potential 
+factors such as fish consumpti on and having dental amalgams.   
+ 
+2. Methodology 
+ 
+Study participants were recruited by Greenpeace, the Sierra Club, the Natural Resources Defense Council and other nonprofit or ganizations throughout the United States through national internet 
+ 3
+
+notices, regional media coverage of the research  project, special local  awareness events, and 
+other publicity efforts.  Although the study is on-going, this repor t is based on the 6,583 samples 
+obtained from July, 2004 to September, 2005.  The study sample is not presumed to be 
+statistically representati ve of the entire U.S. population, since participants were self-selected, and 
+recruitment of study participants was focused more strongly in some areas of the country than 
+others.  Particular geographic areas, individuals who might be  more concerned about this 
+particular health issue, indivi duals with higher-than-average fi sh consumption, and individuals 
+better able to afford the small fee to participate in the study are expected to be overrepresented in 
+the sample.   
+   Each volunteer was sent a hair sampling kit by the Environmental Quality Institute (EQI) 
+consisting of gloves, plastic sample bags, labe ls, a cardboard weighing balance designed to tip 
+when approximately 0.5g of hair was added, deta iled instructions for cutting, weighing and 
+labeling hair samples, and a return postage-paid mailer.  After washing their hair, each volunteer 
+participant was instructed (compl ete with illustrations) on how and where to cut and weigh their 
+sample.  Each sampling kit also included a deta iled research questionnaire which requests 
+information on age, gender, pregnancy status, hair color, occupation, dental amalgams and 
+removal, flu shot history, and, several questions regarding specifics of fish consumption habits.  Upon receipt at the EQI laboratory, samples were given a laboratory identification number and 
+questionnaire data was transferre d to a computerized database.  Hair samples were weighed to 
+the nearest 0.0001 gram on an analytical balanc e and digested using EPA Method 3050B with 
+concentrated nitric acid and 30% hydroge n peroxide on a SCP Science Digiblock
+TM graphite 
+block digestor.  Final volume  of the digestate was 50ml. 
+   Mercury determination was performed using EPA Method 7470A. Either a Thermo-Jarrel-Ash 22 graphite furnace atomic absorption spectromete r (AAS) or a Thermo Elemental M6 AAS with 
+a V90 continuous-flow vapor system were used to determine mercury concentration in the 
+digestates.   Each volunteer partic ipant was sent a confidential le tter with their individual results 
+along with explanatory information regarding USEPA advisory levels. 
+ 
+3. Results 
+ 
+A comparison of the percentage of 16-49 year -old women grouped by total servings of fish 
+consumption in this study to that in the NHANES study (Table 1) indicates that participants in 
+this study tend to be greater consumers of fish  than in the NHANES study, which came from a 
+random sample of the U.S. population.  This differen ce may be due to the fact that participants of 
+this survey are self-selected but  also may be caused at least pa rtially by a national trend towards 
+increased fish consumption from 1999-2000 to 2004-2005.  Hair mercury concentration data 
+were summarized by determining the raw me dians and the proportions above the EPA’s 
+Reference Dose of 1.0 µg/g for each age group - gender combination (Table 2).  The 95% 
+confidence intervals for the medians were calcula ted using non-parametric  confidence intervals 
+based on ranks.  Because of the potential overrepre sentation of heavy consumers of fish in the 
+current study, medians and proportions represent estimates for a higher-risk group rather than for the US population as a whole.  The medians indica te that children have approximately half the 
+mercury concentration levels of  the adults.  Also, among the a dults, the mercury concentration 
+levels for the females are lower than for the males. 
+ 
+Table 1. Comparison of Fish Consumpti on Between Current Study and NHANES 1999-2000 
+Study for Women Between 16 and 49 Years Old 
+ 4
+
+ 
+Study Fish 
+Consumption 
+Category Number in Category Percent of Group in Category 
+0    702 11.7 
+1-2 1,031 17.1 Current Study - Fish and Shellfish Combined 
+3+ 4,292 71.2 
+ 
+0    639 38.5 
+1-2    573 34.5 NHANES 1999 - 2000 Fish Only 
+3+    447 26.9 
+ 
+0    878 52.9 NHANES 1999 - 2000 Shellish Only 
+1+    782 47.1 
+ 
+ 
+   Slightly more than 10% of women of  childbearing age in the NHANES 1999-2000 study had 
+mercury concentrations greater than those the RfD of 1.0 µg/g in hair4.  In this study 
+approximately 23% of 16-to-49 year old women had hair mercury concentrations greater than or 
+equal to 1.0 µg/g (Table 2).   
+ 
+ 
+Table 2 – Estimated Medians (95% Confidence Inte rval) and Estimated Percentages 1.0 µg/g or 
+Higher (Standard Error), Broken Down by Age Category and Gender and Weighted by Fish 
+Consumption 
+  Age Category Gender N Median (ug/g) Percent Above 
+ 1 ug/g 
+Female 13 0.29 7.7 (7.1)    0 - 1 year 
+  Male 20 0.17 0.0 (0.0) 
+Female 76 0.11 (0.09 - 0.20) 2.6 (1.8)    2 - 5 years 
+  Male 128 0.13 (0.09 - 0.17) 5.5 (2.0) 
+Female 120 0.20 (0.16 - 0.24) 5.8 (2.1)    6 - 15 years 
+  Male 162 0.13 (0.10 - 0.17) 4.3 (1.6) 
+Female 2834 0.43 (0.41 - 0.45) 22.6 (0.8)    16 - 49 years 
+  Male 990 0.55 (0.51 - 0.61) 29.3 (1.4) 
+Female 1275 0.49 (0.45 - 0.52) 24.2 (1.2)    50+ years 
+  Male 848 0.62 (0.55 - 0.68) 29.4 (1.6) 
+ 
+ 
+   An analysis of variance (ANOVA) model wa s used to examine the relationship between hair 
+mercury (Hg) and several poten tial predictor variables and de mographic variables.  The 
+distribution of mercury concentrations was positively skewed, so a logarithmic transformation was used to improve normality.   Fish consump tion categories included: canned tuna servings, 
+store- or restaurant-bought fish servings, local fish servings.  A standard serving was defined as 
+six ounces, and fish consumption included shellf ish consumption.  Fish frequency data were 
+grouped into four categories: no fi sh consumed, fish consumed one or two times per month, fish 
+consumed three or four times per month, and fish  consumed more than five times per month.  
+ 5
+
+Age was grouped into five categories: less than or equal to one year, two to five years, six to 
+fifteen years, sixteen to forty-nine years, and fifty or more year s.  Participants’ residence was 
+grouped by the U.S. Census Bu reau’s definition of region6.  Additional variab les investigated 
+included gender, race, pregnancy status, existence of silver dental amalgams, amalgams recently 
+removed, and recent flu vaccinations.  Other va riables involving hair treatments (dyed or 
+permed) were disregarded because they were found earlier to be non-significant factors and 
+dropped from the questionnaire.  Du e to the large number of potential  effects, interactive effects 
+were not considered.  A check of the residuals for normality in the final ANOVA model yielded acceptable homoskedasticity, a skewness of 0.22, an (adjusted) kurtosis of 0.80, and normality 
+tests with p-values less than 0.05.  Thus, the l og transform did not completely correct for non-
+normality, but did improve normality enough for th e large sample hypothesis tests considered 
+here to be valid.   The reported P-values are two-tailed, and the te sts of statistical significance 
+used α = 0.05.  Statistical analys es were performed with SAS software (Release 9.1, SAS 
+Institute, Cary, NC). 
+  The ANOVA results for the 3,850 participants w ith fully-completed ques tionnaires, indicated 
+that age category, gender, geographic region, local fish servings, race, store or restaurant fish servings, and tuna fish servings  were all highly statistically si gnificant factors at the 0.05 level 
+(Table 3).    The factors:  have amalgams, amalgams recently removed, a recent flu shot, and 
+pregnancy status were not statis tically significant in accounting for total merc ury concentrations, 
+although having amalgams (P-value = 0.070) wa s close to statisti cal significance. 
+ 
+Table 3 – Statistical Significance of Various Factors Associated w ith Hair Hg Concentrations for 
+Final Model 
+Factor DF F Value P-Value 
+Age Category 4 21.4 < 0.001
+Amalgams Removed 1  0.2 0.654
+Flu Shot 1 0.1 0.805
+Gender 1 19.1 < 0.001
+Geographic Region 3 54.8 < 0.001
+Have Amalgams 1 3.39 0.070
+Local Fish Servings 3 26.6 < 0.001
+Pregnancy Status 1 0.5 0.501
+Race 4 13.6 < 0.001
+Store Fish Servings 3 325.6 < 0.001
+Tuna Fish Servings 3 68.5 < 0.001
+ 
+   The unweighted medians and 95% confidence interv als for each level of ea ch factor considered 
+were computed using the methodolog y discussed previously from the raw data.  Each factor was 
+analyzed separately to include the most number of responses for each question.  Because participants in this study  probably tend to consume more fish than the general public, the 
+medians are more useful for comparing levels of  factors than for estimating representative US 
+concentrations. Also, because these medians are not adjusted for other factors, the results are not 
+necessarily consistent with those of the ANOVA model, whic h does consider statistical 
+significance of a factor after adjusting each of the levels for other factors in the model.  
+Therefore, adjusted median estimates, calculated by reverse-transforming the least-square means 
+from the ANOVA analysis are also provided.  These adjusted medians provide an estimate of what the median mercury of the given group would be if the individuals in that group were 
+ 6
+
+equally divided into the levels of all the othe r variables considered in  the ANOVA model.  In 
+particular, since the adjusted medians for a ny group from variables not reflecting fish 
+consumption would assume equal proportions of individuals in each of the fish-consumption 
+groups for each type of fish c onsumption, and the tuna fish and local fish actually had much less 
+people in the higher groups, then the adjusted medians tend to be higher than the raw medians for 
+those variables.  Thus, adjusted means are us eful only for making comparisons between groups 
+within a given variable. 
+  Medians for total fish consumption groups indi cate a consistent and strong positive relationship 
+between mercury in hair and total fish consum ption (Table 4).  The median for people that 
+consume almost no fish is 0.06 ug/g, while the median for those who consume eight or more 
+servings per month is appro aching the 1.0 ug/g RfD for pregnant women.  This striking 
+difference indicates that fish c onsumption is clearly the primary source of hair mercury exposure 
+for most Americans. Medians for the restaurant fi sh servings per month, tuna fish servings per 
+month, and local fish servings per month follow the same pattern, althoug h the range in mercury 
+concentrations between low and high consumption categ ories is not as great.  This indicates that 
+statistically there is no segmen t of the fish consumption sour ces that does not contribute 
+significantly to mercury exposure. 
+ 
+Table 4 – Unweighted Medians (µg/g) and 95% Confidence Intervals by Factor 
+Factor   NRaw 
+Median 
+(µg/g) 95% C.I. for 
+the Raw 
+Median Adjusted 
+Estimate of 
+Median 
+   0 - 1 year 33 0.18 (0.14 - 0.29) 0.56 
+   2 - 5 years 204 0.13 (0.10 - 0.17) 0.33 
+   6 - 15 years 283 0.17 (0.13 - 0.19) 0.34 
+   16 - 49 years 3824 0.46 (0.44 - 0.48) 0.58 Age Category 
+  
+  
+  
+     50+ years 2126 0.53 (0.50 - 0.55) 0.61 
+   Midwest 1284 0.26 (0.23 - 0.28) 0.34 
+   Northeast 1745 0.49 (0.44 - 0.53) 0.53 
+   Southeast 1550 0.44 (0.40 - 0.47) 0.49 Region 
+  
+  
+     West 1946 0.59 (0.55 - 0.62) 0.56 
+   Female 4385 0.43 (0.41 - 0.44) 0.44 Gender 
+     Male 2181 0.49 (0.46 - 0.52) 0.54 
+   Caucasian 4325 0.44 (0.42 - 0.46) 0.47 
+   Hispanic 135 0.33 (0.26 - 0.41) 0.45 
+   African-Amer. 64 0.27 (0.19 - 0.33) 0.39 
+   Asian 140 0.90 (0.76 - 1.14) 0.82 Race 
+  
+  
+  
+     Other 104 0.39 (0.30 - 0.48) 0.40 
+   Pregnant 134 0.43 (0.35 - 0.52) 0.49 Pregnancy  
+ Status1   Not pregnant 2697 0.43 (0.40 - 0.45) 0.46 
+   None 1304 0.12 (0.11 - 0.13) 0.22 
+   1 – 2 1964 0.36 (0.34 - 0.38) 0.41 
+   3 – 4 1426 0.57 (0.53 - 0.60) 0.56 Store Fish  
+ Servings Per  
+ Month 
+     5+ 1552 0.94 (0.90 - 1.00) 0.91 
+Table 4 (Continued)    
+Tuna Fish     None 2237 0.25 (0.23 - 0.28) 0.34 
+ 7
+
+   1 – 2 2242 0.45 (0.43 - 0.48) 0.44 
+   3 – 4 984 0.62 (0.57 - 0.67) 0.53  Servings Per  
+ Month 
+     5+ 862 0.83 (0.76 - 0.88) 0.63 
+   None 4486 0.38 (0.36 - 0.40) 0.37 
+   1 – 2 1105 0.57 (0.52 - 0.61) 0.45 
+   3 – 4 320 0.65 (0.59 - 0.79) 0.45 Local Fish  
+Servings Per 
+Month  
+     5+ 247 0.96 (0.85 - 1.17) 0.66 
+   None 702 0.06 (0.06 - 0.07)  
+   1 - 2 1031 0.22 (0.20 - 0.24)  
+   3 - 7 2489 0.47 (0.44 - 0.49)  Total Fish 
+Servings Per 
+Month2
+    8+ 1803 0.90 (0.86 - 0.94)  
+   Yes 4078 0.49 (0.48 - 0.52) 0.49 Has Dental  
+Amalgams    No 1706 0.40 (0.37 - 0.43) 0.46 
+   Yes 841 0.52 (0.48 - 0.59) 
+0.47 Amalgams 
+Removed 
+(last 12 months) 
+   No 5515 0.44 (0.42 - 0.45) 
+0.48 
+ 
+  Yes 1280 0.45 (0.42 - 0.50) 
+0.47 Flu Shot  
+(last 12 months) 
+   No 5156 0.44 (0.42 - 0.46) 
+0.47 
+1 Raw medians and confidence intervals for pregna ncy status are only based on females aged 16 
+to 49 years, while least square median estimates  for pregnancy status ar e based on all the data. 
+2 Least square means were not calculated becaus e the factor: total fish servings per month, was 
+not included in the ANOVA model. 
+ 
+  The participants with dental amalgams had an approximately 0.1 ug/g  larger median value than those without dental amalgams.  The fact that  the difference between the two groups is not 
+statistically significant is consistent with the re sult that the difference in estimated medians is 
+only 0.03 ug/g when adjusted for other factors such  as fish consumption.  A better idea of the 
+strength of the relationship betw een dental amalgams and hair me rcury concentration might have 
+been obtained if the number of amalgams could have been quantified for each participant.  
+Unfortunately, a large percentage of participan ts left the number of amalgams question on the 
+questionnaire unanswered.   Consistent with the ANOVA results medians were approximately 
+the same between groups for the factors:  amal gams removed recently (last 12 months) and flu 
+shot recently (last 12 months). 
+  The Midwest region had the lowest median Hg  value, while the West region had the highest 
+median mercury.  The Northeast and Southeast re gions medians were similar.  The median for 
+Asians was considerably higher than the medi ans for the other races, while African-Americans 
+had the lowest estimate.  However, the number of  responses for races other than Caucasian was 
+small.  The medians for pregnancy status were only based on females age 16 to 49 and were also 
+approximately the same for pregnant and non-pregnant women. 
+  Summaries of the results for states with at least 100 participants and cities with at least 50 
+participants are provided in Table 5 and Table 6, respectively.  These summaries reinforce the 
+findings that mercury concentratio ns in hair are closely relate d to seafood consumption.  With 
+the exception of Utah, whose participants had very high seafood consumption and moderate 
+ 8
+
+mercury consumptions, the states that had higher seafood consumption also had higher mercury 
+concentrations in hair.  New York had the hi ghest hair mercury concentrations, followed by 
+Colorado, California, Oregon, Florida, Massachuse tts and Washington.  A similar pattern exists 
+for the cities.  The results for two cities stand out.  Masontown PA had a relatively very low 
+median mercury concentration of 0.08 ug/g.  Masontown is close to a coal fired power plant, but 
+participants consumed much less s eafood than participants at most locations.  This reinforces the 
+idea that mercury concentrati ons in hair are caused by cons uming food contaminated with 
+mercury.  New York City has the highest hair mercury concentrations of any city with 50 or more participants.  The 191 New York City participants had a median hair mercury 
+concentration of 0.88 ug/g and 47% were 1.0 ug/g or greater.  Their median number of 6 seafood 
+servings consumed per month was tied the second largest amount.  Other cities with higher-than-
+average hair mercury concentra tions include Portland, San Francisco, and Seattle.  Except for 
+San Francisco, which had lower than typical s eafood consumption, these ci ties had the highest 
+seafood consumption. 
+  
+Table 5. Results for States with at Least 100 Participants. 
+ 
+    M e d i a n    M e d i a n  T o t a l  
+    M e r c u r y  P e r c e n t  ≥ Seafood Servings 
+   State     n  (ug/g)  1.0 ug/g per Month 
+-------------------------------------------------------------------------------------------- 
+    CA          1090     0.62       30.0        5.0 
+    CO     135      0.67       30.4        5.0 
+    FL     389      0.61       33.4        6.0 
+    IL     169      0.31       15.4        5.0 
+    MA     218      0.61       27.1        5.0 
+    MD     218      0.48       17.4        4.0 
+    MI     115      0.38       20.9        4.0 
+    MN     293      0.24        8.9        4.0 
+    NC     175      0.41       15.4        4.0 
+    NH     133      0.46       18.8        6.0 
+    NJ     192      0.48       27.1        5.0 
+    NY     455      0.76       40.2         5.5 
+    OH     415      0.22       10.6        4.0 
+    OR     130      0.62       26.2        6.0 
+    PA     535      0.26       11.4        3.0 
+    TX     203      0.38       15.8        5.0 
+    UT     139      0.36       15.1         5.0 
+    VA    149      0.40       27.5        5.0 
+    WA    184      0.57       28.8        6.0 
+    WI     126      0.22       10.3        4.0 
+ 
+ 
+ 9
+
+Table 6. Results for Cities with More Than 50 Participants. 
+ 
+      M e d i a n    M e d i a n  T o t a l  
+      M e r c u r y    P e r c e n t  ≥ Seafood Servings 
+   City   State      n  (ug/g)  1.0 ug/g per Month 
+--------------------------------------------------------------------------------------------------------------- 
+ Austin    TX    50      0.43       24.0        5.0 
+ Masontown         PA    64      0.08         3.1        2.0 
+ Miami     FL    70       0.38      30.0        5.0 
+ Minneapolis       MN  115       0.26        8.7        4.0 
+ New York          NY     191       0.88       47.1        6.0 
+ Philadelphia      PA    63       0.35       20.6        5.0 
+ Pittsburgh        PA    81       0.25         4.9        3.0 
+ Portland           OR    54       0.68      25.9        6.0 
+ Salt Lake City    UT    77       0.35       10.4        5.0 
+ San Francisco     CA      122       0.68        29.5         4.0 
+ Seattle            WA    56       0.61       32.1        7.0 
+ Washington       DC    99       0.48       26.3        5.0  
+ 
+4. Summary and Conclusions. 
+ 
+There exists a strong relationship between mercury concentration in hair and seafood 
+consumption.  In this study, participants who ty pically consumed 0, 1-2, 3-7, or eight or more 
+servings of seafood (including sh ellfish) per month had median mercury concentrations of 0.06 
+ug/g, 0.21 ug/g, 0.46 ug/g, or 0.89 ug/g, respectivel y.  In the NHANES 1999-2000 study females 
+16-49 years of age who had consumed 0, 1-2, or th ree or more servings of fish (not including 
+shellfish) per month had geometric means of 0.11 ug/g, 0.20 ug/g, or 0.38 ug/g, respectively.  
+The results for the lower two groups of each stud y are very comparable, especially considering 
+that the NHANES results quoted here included only women aged 16-49 and did not include 
+shellfish consumption with fish consumption.  The fact that the medians for the upper two 
+categories in the current study are higher than  the geometric mean in the NHANES may be 
+partially due to those two factors as well as the possibility that pa rticipants in th e current study in 
+the 3-7 servings group may be weighted more towa rds the higher end of the group than those in 
+the three-or-more group in the NHANES group.  Thus, the current results do not provide 
+evidence of an increasing or a decreasi ng trend from 1999-2000 to 2004-2005 in mercury 
+concentrations for a given amount  of fish consumption.  An earlier (1994) study conducted by 
+Schweinsberg in Germany, of the relations hip between fish consumption and mercury 
+concentration in Germany, found that subjec ts who consumed 0-400 g, 400-1,000 g, or more 
+than 1,000 g per month had mean hair mercury concentrations of 0.56 ug/g, 0.94 ug/g, and 1.60 ug/g.
+5  Converting to 6-ounce servings, the cons umption groups would be 0-2.4 servings, 2.4-5.8 
+servings, and more than 5.8, servi ngs respectively.  Because the mean of the positively skewed 
+hair mercury concentrations would be expected to be 1.5 to 2.5 times the median or geometric 
+mean, these results are consistent with those of the current study a nd the NHANES study, thus 
+also providing no evidence of a tim e trend in hair mercury concentrations for a given amount of 
+fish consumption. 
+  The current study found very little evidence of  a relationship between dental amalgams and 
+mercury concentrations in hair.  In the 1994 study by Schweinsberg it was found that among 
+ 10
+
+individuals who had no fish consumption, individuals with no amalgams had mean blood 
+mercury concentrations of approximately 0.3 ug/L, while individuals with more than six amalgams had mean blood mercury concentration of approximately 1.0 ug/L.  In a summary of 
+several studies, ADSTR estimated  the exposure contributions from  those with dental amalgams 
+to range from 3-17 ug/day.
+1 One possible explanation for the apparent discrepancy between the 
+current study and other studies is that the inorganic mercury obtained from dental amalgams 
+accumulates less in hair and other tissues than the methylmercury obtained from consuming fish. 
+  Several demographic factors were  found to be related to mercury concentrations in hair in the 
+current study.  One of the stronger relationships  is the relationship be tween region and mercury 
+concentrations.  The Midwest region has raw median  mercury concentrations that are much less  
+than those for the other regions of the US.  This suggests that sources of mercury exposure other 
+than fish consumption may be less in the Midwest such as chlor-alkali plants or mines.  Perhaps the ANOVA adjustment does not fully take out the effect of fish consumption.  It is also possible that fish consumed in the Midwest tend to be lo wer in the food chain or that mercury pollution is 
+less in Midwest water than in other US waters.  Another demographic factor  that seems hard to 
+explain is the higher con centrations in Asians than in othe r races, even after adjusting for the 
+level of fish consumption.  There may be simila r explanations as those for different regions.  
+Also, there were not many Asians (n=240) in th e current study.  The fact that adults have 
+substantially higher mercury con centrations than children after adjusting for other factors may 
+again be partially due to the fact that the statisti cal adjustments are not perfect or may also be due 
+to the fact that adults have accumulated a long-te rm burden that shows up in hair samples.  Men 
+tend to have higher concentrations  than women but the difference in  least square medians is only 
+0.1 ug/g. 
+  The study described here is an ongoing study.  Periodically, the questionnaire has been revised to gather more specific information.  Since the beginning of the study, questions have been 
+added to allow us to break fish consumption down more precisely.  This should allow us to 
+eventually compare the additional mercury burden  caused by consuming different species as well 
+as to be able to better compar e the results of this study to othe r studies.  As more samples are 
+received, we should also be able to obtain mo re precise information about exposure to smaller 
+subgroups of our sample, such as minority  races, pregnant women and young children. 
+ 
+ 
+ 
+ 11
+
+6. References 
+ 
+[1] ATSDR. 1999. “Toxicological Profile for Me rcury,” Atlanta, GA: Agency for Toxic 
+Substances and Disease Registry. ht tp://www.atsdr.cdc.gov/toxprofiles/tp46.html. 
+[2] Factor-Litvak, Pam, Gunnar Hasselgren, et. al . “Mercury Derived fr om Dental Amalgams 
+and Neuropsychologic Function,” Environmental Health Perspectives  111 (2003): 719-723. 
+[3] Guallar, Eliseo, Inmaculada Sanz-Gallardo, Piet er van’t Veer et. al.  “Mercury, Fish Oils, and 
+the Risk of Myocardial Infarction,” The New England Journal of Medicine  2002; 347: 1747-
+1754. 
+[4] McDowell, Margaret A., et. al.  “Hair Mercury Levels in  U.S. Children and Women of 
+Childbearing Age:  Reference Range Data from NHANES 1999-2000,” Environmental Health 
+Perspectives  112 (2004): 1165-1171. 
+[5] Schweinsberg, Fritz.  “Risk Estimation of  Mercury from Different Sources,” Toxicology 
+Letters 72 (1994): 345-351 
+[6] U.S. Census Bureau. 2002. “Census Regions and Divisions of the United States,” 
+Washington, DC: Geography Divi sion, U.S. Census Bureau. 
+http://www.census.gov/geo/www/us_regdiv.pdf. 
+[7] U.S. EPA. 1997. “Mercury Study Report to Congress,” Washington, DC: Office of Air 
+Quality Planning and Standards and Office of Re search and Development, U.S. Environmental 
+Protection Agency. http://www.epa.gov/mercury/report.htm. 
+[8] U.S. EPA. 2001. “Water Quality Criterion for the Protection of Human Health: Methylmercury,” Washington, DC: Office of Scie nce and Technology and Office of Water, U.S. 
+Environmental Protection Agency. http://www.epa.gov/waterscience/crite ria/methylmercury/document.html 
+ [9] Yoshizawa, Kazuko, Eric Rimm, J. Steven Morris, et. al. “Mercury and the Risk of Coronary 
+Heart Disease in Men,” The New England Journal of Medicine  2002; 347: 1755-1760. 
+ 12

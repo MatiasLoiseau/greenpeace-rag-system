@@ -1,0 +1,201 @@
+# Archivo original: fact-sheet-the-illegal-fishing-and-forced-labor-prevention-act.pdf
+# Tipo: PDF
+# Método de extracción: pdfplumber
+# Procesado el: Sat Oct 11 10:09:02 -03 2025
+
+THE ILLEGAL FISHING AND
+FORCED LABOR PREVENTION ACT:
+A BILL TO COMBAT ILLEGAL, UNREPORTED, AND UNREGULATED FISHING
+AND HUMAN RIGHTS ABUSES AT SEA
+Illegal, unreported, and unregulated (IUU) fishing, a top threat to ocean ecosystems and
+global food security, is inextricably linked to human rights abuses at sea. Workers on
+fishing vessels around the world routinely deal with multiple abuses at sea—withholding of
+pay, debt bondage, beatings, excessive working hours, and much more. IUU fishing, human
+trafficking, and forced labor in the seafood industry are human rights and environmental
+crises that demand swift action.
+Fishing operations that engage in human trafficking and
+forced labor are often the same ones that ignore fisheries
+management regulations and laws. Illegal fishing is not
+a small problem. Of the annual global seafood catch, an
+estimated one-third—as much as 56 billion pounds—
+is illegally fished.1 IUU fishing contributes greatly to
+overfishing, which has impacted fisheries around the world.
+Depletion of nearshore fisheries resources exacerbates
+human rights abuses, forcing vessels to travel farther and
+remain out at sea longer, raising costs, and increasing
+incentives to engage in illegal labor practices and abuses.
+MAY 2021 FS: 21-05-A
+©
+U.S.
+Coast
+Guard
+As it becomes harder to find laborers willing to voluntarily
+work in these conditions, more operators resort to human
+trafficking to assemble crews. Further, demand in the U.S.
+and elsewhere for cheap seafood contributes to low prices in
+some markets that do not reflect the true cost of production.
+The United States imports more seafood than any other
+single nation in the world and is thus in a unique position to
+deal with these intertwined crises. Lack of action means U.S.
+dollars are perpetuating these problems. With its strength of
+governance and ample resources, the United States should
+be able to reject illegally fished and unethically harvested
+
+With congressional and administrative action, the United States can ensure that all seafood
+sold in the United States is safe, legally caught, ethically sourced, and honestly labeled.
+seafood from its commerce stream. Yet, according to a recent
+report by the U.S. International Trade Commission, the
+United States imported an estimated $2.4 billion worth of
+seafood derived from IUU fishing in 2019.2
+By requiring information about the origins of seafood and its
+supply chains, tracking seafood from boat to plate, expanding
+transparency, and working with other countries to drive
+changes on the water, the United States could lead in the
+fight against IUU fishing, forced labor, and other human
+rights abuses. Congress and federal agencies have laid the
+groundwork with initiatives such as the Seafood Import
+Monitoring Program and capacity-building with other nations
+under international agreements. Much work remains to be
+done, however, to effectively deter IUU fishing, protect basic traceability from the vessel to the point of entry into U.S.
+human rights in the seafood industry, and close our markets commerce, it is a necessary tool for CBP to exclude seafood
+to illegally sourced products. that may have been produced by forced labor. Expanding
+the SIMP to all species would close the U.S. market for the
+remaining 60 percent of seafood that could be produced by
+The Illegal Fishing and Forced Labor Prevention forced labor.
+Act provides a comprehensive approach for the The legislation requires a rulemaking process for the SIMP
+U.S. government to tackle these global crises. to mandate reporting of data relating to labor conditions in
+the seafood supply chain. It further requires importers to
+provide additional supply chain data at the time of entry—
+The Illegal Fishing and Forced Labor Prevention Act
+transshipment information (e.g., when seafood is moved from
+represents a significant step forward in explicitly linking
+one vessel to another at sea), more granular information
+illegal fishing to forced labor in the seafood industry,
+about the location of the harvest, and information about
+enhancing traceability and transparency in seafood supply
+vessel ownership to make it easier to hold bad actors
+chains, and strengthening enforcement against IUU fishing
+accountable.
+and associated labor abuses.
+The National Oceanic and Atmospheric Administration
+IMPROVING THE UNITED STATES’ TRACEABILITY (NOAA) will be required to develop a comprehensive data
+SYSTEM FOR SEAFOOD IMPORTS audit procedure, prioritizing the audit of imports from
+The Illegal Fishing and Forced Labor Prevention Act fills countries identified by other agencies as having human
+key gaps in the Seafood Import Monitoring Program (SIMP), trafficking, forced labor, or child labor in any part of their
+which currently requires importers of some seafood products seafood supply chain. This will make the SIMP more effective
+to report certain supply chain data to verify legality. The and explicitly link IUU fishing to human rights abuses.
+bill takes a critical step in making seafood supply chains
+MAKING THE SEAFOOD IMPORT SCREENING SYSTEM
+more traceable by expanding the SIMP to require reporting
+MORE EFFECTIVE
+for imports of all species. The current program applies to
+only 40 percent of imported seafood, a glaring loophole that In its current form, the United States’ seafood import control
+IUU fishing operations exploit by deliberately misreporting system does not effectively block IUU-fished or unethically
+species to escape regulation. harvested seafood imports. The bill directs CBP and NOAA to
+update the electronic import control system—the Automated
+Expanding the SIMP to all seafood would allow U.S. Customs
+Commercial Environment—to better verify the data received
+and Border Protection (CBP) to use the Tariff Act, a law
+and to use predictive analysis to detect illegal imports.
+prohibiting imports produced by forced labor, to block or
+By incorporating artificial intelligence into the system,
+seize all seafood imports that may have been produced in this
+the United States will be able to more proactively identify
+way. To enforce the Tariff Act, a product must be traceable
+seafood shipments at risk for IUU fishing and labor abuses.
+from the point in the supply chain where the forced labor
+is occurring to the point of importation. Currently, some ILLUMINATING FISHING ACTIVITIES
+seafood known to be harvested by forced labor is not fully
+The invisibility of fishing operations, including
+traceable to the vessels (the site of the forced labor), and
+transshipment, is a key reason why IUU fishing and its
+CBP is therefore unable to determine if such tainted goods
+associated human rights abuses abound. Illuminating supply
+are entering the U.S. market. Since the SIMP requires
+chains from the point of harvest is essential to eradicating
+Page 2 THE ILLEGAL FISHING AND FORCED LABOR PREVENTION ACT
+©
+Adam
+Dean/The
+New
+York
+Times/Redux
+
+these problems. Under current federal law, nearly all
+information submitted by seafood importers to U.S. agencies
+that pertains to legality of harvest and seafood supply chain
+practices is kept highly confidential. The Illegal Fishing and
+Forced Labor Prevention Act increases transparency of the
+data that accompany seafood imports into the United States,
+including information on the legality of catch, and improves
+the ability of federal agencies to share information with each
+other to better enforce conservation and labor requirements.
+It would also expand the use of automatic identification
+systems (AIS), important vessel tracking tools that can aid
+in monitoring transshipping events, identifying vessels at
+higher risk of labor abuses, and overall enforcement. Seafood
+importers will be required to provide the unique mobile
+maritime service identity associated with their AIS as a
+REINTERPRETING IUU FISHING TO INCLUDE VIOLATIONS
+condition of seafood import.
+OF FUNDAMENTAL LABOR RIGHTS
+PORT-TO-PLATE SEAFOOD TRACEABILITY
+The Illegal Fishing and Forced Labor Prevention Act
+Currently, seafood labeling and traceability requirements recognizes that illegal fishing and labor rights abuse are
+end when imported seafood reaches U.S. ports, leaving a interconnected and that compliance with international labor
+massive gap in accountability. The bill extends traceability standards is critical to ending illegal fishing and overfishing.
+reporting requirements for imported seafood throughout the Restrictions on migrant workers’ ability to form or lead
+entire supply chain. It also empowers seafood consumers trade unions, systemic discrimination against migrant
+by establishing seafood labeling requirements for basic fishers in many distant-water fisheries, and rampant forced
+information such as what fish it is, where and how it was labor in many fisheries combine to significantly reduce
+caught, and if it was wild-caught or farm-raised. the cost of labor and keep otherwise unprofitable fishing
+operations afloat. By expanding the authority of the United
+INTERNATIONAL PRESSURE AND CAPACITY BUILDING
+States government under the High Seas Driftnet Act and the
+TO DRIVE CHANGE BEYOND U.S. WATERS
+Magnuson–Stevens Fishery Conservation and Management
+The High Seas Driftnet Fishing Moratorium Protection Act Act to penalize fishing nations for labor rights abuses and
+(High Seas Driftnet Act) is one of the main tools the United demand labor reforms in their fisheries, IUU fishing and
+States can use to put pressure on other nations to end IUU overfishing will also be substantially curtailed.
+fishing. It requires NOAA to submit a regular report to
+Congress identifying nations engaged in IUU fishing and other BETTER INTERAGENCY COOPERATION
+harmful practices if NOAA has evidence of specific vessels The IUU Interagency Working Group, established by Section
+engaged in IUU fishing. If listed nations do not address the 3551 of the National Defense Authorization Act of 2020, is
+issue, NOAA can issue a negative certification, which can tasked by this legislation to develop a whole-of-government
+have drastic consequences, including denial of access to U.S. approach for federal agencies to work more cohesively and
+ports and restrictions on seafood and other fish product collaborate with state agencies to investigate and prosecute
+imports. Yet NOAA has repeatedly failed to use this powerful IUU fishing and seafood fraud. This interagency cooperation,
+law to accomplish what it was intended to do: leverage along with stronger enforcement tools, will make the U.S.
+its resources and market power to protect fisheries and response to IUU fishing more efficient and effective.
+ecosystems.
+CONCLUSION
+The Illegal Fishing and Forced Labor Prevention Act allows
+IUU fishing is a scourge on its own, contributing to the
+the United States to identify nations for failing to address
+loss of marine biodiversity and the depletion of the world’s
+IUU fishing as a whole, rather than citing only specific IUU
+fisheries. But it is also inexorably tied to forced labor, human
+activity of specific vessels. The bill also allows NOAA to
+trafficking, and human rights abuses of crew members around
+consider data from nongovernmental organizations, the
+the globe. Because these problems are intertwined, the
+public, and other stakeholders when making determinations
+United States must tackle both together. Passing the Illegal
+about which nations should be listed. It also expands the
+Fishing and Forced Labor Prevention Act is a critical step for
+identification criteria to include whether other federal
+U.S. leadership in addressing IUU fishing and human rights
+agencies have found human trafficking, forced labor, or child
+abuses in the seafood sector. With this holistic framework,
+labor in any part of a nation’s seafood supply chain and aligns
+the United States will be poised to drive change for all
+the definition of IUU fishing with that used by the U.N. Food
+communities dependent on the ocean.
+and Agriculture Organization.
+Page 3 THE ILLEGAL FISHING AND FORCED LABOR PREVENTION ACT
+©
+iStock
+ENDNOTES
+1 David J. Agnew et al., “Estimating the Worldwide Extent of Illegal Fishing,” PLoS ONE 4, no. 2 (February 2009): e4570, https://doi.org/10.1371/journal.pone.0004570.
+2 U.S. International Trade Commission, Seafood Obtained via Illegal, Unreported, and Unregulated Fishing: U.S. Imports and Economic Impact on U.S. Commercial Fisheries, March 2021,
+https://www.usitc.gov/publications/332/pub5168.pdf.

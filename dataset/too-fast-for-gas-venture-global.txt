@@ -1,0 +1,124 @@
+# Archivo original: too-fast-for-gas-venture-global.md
+# Tipo: .MD
+# Procesado el: Sat Oct 11 09:39:46 -03 2025
+
+Too Fast For Gas: Problems at Venture Global’s Calcasieu Pass Should Not Be Overlooked
+Venture Global touts holding the global record for the “fastest large-scale
+greenfield LNG facility to ever be built,” but at what cost to performance and
+safety?  
+Flaring
+from the Venture Global Calcasieu Facility is visible for miles in the night
+sky.
+Last month, Venture Global told regulators and customers that issues with
+the Calcasieu Pass LNG facility will delay the start of commercial
+operations.
+They described the issues as “failures in the five horizontal heat recovery
+steam generator (HRSGs) units that facilitate combined-cycle power generation”
+and, more specifically, “leaks in the welds between the upper carbon steel
+header and finned tubes of the HRSG units” that will “require extensive
+repairs and replacements.” 1 These failures affect the on-site power plant—a
+seemingly basic module that provides energy for gas liquefaction. The
+announcement is another troubling sign for Calcasieu Pass, where massive
+methane gas releases and high rates of flaring have already raised concerns
+since pre-commercial operations started last year.  
+One Set of Important Tests Was Carried Out In Under a Day
+In 2020, Venture Global and Baker Hughes, the equipment supplier, certified a
+full set of equipment for Calcasieu Pass LNG with just a short “virtual”
+test.2 According to Baker Hughes, the testing process is typically much more
+exhaustive:  
+“String tests are often time-consuming and can take from just one day up to
+several days or weeks to complete. Typical test days involve the face-to-face
+participation of various customer representatives, inspectors, engineering and
+project management teams—which often results in well over 30 people present on
+the test site to verify the equipment performance.” 3
+But in this case (and for the first time ever), the test was conducted in
+less than eight hours with many, if not all, of the testing experts and
+project executives participating remotely.  
+Due to an unwillingness to absorb COVID-related delays, nobody from either
+company traveled specifically for the test. Instead, they engaged virtually
+while on-site technicians wearing “Smart Helmets” transmitted information back
+live. The maneuver could also have reduced costs for Venture Global, whose CEO
+has long promised to “​​lower costs wherever possible to offer our customers
+the lowest priced LNG.” 4  
+Once testing concluded, Venture Global certified the equipment almost
+immediately. According to Baker Hughes, “we quickly answered the few
+technical questions that Venture Global had” and “they signed the String Test
+Acceptance Certificate the same day, which is rare.” 5 Venture Global’s
+Chief Operating Officer, Brian Cothran, was previously the Vice President of
+Global Sales for Baker Hughes.  
+In a document explaining the virtual string test, Baker Hughes suggests that
+the entire system was certified through the process described above:  
+_“To support Venture Global’s commitment to provide a low capital cost, low
+operating cost, and fast-to-market LNG production, Baker Hughes is supplying
+highly efficient and reliable modularized compression liquefaction trains as
+well as power generation and electrical distribution equipment …  
+A string test is a major project milestone performed on the first full set of
+equipment. Replicating and simulating site operation conditions for the
+complete system, it is the only way to prove that all the major components
+function together as they should. Every component that will be shipped to
+and operated at the final project site is commissioned and validated… 6_
+The string test being described was conducted in Italy before the equipment
+was shipped and installed at the project site in Louisiana. Although we do not
+know if further tests were conducted later, these reports could raise serious
+questions about Venture Global’s fast build-out and Baker Hughes’ “virtual
+string test.”  
+Not the First Sign of Trouble at Calcasieu Pass
+The Louisiana Bucket Brigade, an environmental group, has also observed a
+pattern of high flaring and suspected under-reporting of accidents since the
+facility began operating in January 2022.7 During one stretch of time,
+flaring occurred for 84 out of 90 days.8 Some of the flaring occurred at
+night and during peak neo-tropical bird migration season, even though the
+facility’s environmental impact statement (EIS) had a commitment to “avoid
+flaring at night, during low visibility conditions, and during peak migration
+seasons.” 9  
+Satellite estimates confirm that Calcasieu Pass has been the location of high
+flaring volumes.10 According to Global Gas Flaring Tracker data, the
+location flared about 589 million cubic feet in 2022 (1.85 cubic feet per
+million cubic feet of gas exported), the second highest amount on an absolute
+basis and the highest amount on a per-output basis out of six US LNG
+facilities with data.11 For comparison, the nearby Cameron LNG facility
+flared less than a third as much on a per-output basis.  
+Raising additional concerns, Louisiana Department of Environmental Quality
+(LDEQ) reports show that Calcasieu Pass released approximately 290,000 pounds
+of gas from tanks in permitted and unpermitted releases during its first three
+months of pre-commercial operations.12 The unpermitted release was blamed
+on “a combination of a failure in the management of change process, lack of
+adherence to procedures, and lack of training” in LDEQ’s official
+report.13  
+Neither LDEQ nor Venture Global have provided an explanation for the flaring
+that has been observed at Calcasieu Pass. Flaring is a major, preventable
+source of planet-heating emissions and has been described as an “extraordinary
+waste of economic value.” 14 Moreover, in some cases, high rates of flaring
+at LNG facilities have been attributed to operational problems or
+shutdowns.15  
+Faster Doesn’t Always Equal Better
+Venture Global touts holding the global record for the “fastest large-scale
+greenfield LNG facility to ever be built,” but at what cost to performance and
+safety?16 Venture Global has proven unable to operate just one LNG
+facility without problems, but they are planning to build three more that
+would increase annual export capacity by roughly a factor of seven.  
+Out of these, Plaquemines LNG is the furthest along, and its safety outlook is
+perhaps even bleaker. According to the former deputy director of Louisiana
+State University’s Hurricane Center, major hurricanes could flood the site,
+dislodge gas storage tanks, and release dangerous liquified gas and
+chemicals.17  
+
+References
+
+Reuters Staff. 2023. “Venture Global LNG delays commercial ops at Calcasieu in Louisiana.” Reuters. March 31. https://www.reuters.com/article/usa-venture-global-lng-calcasieu-louisia/venture-global-lng-delays-commercial-ops-at-calcasieu-in-louisiana-idINL1N3631NH
+Baker Hughes. “Case Study: Successful Virtual String Test for Venture Global’s Calcasieu Pass LNG project.” Accessed April 12, 2023. https://www.bakerhughes.com/sites/bakerhughes/files/2021-03/BakerHughes_Case_VentureGlobal_VirturalStringTest-051420.pdf
+Ibid.
+This quote appears on the “About” page of Venture Global’s website and can be found in archived versions of the website dating back to May 24, 2016. https://web.archive.org/web/https://venturegloballng.com/about/
+Baker Hughes. “Case Study: Successful Virtual String Test for Venture Global’s Calcasieu Pass LNG project.” 
+Ibid.
+Louisiana Bucket Brigade. 2023. Gas Export Spotlight: Operational Problems at Cameron LNG and Calcasieu Pass. January 10. https://labucketbrigade.org/wp-content/uploads/2023/01/Gas_Export_Spotlight_CameronCalcasieuPass.pdf
+Louisiana Bucket Brigade. 2022. Gas Export Spotlight: Venture Global Calcasieu Pass Facility Accidents January 18 – May 31, 2022. June 15. https://labucketbrigade.org/wp-content/uploads/2022/06/LABB-Gas-Export-Spotlight-Report.pdf
+Louisiana Bucket Brigade. 2023.
+NOAA, the Payne Institute at the Colorado School of Mines, World Bank/GGFR Oil production – EIA. “Dataset: 2012 – 2022 Flare Volume and Flaring Intensity Estimates by Economy.” Accessed April 11, 2023. https://thedocs.worldbank.org/en/doc/1ccd33e2f13ebc7cfd9647fdebc843f2-0400072023/related/DATA-World-Bank-Gas-Flaring-Data-2012-2022.xlsx
+Ibid.
+Document ID 13206986 (Inspection Date: 3/22/2022; T-206737; Unauthorized Discharge above RQ) and Document ID 13277007 (30 Day follow up Report – Release of Natural Gas), Louisiana Department of Environmental Quality (LDEQ). Accessed April 11, 2023. https://edms.deq.louisiana.gov/app/doc/view?doc=13206986 and https://edms.deq.louisiana.gov/app/doc/view?doc=13277007
+LDEQ Document ID 13206986.
+Schulz, R. and T. Bredariol. Flaring Emissions — Technology Deep Dive. International Energy Agency. Accessed April 12, 2023. https://www.iea.org/reports/flaring-emissions
+Charles, J. and M. Davis. 2021. “Gas flaring within the global LNG supply chain – insights from real-time analytics.” FlareIntel. July 20, 2021. https://flareintel.com/insights/transparency-into-gas-flaring-within-the-global-lng-supply-chain
+Venture Global. 2022. “Press Release: Venture Global LNG And JERA Announce Departure Of Inaugural Commissioning Cargo From Calcasieu Pass.” March 1. https://venturegloballng.com/press/venture-global-lng-and-jera-announce-departure-of-inaugural-commissioning-cargo-from-calcasieu-pass/
+Sneath, Sarah. 2023. “Fossil Fuel Firms Use Permitting Loopholes to Fast-Track LNG Export Projects Near Black Communities.” DeSmog. March 23. https://www.desmog.com/2023/03/24/lng-export-terminals-permitting-loopholes-black-communities-louisiana-florida-venture-global-nopetro/

@@ -1,0 +1,616 @@
+# Archivo original: from-smart-to-senseless-the-global-impact-of-ten-years-of-smartphones.pdf
+# Tipo: .PDF
+# Procesado el: Sat Oct 11 09:40:58 -03 2025
+
+The Global Impact of 10 Years of Smartphones
+February 2017FROM SMART TO SENSELESS: 
+
+Caption
+Section 1: Introduction  01
+Section 2: The Global Impacts of 10 Years of Smartphones   02
+Section 3: Envir onmental Impacts   03
+Section 4: The Costs of a Broken Model   06
+Section 5: A New Model—Cir cular Production   08
+Section 6: Smartphone Manufactur er Progress  09
+Section 7: What is Meaningful Innovation?   10
+Section 8: Conclusion: The Challenge for the Next 10 Years  10
+Appendix A  12
+Appendix B  12
+Citations  13Content s
+ Author: 
+ Elizabeth Jardim
+Editor: 
+ Maria Elena De Matteo
+For more information: 
+ greeninter net@gr eenpeace.org
+Published February 2017
+ by Greenpeace Inc.
+702 H Street, NW 
+Suite 300 
+Washington, D.C. 20001  
+United States
+© 2017 Greenpeace
+greenpeace.orgINTRODUCTION
+Updated March 2, 2017
+
+Liberated from a confined set of buttons and keyboards, the 
+software powering smartphones suddenly gave our phones completely different functionality or could change languages 
+without any change to the hardware. Separate devices for 
+email, music, and photography are now morphed into a single platform. As wireless data has jumped to broadband speeds in many countries we can get work done on the go, 
+find our way around almost anywhere instantaneously, and 
+stay in touch with loved ones 24/7, no matter where they are.
+In 2007, almost no one owned a smartphone. In 2017, they 
+are seemingly everywhere. Globally, among people aged 18-
+35, nearly 2 in every 3 people own a smartphone.
+1  
+In just 10 years, more than 7 billion smartphones have 
+been produced.
+But as smartphones have spread across the world, the 
+rapid churn of devices that is fueling record profits across the technology sector is also causing an ever-widening impact on the planet and the countries where these devices are manufactured. Despite tremendous innovation in the 
+functionality of the phones themselves, product design and 
+supply chain decisions continue to suffer from the same not-so-smart linear manufacturing model and short-term, profit-driven perspective that have plagued the IT sector for years: 
+• Miners in remote landscapes conduct the life-threatening 
+work of extracting precious metals for these devices; often fueling armed conflict in countries like the Democratic 
+Republic of the Congo and leaving the land destroyed;
+• Workers in electronics factories are unknowingly exposed 
+to hazardous chemicals that damage their health;
+• Increasing device complexity means greater amounts of energy is required to produce each phone,
+2 which in turns 
+increases demand for coal and other forms of dirty energy in China and other parts of Asia;
+• Insufficient product take-back and reuse of materials further contributes to a rapidly growing e-waste stream.All this for a gadget that the average consumer in the United States uses for just over two years.
+3
+And sadly, the problems with smartphones do not end when a consumer is ready to repair or upgrade their phone. Major smartphone manufacturers are increasingly making product 
+design decisions that take away an individual’s ability to 
+replace the battery or add more memory. As a result, all the resources, energy, and human effort expended to make each phone are wasted, if the phone is damaged, needs 
+a new battery, or the user outgrows the storage capacity. 
+This greatly reduces the lifespan of the product and drives demand for new products and maximum profit.  
+We are calling for a new business model, in which 
+smartphone manufacturers take into account the impacts 
+their popular devices are having on our planet, and the desire of consumers to slow down the rate of phones they go through in a decade. Manufacturers should measure their innovation not by fewer millimeters and more megapixels, 
+but by designing  devices to last, by making them easily 
+repairable and upgradeable, and using components and materials that can safely be reused again and again to make new phones. 
+In 10 short years, smartphones have changed the world, and 
+have fueled massive profits across the sector. But we cannot afford another 10 years of the same model. Now is the time 
+to change the business model and get it right. Will the next 
+decade be the one in which smartphone manufacturers take up this challenge, in which they are truly forward-thinking and set an example for all industries?
+ IntroductionINTRODUCTION
+Smartphones ha ve undeniably changed our lives and the world in 
+a very short amount of time. Just 10 years ago, we took pictures with cameras, used maps to plan routes, and kept in touch with 
+simple text messages.
+ 
+From Smart to Senseless: The Global Impact of 10 Years of Smartphones  1  
+
+2  From Smart to Senseless: The Global Impact of 10 Years of Smartphones030060090012001500
+2007 2008 2009 2010 2011 2012 20132013 2014 2015 2016Starting with the release of Apple’s first iPhone, smartphone 
+sales have soared, increasing year after year. In 2007, roughly 120 million smartphone units were sold worldwide. 
+That number climbed to over 1.4 billion in 2016.
+4 By 2020, 
+smartphone subscriptions are expected to hit 6.1 billion, or 
+roughly 70% of the global population.5 Among 18 to 35 year 
+olds, smartphone ownership is already 62% globally, and in some countries, such as the United States, Germany, and 
+South Korea, it tops 90%.
+6
+While part of the increasing rate of smartphone sales is 
+caused by first-time buyers, 78% is estimated to be attributed to existing smartphone consumers replacing their phones.
+8 
+In the United States, the average replacement cycle was just over 2 years, at 26 months. Even though most smartphones still function for far longer than this, roughly two thirds of 
+American consumers are lured in to prematurely upgrading 
+for the latest features.
+9 Some phones are even marketed 
+as “free” with a new contract, which makes the effort and expense of repairing the current device seem like a greater 
+obstacle.Indeed, the current business model for both manufacturers and service providers hinges on the frequent replacement of 
+devices. This model does not take into account the long-term impacts of the production and disposal of all these devices—more than 7 billion since 2007.
+10The Global Impacts of  
+Ten Years of SmartphonesTHE GLOBAL IMPACTS OF TEN YEARS OF SMARTPHONES
+Since 2007, more than 7 billion smartphones ha ve been produced.
+ 
+ Annual Figures from Gartner and IDC.7Units Produced (Millions)Total: 7.1 Billion
+
+From Smart to Senseless: The Global Impact of 10 Years of Smartphones  3  
+ The supply chain for smartphones is long and complex. 
+Generally speaking, phones are predominantly made up of a combination of metals including rare earth 
+elements, glass, and plastic.  
+Aluminum, cobalt, and gold are just a few of the more than 60 elements used to 
+make advanced electronics such as smartphones, and they are obtained from mining operations around the world, or in some cases, from recycled materials. Plastic is derived 
+from crude oil, and while some larger electronic devices contain some post-consumer 
+recycled plastic, this is still an emerging practice in smartphones. Integrated circuits, such as memory chips, CPUs, and graphic chips are critical components of smartphones. These are made up of silicon wafers, the making of which requires a great deal of energy 
+and water.
+11Environmental ImpactsENVIRONMENTAL IMPACTS
+Periodic Table of Smartphones: Smartphones contain dozens of 
+material inputs, including rare earth elements and conflict minerals (minerals 
+determined to be financing armed conflict in the Democratic Republic of the Congo or an adjoining country).
+12
+KEY:
+Conflict mineralSelect substances of concern Rare earth element
+Commonly used in advanced electronicsLanthanid e
+Series
+Actinide
+Series6.941 9.0121.008 4.003
+10.811 12.011 14.007 15.999 18.9982 0.180
+22.990 24.305 26.982 28.086 30.974 32.066 35.4533 9.948
+39.098 40.078 44.956 47.867 50.942 51.996 54.938 55.845 58.933 58.693 63.546 65.38 69.723 72.631 74.922 78.972 79.9048 4.798
+85.468 87.62 88.906 91.224 92.906 95.95 98.907 101.07 102.906 106.42 107.868 112.411 114.818 118.711 121.760 127.6 126.904 131.294
+132.905 137.328 178.49 180.948 183.84 186.207 190.23 192.217 195.085 196.967 200.592 204.383 207.2 208.980 [208.982] 209.987 222.018
+138.905 140.116 140.908 144.242 144.913 150.36 151.964 157.25 158.925 162.500 164.930 167.259 168.934 173.055 174.967
+227.028 232.038 231.036 238.029 237.048 244.064 243.061 247.070 247.070 251.080 [254] 257.095 258.1 259.101 [262]223.020 226.025 [261][ 262] [266] [264] [269] [268] [269] [272][ 277] unknow n[ 289] unknow n[ 298] unknown unknow n37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54
+55 56 57-71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86
+87 88 89-1031 04 1051 06 1071 08 1091 10 1111 12 1131 14 1151 16 1171 181
+34
+11 12
+19 20 21 22 23 24 25 26 27 28 29 30 31135
+32146
+33157
+34168
+35179
+3618102
+57 58 59 60 61 62 63 64 65 66 67 68 69 70 71
+89 90 91 92 93 94 95 96 97 98 99 100 101 1021 03H He
+Li Be BC NO FN e
+Na Mg Al Si PS Cl Ar
+KC aS cT iV Cr Mn Fe Co Ni Cu Zn Ga Ge As Se Br Kr
+Rb Sr YZ rN bM oT cR uR hP dAg Cd In Sn Sb Te IX e
+Cs Ba Hf Ta WR eO sI rP tA uH gT lP bB iP oA tR n
+Fr Ra Rf Db Sg Bh Hs Mt Ds Rg Cn Nh Fl Mc Lv Ts Og
+La Ce Pr Nd Pm Sm Eu Gd Tb Dy Ho Er Tm Yb Lu
+Ac Th Pa UN pP uA mC mB kC fE sF mM dNo LrPotassium Calcium Scandium Titaniu mV anadium Chro mium Manganese Iron Cobalt Nickel Copper Zinc Gallium Germanium Arsenic Selenium Bromine Krypto n
+Rubidium Strontium Yttrium Zirconium Niobium Molybdenu mT echnetium Rutheniu mR hodium Palladium Silver Cadmium Indium Tin Antimony Tellurium Iodine Xenon
+Cesium Barium Hafnium Tantalum Tungsten Rhenium Osmium Iridium Platinum Gold Merc ury Thallium Lead Bismuth Polonium Astatine Radon
+Francium Radium Rutherford iumD ubnium Seaborgium Bohrium Hassium Meitnerium Darmstadtium Roentgenium Coper nicium Nihonium Flerovium Moscoviu m Livermorium Tennessine OganessonHydrogen
+Lithium Berylliu m
+Sodium Magnesium AluminumBoron
+SiliconCarbon Nitrogen
+SulfurOxygen
+Chlorin eFluorine
+ArgonNeonHelium
+Phosphorus
+Lanthanum Cerium Praseodymium Neodymium Promethium Samarium Europium Gadolinium Terbium Dyspr osium Holmiu mE rbium Thulium Ytterbium Lutetium
+Actinium Thorium Protactinium Uranium Neptunium Plutonium Americium Curium Berkeliu mC aliforn iumE insteinium Fermium Mendelevium Nobelium Lawr encium
+
+4  From Smart to Senseless: The Global Impact of 10 Years of SmartphonesSmartphone Materials Footprint Since 2007
+ 
+While the amount of each element in a single device 
+may seem small, and some inputs like copper are often 
+secondary inputs, the combined impacts of mining and 
+processing these precious materials for 7 billion devices, and counting, is significant. The search for ever increasing 
+amounts of these virgin materials damages the earth and 
+could potentially lead to the depletion of critical inputs, such as indium, which is estimated to have just 14 years 
+of supply remaining based on current rates of extraction 
+levels.
+14
+Despite these problems, the majority of the materials used to make smartphones are not recycled at the end of the 
+product’s life. In 2014, less than 16% of global e-waste was 
+estimated to be recycled in the formal sector—much of the rest likely went to landfill or incinerators, or was exported
+15  
+where dangerous informal disassembly operations threaten 
+the health of local communities.16  
+Even when e-waste is handled by a formal recycler the 
+intricate design of smartphones presents a particular 
+challenge for safe and efficient recycling. Disassembly is 
+difficult by design, including the use of proprietary screws and glued in batteries; therefore, smartphones are often shredded and sent for smelting. Given the small amounts 
+of a wide diversity of materials and substances in small 
+devices, smelting is inefficient, or incapable, at recovering many of the materials, and plastics are consumed in the 
+process.This table displays bill of material on an elementary level. As a consequence compounds such as PVC and flame retardants are not addressed. The 
+materials listed are a selection of some of the most common materials used in smartphones. Calculations are based on the Oeko-Institut’s figures for a generic phone by mass.
+13 Actual inputs vary across models and over time. PCB is short for printed circuit board.Smartphone Materials 
+Footprint Since 2007
+Material Common Use Content per smartphone (g) Content in all smartphones  
+made since 2007 (t)
+Aluminium Al Case 22.18 157,478 
+Copper Cu Wiring 15.12 107,352 
+Plastics - Case 9.53 67,663 
+Cobalt Co Battery 5.38 38,198 
+Tungsten W Vibration 0.44 3,124 
+Silver Ag Solder, PCB 0.31 2,201 
+Gold Au PCB 0.03 213 
+Neodymium Nd Speaker Magnet 0.05 355 
+Indium In Display 0.01 71 
+Palladium Pd PCB 0.01 71 
+Gallium Ga LED-backlights 0.0004 3 
+Galaxy Note 7 – 4.3 million 
+missed opportunities?
+Samsung’s Galaxy Note 7 recall should serve as a 
+cautionary tale to all smartphone manufacturers–rushed design and production cycles can lead 
+to dangerous and costly mistakes.  In response 
+to over 90 reports of the Note 7 overheating or catching fire,
+17 Samsung issued a global recall. 
+After investigating, the company attributed the battery flaws, in part, to accelerated production 
+efforts to outpace competitors.
+18 Despite the 
+$5.3 billion blunder, the company now has a 
+unique opportunity to save its reputation and 
+lessen its impact on the planet. After removing 
+the faulty batteries, Samsung has 4.3 million opportunities to reuse its devices and support a circular production model. But as of February 
+2017, the company has not been transparent 
+about its plans to handle the recalled devices. 
+
+From Smart to Senseless: The Global Impact of 10 Years of Smartphones  5  
+ Electronics manufacturing is highly energy intensive and its 
+energy footprint is growing significantly, as the volume and complexity of our electronics devices continues to expand. 
+Various lifecycle analyses find the manufacturing of devices 
+is by far the most carbon intensive phase of smartphones, accounting for nearly three quarters of total CO2 emissions.
+20  
+Since 2007, roughly 968 TWh has been used to manufacture smartphones. That is almost as much electricity for one 
+year’s power for India, which used 973 TWh in 2014.
+21 
+Smartphones have become increasingly energy efficient over the years, which has helped to decrease greenhouse gas 
+(GHG) emissions of the use phase significantly. Despite these improvements, the manufacturing phase remains incredibly reliant on fossil fuels.
+The vast majority of smartphone production—both for 
+component manufacturing and assembly—occurs in Asia. China alone accounts for 57% of global telephone exports.
+22 
+In China, the energy mix used to power manufacturing plants comes from an electricity grid dominated by coal, at 67%
+23 
+—a key factor driving the high carbon footprint of electronics devices, which in turn contributes to global warming.While a few smartphone companies have begun to report GHG emissions associated with the manufacturing of their products, including from their suppliers (see table on page 9), Apple is the only major smartphone manufacturer who has 
+committed to extend its commitment to be 100% renewably 
+powered
+24 to its product supply chain.  Since making this 
+commitment, Apple has signed two major contracts for renewable electricity in China, and two of its suppliers have 
+also adopted their own commitment to become 100% 
+renewably powered, and Foxconn has committed to deploy 400 MW of solar near its final assembly plant for Apple's iPhone production in Zhengzhou.
+25Smartphone Energy 
+Footprint since 2007 
+2007 2008 2009 2010 2011 2012 2013 2014 2015 2016050100150200250
+968 TWh since 2007
+Manufacturing 73%Use 19%
+Distribution 6%End of Life 2%
+ 
+Carbon Emissions by Phase from A Circular Economy for Smart Devices, 2015.  To approximate total manufacturing electricity demand associated with the production of smartphones, data in this chart drawn was from reported product level data from Apple’s iPhones (iPhone 3g - iPhone 5s)
+19, with maximum memory configuration for 2007-2013, and lifecycle analysis estimates using a Sony Z5 for 
+2014-2016.  Co2e data as converted to kwh by applying standard global carbon intensity for electricity generation of 528gCo2E/kwh.Manufacturing Energy TWhSMARTPHONE ENERGY FOOTPRINT SINCE 2007
+
+
+6  From Smart to Senseless: The Global Impact of 10 Years of SmartphonesThe Costs of a Broken Model
+The current production and consumption model for most 
+electronics remains inherently unsustainable, relying on 
+ﬁnite materials, extracted and processed using chemically 
+intensive processes and dirty energy to make short-lived 
+products, designed for obsolescence. Economically 
+speaking, it’s also not very smart.
+Consumer mindsets are shifting. While smartphone sales 
+continue to grow each year, existing smartphone users are 
+increasingly less impressed with only incremental innovations 
+from one model to the next. Most users are satisﬁed with a 
+smartphone that is “good enough” to meet their needs to 
+communicate and would prefer a device that lasts longer over 
+having to replace their device every one to two years. Based 
+on a 2016 survey by Greenpeace East Asia of consumer 
+habits around the world, more than half felt smartphone 
+manufacturers were releasing too many new models each 
+year. Additionally, more than 80% of respondents felt it was 
+important for new phones to be easily repaired and designed 
+to last.26In 2014, United Nations University estimated that roughly 42 
+million tons of e-waste was generated despite the materials 
+therein being worth an estimated $52 billion USD. Three 
+million tons were generated from small IT, like smartphones, 
+alone. Globally, e-waste volumes are predicted to rise to 
+50 million metric tons or more every year in 2017.27 This is 
+roughly equivalent the weight of 25 million cars, using an 
+average weight of 2 tons per car. This represents a massive 
+waste of resources and a challenge of safe collection and 
+handling. In Asia, e-waste volumes have been estimated to 
+increase by 63% since 2012, greatly outpacing population 
+growth and the region’s ability to handle this waste safely.28
+Researchers at the University of British Columbia in Canada 
+have found ways to recover copper and some rare earth 
+elements from certain types of e-waste in a way that is cost 
+comparable and equal in quality to mined minerals.29  This is 
+just one of the thousands of projects around the world aimed 
+at recovering valuable materials from electronics.30The Costs  of a Broken Mod el
+Raw m aterial mine
+smel terComponent 
+Manuf acturer(s)
+Assembl y 
+ManufacturerSmartphone Suppl y Chain
+
+From Smart to Senseless: The Global Impact of 10 Years of Smartphones  7  Below: This simplified electronics supply 
+chain shows the linear nature of the current production model.THE COSTS OF A BROKEN MODEL
+Human Costs
+In addition to the tremendous amounts of materials and 
+energy that go into making smartphones, the current business model is driving significant human impacts in the 
+supply chain. For example, it has been reported that in the 
+Congo small-scale cobalt miners dig deep underground without maps or safety equipment and risk asphyxiation or being trapped.
+31 In South Korea, more than 200 factory 
+workers have made allegations that their life-threatening illnesses, including cancer, are a result of exposure to 
+hazardous chemicals from working at semiconductor 
+factories.
+32 Proving occupational illness in even the most 
+developed countries can be an onerous process. This, coupled with the fact that many miners lack access to 
+basic health care services, and many factory workers 
+may not notice signs of illness until they have moved on to another factory, makes it difficult to quantify the direct human cost of electronics manufacturing on workers. Additionally, manufacturing with dirty energy that contributes to climate change has impacts on human health and communities, beyond those people working along the electronics supply chain. 
+Raw material mine
+smelterComponent 
+Manufacturer(s)End of life
+Incinerator, landfill or dangerous disassembly Assembly 
+Manufacturerconsumer
+
+8  From Smart to Senseless: The Global Impact of 10 Years of SmartphonesA New ModeL - Circular Production
+The obvious way to reduce the resource and energy 
+impacts of raw materials extraction and manufacturing of smartphones is to use them as long as possible, to reuse 
+components and parts, and then to reprocess the remaining 
+materials for the manufacture of new products.
+Many factors determine whether or not a gadget, and the 
+materials it is comprised of, gets a longer life, but the most 
+fundamental is the design of the product. Smartphones 
+must be designed to be upgradeable—hardware must be upgradeable while software updates must lengthen, rather than shorten, a device’s life. Design choices to extend product life include 1) material selection, i.e. whether the plastic or metal is non-virgin and is suitable for clean recycling, 2) accessible components, so that devices can 
+be easily repaired and later disassembled, 3) availability 
+of software updates, repair manuals, and spare parts. Fairphone is one example that allows customers to replace and upgrade parts such as the screen or battery, without the 
+need to replace the whole device.
+33A New ModeL - Circular Production
+The Need Action Steps
+Reducing MaterialsCircular ProductionThe current linear production model requires massive amounts of 
+virgin inputs, the sourcing of which damages the environment, depletes finite resources, and endangers workers and communities.Brands can reduce the need for virgin 
+materials by using more recycled material 
+inputs and reusing or refurbishing still-functional components.
+Hazardous substances in devices perpetuate a toxic cycle, creating massive amounts of hazardous waste that endangers recyclers and 
+makes a closed-loop production 
+model very challenging.Brands need to phase out harmful substances in the design phase so that end-of-life handling can be safe and effective in closing the production loop 
+cycles.
+Extending 
+Product LifeThe short life spans of smartphones exacerbate the toll these devices take 
+on the planet’s finite resources. Brands need to design phones that are 
+easy to repair and contain standard parts 
+that can be replaced without the need 
+to replace the whole device. Software updates should extend, or at minimum not end, older products’ lifespans
+Reducing Dirty EnergyRenewable Energy ManufacturingSmartphone manufacturing is  energy-intensive and occurs in countries largely reliant on non-renewable energy like coal.Brands should require suppliers to report GHG emissions and set renewable energy and GHG reduction targets for its supply chain.
+
+From Smart to Senseless: The Global Impact of 10 Years of Smartphones   9  Smartphone manuf acturer progress
+Smar tphone Man ufacturer Progress
+Brand Closed-Loop 
+ProductionExtending Product 
+LifeReducing GHG
+Eliminated 5 Priority 
+Chemicals (1)Use of Recycled 
+Materials (2)Easily Replaceable 
+Battery (3)  Reports Product 
+Supply Chain GHGs (4) 
+Acer•  Not scored 
+Apple •
+(iPhone 7)
+Asus     
+(Zen 3)
+Fairphone• 
+(Fairphone 2)
+Google   
+(Pixel XL) 
+Huawei•
+(P9)
+Lenovo••
+(Moto Z)
+LGE •
+(LG G5)
+Oppo  
+(R9m)
+Samsung  6% 
+(Galaxy S7)
+Sony Mobile •
+(Xperia Z5)
+Vivo  
+(X7/X7 Plus)
+Xiaomi  
+(ReMi Note3)
+(1) Eliminating product chemicals makes recycling more simple and safe. 
+Companies evaluated based on elimination of 5 priority substance groups 
+in smartphones and smartphone accessories: 1) PVC, 2) Brominated ﬂame 
+retardants (BFRs), 3) Ber yllium (Be) and compounds, 4) Antimony (Sb) and 
+compounds, 5) Phthalates.
+(2) Companies evaluated based on use of recycled materials across product 
+lines, and transparency in reporting % of total materials. Use of recycled paper 
+in packaging excluded.(3) Ease of batter y replacement used as proxy for ability to extend product 
+life. T eardowns were completed by iFixit. Credit given to those models which 
+batteries can be replaced with only standard tools.  
+(4) Companies evaluated for public reporting of greenhouse gas emissions 
+associated with the production of their products (Scopes 1, 2 and 3).  
+Reporting could be through company's own website, or published through 
+third party entities such as CDP .
+For more information on scores, please see Appendix B. •
+
+10  From Smart to Senseless: The Global Impact of 10 Years of SmartphonesWhat is meaningful Innov ation?
+Consumers are increasingly concerned about the social 
+and environmental impacts of products they buy. They want reliable, sustainably-made products that last. Ultimately, 
+smartphone manufacturers need to embrace a slow, clean, 
+closed-loop production model, powered by renewable energy.
+CLOSED-LOOP: Recycled Materials
+This approach allows device manufacturers to continue to serve new and existing customers, by ensuring ongoing access to a reliable source of secondary materials, such 
+as precious metals and rare earth elements. The long-term 
+ambition for closed-loop product cycles should be for companies to make products manufactured using recycled materials with zero use of finite virgin materials, in particular 
+materials from mining. Device manufacturers should also 
+look toward modularity—harvesting and reusing particularly energy-intensive components. 
+SLOW REPLACEMENT: Repairable and Upgradeable 
+Slowing the production cycle means making phones that last longer, which allows the resource and energy drain of each device to be spread over time. Extending lifespans is about 
+designing more durable products, capable of being easily and 
+inexpensively repaired or upgraded. It’s also about extending the lifespan of components, by harvesting parts from e-waste to reuse as spare parts or in new phones. 
+CLEANING THE LOOP: Eliminate Hazardous 
+Chemicals
+Cleaning smartphone production means eliminating 
+hazardous chemicals from the product itself and manufacturing process. This protects consumers, worker 
+health and safety, and enables safer recycling without 
+perpetuating the toxic cycle.
+RENEWABLE: 100% Renewable Energy 
+Manufacturing
+Many IT companies are already leading the charge for 
+renewable energy adoption by powering their data centers and offices with renewable energy. It’s time for brands to 
+extend this commitment to the supply chain, ensuring their 
+suppliers work to adopt renewable energy to power their operations.The smartphone is perhaps one of the best examples of human ingenuity of all time. However, the current production 
+model is not one we would be proud to pass on to our 
+grandchildren. With this report, we are challenging all electronics manufacturers to imagine a new way—a business model that in 10 years time will be unrecognizable compared 
+to the current wasteful and harmful system. 
+Imagine if technology was our strongest tool for creating a 
+healthy, vibrant and thriving planet. Imagine if together we could harness technological innovation to help us overcome 
+the Earth’s biggest challenges by sharing ideas and solutions 
+across the world. 
+As IT companies have shown again and again, technology 
+and creativity can be used as powerful forces to disrupt 
+outdated business models. Leading IT companies can 
+become the greatest advocates for a closed-loop production model and a renewably powered future. The brightest designers can create toxic-free gadgets to last, be repaired, and ultimately transformed into something new. 
+It’s time for the industry to adopt meaningful innovation—a 
+slow, clean, closed-loop production model, powered by 
+renewable energy. Who is going to be the first to take up the 
+challenge?
+ What is Meaningful 
+Innov ation?The Challenge for the Next 10 Years
+Cleaning the loop
+Eliminate Hazardous Chemicalsclosed-loop
+Recycled Materials
+Renewable Energy
+100% RE ManufacturingSlow Replacement
+Repairable and Upgradable
+
+
+From Smart to Senseless: The Global Impact of 10 Years of Smartphones  11  
+Cleaning the loop
+Eliminate Hazardous Chemicalsclosed-loop
+Recycled Materials
+Renewable Energy
+100% RE ManufacturingSlow Replacement
+Repairable and Upgradable
+What is meaningful Innov ation?
+From Smart to Senseless: The Global Impact of 10 Years of Smartphones  11  
+
+12  From Smart to Senseless: The Global Impact of 10 Years of SmartphonesAppendix
+Appendi x a
+Smartphone Production  
+Year Units (Millions)
+2007 122
+2008 139
+2009 174
+2010 305
+2011 491
+2012 725
+2013 1020
+2014 1300
+2015 1432
+2016 1470
+Total 7.178 Billion
+Sources: 2007 and 2008 ﬁgures from Gartner’s worldwide smartphone market share 
+reports. Other years from IDC’s Worldwide Quarterly Mobile Phone Tracker.Appendi x B
+Smartphone Manufactur er Progress Scoring  
+This table includes only electronics manufacturers that sell 
+branded smartphones, and evaluates their smartphone 
+product line as well as company-level policies. This is NOT 
+an exhaustive evaluation of each company’s sustainability 
+performance, rather a look at emerging practices across the 
+sector aimed at reducing material use and greenhouse gas 
+emissions. Scoring is based on publicly available information.
+Explanation of partial • scores: 
+Chemical Elimination
+• Acer: Some Acer phone models are free of PVC and 
+BFRs, not accessories 
+• Fairphone: Fairphone avoids PVC, BFRs, and phthalates; 
+no information about beryllium or antimony and their 
+compounds.
+• Huawei: In 2016, Huawei announced plans to restrict 
+these substances. So far only Mate S and Mate 8 phones 
+are free of these substances.
+• Lenovo: Elimination of PVC and BFRs is not complete; the 
+other substance groups are ‘reportable’.
+Recycled Materials
+• Acer: Some Acer products contain PCR plastic ,  however, 
+not reported as a % of total plastics used.
+• Apple: Many Apple products contain PCR plastic; not 
+reported as a % of total plastics used. Apple is prioritizing 
+use of aluminium with high scrap content for some 
+products.
+• Lenovo: Lenovo reports overall use of PCR plastic by 
+weight since 2005; not reported as a % of total plastics 
+used.  Lenovo is closing the plastic loop by sourcing some 
+PCR plastic from end-of-life IT equipment.
+• LGE: LGE reports total use of PCR plastic by weight in 
+2015; not reported as a % of total plastics used.
+• Sony: Many Sony products contain some PCR plastic; not 
+reported as a % of total plastics used. • Fairphone: The majority of Fairphone's casings are made 
+from 50% PCR plastic; not reported as a % of total plastics used. Additionally, Fairphone reports that 50% of all tungsten 
+comes from recycled sources. 
+*An earlier version of this report evaluated Fairphone's use of recycled materials 
+incorrectly. The company does use some recycled inputs. 
+
+From Smart to Senseless: The Global Impact of 10 Years of Smartphones  13  Appendix BCitations
+Citations
+1 Pew Research Center, February, 2016, “Smartphone Ownership and 
+Internet Usage Continues to Climb in Emerging Economies” http://www.
+pewglobal.org/2016/02/22/smartphone-ownership-and-internet-usage-
+continues-to-climb-in-emerging-economies/ 
+2 Oeko-Institut e.V., November 2016, “Resource Efficiency in the ICT Sector” https://www.oeko.de/fileadmin/oekodoc/Resource_Efficiency_ICT_LV.pdf 
+3 Recon Analytics, February 2015, “2014 US Mobile Phone sales fall by 15% and handset replacement cycle lengthens to historic high” http://
+reconanalytics.com/2015/02/2014-us-mobile-phone-sales-fall-by-15-
+and-handset-replacement-cycle-lengthens-to-historic-high/ 
+4 Gartner Newsroom, March 11 2009, “Gartner Says Worldwide Smartphone Sales Reached Its Lowest Growth Rate With 3.7 Per Cent Increase in Fourth Quarter of 2008” http://www.gartner.com/newsroom/id/910112
+5 Ericsson Mobility Report, June 2015,  http://www.ericsson.com/res/docs/2015/ericsson-mobility-report-june-2015.pdf
+6 Pew Research Center, February, 2016, “Smartphone Ownership and Internet Usage Continues to Climb in Emerging Economies” http://www.
+pewglobal.org/2016/02/22/smartphone-ownership-and-internet-usage-
+continues-to-climb-in-emerging-economies/ 
+7 Gartner and IDC. See Appendix A. 
+8 Strategy Analytics, December 2016, “Global Smartphone Sales by 
+Replacement Sales vs. Sales to First Time Buyers by 88 Countries: 2013 
+– 2022” https://www.strategyanalytics.com/strategy-analytics/blogs/smart-phones/2016/12/23/78-of-global-smartphones-will-be-sold-to-
+replacement-buyers-in-2017#.WKcjVJgrKqA
+9 Recon Analytics, February 2015, “2014 US Mobile Phone sales fall by 
+15% and handset replacement cycle lengthens to historic high” http://
+reconanalytics.com/2015/02/2014-us-mobile-phone-sales-fall-by-15-
+and-handset-replacement-cycle-lengthens-to-historic-high/ 
+10 Gartner and IDC. See Appendix A. 
+11 Eric D. Williams, Robert U. Ayers, and Miriam Heller, September 
+2002,“The 1.7 Kilogram Microchip: Energy and Material Use in 
+the Production of Semiconductor Devices” https://www.ece.
+jhu.edu/~andreou/495/Bibliography/Processing/EnergyCosts/
+EnergyAndMaterialsUseInMicrochips_EST.pdf 
+12 Megan P . O’Connor, Julie B. Zimmerman, Paul T. Anastas, and Desiree L. Plata, October 2016, “A Strategy for Material Supply Chain 
+Sustainability: Enabling a Circular Economy in the Electronics Industry 
+through Green Engineering,” published in ACS Sustainable Chem. Eng., 
+2016, 4 (11), pp 5879–5888  http://pubs.acs.org/doi/abs/10.1021/
+acssuschemeng.6b01954 
+13 Oeko-Institut e.V., November 2016, “Resource Efficiency in the ICT Sector” https://www.oeko.de/fileadmin/oekodoc/Resource_Efficiency_ICT_LV.pdf 
+14 Geological Survey of Queensland, September 2014, “Indium opportunities in Queensland” https://www.dnrm.qld.gov.au/__data/assets/pdf_file/0019/238105/indium.pdf 
+15 Baldé, C.P ., Wang, F., Kuehr, R., Huisman, J., United Nations University, 2015, “The Global E-waste Monitor – 2014” https://i.unu.edu/media/unu.edu/news/52624/UNU-1stGlobal-E-Waste-Monitor-2014-small.pdf 
+16 Labunska, I., Abdallah, M A.-E., Eulaers, I., Covaci, A., Tao, F., Wang, M., Santillo, D., Johnston, P . & Harrad, S., Greenpeace Research Laboratories, 
+November 2014, “Human dietary intake of organohalogen contaminants at e-waste recycling sites in Eastern China” http://www.greenpeace.to/
+greenpeace/?p=1835 
+17 US Consumer Product Safety Commission, September 2016, “Samsung Recalls Galaxy Note7 Smartphones Due to Serious Fire and Burn Hazards” 
+https://www.cpsc.gov/Recalls/2016/samsung-recalls-galaxy-note7-
+smartphones
+18 Paul Mozur, New York Times, Jan 22 2017, “Galaxy Note 7 Fires Caused by Battery and Design Flaws, Samsung Says” https://www.nytimes.com/2017/01/22/business/samsung-galaxy-note-7-battery-fires-report.
+html
+19 Apple Environment Page, January 2017, http://www.apple.com/environment 
+20 Smartphone data from: Nokia, Apple, Google, Sony, Samsung, Fairphone. Green Alliance, February 2015, “A Circular Economy for Smart Devices” 
+http://www.green-alliance.org.uk/a_circular_economy_for_smart_devices.
+php 
+21 CIA World Fact Book, “Country Comparison – Electricity Consumption” https://www.cia.gov/library/publications/the-world-factbook/
+rankorder/2233rank.html 
+22 Figure includes China and Hong Kong. ITC Trade Map, “Export List for 
+Product 8517: Telephone sets, incl. telephones for cellular networks or for 
+other wireless networks” http://www.trademap.org/Country_SelProduct_
+TS.aspx
+23 Greenpeace USA, January 2017, “Clicking Clean: Who is Winning the Race to Build A Green Internet?” http://www.greenpeace.org/international/en/
+publications/Campaign-reports/Climate-Reports/clicking-clean-2017/ 
+24 Apple, September 2016, “Apple joins RE100, announces supplier clean energy pledges” http://www.apple.com/newsroom/2016/09/apple-joins-re100-announces-supplier-clean-energy-pledges.html 
+25 Apple, October 2015, “Apple Launches New Clean Energy Programs in China To Promote Low-Carbon Manufacturing and Green Growth” http://
+www.apple.com/pr/library/2015/10/22Apple-Launches-New-Clean-
+Energy-Programs-in-China-To-Promote-Low-Carbon-Manufacturing-and-
+Green-Growth.html 
+26 Greenpeace East Asia, August 2016, What do people think about their 
+mobile phones? http://www.greenpeace.org/international/Global/
+international/briefings/toxics/2016/Fact%20Sheet%20-%20Survey%20
+Summary.pdf 
+27 Baldé, C.P ., Wang, F., Kuehr, R., Huisman, J., United Nations University, 2015, “The Global E-waste Monitor – 2014” https://i.unu.edu/media/unu.edu/news/52624/UNU-1stGlobal-E-Waste-Monitor-2014-small.pdf
+28 Shunichi Honda, Deepali Sinha Khetriwal & Ruediger Kuehr, United Nations University, 2016, “Regional E-waste Monitor: East and Southeast Asia” 
+http://ewastemonitor.info/pdf/Regional-E-Waste-Monitor.pdf 
+29 University of British Columbia, January 2017, “UBC’s urban miners keep 
+LEDs out of landfills” http://news.ubc.ca/2017/01/16/ubcs-urban-miners-
+keep-leds-out-of-landfills/ 
+30 Ed White & Rohit Singh Gole, WIPO & Basel Convention Secretariat, 2013, “Patent Landscape Report on E-Waste Recycling Technologies” http://
+www.wipo.int/edocs/pubdocs/en/patents/948/wipo_pub_948_4.pdf 
+31 Todd C Frankel, The Washington Post, September 30 2016, “The Cobalt Pipeline” https://www.washingtonpost.com/graphics/business/batteries/
+congo-cobalt-mining-for-lithium-ion-battery/ 
+32 Youkyung Less, AP , August 10, 2016,  “2 words keep sick Samsung workers from data: trade secrets” http://bigstory.ap.org/article/0fa26d4e3a5140239553274fddd9b983/2-%20words-keep-sick-samsung-workers-
+data-trade-secrets 
+33 Fairphone, June 16 2015, “The architecture of the Fairphone 2: Designing a competitive device that embodies our values” https://www.fairphone.com/en/2015/06/16/the-architecture-of-the-fairphone-2-designing-a-
+competitive-device-that-embodies-our-values/ 
+
+14  From Smart to Senseless: The Global Impact of 10 Years of Smartphones
+Chapter 
+Greenpeace is an independent global 
+campaigning organisation that acts to change attitudes and behaviour, to protect and conserve the environment and to promote peace.
+Published by Greenpeace Inc. 
+702 H Street, NW
+Suite 300
+Washington, D.C. 20001 
+United States 
+www.greenpeace.org

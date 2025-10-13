@@ -1,0 +1,381 @@
+# Archivo original: amazon-cattle-footprint.pdf
+# Tipo: .PDF
+# Procesado el: Sat Oct 11 09:42:08 -03 2025
+
+AmA zon C Attle 
+footprint
+mAto Grosso: 
+the stAte of DestruC tion
+
+
+2
+AreAs under threA t 
+The Amazon Basin covers an area 
+of approximately 6.5 million square 
+kilometers in nine South American 
+countries, comprising five percent of the Earth’s surface. It harbours the 
+largest river system on the planet, 
+about one-fifth of the total volume of fresh water of the world. Some 60% 
+of the Amazon basin (4.1 million km²) 
+are inside Brazil’s borders.Brazil’s Legal Amazon is an administrative designation and 
+includes the whole Amazon forest 
+in Brazil, plus some areas of savanna in the states of Mato Grosso and 
+Tocantins. So far, 700 thousand km
+2 
+of the original Amazon forest cover of Brazil have been deforested, an 
+area that is equivalent to more than twice that of Poland.The state of Mato Grosso extends 
+over 903,358 km² and comprises the 
+Amazon forest, plus some areas of savanna and the Pantanal. In absolute 
+terms, the state has the highest 
+cumulative deforestation rates, so far, totaling 185,587 km², i.e. two 
+times the area of Hungary. 
+
+3 AtlAs do desm AtAmento no Br Asilintroduction
+Between 2000 and 2007, the Brazilian Amazon was deforested 
+at a rate of 19,368 km² every year. In this time, 154,312 km² of 
+forest have been destroyed, an area larger than Greece.
+Deforestation and land-use change makes up 75% of Brazilian 
+greenhouse gases emissions (GHG). From this total, 59% come 
+from the loss of forest cover and burning in the Amazon region, 
+making Brazil the fourth biggest climate polluter worldwide.
+Brazil has a very important role in saving the planet from the 
+effects of climate change. It must bring deforestation to zero by 2015, with progressive deforestation reduction goals that combine 
+development, sensible use of natural resources and biodiversity 
+conservation.
+Cattle ranching is responsible for the majority of deforestation in the 
+Amazon, which has been expanding continuously since the early 
+1970s. A survey conducted by Greenpeace, based on data from the 
+2006 Agriculture Survey of the Brazilian Statistics Institute (IBGE) 
+indicates that 79.5% of the land used in the Brazilian Legal Amazon 
+(excluding the state of Maranhão) is destined for cattle ranching.
+This study was done by Greenpeace to chart the location of pasture 
+areas in the Amazon region. This is a new method, which analyses images released from the Modis (Moderate-resolution Imaging 
+Spectroradiometer) satellite can identify which deforested areas 
+are currently used for cattle ranching compared to those used as cropland. Initially, we studied the Amazon area in the state of Mato 
+Grosso, which harbours the largest bovine herd in the country and 
+has the largest average deforestation rates since 1988. 
+This report releases a series of maps that show the land use along 
+with data on infrastructure, recent deforestation and regional dynamics. 
+This information is critical for decision making that will ultimately 
+reduce and eliminate deforestation in the Amazon region. To get 
+to that end goal requires thorough understanding of land use so 
+that the Brazilian government can fund alternative practices, and introduce effective governance and control. More important, it is 
+essential that the Brazilian government follows up its environmental 
+rhetoric, which talks about reducing deforestation in the Amazon region, with practical measures to discourage activities like destructive cattle ranching in the area.According to the data from IBGE, in 2006 there were three head of cattle per inhabitant in the region. This massive presence of 
+cattle in the Amazon Region is the result of more than 30 years of government policies that encouraged investments in infrastructure 
+(roads, dams), occupation of the territory (induced migration) and public funding of such activities. 
+In 2003, a study funded by the World Bank showed that there is 
+a direct relationship between deforestation and cattle ranching, 
+and the economic reasoning behind it. Cattle ranching is profitable 
+and expanding because forest land is currently very cheap. The world bank study shows that cattle ranching is a strong driver for 
+occupation, conversion and trade of illegally-used land. Some areas, 
+where there is less intensive logging become targets for deforestation and pasture conversion, once the tree and plant species with higher commercial value have been already been removed. 
+Over the past few years, the expansion of cattle ranching in 
+the Amazon Region has intensified in line with the increasing 
+international exports of Brazilian cattle and beef. From 2002 to 
+2006, the growth of the entire Brazilian bovine herd was practically concentrated in the Amazon (14.5 million of the total 20.5 million 
+head of cattle in Brazil). Brazil has the largest commercial cattle herd 
+in the world and, since 2003, is the world’s largest beef exporter.
+Cattle ranching in the Amazon also uses most of Brazil’s slave 
+labour. In 2008, 3005 rural workers were freed from cattle ranches, where they had been kept in slavery. The Legal Amazon accounted 
+for 99% of these cases. 
+ToTAL HErd And ToTAL dEforESTATIon 
+650
+600
+550
+500
+450
+400
+1988 89   90   91   92    93  94   95   96    97   98   99 2000  01   02   03   04 50
+45
+40
+35
+30
+20
+15deforestation (x 1.000 km2)
+cattle (x 1.000.000)
+cattle 
+deforestation25556065 700
+10 35064,1
+665
+
+4deforest Ation from Prodes
+how is the Am Azon deforest Ation Assessed?
+Since 1988, the INPE (National Institute for Space Research) has 
+released annual estimates of the Legal Amazon deforestation rates. 
+Since 2002, these estimates have been prepared through digital 
+tracking of images, following the PRODES (Amazon Deforestation Estimate Program) methodology, and using the images generated by 
+the Landsat satellite. After reaching the second highest level ever in 
+2004, the annual deforestation rate dropped drastically until 2007, the latest date that data was available. 
+However, preliminary data from another system, the Deter (Real-
+time Detection of Deforestation) indicate that, since August 2007, 
+the rates have again been growing.  However, the Deter system 
+only gives an indication of a trend, it ANALYSES low resolution image TO ALERT ENVIRONMENTAL AGENTS TO ACT, and was 
+not originally designed to measure the deforested area.Annu Al deforest Ation vs. me At And soy Prices
+Deforestation rates in the Amazon tend to increase or decrease in 
+response to the international prices of the main farm commodities 
+produced in the area, especially meat and soy. When the prices 
+of both products drop, the reduction in deforestation observed in the following year is even more prominent, as we can see for the 
+period from 2004 to 2007.
+60
+50
+40
+30
+20
+10
+july/1994 1995 1996  1997  1998 1999  2000 2001  2002 2003  2004  2005  2006 35.000
+30.000
+25.000
+20.000
+15.000
+10.000
+5.000cattle (R$)
+deforestation area (km2)
+cattle 
+soya
+deforestation
+
+5 AtlAs do desm AtAmento no Br Asil
+size of the herd in the legAl Am Azon municiPAlities
+the exPAnsion of c Attle r Anching 
+The number of cattle in the Brazilian Legal Amazon is growing 
+extremely quickly: from 1990 to 2003, the bovine herd more than 
+doubled, going from 26.6 million to 64 million head of cattle. The 
+states of Mato Grosso and Pará, together, account for 60% of the 
+bovine herd in the Amazon. Such growth intensifies destruction 
+of the Amazon forest, which is then gradually replaced by new pasture areas. According to the data from IBGE, between 1996 and 
+2006, the area dedicated to pastures grew by approximately 10 
+million hectares in the Amazon region only, which corresponds to 100 times the area of Paris. ArEA occuPIEd By c ATTLE rAncHInG In THE LEGAL 
+AMAzon (HA) 
+SourcE IBGE, ExCLuDED MARANHAO010.000.00020.000.00030.000.00040.000.00050.000.00055.439.553
+23.424.117
+1996 20061.000.001 - 2.000.000
+cattle per municipality400.001 - 1.000.000200.001 - 400.00050.001 - 200.0000 - 50.000Boundary Amazon Biome
+
+6lAnd use in mAto grosso And roA ds
+New roads allow human occupation and destruction of the 
+Amazon rain forest. A survey conducted by INPE shows that up 
+to 87% of the deforestation in the region was less than 25 km from the first settled areas, where the occupation started around 1978.  There are two types of roads in the region: official and unofficial 
+roads. The first ones link the Northern region to the rest of Brazil 
+and were mainly funded by the federal government in the 1970s. Unofficial roads connect local sites and are not depicted on the 
+official charts prepared by the DNIT (National Infrastructure and 
+Transportation Agency) and by the IBGE. The large number of roads allows meat production to occur even in remote areas, hundreds of 
+kilometres from the cattle farms. 
+Amazon BiomeWater bodiesOﬃcial roadsNon oﬃcial roadsMunicipality capitalsState capitalSlaughterhouses
+
+7 AtlAs do desm AtAmento no Br AsillAnd use And sl Aughterhouses in mAto grosso 
+The map of SIF-registered slaughterhouse and land use shows 
+how cattle slaughter facilities and the distribution of pastures 
+are related. We can see a marked concentration of deforested areas and pastures in the neighbourhood of cold storage facilities. Supported by the roads, the areas of influence of the plants extend 
+for hundreds of kilometres. Even those cold storage units located 
+on the Cerrado biome (savannas) have an influence on large areas of the Amazon forest. whA t does sif meAn?
+Slaughterhouses registered at the SIF (Federal Inspection System) are granted permission to sell their products to other states or to 
+export. They represent just a fraction of the existing facilities, but 
+they usually belong to the group of companies with the biggest production capacity. Of the 71 cold storage facilities registered at 
+the SIF and located in the Amazon region, 45 are in the state of 
+Mato Grosso. In addition, there are local and state facilities, plus an unmeasured number of clandestine cattle slaughter that supplies 
+the local markets.
+Degraded forestPastureAgricultureSugar canePrincipal roadsSlaughterhouses
+
+8
+1
+2cAttle footPrint in the Am Azon
+cAttle r Anching ex PAnsion AreAs in the Am Azon Biome, mAto grosso st Ate
+This analysis of land use identifies the main areas of expansion and consolidation of cattle production in the Amazon forest of the state 
+of Mato Grosso. Four major sites were identified, both in areas where the occupation has already occurred and also at the frontiers of 
+the destruction process. 
+the fAr north ( nortão)
+The area encircled by the municipalities of Juína, Juara, 
+Apiacás and Colniza, in the northwest of Mato Grosso, is one of the most recent sites of deforestation for cattle ranching in the Brazilian Amazon, in the state of Mato Grosso. The lines on the map show destructive logging 
+activities followed by burning and deforestation. This area 
+is linked, by road, to regions where deforestation is already established, such as the state of Rondônia to the West, the BR 163 highway, to the East, and the productive savannah to the South. Over the past three years the occupation of the far North has accelerated, mainly in the area around Colniza, a town that is already linked to another frontier of cattle ranching expansion, the South region of the Amazonas state. In these border regions, the growth of 
+cattle ranching is strongly linked to destructive logging 
+activities.
+“tongue”  of the Biome (lAnd striP)
+This is a significant area of the Amazon forest, extending towards the savannah, and forming a kind of “peninsula” in the southernmost part of the biome. These are old deforestation areas (before 2000), with massive infrastructure including roads and large cattle slaughter  
+and cold storage facilities. Due to the extensive destruction, the area has no remaining dense rainforest, and is characterized by extensive and continuous pastures, with low density of cattle per hectare. It is hard to believe that this area was a rainforest not too long ago.
+the B r-163 – Alt A florest A roA d Axis
+
+9 AtlAs do desm AtAmento no Br Asil
+3
+4The area along the BR-163 road is one of the best 
+known soy farming expansion pathways in the state of Mato Grosso. The areas lying close to the road, opened in 1970, are already completely occupied, having been deforested before the year 2000. However, we can see 
+that cattle ranching is still dominant in the area to the 
+North of Sorriso, and particularly on the axis that crosses the BR road, from Sinop to Alta Floresta, although there are also several sites of commercial farming. This map also shows the recently expanding deforestation for cattle ranching to the North, up to the Pará state border, and to the West, reaching the neighbouring areas. Reasons for the continuing presence of cattle ranching in the region include the distance from the exporting 
+ports, (Paranaguá and Porto Velho) the fact that the road 
+in the state of Pará is not paved, which might drive the exports through the port of Santarém in Pará, and the mobility of the cattle. 
+the sPrings of the xingu river
+The majority of the course of the xingu River in the state of Mato 
+Grosso is protected by the xingu Indigenous National Park, which 
+covers 2,642,003 hectares. 
+However, the sources of the river’s tributaries are mostly located 
+outside the park. In this region, on the northeastern border of the 
+state of Mato Grosso, there is another area of recent deforestation for cattle ranching. These areas are commercially linked to regions outside the Amazon forest, to the southern Mato Grosso and to the traditional cattle ranching regions of the neighbour state of Goiás, in the savannah region. The destruction of the forest around the river sources threatens the watercourses that lead to the xingu River, disrupting the ecological balance. The river’s ecological health is needed to maintain the huge biodiversity in the region and ensure a sustainable environment for the local population. 
+
+10lAnd use And deforest Ation Between 1997 And 2006
+This map shows the areas deforested before and after 1997, to 
+see if they are now occupied by soya or cattle. It is possible to 
+see the recent deforestation for soya in the BR 163 region, as well as the recent expansion of cattle pastures around Colniza. Finally, it shows that springs of the xingu River are occupied by both soya 
+and cattle.
+LAnd uSE In LEGAL AMAzon In 2006LAnd uSE In LEGAL AMAzon And BrAzIL In 2006
+PASTurE  
+AGrIcuLTurE
+010.000.00020.000.00030.000.00040.000.00050.000.00055.439.553
+23.424.117
+1996 2006
+010.000.00020.000.00030.000.00040.000.00050.000.00055.439.553
+23.424.117
+1996 2006Agriculture
+20,5%
+PAsture
+79,5%010.000.00020.000.00030.000.00040.000.00050.000.00055.439.553
+23.424.117
+1996 2006legAl A mAzon
+55.439.553 hAtotAl of PAsture in Br Azil
+172.333.073 hA
+totAl of A griculture in Br Azil
+76.697.324 hAlegAl A mAzon
+14.272.549 hAPasture in deforestated area 97 – 2007
+Pasture in non-documented deforestation areasAgriculture in deforestated area till 1997Agriculture in deforestated area 97 – 2007Pasture in deforestated area till 1997Principal roads
+
+11 AtlAs do desm AtAmento no Br AsilBurning  sites
+originAl veget Ation in 
+the Am Azon forest
+ thre Atened herit Age
+The Amazon basin holds the largest tropical forest in the world 
+and it is the most diverse ecosystem on Earth. It plays a vital role 
+in ensuring the region’s water supplies, regulating  rainfall, and it is 
+crucial to keeping the world’s climate in balance.
+Deciduous seasonal forests
+Mountain grass-woodySavanna vegetation + EcotonesPioneer formationsEcotone evergreen & semi-evergreen forestsLowland evergreen broadleaf rainforestBoundary Amazon Biome
+Semi-desciduous seasonal forests
+
+12lAnd use in the st Ate of mAto grosso: Am Azon + cerr Ado
+The land use distribution in Mato Grosso, which includes 
+some areas of savannah, shows the impact of mechanized 
+monocultures, especially soy crops, in four prominent areas:
+The Lucas do Rio Verde region is the largest producing area in Mato 
+Grosso and it extends beyond the savannah, occupying large areas 
+of the Amazon forest. 
+The northbound expansion is just beginning, due to the high costs 
+of transport to the ports in the South.The Chapada dos Parecis region, between the “tongue” (land strip) and the remaining Amazon biome, has expanded along the Porto 
+Velho – Santarém export axis, which follows the Amazon River. 
+Soy crops (which require intensive use of agrochemicals), as well 
+as cattle, also threaten the xingu River sources, and occupy mainly 
+the neighbouring area on the southeast of the park.
+Agriculture
+Degraded forestUrban areaPastureSugar cane
+
+Agriculture
+Degraded forestUrban areaPastureSugar cane
+
+14lAnd use m AP 
+methodology
+This study used images from the sensor 
+Modis (Moderate Resolution Imaging 
+Spectroradiometer) covering a whole 
+year period, selected every 16 days (a 
+total of 23 images of each area, for the 
+whole year comprised). With this, it 
+was possible to create an overview of 
+vegetation in the whole state of Mato 
+Grosso, during a whole year.
+The identification of the land activity 
+in each image was done through two 
+methods. First, images were separated 
+according to their EVI (Enhanced 
+Vegetation Index), which compares 
+different levels of photosynthetic activity 
+and concentration of vegetation. This 
+method identifies  agricultural activity as well as regenerated forest in areas 
+where deforestation has been previously 
+detected (by PRODES).
+To identify pastures, altered forest 
+landscapes (victim of predatory logging) 
+and secondary forests (capoeira) it was 
+necessary to analyse visually each of the 
+series of images. In the end, for a pre-
+validation of the method, flights were 
+carried out at the eastern side of the 
+xingu Indigenous Park, in Sinop Region 
+around the BR-163, and north of Alta 
+Floresta.
+The Modis images are generated every 
+day, so it is possible to follow changes to the vegetation throughout the year. 
+However, the resolution of the images 
+is very low - only accurate to 250m, or 
+approximately an area of 6,25 ha. The 
+constant presence of clouds in certain 
+areas can make monitoring impossible 
+in some regions.ten reAsons to Avoid the 
+destruction of the Am Azon 
+for c Attle r Anching 
+Deforestation of tropical forests is responsible for up to 20% of the global emissions of • 
+greenhouse gas, more than the world’s entire transport sector.
+From another point of view, around 18% of global emissions of greenhouse gas are • 
+related to meat consumption worldwide.Together, belched methane from livestock, plus methane from manure make up 37 % of • 
+global methane emissions. Methane is 20 times as damaging to the climate as CO
+2.
+A beef calf produces five tones of CO• 2 – equivalent throughout its life cycle.
+The Amazon Forest is a victim of climate change, as much as its destruction is also • 
+creating CO2 emissions. Scientific models predict that the weather in large areas of the 
+region could become drier and the tropical forest will become savannah under climate 
+change forecasts.
+Forests are a crucial carbon stock: forest ecosystems globally store about one-and-• 
+a-half times as much carbon as is present in the atmosphere. They act as a brake on 
+further acceleration of climate change.
+The Amazon stores roughly 120 billions of tons of carbon.• 
+The region is also home to more than 20 million people – including over 200,000 • 
+indigenous people, belonging to 180 different groups. The rainforest provides them 
+with everything – from food and shelter to tools and medicines – and is central to the spiritual life of the indigenous peoples.
+Recent studies indicate that the Amazon supports 40,000 plant species; 427 mammals; • 
+1,294 birds; 378 reptiles; 426 amphibians and 3,000 species of fish.The Amazon controls the populations of organisms that transmit tropical diseases such • 
+as malaria. In the Brazilian Amazon there are 400 to 600 thousand malaria cases every 
+year, but in degraded landscapes the number of infections is 300 times higher.
+
+
+15 AtlAs do desm AtAmento no Br AsilwhA t cAn Be done
+the Br AziliAn government must
+Legislate the provisional act in the Forest Code, which stipulates that • 
+no more than 20% of any private land holding in the Amazon can 
+be cleared.
+Zero Deforestation: Brazilian government has to formalise the • 
+official non-binding targets for reduced deforestation, announced 
+in Bali in 2007.(SHOuLD WE SAY: BRAZIL MuST ADOPT DEFORESTATION REDuCTION TARGETS IN ORDER TO END 
+FOREST DESTRuCTION uNTIL 2015?)
+Redirect investments that stimulate deforestation into the sustainable • 
+use of forest products.Increase investments in people and equipment to fight forest crimes • 
+in the Amazon.
+develoPed countries must
+Create a fund to protect forests in developing nations. (more development 
+needed, Dani to fill in)
+Approve strong commitments for emission reductions worldwide
+comPAnies must
+DO NOT BuY ANY PRODuCT RESuLTING IN TROPICAL 
+DEFORESTATION?
+REDuCE THEIR GREENHOuSER FOOTPRINT BY ADOPTING 
+ENVIRONMENTAL-FRIENDLY WAYS OF PRODuCTION.
+citizens should
+Reduce their greenhouse footprint. Of all the things we can do, adopting a vegetarian diet or at least reducing the quantity of meat consumed, 
+could help protect the Amazon and reduce greenhouse gas emissions.
+Join Greenpeace in the call for an end to Amazon rainforest destruction 
+by 2015, through our direct actions and appeals to the Brazilian 
+government and international community.  OR
+JOIN GREENPEACE CAMPAIGN AND STAND FOR YOuR RIGHT FOR 
+A HEALTHY CLIMATE. TELL THE BRAZILIAN GOVERNMENT TO TAKE THE LEAD FOR A STRONG COMMITMENT AT COPENHAGEN, BY 
+ADOPTING THE ZERO DEFORESTATION POLICY AND SuPPORTING 
+A FuND FOR AMAZON PROTECTION
+Addition Al Actio nreferences
+
+Greenpeace is an independent global 
+campaigning organization that acts to change attitudes and behaviour, to protect and conserve the environment and to promote peace.
+Published by Greenpeace Amazon
+EXPEDIENTE
+Greenpeace Amazon
+Av. Joaquim Nabuco, 2367000000 - Manaus - AM
+Brasil
+Tel: +55 92 4009-8000
+Fax: +55 92 4009-8004
+Email: 
+Printed on 100% recycled post-consumer 
+waste with vegetable based inks.

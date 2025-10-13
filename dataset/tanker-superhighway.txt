@@ -1,0 +1,699 @@
+# Archivo original: tanker-superhighway.pdf
+# Tipo: .PDF
+# Procesado el: Sat Oct 11 09:42:15 -03 2025
+
+Tar Sands Tanker 
+Superhighway 
+Threatens Pacific 
+Coast Waters
+
+TAR SANDS TANKER SUPERHIGHWAY THREATENS PACIFIC COAST WATERS | 2
+||  Summary Results   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  3
+|| Introduction   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  4
+|| Oil Tanker Traffic   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  5
+|| Risks from Tar Sands Shipments   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  9
+|+Oil Spill Risk   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  9
+|+Economic Impacts from Oil Spills   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  10
+|+Ship Noise & Orcas   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  11
+|| Conclusions   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  12
+|| Appendix   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  13
+|| Endnotes   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  13Contents
+AUTHOR
+Timothy Donaghy,  
+Greenpeace USA
+COVER PHOTO
+© Ian Willms / Greenpeace
+PUBLISHED
+June 26, 2018
+Published online at https://www  .greenpeace . org/usa/reports/tanker-superhighway/Greenpeace Inc.
+702 H Street, NW, STE 300, 
+Washington, D.C. 20001
+
+TAR SANDS TANKER SUPERHIGHWAY THREATENS PACIFIC COAST WATERS | 3
+Summary Results
+||The proposed Trans Mountain Expansion Project 
+(TMEP) would increase the number of oil tankers 
+carrying tar sands from Vancouver, Canada through 
+the Salish Sea and down the Pacific Coast of the U  .S .
+||This report presents a map and analysis of 176 oil 
+tanker and barge departures from the Westridge 
+Marine Terminal in British Columbia from 2013 to the 
+beginning of 2018 .
+||Over half (94) of those departures then sailed 
+the length of the Pacific Coast to the port of Long 
+Beach, California, with significant numbers heading 
+to destinations in Washington State (36), the San 
+Francisco Bay Area (23), and various locations in Asia 
+and Hawaii (17) .
+||These results indicate that while the physical 
+pipeline may stop at the water’s edge, a diluted 
+bitumen spill remains a risk for coastal communities 
+all along the Pacific Coast — from British Columbia 
+to Washington to Oregon to California .||Studies have estimated a 10%-29% chance of a “worst 
+case” tanker spill (>100,000 barrels) over the next 50 
+years  .
+||The endangered Southern Resident orca population 
+could be driven toward extinction by the increased 
+ship noise, and risk of oil spills and ship strikes, 
+resulting from TMEP  .
+||Coastal communities that rely on fishing and tourism 
+have suffered billions of dollars in economic damages 
+following previous catastrophic marine oil spills .
+||The $60 billion coastal economy of Washington, 
+Oregon and California currently supports over 150,000 
+jobs in commercial fishing and over 525,000 jobs in 
+coastal tourism .
+||In the British Columbia Lower Mainland, industries 
+that rely on a clean coastline employ more than 
+320,000 people . Studies have found that a major oil 
+spill in Washington would cost $10 .8 billion, and one 
+in Vancouver would cost $1 .2 billion (CAD) .
+Greenpeace and Mosquito Fleet activists block a Kinder Morgan barge from entering the company’s Seattle facility by locking themselves to 
+the pier and displaying banners . Photo by © Emma Cassidy / Greenpeace
+
+TAR SANDS TANKER SUPERHIGHWAY THREATENS PACIFIC COAST WATERS | 4
+Introduction
+The existing Trans Mountain pipeline currently transports ~300,000 barrels of oil per 
+day (bpd) from Alberta, Canada, to the Pacific Coast. A majority of this oil arrives to 
+refineries in Washington State via the Puget Sound Pipeline, but around 9-27% reaches 
+the Westridge Marine Terminal (WMT) in Burnaby, British Columbia, where it is loaded 
+onto oil tankers and barges for transport to refineries and other locations along the 
+Pacific Coast and across the Pacific to Asia.1 
+The proposed Trans Mountain Expansion Project (TMEP) 
+would expand the capacity of this system to 890,000 bpd,2 
+and would increase the number of tankers leaving WMT by 
+a factor of almost seven — from 5 per month to as many 
+as 34 per month, or more than 400 a year  .3 Much of the oil 
+transported by TMEP is expected to be diluted bitumen, 
+or dilbit, extracted from Alberta’s tar sands .
+While any oil spill into water is harmful and extremely 
+difficult to clean up, the unique properties of dilbit 
+could make clean-up even more difficult than a 
+conventional oil spill .4 Furthermore, dilbit is one of 
+the most carbon-intensive fuels on the planet, with 
+total lifecycle greenhouse gas emissions more than 
+30% higher than standard crude oil .5 The tar sands are 
+currently hampered by a lack of pipeline capacity and 
+so the proposed construction of TMEP , Keystone XL and 
+the Line 3 expansion pipelines could facilitate further 
+investment in tar sands extraction and lead to greater 
+global carbon emissions .6 
+Numerous reports have warned of the threat to the 
+waters of the Salish Sea in British Columbia and 
+Washington, and the Pacific Coast from increased 
+marine shipments of tar sands oil .7 8 9 Research has 
+shown that since 2010, the U  .S . Oil refinery in Tacoma, 
+WA has received ~20 shipments of tar sands oil per year 
+(>1 .5 million barrels per year) via articulated tug barge 
+(ATB)10 traveling from WMT  .11 12 Other reports have found 
+that much of the tar sands leaving the WMT is shipped 
+by tanker to refineries in California that have capacity to 
+process heavy crude oil .13 A movement to oppose the construction of TMEP 
+has arisen, led by several First Nations who have 
+emphasized their lack of consent for the project, 
+inadequate consultation by the Canadian government, 
+and violations of Indigenous sovereignty  .14 Recently, 
+Trans Mountain pipeline owner Kinder Morgan reached 
+a deal with the Canadian government to sell the existing 
+pipeline for $4 .5 billion (CAD) and build the TMEP  . This 
+deal allows Kinder Morgan to walk away but potentially 
+leaves Canadian taxpayers on the hook for a troubled 
+and controversial project  .15 
+In this briefing, we present a visualization of 176 tar sands 
+tanker (and some ATB) shipments leaving WMT from 
+2013 to 2018, showing the paths taken by those tankers 
+down the Pacific Coast to refineries in the San Francisco 
+and Long Beach areas .
+The Exxon Valdez oil tanker sits in Prince William Sound, 
+Alaska in March 1989, after running aground on Bligh Reef 
+and spilling 260,000 barrels of crude oil into the Sound .  
+© Henk Merjenburgh/ Greenpeace
+
+TAR SANDS TANKER SUPERHIGHWAY THREATENS PACIFIC COAST WATERS | 5
+Oil Tanker Traffic
+The goal of this report is to illustrate which areas are at risk from increased tanker 
+traffic and which destinations have received oil shipments originating from WMT. 
+Using ship location data from the Automatic Identification System (AIS), we were able 
+to identify 176 departures from WMT from January 2013 to February 2018.16 In Figure 1, 
+we map the tracks taken by those 176 departures from WMT to their next destination.17
+Figure 1: Map of 176 tanker 
+departures from the Westridge 
+Marine Terminal showing the 
+path to the next destination: Long 
+Beach area (blue), San Francisco 
+Bay area (red), Washington State 
+(green), Asia & Hawaii (orange), 
+other (gray) . Also shown are the 
+Trans Mountain and Puget Sound 
+pipelines, the Westridge Marine 
+Terminal, and major refineries 
+along the Pacific Coast  .
+
+TAR SANDS TANKER SUPERHIGHWAY THREATENS PACIFIC COAST WATERS | 6As can be seen, the most popular destination for WMT 
+tankers is the Long Beach area in California, followed 
+by a number of destinations in the San Francisco Bay 
+Area, Washington state, and a handful of voyages across 
+the Pacific to various locations in Asia and Hawaii . 
+The number of tanker tracks in this dataset for each 
+destination is shown in Table 1 .18 
+Table 1: Number of tanker departures from WMT 
+by destination
+LONG BEACH AREA 94 (53%)
+Long Beach 89
+El Segundo 5
+WASHINGTON STATE 36 (20%)
+Cherry Point 23
+Anacortes 8
+Tacoma 5
+SAN FRANCISCO BAY AREA 23 (13%)
+Martinez 8
+San Francisco 8
+Rodeo 2
+Benicia 2
+Selby 2
+Richmond 1
+ASIA & HAWAII 17 (10%)
+Ningbo 5
+Honolulu 2
+Singapore 2
+Malacca 2
+Al Jubail 1
+Mina Al Ahmadi 1
+Zhuhai 1
+Dalian 1
+Onsan 1
+Nakhodka 1
+OTHER 6 (3%)
+TOTAL 176Virtually all of these WMT departures are bound for ports 
+with significant refinery capacity nearby  . At least one 
+of these refineries — the Phillips 66 refinery in Rodeo — 
+recently announced plans to expand its ability to accept 
+and refine tar sands delivered by tanker  .19 Major refiners 
+in these Pacific Coast port locations include:
+Table 2: Pacific Coast refineries with capacities 
+grater than 40,000 barrels per day (bpd).
+LONG BEACH AREA 20 
+Chevron, El Segundo Refinery 269,000 bpd
+Andeavor, Carson Refinery 257,300
+PBF Energy, Torrance Refinery 149,500
+Phillips 66, Wilmington Refinery 139,000
+Andeavor, Wilmington Refinery 104,500
+Valero Energy, Wilmington Refinery 85,000
+Paramount Petroleum, Paramount Refinery 84,500
+WASHINGTON STATE 21 
+BP , Cherry Point Refinery 227,000 bpd
+Shell, Anacortes Refinery 145,000
+Andeavor, Anacortes Refinery 120,000
+Phillips 66, Ferndale Refinery 101,000
+U.S. Oil, Tacoma Refinery 40,700
+SAN FRANCISCO BAY AREA 22 
+Chevron, Richmond Refinery 245,271 bpd
+Andeavor, Golden Eagle Martinez Refinery 166,000
+Shell, Martinez Refinery 156,400
+Valero Energy, Benicia Refinery 145,000
+Phillips 66, Rodeo San Francisco Refinery 78,000
+
+TAR SANDS TANKER SUPERHIGHWAY THREATENS PACIFIC COAST WATERS | 7
+The AIS data also clearly tracks the standard shipping 
+channel that oil tankers (and all other large vessels) take 
+when exiting the Salish Sea out the Strait of Juan de 
+Fuca (Figure 2) . The route heading to the Pacific Ocean 
+shows several twists and turns as the tankers make their 
+way around islands and through a number of narrow 
+passages . Turn Point, entering the Haro Strait near San 
+Juan Island, has been identified as a particular risk for a 
+tanker accident  .23 ATB traffic heading to Tacoma takes a 
+more easterly route through the Rosario Strait  .It is important to note that departures from WMT are 
+only a fraction of the total tanker and ATB traffic through 
+Washington and British Columbia waters . In 2017, there 
+were 534 entering transits by tank ships through the 
+Strait of Juan de Fuca (339 to Washington ports and 
+195 to Canadian ports) and there were over 1,000 ATB 
+transits in Washington waters .24 
+Figure 2: AIS points showing the route taken by tankers leaving WMT in the Salish Sea area .
+
+TAR SANDS TANKER SUPERHIGHWAY THREATENS PACIFIC COAST WATERS | 8Figure 3 shows the number of tanker departures in this 
+dataset by destination for each year since 2013 . This 
+dataset shows a general decline in the number of tanker 
+departures from WMT reaching a minimum in 2016 and 
+rebounding in recent years . However, further research 
+is necessary to determine whether this AIS data has 
+captured all relevant tanker shipments, and to fully 
+quantify tar sands shipments by barge or ATB, before 
+firm conclusions about these trends can be reached .
+Figure 4 illustrates the impact of an approximately 
+seven-fold increase in tanker departures from WMT  . The 
+figure compares historical data from 2013 (52 departures) 
+against simulated tanker tracks generated by randomly 
+sampling from the historical AIS data points, and scaling 
+the number of tracks per destination to match the 
+estimated 34 departures per month .25Long Be ach
+SF Bay
+Washingt on
+Asia/Hawaii
+Other
+201301020304050
+2014 2015 2016 2017 2018Jan - Fe b
+Figure 3: Tanker departures from the Westridge Marine Terminal by year 
+from 2013 to 2018 (Jan-Feb only) .
+Figure 4: Comparison of the tracks of all 2013 departures from WMT (left) against simulated tracks reflecting a seven-fold increase in tankers 
+departing WMT (right) .
+
+TAR SANDS TANKER SUPERHIGHWAY THREATENS PACIFIC COAST WATERS | 9
+Risks from Tar Sands Shipments
+A seven-fold increase in tar sands shipments leaving WMT translates into a significant 
+increase in oil tanker traffic in B.C.’s Burrard Inlet, through the Salish Sea and down the 
+U.S. Pacific Coast. Although the pipeline stops at the water’s edge in Burnaby, the risk 
+from oil spills and other impacts does not.
+Oil Spill Risk
+Although stronger regulations appear to have reduced 
+the rates of spills from oil tankers in the decades 
+since the Exxon Valdez disaster,26 catastrophic tanker 
+accidents do still occur (e .g . the 2018 Sanchi tanker spill 
+in the South China Sea)27 and the Pacific Northwest has 
+seen its share of devastating marine oil spills .28
+Kinder Morgan’s own risk report estimated a “credible 
+worst case” oil spill of 16,500 m3 (>100,000 barrels, 
+or bbl) and an average spill case of 8,250 m3 (>50,000 
+bbl) . This worst case volume was chosen to be larger 
+than 90% of historical oil spills, but is smaller than the 
+total volume of oil carried by tankers calling at WMT 
+and is less than half the 260,000 bbl spilled by the 
+Exxon Valdez in 1989 . One analysis of these projections 
+found a 10% chance of a “worst case” spill and a 42% 
+chance of an “average case” spill in the next 50 years .29 
+The areas along the route with the highest likelihood 
+of a spill included Vancouver Harbor and Juan de Fuca Strait, while Turn Point in the Haro Strait was found to 
+be the location with the “greatest level of navigational 
+complexity for the entire passage . ”30 Stochastic 
+modeling of a worst case spill at Turn Point found a high 
+probability of oil reaching most of the Salish Sea and 
+extending out into the Pacific .31 
+Independent risk analysis32 and oil spill modeling33 
+commissioned by the Tsleil-Waututh nation found 
+that in 50 years there was a 79-87% chance of an oil 
+spill at WMT or in Burrard Inlet  . Over the 50-year time 
+period, the study found a 37% likelihood of a large spill 
+(>10,000 barrels) and a 29% chance of a “worst case” 
+spill somewhere along the marine shipping route .34 A 
+“worst case” oil spill within Burrard Inlet would foul 
+up to 25 kilometers of shoreline within 48 hours and 
+potentially impact the health of up to a million people .35 
+Of particular concern from a spill would be exposure to 
+known carcinogens present in dilbit, including benzene 
+and 1,3-butadiene .36
+The Westridge Marine Terminal, the terminus of the Trans Mountain pipeline, on the south shore of the Burrard Inlet, in Vancouver, British 
+Columbia . Photo by © Ian Willms / Greenpeace
+
+TAR SANDS TANKER SUPERHIGHWAY THREATENS PACIFIC COAST WATERS | 10Economic Impacts from Oil Spills
+The experience of communities impacted by the two 
+largest U  .S . offshore oil spills in recent years — the 1989 
+Exxon Valdez and the 2010 Deepwater Horizon disasters 
+— show the high stakes for local coastal economies .
+On March 23, 1989, the Exxon Valdez ran aground and 
+spilled ~260,000 barrels of oil into Prince William Sound in 
+Alaska . Fisheries were closed immediately following the 
+spill, which caused an estimated $300 million in economic 
+damages to ~32,000 people whose livelihoods depended 
+on commercial fishing .37 Salmon populations are now 
+considered to have recovered, but the $8 million per 
+year herring fishery collapsed in 1993 and has still yet to 
+recover decades later  .38 There is debate about the causes 
+of the collapse, but some local fishermen and scientists 
+suspect the spill played a role . One study estimates the 
+loss of the herring fishery has cost the region $1 billion .39 
+Although clean-up operations offered temporary 
+support for the local economy, declines in tourism40 and 
+recreational fishing cost the state and local economy 
+millions of dollars in the years following the spill .41 
+Exxon ended up paying $3 .8 billion in clean-up costs 
+and damages, but waged a lengthy court battle to avoid 
+paying additional punitive damages to local Alaskans 
+harmed by the spill .42 Monetary figures cannot fully 
+encompass the “ecological, social, cultural, economic 
+and psychological impacts on the residents of fishing 
+communities and Native villages in Prince William 
+Sound, ”43 and furthermore, there are still pockets of oil 
+to be found in the region nearly 30 years later  .44
+In 2010, the Deepwater Horizon disaster spilled 4 .9 
+million barrels of oil into the Gulf of Mexico closing 
+many commercial fisheries and harming the Gulf Coast 
+economy  .45 One study estimated closures affected 
+more than 20% of the Gulf’s commercial catch and led 
+to potential annual economic losses of $247 million .46 
+Another study estimated the long-term losses from closed 
+or degraded fisheries to be $8 .7 billion through 2020 .47 
+Tourism losses (including “brand damage” due to the oil 
+spill) through 2013 were estimated to be $22 .7 billion .48
+It is clear that the Pacific Northwest region and the 
+U .S . Pacific Coast as a whole would have much to lose 
+from a catastrophic oil spill in their waters . A study by 
+Earth Economics found that ecosystem services within 
+the Puget Sound Basin provided $7 .4 to $61 .7 billion in 
+benefits every year — benefits that are being lost as the 
+ecosystem is degraded .49According to data from NOAA, commercial fisheries 
+accounted for total sales of $21 .3 billion (California), 
+$1 .7 billion (Washington), and $1 .1 billion (Oregon) in 
+2015 . Additionally, the seafood industry supported jobs 
+totaling 114,000 (California), 23,000 (Washington), and 
+14,000 (Oregon) .50 In the region, Westport, WA, Astoria, 
+OR, and Newport, OR, were ranked among the top 
+ports nationally in terms of volume of seafood landed51 
+Tourism and recreation are also significant sources of 
+employment and GDP along the Pacific Coast  . Data 
+from NOAA finds coastal tourism (including recreational 
+fishing) contributed 420,000 (CA), 25,000 (OR), and 78,000 
+(WA) jobs, while generating $22 .3 billion (CA), $1 billion 
+(OR), and $4 .1 billion (WA) in GDP , respectively  .52
+Figure 5: Estimates of the GDP produced by the coastal economies 
+of California, Oregon, and Washington (colored circles, data: 
+NOAA ENOW) . Estimates for the number of jobs in coastal tourism 
+(Data: NOAA ENOW) and commercial fishing (Data: NOAA Fisheries 
+Economics Report) for the three U  .S . states, and British Columbia 
+jobs at risk from an oil spill (Data: CRED) . [* California fishing jobs 
+include a significant number in the import sector  .]
+
+TAR SANDS TANKER SUPERHIGHWAY THREATENS PACIFIC COAST WATERS | 11NOAA estimates the total ocean economy of the three 
+U .S . states combined generates around $60 billion 
+in GDP per year  . The whale watching industry in 
+Washington State alone is estimated to generate $65-
+$70 million per year and support around 40 whale 
+watching companies .53 In Vancouver, British Columbia, 
+“ocean-dependent activities” are estimated to contribute 
+“32,520-36,680 [person-years] of employment and 
+$3,061-$3,261 million [CAD] in GDP” every year  .54
+Oil spills would threaten that economic base . The 
+Washington State Department of Ecology estimates that 
+a significant spill would “cost the state an average of 
+$10 .8 billion (based on 2006 estimates) and adversely 
+affect 165,000 jobs . ”55 A ~100,000 bbl spill at the First 
+Narrows in Vancouver would lead to economic losses 
+in the range of $215-$1,230 million CAD and threaten 
+1,900-12,000 person-years of employment  .56 Another 
+study found that industries that rely on the natural 
+environment to support their brand and business 
+“employ more than 320,000 people in the Lower 
+Mainland” of British Columbia .57 Smaller-scale studies of 
+the impact of oil spills on local economies were carried 
+out for Gray’s Harbor, WA,58 and the Quinault Indian 
+Nation .59 These studies found that a range of oil spill 
+scenarios could lead to hundreds of direct job losses, 
+hundreds of millions of dollars in declining business 
+revenues, and impacts on subsistence and treaty-
+protected resources .Ship Noise & Orcas
+The Southern Resident orca population is listed as 
+endangered under the Endangered Species Act (ESA) 
+in the U  .S .60 and under the Species at Risk Act in 
+Canada .61 More than 2,500 square miles of the Salish 
+Sea, Puget Sound, and the Strait of Juan de Fuca have 
+been designated as orca Critical Habitat under the 
+ESA .62 The Southern Resident population currently 
+numbers 75 individuals, which represents a 20% 
+decline over the past two decades .63 Significant threats 
+to the continued viability of this population include the 
+availability of their preferred prey (Chinook salmon), 
+ship traffic and noise (which can interfere with foraging 
+for prey and communication), water contamination 
+(pollutants from fish they eat accumulate in their 
+blubber), and ship strikes .64
+Southern Residents reduce their feeding activity by 25% 
+when boats are present, and increased shipping traffic due 
+to TMEP could lead to the “near continuous” presence of 
+tankers in the area . A recent study found that the increase 
+in these threats due to the construction of TMEP would 
+have serious consequences for the orca population, with 
+>50% chance that the orca population would fall below 
+30 individuals65 — a level that would put the population 
+on the road to extinction . Washington Governor Jay 
+Inslee has spoken out against TMEP ,66 highlighting 
+the devastating impact it could have on the Southern 
+Residents, and has formed a task force to assemble a plan 
+to recover the orcas and Chinook salmon .
+A member of the endangered Southern Resident orca population surfaces in Haro Strait as a bulk carrier heads north nearby  .  
+Photo by © Monika Wieland Shields / Greenpeace
+
+TAR SANDS TANKER SUPERHIGHWAY THREATENS PACIFIC COAST WATERS | 12
+Conclusions
+If the Trans Mountain Expansion Project is built, the 
+seven-fold increase in tanker traffic and the associated 
+risks laid out in this report show clearly that the risks 
+of this pipeline project don’t end at the water’s edge . 
+The costs and risks of the Trans Mountain Expansion 
+Project will be borne by First Nations, Indigenous, 
+and other communities along the pipeline and tanker 
+superhighway routes, as well as by the wildlife and 
+ecosystems that will be impacted .Any among the communities along the U  .S . Pacific 
+Coast could be threatened by this increase in oil tanker 
+traffic . It is critical that — for the sake of the health and 
+safety of our communities, local economies, ocean 
+life, and our climate — the Trans Mountain Expansion 
+Project be halted .
+An oil tanker sits anchored in the Burrard Inlet, in Vancouver  . Photo by © Ian Willms / Greenpeace
+
+TAR SANDS TANKER SUPERHIGHWAY THREATENS PACIFIC COAST WATERS | 13
+Appendix
+View Appendix A: Research Methods at https://www  .greenpeace . org/usa/wp-content/uploads/2018/06/ef657d34-appendix-a .pdf  .
+Endnotes
+1 Kinder Morgan . Product Destination . https://www  .transmountain .
+com/product-destination;  City of Vancouver  . What We Have Learned .  
+https://vancouver  .ca/green-vancouver/what-we-have-learned .aspx
+2 Kinder Morgan . Project Overview  . https://www  .transmountain . com/
+project-overview
+3 Kinder Morgan . Marine Plans . https://www  .transmountain . com/
+marine-plans;  Kinder Morgan . 2016 . Marine Safety: Enhancements 
+Already Underway in Local Waters . April 28 . https://www  .
+transmountain . com/news/2016/marine-safety-enhancements-already-
+underway-in-local-waters  
+4 National Academies of Science, Engineering & Medicine . 2016 . 
+Spills of Diluted Bitumen from Pipelines: A Comparative Study 
+of Environmental Fate, Effects, and Response . https://www  .
+nap  .edu/catalog/21834/spills-of-diluted-bitumen-from-pipelines-a-
+comparative-study-of
+5 Carnegie Endowment  . Oil-Climate Index  . Viewing Total 
+Emissions . http://oci . carnegieendowment  .org/#total-emissions  For 
+example, comparing Canada Cold Lake CSS Dilbit against Saudi 
+Arabia Ghawar oil .
+6 Scott, A . & G . Muttitt  . 2017 . Climate on the Line: Why new tar 
+sands pipelines are incompatible with the Paris goals . Oil 
+Change International . January  . http://priceofoil . org/2017/01/19/
+climate-on-the-line-why-new-tar-%20sands-pipelines-are-
+incompatible-with-the-paris-goals/  
+7 Tsleil-Waututh Nation . Treaty, Land & Resources Department  . 
+2015 . Assessment of the Trans Mountain Pipeline and Tanker 
+Expansion Proposal . https://twnsacredtrust  .ca/kinder-morgan-
+assessment-report/
+8 Swift, A ., D . Droitsch, & J  . Axelrod . 2015 . West Coast Tar Sands 
+Invasion . Natural Resources Defence Council, NextGen Climate 
+& Forest Ethics . April . https://www  .nrdc . org/sites/default/files/west-
+coast-tar-sands-threat-report  .pdf
+9 Riordan, M . 2017 . The Tar-Sands Threat to Northwest Waters . 
+Sightline Institute, May 22 . http://www  .sightline . org/2017/05/22/the-
+tar-sands-threat-to-northwest-waters/10 An ATB is a tug that is coupled to a barge via a notch at the stern 
+that allows the tug to push and maneuver the barge rather than 
+towing it with a cable . ATBs typically carry less oil than a tanker  . 
+See Felleman 2016 .
+11 Felleman, F  . 2016 . Tar Sands/Dilbit Crude Oil Movements Within 
+the Salish Sea . Friends of the Earth . https://foe . org/resources/tar-
+sandsdilbit-crude-oil-movements-within-the-salish-sea/
+12 De Place, E . 2017 . Is Canadian Tar Sands Pipeline Pointing 
+to Tacoma? Sightline Institute, April 10 . http://www  .sightline .
+org/2017/04/10/is-canadian-tar-sands-pipeline-pointing-to-tacoma/
+13 Axelrod, J  . 2016 . The Tar Sands Tanker Threat: American 
+Waterways in Industry’s Sights . Natural Resources Defence 
+Council . November  . https://assets .nrdc . org/sites/default/files/tar-
+sands-tanker-threat-ip  .pdf
+14 See for example: Secwepemcul’ecw Assembly  . 2018 . Trans 
+Mountain Expansion Project and Investors Continue to Face 
+Untenable Risk for Failing to Recognize Indigenous Jurisdiction . 
+April 13 . https://www  .secwepemculecw  .org/risk-assessment;   
+Tsleil-Waututh Nation, Sacred Trust Initiative . https://
+twnsacredtrust  .ca/about-us/;  Treaty Alliance Against Tar Sands 
+Expansion . http://www  .treatyalliance . org/
+15 Williams-Derry, C . 2018 . Pipe Dreams: Canadian Government 
+Bails Out Houston Billionaire . Sightline Institute, May 30 .  
+http://www  .sightline . org/2018/05/30/pipe-dreams-canadian-
+government-bails-out-houston-billionaire/
+16 Historical AIS data purchased from Marine Traffic  
+https://www  .marinetraffic . com/en/ais-api-services/detail/ps01/vessel-
+historical-track  . See Appendix A for more detail on data analysis .
+17 Vessel tracks cannot be perfectly represented with only a 
+sample of AIS locations . The tracks in this report use ~20 points 
+each and, as such, cannot perfectly capture every turn of the 
+route . Some tracks seem to cross land due to a lack of data 
+coverage for the entire route .
+
+TAR SANDS TANKER SUPERHIGHWAY THREATENS PACIFIC COAST WATERS | 1418 We categorize each vessel departure by its next primary port 
+destination, as determined by Marine Traffic’s “next port” or 
+“next call” fields, the AIS destination field, or analysis of the 
+vessel track itself  . This data is not sufficient to determine which 
+refinery in the destination region (if any) was the recipient of the 
+transported oil .
+19 Communities for a Better Environment  . 2018 . Phillips 66 Co  .’s 
+San Francisco Refinery Tar Sands Oil Expansion in Rodeo, CA . 
+April . http://www  .cbecal . org/wp-content/uploads/2018/05/San-
+Francisco-Refinery-Tar-Sands-Expansion-Fact-Sheet  .pdf
+20 California Energy Commission . California’s Oil Refineries .  
+http://www  .energy  .ca .gov/almanac/petroleum_data/refineries .html
+21 U .S . Energy Information Agency (EIA) . 2017 . Capacity of 
+Operable Petroleum Refineries by State as of January 1, 2017 . 
+https://www  .eia .gov/petroleum/refinerycapacity/table3 .pdf
+22 California Energy Commission .
+23 Hunter, J  . 2017 . On the trail of an oil tanker  . The Globe and Mail, 
+November 12 . https://www  .theglobeandmail . com/news/british-
+columbia/a-tankers-journey-through-bc-waters-carrying-oil-from-the-
+kinder-morganpipeline/article35070386/
+24 State of Washington . Department of Ecology  . 2018 . VEAT 2017: 
+Vessel Entries and Transits for Washington Waters . March . 
+Publication 18-08-001 . Tables 1 & 2 . https://fortress . wa .gov/ecy/
+publications/documents/1808001 .pdf
+25 See Appendix A for more information on how these simulated 
+tracks were generated .
+26 International Tanker Owners Pollution Federation (ITOPF) . Oil 
+Tanker Spill Statistics 2017 . http://www  .itopf  .com/knowledge-
+resources/data-statistics/statistics/
+27 Arranz, A ., M . Duhalde, M . Hernandez, P  . Robles, D . Wong & 
+D . Long . 2018 . An invisible threat: How the Sanchi oil tanker 
+environmental disaster unfolded . South China Morning Post, 
+January 18 . http://multimedia .scmp  .com/news/china/article/sanchi/
+index  .html
+28 De Place, E . 2015 . Fifty Years of Oil Spills in Washington’s Waters: 
+What can the past tell us about the future? Sightline Institute, 
+January 12 . http://www  .sightline . org/2015/01/12/fifty-years-of-oil-
+spills-in-washingtons-waters/
+29 Foschi 2014, as cited in Lacy et al . 2016 . Report on Population 
+Viability Analysis model investigations of threats to the Southern 
+Resident Killer Whale population from Trans Mountain Expansion 
+Project  . Rainforest Conservation Foundation . https://docs .
+wixstatic . com/ugd/760f65_2615f7b6a18f40888ebb446ccbfb192d .pdf
+30 Det Norske Veritas . 2013 . Termpol 3 .15 – General Risk Analysis 
+and Intended Methods of Reducing Risks . Trans Mountain 
+Expansion Project  . Prepared for Trans Mountain .  
+http://transmountain .s3 .amazonaws . com/application/V8C_TR_8C_12_
+To_S08_TERMPOL_RPTS .pdf
+31 Lacy et al . 2016 . Figures 6 and 7 .
+32 Gunton & Broadbent  . 2015 . An Assessment of Spill Risk for the 
+Trans Mountain Expansion Project  . May  . https://twnsacredtrust  .
+ca/wp-content/uploads/2015/05/TWN-Assessment-Appendix-1 .pdf  
+Included as Appendix 1 of Tsleil-Waututh Nation . 2015 .33 Genwest Systems Inc . Oil Spill Trajectory Modeling Report 
+in Burrard Inlet for the Trans Mountain Expansion Project  . 
+https://twnsacredtrust  .ca/wp-content/uploads/2015/05/TWN-
+Assessment-Appendix-2 .pdf  Included as Appendix 2 of Tsleil-
+Waututh Nation . 2015 .
+34 Tsleil-Waututh Nation . 2015 .
+35 Tsleil-Waututh Nation . What would the impact of an oil spill in 
+Burrard Inlet be? https://twnsacredtrust  .ca/concerns/oil-spill-burrard-
+inlet/
+36 Public Health Association of British Columbia . 2017 . Letter 
+to The Honourable Mary Polak, Minister of Environment, Re: 
+The Approval of the Expansion of the Kinder Morgan Trans 
+Mountain Pipeline . January 30 . https://phabc . org/wp-content/
+uploads/2017/02/Kinder_Morgan-Letter-on-behalf-of-PHABC-
+Jan_30-2017 . docx  .pdf
+37 Murray, S . & J  . Short  . 2014 . 25 Years Later: Why Alaska Can’t 
+Afford Another Exxon Valdez . Huffington Post, March 23 . 
+https://www  .huffingtonpost  .com/susan-murray/25-years-later-why-
+alaska_b_5020949 .html
+38 Exxon Valdez Oil Spill Trustee Council . Commercial Fishing . 
+http://www  .evostc .state .ak  .us/index  .cfm?FA=status .human_fishing
+39 Rosen, J  . 2017 . Boom and Busted: Lessons from Alaska’s 
+Mysterious Herring Collapse . News Deeply, October 13 .  
+https://www  .newsdeeply  .com/oceans/articles/2017/10/13/boom-and-
+busted-lessons-from-alaskas-mysterious-herring-collapse
+40 Exxon Valdez Oil Spill Trustee Council . Recreation & Tourism . 
+http://www  .evostc .state .ak  .us/index  .cfm?FA=status .human_recreation
+41 Exxon Valdez Oil Spill Trustee Council . Economic Impacts of the 
+Spill . http://www  .evostc .state .ak  .us/index  .cfm?FA=facts . econ
+42 Struck, D . 2009 . Twenty Years Later, Impacts of the Exxon Valdez 
+Linger  . Yale Environment 360, March 24 . https://e360 . yale . edu/
+features/twenty_years_later_impacts__of_the_exxon_valdez_linger
+43 Picou & Martin . 2007 . Long-Term Community Impacts of 
+the Exxon Valdez Oil Spill: Patterns of Social Disruption and 
+Psychological Stress Seventeen Years after the Disaster  .  
+http://www  .arlis . org/docs/vol1/B/243478793 .pdf
+44 Exxon Valdez Oil Spill Trustee Council . Lingering Oil .  
+http://www  .evostc .state .ak  .us/index  .cfm?FA=status .lingering
+45 Adams, A . 2015 . Summary of Information concerning the 
+Ecological and Economic Impacts of the BP Deepwater Horizon 
+Oil Spill Disaster  . Natural Resources Defence Council, June . https://
+www  .nrdc . org/sites/default/files/gulfspill-impacts-summary-IP  .pdf
+46 McCrea-Strub et al . 2011 . Potential impact of the Deepwater 
+Horizon oil spill on commercial fisheries in the Gulf of Mexico  . 
+Fisheries, 36:7, 332-336, DOI: 10 .1080/03632415 .2011 .589334 . 
+https://www  .tandfonline . com/doi/abs/10 .1080/03632415 .2011 .589334
+47 Sumaila, et al . 2012 . Impact of the Deepwater Horizon well 
+blowout on the economics of U  .S . Gulf fisheries . Canadian 
+Journal of Fisheries and Aquatic Sciences, 69:3, 499–510 .  
+http://www  .nrcresearchpress . com/doi/10 .1139/f2011-171# .
+W0JV6dJKiUl
+
+TAR SANDS TANKER SUPERHIGHWAY THREATENS PACIFIC COAST WATERS | 1548 Oxford Economics . Potential Impact of the Gulf Oil Spill on 
+Tourism . A report prepared for the U  .S . Travel Association .  
+https://www  .oxfordeconomics . com/publication/open/222563  
+49 Batker et al . A New View of the Puget Sound Economy: The 
+Economic Value of Nature’s Services in the Puget Sound Basin . 
+Earth Economics . https://www  .floods . org/ace-files/documentlibrary/
+committees/A_New_View_of_the_Puget_Sound_Economy  .pdf
+50 NOAA Fisheries . 2017 . Fisheries Economics of the United States, 
+2015 . pp-40-41 . https://www  .fisheries .noaa .gov/feature-story/
+fisheries-economics-united-states-2015  Jobs and sales numbers 
+include imports, which represent a significant fraction of the 
+totals for California .
+51 National Marine Fisheries Service . 2018 . Fisheries of the United 
+States, 2016 . https://www  .fisheries .noaa .gov/resource/document/
+fisheries-united-states-2016-report
+52 NOAA . Economics: National Ocean Watch . ENOW Explorer  . 
+https://coast  .noaa .gov/enowexplorer/#/
+53 Southern Resident Killer Whale Chinook Salmon Initiative . 
+Economic Value: Endangered Southern Resident Killer Whales 
+Add Minimum of $65-$70 Million to Washington State’s 
+Economy—They Would Be Missed . https://srkwcsi . org/the-
+economic-value-of-southern-resident-killer-whales/
+54 Bjarnason, H ., N . Hotte & U  .R . Sumaila . 2015 . Potential 
+economic impact of a tanker spill on ocean-dependent activities 
+in Vancouver, British Columbia . Fisheries Economics Research 
+Unit, UBC Fisheries Centre, May 20 . https://vancouver  .ca/images/
+web/pipeline/Bjarnason-et-al-oil-spill-economic-impact-report  .pdf
+55 Department of Ecology  . State of Washington . Oil spill prevention 
+in Washington . https://ecology  .wa .gov/Spills-Cleanup/Spills/Oil-spill-
+prevention
+56 Bjarnason et al . 2015 .
+57  Conversations for Responsible Economic Development (CRED) . 
+2013 . Assessing the risks of Kinder Morgan’s proposed new 
+Trans Mountain pipeline . May  . http://credbc . ca/assessing-the-risks/58 Resource Dimensions . 2015 . Economic Impacts of Crude Oil 
+Transport on the Grays Harbor Economy  . April .  
+https://wacoasteconomist  .com/economic-studies/
+59 Resource Dimensions . 2015 . Economic Impacts of Crude 
+Oil Transport on the Quinault Indian Nation and the Local 
+Economy  . April . https://wacoasteconomist  .com/economic-studies/
+60 U .S . Fish & Wildlife Service . ECOS . Species Profile for Killer 
+Whale (Orcinus orca) . https://ecos .fws .gov/ecp0/profile/
+speciesProfile?sId=3380
+61 Fisheries and Oceans Canada . Killer Whale (Northeast Pacific, 
+southern resident population) . http://www  .dfo-mpo  .gc .ca/species-
+especes/profiles-profils/killerWhalesouth-PAC-NE-epaulardsud-eng .html
+62 NOAA Fisheries . Critical Habitat for Southern Resident Killer 
+Whales . http://www  .westcoast  .fisheries .noaa .gov/protected_species/
+marine_mammals/killer_whale/critical_habitat  .html
+63 Center for Whale Research . Southern Resident Killer Whale 
+Population . https://www  .whaleresearch . com/orca-population  ; 
+Rosenberg, M . 2018 . Orca death brings southern resident whale 
+population to lowest level in 34 years . Seattle Times, June 16 . 
+https://www  .seattletimes . com/seattle-news/environment/orca-death-
+brings-southern-resident-whale-population-to-lowest-level-in-34-years/
+64 NOAA Fisheries . 2018 . Saving Southern Resident Killer Whales .  
+http://www  .westcoast  .fisheries .noaa .gov/publications/protected_species/
+marine_mammals/killer_whales/3 .9 .2018_srkw_factsheet  .pdf ; NOAA .  
+Saving the Southern Residents: Turning the Tide for the West 
+Coast’s Beloved Killer Whales . http://noaa .maps .arcgis . com/apps/
+Cascade/index  .html?appid=3405e6637bf74e998d4ebe992c54f613
+65 Lacy et al . 2016 .
+66 Inslee, J  . 2018 . Canada’s unneighborly pipeline deal threatens 
+orcas and climate . Seattle Times, May 30 https://www  .seattletimes .
+com/opinion/gov-jay-inslee-canadian-oil-pipeline-is-giant-step-backward/
+Oil floats on the ocean surface following BP’s Deepwater Horizon disaster where eleven workers died and 210 million barrels of oil spilled 
+into the Gulf of Mexico  . Photo by © Daniel Beltrá / Greenpeace
+
+TAR SANDS TANKER 
+SUPERHIGHWAY THREATENS 
+PACIFIC COAST WATERS
+JUNE 26, 2018

@@ -1,0 +1,2273 @@
+# Archivo original: cool-farming-climate-impacts.pdf
+# Tipo: .PDF
+# Procesado el: Sat Oct 11 09:39:51 -03 2025
+
+Cool Farming: 
+Climate impacts of agricultur
+e and 
+mitigation potential
+greenpeace.org
+Campaigning for  Sustainable AgricultureAUTHORS: JESSICA BELLARBY,
+BENTE FOEREID, ASTLEY HASTINGS 
+AND PETE SMITH FROM THE UNIVERSITY OF ABERDEEN 
+
+For more information contact: 
+enquires@int.greenpeace.org
+Authors: Jessica Bellarby, Bente Foereid,
+Astley Hastings and Pete Smith
+School of Biological Sciences, 
+University of Aberdeen, Cruickshank
+Building, St Machar Drive, Aberdeen,
+AB24 3UU
+Printed on 100% recycled 
+post-consumer waste with 
+vegetable based inks.
+JN 102Published in January 2008
+by Greenpeace InternationalOttho Heldringstraat 51066 AZ AmsterdamThe NetherlandsTel: +31 20 7182000Fax: +31 20 5148151
+greenpeace.org
+Cover Pic © Greenpeace/D Beltrá 
+
+Contents
+3Executive Summary 5
+1 Introduction 12
+2 Greenhouse gas emissions from agriculture 13
+2.1 Global GHG emissions from agriculture 13
+2.2 Projected changes in GHG emissions from agriculture 
+over the next 25 years 14
+2.3 Indirect emissions arising from agricultural practices 15
+3 Greenhouse gas emissions from specific 
+agricultural practices 17
+3.1 Greenhouse gas emissions from the production, 
+transport and use of agricultural fertilisers 17
+3.2 Greenhouse gas emissions from deforestation 
+and land conversion caused by the expansion 
+of agriculture into uncultivated areas 20
+4 Impacts of intensive animal farming on the global climate 25
+4.1 Direct livestock emissions 25
+4.2 Manur e management 25
+4.3 Use of agrochemicals 26
+4.4 Land use 26
+4.5 Fossil fuel use 26
+4.6 Effect of increasing meat (and animal feed) demand 
+on future agricultural emissions of greenhouse gases 265 Greenhouse gas emissions from intensive versus 
+non-intensive agricultural practices 28
+6 Potential for the mitigation of greenhouse gas 
+emissions from agriculture 30
+6.1 Mitigation potential from incr easing carbon sinks 31
+6.2 Mitigation potential from fertiliser management, 
+especially fr
+om improved efficiency and reduced 
+over-use of fertilisers 35
+6.3 Changing diet and consumption patterns – 
+impact of consuming less meat 36
+7 References 37
+
+4Table 1: Sources of direct and indirect agriculture GHG. 6
+Table 2: GHG emissions from fossil fuel and energy use 
+in farm operations and production of chemicals for agriculture. 16
+Table 3: Energy requirement and carbon dioxide emissions
+resulting from the production of different fertilisers. 18
+Table 4: Total annual GHG emissions from the production 
+of fertilisers. 18
+Table 5: Global carbon stocks in vegetation and top one metre 
+of soils. 20
+Table 6: Agricultural land use in the last four decades. 24
+Table 7: Per capita food supply in developed and developing
+countries. 27
+Table 8: A selection of AIJ (Activities Implemented Jointly)
+reforestation projects. 29
+Table 9: Global warming potential for some foods produced
+organically and non-organically. 29
+Table 10: Average consumption of grain and forage (kg) for
+production of one kg of animal product in US agriculture. 36
+Table 11: Global warming potential of the main meat categories 
+as well as milk and selected plant products for comparison. 36Figure 1: Total global contribution of agriculture to greenhouse gas
+emissions, including emissions derived from land use changes. 5
+Figure 2: Sources of agricutlure greenhouse gases. 7
+Figure 3: Rate of chemical fertiliser use in arable land in China in
+comparison with the rest of developing countries, Europe, North
+America and the world. 19
+Figure 4: Nitrogen fertiliser consumption in selected regions and
+world total. 19
+Figure 5: Changes in carbon stock from peat land to arable land
+and from arable land to grassland. 21
+Figure 6: Intercomparison of five different estimates of carbon
+emissions from global land-cover change. 21
+Figure 7: Deforestation and fallow reclearing rates in the legal
+Amazon fr om 1961–2003. 22
+Figure 8: Global technical mitigation potential by 2030 of each
+agricultural management practice showing the impacts of each
+practice on each GHG. 30Contents
+
+Overall finding and conclusions:
+Agriculture contributes significantly to greenhouse gas
+emissions (GHG). Agricultural soil and livestock directly emit
+large amounts of potent greenhouse gases. Agriculture’sindirect emissions include fossil fuel use in farm operations,
+the production of agrochemicals and the conversion of land
+to agriculture. The total global contribution of agriculture,considering all direct and indirect emissions, is between 8.5 –
+16.5 Pg CO
+2-eq1,2, which represents between 17 and 32% of
+all global human-induced GHG emissions, including land use
+changes (Figure 1).
+Some historic anomalies in the atmospheric GHG
+concentrations can be attributed to early changes in farming
+practices such as the development of wet rice cultivationseveral thousands of years ago. In the last century, there havebeen even more substantial changes in agriculture, with the
+uptake of synthetic fertilisers, development of new crop
+varieties (“Green Revolution”) and the adoption of large-scale
+farming systems. The sustainability of modern “industrial”agriculture has been questioned.
+The solution to the environmental problems caused by today’s
+agricultural methods lies in a shift to farming practices which
+could provide large-scale carbon sinks, and offer options for
+mitigation of climate change: improved cropland management
+(such as avoiding bare fallow, and appropriate fertiliser use),
+grazing-land management, and restoration of organic soils as
+carbon sinks. Since meat production is inefficient in its
+delivery of products to the human food chain, and alsoproduces large emissions of GHG, a reduction of meatconsumption could greatly reduce agricultural GHG
+emissions. Taken together, these could change the position ofagriculture from one of the largest greenhouse gas emitters toa much smaller GHG source or even a net carbon sink.Executive Summary
+©Les Stone/Greenpeace
+024681012141618
+Total
+Land conversion to agriculture Farm operations
+Fertilisers production 
+and distributionDirect methane 
+and nitrous oxide emissions10 - 12 %
+0.6 - 1.2 %0.2 - 1.8 %6 -17 %17 - 32 %
+Total global contribution of agriculture to greenhouse gas emissions, including
+emissions derived from land use changes. The overall contribution includesdirect (methane and nitrous oxide gases from agriculture practices) and
+indirect (carbon dioxide from fossil fuel use and land conversion to
+agriculture). Percentages are relative to global greenhouse gas emissions.
+Footnote 1) 1 Pg (Peta gram) = 1 Gt (Giga tonne) = 1000 million tonnes. To
+convert Pg CO
+2-eq to million tonnes multiply by 1000; e.g. 15.5 Pg CO 2-eq
+equals 15.5 Gt CO 2-eq or 15500 million tonnes CO 2-eq.
+Footnote 2) Emissions of greenhouse gases nitrous oxide (N 2O) and methane
+(CH 4) are often expressed as the equivalent units in CO 2in terms of their
+global warming potential in 100 years: N 2O has 296 times the warming
+potential of CO 2and CH 423 times.Figure 1. Global contribution of agriculture
+to greenhouse gas emissions.
+5
+
+6Overview: The main sources of
+greenhouse gas emissions in agriculture
+Agriculture directly contributes between 5.1 and 6.1 Pg CO 2-
+eq (10 – 12%) to global greenhouse gas emissions. These
+emissions are mainly in the form of methane (3.3 Pg CO 2-eq
+yr-1) and nitrous oxide (2.8 Pg CO 2-eq yr-1) whereas the net
+flux of carbon dioxide is very small (0.04 Pg CO 2-eq yr-1). 
+Nitrous oxide (N 2O) emissions from soils and methane (CH 4)
+from enteric fermentation of cattle constitute the largestsources, 38% and 32% of total non-CO
+2emissions from
+agriculture in 2005, respectively. Nitrous oxide emissions aremainly associated with nitrogen fertilisers and manure appliedto soils. Fertilisers are often applied in excess and not fully
+used by the crop plants, so that some of the surplus is lost as
+N
+2O to the atmosphere. Biomass burning (12%), rice
+production (11%), and manure management (7%) account for
+the rest (Table 1).
+Clearing of native vegetation for agriculture (i.e. land use
+change rather than agriculture per se) does release largequantities of ecosystem carbon as carbon dioxide (5.9 ± 2.9Pg CO
+2-eq yr-1).
+The magnitude and relative importance of the different
+sources and emissions vary widely between regions. Globally,agricultural methane (CH
+4) and nitrous oxide (N 2O) emissions
+have increased by 17% from 1990 to 2005, and are projected
+to increase by another 35 – 60% by 2030 driven by growingnitrogen fertiliser use and increased livestock production.Table 1. Sources of direct and indirect
+agriculture greenhouse gases
+Sources of agriculture Million tonnes 
+GHG                                                               CO 2-eq
+Nitrous oxide from soils 2128
+Methane from cattle enteric fermentation 1792
+Biomass burning 672
+Rice production 616
+Manure 413
+Fertiliser production 410
+Irrigation 369
+Farm machinery (seeding, tilling, spraying, harvest) 158
+Pesticide production 72
+Land conversion to agriculture 5900
+The values in the table are averages of the ranges given throughout the text.Executive Summary
+
+7CO2 + N2O
+N02+N02
+CH4 CH4CH4CO2
+CH4+ N2OCO2
+Methane from 
+cattle enteric fermentation  Manure  Nitrous oxide from fertilised soilsBiomass burning Rice productionFarm machineryIrrigation616672
+410369
+1581792
+4132128
+Fertiliser production  Figure 2. sources of agricultural greenhouse gases, excluding land use change
+Mt CO 2-eq
+©Greenpeace/D Beltrá
+
+8Agrochemicals and climate change
+In addition to the direct agriculture emissions mentioned
+above, the production of agrochemicals is another important
+source of greenhouse gas emissions. Especially the life cycleof fertiliser contributes significantly to the overall impact ofindustrialized agriculture. The production of fertilisers is energyintensive, and adds a noticeable amount, between 300 and600 million tonnes (0.3 - 0.6 Pg) CO
+2-eq yr-1, representing
+between 0.6 - 1.2% of the world’s total GHGs. The greatest
+source of GHG emissions from fertiliser production is the
+energy required, which emits carbon dioxide, although nitrateproduction generates even more CO
+2-eq in the form of nitrous
+oxide. With the intensification of agriculture, the use offertilisers has increased from 0.011 Pg N in 1960/61, to 0.091Pg N in 2004/2005. Application rates vary greatly betweenregions with China contributing 40% and Africa 2% to globalmineral fertiliser consumption.
+Compared to fertiliser production, other farm operations such
+as tillage, seeding, application of agrochemicals, harvestingare more variable across the globe with emissions between0.06 and 0.26 Pg CO
+2-eq yr-1. Irrigation has average global
+GHG emissions of between 0.05 and 0.68 Pg CO 2-eq yr-1.
+The production of pesticides is a comparatively low GHG
+emitter with 0.003 to 0.14 Pg CO 2-eq annually. 
+Land use 
+The amount of carbon stored in croplands is the lowest of all
+land types (with the exception of deserts and semideserts).
+Therefore, all land use change to cultivated land will result in anet emission of carbon. However, the actual contribution ofland use change has a high uncertainty, but is estimated to be5.9 ± 2.9 Pg CO
+2-eq. Land use change is mainly driven by
+economics and legislation, but also by the availability of land.The main expansion of global croplands is thought to be over,
+though expansion into tropical forests continues to be a majorproblem. Global woodland areas are projected to decrease atan annual rate of ~43,000 km
+2, but developed countries are
+projected to increase their woodland area by 7,400 km2
+per year . Animal farming 
+Animal farming has a wide range of different impacts, ranging
+from the direct emissions of livestock, manure management,
+use of agrochemicals and land use change to fossil fuel use.Enteric fermentation contributes about 60%, the largestamount, to global methane emissions. The demand for meatdetermines the number of animals that need to be kept.Furthermore, the livestock sector is the largest user of land,
+with a shift in practice away from grazing to the growth of
+livestock feed crops. The use of high energy feed crops has
+recently encouraged the deforestation of the Amazonrainforest in Brazil, a major producer of soya used in animalfeed. The demand for meat is increasing steadily, driven byeconomic growth, and is likely to encourage the expansion ofintensive animal farms. The greatest increase in meatconsumption is observed in developing countries (77%increase between 1960 and 1990), which previously had avery low meat consumption (8% of calories from animalsources) compared to developed countries (27% of calories
+from animal sources) in 1960. Sheep and beef meat have the
+highest climate impact of all types of meat, with a globalwarming potential of 17 and 13 kg CO
+2-eq per kg of meat,
+while pig and poultry have less than half of that.Executive Summary
+
+9Mitigation
+Agriculture has a significant climate change mitigation
+potential, which could change the position of agriculture from
+the second largest emitter to a much smaller emitter or evena net sink. There are a wide range of mitigation options in
+agriculture with an overall potential of up to 6 Pg CO
+2-eq yr-1,
+but with economic potentials of around 4 Pg CO 2-eq yr-1at
+carbon prices up to 100 US$ t CO 2-eq-1. This overall potential
+could mitigate close to 100% of agriculture’s direct emissions.By far the greatest mitigation contribution originates from soil
+carbon sequestration (5.34 Pg CO
+2-eq yr-1), but also methane
+(0.54 Pg CO 2-eq yr-1) and nitrous oxide (0.12 Pg CO 2-eq yr-1)
+emissions can be considerably reduced.
+The low carbon concentration in croplands means that there
+is a great potential to increase carbon content through
+beneficial management practices. Where land uses havechanged to become predominantly agricultural, restoration of
+the carbon content in cultivated organic soils has a high per-
+area potential and represents the area of greatest mitigation
+potential in agricultur e.
+The most prominent options for mitigation in agriculture
+emissions are:
+1. Cropland management (mitigation potential up to ~1.45 Pg
+CO
+2-eq yr-1) such as: 
+•Avoiding leaving land bar e: Bare soil is prone to erosion
+and nutrient leaching and contains less carbon than the
+same field with vegetation. Important solutions are “catch”and “cover” crops, which cover the soil in between theactual crop or in fallow periods, respectively.
+•Using an appropriate amount of nitrogen fertiliser by
+avoiding applications in excess of immediate plant
+requirements, by applying it at the right time, and by
+placing it mor
+e precisely in the soil.  Reducing the reliance
+on fertilisers by adopting cropping systems such as use ofrotations with legume crops has a high mitigation potential. 
+•No burning of cr
+ op residues in the field.•Reducing tillage: No-till agriculture can increase carbon in
+the soil, but in industrial farming settings this maybe of
+fset
+by increasing reliance on herbicides and machinery.
+However, for organic systems some preliminary study
+results showed that reduced tillage without the use of
+herbicides has positive benefits for carbon sequestrationin the soil. 
+2. Grazing land management (mitigation potential up to ~1.35
+Pg CO
+2-eq yr-1) such as reducing grazing intensity or reducing
+the frequency and intensity of fires (by active fire management).
+These measures typically lead to increased tree and shrub
+cover, resulting in a CO 2sink in both soil and biomass.
+3. Restoration of organic soils that are drained for cr op
+production and restoration of degraded lands to increase
+carbon sinks (combined mitigation potential ~2.0 Pg CO 2-eq
+yr-1): avoid drainage of wetlands, carry out erosion control,
+add organic and nutrient amendments. 
+4. Improved water and rice management (~0.3 Pg CO 2-eq yr-
+1); in the off-rice season, methane emissions can be reduced
+by improved water management, especially by keeping the
+soil as dry as possible and avoiding waterlogging.
+5. Lower but still significant mitigation is possible with set-
+asides, land use change (e.g., conversion of cropland to
+grassland) and agro-forestry (~0.05 Pg CO 2-eq yr-1); as well
+as improved livestock and manure management (~0.25 Pg
+CO 2-eq yr-1). 
+6. Increasing efficiency in the manufacturing of fertilisers can
+contribute significantly with a reduction of up to about ~0.2 Pg
+CO 2-eq yr-1. Improvements would be related to greater energy
+efficiency in ammonia production plants (29%), introduction of
+new nitrous oxide reduction technology (32%) and other
+general energy-saving measures in manufacturing (39%).
+7. Consumers can play an important role in the reduction of
+agricultural GHG emissions. A reduction in the demand for
+meat could reduce related GHG emissions considerably.
+Adopting a vegetarian diet, or at least reducing the quantity of
+meat products in the diet, would have beneficial GHG impacts.A person with an average US diet for example, could save 385
+kcal (equating to 95 – 126 g CO
+2) of fossil fuel per day by
+replacing 5% of meat in the diet with vegetarian products. 
+©Greenpeace
+
+10The soy industry destroys large areas of
+the pristine Amazon rainforest to clearland for soy plantations
+
+11©Greenpeace/D Beltrá
+
+12Agricultural practices have changed dramatically since the
+time of hunters and gatherers, which initially were related toland use change and changes in management practices likeirrigation and tillage. Several historical greenhouse gas (GHG)anomalies are thought to be associated with these shifts like,for example, an increase in the methane concentration with
+the start of paddy rice farming in Asia about 5000 years ago
+(Desjardins et al., 2007). These anomalies are presented in
+detail by Ruddiman (2003), and Salinger (2007). With an ever
+incr
+easing population to feed, larger scale changes were
+needed to meet the demand for food. During the 20thcentury,
+agronomic research focused on creating high yielding
+varieties, and agriculture intensified by mechanisation and theuse of agrochemicals such as mineral fertilisers, herbicidesand pesticides. The “Green Revolution” enabled, for example,cereal production in Asia to double between 1970 and 1975with a concurrent land use change to agriculture of only 4%.However, it generally encouraged the further expansion into
+previously uncultivated areas due to higher profits (IFPRI,
+2002). Intensive agriculture relies on high external inputs,particularly of fertilisers, pesticides, herbicides, irrigation andfossil fuels, applying management strategies that are simpleto maintain at a large scale (Jackson et al., 2007). The
+environmental and social costs (pollution, loss of biodiversityand traditional knowledge) ar
+e high and may potentially
+undermine future capacity to maintain required levels of foodproduction (Jackson et al., 2007) (Foley et al., 2005).It is curr
+ently estimated that there is still more land under
+extensive agriculture (17%) compared to intensive agriculture(10%), with an even greater share occupied by domesticlivestock (40%). However, with an increasing demand forfood, this may change in favour of more and more intensivelyfarmed land (Jackson et al., 2007). Indeed, some have
+argued that since land suitable for conversion to agricultur
+e is
+dwindling (Desjardins et al., 2007), intensification on the
+agricultural land currently available will be the only way to feedthe pr
+ojected 9 billion people on the planet (FAO, 2002) by the
+end of this century (Riedacker and Dessus, 1997). In additionthe increasing competition for access to the dwindling stocksof fossil fuels will increase the competitiveness of crops grown
+for bioenergy and will cause a financial incentive to increase
+the amount of land used for intensive arable purposes, andultimately lead to higher prices for agricultural and for estry
+products (Sims et al, 2006) and competition for land between
+energy and food pr
+oduction.
+Agriculture is a major contributor of GHGs to the atmosphere,
+but the emissions vary depending on the land use and the waythat the land is managed. However, a quantified separation ofintensive and extensive agriculture is difficult for a number of
+reasons, a) there are many complex interactions between
+different practices and effects, b) statistics on intensity of landuse are rarely available (statistics are collected in a differentform), and c) often, intensive and non-intensive farming
+practices are present on the same farm, making categorisationof farms as intensive / non-intensive very difficult. For thisreason, we focus on the individual practices known to influence
+GHG emissions to the atmosphere, and were possible wepresent information at the aggregated systems level to examinethe impacts of intensive vs. non-intensive agriculture. 1. Introduction
+
+132. Greenhouse gas emissions from agriculture
+©B Arnold/Greenpeace
+Recently, the contribution of Working Group III to the
+Intergovernmental Panel on Climate Change (IPCC) FourthAssessment Report assessed greenhouse gas emissiontrends from agriculture (IPCC WGIII Ch.8, 2007). The followingtwo sections are largely derived from that report. 
+2.1 Global GHG emissions from
+agriculture, excluding land use change
+Agricultural lands (lands used for agricultural production,
+consisting of cropland, managed grassland and permanent
+crops including agro-forestry and bio-energy crops) occupy
+about 40-50% of the Earth’s land surface. Agriculture
+accounted for an estimated emission of 5.1 to 6.1 Pg CO 2-eq
+yr-1in 2005 (10-12% of total global anthropogenic emissions
+of GHGs). Methane (CH 4) contributes 3.3 Pg CO 2-eq yr-1and
+nitrous oxide (N 2O) 2.8 Pg CO 2-eq yr-1. Of global
+anthropogenic emissions in 2005, agriculture accounts forabout 60% of N
+2O and about 50% of CH 4(IPCC WGIII Ch.8,
+2007). Despite large annual exchanges of CO 2between the
+atmosphere and agricultural lands, the net flux is estimated tobe approximately balanced, with CO
+2emissions around 0.04
+Pg CO 2yr-1, though clearing of native vegetation for
+agriculture (i.e. land use change rather than agriculture per se)
+does release large quantities of ecosystem carbon as carbon
+dioxide (5.9 ± 2.9 Pg CO 2-eq yr-1(IPCC, 2001)). 
+Globally , agricultural CH 4and N 2O emissions have increased by
+nearly 17% from 1990 to 2005, an average annual emission
+increase of about 0.06 Pg CO 2-eq yr-1. During that period, the
+five regions composed of developing countries and countries
+with economies in transition showed a 32% increase, andwere, by 2005, responsible for about three-quarters of totalagricultural emissions. The other five regions, mostlyindustrialised countries, collectively showed a decrease of 12%in the emissions of these gases (IPCC WGIII Ch.8, 2007).
+Nitrous Oxide emissions from soils and CH
+4from enteric
+fermentation constitute the largest sources, 38% and 32% of
+total non-CO 2emissions from agriculture in 2005, respectively
+(US-EPA, 2006a). Biomass burning (12%), rice production(11%), and manure management (7%) account for the rest.Both the magnitude of the emissions and the relativeimportance of the different sources vary widely among worldregions. In Africa, North America, Europe and most of Asia(seven of the ten world regions as defined by US-EPA 2006a),N
+2O from soils was the main source of GHGs in the
+agricultural sector in 2005, mainly associated with N fertilisersand manure applied to soils. In Latin America and the
+Caribbean, the countries of Eastern Europe, the Caucasus
+and Central Asia, and OECD Pacific (the other three regions in
+US-EPA 2006a) CH
+4from enteric fermentation was the
+dominant source (US-EPA, 2006a; IPCC WGIII Ch.8, 2007).This is due to the large livestock population in these threeregions which, in 2004, had a combined stock of cattle and
+sheep equivalent to 36% and 24% of world totals,
+respectively (FAO, 2002).
+Emissions from rice production and burning of biomass were
+heavily concentrated in the group of developing countries,
+with 97% and 92% of world totals, respectively. While CH
+4
+emissions from rice occurred mostly in South and East Asia,
+where it is a dominant food source (82% of total emissions),those from biomass burning originated in Sub-Saharan Africaand Latin America and the Caribbean (74% of total). Manuremanagement was the only source for which emissions where
+higher in the group of developed regions (52%) than in
+developing regions (48%; US-EPA, 2006a).
+The balance between the large fluxes of CO
+2emissions and
+removals in agricultural land is uncertain. A study by US-EPA
+(2006b) showed that some countries and regions have net
+emissions, while others have net removals of CO 2. Except for
+the countries of Eastern Europe, the Caucasus and Central
+Asia, which had an annual emission of 0.026 Pg CO 2yr-1in
+2000, all other countries showed very low emissions or
+removals.
+Globally, agricultural CH 4and N 2O emissions increased by
+17% from 1990 to 2005, an average annual emission
+increase of 0.058 Pg CO 2-eq yr-1(US-EPA, 2006a). Both
+gases had about the same share of this increase. Thr ee
+sources together explained 88% of the increase: biomass
+burning (N 2O and CH 4), enteric fermentation (CH 4) and soil
+N2O emissions (US-EPA, 2006a). 
+
+142. Greenhouse gas emissions from agriculture
+2.2 Projected changes in GHG emissions
+from agriculture over the next 25 years
+Agricultural N 2O emissions are projected to increase by 35-
+60% up to 2030 due to increased nitrogen fertiliser use and
+increased animal manure production (FAO, 2002). Similarly,Mosier and Kroeze (2000) and US-EPA (2006a) estimated that
+N
+2O emissions will increase by about 50% by 2020 (relative to
+1990). If demands for food increase, and diets shift as
+projected, then annual emissions of GHGs from agriculture
+may escalate further. But improved management practices
+and emerging technologies may permit a reduction inemissions per unit of food (or protein) produced, and perhapsalso a reduction in emissions per capita food consumption.
+If CH
+4emissions grow in direct proportion to increases in
+livestock numbers, then global livestock-related methane
+production (from enteric fermentation and manure
+management) is expected to increase by 60% in the period1990 to 2030 (FAO, 2002). However, changes in feeding
+practices and manure management could ameliorate this
+increase. US-EPA (2006a) forecast that combined methaneemissions from enteric fermentation and manure
+management will increase by 21% between 2005 and 2020.
+The area of rice grown globally is forecast to increase by 4.5%
+to 2030 (FAO, 2002), so methane emissions from riceproduction would not be expected to increase substantially.There may even be reductions if less rice is grown under
+continuous flooding (causing anaerobic soil conditions) as a
+result of scarcity of water, or if new rice cultivars that emit less
+methane are developed and adopted (Wang et al., 1997).
+However
+, US-EPA (2006a) projects a 16% increase in CH 4
+emissions from rice crops between 2005 and 2020, mostlydue to a sustained increase in the area of irrigated rice.
+No baseline agricultural non-CO
+2GHG emission estimates for
+the year 2030 have been published, but according to US-EPA
+(2006a), aggregate emissions are projected to increase by~13% during the decades 2000-2010 and 2010-2020.Assuming similar rates of increase (10-15%) for 2020-2030,agricultural emissions might be expected to rise to 8 – 8.4,with a mean of 8.3 Pg CO
+2-eq by 2030. With projected globalmedian emissions of about 55 Pg CO 2-eq in the same time
+period, agriculture would contribute about 15% (IPCC WGIIICh.8, 2007) equating to a 3% increase of its contribution.
+However, this slight increase has a high uncertainty
+considering the wide potential ranges of future emissions. The future evolution of CO
+2emissions from agriculture is
+uncertain. 
+The Middle East and North Africa, and Sub-Saharan Africa
+have the highest projected growth in emissions, with acombined 95% increase in the period 1990 to 2020 (US-EPA,2006a). Sub-Saharan Africa is the one world region where
+per-capita food production is either in decline, or roughly
+constant at a level that is less than adequate (Scholes andBiggs, 2004). This trend is linked to low and declining soilfertility (Sanchez, 2002), and inadequate fertiliser inputs.Although slow, the rising wealth of urban populations is likely
+to increase demand for livestock products. This would result
+in intensification of agriculture and expansion to still largelyunexploited areas, particularly in South and Central Africa(including Angola, Zambia, DRC, Mozambique and Tanzania),with a consequent increase in GHG emissions.
+East Asia is projected to show large increases in GHG
+emissions from animal sources. According to FAO (FAOSTAT,
+2006), total production of meat and milk in Asian developingcountries increased more than 12 times and four times,
+respectively, from 1961 to 2004. Since the per-capitaconsumption of meat and milk is still much lower in these
+countries than in developed countries, increasing trends are
+expected to continue for a relatively long time. Accordingly,US-EPA (2006a) forecast increases of 153% and 86% inemissions from enteric fermentation and manure
+management, respectively, from 1990 to 2020. In South Asia,
+emissions are increasing mostly because of expanding use of
+N fertilisers and manure to meet demands for food, resulting
+from rapid population growth.
+
+15
+©Karen Robinson/Greenpeace
+In Latin America and the Caribbean, agricultural products are
+the main source of exports. Significant changes in land useand management have occurred, with forest conversion to
+cropland and grassland the most significant, resulting in
+increased GHG emissions from soils (CO
+2and N 2O). The
+cattle population has increased linearly from 176 to 379million head between 1961 and 2004, partly offset by adecrease in the sheep population from 125 to 80 million head.All other livestock categories have increased in the order of 30to 600% since 1961. Cropland areas, including rice andsoybean, and the use of N fertilisers have also showndramatic increases (F AOST AT, 2006). Another major trend in
+the region is the increased adoption of no-till agricultur e,
+particularly in the Mercosur area (Brazil, Argentina, Paraguay,and Uruguay). This technology is used on ~300,000 km
+2
+every year in the region, although it is unknown how much ofthis area is under permanent no-till (IPCC WGIII Ch.8, 2007).
+In the countries of Central and Easter n Eur ope, the Caucasus
+and Central Asia, agricultural production is, at present, about
+60-80% of that in 1990, but is expected to grow by 15-40%
+above 2001 levels by 2010, driven by the increasing wealth ofthese countries. A 10-14% increase in arable land area is
+forecast for the whole of Russia due to agricultural expansion.
+The widespread application of intensive managementtechnologies could result in a 2 to 2.5-fold rise in grain andfodder yields, with a consequent reduction of arable land, butwill increase N fertiliser use. Decreases in fertiliser N use since
+1990 have led to a significant reduction in N
+2O emissions.
+But, under favourable economic conditions, the amount of N
+fertiliser applied will again increase, although unlikely to reachpre-1990 levels in the near future, due to the increasing costof manufacture driving efficiency in use. US-EPA (2006a)projected a 32% incr ease in N
+2O emissions from soils in these
+two r egions between 2005 and 2020, equivalent to an
+average rate of increase of 0.004 Pg CO 2-eq yr-1.
+OECD North America and OECD Pacific are the onlydeveloped regions forecasting a consistent increase in GHG
+emissions in the agricultural sector (18% and 21%,respectively between 1990 and 2020). In both cases, thetrend is largely driven by non-CO
+2emissions from manure
+management and N 2O emissions from soils. In Oceania,nitrogen fertiliser use has increased exponentially over thepast 45 years with a 5 and 2.5 fold increase since 1990 inNew Zealand and Australia, respectively. In North America, in
+contrast, nitrogen fertiliser use has remained stable; the main
+driver for increasing emissions is management of manurefrom cattle, poultry and swine production, and manureapplication to soils. In both regions, conservation policieshave resulted in reduced CO
+2emissions from land
+conversion. Land clearing in Australia has declined by 60%since 1990 with vegetation management policies restrictingfurther clearing, while in North America, some marginalcroplands have been returned to woodland or grassland. 
+Wester n Eur ope is the only region where, according to US-
+EPA (2006a), GHG emissions from agriculture are projected to
+decrease up to 2020. This is associated with the adoption ofa number of climate-specific and other environmental policies
+in the European Union, as well as economic constraints on
+agriculture (IPCC, WGIII, Ch. 8, 2007).
+2.3 Indirect emissions arising from
+agricultural practices
+In the previous two sections only the direct agricultural
+emissions are considered, however, for a complete analysisthe indirect carbon emissions, which arise from use of farmmachinery, production of fertilisers, production and use of
+pesticides and irrigation should be added to estimate the totalGHG emissions from agriculture. 
+Table 2 shows a summary of global GHG emissions of
+different farm operations (Lal, 2004c). The large ranges in
+values reflect different management practices, but still there isa high uncertainty associated with these values. This is aresult of the extrapolation to the total cropland and arable
+land, which may in general not all require irrigation and
+therefore is generally overestimated. On the other hand,permanent pastures have not been considered at all, whichare in some parts managed to some extent. Generally,management practices and therefore energy consumption willvary widely in different global regions, which is reflected by thewide range (one order of magnitude!) of emissions that may
+be emitted at a global level (Table 2). In contrast, the emission 
+
+162. Greenhouse gas emissions from agriculture
+range of fertiliser production and use is much narrower.
+Emissions from fertiliser are based on the global consumption
+and the minimum value (0.284 Pg) is actually very similar tothe global emissions (0.283 Pg) as given by Kongshaug(1998). The sum of all farm practices (including fertiliser)contributes a significant amount to global carbon emissions,
+between 0.4 and 1.7 Pg of CO
+2-eq. Here, the production of
+fertiliser is the largest single emitter (0.3 – 0.6 Pg CO 2-eq),
+followed by the use of farm machinery for a variety of
+management practices (0.06 – 0.26 Pg CO 2-eq), irrigation
+(0.05 – 0.68 Pg CO 2-eq) and pesticide production (up to 0.14
+Pg CO 2-eq).Total global agricultural GHG emissions will be the sum of
+agricultural emissions (5.1 – 6.1 Pg, 10 – 12 % of total global
+emissions), land use change (5.9 ± 2.9 Pg; 6 – 17 % of totalglobal emissions), agrochemical production/distribution (0.3 –0.7 Pg, 0.6 – 1.4 % of total global emissions) and farmoperations (including irrigation) (0.1 – 0.9 Pg, 0.2 – 1.8 % of
+total global emissions). Consequently, the total global
+contribution of agriculture considering all direct (such as soil
+and livestock emissions) and indirect (such as fossil fuel use,fertiliser production and land use change) would be between16.8 and 32.2 %, including land use change (see section 3.2). 
+Table 2: GHG emissions from fossil fuel and energy use in farm operations and
+production of chemicals for agriculture.
+kg CO 2-eq km-2Pg CO 2-eq
+Tillagea 440 – 7360 0.007 – 0.113
+Application of agrochemicalsb 180 – 3700 0.003 – 0.057
+Drilling or seedingc 810 – 1430 0.015 – 0.022
+Combine harvestingd 2210 – 4210 0.034 – 0.065
+Use of farm machinery Subtotal 0.059 – 0.257
+Pesticides (production)e 220 – 9220 0.003 – 0.14
+Irrigationf 3440 – 44400 0.053 – 0.684
+Fertiliser (production)g – 0.284 – 0.575
+Total 0.399 – 1.656
+Data retrieved from (Lal, 2004c) in carbon per ha transformed into Pg CO 2-eq by using the area under permanent crops and arable land (15.41 M km2) in 2003
+(FAOST AT, 2007). 
+afrom Lal, 2004c Table 2, minimum value of rotary hoeing to maximum value of mouldboard ploughing.
+bfrom Lal, 2004c Table 4. minimum and maximum from “Spray herbicide, Chemical Incorporation, Fertiliser spraying and spreading”.
+cTable Lal, 2004c 4, minimum and maximum value from “Plant/sow/drill”
+dTable Lal, 2004c 4, minimum and maximum value from “Soybean and corn harvesting”
+elow and high herbicide rates (0.5 – 2 kg ha-1) as described by Clemens et al. (1995) in Table 4 multiplied by low and high carbon emissions as described by
+Lal (2004c) in Table 5
+ffrom Lal, 2004c Table 3
+gcarbon emission range from Table 3 (this report) multiplied by consumption in Table 4 (this report) 
+
+173. Greenhouse gas emissions from
+specific agricultural practices
+©Greenpeace / D Beltrá
+3.1 Greenhouse gas emissions from the
+production, transport and use ofagricultural fertilisers
+Fertilisers are increasingly used in agriculture (Figure 3 and
+Figure 4). The life cycle of fertiliser contributes significantly tothe overall impact of conventional agriculture. The productionof fertilisers is energy intensive, and emits about 1.2% of the
+world’s total GHGs (Wood and Cowie, 2004). Before 1930,
+nitrates used to be mined but this practice is now moreexpensive than the synthetic fertiliser production using fossilfuel energy with which it has been replaced. There is a greatdifference between the energy requirements, and hence GHGemissions, for the production of different types of fertilisers(Table 3). Generally, fertilisers containing N compounds
+consume up to 10 times more energy and consequently
+result in more GHG emissions. In comparison, fresh manure is
+a very low carbon emitting alternative when it is available to
+provide land with nutrients (Lal, 2004c) (Table 3). However, theactual energy consumed during the production can varywidely as very modern plants have the potential to efficientlyuse the heat produced during the reaction process and hence
+may even have a negative energy balance, for production of
+nitrate will also generate nitrous oxide as a by-product.Considering that nitrous oxide has a global warming potentialof ~296 compared to carbon dioxide, this is the main GHG inthe nitrate production (Brentrup et al., 2004) (Wood and
+Cowie, 2004). As a r
+esult, nitrous oxide contributes 26%
+(0.074 Pg CO 2-eq yr-1) of the global total fertiliser production
+GHG emissions (0.283 Pg CO 2-eq yr-1) (Kongshaug, 1998).
+The energy consumption of superphosphate and muriate of
+potash will mainly be associated with mining activities.Additional greenhouse gas emissions will arise from thetransport of these fertilisers as mines are not evenlydistributed around the world (www.fertilizer.org). Generally,transport and storage will add more to the total GHGemission of fertiliser use (Table 3 & Table 4).
+The final use of the fertiliser on the farm will have again a
+variety of impacts. The machinery used to apply the fertiliserwill require fuel, adding to the GHG emissions. Fertilisers arenot used fully by the crop, which on average globally onlyrecover about 50% of fertiliser N supplied (Eickhout et al.,
+2006). Consequently, a great pr
+ oportion accumulates in soilsand is either lost directly as nitrous oxide, or leaches intowater courses, enhancing downstream, indirect nitrous oxideemissions. The amount lost will greatly depend on many otherfactors such as climate, soil and management practices(Brentrup et al., 2004) (Eickhout et al., 2006).
+3.1.1 Effect of agriculture intensification on
+fertiliser use and emissions.
+The intensification of agriculture has greatly increased the use
+of fertilisers in the last century, which is reported to have
+increased by over 800% in about 45 years, from 0.011 Pg N
+in 1960/61, to 0.091 Pg N in 2004/2005 (www.fertilizer.org).
+However, application rates vary greatly between differentcountries (Figure 3) with rates mainly driven by economy andlegislation. Generally, there is a great difference in the fertiliser
+consumption between developed and developing countries
+(Figure 4). The decreasing trend in developed countries isdriven by environmental legislation, which may imposethreshold levels with associated fines. Furthermore, consumerpressure through supermarkets encourages the uptake of
+Environmental Management Systems, which address a varietyof issues resulting in the optimisation of fertiliser use (Furness,2003). Within the developing countries China (40% globally;95% of East Asia) and India (20% globally; 80% of SouthAsia) are the main drivers of the increase in fertiliser use(Figure 4). In China, the cost of fertilisers has been very low,
+achieved by subsidies for production and distribution before
+1985 (Zeng, 2003). Consequently, application rates are muchhigher than in other parts of the world (Figure 3). This causesnot only an increase in GHG emissions, but also pollution andeutrophication of watercourses. In this case, the high number
+of small-scale farmers makes it difficult to monitor fertiliser use
+and enforce more sustainable practices (Zeng, 2003). The
+Chinese case is contrasted by the situation in Africa, which
+only uses 2% of the total global fertiliser consumption(www.fertilizer.org). In fact, the amount used by small-scaleAfrican farmers is usually underneath the recommended level
+for the maintenance of soil fertility, resulting in nutrientdepletion and loss of soil organic matter (i.e. lower carbon
+levels in the soil) (Batjes, 2004).
+
+18Table 3: Energy requirement and carbon dioxide emissions resulting from the production
+of different fertilisers. 
+Fertiliser Energy requirement in MJ kg-1N Carbon dioxide emissions in kg (CO 2)/kg produced*
+Nitrogen 65 – 101 3.294 – 6.588
+Phosporus 15 0.366 – 1.098
+Potassium 8 0.366 – 0.732
+Lime 0.110 – 0.842
+Manure 0.026 – 0.029
+N as manurea0.6 – 2.9
+Data from (Lal, 2004c); *includes transportation, storage and transfer of agricultural chemicals. 
+aManure has a nitrogen content of between 1 and 4.5% (Moreno-Caselles et al., 2002), therefore the CO 2emissions per kg of N have been given here.
+Table 4: Total annual GHG emissions from the production of fertilisers (Kongshaug, 1998).
+NP K
+World
+Consumption in Pg 0.083 0.014 0.017
+Total emissions in kg CO 2-eq per kg of fertiliser produced
+Average 3.14 0.7 0.75
+Best 1.6 -1.4 0.25
+Europe
+Consumption in Pg 0.011 0.001 0.005
+Total emissions in kg CO 2-eq per kg of fertiliser produced
+Average 5.3 0.04 0.15
+Best 2.45 -0.1 0.06
+Total emissions in kg CO 2-eq per kg 
+of fertiliser produced 3.30 – 6.6 0.36 – 1.1 0.36 – 0.73
+(Includes transport and storage*)
+Total emissions in Pg CO 2-eq 0.27-0.55 0.005-0.015 0.006-0.012
+*(Lal, 2004c)3. Greenhouse gas emissions from
+specific agricultural practices
+
+19
+©Greenpeace/Peter Solness
+0102030405060708090
+World
+East Asia
+South AsiaNorth AmericaEastern Europe & Central AsiaCentral Europe
+West Europe2005
+1999
+1993
+1987
+1981
+1975
+1970Million tonnes nitrogen
+050100150200250
+China
+Developing CountriesEurope
+North AmericaWorldApplication rate, kg ha-1 year-12005
+2000
+1995
+1990
+1985
+1980
+1975
+196019651970
+Nitrogen fertiliser consumption in selected regions and world total. Source
+IFA statistics.Figure 4. World nitrogen fertiliser
+consumption in regions.
+“Rate of chemical fertiliser use in arable land (including permanent crop land)
+in China in comparison with the rest of developing countries, Europe, NorthAmerica and the world. The rates are based on N for nitrogen, P
+2O5for
+phosphorous, and K 2O for potassium. Data source: FAO (2002).” Copied
+from (Yang, 2006).Figure 3. Rate of chemical fertiliser use in
+arable land in China in comparison withthe rest of developing countries, Europe,North America and the world.
+
+203.2 Greenhouse gas emissions from
+deforestation and land conversion causedby the expansion of agriculture intouncultivated areas. 
+Generally, intensively managed land will have lower carbon
+stocks than natural vegetation (Table 5 & Figure 5). Croplands
+have the lowest “carbon stock concentration” of all earthbiomes, except for deserts and semideserts. In contrast,wetlands have by far the greatest “carbon stockconcentration” (more than eight times that of croplands) butthey do not even contribute twice as much to the global
+carbon stock due to the small percentage of land covered by
+wetlands (Table 5). As a result, the conversion from one land
+use to croplands can have a considerable effect on carbonstocks (Figure 5).
+Houghton (1999, 2003) estimated the net global emissions
+resulting from land cover change to be about 8.1 Pg CO
+2yr-1
+in the 1990s (compared with 23.4 Pg CO 2yr-1from fossil-fuel
+emissions). Here, agriculture was the most importantcontributor to land conversion (croplands 68%, pastures13%, cultivation shift 4%, harvest of wood 16% andestablishment of plantations -1%) (Houghton, 1999) and
+contributes to around 20% of total GHG emissions. In
+contrast, the IPCC published values of 5.9 ± 2.9 in 2001(IPCC, 2001). Estimates of land use changes are probably themost uncertain within the GHG inventory (Figure 6 & Figure 7),
+as actual emissions will depend on several factors
+(Ramankutty et al., 2007). Despite the uncertainty, it is clear
+that land use change is a major contributor to global GHGemissions. In some ar
+eas, such as e.g. Brazil, it will even be a
+more important source of GHG than fossil fuels (Cerri et al.,
+2007). Brazil alone contributed 5% of total global GHG
+emissions by deforestation in 1990 (Fearnside, 2005).
+However
+, the total emissions resulting from this deforestation
+will be even greater, since future changes in land use couldresult in further emissions (Fearnside, 2005).
+For a complete estimation of the impact of land use change
+on global climate there are also several non-GHG effects to
+consider, which alter the physical properties of the land
+surface. These effects are discussed, for example, in Pielke Sr et al., (2007), Foley et al., (2005).
+Table 5: Global carbon stocks in vegetation and top one metre of soils. 
+Biome Area Carbon Stocks Carbon stock 
+(Pg CO 2-eq) concentration
+(Pg CO 2-eq M km-2)
+M km2Vegetation Soils Total
+Tropical forests 17.60 776 791 1566 89
+Temperate forests 10.40 216 366 582 56
+Boreal forests 13.70 322 1724 2046 149
+Tropical savannas 22.50 242 966 1208 54
+Temperate grasslands 12.50 33 1080 1113 89
+Deserts and semideserts 45.50 29 699 728 16
+Tundra 9.50 22 443 465 49
+Wetlands 3.50 55 824 878 251
+Croplands 16.00 11 468 479 30
+Total 151.20 1706 7360 9066 60
+Source: IPCC 2001, Land use, land use change and forestry.3. Greenhouse gas emissions from
+specific agricultural practices
+
+21
+©Greenpeace/M Snellman
+Initial Soil Carbon Level Final Soil Carbon Level
+Final Soil 
+Carbon Level
+Forest
+Woodland
+Grassland
+Arable LandPeat Land
+Wetland
+Forest
+Woodland
+Grassland
+Arable Land
+Years
+Changes in carbon stock from peat land to arable land (red/dark line) and
+from arable land to grassland (blue/light line). Each Eco-system and agro-forestry management crop system has a soil carbon equilibrium. T ime
+constant of exponential change depends on climate change but averagesaround 33 years (see Table 5 for range of values). Source: IPCC 2001.Figure 5. Changes in carbon stock from
+peat land to arable land and from arableland to grassland.
+0.00.51.01.52.02.53.03.5
+H2003 - meanH2003 - range
+CCMLP - rangeAVHRR
+TREES
+F2000Carbon emissions (Pg C yr-1)2000
+1990
+1980
+1970
+1960
+1950
+192019301940
+Intercomparison of five different estimates of carbon emissions from global
+land-cover change. The H2003 and CCMLP estimates were global, while theAVHRR, TREES and F2000 studies were pan-tropical. H2003 and CCMLPestimated annual values, while the other three studies estimated decadalaverages. Multiply with a factor of 3.66 to get Pg CO
+2-eq Taken from:
+(Ramankutty et al., (2007)Figure 6. Intercomparison of five different
+estimates of carbon emissions from globalland-cover change.
+
+223. Greenhouse gas emissions from
+specific agricultural practices
+0.00.51.01.52.02.53.03.5 60
+50
+40
+30
+20
+10
+0Pasture Fallow regrowth Cropland
+Annual deforestation (raw) Annual deforestation (smoothed) Annual fallow reclearingClearing rate (million ha yr-1)
+Cumulative land area (million ha)Gross deforested Net deforested
+2000
+1995
+1980
+1985
+19801975
+196019651970
+Deforestation and fallow reclearing rates in the legal Amazon from 1961–2003 (primary y-axis); and land-cover transitions following deforestation
+estimated by a Markov transition model (cumulative values shown on secondary y-axis). Divide by a factor of 100 to get M km2Taken from
+(Ramankutty et al., 2007)Figure 7. Deforestation and fallow reclearing rates in the legal Amazon from 1961–2003.
+
+23
+©Greenpeace / D Beltrá
+3.2.1 Historic and future trends
+Land cover change is the oldest global impact of human 
+kind (Kates and Parris, 2003). However, the rate of change
+has increased dramatically, and since 1945 more land wasconverted to cropland than in the previous two centuries
+combined (Cerri et al., 2007). In the last four decades,
+agricultural land increased by about 10% (4.43 M km
+2), which
+was achieved at the expense of forest land and other landmainly in the developing world (Table 6). Croplands andpastures are among the largest ecosystems on the planet,rivalling forest cover in extent and together occupy ≈ 35% ofthe ice-free land surface (Ramankutty et al., 2007). This
+amount of land is still mor
+e than half as much than would be
+required if crop yields would have remained at the levels from1961 (Mooney et al., 2005). The period of major expansion
+into uncultivated lands is thought to be over 
+, as most arable
+land with a good quality is already being used apart fr om
+some areas in humid, tropical regions (Desjardins et al.,
+2007). Generally two global trends can be observed:“decreasing tropical and incr
+easing temperate boreal forests”
+(Kates and Parris, 2003). Both these trends are driven mainlyby economics. Agriculture in temperate regions has become
+less viable on more marginal lands that are often convertedback to woodland. Siberia is an exception wheredeforestation rates are still very high (Kates and Parris, 2003).
+On the other hand, in tropical rainforest regions, global tradeencourages the destruction of the forest to make way forcroplands and grasslands. Consequently, the area of for est
+has been reduced by almost 10% since 1980 (Desjardins et
+al., 2007, Zhang et al., 2006) forecasting that by 2030 the
+annual global incr
+ease in agricultural, arable and permanent
+cropland will be 45,250, 12,690 and 89,130 km2, respectively.
+In contrast, permanent pasture and woodland areas will in thesame time decrease by an annual rate of 40,490 and 42,860km
+2, respectively . Here, again there is a marked differ ence
+between different regions generally with developed countries,particularly Europe,  showing a reverse to the global trend asthe area of woodlands is expected to increase annually by7,400 (developed countries) and 13,720 km
+2(Europe), 
+(Zhang et al., 2006).Brazil experienced a defor
+estation of 93,700 km2between
+2001 and 2004 (Morton et al., 2006). The deforestation
+occurr
+ed at a rate of between 10,000 and 30,000 km2yr-1
+since 1978. There is no consistent trend, but the rate is linked
+to macroeconomic factors. A rising demand for soybean andbeef contributed to increased Brazilian deforestation rate from
+2001 to 2004 (Fearnside, 2005) (Morton et al., 2006).
+Similarly 
+, Southeast Asia lost 23,000 km2between 1990 and
+2000 for timber harvest and agricultural expansion. In
+contrast, forests are being replanted in East Asia with Chinaincreasing its woodland area by almost 100% (from 127,400
+to 231,100 km
+2) (Zhao et al., 2006). This trend, though to a
+lesser extent, can also be observed in Japan and South
+Kor
+ea. However, a reduction in the water surface through
+building of dams and drainage of wetland areas can beobserved all over the Asian continent (Zhao et al., 2006). 
+
+24Table 6: Agricultural land use in the last four decades 
+Area (M km2) Change 2000s/1960s
+1961-70 1971-80 1981-90 1991-00 2001-03 % M km2
+1. World
+Agricultural land 45.38 46.51 47.94 49.49 49.80 10 4.4
+Arable land 13.01 13.35 13.79 13.97 14.03 8 1.0
+Permanent crops 0.91 0.99 1.10 1.30 1.38 51 0.50
+Permanent pasture 31.46 32.18 33.05 34.23 34.39 9 2.9
+Forest and Woodlanda 43.52 42.91 42.87 42.12 0.00 -3 -1.4
+Other Landa 41.50 40.98 39.59 38.68 0.00 -7 -2.8
+Non-arable and -permanentb 0.00 0.00 0.00 114.72 114.63 -0.08 -0.1
+2. Developed countries
+Agricultural land 18.85 18.82 18.69 18.58 18.24 -3 -0.6
+Arable land 6.46 6.48 6.51 6.32 6.10 -6 -0.4
+Permanent cr ops 0.32 0.31 0.30 0.30 0.30 -7 -0.02
+Permanent pasture 12.06 12.03 11.88 11.96 11.85 -2 -0.2
+Forest and Woodlanda 19.94 19.93 20.09 19.36 0.00 -3 -0.6
+Other Landa 15.64 15.68 15.65 16.04 0.00 3 0.4
+Non-arable and -permanentb 0.00 0.00 0.00 47.46 47.61 0.33 0.15
+3. Developing countries
+Agricultural land 26.53 27.69 29.25 30.91 31.56 19 5.0
+Arable land 6.55 6.87 7.30 7.65 7.94 21 1.4
+Permanent crops 0.59 0.67 0.80 1.00 1.08 84 0.49
+Permanent pasture 19.40 20.15 21.18 22.27 22.54 16 3.1
+Forest and Woodlanda 23.58 22.98 22.78 22.75 0.00 -4 -0.8
+Other Landa 25.86 25.31 23.94 22.64 0.00 -13 -3.2
+Non-arable and permanentb 0.00 0.00 0.00 67.27 67.02 -0.36 -0.25
+Source: FAOSTAT; data archive – land use, accessed 30.05.2007   auntil 1994; bfrom 1995 onwards3. Greenhouse gas emissions from
+specific agricultural practices
+
+25Generally, animal farming produces significant GHG emissions
+resulting from emissions from the animals themselves andactivities associated with the farming of animals. Sources are:
+1. Direct livestock emissions 
+2. Manure management3. Use of agrochemicals (fertiliser, pesticides and antibiotics)4. Land use
+5. The use of fossil fuels for a variety of applications
+We examine these in more detail below.
+4.1 Direct livestock emissions
+When farming ruminant animals, the animals themselves
+produce the greatest amount of GHGs (up to 60%) through
+enteric fermentation in the rumen. Other components of theoverall GHG emissions contribute roughly similar amounts,with the use of diesel and electricity being at the lower end(Casey and Holden, 2006). Globally, livestock is the mostimportant anthropogenic source of methane emissions (US-
+EPA, 2006a). Methane is a powerful GHG with ≈ 20 times the
+global warming potential of CO
+2.
+There are considerations when comparing intensive versusnon-intensive livestock production, not least animal welfareissues. Whereas non-intensive systems can be shown to be
+far more desirable in terms of animal welfare, the position with
+respect to GHG emissions is less clear. The amount of
+methane emitted by animals is directly related to the number
+of animals, so that a more intensive farm will have higheremissions (http://ec.europa.eu/research/environment/newsanddoc/article_2087_en.htm), though the emissions perunit of product (e.g. meat, milk) might be lower (IPCC WGIII
+Ch.8, 2007). The demand for meat products determines thenumber of animals that need to be raised. An intensive farmmay spare land for other purposes by optimising yield on highquality land and, hence, minimising the area that is used foragriculture (Mooney et al., 2005, Dorrough et al., 2007).
+However
+, it is argued that using less land directly for
+agriculture will still have an effect on surrounding lands due to
+high concentrated emissions and different requirements to the
+infrastructure (Matson and Vitousek, 2006). Furthermore, thelength of time it takes to rear an animal has decreaseddramatically in intensive farming systems (e.g. from 72 days in1960 to 48 days in 1995 for broiler chickens). Generally,chickens and pigs use concentrated feed (high protein) moreefficiently compared to cattle, which enabled a considerablereduction in the rearing time. As a result, the production ofthese meats has also increased (Naylor et al., 2005). Given
+that the demand of meat has to be met (expecting large,
+unfor
+eseen global shifts in projected consumption patterns),
+intensive farming reduces the time necessary to produce the
+same quantity of product, hence reducing GHG emissions perunit of product. Furthermore, the increase in the production ofchickens and pigs may also be favourable considering that
+these animals produce much less GHG (pig: 1 – 1.5 kg CH
+4
+head-1yr-1) by enteric fermentation compared to cattle (dairy
+cattle: 36 – 100 kg CH 4head-1yr-1) and sheep (5 – 8 kg CH 4
+head-1 yr-1) (US-EPA, 1998). 
+4.2 Manure management
+There are several ways of managing animal manure, whichcan either be stored wet (e.g. slurry) or dry (e.g. farm yard
+manure). Methane emissions occur mainly when the manureis managed in liquid forms (lagoon or holding tanks) or remainwet. Generally, intensive livestock systems use liquid manure
+management due to the large quantity of manure producedand the method of collection (Reid et al., 2004). A typical
+system for large scale pig operations ar
+e lagoons (although
+not in Europe). Manure deposited on fields and pastures or
+otherwise handled in dry form do not produce significantamounts of methane (Reid et al., 2004). Emissions also
+depend on the animal’ 
+s diet: Higher energy feed produces
+manur e with more volatile solids, i.e. decomposable organic
+matter that may emit more GHG depending on surroundingenvironmental conditions. Pig production produces the largestshare of manure, followed by dairy (Steinfeld et al., 2006). If
+the liquid manur
+e is used for methane production (biogas
+plants) that is used for energy to replace fossil fuels then the
+net GHG emissions could be significantly less for pig
+production than ruminant production.4. Impacts of intensive animal
+farming on the global climate  
+©A Kirchhof/Greenpeace
+
+264.3 Use of agrochemicals
+GHG emissions associated with the production and use of
+fertiliser have been discussed is section 2. Intensive animal
+farming will have a high demand on the supply of feed crops,hence, furthering the use of fertiliser. Here, even crops that
+are associated with N fixing organisms (such as soybean) and
+require less additional nitrogen, are fertilised (Steinfeld et al.,
+2006). Feed cr 
+ops will also receive pesticides to ensure the
+protection against pests, which may reduce yields. The
+production of pesticides is also energy-intensive and hence
+adds to the overall GHG budget of intensive animal farming(Table 2) (Lal, 2004c).
+Intensive conventional farms may also make use of antibiotics
+as a preventive measure rather than for treating actual
+diseases. Considering the high density of livestock, this
+measure is perceived to be necessary to avoid the
+development of devastating epidemics. Furthermore, drugs,
+such as antibiotics and steroids, are often given to speed up
+the fattening process (Centner, 2003), though these are
+banned in some regions. These extra resources have
+associated energy and GHG costs.
+4.4 Land use
+Livestock is the world’s largest user of land with a shift from
+grazing to the consumption of feed crops. Industrial livestock
+systems are now often separated from feed crops and the
+end consumer to take advantage of lower costs and
+potentially less rigid environmental regulations (Naylor et al.,
+2005). This r
+esults in further emissions from transport. The
+great demand of feed and space for animal farming furthers
+cultivation of land, especially deforestation of rain forest.
+Generally, intensive farming uses more supplement feed
+rather than feeding the livestock on grassland (Eickhout et al.,
+2006). Some of these feeds ar
+e often not produced in the
+same country. Here, soya plays an important role as a highenergy feed for which Brazil is one of the main producingcountries (FAOSTAT, 2007). Intensive animal farming indirectlysupports the deforestation of Brazilian rain forest for soyaplantation (Fearnside, 2005) with some European countriesshowing a negative carbon / GHG balance due to livestockfeed imports (Janssens et al., 2005). On the other hand, the
+use of supplement feed for ruminants is known to r
+educe
+methane emissions from enteric fermentation (IPCC WGIIICh.8, 2007). The impact of feed crops can be reduced ifindustrial food waste (e.g. mash from ethanol production orresidue from vegetable oil milling), which is not suitable for
+human consumption, is used as animal feed. This approach
+covers about 70% of the animal feed in the Netherlands
+(Nonhebel, 2004).
+Intensive animal farming may also result in overgrazing of
+grassland, which may then reduce the carbon stocks and
+even lead to desertification (Steinfeld et al., 2006).
+4.5 Fossil Fuel use
+Energy consumption varies widely between different practicesand farming systems. Generally, more modern systems use
+the bulk of total energy input on the production of feed. Apart
+from fertiliser, this includes seed, pesticides, machinery andelectricity (water supply, heating, drying). The on-farm energy
+consumption of intensive systems can exceed the carbon
+dioxide emissions of the N fertiliser production.
+On the other hand, processing of the agricultural product may
+often be less efficient at a smaller scale, so that intensivesystems may conserve energy (Barrett et al., 2001). Generally,
+the dairy sector is one of the highest energy-consuming
+sectors due to pasteurization, cheese making and dried milk.
+Furthermor
+e, the required refrigerated transport is energy
+intensive and vehicles are often not loaded to full capacity(Steinfeld et al., 2006).
+4.6 Effect of increasing meat (and animal
+feed) demand on future agriculturalemissions of greenhouse gases
+Economic growth is usually accompanied by an increasing
+demand for meat, as more people can af ford it (Eickhout et al.,
+2006). In addition, populations are still increasing in developingcountries which will fuel an incr
+eased demand for food even in
+the absence of dietary changes. The UN predicts that the
+world population will continue to increase from the present
+about 6.5 billion and stabilise at over 9 billion (UN, 2004).4. Impacts on the global climate
+of intensive animal farming
+
+27
+©Greenpeace/D Beltrá
+Currently, meat consumption is still greater in developed
+countries than in developing countries (Table 7). However, thedemand for animal products is rapidly increasing indeveloping countries and rose from 11 to 24 kg capita
+-1yr-1
+during the period 1967-1997, corresponding to an annualgrowth rate of more than 5% (IPCC WGIII Ch.8, 2007). IPCC
+WGIII Ch.8 (2007) concluded that 
+•Growing demand for meat may induce further changes in
+land use (e.g., fr
+om forestland to grassland), often
+increasing CO 2emissions, and increased demand for
+animal feeds (e.g., cereals). Larger herds of beef cattle will
+cause increased emissions of CH 4and N 2O, although use
+of intensive systems (with lower emissions per unit
+product) is expected to increase faster than growth in
+grazing-based systems. This may attenuate the expected
+rise in GHG emissions.•Intensive production of beef, poultry, and pork is
+incr
+easingly common, leading to increases in manure 
+with consequent increases in GHG emissions. This is
+particularly true in the developing regions of South and
+East Asia, and Latin America, as well as in North America.
+(IPCC WGIII Ch.8, 2007)
+The FAO (2002) forecasts a further increase of 60 % in global
+meat demand by 2030, mostly in South and Southeast Asia,
+and Sub-Saharan Africa. The greatest increases in demandare expected for poultry (83% by 2020; Roy et al., 2002).
+Annual GHG emissions from agriculur
+e are expected to
+increase in the coming decades (included in the baseline) dueto escalating demands for food and shifts in diet (IPCC, WGIIICh.8, 2007).
+Table 7: Per capita food supply in developed and developing countries 
+Change 2000s/1960s
+1961-70 1971-80 1981-90 1991-00 2001-02 % cal day-1
+or g day-1
+1. Developed countries
+Energy, all sources (cal day-1) 3049 3181 3269 3223 3309 +9 261
+% from animal sources 27 28 28 27 26 -2 –
+Protein, all sources (g day-1) 92 97 101 99 100 +9 8
+% from animal sources 50 55 57 56 56 +12 –
+2. Developing countries
+Energy, all sources (cal day-1) 2032 2183 2443 2600 2657 +31 625
+% from animal sources 8 8 9 12 13 +77 –
+Protein, all sources (g day-1) 9 11 13 18 21 +123 12
+% from animal sources 18 20 22 28 30 +67 –
+Taken from IPCC 2007; Source: FAOSTAT, 2006. 
+
+The emissions of GHGs from agriculture depend on the
+combination of production system and site factors. The sameproduction system can have different impacts on different soiltypes, etc. On mineral soils, the amount of standing biomass(above - and below ground) and annual input of organicmatter to the soil will determine carbon storage. The most
+important carbon mitigation mechanism in the short term is to
+avoid deforestation, primarily in tropical countries (IPCC WGIII
+Ch.8, 2007). This strategy has other environmental benefits aswell. Any practice that can give rural income without more useof land, or by taking degraded land back into production,should therefore be encouraged. All benefits obtained on aper hectare basis of one land use type - have to be seen inconnection with the total area of land required to produce the amount of food or other product needed.
+Activities such as agr oforestry may be useful to increase soil
+fertility as well as carbon stocks (Cacho et al., 2003), though
+this depends on the initial land condition and use and the
+management methodology
+. The highest benefits can be
+obtained if degraded soils can be reclaimed (IPCC WGIIICh.8, 2007). Some estimates of carbon mitigation potentialare given by Bloomfield and Pearson (2000). Targeting small-
+holders for carbon sequestration programmes can be a good
+strategy, both in terms of carbon sequestration and povertyalleviation, but the transaction costs (administration,verification) may be higher for smallholdings (Cacho et al.,
+2003). Generally, forest projects are r elatively inexpensive and
+cost e.g. around 40 to 100 times less than Activities
+Implemented Jointly (AIJ) energy pr
+ojects (Table 8). However,
+forest projects are less standardised in regard to baselinesand actual costs so that values given in Table 8 should beconsidered with caution. It still becomes clear that a largerscale makes the costs much more economic with the biggestproject (target area 750 km
+2) costing much less (0.25 $ Mg
+CO 2-1) compared to the smaller projects (10 – 60 km2) at a
+price of around $ 3.5 per Mg of carbon dioxide.Smallholder farms may often store more carbon thancommercial arable agriculture due to more trees (Roshetko et
+al., 2002), but it is not known if they also use a larger area topr
+oduce the same amount of food (see below).
+There are not many studies where small scale and intensivefarming systems are compared. Mrini et al., (2002) compares
+energy use under traditional and intensive farming systems inMor 
+occo, and concludes that the energy use is less in the
+traditional system, which uses less energy per unit produced(0.73 and 1.10 MJ kg
+-1respectively). The main reason for the
+difference in energy use between the two systems was the
+irrigation system used. However, they also compared their
+results with other studies of intensive and traditional farmingsystems, and they found that generally, the traditional farmingsystems used less energy per unit of product. Although it canbe difficult to compare systems, it does suggest thattraditional systems may be more energy efficient (at least
+measured on per product rather than per ha basis). The
+reasoning for this may be less use of machinery.
+In developed countries, organic agriculture has been
+championed as the most sustainable form of agriculture.
+Williams et al., (2006) performed a life cycle analysis of the
+global warming potential of some food products in Englandand Wales (T
+able 9). They found clear GHGs benefits for
+some products, but not all. While organic milk, eggs andpoultry showed no benefits in terms of GHGs, organic wheat
+bread, oil seed rape and potatoes showed benefits (lower
+global warming potential) than conventional ones (Table 9,Williams et al., 2006).
+285. Greenhouse gas emissions from intensive
+versus non-intensive agricultural practices
+
+29
+©Greenpeace/R Baléia
+Table 8: A selection of AIJ (Activities Implemented Jointly) reforestation projects.
+Project: Profafor Scolel  Te Klinki SIF Virilla
+Country Ecuador Mexico Costa Rica Chile Costa Rica
+Land type Andean highlands Highland  Pastures and Pastures and Pastures
+(>2800m) and lowland marginal farmland
+tropical 
+communities
+Duration (yr) 25 30 25 51 25
+Target area (km2) 750 20 60 70 10
+Area planted (km2) 225 5 0.48 na 1.31
+CO 2sequestered (Tg) 35 1.21 7.22 1.41 0.85
+CO 2per year (Pg km-1yr-1) 0.0019 0.002 0.0048 0.0002 0.0009
+Project cost ($1000) 8810 3681 10703 20600 3395
+Annual cost ($ km-2yr-1) 470 613.5 387.8 577.0 13,581
+Carbon cost ($/Mg CO 2) 0.25 3.05 1.47 14.61 4.02
+They show examples of the benefits that can be obtained in terms of carbon sequestration, as well as the costs (from Cacho et al., 2003).Organic field crops and animal products generally consume
+less primary energy than non-organic counterparts, owing in
+part to the use of legumes to fix N rather than fuel to make
+synthetic fertilisers (Williams et al., 2006). In relation to this,
+many studies have found that the emissions r
+elated to crop
+production are lower in organic farms than in conventional
+farms when measured as a per hectare basis, but this
+advantage of organic production is less clear in units of crop
+yield, since yields are lower for some crops in organic farms(Flessa et al., 2001, Tzilivakis et al., 2005, Petersen et al.,
+2006).
+Organic farmers usually apply practices that pr
+omote carbon
+sequestration in the soil and could favour GHG savings fr om
+organic cropping. Common organic practices like the use of
+cover crops, growing trees and shrubs around croplands andavoiding bare soils are all proposed mitigation options foragriculture (IPCC WGIII Ch.8, 2007) already in place in many
+organic farms worldwide. More scientific research is needed
+to evaluate the specific carbon benefits of these practices in
+organic farms.Table 9: Global warming potential (CO 2
+equivalents) for some foods produced
+organically and non-organically.
+Non-organic Organic
+(g CO 2) (g CO 2)
+Wheat bread (kg) 804 786
+Oil seed rape (kg) 1,710 1,620
+Potatoes (kg) 215 199
+Poultry (kg) 4,570 6,680
+Eggs (20) 5530 7000
+Milk (10 l) 10,600 12,300
+(Williams et al., 2006)
+
+Agriculture has a significant mitigation potential, which could
+change the position of agriculture from one of the largestemitters to a much smaller emitter or even a net sink. Thepotential has been estimated by several researchers and hasbeen summarised by the IPCC, 2007 (Figure 8). Mitigation isdefined by the IPPC WGIII (2007) as a technological change or
+substitution which reduces the GHG emissions or enhances
+carbon sinks. The potential can be calculated by comparing the
+current or projected emissions/sink under a given baseline (e.g.business as usual with no mitigation put in place) with theemissions/sink occurring if a change in management (i.e.mitigation) were put in place. Much of the information containedin this section is drawn from IPCC WGIII Ch.8 (2007).The most recent estimate of mitigation potential fromagriculture by Smith et al., (2007), which is also one of the 
+only two global estimates, gives a maximum global mitigationpotential of 6 Pg CO
+2-eq yr-1. However, not all of the technical
+potential can be realised. The economic potential is amaximum of 4.3 Pg CO
+2-eq yr-1at a carbon price of 100 
+US$ t CO 2-eq (Smith et al., in press). Here, by far the 
+gr
+eatest mitigation contribution originates from soil carbon
+sequestration (89%) and only some potential in mitigatingmethane (9%) and nitrous oxide (2%) emissions (Smith et al.,
+in pr 
+ess) (Figure 8).
+306. Potential for the mitigation of greenhouse
+gas emissions from agriculture 
+-20002004006008001000120014001600
+Rice managemnt
+Restore degraded lands
+Restore cultivated organic soilsGrazing land managementCropland managementManure management
+Set aside. LUC & agroforestryWater management
+Bioenergy (soils component)LivestockCO2
+CH4
+N2O
+Mitigation measureFigure 8. Global technical mitigation potential by 2030 of each agricultural 
+management practice showing the impacts of each practice on each GHG.
+Global technical mitigation potential by 2030 of each agricultural management practice showing the impacts of each practice on each GHG (taken fr om IPCC,
+2007); 1000 Mt = 1 Pg. Source: Drawn from data in Smith et al., 2007. 
+
+31
+©Greenpeace/E De Abr eu
+Generally, the impact of mitigation measures is very versatile.
+They can act on mainly one GHG or more than one GHG. Inthe latter case, there may be positive impacts on more thanone GHG, or there may be trade-offs between gases.Consequently, a combined effect of all the gases has to beconsidered. In addition, the effectiveness will depend on
+region and climate (with the exception of livestock mitigation)
+so that the same measure may have opposite effects in
+different parts of the globe. The length of mitigation impactwill also vary, with some effects being indefinite and othersreaching saturation over time. This means that mitigationpractices are not universally applicable but need to beassessed individually for each agricultural environment (IPCCWGIII Ch.8, 2007). In the following sections, the potential ofseveral mitigation options is described separately. Generally,several options may operate via similar mechanisms.
+Where a practice affects radiative forcing through other
+mechanisms such as aerosols or albedo, those impacts also
+need to be considered (Marland et al., 2003; Andreae et al.,
+2005), though these impacts ar
+e small relative to the impact
+on GHGs.
+6.1 Mitigation potential from increasing
+carbon sinks. 
+There are several options to increase carbon sinks; these can
+be divided into two main approaches: 1) restoration of naturalvegetation and 2) sustainable management practices of thefarmed land. 
+6.1.1 Restoration of natural vegetation
+Croplands contain the lowest concentration of carbon (apartfrom deserts and semideserts) compared to any other landuse (Table 5 & Figure 5). Therefore, the reversion of croplandto another land cover, typically one similar to the nativevegetation is one of the most effective methods of reducingemissions / increasing carbon sinks. Considering that theopposite land use change, from natural to cropland
+contributes considerably (20%) to global GHG emissions, itwould also be desirable to conserve the current naturalvegetation. Generally, land use change is limited by the available land,which is usually limited to surplus agricultural land or
+croplands of marginal productivity. A conversion may either
+occur “over the entire land area (set-asides or abandonedfarms)”, or “in localized spots, such as grassed waterways,field margins, or shelterbelts” (Follett, 2001; Freibauer et al.,
+2004; Lal, 2004b; Falloon et al., 2004; Ogle et al., 2003)”.
+W
+ithin the restoration of natural vegetation one can
+distinguish between two fundamentally different types: 
+a) dry vegetation and b) wetlands.
+The conversion of arable cropland to grassland or for est
+typically acts as a carbon sink (Guo and Gifford, 2002). 
+This is a result of less soil disturbance and reduced carbon
+removal, which would usually take place in the form of
+harvest. Uncultivated grasslands and forests will also usually
+emit less N 2O provided that the previous cropland was
+fertilised, higher rates of CH 4oxidation, but recovery of
+oxidation may be slow (Paustian et al., 2004).
+Converting drained cr
+oplands back to wetlands can result in
+an even greater carbon sink (Table 5 & Figure 5 ). On the
+other hand it may stimulate CH 4emissions because water-
+logging creates anaerobic conditions (Paustian et al., 2004). 
+6.1.2 Sustainable management practices 
+The low carbon concentration in croplands (Table 5) means
+that it has a great potential to increase in carbon content
+through beneficial management practices. In contrast, grazing
+lands already have higher carbon stocks as they are usuallyless intensely managed and disturbed. General approaches toincrease soil carbon stocks in croplands are: 
+•Increase of yield
+•Reduction of soil disturbance
+•Agroforestry
+•Avoiding bare soil. 
+
+Increase of yield:
+An increased yield will also increase the amount of carbon
+that is sequester
+ed by the plant and released into the soil
+during growth, or when incorporating plant residues into the
+soil. Furthermore, less land may be required, which may then
+be available for land use change to natural vegetation, asdiscussed above. 
+Apart from fertilisation (discussed below), there are several
+means through which the crop yield can be increased. These
+include water management, improved locally adapted cropvarieties, and the introduction of legumes into grassland. The
+effectiveness of irrigation will depend on the energy that is
+required to deliver the water and its availability. Furthermore,
+soil with higher water content may also be a greater source of
+nitrous oxide (Liebig et al., 2005, Schlesinger 1999, Mosier et
+al., 2005, Follett, 2001; Lal, 2004a). Crop varieties could be
+improved in a number of ways to increase their yield, which
+may not necessarily incr
+ease the net photosynthesis but
+addresses other issues. The crop could, e.g., have a greaterwater or nutrient use efficiency, increasing the yield at thesame input, or enabling a reduction in external inputs, and theassociated energy required to supply this input whilst
+maintaining the same yield. For example, water intensive
+varieties of maize could be replace by other locally adaptedvarieties that need less water or nutrients and produce thesame yield. Similarly, the introduction of leguminous species
+into grassland will increase the productivity or reduce the
+amount of fertiliser that is required (Sisti et al., 2004; Diekow
+et al., 2005, Soussana et al., 2004).
+Reduction of soil disturbance and residue management:
+Soil disturbance by tillage aerates the soil which enhances
+micr
+obial decomposition, and hence the loss of carbon. The
+traffic by machinery or livestock and the tillage will also lead tosoil erosion and compactions and poor drainage. Thesedisturbances can be reduced by minimal (conservation) or notill practices and less intensive grazing. The carbon benefitsfrom no-till agriculture may be offset by increasing reliance inherbicides and machinery (both practices contribute to GHGemissions) and may affect biodiversity negatively (CBDTechnical series no. 10).With regard to grazing, there is an optimal stocking rate, atwhich the carbon accrual will be greater than on ungrazedland. (Liebig et al., 2005; Rice and Owensby, 2001). The
+ef
+fects are inconsistent, however, owing to the many types of
+grazing practices employed and the diversity of plant species,
+soils, and climates involved (Schuman et al., 2001; Derner et
+al., 2006). The influence of grazing intensity on emission of
+non-CO 2gases is not well-established, apart from the direct
+effects on emissions from adjustments in livestock numbers.
+Systems that retain crop residues also tend to increase soil
+carbon because these residues are the precursors for soil
+organic matter, the main carbon store in soil. Avoiding the
+burning of residues (e.g., mechanising sugarcane harvesting,
+eliminating the need for pre-harvest burning (Cerri et al., 2004)
+also avoids emissions of aer
+osols and GHGs generated from
+fire, although CO 2emissions from fuel use may increase
+(IPCC WGIII Ch.8, 2007). 
+Agro-forestry: 
+Agro-forestry is the pr oduction of livestock or food crops on
+land that also grows trees for timber, firewood, or other tree
+products. It includes shelter belts and riparian zones/buffer
+strips with woody species. The standing stock of carbonabove ground is usually higher than the equivalent land use
+without trees, and planting trees may also increase soil
+carbon sequestration (Oelbermann et al., 2004; Guo and
+Giffor 
+d, 2002; Mutuo et al., 2005; Paul et al., 2003). But the
+ef
+fects on N 2O and CH 4emissions are not well known
+(Albrecht and Kandji, 2003).
+Avoiding bare soil:
+Bare soil is prone to erosion and nutrient leaching. In regard
+to soil carbon it will always be lower than the same crop with
+vegetation due to the carbon in the above and belowgr
+ound
+biomass. This can be reduced by using “catch” and “cover”crops which will cover the soil in between the actual crop or in
+fallow periods, respectively. (Barthès et al., 2004; Freibauer et
+al., 2004)
+326. Potential for the mitigation of greenhouse
+gas emissions from agriculture 
+
+33
+©Greenpeace/P Reynaers
+The sequestration of carbon into agricultural soils contributes
+the largest part (89%) of the total agricultural mitigationpotential (Smith et al., 2007). Here, management practices will
+be able to stor 
+e more than twice as much carbon than land
+use change to wetland and other natural vegetation. This is
+due to the greater proportion of land available for thismanagement change. Within land use change, restoration oforganic soils contributes by far the greatest mitigation
+potential due to the high per-area potential.
+6.1.3 Mitigation potential from grazing
+land, livestock, and manure management 
+Grazing land management
+The management of grazing land for the mitigation of carbon
+emissions has been partly cover
+ed in the previous section. An
+additional significant practice is the management of fire ongrasslands. This is carried out to renew the grass. The fireitself will release GHGs as well as reactive hydrocarbon andnitrogen gases. The smoke aerosols will also have a complexeffect on the atmosphere. The effect on woody biomass canbe either positive or negative, depending on the occurrence of
+spontaneous fires or the purpose of the fire to clear woodybiomass. Therefore, the mitigation can either involve 1) the
+reduction of the frequency or extent of fires through moreeffective fire suppression; 2) or the reduction of the fuel loadby vegetation management; and burning at a time of year
+when less CH
+4and N 2O are emitted (Korontzi et al., 2003).
+Although most agricultural-zone fires ar
+e ignited by humans,
+there is evidence that the area burned is ultimately underclimatic control (Van Wilgen et al., 2004). In the absence of
+human ignition, the fir 
+e-prone ecosystems would still burn as
+a result of climatic factors. Reducing the frequency orintensity of fires typically leads to increased tree and shrubcover, resulting in a CO
+2sink in soil and biomass (Scholes and
+van der Merwe, 1996). This woody-plant encroachmentmechanism saturates over 20-50 years, whereas avoided CH
+4
+and N 2O emissions continue as long as fires are suppressed.Livestock management
+There are several approaches by which the direct livestock
+emissions can be r
+educed.
+Improved feeding practices: Methane emissions can be 
+reduced by feeding more concentrates, normally replacing
+forages (Blaxter and Claperton, 1965; Johnson and Johnson,1995; Lovett et al., 2003; Beauchemin and McGinn, 2005).
+Although concentrates may incr 
+ease daily methane emissions
+per animal, emissions per kg-feed intake and per kg-product are
+almost invariably reduced. The magnitude of this reduction per
+kg-product decreases as production increases. The net benefitof concentrates, however, depends on reduced animal numbersor younger age at slaughter for beef animals, and on how the
+practice affects land use, the N content of manure and emissions
+from producing and transporting the concentrates (Phetteplace
+et al., 2001; Lovett et al., 2006). Other practices that can reduce
+CH
+4emissions include: adding certain oils or oilseeds to the diet
+(e.g., Machmüller et al., 2000; Jordan et al., 2006); improving
+pasture quality
+, especially in less developed regions, because this
+improves animal productivity, and reduces the proportion ofenergy lost as CH
+4(Leng, 1991; McCrabb et al., 1998; Alcock
+and Hegarty
+, 2006); and optimising protein intake to reduce N
+excretion and N 2O emissions (Clark et al., 2005).
+Specific agents and dietary additives: A wide range of specific
+agents, mostly aimed at suppr
+essing methanogenesis, has
+been proposed as dietary additives to r educe CH 4emissions.
+They include vaccines (Wright et al., 2004), probiotics(McGinn et al., 2004), halogenated compounds (Wolin et al.,
+1964; V 
+an Nevel and Demeyer, 1995), ionophores (Benz and
+Johnson, 1982; Van Nevel and Demeyer, 1996; McGinn et al.,
+2004), and others. Some of them ar
+e still under development
+and their indirect effects for health and the environment are
+not certain (Steinfeld et al., 2006).
+Longer-term management changes and animal breeding:
+Increasing productivity through breeding and bettermanagement practices, such as a reduction in the number of
+r
+eplacement heifers, often reduces methane output per unit of
+animal product (Boadi et al., 2004). Although selecting cattle
+dir
+ectly for reduced methane production has been proposed
+(Kebreab et al., 2006), it is still impractical due to difficulties in 
+
+accurately measuring methane emissions at a magnitude
+suitable for breeding programmes. With improved efficiency,meat-producing animals reach slaughter weight at a youngerage, with reduced lifetime emissions (Lovett and O’Mara, 2002).However, the whole-system effects of such practices may notalways lead to reduced emissions. For example in dairy cattle,
+intensive selection for higher yield may reduce fertility, requiring
+more replacement heifers in the herd (Lovett et al., 2006).
+Manure management
+Animal manures can release significant amounts of N
+2O and
+CH 4during storage, but the magnitude of these emissions
+varies. Methane emissions from manure stored in lagoons or
+tanks can be reduced by cooling, use of solid covers,mechanically separating solids from slurry, or by capturing theCH
+4emitted (Amon et al., 2006; Clemens and Ahlgrimm, 2001;
+Monteny et al., 2001, 2006; Paustian et al., 2004). Themanur 
+es can also be digested anaerobically to maximise CH 4
+retrieval as a renewable energy source (Clemens andAhlgrimm, 2001; Clemens et al., 2006). Handling manur es in
+solid form (e.g., composting) rather than liquid form cansuppr 
+ess CH 4emissions, but may increase N 2O formation
+(Paustian et al., 2004). Preliminary evidence suggests that
+covering manur
+e heaps can reduce N 2O emissions, but the
+effect of this practice on CH 4emissions is variable (Chadwick,
+2005). For most animals worldwide there is limited opportunity
+for manure management, treatment, or storage; excretionhappens in the field and handling for fuel or fertility amendmentoccurs when it is dry and methane emissions are negligible(Gonzalez-Avalos and Ruiz-Suarez, 2001). To some extent,emissions from manure might be curtailed by altering feedingpractices (Külling et al., 2003; Hindrichsen et al., 2006; Kreuzer
+and Hindrichsen, 2006), or by composting the manur
+e (Pattey
+et al., 2005; Amon et al., 2001), but if aeration is inadequate
+CH 4emissions during composting can still be substantial (Xu et
+al., 2007). All of these practices require further study from the
+perspective of their impact on whole life-cycle GHG emissions.
+In comparison with managing cr
+oplands and grassland as
+carbon sinks, the direct potential carbon mitigation by
+livestock management is relatively small (only 10% rather than89%). However, livestock require feed and as such have anindirect effect on cropland and grassland management.6.1.4 Other mitigation possibilities and
+implications for sustainable development.
+There are several other mitigation potentials that have not been
+covered by the previous points and will be discussed here.
+Rice management 
+Cultivated wetland rice soils emit significant quantities of
+methane (Y
+an et al., 2003). Emissions during the growing season
+can be reduced by various practices (Y
+agi et al., 1997;
+W
+assmann et al., 2000; Aulakh et al., 2001). For example,
+draining wetland rice once or several times during the gr
+owing
+season reduces CH 4emissions (Smith and Conen, 2004; Yan et
+al., 2003; Khalil and Shearer, 2006). This benefit, however , may
+be partly offset by increased N 2O emissions (Akiyama et al.,
+2005), and the practice may be constrained by water supply .
+Rice cultivars with low exudation rates could of
+fer an important
+methane mitigation option (Aulakh et al., 2001). In the off-rice
+season, methane emissions can be reduced by improved water
+management, especially by keeping the soil as dry as possible
+and avoiding water
+-logging (Cai et al., 2000, 2003; Kang et al.,
+2002; Xu et al., 2003). Increasing rice productivity can alsoenhance soil organic carbon stocks (Pan et al., 2006). Methane
+emissions can be r 
+educed by adjusting the timing of organic
+residue additions (e.g., incorporating organic materials in the dry
+period rather than in flooded periods; Xu et al., 2000; Cai and
+Xu, 2004), by composting the residues before incorporation, or
+by producing biogas for use as fuel for energy production (Wang
+and Shangguan, 1996; W
+assmann et al., 2000).
+The system of rice intensification (SRI) was developed in
+Madagascar to help farmers increase rice production without
+extra inputs (Stoop and Kassam, 2006). The cultivation system
+involves gr
+owing the rice plants widely spaced without flooding
+and with only organic amendments as fertilisers. There areanecdotal reports of high yield using the system (Uphoff, 2004).
+However, the merits of the system remain controversial (Sinclair ,
+2004). No investigation of the GHG emission from the system
+are known to us, but based on general knowledge about thepractices that promote and reduce emissions we predict that
+methane emissions will be greatly reduced, as it is not flooded.
+Some nitrous oxide emissions are expected, but they may not
+be large as mineral nitrogen is not added. Organic amendments
+may increase nitrous oxide emissions, but this is not always
+346. Potential for the mitigation of greenhouse
+gas emissions from agriculture 
+
+35
+©Greenpeace/B Edwar ds
+observed (Wassmann et al., 2004). The most important point
+may be the downstr
+eam effects. Sinclair (2004) notes that large
+quantities of organic fertilisers are needed to maintain high yields.It is important from the point of view of a total GHG balance,where and how this organic material is grown.
+Management of organic/peaty soils
+Organic or peaty soils contain high densities of carbon
+accumulated over many centuries because decomposition issuppr
+essed by absence of oxygen under flooded conditions. To
+be used for agriculture, these soils are drained, which aerates thesoil, favouring decomposition, and therefore high CO
+2and N 2O
+fluxes. Methane emissions are usually suppressed after draining,but this effect is far outweighed by pronounced incr eases in N
+2O
+and CO 2(Kasimir-Klemedtsson et al., 1997). Emissions fr om
+drained organic soils can be r
+educed to some extent by practices
+such as avoiding row crops and tubers, avoiding deep ploughing,and maintaining a shallower water table. But the most important
+mitigation practice is avoiding the drainage of these soils in the first
+place or re-establishing a high water table (Freibauer et al., 2004).
+Restoration of degraded lands
+A large proportion of agricultural lands has been degraded by
+excessive disturbance, er
+osion, organic matter loss, salinisation,
+acidification, or other processes that curtail productivity (Batjes,1999; Foley et al., 2005; Lal, 2001a, 2003, 2004b). Often,carbon storage in these soils can be partly r
+estored by practices
+that reclaim productivity including: re-vegetation (e.g., plantinggrasses); improving fertility by nutrient amendments; applyingorganic substrates such as manures, biosolids, and composts;reducing tillage and retaining crop residues; and conservingwater (Lal, 2001b; 2004b; Bruce et al., 1999; Olsson and Ardö,
+2002; Paustian et al., 2004). Where these practices involve
+higher nitrogen amendments, the benefits of carbonsequestration may be partly of
+fset by higher N 2O emissions.6.2 Mitigation potential from fertiliser
+management, especially from improvedefficiency and reduced over-use of fertilisers 
+The addition of fertiliser increases crop productivity but may also
+increase nitrous oxide emissions. Therefore, crop fertilisationcan be positive or negative in regard to the total GHG budget.
+The effect of increased productivity has been discussed
+earlier and as such the addition of fertiliser will have the 
+same mitigation potential if the cropland is nutrient deficient(Schnabel et al., 2001; Conant et al., 2001). As such, fertiliser
+additions will have a beneficial ef
+fect in extremely nutrient
+deficient regions like large parts of Africa (Sanchez, 2002).
+However, the use of fertiliser will equally generate more GHGemissions during production (CO
+2) (Schlesinger, 1999; Pérez-
+Ramírez et al., 2003; Robertson, 2004; Gregorich et al.,
+2005), and often after application (N 2O) (Conant et al., 2005)
+ther
+eby offsetting some of the benefits. 
+The reduction of the reliance on fertilisers by adopting
+cropping systems that maintain high yields has a high
+mitigation potential (Paustian et al., 2004). An importantexample is the use of r 
+otations with legume crops (West 
+and Post, 2002; Izaurralde et al., 2001). This reduces ther 
+equirement of external N inputs although legume-derived N
+can also be a source of N 2O (Rochette and Janzen, 2005).
+This approach is usually acquired by organic practices.
+Nitrogen applied in fertilisers (but also other input such as
+manur es) is not always used efficiently by crops (Galloway et
+al., 2003; Cassman et al., 2003). The surplus N is particularlysusceptible to emission of N
+2O (McSwiney and Robertson,
+2005). Consequently, improving N use efficiency can reduceN
+2O emissions and indirectly reduce GHG emissions from N
+fertiliser manufacture (Schlesinger, 1999). By reducing leachingand volatile losses, improved efficiency of N use can also
+reduce off-site N
+2O emissions. Practices that improve N use
+efficiency include: adjusting application rates based on precise
+estimation of crop needs (e.g., precision farming); using slow-or controlled-release fertiliser forms or nitrification inhibitors
+(which slow the microbial processes leading to N
+2O formation);
+applying N when least susceptible to loss, often just prior to
+
+plant uptake (improved timing); placing the N more precisely
+into the soil to make it more accessible to crops’ roots; oravoiding N applications in excess of immediate plantrequirements (Robertson, 2004; Dalal et al., 2003; Paustian et
+al., 2004; Cole et al., 1997; Monteny et al., 2006).
+Generally 
+, fertiliser production has a potential to reduce its
+global GHG emissions by more than half from 0.283 to 0.119
+Pg CO 2-eq yr-1. Improvements would be related to greater
+energy efficiency in ammonia plants (29%), introduction ofnew nitrous oxide reduction technology (32%) and othergeneral energy-saving measures in plants (39%) (Kongshaug,
+1998).
+6.3 Changing diet and consumption
+patterns – impact of consuming less meat
+A vegetarian diet produces much less GHG over a lifetime.
+The average consumption of grain and forage for productionof one kg of animal products in Table 10 shows that
+producing lamb and beef requires between four and ten times
+more grain than producing pigs or chicken (see details Table
+10). For ruminants, methane production further increasesGHG emissions per unit of food. Therefore, the consumption
+of less meat will save GHG, and so will consuming poultry
+instead of beef or lamb (Table 10). The average amount of
+kcal fossil energy used per kcal of meat produced is 25. This
+is more than 11 times that of plant-based products, with anaverage input/output ratio of 2.2 (Pimentel and Pimentel,2003). Using numbers from Pimentel and Pimentel (2003) wecalculated that 385 kcal of fossil fuel per person per daycould be saved by substituting just 5% of the meat in the dietwith vegetarian products, assuming an average US diet asbaseline. Considering that fossil fuels emit different amountsof CO
+2per kcal (Sims et al., 2006), this amounts to between
+95 and 126 g of CO 2.
+Foster et al., (2006) calculate that the energy needed to
+pr
+oduce one kg of sheep meat is 23 MJ, one kg of poultry 
+is 12 MJ and one kg of potatoes is 1.3 MJ in the UK. Whilstboth a plant-based and a meat-based diet in developedcountries require significant quantities of non-renewable fossilfuel, a meat based diet requires more (Pimentel and Pimentel,2003) (T able 11). If developing countries were to eat as muchmeat as developed countries per capita, the amount ofagricultural land required world wide would be about twothirds larger than today (Jackson et al., 2005). For individuals
+wishing to r
+educe their GHG footprint, adopting a vegetarian
+diet, or at least reducing the quantity of meat products in thediet, would have beneficial GHG impacts.
+Table 10: Average consumption of grain
+and forage (kg) for production of one kg 
+of animal product in US agriculture.
+Livestock Grain Forage
+Lamb 21 30
+Beef cattle 13 30
+Eggs 11
+Swine 5.9
+Turkey 3.8
+Broiler 2.3
+Dairy (milk) 0.7 1
+(US department of Agriculture, 2001)
+Table 11: Global warming potential of the
+main meat categories, as well as milk andselected plant products for comparison.
+Product Global warming potential
+kg CO 2-eq per kg of product
+Sheep 17.4
+Beef 12.98
+Pig 6.35
+Poultry 4.57
+Milk 1.32
+Bread wheat 0.80
+Potato 0.21
+(kg CO2equivalents on a 100 year time scale per kg product). Calculations
+were based on UK data (Foster et al., 2006).
+366. Potential for the mitigation of greenhouse
+gas emissions from agriculture 
+
+377. References
+Akiyama H., Yagi K. and Yan X. (2005). Direct N 2O emissions from rice paddy
+fields: summary of available data. Global Biogeochemical Cycles 19.
+Albrecht A. and Kandji S.T. (2003). Carbon sequestration in tropical agroforestry
+systems. Agriculture, Ecosystems and Environment 99, 15-27.
+Alcock D. and Hegarty R.S. (2006) 'Effects of pasture improvement on
+pr
+oductivity, gross margin and methane emissions of a grazing sheep
+enterprise.' (Elsevier: The Netherlands).
+Amon B., Amon T., Boxberger J. and Wagner-Alt C. (2001). Emissions of NH 3,
+N2O and CH 4from dairy cows housed in a farmyard manure tying stall (housing,
+manure storage, manure spreading). Nutrient Cycling in Agro-Ecosystems 60,
+103-113.Amon B., Kryvoruchko V
+., Amon T. and Zechmeister-Boltenstern S. (2006).
+Methane, nitrous oxide and ammonia emissions during storage and after
+application of dairy cattle slurry and influence of slurry treatment. Agricultur e,
+Ecosystems & Envir
+onment 112, 153-162.
+Andreae M.O., Jones C. and Cox P .M. (2005). Strong present-day aer
+osol
+cooling implies a hot futur e. Nature 435, 1187.
+Aulakh M.S., W
+assmann R., Bueno C. and Rennenberg H. (2001). Impact of
+root exudates of different cultivars and plant development stages of rice (Oryzasativa L.) on methane production in a paddy soil. Plant and Soil 230, 77-86.
+Barrett C.B., Barbier E.B. and Reardon T. (2001). Agroindustrialization,
+globalization, and international development: the envir
+onmental implications.
+Environment and Development Economics 6, 419-433.
+Barthès B., Azontonde A., Blanchart E., Girar
+din C., Villenave C., Lesaint S.,
+Oliver R. and Feller C. (2004). Effect of legume cover crop (Mucuna pruriens
+var. utilis) on soil carbon in an Ultisol under maize cultivation in souther n Benin.
+Soil Use and Management 20, 231-239.
+Batjes N.H. (1999). Management options for reducing CO 2-concentrations in
+the atmosphere by increasing carbon sequestration in the soil. Dutch NationalResearch Programme on Global Air Pollution and Climate Change, Project
+executed by the International Soil Reference and Information Centre,Wageningen, The Netherlands.
+Batjes N.H. (2004). Soil carbon stocks and projected changes according to
+land use and management: A case study for Kenya. Soil Use and Management
+20, 350-356.
+Bauman D.E. (1992). Bovine somatotr
+opin review of an emerging animal
+technology . Journal of Dairy Science 75, 3432-3451.
+Beauchemin K. and McGinn S. (2005). Methane emissions fr
+om feedlot cattle
+fed barley or corn diets. Journal of Animal Science 83, 653-661.
+Benz D.A. and Johnson D.E. (1982). The ef
+fect of monensin on energy
+partitioning by forage fed steers. Proceedings of the West Section of the
+American Society of Animal Science 33, 60.
+Blaxter K.L. and Claperton J.L. (1965). Pr
+ediction of the amount of methane
+produced by ruminants. British Journal of Nutrition 19, 511-522.
+Bloomfield J. and Pearson H.L. (2000). Land Use, Land-Use Change, For
+estry,
+and Agricultural Activities in the Clean Development Mechanism: Estimates ofGreenhouse Gas Offset Potential. Mitigation and Adaptation Strategies for
+Global Change 5, 9-24.
+Boadi D., Benchaar C., Chiquette J. and Massé D. (2004). Mitigation strategies
+to r
+educe enteric methane emissions from dairy cows update review. Canadian
+Jour
+nal of Animal Science 84, 319-335.
+Br
+entrup F., Küsters J., Lammel J., Barraclough P . and Kuhlmann H. (2004).
+Environmental impact assessment of agricultural production systems using the
+life cycle assessment (LCA) methodology II. The application to N fertilizer use inwinter wheat production systems. European Journal of Agronomy 20, 265-279.
+Bruce J.P
+., Frome M., Haites E., Janzen H., Lal R. and Paustian K. (1999).
+Carbon sequestration in soils. Journal of Soil and W ater Conservation 54, 382-
+389.
+Cacho O.C., Marshall G.R. and Milne M. (2003). Smallholder Agr oforestry
+Projects: Potential for Carbon Sequestration and Poverty Alleviation. ESA
+W
+orking paper N. 03-06.
+Cai Z.C., T suruta H., Gao M., Xu H. and W ei C.F . (2003). Options for mitigating
+methane emission from a permanently flooded rice field. Global Change Biology
+9, 37-45.Cai Z.C., T suruta H. and Minami K. (2000). Methane emissions from rice fields
+in China measur
+ements and influencing factors. Journal of Geophysical
+Resear ch105, 17231-17242.
+Cai Z.C. and Xu H. (2004) 'Options for mitigating CH 4emissions from rice fields
+in China.' (Tsukuba).Carter C., Finley W., Fry J., Jackson D. and Wills L. (2007). Palm oil markets
+and future supply. European Journal of Lipid Science and Technology 109,
+307-314.
+Casey J.W
+. and Holden N.M. (2005). The Relationship between Greenhouse
+Gas Emissions and the Intensity of Milk Production in Ireland pp. 429-436.Casey J.W. and Holden N.M. (2006). Greenhouse Gas Emissions from
+Conventional, Agri-Environmental Scheme, and Organic Irish Suckler-Beef
+Units pp. 231-239.
+Cassman K.G., Dobermann A., Walters D.T. and Yang H. (2003). Meeting
+cereal demand while protecting natural resources and improving environmental
+quality . Annual Review of Environment and Resources 28, 315-358.
+Centner T.J. (2003). Regulating concentrated animal feeding operations to
+enhance the envir
+onment. Environmental Science & Policy 6, 433-440.
+Cerri, C.C., M. Ber
+noux, C.E.P . Cerri, and C. Feller, (2004). Carbon cycling and
+sequestration opportunities in South America: the case of Brazil. Soil Use and
+Management, 20, 248-254.
+Cerri C.E.P
+., Sparovek G., Bernoux M., Easterling W.E., Melillo J.M. and Cerri
+C.C. (2007). Tropical agriculture and global warming: Impacts and mitigation
+options. Scientia Agricola 64, 83-99.
+Chadwick D.R. (2005). Emissions of ammonia, nitrous oxide and methane fr
+om
+cattle manure heaps effect of compaction and covering. Atmospheric
+Envir
+onment 39, 787-799.
+
+Chokkalingam U., Suyanto, Suyanto, Permana R., Kurniawan I., Mannes J.,
+Darmawan A., Khususyiah N. and Susanto R. (2007). Community fire use,
+resource change, and livelihood impacts: The downward spiral in the wetlands
+of southern Sumatra. Mitigation and Adaptation Strategies for Global Change
+12, 75-100.
+Clark H., Pinar
+es C. and de Klein C. (2005) 'Methane and nitrous oxide
+emissions from grazed grasslands.' (Wageningen Academic Publishers:
+Wageningen, The Netherlands).
+Clemens J. and Ahlgrimm H.J. (2001). Greenhouse gases from animal
+husbandry - mitigation options. Nutrient Cycling in Agroecosystems, 60.
+Clemens J., T
+rimborn M., Weiland P . and Amon B. (2006). Mitigation of
+greenhouse gas emissions by anaerobic digestion of cattle slurry. Agriculture,
+Ecosystems and Envir
+onment 112, 171-177.
+Clements D.R., Weise S.F., Brown R., Stonehouse D.P
+., Hume D.J. and
+Swanton C.J. (1995). Energy analysis of tillage and herbicide inputs inalternative weed management systems. Agriculture, Ecosystems &
+Envir 
+onment 52, 119-128.
+Cole C.V
+., Duxbury J., Freney J., Heinemeyer O., Minami K., Mosier A.,
+Paustian K., Rosenberg N., Sampson N., Sauerbeck D. and Zhao Q. (1997).Global estimates of potential mitigation of greenhouse gas emissions byagriculture. Nutrient Cycling in Agroecosystems 49, 221-228.
+Conant R.T., Paustian K., Del Grosso S.J. and Parton W
+.J. (2005). Nitrogen
+pools and fluxes in grassland soils sequestering carbon. Nutrient Cycling in
+Agr
+oecosystems 71, 239-248.
+Conant R.T., Paustian K. and Elliott E.T. (2001). Grassland management andconversion into grassland Ef
+fects on soil carbon. Ecological Applications 11, 
+343-355.
+Dalal R.C., W
+ang W., Robertson G.P . and Parton W.J. (2003). Nitrous oxide
+emission from Australian agricultural lands and mitigation options a review.
+Australian Journal of Soil Research 41, 165-195.
+Der
+ner J.D., Boutton T.W. and Briske D.D. (2006). Grazing and ecosystem
+carbon storage in the North America Plains. Plant and Soil 280, 77-90.
+Desjardins R.L., Sivakumar M.V
+.K. and de Kimpe C. (2007). The contribution of
+agriculture to the state of climate: Workshop summary and recommendations.
+Agricultural and Forest Meteorology 142, 314-324.
+Dias de Oliveira M.E., V
+aughan B.E. and Rykiel J.E.J. (2005). Ethanol as fuel.
+energy, carbon dioxide balances, and ecological footprint. BioScience, 55.
+Diekow J., Mielniczuk J., Knicker H., Bayer C., Dick D.P
+. and Kögel-Knabner I.
+(2005). 
+Soil C and N stocks as affected by cropping systems and nitrogen fertilizationin southern Brazil Ariscol managed under no-tillage for 17 years. Soil and
+T 
+illage Research 81, 87-95.
+Dorr
+ough J., Moll J. and Crosthwaite J. (2007). Can intensification of temperate
+Australian livestock production systems save land for native biodiversity?
+Agriculture, Ecosystems and Environment 121, 222-232.Edmonds J.A. (2004). Climate change and energy technologies. Mitigation and
+Adaptation Strategies for Global Change 9, 391-416.
+Eickhout B., Bouwman A.F
+. and van Zeijts H. (2006). The role of nitrogen in
+world food production and environmental sustainability. Agriculture,
+Ecosystems and Envir
+onment 116, 4-14.
+Eidman V
+.R. (2005) 'Agriculture as a producer of energy.' (CABI Publishing:
+Cambridge).
+Fairhurst T. (2003). Commercial Farms in Southeast Asia. PPI-PPIC, Rome,
+Italy.
+Falloon P ., Smith P . and Powlson D.S. (2004). Carbon sequestration in arable
+land - the case for field margins. Soil Use and Management 20, 240 - 247.
+F
+AO (2001). Soil carbon sequestration for improved land management. World
+Soil Resources Report No. 96. FAO, Rome.
+FAO (2002). World Agriculture: towards 2015/2030. FAO.
+FAOSTAT (2006). FAOSTAT Agricultural Data. Available at:
+<http://faostat.fao.org/>.
+Fearnside P .M. (2005). Deforestation in Brazilian Amazonia: History, rates, and
+consequences. Conservation Biology 19, 680-688.
+Fischer G., van V
+elthuizen H. and Nachtergaele F.O. (2000). Global agro-
+ecological zones assessment: methodology and results. International Institutefor Applied Systems AnalysisIR-00-064.
+Flessa, H., Ruser, R., Dörsch, P ., Kamp, T., Jimenez, M.A., Munch, J.C.,
+Beese, F., 2002. Integrated evaluation of greenhouse gas emissions (CO
+2, CH 4,
+N2O) from two farming systems in southern Germany. Agriculture, Ecosystems
+and Environment 91:175–189.
+Foley J.A., DeFries R., Asner G.P ., Barford C., Bonan G., Carpenter S.R.,
+Chapin F.S., Coe M.T., Daily G.C., Gibbs H.K., Helkowski J.H., Holloway T.,
+Howard E.A., Kucharik C.J., Monfreda C., Patz J.A., Prentice I.C., RamankuttyN. and Snyder P .K. (2005). Global consequences of land use. Science 309,
+570-574.
+Follet R.F
+. (2001). Organic carbon pools in grazing land soils. In 'The potential
+of U.S. grazing lands to sequester carbon and mitigate the greenhouse effect.'
+(Eds RF Follet, JM KimbleandR Lal) pp. 65-86. (Lewis Publishers: Boca Raton,Florida).
+Foster ,C., Gr een,K., Bleda,M., Dewick,P ., Evans,B., Flynn,A., Mylan,J.. (2006)
+Environmental Impacts of Food Production and Consumption: A Report to the
+Department for Environment Food and Rural Affairs, pp. 1-199. Defra, London,
+Manchester Business School.
+Freibauer A., Rounsevell M.D.A., Smith P . and V erhagen A. (2004). Carbon
+sequestration in the agricultural soils of Europe. Geoderma 122, 1-23.
+Furness H. (2003). Impact of legislation and trade/economics on fertiliser use. 
+In 'IF
+A regional conference for Asia and the Pacific'. (IFA: Cheju Island, Republic 
+of Korea).
+387. References
+
+39Furukawa Y., Inubushi K., Ali M., Itang A.M. and Tsuruta H. (2005). Effect of
+changing groundwater levels caused by land-use changes on greenhouse gas
+fluxes from tropical peat lands. Nutrient Cycling in Agroecosystems 71, 81-91.
+Galloway J.N., Aber J.D., Erisman J.W
+., Seitzinger S.P ., Howarth R.W., Cowling
+E.B. and Cosby B.J. (2003). The nitrogen cascade. Bioscience 53, 341-356.
+Germer J. and Sauerbor
+n J. (2007). Estimation of the impact of oil palm
+plantation establishment on greenhouse gas balance. Environment,
+Development and Sustainability
+.
+Gonzalez-Avalos E. and Ruiz-Suarez L.G. (2001). Methane emission factors
+from cattle in Mexico. Bioresour ce Technology 80, 63-71.
+Gr
+egorich E.G., Rochette P ., van den Bygaart A.J. and Angers D.A. (2005).
+Greenhouse gas contributions of agricultural soils and potential mitigationpractices in Eastern Canada. Soil and Tillage Research 83, 53-72.
+Guo L.B. and Gif ford R.M. (2002). Soil carbon stocks  and land use change: a
+meta analysis. Global Change Biology 8, 345-360.
+Hadi A., Inubushi K., Furukawa Y., Pur
+nomo E., Rasmadi M. and Tsuruta H.
+(2005). Greenhouse gas emissions from tropical peatlands of Kalimantan,Indonesia. Nutrient Cycling in Agroecosystems 71, 73-80.
+Hall, D.O., Rosillo-Calle, F . (1998). Biomass Resour
+ces Other Than Wood,
+World Energy Council, London
+Hess H.D., Tiemann T.T., Noto F., Carulla J.E. and Kruezer M. (2006). Strategic
+use of tannins as means to limit methane emission from ruminant livestock. In'Greenhouse Gases and Animal Agriculture - An Update'. The Netherlands.(Eds CR Soliva, J TakashakiandM Kreuzer) pp. 164-167. (Elsevier).
+Hindrichsen I.K., Wettstein H.R., Machmüller A. and Kreuzer M. (2006).
+Methane emission, nutrient degradation and nitrogen turnover in dairy cows
+and their slurry at different production scenarios with and without concentrate
+supplementation. Agriculture, Ecosystems and Environment 113, 150-161.
+Hoogwijk, M. (2004). On the global and r
+egional potential of renewable energy
+sources. PhD thesis, University of Utrecht
+Hooijer A., Silvius M., Wosten H. and Page S.E. (2006). Peat-CO 2. Delft
+Hydraulics report Q3943.Houghton R.A. (1999). The annual net flux of carbon to the atmosphere from
+changes in land use 1850-1990* pp. 298-313.
+IFPRI (2002). Green Revolution - curse or blessing. International Food Policy
+Research Institute, Washington DC.
+IPCC WGIII Ch. 8 (2007). Agricuture. IPCC Fourth Assessment Report.Izaurralde R.C., McGill W.B., Robertson J.A., Juma N.G. and Thurston J.J.
+(2001). Carbon balance of the Breton classical plots over half a century. Soil
+Science Society of America Jour
+nal65, 431-441.
+Jackson L.E., Pascual U. and Hodgkin T
+. (2007). Utilizing and conserving
+agrobiodiversity in agricultural landscapes. Agriculture, Ecosystems &
+Envir
+onment 121, 196-210.Janzen, H.H., (2005). Soil carbon: A measur
+e of ecosystem response in a
+changing world? Canadian Journal of Soil Science, 85, 467-480.
+Johnson D.E., W
+ard G.M. and Torrent J. (1991). The environmental impact of
+bovine somatotropin (bST) use in dairy cattle. Journal of Dairy Science 74S,
+209.
+Johnson K.A. and Johnson D.E. (1995). Methane emissions fr
+om cattle.
+Journal of Animal Science 73, 2483-2492.
+Jor
+dan E., Lovett D.K., Hawkins M., Callan J. and O'Mara F.P . (2006). The
+effect of varying levels of coconut oil on intake, digestibility and methane output
+from continental cross beef heifers. Animal Science 82, 859-865.
+Kamra D.N., Agarwal N. and Chaudhary L.C. (2006). Inhibition of ruminal
+methanogenesis by tr
+opical plants containing secondary compounds. In
+'Greenhouse Gases and Animal Agriculture - An Update'. The Netherlands.
+(Eds CR Soliva, J TakashakiandM Kreuzer) pp. 156-163. (Elsevier).
+Kang G.D., Cai Z.C. and Feng X.Z. (2002). Importance of water regime during
+the non-rice growing period in winter in regional variation of CH 4emissions from
+rice fields during following rice growing period in China. Nutrient Cycling in
+Agr
+oecosystems 64, 95-100.
+Kasimir-Klemedtsson A., Klemedtsson L., Berglund K., Martikainen P ., Silvola P .
+and Oenema O. (1997). Gr
+eenhouse gas emissions from farmed organic soils.
+a review. Soil Use and Management, 13.
+Kates R.W
+. and Parris T.M. (2003). Science and Technology for Sustainable
+Development Special Feature: Long-term trends and a sustainability transition
+pp. 8062-8067.
+Kebreab E., Clark K., Wagner-Riddle C. and France J. (2006). Methane and
+nitrous oxide emissions from Canadian animal agriculture A review . Canadian
+Jour
+nal of Animal Science 86, 135-158.
+Khalil M.A.K. and Shearer M.J. (2006). Decreasing emissions of methane fr
+om
+rice agriculture. In 'Greenhouse Gases and Animal Agriculture - An Update'.The Netherlands. (Eds CR Soliva, J TakashakiandM Kreuzer) pp. 33-41.
+(Elsevier).
+Kongshaug G. (1998). Energy consumption and greenhouse gas emissions in
+fertilizer production. In 'IFA Technical Conference'Marrakech, Marocco).
+Korontzi S., Justice C.O. and Scholes R.J. (2003). Influence of timing and
+spatial extent of savannah fires in southern Africa on atmospheric emissions.
+Journal of Arid Environments 54, 395-404.
+Kr
+euzer M. and Hindrichsen I.K. (2006). Methane mitigation in ruminants by
+dietary means the role of their methane emission from manure. In 'Greenhouse
+Gases and Animal Agriculture - An Update'. The Netherlands. (Eds CR Soliva, JTakashakiandM Kreuzer) pp. 199-208. (Elsevier).
+Külling D.R., Menzi H., Sutter F., Lischer P . and Kreuzer M. (2003). Ammonia,
+nitrous oxide and methane emissions from differently stored dairy manure
+derived from grass- and hay-based rations. Nutrient Cycling in Agroecosystems
+65, 13-22.
+
+Lal R. (2001a). World cropland soils as a source or sink for atmospheric
+carbon. Advances in Agronomy 71, 145-191.
+Lal R. (2001b). Potential of desertification contr
+ol to sequester carbon and
+mitigate the greenhouse effect. Climate Change 15, 35-72.
+Lal R. (2003). Global potential of soil carbon sequestration to mitigate thegr
+eenhouse effect. Critical Reviews in Plant Sciences 22, 151-184.
+Lal, R. (2004a). Soil carbon sequestration impacts on global climate changeand food security . Science, 304, 1623-1627.
+Lal R. (2004b). Soil carbon sequestration to mitigate climate change.
+Geoderma 123, 1-22.
+Lal R. (2004c). Carbon emission fr
+om farm operations. Environment
+Inter
+national 30, 981-990.
+Leng R.A. (1991). Improving ruminant production and reducing methane
+emissions from ruminants by strategic supplementation. United States
+Envir
+onmental Protection AgencyEPA Report No. 400/1-91/004, Washington
+D.C.
+Liebig M.A., Morgan J.A., Reeder J.D., Ellert B.H., Gollany H.T . and Schuman
+G.E. (2005). Greenhouse gas contribution and mitigation potential of
+agricultural practices in northwestern USA and western Canada. Soil and
+T
+illage Research 83, 22-52.
+Lila Z.A., Mohammed N., Kanda S., Kamada T
+. and Itabashi H. (2003). Effect of
+sarsaponin on ruminal fermentation with particular reference to methaneproduction in vitro. Journal of Dairy Science 86, 330-336.
+Lovett D., Lovell S., Stack J., Callan J., Finlay M., Conolly J. and O'Mara F.P .
+(2003). Ef
+fect of forage/concentrate ratio and dietary coconut oil level on
+methane output and performance of finishing beef heifers. Livestock Production
+Science 84, 135-146.
+Lovett D.K. and O’Mara F
+.P . (2002). Estimation of enteric methane emissions
+originating from the national livestock beef herd. a review of the IPCC default
+emission factors. Tearmann, 2.
+Lovett D.K., Shalloo L., Dillon P
+. and O'Mara F.P . (2006). A systems approach
+to quantify greenhouse gas fluxes from pastoral dairy production as affected by
+management regime. Agricultural Systems 88, 156-179.
+Machmüller A., Ossowski D.A. and Kr
+euzer M. (2000). Comparative evaluation
+of the effects of coconut oil, oilseeds and crystalline fate on methane release,
+digestion and energy balance in lambs. Animal Feed Science and Technology
+85, 41-46.
+Mäder, P ., A. Fließbach, D. Dubois, L. Gunst, P . Fried, and U. Niggli. 2002. Soil
+Fertility and Biodiversity in Organic Farming. Science 296:1694-1697.
+Marland G., W
+est T.O., Schlamadinger B. and Canella L. (2003). Managing soil
+organic carbon in agriculture: the net effect on greenhouse gas emissions.
+Tellus 55B, 613-621.
+Matson P .A. and V
+itousek P .M. (2006). Agricultural intensification: Will land
+spared from farming be land spared for nature? Conservation Biology 20, 709-
+710.McCrabb G.J., Kurihara M. and Hunter R.A. (1998). The ef
+fect of finishing
+strategy of lifetime methane production for beef cattle in northern Australia.
+Proceedings of the Nutrition Society of Australia 22, 55pp.
+McCrabb, G.C. (2001). Nutritional options for abatement of methane emissions
+fr
+om beef and dairy systems in Australia. In Greenhouse Gases and Animal
+Agriculture, J. Takahashi and B.A. Young (eds.), Elsevier, Amsterdam, pp 115-
+124.
+McGinn S.M., Beauchemin K.A., Coates T. and Colombatto D. (2004). Methane
+emissions from beef cattle. effects of monensin, sunflower oil, enzymes, yeast,
+and fumaric acid. Journal of Animal Science , 82.
+McSwiney C.P . and Robertson G.P
+. (2005). Nonlinear response of N 2O flux to
+incremental fertilizer addition in a continuous maize (Zea mays L.) cropping
+system. Global Change Biology 11, 1712-1719.
+Miyamoto M. (2006). The relationship between for
+est conversion and inequality
+of land ownership, and the factors responsible for increasing the increasing theinequality in Sumatran rubber villages, Indonesia. Journal of Japanese For estry
+Society 88, 76-86.
+Monteny G.J., Gr
+oenestein C.M. and Hilhorst M.A. (2001). Interactions and
+coupling between emissions of methane and nitrous oxide from animalhusbandry. Nutrient Cycling in Agroecosystems 60, 123-132.
+Monteny G.-J., Bannink A. and Chadwick D. (2006). Greenhouse gasabatement strategies for animal husbandry . Agriculture, Ecosystems and
+Environment 112, 163-170.
+Mooney H., Cropper A. and Reid W. (2005). Confr
+onting the human dilemma.
+Nature 434, 561-562.
+Moreno-Caselles, J., R. Moral, et al., (2002). Nutrient value of animal manures
+in fr
+ont of environmental hazards. Communications in Soil Science and Plant
+Analysis 33, 3023-3032.
+Morton D.C., DeFries R.S., Shimabukur
+o Y.E., Anderson L.O., Arai E., Del Bon
+Espirito-Santo F., Freitas R. and Morisette J. (2006). Cropland expansionchanges deforestation dynamics in the southern Brazilian Amazon.
+Proceedings of the National Academy of Sciences of the United States of
+America 103, 14637-14641.
+Mosier
+, A. and Kroeze, C. (2000). Potential impact on the global atmospheric
+N2O budget of the increased nitrogen input required to meet future global food
+demands. Chemosphere-Global Change Science, 2, 465-473.
+Mosier A.R., Halvorson A.D., Peterson G.A., Robertson G.P . and Sherrod L.
+(2005). Measurement of net global warming potential in three agroecosystems.
+Nutrient Cycling in Agroecosystems 72, 67-76.
+Mrini M., Senhaji F . and Pimentel D. (2002). Energy analysis of sugar beet
+pr
+oduction under traditional and intensive farming systems and impacts on
+sustainable agriculture in Morocco. Journal of Sustainable Agriculture 20, 5-28.
+Mur
+diyarso D., Van Noordwijk M., Wasrin U.R., Tomich T.P . and Gillison A.N.
+(2002). Environmental benefits and sustainable land-use options in the Jambi
+transect, Sumatra. Journal of Vegetation Science 13, 429-438.
+407. References
+
+41Mutuo, P .K., G. Cadisch, A. Albrecht, C.A. Palm, and L. Verchot, (2005).
+Potential of agroforestry for carbon sequestration and mitigation of greenhouse
+gas emissions from soils in the tropics. Nutrient Cycling in Agroecosystems, 71,
+43-54.
+Naylor R., Steinfeld H., Falcon W
+., Galloway J., Smil V., Bradford E., Alder J.
+and Mooney H. (2005). AGRICULTURE: Losing the Links Between Livestock
+and Land pp. 1621-1622.
+Newbold, C.J., J.O. Ouda, S. López, N. Nelson, H. Omed, R.J. Wallace, and
+A.R. Moss, 2002: Propionate precursors as possible alternative electron
+acceptors to methane in ruminal fermentation. In Greenhouse Gases and
+Animal Agriculture. J. Takahashi and B.A. Young (eds.), Elsevier, Amsterdam,pp. 151-154.
+Newbold C.J., López S., Nelson N., Ouda J.O., Wallace R.J. and Moss A.R.
+(2005). Proprionate precursors and other metabolic intermediates as possiblealternative electron acceptors to methanogenesis in ruminal fermentation in
+vitro. British Journal of Nutrition 94, 27-35.
+Newbold C.J. and Rode L.M. (2006). Dietary additives to controlmethanogenesis in the rumen. In 'Gr 
+eenhouse Gases and Animal Agriculture -
+An Update'. The Netherlands. (Eds CR Soliva, J TakashakiandM Kreuzer) pp.
+138-147. (Elsevier).
+Nonhebel S. (2004). On resource use in food production systems: the value of
+livestock as `rest-stream upgrading system'. Ecological Economics 48, 221-
+230.
+Oelbermann M., V
+oroney R.P . and Gordon A.M. (2004). Carbon sequestration
+in tropical and temperate agroforestry systems: a review with examples from
+Costa Rica and southern Canada. Agriculture, Ecosystems & Environment 104,
+359-377.
+Ogle S.M., Br
+eidt F.J., Eve M.D. and Paustian K. (2003). Uncertainty in
+estimating land use and management  impacts on soil organic storage for US
+agricultural lands between 1982 and 1997. Global Change Biology 9, 1521-
+1542.
+Olsson L. and Ar
+dö J. (2002). Soil carbon sequestration in degraded semiarid
+agro-ecosystems - perils and potentials. Ambio 31, 471-477.
+Page S.E., Siegert F., Rieley J.O., Boehm H.D., Jaya A. and Limin S. (2002).
+The amount of carbon r
+eleased from peat and forest fires in Indonesia during
+1997. Nature 420, 61-65.
+Pan G.X., Zhou P ., Zhang X.H., Li L.Q., Zheng J.F., Qiu D.S. and Chu Q.H.
+(2006). Ef
+fect of different fertilization practices on crop C assimilation and soil C
+sequestration a case of a paddy under a long-term fertilization trial from the TaiLake r egion, China. Acta Ecologica Sinica 26, 3704-3710.
+Patra A.K., Kamra.D.N. and Agarwal N. (2006). Ef
+fect of spices on rumen
+fermentation, methanogenesis and protozoa counts in in vitro gas productiontest. In 'Greenhouse Gases and Animal Agriculture - An Update'. TheNetherlands. (Eds CR Soliva, J TakashakiandM Kreuzer) pp. 176-179.(Elsevier).Pattey E., Trzcinski M. and Desjardins R. (2005). Quantifying the Reduction of
+Greenhouse Gas Emissions as a Result of Composting Dairy and Beef Cattle
+Manure. Nutrient Cycling in Agroecosystems 72, 173-187.
+Pattey E., T
+rzcinski M.K. and Desjardins R.L. (2005). Quantifying the reduction
+of greenhouse gas emissions as a result of composting dairy and beef cattle
+manure. Nutrient Cycling in Agroecosystems 72, 173-187.
+Paul, E.A., S.J. Morris, J. Six, K. Paustian, and E.G. Gr
+egorich, (2003).
+Interpretation of soil carbon and nitrogen dynamics in agricultural and
+afforested soils. Soil Science Society of America Journal, 67, 1620-1628.
+Paustian K., Babcock B.A., Hatfield J., Lal R., McCarl B.A., McLaughlin S.,Mosier A., Rice C., Robertson G.P ., Rosenberg N.J., Rosenzweig C.,Schlesinger W
+.H. and Zilberman D. (2004). Agricultural mitigation of
+greenhouse gases: science and policy options. CAST (Council on AgriculturalScience and Technology)R141 2004.
+Pérez-Ramírez J., Kapteijn F., Schöffel K. and Moulijn J.A. (2003). Formation
+and control of N
+2O in nitric acid production. Where do we stand today? Applied
+Catalysis B Environmental, 44.
+Petersen, S. O., K. Regina, A. Pöllinger, E. Rigler, L. V
+alli, S. Yamulki, M. Esala,
+C. Fabbri, E. Syväsalo, and F. P . Vinther. 2005. Nitrous oxide emissions from
+organic and conventional crop rotations in five European countries. Agriculture,Ecosystems and Environment 112:200–206.
+Petersen, P ., J. M. Tardin, et al,. (1999). Participatory Development of No-tillage
+Systems without Herbicides for Family Farming: The Experience of the Center 
+-
+South Region of Paraná. Environment, Development and Sustainability 1, 235-
+252.Phetteplace H.W., Johnson D.E. and Seidl A.F. (2001). Greenhouse gas
+emissions fr
+om simulated beef dairy livestock systems in the United States.
+Nutrient Cycling in Agroecosystems 60, 9-102.
+Pielke Sr R.A., Adegoke J.O., Chase T
+.N., Marshall C.H., Matsui T. and Niyogi
+D. (2007). A new paradigm for assessing the role of agriculture in the climate
+system and in climate change. Agricultural and Forest Meteorology 142, 234-
+254.
+Pimentel D. and Pimentel M. (2003). Sustainability of meat-based and plant-
+based diets and the environment. American Journal of Clinical Nutrition 78,
+660S-6663.
+Pinar
+es-Patiño C.S., Ulyatt M.J., Waghorn G.C., Holmes C.W., Barry T.N.,
+Lassey K.R. and Johnson D.E. (2003). Methane emission by alpaca and sheep
+fed on lucerne hay or grazed on pastures of perennial ryegrass/white clover orbirdsfoot trefoil. Journal of Agricultural Science 140, 215-226.
+Ramankutty N., Gibbs H.K., Achar
+d F., Defries R., Foley J.A. and Houghton
+R.A. (2007). Challenges to estimating carbon emissions from tropicaldeforestation. Global Change Biology 13, 51-66.
+Reid R.S., Thor
+nton P .K., McCrabb G.J., Kruska R.L., Atieno F. and Jones P .G.
+(2004). Is it possible to mitigate greenhouse gas emissions in pastoralecosystems of the tropics? Environment, Development and Sustainability 6, 
+91-109.
+
+42Rice C.W. and Owensby C.E. (2001) 'Effects of fire and grazing on soil carbon
+in rangelands.' (Lewis Publishers: Boca Raton, Florida).
+Riedacker  A and Dessus B. (1993). Increasing productivity of agricultural land
+and forests Plantations to slow down the increase ot the greenhouse effect
+EEC 6th European conference on biomass for Energy , Industry andEnvironment Athens 1991 Edited by G. Grassi Londre Elseviers  in 1993  pp
+228-232
+Robertson G.P . (2004) 'Abatement of nitrous oxide, methane and other non-
+CO
+2greenhouse gases the need for a systems approach.' (Island Press:
+Washington D.C.).
+Rochette P . and Janzen H.H. (2005). Towards a revised coefficient for
+estimating N 2O emissions from legumes. Nutrient Cycling in Agroecosystems
+73, 171-179.
+Roshetko J.M., Delaney M., Hairiah K. and Purnomosidhi P
+. (2002). Carbon
+stocks in Indonesian homegarden systems: Can smallholder systems be
+targeted for increased carbon storage? American Journal of AlternativeAgricultur 
+e17, 138-148.
+Roy R.N., Misra R.V
+. and Montanez A. (2002). Decreasing reliance on mineral
+nitrogen - yet more food. Ambio 31, 177-183.
+Ruddiman W
+.F. (2003). The Anthropogenic Greenhouse Era Began Thousands
+of Years Ago. Climatic Change 61, 261-293.
+Rumpler W.V
+., Johnson D.E. and Bates D.B. (1986). The effect of high dietary
+cation concentrations on methanogenesis by steers fed with or withoutionophor es. Journal of Animal Science 62, 1737-1741.
+Salinger M.J. (2007). Agricultur
+e's influence on climate during the Holocene.
+Agricultural and Forest Meteor ology 142, 96-102.
+Sanchez P
+.A. (2002). Soil fertility and hunger in Africa. Science 295, 2019-
+2020.
+Schlesinger W
+.H. (1999). Carbon sequestration in soils. Science 284, 2095-
+2095.
+Schmidely P
+. (1993). Quantitative review on the use of anabolic hormones in
+ruminants for meat production. I. Animal performance. Annales de Zootechie
+42, 333-359Schnabel R.R., Franzluebbers A.J., Stout W
+.L., Sanderson M.A. and
+Stuedemann J.A. (2001) 'The effects of pasture management practices.' (Lewis
+Publishers: Boca Raton, Florida).
+Scholes R.J. and Biggs R. (2004). Ecosystem services in southern Africa: a
+regional assessment. CSIR, Prestoria.
+Scholes R.J. and van der Merwe M.R. (1996). Sequestration of carbon in
+savannas and woodlands. The Environmental Professional 18, 96-103.
+Schuman G.E., Herrick J.E. and Janzen H.H. (2001) 'The dynamics of soilcarbon in rangelands.' (Lewis Publishers: Boca Raton, Florida).Sergeant H.J. (2001). V
+egetation Fires in Sumatra Indonesia. Oil Palm
+Agriculture in the Wetlands of Sumatra: Destruction or Development?
+Government of Indonesia, Ministry of Forestry and European Union, European
+Commission.
+Sheehan J., Aden A., Paustian K., Killian K., Brenner J., Walsh M. and Nelson
+R. (2004). Energy and environmental aspects of using corn stover for fuel
+ethanol. Journal of Industrial Ecology 7, 117-146.
+Sims, R.E.H., A. Hastings, B. Schlamadinger
+, G. Taylor, and P . Smith, (2006).
+Energy crops: current status and future prospects. Global Change Biology, 12, 
+1-23.
+Sinclair T
+.R. (2004). Agronomic UFOs waste valuable scientific resources. Rice
+T
+oday, 43.
+Sisti C.P .J., Santos H.P
+., Kohlmann R., Alves B.J.R., Urquiaga S. and Boddey
+R.M. (2004). Change in carbon and nitrogen stocks in soil under 13 years of
+conventional or zero tillage in southern Brazil. Soil and Tillage Resear ch76, 39-
+58.
+Smith K.A. and Conen F
+. (2004). Impacts of land management on fluxes of
+trace greenhouse gas. Soil Use and Management 20, 255-263.
+Smith P
+., Martino D., Cai Z., Gwary D., Janzen H., Kumar P ., McCarl B., Ogle
+S., O'Mara F., Rice C., Scholes B., Sirotenko O., Howden M., McAllister T., Pan
+G., Romanenkov V., Schneider U. and Towprayoon S. (2007). Policy and
+technological constraints to implementation of greenhouse gas mitigation
+options in agriculture. Agriculture, Ecosystems and Environment 118, 6-28.
+Smith P ., Martino D., Cai Z., Gwary D., Janzen H.H., Kumar P ., McCarl B., Ogle
+S., O'Mara F
+., Rice C., Scholes R.J., Sirotenko O., Howden M., McAllister T.,
+Pan G., Romanenkov V., Schneider U., Towprayoon S., Wattenbach M. andSmith J.U. (in press). Greenhouse fas mitigation in agricultur e.Philosophical
+T 
+ransactions of the Royal Society of London Series B Biological Sciences 363.
+doi: 10.1098/rstb.2007.2184.
+Soussana J.F
+., Loiseau P ., Viuchard N., Ceschia E., Balesdent J., Chevallierm T.
+and Arrouays D. (2004). Carbon cycling and sequestration opportunities in
+temperate grasslands. Soil Use and Management 20, 219-230.
+Spatari S., Zhang Y
+. and Maclean H.L. (2005). Life cycle assessment of
+switchgrass- and corn stover-derived ethanol-fueled automobiles.
+Environmental Science and Technology 39, 9750-9758.
+Steinfeld H., Gerber P
+., Wassenaar T., Castel V., Rosales M. and de Haan C.
+(2006). Livestock's long shadow. Food and Agriculture Organization of the
+United Nations, Rome.
+Stoop W.A. and Kassam A.H. (2006). The "system of rice intensification":
+Implications for agronomic research. Tropical Agricultur e Association Newsletter
+26, 22-24.
+Tacconi L. and Ruchiat Y . (2006). Livelihoods, fire and policy in eastern
+Indonesia. Singapore Journal of Tr opical Geography 27, 67-81.7. References
+
+43Tzilivakis, J., D. J. Warner, M. May, K. A. Lewis, and K. Jaggard. 2005. An
+assessment of the energy inputs and greenhouse gas emissions in sugar beet(Beta vulgaris) production in the UK. Agricultural Systems 85:101-119.
+UN (2004). World Population Prospects: The 2004 Revision, Volume III:
+Analytical Report - I. Population size, distribution and growth. United NationsDepartment of Economic and Social Affairs/Population Division.
+Uphoff N. (2004). System of rice intensification responds to 21st century needs.
+Rice Today, 42.
+US-EP
+A (1998). AP 42, Fifth Edition, Volume I, Chapter 14: Greenhouse Gas
+Biogenic Sources. US-EPA.
+US-EPA (2006a). Global Anthropogenic non-CO 2greenhouse gas emissions:
+1990-2020. United States Environmental Protection AgencyEPA 430-R-06-
+005, Washington DC.
+US-EPA (2006b). Global Mitigation  of Non-CO 2Greenhouse Gas Emissions.
+United States Environmental Protection AgencyEPA 430-R-06-005,
+Washington D.C.
+Van Nevel C.J. and Demeyer D.I. (1995). Lipolysis and biohydrogenation of
+soybean oil in the rumen in vitro. Inhibition by antimicrobials. Journal of Dairy
+Science, 78.
+V
+an Nevel C.J. and Demeyer D.I. (1996). Influence of antibiotics and a
+deaminase inhibitor on volatile fatty acids and methane production fr om
+detergent washed hay and soluble starch by rumen microbes in vitro. Animal
+Feed Science and T
+echnology 37, 21-31.
+V
+an Wilgen B.W., Govender N., Biggs H.C., Ntsala D. and Funda X.N. (2004).
+Response of savanna fire regimes to changing fire-management policies in a
+large African National Park. Conservation Biology 18, 1533-1540.
+W
+ang B., Neue H. and Samonte H. (1997). Effect of cultivar difference on
+methane emissions. Agriculture, Ecosystems & Envir onment 62, 31-40.
+W
+ang M.X. and Shangguan X.J. (1996). CH 4emission from various rice fields in
+PR China. Theoretical and Applied Climatology 55, 129-138.
+W
+assmann R., Lantin R.S., Neue H.U., Buendia L.V., Corton T.M. and Lu y.
+(2000). Characterization of methane emissions from rice fields in Asia. III.
+Mitigation options and future research needs. Nutrient Cycling Agroecosystems
+58, 23-36.
+Wassmann R., Neue H.U., Ladha J.K. and Aulakh M.S. (2004). Mitigating
+Gr
+eenhouse Gas Emissions from Rice-Wheat Cropping Systems in Asia.
+Environment, Development and Sustainability 6, 65-90.
+Watkins E. (2007). Watching the world: The switch to biofuels. Oil and Gas
+Jour
+nal104, 32.
+W
+est T.O. and Post W.M. (2002). Soil organic carbon sequestration rates by
+tillage and crop rotation. A global data analysis. Soil Science Society of America
+Jour
+nal,66.W
+illiams A.G., Audsley E. and Sandars D.L. (2006). Determining the
+environmental burdens and resource use in the production of agricultural and
+horticultural commodities. Cranefield University and DefraResearch Project
+ISO205, Bedford.
+Wolin E.A., Wolf R.S. and Wolin M.J. (1964). Microbial formation of methane.
+Journal of Bacteriology 87, 993-998.
+W
+ood R., Lenzen M., Dey C. and Lundie S. (2006). A comparative study of
+some environmental impacts of conventional and organic farming in Australia.Agricultural Systems 89, 324-348.
+W
+ood S. and Cowie A. (2004). A review of greenhouse gas emission factors for
+fertiliser production. IEA Bioenergy Task 38.
+Wright A.D.G., Kennedy P ., O’Neill C.J., Troovey A.F., Popovski S., Rea S.M.,
+Pimm C.L. and Klein L. (2004). Reducing methane emissions in sheep by
+immunization against rumen methanogens. Vaccine 22, 3976-3985.
+Xu H., Cai Z.C., Jia Z.J. and T
+suruta H. (2000). Effect of land management in
+winter crop season on CH 4emission during the following flooded and rice-
+growing period. Nutrient Cycling in Agroecosystems 58, 327-332.
+Xu H., Cai Z.C. and T
+suruta H. (2003). Soil moisture between rice-growing
+seasons affects methane emission, production, and oxidation. Soil Science
+Society of America Jour
+nal67, 1147-1157.
+Xu S., Hao X., Stanford K., McAllister T ., Larney F.J. and W ang J. (2007 (in
+press)). Gr
+eenhouse gas emissions during co-composting of cattle mortalities
+with manure. Nutrient Cycling in Agroecosystems.
+Yagi K., Tsuruta H. and Minami K. (1997). Possible options for mitigatingmethane emission fr
+om rice cultivation. Nutrient Cycling in Agroecosystems 49,
+213-220.
+Y
+an X., Ohara T. and Akimoto H. (2003). Development of region-specific
+emission factors and estimation of methane emission from rice field in East,
+Southeast and South Asian countries. Global Change Biology 9, 237-254.
+Y
+ang H.S. (2006). Resource management, soil fertility and sustainable crop
+production: Experiences of China. Agriculture, Ecosystems & Environment 116, 
+27-33.
+Zeng D. (2003). Evolution of agricultur
+e and agricultural practices in China. In
+'2003 IF A regional conference for Asia and the Pacific'. (IFA: Cheju Island,
+republic of Korea).Zhang W., Qi Y. and Zhang Z. (2006). A long-term forecast analysis on
+worldwide land uses. Environmental Monitoring and Assessment 119, 609-620.
+Zhao S., Peng C., Jiang H., Tian D., Lei X. and Zhou X. (2006). Land use
+change in Asia and the ecological consequences. Ecological Research 21,
+890-896.
+
+44 Fishy Business: Stolen Pacific Tuna in the European Market 44Greenpeace is an independent global
+campaigning organisation that acts tochange attitudes and behaviour, to
+protect and conserve the environment
+and to promote peace.
+Greenpeace International 
+Ottho Heldringstraat 5 1066 AZ Amsterdam
+The Netherlands
+Tel: +31 20 7182000
+Fax: +31 20 5148151
+greenpeace.org

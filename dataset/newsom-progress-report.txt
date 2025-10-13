@@ -1,0 +1,529 @@
+# Archivo original: newsom-progress-report.pdf
+# Tipo: .PDF
+# Procesado el: Sat Oct 11 09:39:52 -03 2025
+
+Climate Progress Report: 
+California Governor Gavin Newsom
+PUBLISHED: 01-2020
+https://www.greenpeace.org/usa/reports/newsom-progress-report/
+
+
+GOVERNOR GAVIN NEWSOM’S PROGRESS REPORT ON CLIMATE  | ii
+AUTHOR
+Tim Donaghy
+EDITORS
+Rachel Rye Butler
+Valentina Stackl
+DESIGNED BY
+Kyle McKibbin
+PUBLISHED BY
+Greenpeace USA  
+January 2020
+With acknowledgement and 
+thanks to key Last Chance 
+Alliance member organizations 
+for consultation and review
+Cover image © Ian Dagnall / 
+Alamy Stock Photo
+Greenpeace Inc.  
+702 H Street, NW, STE 300, 
+Washington, D.C. 20001Introduction   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+1 . No New Permits and a Managed Decline for Oil and Gas   . . . . . . . . . . . . . . . . . . . . . . . . 3
+2 . A Just and Equitable Transition   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+3. Public Health Safety Buffer   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Conclusions   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Glossary  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 7
+Endnotes   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7Contents
+
+GOVERNOR GAVIN NEWSOM’S PROGRESS REPORT ON CLIMATE  | 1
+Introduction
+In January 2019, 
+California’s Governor 
+Gavin Newsom was 
+inaugurated as the 
+leader of the world’s 
+fifth largest economy 
+at a time of great 
+peril and opportunity 
+for our climate . In 
+the next decade, we 
+must cut emissions 
+in half to be on track 
+to limit warming 
+to 1 .5°C and avoid 
+the most disastrous 
+consequences of 
+climate change .1 
+In recent years, California has taken the lead in the U  .S . at 
+enacting strong policies to reduce demand for fossil fuels and 
+holding the line against President Trump’s rollback of federal 
+environmental protections . 
+However, the latest science — and a groundswell of  
+grassroots activism — show that Governor Newsom must  
+do more to phase out fossil fuel production in California  
+and ensure a managed decline of oil and gas production in 
+the state, while at the same time, protecting public health  
+and building a just and equitable transition for California’s 
+workers and communities . 
+This report sets out the rubric by which Governor Newsom 
+will be graded on a Climate Report Card to track his 
+progress towards these critical climate goals. 
+Despite its track record of strong climate policies to 
+reduce demand for fossil fuels, California remains a major 
+oil and gas producer.  The state has remained a top oil and 
+gas producer for decades, although production has been in 
+slow decline . Crude oil production in California peaked in 
+1985 at 394 million barrels, declining to 169 million barrels 
+in 2018 .2 As recently as 2016, California was the #3 state for 
+oil production (behind Texas and North Dakota); it is now 
+#6, partly due to surging shale production in places like New Mexico and Colorado  .3 Similarly, California’s gas production 
+has also broadly declined since 1985, and the state is  
+currently ranked #15 in production .4 California crude is  
+among the dirtiest in the world, rivaling Canada’s tar  
+sands in full lifecycle carbon emissions .5
+Recent studies have highlighted the risk that continued fossil 
+fuel production will undermine strong climate policies and 
+“lock in” unsafe levels of warming .6,7 These studies highlight 
+that fossil fuel producing regions, such as California, can and 
+must take steps to phase out fossil fuel production in tandem 
+with strong policies to cut emissions . Two recent analyses of 
+California oil and gas found that a moratorium on new oil and 
+gas permitting would accelerate the production decline — but 
+issuing new drilling permits could maintain production at 
+levels inconsistent with a safe climate .8,9 What’s more, those 
+living closest to oil and gas extraction — and who bear the 
+largest health risks from continued drilling — are more likely 
+to be low-income and communities of color  .10
+The Last Chance Alliance — a coalition of 700 
+environmental, health, justice, faith, labor, community, 
+parent, and consumer organizations — has three 
+demands of Gov  . Newsom:11
+1 . STOP new fossil fuel projects: Lead by issuing 
+no new permits for oil and gas extraction, fossil 
+fuel infrastructure, or petrochemical projects in 
+California .
+2 . DROP existing production: Set a national and global 
+precedent by becoming the first oil- producing state 
+to announce a phase-out of existing production 
+in line with the Paris climate goals, with a just 
+and equitable transition that protects workers, 
+communities, and economies .
+3 . ROLL out setback limits: Begin by first phasing out  
+oil production in places that are suffering most from  
+the impacts of fossil fuel extraction—by creating a  
+2500-foot health and safety buffer zone between  
+fossil-fuel infrastructure and homes, schools, and  
+other sensitive sites .
+California’s Governor Gavin Newsom  
+© MediaPunch Inc / Alamy Stock Photo
+
+GOVERNOR GAVIN NEWSOM’S PROGRESS REPORT ON CLIMATE  | 2
+Although Newsom started off his term with some missteps, 
+he has recently taken several encouraging actions . Following 
+reports of a surge in oil and gas permitting on his watch and 
+significant conflicts of interest among regulators, Newsom 
+fired the state’s top oil regulator.12 He signed the 2019 budget 
+appropriations bill which includes funding for two studies 
+into “strategies for managing the decline in the demand 
+and supply for fossil fuels” and “ways to significantly reduce 
+emissions from vehicles . ”13 In October 2019, Newsom signed 
+a bill to limit oil and gas development on state lands14 — a 
+move that could potentially stymie President Trump’s plan to 
+increase drilling on federal lands .
+On November 19, 2019, Newsom’s administration 
+announced three actions “to safeguard public health and the 
+environment, advance California’s goal to become carbon-neutral by 2045 and manage the decline of oil production and 
+consumption in the state . ”15 This move marks California as the 
+first major fossil fuel producing region in the United States to 
+seriously begin a process to manage the decline of fossil fuel 
+production16 — although it remains to be seen how far these 
+reforms will go in reducing oil and gas production .
+The ultimate impact of these proposed reforms is unknown, 
+and on their own, they do not meet the level of ambition 
+necessary to match the scale of the climate and public health 
+crisis . We therefore propose a “scoring rubric” to set criteria to 
+assess how well Newsom and his administration manage the 
+decline of oil and gas production . 
+As climate disasters and planned blackouts roil the state, the 
+need for urgent climate action could not be clearer  .
+Rise for Climate, Jobs & Justice March in San Francisco © Michael Short / Greenpeace
+
+GOVERNOR GAVIN NEWSOM’S PROGRESS REPORT ON CLIMATE  | 3
+Recent studies have shown that plans to expand fossil fuel 
+extraction threaten to undermine the goals articulated in  
+the Paris Climate Agreement  .17 Oil-producing regions  
+such as California must enact policies that target a decline  
+in production alongside policies that reduce demand for  
+fossil fuels . 
+Governor Newsom must put an end to new permits for  
+oil and gas production and enact a phase-out of existing 
+production in line with the Paris goals .
+Research by FracTracker18 and Consumer Watchdog19 
+found that, over the first half of 2019, Governor Newsom’s 
+administration approved 35% more drilling permits, 28% 
+more total permits, and 103% more well-stimulation permits 
+compared with a similar period in 2018, the final year of 
+Gov  . Brown’s administration . Those reports also uncovered 
+evidence that numerous staffers at the Division of Oil,  
+Gas, and Geothermal Resources (DOGGR) had significant 
+financial conflicts with the industry they were charged  
+with regulating. Following a July staff shake-up, no new 
+permits for fracking or acidizing have been approved in  
+the state .20 Other oil and gas permits have moved forward,  
+but at a slower pace .21 
+Governor Newsom’s November 2019 announcement did  
+not end all new oil and gas permits in the state, but it did 
+signal future changes for two types of permits .
+First, the Department of Conservation (DOC) ordered the  
+“halt of approvals of new oil extraction wells that use high-
+pressure steam to break oil formations below the ground . ”  
+It is unclear whether the moratorium on these permits  
+will be permanent, as regulators “could require certain  
+safety practices, update regulations to impose new rules,  
+or prohibit the practice altogether  .” New regulations  
+enacted earlier in 2019 prohibit “surface expressions, ”22  
+which are leaks to the surface of oil and water, often 
+associated with high-pressure cyclic steaming, including 
+at the Cymric field in Kern County. A potential ban on 
+high-pressure cyclic steaming would not necessarily halt 
+production from all such wells, as enhanced oil recovery 
+could continue at lower pressures .Second, DOC ordered that “pending applications to conduct 
+hydraulic fracturing and other well stimulation practices 
+will be independently reviewed . ” This policy encompasses 
+an “independent audit of its permitting processes for well 
+stimulation and underground injection control, ” as well as 
+a “third-party scientific review of pending well stimulation 
+permit applications” while the audit is being completed . 
+Again, it is unclear what will eventually come from these  
+two new processes, whether they will lead to a full 
+moratorium, a decline in fracking permit approvals,  
+or merely another review process on the way to  
+routine approvals .
+The November 2019 announcement did not encompass  
+all oil and gas permitting, nor did it explicitly target a 
+production phase out consistent with the Paris goals . 
+However, the announcement did refer to the goal of  
+managing “the decline of oil production and consumption  
+in the state” — an encouraging frame of reference that 
+suggests the Governor does not see a long-term role  
+for oil production in California .
+As California’s oil production is already in decline, the  
+key task will be to adopt policies that set an ambitious  
+pace consistent with limiting warming to 1 .5°C, while  
+taking into account equity and public health issues  
+for California’s workers and communities . The recent 
+Production Gap  report showed that global oil production  
+must decline by at least 30%  from 2020 to 2030 to put  
+us on a pathway consistent with 1 .5°C .23 (Other studies 
+indicate that faster declines in oil use will be necessary  .)24 
+California has a robust and diversified economy with 
+adequate resources to successfully manage the economic 
+dislocations of a production phase out  . For reasons of  
+global equity, California should pursue an even faster  
+phase out of existing production than the global average .25
+Studies by Stockholm Environment Institute (SEI) and  
+Oil Change International (OCI) both indicate that a policy  
+of no permits for new wells would achieve this faster  
+phase out  . Both studies estimate that production from 
+existing wells will decline by about 10% annually, which 1. No New Permits and a Managed 
+Decline for Oil and Gas
+
+GOVERNOR GAVIN NEWSOM’S PROGRESS REPORT ON CLIMATE  | 4
+would cause California’s oil production to fall roughly  
+75% from current levels (169 MMbbl in 2018) to around  
+40-50 MMbbl in 2030 .26 The OCI report also models a  
+phase out of existing production within a 2500 foot public 
+health buffer. Figure 1 compares these ‘Paris compliant’ 
+production scenarios with the EIA forecast from the  
+2019 Annual Energy Outlook  .27
+This indicates that if Governor Newsom is able to  
+successfully end all new oil and gas permitting, he would  also achieve the goal of putting California on a ‘Paris-
+compliant’ pathway  . Such an ambitious phase out  
+would cement California’s position as a global leader  
+on climate policy  . However, less ambitious reforms of  
+oil and gas permitting would risk allowing oil production 
+to continue at elevated levels for years to come . Any such 
+‘supply-side’ phase out should be paired with aggressive 
+policies to reduce demand for fossil fuels (many of which 
+California has already proposed) in order to minimize  
+carbon leakage .Figure 1 : California’s historical crude oil production (black) compared with forecasts from the EIA’s Annual Energy Outlook 2019 (orange), Erickson 
+& Lazarus 2018 (SEI report, red), and Trout 2018 (OCI report, blue). Also shown is the global decline in oil production from the 1.5°C scenario in the 
+Production Gap report, scaled to the EIA’s 2020 production level for California (green). 
+Rubric
+A No new permits for oil and gas extraction, fossil fuel infrastructure, or petrochemical projects in California, and a public 
+commitment to manage the decline of California’s oil production at a pace consistent with the Paris Climate goals and  
+global equity  .
+B No new permits for a significant portion of oil and gas extraction, fossil fuel infrastructure, or petrochemical projects in 
+California
+C New rules or regulations that slow the pace or eliminate permits for some  oil and gas extraction, fossil fuel infrastructure, or 
+petrochemical projects in California
+D Public statements in support of reforming oil and gas permitting, but no policy change
+F Status quo
+
+GOVERNOR GAVIN NEWSOM’S PROGRESS REPORT ON CLIMATE  | 5
+Crucial to the success of any supply-side climate policies  
+in California will be policies to ensure that oil industry  
+workers and extraction-dependent communities, such as  
+Kern County, are left better off after the transition, and  
+are not abandoned .
+The November 2019 announcement refers to “the state’s  
+first major workforce investment of $165 million over 
+five years to help enable economic transition away from 
+dependence on fossil fuels . ” This is likely a reference to 
+Apprenticeships for a Green Economy , a program which 
+uses revenues from California’s cap-and-trade program to 
+fund job training and apprenticeship programs targeted at 
+“disadvantaged” and “displaced workers resulting from 
+climate policies or automation . ”28The state has already completed a series of community 
+workshops exploring questions around the decline of the 
+oil industry, in connection with the budget request to study 
+a managed decline of oil and gas .29 However, the Newsom 
+Administration does not need to wait for this study to wrap 
+up in order to begin implementing a comprehensive suite 
+of just transition programs to ensure wage replacement, 
+benefits, and retirement support for existing workers, as well 
+as job retraining and relocation support for those who want 
+it .30 Workforce and community development strategies for 
+rural oil-producing communities will also be crucial, as will 
+policies to ensure transportation access for rural communities 
+during the transition. Sufficient levels of funding and robust 
+participation from all affected stakeholders will be key 
+elements of any successful plan .
+Rise for Climate, Jobs & Justice March in San Francisco © Michael Short / Greenpeace
+2. A Just and Equitable Transition
+Rubric
+A Enact policies that ensure that California’s workers and communities are left better off than before the transition. Such 
+programs should include dedicated and sufficient funding for wage replacement, healthcare and other benefits, and 
+retirement support programs, job training and relocation programs, geographically targeted workforce development,  
+and tax base replacement  .
+B Strong just transition policies that fall short in some way or leave some workers and/or communities behind
+C Weak just transition policies that leave significant portions of worker and community needs uncertain
+D Public statements in support of a just transition, but no policy change
+F Status quo
+
+GOVERNOR GAVIN NEWSOM’S PROGRESS REPORT ON CLIMATE  | 6
+Finally, in the Newsom Administration’s November 2019 
+announcement, DOC ordered that “rules for public health and 
+safety protections near oil and gas extraction facilities” be 
+updated and strengthened in order to “to protect residents 
+and communities” near those facilities . This reform envisions 
+“a series of pre-rulemaking workshops” and will consider 
+“a range of protective measures, including prohibiting oil 
+and gas activities within close proximity of homes, schools, 
+hospitals, and parks . ”
+In 2015, the California Council on Science and Technology 
+(CCST) published a state mandated study on the direct and 
+indirect impacts of well stimulation techniques, and oil 
+and gas production generally  . The study concluded that 
+“emissions concentrated near all oil and gas production could 
+present health hazards to nearby communities in California . ” 
+The report summarized public health research showing that 
+“the most significant exposures to toxic air contaminants 
+such as benzene, aliphatic hydrocarbons and hydrogen 
+sulfide occur within 800 m (one-half mile) from active oil and 
+gas development” and concluded that health impacts on 
+California communities should be studied and recommended that policymakers “develop policies such as science-based 
+surface setbacks, to limit exposures . ”31
+Many of California’s oil and gas wells are located in populated 
+regions of the state. In particular, the Los Angeles basin oil fields  
+are located in the middle of the state’s largest metropolitan 
+area . However, even in less densely populated regions, 
+humans live, work, and play in close proximity to oil and gas 
+production, with potential negative health consequences . 
+Many of these impacted areas are low-income or communities 
+of color  .32 Analysis from FracTracker has shown that, 
+statewide, roughly 12% of active and newly permitted oil 
+wells are within 2500 feet of a residence, school or hospital, 
+and that roughly 850,000 residents live within that zone .33
+Environmental justice activists have called for setbacks  
+as an initial step to protect vulnerable communities living 
+near oil and gas sites . In August 2018, the city of Arvin, in the 
+heart of the Central Valley oil fields, became the first town  
+to enact setbacks of 300 feet for new development and  
+600 feet for new operations near sensitive sites .34,35 Activists  
+in Los Angeles are also pushing a setback ordinance .363. Public Health Safety Buffer
+Rubric
+A Enact a science-based public health buffer (or setback) prohibiting oil and gas activity within a minimum of 2500 feet of 
+residences, schools, parks, hospitals, or other sensitive locations
+B Enact a public health buffer that is smaller than 2500 feet
+C Enact other regulations that aim to protect public health from the impacts of oil and gas activity
+D Public statements in support of public health regulations, but no policy change
+F Status quo
+Offshore Oil FLIR Detection in California © David McNew / GreenpeaceGovernor Newsom has taken some encouraging policy steps 
+and has signaled that the oil and gas industry will play a 
+declining role in California’s economy  . If Governor Newsom 
+can follow up these moves with an ambitious and visionary 
+plan to phase out oil and gas production in the state, he 
+would affirm California’s status as climate policy leaders, 
+setting the pace for the U  .S . and the world . What’s clear is that 
+Californians from frontline communities and around the state 
+will be watching his next moves with interest, and demanding 
+solutions that leave no one behind .Conclusions
+
+GOVERNOR GAVIN NEWSOM’S PROGRESS REPORT ON CLIMATE  | 7
+1 The Intergovernmental Panel on Climate Change (IPCC) . 2018 . Global 
+Warming of 1.5°C  . https://www  .ipcc . ch/sr15/  
+2 U .S . EIA . California Field Production of Crude Oil . https://www  .eia .gov/
+dnav/pet/hist/LeafHandler  .ashx?n=PET&s=MCRFPCA1&f=A  
+3 U .S . EIA . Crude Oil Production . https://www  .eia .gov/dnav/pet/pet_crd_
+crpdn_adc_mbbl_a .htm ; U .S . EIA . Rankings: Crude Oil Production, August 
+2019 . https://www  .eia .gov/state/rankings/?sid=CA#series/46  
+4 U .S . EIA . Natural Gas Gross Withdrawals and Production . https://www  .eia .
+gov/dnav/ng/ng_prod_sum_a_EPG0_VGM_mmcf_a .htm  
+5 Wolf, S . & K . Siegel . 2017 . Oil Stain: How Dirty Crude Undercuts California’s 
+Climate Progress . Center for Biological Diversity, November  .  
+https://www  .biologicaldiversity  .org/programs/climate_law_institute/
+energy_and_global_warming/pdfs/Oil_Stain .pdf  
+6 Muttitt, G . 2016 . The Sky’s Limit: Why The Paris Climate Goals Require 
+a Managed Decline of Fossil Fuel Production  . Oil Change International . 
+September  . http://priceofoil . org/content/uploads/2016/09/OCI_the_skys_
+limit_2016_FINAL_2 .pdf  
+7 SEI, IISD, ODI, Climate Analytics, CICERO, and UNEP  . (2019) . The 
+Production Gap: The discrepancy between countries’ planned fossil fuel 
+production and global production levels consistent with limiting warming 
+to 1.5°C or 2°C  . http://productiongap  .org/
+8 Erickson, P  . & M . Lazarus . 2018 . How limiting oil production could help 
+California meet its climate goals  . Stockholm Environment Institute . 
+https://www  .sei . org/wp-content/uploads/2018/03/sei-2018-db-california-
+oil2 .pdf  
+9 Trout, K . 2018 . The Sky’s Limit California: Why the Paris Climate Goals 
+Demand That California Lead in a Managed Decline of Oil Extraction  . 
+Oil Change International, May  . http://priceofoil . org/content/
+uploads/2018/05/Skys_Limit_California_Oil_Production_R2 .pdf  10 Srebotnjak, T  . 2014 . Drilling in California: Who’s at risk?  Natural Resources 
+Defence Council, October  . https://www.nrdc.org/sites/default/files/
+california-fracking-risks-report  .pdf  
+11 Last Chance Alliance . https://lastchancealliance . org/ ; see also California 
+Oil & Gas Policy Brief  . June 2019 . Our Last Chance: Phasing Out Fossil 
+Fuels . https://lastchancealliance . org/wp-content/uploads/2019/07/
+California-Oil-and-Gas-Policy-Brief-Last-Chance-Alliance .pdf  
+12 CBS SF  . 2019 . Newsom: Soaring Number Of Fracking Permits Led To 
+State Top Oil Regulator’s Firing . July 12 . https://sanfrancisco  .cbslocal .
+com/2019/07/12/newsom-soaring-number-of-fracking-permits-led-to-
+state-top-oil-regulators-firing/  
+13 California Assembly Bill No  . 74 . Budget Act of 2019 . https://leginfo  .
+legislature . ca .gov/faces/billTextClient  .xhtml?bill_id=201920200AB74  
+14 Associated Press . 2019 . Gov  . Gavin Newsom signs bill limiting oil and 
+gas development  . October 12 . https://www  .latimes . com/california/
+story/2019-10-12/gov-gavin-newsom-signs-bill-limiting-oil-and-gas-
+development  
+15 California Department of Conservation . 2019 . California Announces New 
+Oil and Gas Initiatives . November 19 . https://www  .conservation . ca .gov/
+index/Pages/News/California-Establishes-Moratorium-on-High-Pressure-
+Extraction .aspx  
+16 Last Chance Alliance . 2019 . California Sets Global Precedent by Becoming 
+First Major Oil Producer Starting Process to Phase-Out Oil Supply  . 
+November 19 . https://lastchancealliance . org/california-sets-global-
+precedent-by-becoming-first-major-oil-producer-starting-process-to-
+phase-out-oil-supply/  
+17 SEI et al . 2019
+18 Ferrar, K . 2019 . Permitting New Oil and Gas Wells Under the Newsom 
+Administration . FracTracker Alliance, July 11 . https://www  .fractracker  .
+org/2019/07/permitting-more-oil-gas-newsom/  Glossary
+Well Stimulation  . Techniques that “enhance oil and gas 
+production by making the reservoir rocks more permeable, 
+thus allowing more oil or gas to flow to the well. ” These 
+techniques include hydraulic fracturing  (which aims to 
+“create sufficient pressure in the well to induce fractures in 
+the reservoir”) and acidizing stimulation  (which use “acid to 
+dissolve materials impeding flow”).37
+Hydraulic Fracturing  . Techniques that create fractures in 
+an oil reservoir by increasing the pressure of an injected 
+fluid until the rock breaks. The fractures are then kept open 
+by introducing a proppant (such as sand) or through acid 
+etching, and which then allow more oil to flow.38Enhanced Oil Recovery  . Any technique for increasing oil 
+production that involves the “injection of fluids underground 
+to increase the flow of oil and gas to the surface. ” Injected 
+fluids can be water, carbon dioxide, steam or chemicals, and 
+are often introduced via a separate injection well.39
+Cyclic steaming  . A technique that involves “periodic injection 
+of steam followed by a well shut-in period to allow the heat to 
+reduce the oil viscosity, followed by a period of production, 
+after which the cycle repeats. ”40
+Surface Expression  . A surface expression “can occur when 
+steam injected under pressure to produce oil breaks through 
+natural geologic barriers and comes to the surface . ”41
+Endnotes
+
+GOVERNOR GAVIN NEWSOM’S  
+PROGRESS REPORT ON CLIMATE
+JANUARY 202019 Scow, A . 2019 . Watchdogs Call For Resignations & Permit Freeze As 
+California Oil Regulators Approve Surge In Well Permits While Personally 
+Invested In Oil Companies . Consumer Watchdog, July 11 . https://www  .
+consumerwatchdog . org/energy/watchdogs-call-resignations-permit-
+freeze-california-oil-regulators-approve-surge-well  
+20 Wilson, J  . 2019 . California has gone months with no new fracking 
+permits. But dozens of illegal oil spills are flowing. Palm Springs 
+Desert Sun, September 13 . https://www  .desertsun . com/story/news/
+environment/2019/09/13/california-no-new-fracking-permits-doggr-
+crowfoot-oil-gas-spills/2301694001/ ; Cox, J  . 2019 . Newsom administration 
+quietly stalls fracking permits. Bakersfield.com, September 16. https://
+www.bakersfield.com/news/newsom-administration-quietly-stalls-
+fracking-permits/article_25b4ca7c-d64f-11e9-a117-37f8459db19a .html  
+21 Tucker, L . 2019 . Newsom Freezes New Fracking Permits In California 
+& Slows Rate of Oil Well Approvals Since Summer; 2019 State Oil Well 
+Permits Still Outpace 2018 . Consumer Watchdog, November 18 . https://
+www  .consumerwatchdog . org/energy/newsom-freezes-new-fracking-
+permits-california-slows-rate-oil-well-approvals-summer-2019 ; see also 
+http://www  .newsomwellwatch . com/  .
+22 California Department of Conservation . Oil Field Surface Expressions . 
+https://www  .conservation . ca .gov/calgem/Pages/Chevron-Cymric-oil-spill .
+aspx  
+23 SEI et al . 2019 . Note the trends shown in Figure 1 are global oil production 
+levels consistent with 1 .5°C (second panel of Figure ES .2, p  . 4) scaled 
+down to match the EIA forecast for California’s production in 2020 .
+24 For example see the studies shown in Figure 1 from Donaghy, T  . 2019 . 
+Real Climate Leadership: Why The Next President Must Prioritize A Fossil 
+Fuel Phase Out  . Greenpeace USA, June . https://www  .greenpeace . org/usa/
+reports/fossil-fuel-phaseout/  
+25 Koski, J  ., S . Kartha & P  . Erickson . 2019 . Principles for aligning U.S. fossil fuel 
+extraction with climate limits  . Stockholm Environment Institute, February  . 
+https://www  .sei .org/wp-content/uploads/2019/02/principles-for-aligning-
+fossil-fuel-extraction-w-climate-limits .pdf  
+26 Erickson et al . 2018, Figure 3; Trout 2018, Figure 10 .
+27 U .S . EIA . 2019 . Annual Energy Outlook 2019 (AEO19). Table: Lower 48 Crude 
+Oil Production and Wellhead Prices by Supply Region  . https://www  .eia .
+gov/outlooks/aeo/data/browser/#/?id=71-AEO2019&cases=ref2019&sour
+cekey=0 ; The California crude production forecast shown in this figure is 
+the sum of the “Lower 48 Onshore: West Coast” and “Lower 48 Offshore: 
+Pacific: State” time series. Note that EIA has revised its West Coast and 
+Pacific crude production forecasts downward in the past few years. The 
+2017 AEO forecast that production would reach 200 MMb/d in 2020 .28 California 2019-2020 State Budget  . Enacted Budget Summary 
+Information: Environmental Protection . http://www  .ebudget  .
+ca .gov/2019-20/pdf/BudgetSummary/EnvironmentalProtection .pdf  
+29 Cox, J  . 2019 . Workshop looks at ways of managing the decline of California’s 
+oil industry. Bakersfield.com, November 13. https://www.bakersfield.
+com/news/workshop-looks-at-ways-of-managing-the-decline-of-
+california/article_c9330db4-067c-11ea-811e-0f411c49be05 .html  
+30 For one example of a comprehensive state-level just transition plan see 
+Pollin et al . 2019 . A Green Growth Program for Colorado  . Political Economy 
+Research Institute, April 14 . https://www  .peri .umass . edu/publication/
+item/1168-a-green-growth-program-for-colorado  
+31 Long et al . 2015 . An Independent Scientific Assessment of Well Stimulation 
+in California. Volume II: Potential Environmental Impacts of Hydraulic 
+Fracturing and Acid Stimulations  . California Council on Science and 
+Technology (CCST) & Lawrence Berkeley National Laboratory, July  . 
+https://ccst  .us/wp-content/uploads/160708-sb4-vol-II-7 .pdf  
+32 Srebotnjak 2014
+33 Trout 2018, pp  . 22-23, Appendix II; see also Ferrar, K . 2019 . Impact of a 
+2,500′ Oil and Gas Well Setback in California. FracTracker Alliance, July 2. 
+https://www  .fractracker  .org/2019/07/impact-of-a-2500-oil-and-gas-well-
+setback-in-california/  
+34 Ferrar, K . 2018 . Arvin, CA Setback Ordinance Passes Unanimously! 
+FracTracker Alliance, August 15 . https://www  .fractracker  .org/2018/08/
+arvin-ca-setback-ordinance-passes/  
+35 Thompson, G . 2019 . Meet the Millennial Mayor Who Took On Big Oil—and 
+Won . The Nation , July 12 . https://www  .thenation . com/article/arvin-
+california-oil-drilling-resistance/  
+36 City New Service . 2019 . Residents Say They Will Demand Greater 
+Restrictions on Oil, Gas Drilling . October 15 . https://www  .nbclosangeles .
+com/news/local/Residents-Say-They-Will-Demand-Greater-Restrictions-
+on-Oil-Gas-Drilling-563131961 .html  
+37 CCST 2015, Table 1 .1-1
+38 CCST 2015, Table 1 .1-1
+39 Clean Water Action . Enhanced Oil Recovery: A Threat to Drinking Water  .  
+https://www.cleanwateraction.org/sites/default/files/docs/publications/
+EOR%20Risk%20and%20Oversight%20Factsheet_0 .pdf  
+40 CCST 2015, p  . 58-59
+41 California Department of Conservation . Oil Field Surface Expressions . 
+https://www  .conservation . ca .gov/dog/Pages/Chevron-Cymric-oil-spill .
+aspx

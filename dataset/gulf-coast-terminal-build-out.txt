@@ -1,0 +1,132 @@
+# Archivo original: gulf-coast-terminal-build-out.md
+# Tipo: .MD
+# Procesado el: Sat Oct 11 09:42:13 -03 2025
+
+Gulf Coast Terminal Build Out
+Russia’s invasion of Ukraine has kicked off a stampede to build new LNG
+terminals that will not help Europe during their current energy crisis.
+Methane gas is converted into Liquefied Natural Gas (LNG) and then loaded onto
+tankers at large, complex export terminals. The scale of LNG exports is
+limited by the capacity of these export terminals – the more that get built,
+the more U.S. methane can be shipped around the world.
+The first LNG export terminal built on the U.S. Gulf Coast was Cheniere
+Energy’s Sabine Pass, which
+began operations in 2016 and is located on the border between Louisiana and
+Texas. Today, there are seven operating export terminals – five on the Gulf
+Coast and two on the Atlantic coast – with a total peak liquefaction
+capacity of 14 billion
+cubic feet per day (bcf/d).
+
+Russia’s invasion of Ukraine has kicked off a rush to build new and expanded
+export terminals that could greatly increase U.S. exports and drilling. The
+map and the tables below outline the numerous projects that are under
+construction, or that are still seeking financing or approval. Building an
+export terminal can cost tens of billions of dollars, and as a result, these
+projects must obtain significant financing packages – known as a “final
+investment decision” (FID) – to begin construction.
+To reach FID, the project needs to show investors that it has obtained the
+proper permits and has lined up the necessary construction and gas supply
+contracts. The most important permits to build and operate an export terminal
+are those from the Federal Energy Regulatory
+Commission (FERC) and the Department of
+Energy (DOE). Most crucially, lenders
+want the project to have already secured long-term contracts with the
+purchasers of the LNG. Having these contracts in hand guarantees future sales
+and cash flow sufficient to cover the debt payments. There is a fierce
+competition among the proposed projects to lock down long-term sales
+contracts, and hence be the first to reach FID.
+This stampede to build new LNG terminals will not help Europe during the
+current energy crisis as any new terminals would take years to come online and
+are not needed to satisfy Europe’s short-term
+demand for gas. However, any build out of new terminals would be inconsistent
+with pathways to limit global warming to 1.5C. The IEA’s Net-Zero Emissions
+(NZE) Scenario estimates that
+LNG exports must peak in 2025, both globally (at 48 bcf/d) and from North
+America specifically (at 11.6 bcf/d). Following the peak, North American LNG
+exports would decline almost to zero by 2045.
+The problem is that the peak capacity of the seven operating U.S. terminals is
+already higher than the North American NZE estimate (see figure below). Adding
+the three LNG terminals under construction would increase U.S. export capacity
+to over 20 bcf/d. If all the approved projects and expansions were built it
+could double export capacity to over 42 bcf/d. By 2030, U.S. LNG by itself
+could be larger than the NZE estimate for the entire global LNG trade. While
+all of these approved projects may not ultimately be built, it’s clear that
+this LNG build-out puts our climate targets at risk.
+The tables below show the status of the various LNG export terminal projects
+in the U.S. as of January 2024. We also note that there are also several LNG
+export projects that have been proposed in Mexico that would source their
+methane gas from U.S. production regions.
+
+Operating Export Terminals
+Project | State | Owners | Status | Peak Capacity(bcf/d)
+Sabine Pass | Louisiana | Cheniere | Operating
+Additional expansion in pre-filing with FERC | 4.55
+TBD
+Corpus Christi | Texas | Cheniere | Operating
+Stage 3 Under Construction
+Additional expansion in pre-filing with FERC | 2.4
+1.51
+TBD
+Freeport | Texas | Freeport LNG | Operating
+Train 4: FERC approved, awaiting FID | 2.38
+0.67
+Cameron | Louisiana | Sempra LNG, Mitsui Group, TotalEnergies, Mitsubishi Corp, NYK | Operating
+Train 4: FERC approved, awaiting FID | 1.98
+0.89
+Cove Point | Maryland | Dominion, Berkshire Hathaway, Brookfield Asset Management | Operating | 0.76
+Elba Island | Georgia | Kinder Morgan, Blackstone | Operating | 0.36
+Calcasieu Pass | Louisiana | Venture Global | Operating | 1.58  
+Under Construction Export Terminals
+Project | State | Owners | Status | Peak Capacity (bcf/d)
+Golden Pass | Louisiana | Qatar Petroleum, ExxonMobil | Under Construction | 2.39
+Port Arthur | Texas | Sempra, ConocoPhillips | Trains 1&2 – Under Construction
+Trains 3&4 – Under FERC Review | 1.8
+TBD
+Plaquemines | Louisiana | Venture Global | Under Construction | 3.16
+Rio Grande | Texas | Next Decade | Under Construction | 3.61  
+Approved terminals have received permits from FERC and DOE (or in some cases,
+MARAD), but have not yet reached FID or begun significant construction. DOE
+recently announced a policy change of no longer approving extensions to the
+seven-year period when these projects must begin exporting. This change
+potentially puts many of the approved projects at
+risk of not completing
+construction before the deadline expires.
+Approved Export Terminals awaiting FID
+Project | State | Owners | Status | Capacity (bcf/d)
+Lake Charles | Louisiana | Energy Transfer | FERC approved, but in 2023 DOE denied a request for an export permit extension beyond 2025, putting the project in jeopardy | 2.2
+Driftwood | Louisiana | Tellurian | FERC approved, some construction has begun, but project lost suppliers and FID has been long-delayed | 3.64
+Texas LNG | Texas | Texas LNG | FERC Approved, awaiting FID | 0.56
+Magnolia | Louisiana | Glenfarne Group | FERC approved, awaiting FID | 1.2
+Eagle LNG | Florida | Energy & Minerals Group | FERC approved, awaiting FID | 0.13
+Delfin LNG | Gulf of Mexico offshore | Fairwood, Enbridge | MARAD approved, awaiting FID | 1.6
+Commonwealth | Louisiana | Commonwealth LNG | FERC approved, awaiting FID | 1.21
+Alaska Gasline | Alaska | Alaska Gasline Dev Corp | FERC approved, awaiting FID | 2.55
+Gulf LNG | Mississippi | Kinder Morgan +others | FERC approved, awaiting FID | 1.43  
+Export Terminals Under Review
+Project | State | Owners | Status
+Grand Isle FLNG | Gulf of Mexico
+offshore | New Fortress Energy | Under MARAD review, self-financed
+CP2 | Louisiana | Venture Global | Under FERC review
+West Delta | Gulf of Mexico offshore | West Delta LNG | Under MARAD review
+Delta | Louisiana | Venture Global | FERC pre-filing
+Fourchon | Louisiana | Energy World | FERC pre-filing
+Grand Isle LNG | Gulf of Mexico offshore | Grand Isle LNG | Under MARAD review  
+Notes: Project status information is taken from
+FERC,
+MARAD, company press releases, and media reporting.
+Capacity values are taken from the US EIA’s liquefaction
+database.
+For existing and under construction terminals we use “peak nameplate
+capacity”, whereas for approved terminals we use “proposed design capacity.”
+Project links go to the Global Energy Monitor
+wiki. The tables do not include various other
+proposed projects that have not yet advanced to review.
+For operating terminals the timeline in the figure is given by the EIA’s
+reported In-Service and Start of Commercial Service dates for each
+liquefaction train. For approved terminals and those under construction we
+estimate start dates based on media reports and estimates from the Sierra Club
+LNG tracker, although we note that all such dates are highly uncertain and
+should be considered rough estimates. It is possible that many approved
+terminals will never be built.
+(Return to LNG 101 main
+page)

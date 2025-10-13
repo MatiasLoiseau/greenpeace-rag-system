@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+greenpeace/
+chroma_db_rag/
+
 # Distribution / packaging
 .Python
 build/

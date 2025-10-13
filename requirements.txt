@@ -1,0 +1,15 @@
+# RAG System Dependencies
+chromadb==1.1.1
+langchain-chroma==0.2.6
+langchain-google-genai==2.1.12
+langchain-core==0.3.79
+langchain-community==0.3.31
+sentence-transformers==5.1.1
+pandas==2.3.3
+python-dotenv==1.1.1
+
+# Additional dependencies (automatically installed)
+torch>=2.8.0
+transformers>=4.57.0
+numpy>=2.3.3
+requests>=2.32.5

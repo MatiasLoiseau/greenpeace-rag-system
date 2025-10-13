@@ -1,0 +1,988 @@
+# Archivo original: government-s-final-response-re.pdf
+# Tipo: .PDF
+# Procesado el: Sat Oct 11 09:40:31 -03 2025
+
+1
+23456789
+10111213141516171819202122232425262728
+Def. Reply to Plf. Opp. to Def. Mot. 
+Sum.. Jdgmt., Civ. No. 02-4106(JSW)THOMAS L. SANSONETTI
+Assistant Attorney GeneralEnvironment and Natural Resources DivisionANN D. NAVAROSenior AttorneyBRIAN C. TOTHAttorneyGeneral Litigation SectionEnvironment and Natural Resources DivisionUnited States Department of JusticeP.O. Box 663Washington, D.C. 20044-0663Telephone: (202) 305-0462/(202) 305-0639Facsimile: (202) 305-0267ann.navaro@usdoj.gov
+/brian.toth@usdoj.gov
+KEVIN V. RYAN
+United States AttorneyJAMES A. CODAAssistant United States AttorneyEnvironment and Natural Resources Unit450 Golden Gate Avenue, 10
+th Floor
+San Francisco, California 94102Telephone: (415) 436-6967Facsimile: (415) 436-6748
+Attorneys for Defendants
+UNITED STATES DISTRICT COURT
+NORTHERN DISTRICT OF CALIFORNIA
+SAN FRANCISCO DIVISION
+FRIENDS OF THE EARTH, INC., )
+et al., )
+) Civ. No. 02-4106 (JSW)
+Plaintiffs, )
+) DEFENDANTS’ REPLY TO 
+v. ) PLAINTIFFS’ OPPOSITION TO  
+) DEFENDANTS’ MOTION FOR
+PETER WATSON, et al., ) SUMMARY JUDGMENT  
+) Date: April 29, 2005
+Defendants. ) Time: 9 A.M.
+__________________________________________) Courtroom 2, 17
+th Floor
+
+1
+23456789
+10111213141516171819202122232425262728
+Def. Reply to Plf. Opp. to Def. Mot. 
+Sum.. Jdgmt., Civ. No. 02-4106(JSW) -i-TABLE OF CONTENTS
+PAGE
+I. Introduction ............................................................... 1
+I I . P l a i n t i f f s  H a v e  F a i l e d  T o  E s t a b l i s h  S t a n d i n g  T o  B r i n g  T h e i r  C l a i m s  .................. 2
+A. Plaintiffs Have Failed To Show A Reasonable Probability That 
+T h e  C h a l l e n g e d  A c t i o n s  P o s e  A  T h r e a t  T o  T h e i r  C o n c r e t e  I n t e r e s t s  ............. 3
+1. Plaintiffs’ Alleged Injuries Are Too Tenuously Connected 
+To Either The Acts Of OPIC Or ExIm Bank To SupportC a u s a t i o n  .................................................... 4
+2. Plaintiffs’ Efforts To Attribute Substantial Greenhouse Gas
+Emissions To A Particular  Grouping Of Projects And
+T o  D e f e n d a n t s  I s  U n a v a i l i n g  ..................................... 6
+3. The Impacts Alleged By Plaintiffs Cannot Be Attributed To 
+Greenhouse Gas Emissions From The Projects Of Concern T o  P l a i n t i f f s  .................................................. 7
+B. Neither Defendant Has Suggested That Their Actions Result in 
+Greenhouse Gas Emissions ............................................. 9
+III. Defendants Have Established That The APA Prohibits Plaintiffs’ Programmatic 
+Attack And That Plaintiffs Have Not Challenged Any Final Agency Action Fit
+ F o r  J u d i c i a l  R e v i e w  ....................................................... 1 1
+A. Plaintiffs Have Confused The Releva nt Analysis – The Court Must First
+ Determine That Plaintiffs Have Challenged A Final Agency Action BeforeC o n s i d e r i n g  T h e  M e r i t s  O f  P l a i n t i f f s ’  N E P A  A l l e g a t i o n s  .................... 1 1
+B. Plaintiffs Cannot Base Their Clai ms on Section 706(1) Of The APA &
+The Supreme Court’s Opinion In Norton v. SUWA Provides No A u t h o r i t y  T o  T h e  C o n t r a r y  ............................................ 1 3
+C. Plaintiffs Have Failed To Establish That Their Complaint Challenges 
+“ A g e n c y  A c t i o n ”  .................................................... 1 5
+D. The Reports & Letters Upon Which Plaintiffs Now Focus Are Not Final 
+A g e n c y  A c t i o n  ..................................................... 1 7
+I V . D e f e n d a n t s  H a v e  E s t a b l i s h e d  T h a t  O P I C  I s  N o t  S u b j e c t  T o  N E P A  .................. 2 0V. Defendants Have Established That The APA Precludes Judicial Review Of
+OPIC’s Actions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+V I . C O N C L U S I O N  ........................................................... 2 5
+
+1
+23456789
+10111213141516171819202122232425262728
+Def. Reply to Plf. Opp. to Def. Mot. 
+Sum.. Jdgmt., Civ. No. 02-4106(JSW) -ii-TABLE OF AUTHORITIES
+FEDERAL CASES         PAGEAlaska Fish and Wildlife Federation and Outdoor Council v. Dunkle, 829 F.2d 933 (9
+th Cir. 1987) 17 
+Bennett v. Spear, 520 U.S. 154 (1997) ....................................... 13,14, 18,20
+Block v. Community Nutrition Institute, 467 U.S. 340 (1984) ............................. 2 4
+Cantrell v. City of Long Beach, 241 F.3d 674 (9th Cir. 2001) ............................. 1 7
+Center for Biological Diversity v. Abraham, 218 F. Supp. 2d 1143 (N.D. Cal. 2002) ............ 9
+Churchill County v. Babbitt, 150 F.3d 1072 (9th Cir. 1998) ................................ 2
+Citizens for Better Forestry v. U.S. Dept. of Agriculture, 341 F.3d 961 (9th Cir. 2003) .......... 4
+City of Sausalito v. O’Neill, 386 F.3d 1186 (9th Cir. 2004) ...............................2 , 3
+Col. Farm Bureau Fed’n v. U.S. Forest Service, 220 F.3d 1171 (10th Cir. 2000) .............. 1 6
+Committee to Save the Rio Hondo v. Lucero, 102 F.3d 445 (10th Cir. 1996) .................. 3
+Douglas County v. Babbitt , 48 F.3d 1495 (9th Cir. 1995) .............................. 4 ,  2 3
+Ecology Center, Inc. v. Forest Service, 192 F.3d 922 (9th Cir. 1999) .................. 14, 18,19
+Fallini v. Hodel, 783 F.2d 1343 (9th Cir. 1986) ........................................ 1 4
+Foundation on Economic Trends v. Lyng, 817 F.2d 882 (D.C. Cir. 1987) .................... 1 6
+Franklin v. Massachusetts, 505 U.S. 788 (1992) ........................................ 2 4
+Hall v. Norton, 266 F.3d 969 (9th Cir. 2001) ......................................... 3 ,  4
+Idaho Conservation League v. Mumma, 956 F.2d 1508 (9th Cir. 1992) ....................... 6
+Industrial Safety Equipment Ass’n, Inc. v. EPA, 837 F.2d 1115 (D.C. Cir. 1988) .............. 1 8
+Kootenai Tribe of Idaho v. Veneman, 313 F.3d 1094 (9th Cir. 2002) ........................ 3
+Lujan v. Defenders of Wildlife, 504 U.S. 555 (1992) ..................................... 8
+Lujan v. National Wildlife Federation, 497 U.S. 871 (1990) ........................ 12, 13, 15
+Marsh v. Oregon Natural Resources Council, 490 U.S. 360 (1989) ......................... 1 6
+Merrell v. Thomas, 807 F.2d 776 (9th Cir. 1986) ....................................... 2 3
+
+1
+23456789
+10111213141516171819202122232425262728
+Def. Reply to Plf. Opp. to Def. Mot. 
+Sum.. Jdgmt., Civ. No. 02-4106(JSW) -iii-FEDERAL CASES         PAGE
+Metropolitan Edison Co. v. People Against Nuclear Energy, 460 U.S. 766 (1983) ............. 1 6
+Norton v. Southern Utah Wilderness Alliance, 124 S.Ct. 2373 (2004) ..................... 12,14
+Ohio Forestry Ass’n v. Sierra Club, 523 U.S. 726 (1988) ................................. 1 2
+ONRC Action v. Bureau of Land Management, 150 F.3d 1132 (9th Cir. 1998) ............... 1 2
+Robertson v. Methow Valley Citizens Council, 490 U.S. 332 (1989) ....................... 1 4
+San Diego v. Whitman, 242 F.3d 1097 (9th Cir. 2001) ................................... 1 9
+Scott v. Pasadena Unified School District, 306 F.3d 646 (9th Cir. 2002) ...................... 3
+Sierra Club v. Penfold, 857 F.2d 1307 (9th Cir. 1988) ................................... 1 7
+Sierra Club v. Peterson, 228 F.3d 559 (5th Cir. 2000) ................................ 12, 16
+Student Loan Marketing Ass’n v. Riley, 104 F.3d 397 (D.C. Cir. 1997) ..................... 1 9
+FEDERAL STATUTES AND REGULATIONS2 U.S.C. § 288i .................................................................. 2 4
+Administrative Procedure Act, 5 U.S.C. §§ 551(13) ..................................... 1 1
+5  U . S . C .  §  5 5 1 .................................................................. 1 85 U.S.C. § 551(13) ...................................................... 12, 15, 18, 20
+A d m i n i s t r a t i v e  P r o c e d u r e  A c t  ( A P A ) ,  5  U . S . C .  §  7 0 4 ........................... 1 ,  12, 14, 18
+5 U.S.C. § 701(a)(1) .............................................................. 2 3
+5 U.S.C. § 701(b)(2) ............................................................. 1 3
+5 U.S.C. § 706(1) ................................................................ 1 3
+5 U.S.C. § 706(2) ............................................................. 13, 14
+1 2  U . S . C .  §  6 3 5 ................................................................. 1 912 U.S.C. § 635(a)(1) .............................................................. 5
+22 U.S.C. §§ 2151 ............................................................... 2 1
+22 U.S.C. § 2151p ............................................................... 2 1
+22 U.S.C. § 2151p(c)(1)(A) ........................................................ 2 1
+
+1
+23456789
+10111213141516171819202122232425262728
+Def. Reply to Plf. Opp. to Def. Mot. 
+Sum.. Jdgmt., Civ. No. 02-4106(JSW) -iv-22 U.S.C. § 2151p(c)(1)(B) ........................................................ 2 1
+22 U.S.C. § 2181 (1968) .......................................................... 2 4
+22 U.S.C. § 2191 ............................................................... 5,21
+22 U.S.C. § 2191a(b) ............................................................. 2 1
+22 U.S.C. § 2191(n) .............................................................. 2 3
+22 U.S.C. § 2194 (1969) .......................................................... 2 5
+22 U.S.C. §2197 ................................................................. 2 1
+22 U.S.C. § 2197(j) .............................................................. 2 4
+22 U.S.C. §2199 ................................................................. 2 1
+23 U.S.C. § 134(o) ............................................................... 2 4
+23 U.S.C. § 135(c)(2) ............................................................. 2 4
+42 U.S.C. § 1973(b) .............................................................. 2 4
+42 U.S.C. § 4332(2)(C) ........................................................... 1 4
+45 U.S.C. § 716(d)(3) ............................................................ 2 4
+22 C.F.R. § 216.1(a) .............................................................. 2 2
+40 C.F.R. § 1501.4(b) ............................................................ 1 4
+40 C.F.R. § 1502.19 .............................................................. 2 2
+40 C.F.R. § 1503 ................................................................ 2 2
+40 C.F.R. § 1508.13 .............................................................. 1 7
+40 C.F.R. § 1508.9(a)(1) .......................................................... 1 7
+40 C.F.R. § 1508.13 .............................................................. 1 4
+41 Fed. Reg. 12896 (March 29, 1976) ................................................ 2 2
+41 Fed. Reg. 26913 (June 30, 1976) ................................................. 2 2
+45 Fed. Reg. 70239 (October 23, 1980) .............................................. 2 2
+H. Rep. No. 91-611, 91st Cong., 1st Sess. at 37 (1969) ................................... 2 5
+Pub. L. No. 97-113, Sec. 307, 95 Stat. 1533 (International Security and Development Cooperation Act of 1981) ................................................................... 2 2
+
+1
+23456789
+10111213141516171819202122232425262728
+Def. Reply to Plf. Opp. to Def. Mot. 
+Sum.. Jdgmt., Civ. No. 02-4106(JSW) 1I. Introduction
+To advance their arguments in opposition to Defendants’ Motion for Summary Judgment,
+Plaintiffs stubbornly fail to recognize that they have su ed two separate federal agencies with significantly
+different missions, different statutory authorities, and  different records relevant to this matter.  However,
+Plaintiffs cannot rely on their arguments with respect to one agency to suffice with respect to the other.
+In order to continue to the merits of this matter w ith respect to either Defendant, the Court must find that
+it has jurisdiction over each Defendant separately and that Plaintiffs have stated a viable claim with
+respect to each Defendant separately.  Because Plainti ffs have failed to satisfy their burden in this regard
+with respect to either Defendant, this matter must be dismissed.
+With respect to the Export-Import Bank of the Unite d States (Ex-Im Bank), Plaintiffs have failed
+to establish either the necessary Constitutional prerequi sites to bring this suit or the necessary waiver of
+the government’s sovereign immunity from suit.  First, Plaintiffs have failed to satisfy Article III’srequirements for standing by failing to show that in surance, guarantees or loans provided by Ex-Im Bank
+to support U.S. export purchases made in connection w ith an overseas project threaten the Plaintiffs with
+the impacts from climate change that they allege.  Second, Plaintiffs have not shown that they challenge
+any “final agency action”  within the meaning of the Administra tive Procedure Act (APA), 5 U.S.C. §
+704, without which the Court cannot adjudicate Plaintiffs ’ substantive claims.  Plaintiffs’ claims against
+the Ex-Im Bank must be dismissed.
+Plaintiffs’ claims against the Overseas Private Investment Corporation (OPIC) also suffer from
+the defects described above, in addition to other jurisd ictional flaws.  As with their claims against Ex-Im
+Bank, Plaintiffs have not shown that insurance or investment guarantees, provided in connection withoverseas projects to further the foreign policy interests of the United States, threaten Plaintiffs with theparticular impacts that they allege.  Nor have they  shown that their complain t in this matter challenges
+any action taken by OPIC that could be construed as “final agency action” within the meaning of theAPA.  In addition, Defendants have established that the APA cannot be construed to waive OPIC’ssovereign immunity from suit given that, in the agen cy’s statute, Congress decided to preclude judicial
+review of the agency’s compliance with its environmental analysis obligations.  That obligation for
+environmental review is found not in the National E nvironmental Policy Act as Plaintiffs allege, but in
+
+1
+23456789
+10111213141516171819202122232425262728
+1/ In both their standing argument and their argument concerning “final agency action,”
+(continued...)
+Def. Reply to Plf. Opp. to Def. Mot. 
+Sum.. Jdgmt., Civ. No. 02-4106(JSW) 2OPIC’s own statute – further depriving Plaintiffs  of any foundation for their claims.  As a result,
+Plaintiffs’ claims against OPIC must be dismissed. II. Plaintiffs Have Failed To Estab lish Standing To Bring Their Claims
+In arguing in favor of their standing to bring this  matter, Plaintiffs confuse the merits of their
+claim under the National Environmental Policy Act (NEPA) with the required showing for standing,
+argue such a dilution of the test for Article III sta nding so as to make it vi rtually meaningless, and
+fundamentally fail to address significant portions of  Defendants’ arguments.  Moreover, despite the
+Plaintiffs’ approach and the conclusions of their d eclarants, the evaluation of whether Plaintiffs have
+established the facts necessary to support standing doe s not require the Court to decide whether human-
+induced climate change is occurring with the results alleged by Plaintiffs.  Ra ther, the Plaintiffs must
+show that they have particular concrete interests that are threatened by the specific actions that theychallenge.  See
+, e.g. , Churchill County v. Babbitt , 150 F.3d 1072, 1079 (9th Cir. 1998).   Plaintiffs have
+fundamentally failed to connect their specific allege d injuries with any specific project, groupings of
+projects, or particular percentage of greenhouse ga s emissions – much less to an Ex-Im Bank decision
+to support particular U.S. exports or to an OPIC decision to provide insurance or guarantees to a U.S.lender, investor or contractor.
+As an initial matter, Plaintiffs argue repeatedly that they need not prove actual environmental
+harm to support standing.  See
+, e.g., Plf. Opp. at pp. 9-10.  Defendants have not suggested that they must.
+Rather, Plaintiffs must satisfy the familiar standards to establish Article III standing that are set forth inDefendants’ opening brief and further discussed here in.  As the Ninth Circuit has recently said when
+reviewing a NEPA claim, the “natur e of the Article III standing inquiry is not fundamentally changed
+by the fact that in many of its causes of action [the plaintiff] asserts a ‘procedural,’ rather than‘substantive,’ injury.” City of Sausalito v. O’Neill
+, 386 F.3d 1186. 1197 (9th Cir. 2004) (emphasis added).
+“Whether substantive or procedural injury is allege d, a plaintiff must show a ‘concrete interest’ that is
+threatened by the challenged action” in addition to a lleging a procedural violation in the decisionmaking
+process leading up to the action.  Id . Plaintiffs have failed to meet this burden.1/
+
+1
+23456789
+10111213141516171819202122232425262728
+1/ (...continued)
+discussed below, Plaintiffs argue that Defendants ha ve violated NEPA.  However, this question is not
+before the Court at this stage.  Rather, before turning to the merits of this matter, Plaintiffs mustovercome Defendants’ motion for summary judgment.  See
+ Civil Minutes (March 12, 2004), Case
+No. 02-4106 (JSW).  See  also Sausalito , 386 F.3d at 1199, 1206-1207 (considering Article III
+standing before turning to review of merits of NEPA claim); Scott v. Pasadena Unified School
+District , 306 F.3d 646, 653-54 (9th Cir. 2002) (court must establish jurisdiction before turning to
+merits).  Therefore, Defendants do not address, but certainly do not concede, the merits of Plaintiffs’
+allegation that such a violation has occurred.  
+2/ In this reply, Defendants focus on the causa tion prong of the standing inquiry, but do not
+concede that Plaintiffs have established either injury-in-fact or redressability.  As discussed furtherherein, the Declaration of Dr. Legates confirms th e scientific uncertainty inherent in assessing the
+potential for climate change caused by anthropogenic emissions of greenhouse gases and thedifficulty of connecting any particular alleged impact s to such emissions given the lack of data much
+less the impossibility of connecting any particular alleged impacts to the emissions from specificprojects or groups of projects or Defe ndants’ role in such projects. See
+ Def. Mem. at 10-14
+(discussing injury-in-fact).  Furthermore, Plaintiffs misstate the standard applicable to theredressability prong of the standing inquiry – essentially rendering it meaningless in a case involvinga NEPA claim.  Plf. Opp. at 26-27.   The Ninth Circ uit has stated that while plaintiffs do not have to
+show that an ultimate decision following revised NEPA procedures “‘will benefit them,’” they dohave to show that “a revised [procedure] may redr ess [their] alleged injuries.”  Kootenai Tribe of
+Idaho v. Veneman , 313 F.3d 1094, 1113 (9th Cir. 2002).  As set forth in Defendants’ opening brief,
+and confirmed by the Mahoney, Schehl, and Legate s Declarations submitted herewith, Plaintiffs
+cannot even establish that a decision, following NEPA analysis, not to participate in any particulartransaction “may” alleviate the injuries they claim by even some marginal amount.
+3/ The Ninth Circuit has specific precedent governing the analysis of standing in NEPA cases. 
+Def. Mem. at 14-15.  However, Plaintiffs rely substantially upon a case from the Tenth Circuit,Committee to Save the Rio Hondo v. Lucero
+, 102 F.3d 445 (10th Cir. 1996).  It provides no relevant
+standards different from applicable Ninth Circuit case law.
+Def. Reply to Plf. Opp. to Def. Mot. 
+Sum.. Jdgmt., Civ. No. 02-4106(JSW) 3A. Plaintiffs Have Failed To Show A Reasonab le Probability That Th e Challenged Actions
+Pose A Threat To Their Concrete Interests
+As set forth in Defendants’ opening brief, Plainti ffs cannot satisfy any of the three prongs of the
+Article III standing inquiry – injury-in-fact, causati on, or redressability.  In opposition, Plaintiffs have
+failed to substantiate their claims that their a lleged injuries meet these Constitutional requirements.2/  In
+particular, Plaintiffs have not established “‘the ‘reasonable probability’ of the challenged action’s threat
+to [their] concrete interest.’” Hall v. Norton , 266 F.3d 969, 976 (9th Cir. 2001) (internal citations omitted).
+Pursuant to this standard, Defendants explained that  they play a limited and narrow role in the projects
+of concern to Plaintiffs and that their actions are too tenuously connected to Plaintiffs’ alleged injuries
+to support causation.3/   Def. Mem. at 15-21.  
+In response, Plaintiffs address only two aspects of Defendants’ arguments.  Plaintiffs claim that
+the projects at issue could not go forward absent agency involvement and that both OPIC and Ex-Im
+Bank “expressly recognize that their financing of a fossil-fuel-fired power plant results in GHG
+
+1
+23456789
+10111213141516171819202122232425262728
+4/ Citing Citizens for Better Forestry v. U.S. Dept. of Agriculture , 341 F.3d 961 (9th Cir. 2003),
+Plaintiffs argue that the “reasonable probability” standard is related to the likelihood of harm andinjury-in-fact – not causation.  Plf. Opp. at 15.  While in Citizens for Better Forestry
+, the Ninth
+Circuit did use the standard in the context of analysis  of injury-in-fact, the Ninth Circuit also uses the
+standard in assessing causation.  See , e.g. , Hall v. Norton , 266 F.3d 969, 976 (9th Cir. 2001) (using
+“reasonable probability” in causation analysis), Douglas County v. Babbitt , 48 F.3d 1495, 1501 n. 6
+(9th Cir. 1995) (referring to the standard in the context of causation).  Whether considered in the
+context of injury-in-fact, as Plaintiffs do, or causation, Defendants have established that it is not
+“reasonably probable” that it is Defendants’ activities that threaten a demonstrable concrete interest.
+5/ Plaintiffs state throughout their brief that  Defendants’ cannot reply on supposed “extra-
+record” evidence to support their motion for summary judgment on threshold and jurisdictionalissues.  See
+, e.g. , Plf. Opp. at 19.  However, as fully  explained in Defendants’ Opposition to
+Plaintiffs’ Motion to Strike Evidence, filed on January 27, 2005, the Court’s review is not confined toan administrative record for consideration of the issues now before the Court. 
+Def. Reply to Plf. Opp. to Def. Mot. 
+Sum.. Jdgmt., Civ. No. 02-4106(JSW) 4emissions.”  Plf. Opp. at 25.  This response fails to address the substance of Defendants’ argument
+regarding the limited role that each Defendant has with  respect to the overseas projects.   Furthermore,
+not only have Plaintiffs failed to s how a sufficient link between the speci fic impacts that they allege and
+the anthropogenic emission of greenhouse gases given the significant degree of uncertainty in therelevant science and the lack of any supporting data, but Plaintiffs have not shown what they must to
+pursue their specific claims in this matter – th e “reasonable probability” th at actions taken by Ex-Im
+Bank or OPIC, or even emissions from any particular  project or grouping of pr ojects, could cause their
+specific injuries.
+4/  
+1. Plaintiffs’ Alleged Injuries Are Too Te nuously Connected To Either The Acts Of
+OPIC Or ExIm Bank To Support Causation
+Plaintiffs have not, and cannot, refute the tenuous link between their alleged injuries and actions
+taken by either defendant with respect to the projects in foreign countries that involve some participation
+by a U.S. exporter receiving financi ng support from Ex-Im Bank, or a U.S.  investor, lender or contractor
+who purchases insurance or a guarantee from OPIC.  Neither OPIC nor Ex-Im Bank approves, permits,
+designs, or otherwise controls the overseas projects at issue.  Def. Mem. at 16.  See  also  Def. Mem.,
+O’Boyle Decl. at ¶ 41.5/    With respect to Ex-Im Bank, which provides insurance, guarantees or loans
+to support U.S. export purchases made in connection with an overseas project, Defendants provided a
+detailed explanation of Ex-Im Bank’s limited involveme nt in and attenuated relationship to the energy
+projects described in Plaintiffs’ Complaint – such as approving a guarantee for a loan to finance the
+purchase of U.S. manufactured equipment, without  which the foreign buyer would purchase equipment
+
+1
+23456789
+10111213141516171819202122232425262728
+6/ Plaintiffs allege that a budget report submitted by OPIC to Congress undermines this
+conclusion.  Plf. Opp. at 24.   However, Plainti ffs imbue the statement that they quote from that
+report with meaning that it does not possess.  Wher e OPIC states a project would not go forward but
+(continued...)
+Def. Reply to Plf. Opp. to Def. Mot. 
+Sum.. Jdgmt., Civ. No. 02-4106(JSW) 5made elsewhere.  Def. Mem. at 16-17.  See  also O’Boyle ¶¶ 32-47.  With respect to OPIC, Defendants
+also explained how OPIC’s role may be limited to providing political risk insurance to a drilling
+subcontractor whose role ends upon the location of oil.   Def. Mem. at 17, Himb erg Decl. at ¶¶19-20.  See
+also Schehl Decl. at ¶ 14 (limited role in privatization of already operating facility) (Att. A).  
+Plaintiffs do not contradict, or even address, this  explanation but prefer to continue to myopically
+attribute responsibility for entire oil field developm ents, for example, to Defendants and claim, in
+essence, that the purpose of each agency is to ensure  that such overseas project s at issue go forward.  Plf.
+Opp. at 24.  Plaintiffs’ argument fails to recognize th e entities who are in fact responsible for the viability
+of an overseas project – investors, power co mpanies, and foreign governments, among others.
+Furthermore, in making their argument, Plaintiffs  fundamentally misconstrue the statutory mission of
+each agency, which is set forth in detail in Defe ndants’ opening brief, as well as the business reality
+facing applicants to OPIC or Ex-Im Bank.  Def. Me m. at 15-18.  Specifically, the purpose of Ex-Im Bank
+is not to ensure the viability of overseas projects,  but to encourage the export of U.S. products and
+services to contribute to the employment of U.S. workers.  12 U.S.C. § 635(a)(1).  While U.S. exportersmay be unable to participate in particular project s absent Ex-Im Bank financing support, the overseas
+projects themselves would likely go forward with goods purchased from foreign competitors, which may
+be financed by one of Ex-Im Bank’s foreign counterparts.  Def. Mem. at 18.  
+OPIC has a distinct mission that supports the fore ign policy objectives of the United States  – “to
+mobilize and facilitate the participation of United St ates private capital and skills in the economic and
+social development of less developed countries and areas . . . .”  22 U.S.C.  § 2191.  OPIC does this by
+providing insurance and guarantees that the private market may be unwilling to offer due to riskassociated with the project.  Himberg ¶¶ 8-9.  Howeve r, the consequences of lack of OPIC involvement
+do not include the termination of the particular overseas  project as Plaintiffs claim – rather,  given the
+size and importance of the various projects of concer n to Plaintiffs, they can, and do, go forward without
+OPIC involvement.
+6/  Himberg ¶¶ 8, 23.  
+
+1
+23456789
+10111213141516171819202122232425262728
+6/ (...continued)
+for OPIC participation, the “project” refers to the particular investor’s investment.  While a project
+may go forward, the particular U.S. inve stor may not participate without OPIC.
+Def. Reply to Plf. Opp. to Def. Mot. 
+Sum.. Jdgmt., Civ. No. 02-4106(JSW) 6   The Court’s inquiry should end at this poi nt given the tenuous chain that connects either
+defendant to possible impacts from climate cha nge resulting from greenhouse gas emissions.  See  Idaho
+Conservation League v. Mumma , 956 F.2d 1508, 1517-18 (9th Cir. 1992) (“causation question concern[s]
+only whether plaintiffs’ injury . . . is dependent upon [the agency’s] policy, or is instead the result of
+independent incentives governing [[a] thir d part[y’s]] decisionmaking process.”).
+2. Plaintiffs’ Efforts To Attribute Subs tantial Greenhouse Gas Emissions To A
+Particular Grouping Of Projects And To Defendants Is Unavailing
+ Even if the Court were to consider, from a causation perspective, the extent of greenhouse gas
+emissions that may be associated with projects of c oncern to Plaintiffs, Plain tiffs’ argument also fails in
+this regard.  Based on the Declaration of Richard Heed e, Plaintiffs attribute 8%  of the world’s emissions
+of greenhouse gases to OPIC and Ex-Im Bank.   Howe ver, the Heede Declaration provides no basis for
+the Court to conclude that Defendants’ actions constitute a sufficient threat to Plaintiffs’ interests tosupport standing, even assuming that project emissions  could be attributed to OPIC and Ex-Im Bank,
+which they cannot as discussed above.  The Heede Declaration is a result-oriented analysis that restsupon mistaken assumptions and faulty data.  See
+ Schehl Decl. (Att. A), Mahoney Decl. (Att. B).
+Errors and exaggerations in the Heede Declar ation are numerous and he applies a methodology
+and assumptions that are not supported by internati onally recognized protocol s for accounting emissions.
+For example, Heede includes downstream emissions in  his totals, emissions resulting from the ultimate
+burning of fossil fuel by end users, despite the f act that the accepted methodology of accounting for CO2
+attributes such emissions only to the ultimate us er of the fuel.  Schehl ¶ 5, 16-20, Mahoney ¶ 4, 9-12.
+Heede includes projects that never went forward and pr ojects that never went fo rward with OPIC or Ex-
+Im Bank involvement, while missing others.  Sche hl ¶ 4, 11-15, Mahoney ¶ 4, 6-8.  Heede more than
+doubles the expected life of power plant projects to  sixty years, even though the original equipment
+critical for plant operation, for which OPIC or Ex-Im Bank support might be sought, would be retiredand replaced with new equipment at 20-25 year cy cles.  Schehl ¶ 6, 21-24, Mahoney ¶ 4, 13-15.  Heede
+uses capacity factor estimates (how close to full capac ity a plant will run) that do not reflect actual plant
+
+1
+23456789
+10111213141516171819202122232425262728
+Def. Reply to Plf. Opp. to Def. Mot. 
+Sum.. Jdgmt., Civ. No. 02-4106(JSW) 7operations.  Schehl ¶ 25-30, Mahone y ¶ 4, 16-17.  Heede double counts pr ojects – adding emissions from
+a project twice if both OPIC and Ex-Im Bank ha ve some involvement. Schehl ¶ 7-10, Mahoney ¶ 26. 
+OPIC evaluated the Heede Declaration and dete rmined that the proper percentage of CO2
+emissions attributable to the projects  of concern to Plaintiffs is 0.14%. Schehl ¶ 33.  Ex-Im Bank
+evaluated the Heede Declaration and determined that the proper percentage of CO2 emissions attributableto projects  of concern to Plaintiffs  is 1.2% of an thropogenic CO2 emissions.  Mahoney ¶ 32.  However,
+total project emissions fail to address the question of whether such emissions could be attributed toDefendants.  As discussed above, they cannot.  Moreove r,  despite Heede’s attribution of 100% of project
+emissions to Defendants, Defendants are aware of no international protocols that suggest attribution of
+greenhouse gas emissions to parties that finance, insu re, or guarantee projects or parts of projects. Schehl
+¶ 31, Mahoney ¶ 18-19.   Furthermore, the international protocols upon which Heede claims to rely inhis declaration, if they were applicable, contempl ate that companies that account for greenhouse gas
+emissions can either: (1) count only that portion of emissions that corresponds to the company’s actual
+financial stake in the project; or (2) count only emi ssions from projects that a company controls operation
+of the project by virtue of the dominance of its financing.  Schehl ¶ 31, Mahoney ¶ 20-25.  If these
+protocols applied to Defendants, which they do not, even OPIC and Ex-Im  Bank’s own estimates of
+emissions which Plaintiffs then attribute to actions by the two agencies would be dramatically lower (0.3
+to 0.4% in the case of Ex-Im; 0.02% in the case of OPIC) under the pro rata approach and to zero underthe control approach.  Schehl ¶ 33, Mahoney ¶ 33.
+Thus, the Heede Declaration provide s no basis for the Court to conclude that the projects at issue
+result in any more than minimal emissions – even if such emissions could be attributed to either
+Defendants’ limited relationship to any project.  See
+, generally , Schehl Decl., Mahoney Decl.
+3. The Impacts Alleged By Plaintiffs Ca nnot Be Attributed To Greenhouse Gas
+Emissions From The Projects Of Concern To Plaintiffs
+In addition to the Heede Declaration, Plaintiffs submit declarations from various representatives
+of the plaintiff organizations and municipalities deta iling their alleged injuries, as well as an expert
+declaration, by Michael MacCracken, that purports to substantiate those allegations. Given the minimal
+emissions at issue and the lack of  any degree of certainty regarding alleged impacts of such emissions,
+
+1
+23456789
+10111213141516171819202122232425262728
+7/ Dr. David R. Legates is a climatologist who focuses on assessing climate variability and
+change.  His declaration reviews and analyzes the conclusions drawn in the MacCracken Declaration,
+as well as in the declarations submitted by Plaintiffs’ various representatives, based on his ownexperience and based on data from peer-reviewed publications.  Legates ¶3.  For example, Dr.Legates explains that the MacCracken Declaration relies only on the most extreme climate models tosupport its assertions of dramatic continuing climate change that it attributes, in part, to actions byOPIC and Ex-Im Bank.  Legates ¶7-10.  Other models, developed by international panels of experts,predict less dramatic changes.  Id.
+ While MacCracken attributes changes in climate predominantly to
+anthropogenic emissions of greenhouse gases, again relying only on the most dramatic estimates offuture greenhouse gas emissions, observed climate variability can be attributed to natural processeswithin the climate system as well as to the unreliability of both observations and climate modeling. 
+(continued...)
+Def. Reply to Plf. Opp. to Def. Mot. 
+Sum.. Jdgmt., Civ. No. 02-4106(JSW) 8Plaintiffs cannot establish a “reasonable probability” th at any particular project, or grouping of projects,
+could cause the injuries that they allege. 
+As an initial matter, the declarations by Plainti ffs’ representatives make definitive statements –
+that the declarants use areas that “are, or will, be  affected by climate change” and that OPIC and Ex-Im
+Bank’s actions contribute to such affects – without any more support than the declarant’s stated beliefthat affects will occur.  Plf. Opp. at 13.  See
+, also , Plf. Ex. 5 at ¶¶13-14.   None of these declarations
+establish the threat to Plaintiffs’ concrete inte rests from Defendants’ actions necessary to support
+standing.  To survive a summary judgment motion, Plaintiffs must “submit affidavits or other evidenceshowing, through specific facts,” not only that a particular threat from the challenged action exists, but
+that they would be “‘directly’ affected  apart from their ‘special interest in the subject.’” Lujan v.
+Defenders of Wildlife , 504 U.S. 555, 563 (1992) (internal citations omitted) (emphasis added).  
+Nor does the MacCracken Declaration provide the Court with a sufficient basis to conclude that
+Defendants’ actions pose a reasonably probable threat to  Plaintiffs’ concrete interests.  Not only is the
+MacCracken Declaration premised on the faulty assump tion that the projects of concern to Plaintiffs are
+responsible for 8% of worldwide greenhouse gas em issions, but it fails to acknowledge the significant
+uncertainties behind the conclusions that it draws re garding links between greenhouse gas emissions from
+the projects of concern to Plaintiffs and their alleged injuries.  See  MacCracken, Plf. Ex. 2 at ¶ 15.  The
+attached Declaration of Dr. David R. Legates explai ns that based on actual data from observations, which
+MacCracken does not assess, and taking into account  the significant unreliability in climate modeling,
+“it is impossible to connect emissions of greenhouse gases from any specific source or group of sources
+to an increased risk of any particular outcome.”7/ Legates ¶ 11 (Att. C).
+
+1
+23456789
+10111213141516171819202122232425262728
+7/ (...continued)
+Id. at ¶6, 9  See  also Def. Mem. at 11-14.
+8/ One of Plaintiffs’ declarants expresses con cern about the extinction of polar bears due to
+climate change.  Plf. Ex. 6 at ¶ 7.  Dr. Legates explains that temperatures were as high as they
+presently are in the 1930s and that current population data actually shows an increase in polar bearpopulations in areas that have experienced a recent increase in temperature.  Legates ¶35. 
+Def. Reply to Plf. Opp. to Def. Mot. 
+Sum.. Jdgmt., Civ. No. 02-4106(JSW) 9With respect to the particular impacts alleged by Plaintiffs, from concerns about increasing storms
+to loss of maple syrup production, Dr . Legates explains that data does not support the general conclusions
+drawn by the MacCracken Declarati ons and by the declarations submitted by Plaintiffs’ representatives.
+Legates ¶11-47.  For example, “virtually no evidence exists to support” the notion that tropical cyclones
+and non-tropical storms will increase dramatically in frequency and intensity due to climate change.Legates ¶ 18.  Data relating to Arctic temperature trends reflect not consistent effects of warming
+attributable to anthropogenic emissions, but temperat ure fluctuations “extending back several centuries,”
+conflicting research, inconsequential trends in long te rm changes in Arctic sea ice, and air temperatures
+in the 1930s as high as present.
+8/ Id. at ¶ 29-35.  Data relating to rise in sea levels along the California
+and Carolina coasts, areas of concern to Plaintiffs,  reflect the lowest such trends for coastal regions
+anywhere in the world, with the rate decreasing dr amatically along the Carolina coast in recent years,
+suggesting that other factors contribute to sea level changes in these regions.  Id.  at ¶ 36-38.  Data relating
+to maple syrup production shows a decrease in production in Vermont from 1916 to the early 1980s,relatively constant production in Verm ont since the early 1980s, a significant increase  in production in
+Canada since 1977, and regional air temperatures wh ich show no trend at all from 1915 to 1998.  Id.
+ at
+¶ 42-43.   Data relating to other impacts alleged by Pl aintiffs reveal similar weaknesses in claims that
+such impacts are attributable to emissions from specific projects.  Id.  at ¶13-17, 22-28, 39, 40-41.
+Thus, the impacts alleged by Plaintiffs cannot be attributed to greenhouse emissions from the
+projects of concern to Plaintiffs with any degree of “reasonable probability.” See  Legates ¶ 44-47.  The
+uncertain state of current knowle dge, unreliable and widely varying climate models, and data that
+contradicts Plaintiffs’ summary conclusions continue  to compel the conclusion that  “[t]he concerns
+presented regarding global warming are too general, too unsubstantiated, too unlikely to be caused bydefendants’ conduct, and/or too unlikely to be redre ssed by the relief sought to confer standing.”  Center
+for Biological Diversity v. Abraham , 218 F. Supp. 2d 1143, 1155 (N.D. Cal. 2002).
+
+1
+23456789
+10111213141516171819202122232425262728
+9/ Moreover, this assertion, which Plaintiffs re peat throughout their brief, assumes the critical
+conclusion – that greenhouse gas emissions cause the impacts that Plaintiffs allege.  Without theability to make this ultimate connection, which is addressed above, the mere fact that the projects ofconcern to Plaintiffs emit a particular substance is irrelevant to their ability to show causation or athreatened harm.  Nowhere in either the OPIC or Ex-Im Bank report does either agency suggest thattheir actions result in any particular environmental impact related to CO2 emissions.
+10/ Plaintiffs argue that OPIC and Ex-Im Bank have admitted, via their respective reports on
+climate change, that, as a general matter, climate change is occurring with the potential impacts thatPlaintiffs allege.  Plf. Opp. at 11, 20.   While both reports take a cautious approach to the issue for
+purposes of assessing the CO2 emissions from re levant projects, both reports acknowledge the
+uncertain state of science and the inability to attribute specific impacts to emissions from the projectsdescribed in the reports.  In Climate Change: Assessing Our Actions , OPIC notes that “how much of
+the recent warming is due to human influences and how much is due to natural climate variations isthe focus of much current research.”  Plf. Ex. 3 at 21. The report goes on to explain scientificuncertainty surrounding the relationship between CO2 emissions and natural climate cycles andpotential impacts of increased atmospheric concentrations of CO2 based on particular forecasts.  Id.
+at 28-29. Similarly, in Ex-Im Bank’s Role in Greenhouse Gas Emissions and Climate Change , Ex-Im
+Bank states that “[a]lthough it is accepted that human activities have contributed to the increase inatmospheric CO2 concentrations, scientific opinions about the relationship between the increased
+(continued...)
+Def. Reply to Plf. Opp. to Def. Mot. 
+Sum.. Jdgmt., Civ. No. 02-4106(JSW) 10B. Neither Defendant Has Suggested That Their Actions Result in Greenhouse Gas Emissions
+Finally, the notion advanced by Plaintiffs that either OPIC or Ex-Im Bank has suggested that
+“their financing  of a fossil-fuel-fired power plant results  in GHG emissions ” or that their actions may
+contribute to climate change, even if relevant to the Plaintiffs’ burden to establish standing, is flatlycontradicted by an accurate reading of the agencies’ good faith efforts to consider climate change issues
+– an effort undertaken in response to a critical repor t issued by plaintiff Friends of the Earth, among other
+groups.
+9/  Plf. Opp. 11, 16-17, 18 (emphasis added).  In Climate Change: Assessing Our Actions , OPIC
+does not conclude or imply that its decisions resu lt in CO2 or other greenhouse gas emissions, or more
+importantly in any resulting environmental impacts, and Plaintiffs quote no language suggestingotherwise.  Rather, in the report the agency re views the emission potential of projects involving some
+participation by a U.S. investor, lender, or contr actor who purchases financial services from OPIC,
+recognizing that such projects resu lt in CO2 emissions, in broad term s without considering the question
+presented here – whether  any resulting such emissions can be attributed to OPIC decisions so as tosupport causation.  See
+, e.g. , Plf. Ex. 3 at 49. Similarly, in Ex-Im Bank’s Role in Greenhouse Gas
+Emissions and Climate Change , Ex-Im Bank considers “greenhouse gas emissions of Ex-Im Bank
+supported projects,” without accepting, or ev en considering, that its own actions cause  such emissions
+and any future impacts.10/    See , e.g. , Att. D-1a at 24.
+
+1
+23456789
+10111213141516171819202122232425262728
+10/ (...continued)
+GHG concentration and induced temperature change  and resulting environmental consequences are
+not consistent ... [t]he extent of temperature change and related adverse impact of this effect remains
+unclear.” Att. D-1a. Furthermore, both reports were written before the issuance of many of theleading reports on the issue and without benefit of more recent research upon which Defendants relyto contest Plaintiffs’ standing.  See
+, generally , Legates.  See  also Def. Mem. at 11-13. 
+Def. Reply to Plf. Opp. to Def. Mot. 
+Sum.. Jdgmt., Civ. No. 02-4106(JSW) 11III. Defendants Have Established That The AP A Prohibits Plaintiffs’ Programmatic Attack
+And That Plaintiffs Have Not Challenged Any Final Agency Action Fi t For Judicial Review
+Plaintiffs’ Complaint makes two straightforward claims – that OPIC and Ex-Im Bank are
+conducting energy related “programs” without comply ing with NEPA and that each agency has failed
+to comply with NEPA for individual energy a nd oil and gas sector-related applications.  2nd Am. Coml.
+¶¶ 154-161, 213.  However, before the Court may evaluate the merits of the Plaintiffs’ claim thatDefendants have violated NEPA in  taking such alleged actions, it is a matter of blackletter law that
+Plaintiffs must establish that they are challenging “final agency action” within the meaning of the
+Administrative Procedure Act, 5 U.S.C. §§ 551(13), 704.  Defendants demonstrated in their opening brief
+that Plaintiffs’ claims do not meet this fundamental  prerequisite to suit – neither Ex-Im Bank nor OPIC
+has a “program supporting energy projects” that cons titutes final agency action within the meaning of
+the APA and Plaintiffs’ Complaint does not even purpor t to challenge any specific individual application.
+Def. Mem. at 23-28.  As a result, the United States has not waived sovereign immunity from suit and this
+Court is without jurisdiction over Plaintiffs’ claims.
+In opposition, Plaintiffs make three arguments, but fail to identify any final agency action which
+this Court could review.  First, th ey argue a reversal of the relevant  inquiry – claiming that Ex-Im Bank
+and OPIC have each violated NEPA and that each su ch violation constitutes final agency action.  Second,
+Plaintiffs argue that certain letters sent by OPIC and Ex-Im Bank, as well as the climate change reports
+described above, constitute final agency action.  Third, Plaintiffs claim that their Complaint doeschallenge certain individual final agency actions and does not mount a prohibited programmatic attack.
+Plaintiffs’ arguments fundamentally misconstrue the relevant legal standards and fail to establish thatthere is any final agency action properly before the Court.  A. Plaintiffs Have Confused The Relevant Analysis  – The Court Must First Determine That
+Plaintiffs Have Challenged A Final Agency Action Before Considering The Merits OfPlaintiffs’ NEPA Allegations
+Plaintiffs’ assertion that their Complaint does ch allenge final agency action subject to judicial
+
+1
+23456789
+10111213141516171819202122232425262728
+11/S e e  also Sierra Club v. Peterson , 228 F.3d 559, 569-70 (5th Cir. 2000) (“Under the APA, the
+district court only had jurisdiction over challenges to identifiable final agency actions.   Here, thedistrict court acted outside its jurisdiction in reaching the merits of the environmental groups’programmatic challenge, thereby ignoring the critical limits on judicial review which define the role
+of courts in the modern administrative state.”).  
+12/ Plaintiffs also argue, based on Ohio Forestry Ass’n v. Sierra Club , 523 U.S. 726, 737 (1988),
+that they may complain about these alleged NEPA violations now because once they occur “the claimcan never get riper.”  In so doing, they misuse Ohio Forestry
+.  That case did not purport to establish
+an exception to the APA’s final agency action requirement.  Rather, the Supreme Court was simplycontrasting the situation in Ohio Forestry
+, where the timbering plans at issue were subject to further
+refinement, with a situation where a claim raised at the planning stage should be heard by a court. 
+The Court used the example of the denial of a NEPA  procedure, but did not say that all NEPA claims
+are of a type that can never get riper.  Indeed, such a holding would contradict the Supreme Court’s
+Lujan  decision, discussed above. Furthermore, despite the dicta that Plaintiffs cite, and despite the
+fact that the petitioners brought a programmatic challenge under NEPA, the Supreme Courtremanded the case with instructions to dismiss the suit in its entirety for lack of ripeness.  Id.
+ at 731,
+739. 
+Def. Reply to Plf. Opp. to Def. Mot. 
+Sum.. Jdgmt., Civ. No. 02-4106(JSW) 12review turns on the faulty premise that they have alle ged violations of NEPA and that such violations are
+subject to judicial review.  Plf. Opp. at 28-40.  However, an alleged violation of NEPA, in and of itself,
+does not constitute final agency action within the meaning of the APA.  Rather, a court must firstdetermine whether the purported agency action challenged constitutes a “final agency action” subject tojudicial review before  turning to the question of whether in taking that action, the agency violated a
+substantive statute such as NEPA.  See
+, e.g. , Norton v. Southern Utah Wilderness Alliance , 124 S.Ct.
+2373 (2004) (assessing whether suit authorized under APA before turning to merits of NEPA claim);
+Lujan v. National Wildlife Federation , 497 U.S. 871, 890-894 (1990) (assessing whether challenge to
+supposed “land withdrawal review program” constituted challenge to “agency action” so as to allow APA
+review of alleged violations of a substantive statute);ONRC Action v. Bu reau of Land Management , 150
+F.3d 1132 (9th Cir. 1998) (same).11/  Even allegations, such as those made by these Plaintiffs, that
+“violation of the law is rampant within” an agency pr ogram are irrelevant if a plaintiff has not challenged
+a final agency action that causes it harm.12/  Lujan , 497 U.S. at 891.
+In determining whether a plaintiff has challenged a final agency action, courts look not to the
+substantive obligations that an agency has allegedly vi olated, as these Plaintiffs urge, but to the character
+of the underlying action.  A plaintiff must establish both that the action challenged meets the definition
+of “agency action” set forth in 5 U.S.C. § 551(13) and that the action in question is a “final” action of
+the agency, 5 U.S.C. § 704.  Neither requirement implicates the terms of a substantive statute such asNEPA.  Rather, an “agency action” is defined as “the  whole or part of an agency rule, order, license,
+
+1
+23456789
+10111213141516171819202122232425262728
+13/ As set forth in Defendants’ opening brief, Plai ntiffs’ Complaint does not specify whether they
+seek review under 5 U.S.C. § 706(1) or 706(2).  Def. Mem. at 24-25.  Nonetheless, Defendants
+explained the differences between these two mechanisms for judicial review and the conclusion thatPlaintiffs could not satisfy the APA’s prer equisites to suit for either provision.  Id
+.  Both allow
+review only of “agency action” which is defined iden tically for purposes of both sections.  5 U.S.C. §
+701(b)(2).
+Def. Reply to Plf. Opp. to Def. Mot. 
+Sum.. Jdgmt., Civ. No. 02-4106(JSW) 13sanction, relief, or the equivalent or  denial thereof, or failure to act .”  5 U.S.C. § 551(13).  Whether such
+an action,  is a final one for purposes of the APA turns on whether the action marks “the consummation
+of the agency’s decisionmaking process . . . – it must not  be of a merely tentative or interlocutory nature”
+– and whether the action is one “by which ‘rights or obligations have b een determined,’ or from which
+‘legal consequences will flow’ . . . .”  Bennett v. Spear , 520 U.S. 154, 177 (1997) (internal citations
+omitted).B. Plaintiffs Cannot Base Their Clai ms on Section 706(1) Of The APA  & The Supreme Court’s
+Opinion In Norton v. SUWA Provides No Authority To The Contrary
+Plaintiffs claim, based on the Suprem e Court’s recent decision on Norton v. SUWA
+, that their
+claims can be brought based on S ection 706(1) of the APA.  See  Plf. Opp. at 35-36.  However, Plaintiffs’
+basic misunderstanding of APA’s requirements is high lighted by their characterization of the relevance
+to this matter of that decision.  In Norton v. SUWA , the Supreme Court reiterated that the judicial review
+provisions of the APA can be triggered only by a cl aim seeking review of “circumscribed, discrete,
+agency actions . . . .”  Norton v. SUWA , 124 S. Ct. at 2378.  This is true  whether a plaintiff challenges
+an agency action as “arbitrary, capricious, an abus e of discretion, or otherwise not in accordance with
+law,” 5 U.S.C. § 706(2), or whether a plaintiff seeks “to compel agency action unlawfully withheld orunreasonably delayed” 5 U.S.C. § 706(1).
+13/  Norton v. SUWA , 124 S. Ct. at 2378.  At the same time,
+the Supreme Court confirmed its prior holdi ng in Lujan v. National Wildlife Federation , 497 U.S. 871,
+that under either portion of Section 706, the APA doe s not allow a “broad programmatic attack”, but
+requires a challenge to “discrete agency action.” Norton v. SUWA , 124 S. Ct. at 2379-80.  
+While Norton v. SUWA  is instructive for its affirmance of the scope of the APA’s “final agency
+action” requirement, its meaning does not stretch far enough to encompass Plaintiffs’ application of the
+decision to this matter.  Plain tiffs argue that under Norton v. SUWA  and based on Section 706(1) of the
+APA, they are asking the Court to  compel a mandatory and discrete duty – the preparation of an
+Environmental Assessment (EA) under NEPA by each  agency to assess each agency’s alleged
+
+1
+23456789
+10111213141516171819202122232425262728
+14/ Notably, NEPA itself does not direct the prep aration of Environmental Assessments (EA),
+which are creatures of regulation.  See  42 U.S.C. § 4332(2)(C) (concerning only the preparation of
+Environmental Impact Statements), 40 C.F.R. § 1501.4(b) (defining when to prepare an EA).  InNorton v. SUWA
+, 124 S. Ct. at 2384 n. 5, the Supreme Court expressly did not address whether
+Section 706(1) could be used to enforce a duty cr eated by regulation.  Moreover, even the regulations
+do not address the preparation of a “programmatic” EA such as the one that Plaintiffs seek.
+Def. Reply to Plf. Opp. to Def. Mot. 
+Sum.. Jdgmt., Civ. No. 02-4106(JSW) 14“programmatic actions.”14/  Plf. Opp. at 35.  However, this cl aim does no more than repackage their
+essential complaint – that OPIC and Ex-Im Bank each conduct supposed energy programs withoutcomplying with NEPA – which is based on the premise that each agency has taken some action “not in
+accordance with law” and thus which must be reviewe d, if at all, under 5 U.S. C. § 706(2).  Plaintiffs’
+claim is unlike legitimate  claims brought under Secti on 706(1) which seek to compel an agency to take
+a specific nondiscretionary action that it has not taken, ra ther than seeking to review the legal sufficiency
+of actions taken.  See
+, e.g. , Fallini v. Hodel , 783 F.2d 1343, 1345 (9th Cir. 1986) (statute imposes
+mandatory duty to remove wild horses from private land once request for removal made). 
+The Ninth Circuit has confirmed that Section 706( 1) applies “only when there has been a genuine
+failure to act” and that such a “genuine failure” doe s not include “complaints”,  such as the one before
+this Court, “about the sufficiency of agency acti on . . . .”  Ecology Center, Inc. v. Forest Service , 192
+F.3d 922, 926 (9th Cir. 1999).  This result makes sense because an EA is not itself “final agency action”
+within the meaning of the APA.  Standing alone, it does not create rights or obligations or produce other
+legal consequences.  See  Bennett , 520 U.S. at 177-78. Indeed, it is not even the final step in the NEPA
+process when an EA is prepared – an EA is followe d by either a decision that an EIS is required or a
+Finding of No Significant Impact.  See  40 C.F.R. §§ 1508.9, 1508.13.  An EA is  a procedural prerequisite
+to taking some other step that may, in turn, qualif y as “final agency action” reviewable under Section
+706(2) of the APA.  Such intermediate agency action is “not directly reviewable under the APA”
+although it “is subject to review on the review of the final agency action.”  5 U.S.C. § 704.  See  also
+Robertson v. Methow Valley Citizens Council , 490 U.S. 332, 345-46 (reviewing adequacy of NEPA
+analysis in context of challenge to final agency decision to issue permit for ski area).  
+Thus, in order to continue to pursue their claims  that OPIC and Ex-Im Ba nk have violated NEPA,
+Plaintiffs must establish with respect to each ag ency that they have challenged a “circumscribed,
+discrete” and final agency action within the meaning of the APA.  Norton v. SUWA , 124 S. Ct. at 2378.
+
+1
+23456789
+10111213141516171819202122232425262728
+15/ The Supreme Court has explained that the “case-by-case approach that this requires is
+understandably frustrating to an organization such as respondent, which has as its objective across-the-board protection of our Nation’s wildlife and the streams and forests that support it.  But this isthe traditional, and remains the normal, mode of operation of the courts.  Except where Congressexplicitly provides for our correction of the administrative process at a higher level of generality, weintervene in the administration of the laws only whe n, and to the extent that, a specific ‘final agency
+action’ has as actual or immediately threatened effect.”  Lujan
+, 497 U.S. at 894.
+Def. Reply to Plf. Opp. to Def. Mot. 
+Sum.. Jdgmt., Civ. No. 02-4106(JSW) 15Because they have failed to do so, their claims must be dismissed.
+C. Plaintiffs Have Failed To Establish That Their Complaint Challenges Any “Agency Action”
+Pursuant to the principles explained above, Defenda nts have established that neither of the claims
+set forth in Plaintiffs Amended Complaint – that OPIC and Ex-Im Bank are conducting energy related“programs” without complying with NEPA and that each agency has failed to comply with NEPA for
+individual energy and oil and gas sector-related appli cations – challenge final agency action within the
+meaning of the APA.  Def. Mem. at 23-28.  
+With respect to the supposed programs challenge d in Plaintiffs’ Complaint, Defendants showed
+them to be no more than Plainti ffs’ own artificially drawn subset of  each agency’s portfolio – not “the
+whole or a part of an agency rule , order licence, sanction, relief, or th e equivalent or denial thereof, or
+failure to act.”  5 U.S.C. § 551(13).  See
+ Def. Mem. at 27-28.  Plaintiffs failed to offer any response to
+Defendants’ description of the separate functions of Ex-Im Bank and OPIC.  Similarly, Plaintiffs made
+no attempt to substantiate their claim that each agency has an energy related “program.”  Instead,Plaintiffs raise a new basis for their claim, not desc ribed in their Complaint, asserting that in conducting
+climate change reports each agency separately agreed that emissions “must be looked at in the‘aggregate’ and ‘portfolio-wide’ – or in NEPA parlance, ‘programmatic’ basis.”  Plf. Opp. at 34.
+However, that OPIC and Ex-Im Ba nk each took a look at projected CO2 emissions from a particular sub-
+set of projects in their existing portf olios, contributes nothing to the resolution of the question before the
+Court – whether either agency has a energy related “program” that constitutes final agency action within
+the meaning of the APA.    Plaintiffs have shown no programmatic action, by either Ex-Im Bank or
+OPIC, that is “an identifiable action or event” and their attempt to seek “wholesale improvement” of the
+agencies’ functions by court order should be rejected.
+15/  Lujan , 497 U.S. at 891.
+With respect to individual actions, Plaintiffs’ efforts are similarly weak.  They allege that
+decisions  “to finance particular projects are final agen cy actions subject to judicial review,” but identify
+
+1
+23456789
+10111213141516171819202122232425262728
+16/ Indeed, Plaintiffs’ standing argument, which aggregates all energy-related projects across
+both agencies for support and does not relate to any particular project, emphasizes that they do notchallenge any individual project, but seek broad programmatic relief.  
+17/ Review of a claim rendered moot by the completion of the activity or the expiration of an
+action is particularly inappropriate in the NEPA context.  "NEPA permits the public and othergovernmental agencies to react to the effects of a proposed action at a meaningful time."  Marsh v.
+Oregon Natural Resources Council , 490 U.S. 360, 371 (1989).  See  also Metropolitan Edison Co. v.
+People Against Nuclear Energy , 460 U.S. 766, 779 (1983). 
+Def. Reply to Plf. Opp. to Def. Mot. 
+Sum.. Jdgmt., Civ. No. 02-4106(JSW) 16no such specific decisions.  Plf. Opp. at 39-40.  Ne ither Defendants nor the Court should have to guess
+at whether such hypothetical decisions exist and whether they might satisfy the APA’s threshold
+requirements for suit.  Rather, it is Plaintiffs’ burden to identify the s ubject of their claims and explain
+how it is final agency action.  Col. Farm Bureau Fed’n v. U.S. Forest Service , 220 F.3d 1171, 1173 (10th
+Cir. 2000).  Plaintiffs have failed to meet this burden.  If Plaintiff object to a particular decision, they may
+seek to challenge it after the decisi on is made, but in advance of the ac tion at issue.  Prior to that time,
+“the defect in appellants’ challenge lies in its  generality.”   Foundation on Economic Trends v. Lyng , 817
+F.2d 882, 885 (D.C. Cir. 1987).
+Finally, Plaintiffs do not contradi ct Defendants’ explanation that a description of various projects
+in the Complaint is intended to do no more than pr ovide examples of allegedly illegal conduct, providing
+no basis for a finding that a final agency action has been properly challenged, since they seek no relief
+with respect to those specific projects.16/  Sierra Club v. Peterson , 228 F.3d 559, 567 (5th Cir. 2000).  See
+also Def. Mem. at 28.   Instead, Plaintiffs argue that  any challenge to those projects, if they had brought
+any such challenge, would not be moot because of  Defendants’ “heavy burden” of showing mootness in
+a NEPA case.  Plf. Opp. at 40.   Since Plaintiffs have brought no such challenge, and sought no remedy
+with respect to individual projects, mootness is not re levant to the Court’s review of Plaintiffs’ claims.
+However, even if relevant, Defe ndants have shown, with facts uncontradicted by Plaintiffs, that the
+agency commitments at issue have long since been made, the projects are operational, direct financialcommitments have been almost entirely disbursed, loans facilitated by agency commitments are in the
+process of being paid back, and the agen cies have collected substantial fees.
+17/  O’Boyle ¶¶ 34, 39, 42,
+47; Himberg ¶¶ 19-37.  Plaintiffs ha ve failed to explain how effective relief could be granted in this
+instance with respect to the particular projects desc ribed in their Complaint – projects entirely under the
+
+1
+23456789
+10111213141516171819202122232425262728
+18/ Plaintiffs summarily assert that Defendants’ actions are capable of repetition yet evading
+review.  Plf. Opp. at 41.  See  Alaska Fish and Wildlife Federation and Outdoor Council v. Dunkle ,
+829 F.2d 933, 939 (9th Cir. 1987).  However, Plaintiffs fail to substantiate this claim and it finds no
+support in the record before the Court.  Decisions to approve authority for a proposed transactions areposted on each agency’s website and precede the contract between the agency and private party.  See
+www.exim.gov/articles.cfm/board%20minute/ ,www.opic.gov/foia/BoardResolutions/resolutions_05.
+htm.  Furthermore, many of the approvals that Plaintiffs purport to describe in their Complaint
+significantly pre-date the filing of the Complaint.  See  O’Boyle ¶¶ 34, 39, 42, 47; Himberg ¶¶ 19-37. 
+Def. Reply to Plf. Opp. to Def. Mot. 
+Sum.. Jdgmt., Civ. No. 02-4106(JSW) 17control of parties not before this Court.18/  See  Sierra Club v. Penfold , 857 F.2d 1307, 1317-18 (9th Cir.
+1988); Cantrell v. City of Long Beach , 241 F.3d 674, 678 (9th Cir. 2001).
+D. The Reports & Letters Upon Which Plaintiffs Now Focus Are Not Final Agency Action
+In lieu of establishing that the purported actions that they actually challenge in their Complaint
+constitute “final agency action” subject to review , Plaintiffs now allege that they are challenging
+“FONSIs” issued by OPIC and Ex-Im Bank – purported actions not mentioned anywhere in Plaintiffs’
+Complaint.   A FONSI, or finding of no significant impact, is an action contemplated by the regulations
+implementing NEPA.  It may follow the preparation of an Environmen tal Assessment and is “a document
+by a Federal agency briefly presenting the reasons why an action, not otherwise excluded (§ 1508.4), will
+not have a significant effect on the human environment and for which an  environmental impact statement
+therefore will not be prepared.”  40 C.F.R. § 1508.13.  See  also 40 C.F.R. § 1508.9(a)(1).  According to
+Plaintiffs, each Defendant has “effectively issued a F ONSI” in the form of separate letters from each
+Defendant, which respond to assertions regardi ng Defendants’ supposed role in greenhouse gas
+emissions, and in the form of the climate change review produced by each Defendant.  Plf. Opp. at 37.
+ Neither the letters nor the reports can be considered either “FONSIs” or final agency action.
+As an initial matter, the Court should disregard Plaintiffs’ argument that it is challenging actions
+that are “effectively” FONSIs.  This supposed clai m is mentioned nowhere in Plaintiffs’ Complaint,
+which challenges only a purported “program s upporting energy projects,” undefined “individual
+projects,” and alleged general continued violations of by the APA by failing to comply with NEPA.  2nd
+Am. Compl. at p. 46.   Indeed, Plaintiffs’ Complaint does not even refer to either of the letters that
+Plaintiffs’ now characterize as FONSIs subject to challenge.  In two of the 214 paragraphs in the
+Complaint, Plaintiffs quote small portions of the c limate change reviews issued by OPIC and Ex-Im Bank
+in 2000 and 1999 respectively, but nowhere challenge these reports as agency action or assert that the
+
+1
+23456789
+10111213141516171819202122232425262728
+19/ Plaintiffs could not argue that investigation was required to discover these supposed actions
+such that their new claims – advanced for the first time in opposition to Defendants’ motion forsummary judgment – could be encompassed within the notice pleading rule set forth in Federal Ruleof Civil Procedure 8.  As Plaintiffs themselves desc ribe, they previously received the letters at issue
+and the reports were issued and made publicly available in response to criticism by a group thatincluded one of the plaintiffs in this matter.  See
+ Att. D-1a at i. 
+20/ Plaintiffs never explain which category of “agency action” they believe covers the letters and
+reports.  None of the definitions of possible agency actions cover these documents.  See  5 U.S.C. §
+551 (definitions of rule, order, license, sanction, relief).  It is clear that these categories were notmeant to cover any and all actions taken by an agency or its staff, as Plaintiffs’ argument implies. See
+, e.g. , Industrial Safety Equipment Ass’n, Inc. v. EPA , 837 F.2d 1115, 1120 (D.C. Cir. 1988)
+(“Clearly Congress did not intend the APA definition of  a rule to be construed so broadly that every
+agency action would be subject to judicial review).
+Def. Reply to Plf. Opp. to Def. Mot. 
+Sum.. Jdgmt., Civ. No. 02-4106(JSW) 18reports themselves are actions subject to NEPA.19/  2nd Am. Compl. at ¶¶ 205, 207.
+Furthermore, the argument that these documents are e ssentially FONSIs is no more than a red
+herring to distract attention from the only relevant  inquiry before the Court – is there a properly
+challenged final agency action.  As set forth above, a FONSI is a specific form of agency decisionmaking
+that is precisely defined by regulation and that fo llows a review conducted pursuant to NEPA.  None of
+the documents described by Plaintiffs purport to be FONSIs, conclude review of any type under NEPA,
+or satisfy the regulatory definition.  As Plainti ffs point out, neither agency has conducted a NEPA
+analysis for the projects described in the Complaint or for a purported program supporting energyprojects.  There could be no FONSI marking the c onclusion of a NEPA process that never took place.
+More significantly, neither the letters nor the repor ts can be considered final agency action within
+the meaning of the APA. Such an action must be both “the whole or a part of any agency rule, order,license, sanction, relief, or the equivalent or denial thereof, or failure to act,”  5 U.S.C. § 551(13), and
+“final,” 5 U.S.C. § 704.  All of the specific exampl es of “agency action” given in Section 551(13) are
+discrete products of a focused decisionmaking process – such as the promulgati on of a rule, the issuance
+of an order, the grant or denial of a license, the imposition of a sanction or the refusal to impose one, or
+the allowance or withholding of relief.
+20/  5 U.S.C. § 551.  A “final” ag ency action must both mark “the
+‘consummation’ of the agency’s decisionmaking proce ss” and it must determine “‘right or obligations’”
+or a be a decision from which “‘le gal consequences will flow.’” Bennett , 520 U.S. at 177-78 (internal
+citations omitted).  See also Ecology Center v. U.S.F.S. , 192 F.3d 922, 924-925 (9th Cir. 1999).
+Neither the Ex-Im Bank letter nor the Bank’s clim ate change report has any of the hallmarks of
+an “agency action,” much less one that is “final.”  The letter to which Plaintiffs refer concerns only the
+
+1
+23456789
+10111213141516171819202122232425262728
+21/ In contrast, cases where a court has found that an agency statement of policy constitutes final
+agency action involve situations where no subsequent agency action or decision was anticipated toimplement a particular policy or position.  See
+, e.g. , Student Loan Marketing Ass’n v. Riley , 104
+F.3d 397 (D.C. Cir. 1997).
+Def. Reply to Plf. Opp. to Def. Mot. 
+Sum.. Jdgmt., Civ. No. 02-4106(JSW) 19Chad Cameroon Pipeline Project and is  a staff-level response.  Plf. O pp. at Ex. 4.  It does not purport to
+make any broad reference to the applicability of NEPA  to any broad class of applications, as Plaintiffs
+now allege.  Plf. Opp. at 35.  While  the letter states that Ex-Im Bank staff does not believe the particular
+application at issue triggers any obligations under NEPA, it concludes only that the writer cannot
+“recommend  that Ex-Im Bank postpone or stay action with respect to any decision to support the project
+as proposed.”  Plf. Opp. at Ex. 4, p. 7 (emphasis added).  “[A]gency recommendations are not reviewable
+as final agency actions.” Ecology Center , 192 F.3d at 925.  No legal conse quences to Plaintiffs, the Bank,
+or the applicant for Ex-Im Bank support flowed from the letter and it did not create any “rights orobligations.”  Bennett
+, 520 U.S. at 177. See  also San Diego v. Whitman , 242 F.3d 1097 (9th Cir. 2001)
+(EPA letter response to inquiry regarding applicability of  statute to certain project not final agency action,
+only once agency takes final action on application for project would agency’s interpretation be subject
+to review).  Final decisions, including those rela ted to the approval of an Ex-Im Bank guarantee in
+support of the financing of U.S. exports to be us ed by the Chad Cameroon Pipeline project, are made by
+Ex-Im Bank’s Board of Directors.  12 U.S.C. § 635.
+The Climate Change report produced by Ex-Im Bank similarly presents a review by staff within
+the agency of projects using U.S. exports s upported by Ex-Im Bank from October 1, 1987 through the
+date of the report and making certain general projec tions based on those already approved transactions.
+Att. D-1a at ii.  The purpose of the report was to “inform and sensitize interested parties” – not toconstitute any final agency action on any particular pending action or on the applicability of NEPA.  Att.
+D-1b at 38.  Indeed, the report anticipates ongoing consid eration of future applications which might result
+in a recommendation  by the staff for particular action by the Board.
+21/ Att. D-1a at iii.  See  also Att. D-1b
+at 38 (environment and engineering division will “m onitor the issue of climate change closely and
+continue to recommend appropriate measures . . . .” ).  Thus, the Ex-Im Bank report does not meet either
+the “agency action” or “finality” requirements of the APA so as to allow Plaintiffs’ claims against Ex-Im
+Bank to proceed on this basis. See  Bennett , 520 U.S. at 178 (reports that are “purely advisory” and have
+
+1
+23456789
+10111213141516171819202122232425262728
+Def. Reply to Plf. Opp. to Def. Mot. 
+Sum.. Jdgmt., Civ. No. 02-4106(JSW) 20no “direct and appreciable legal consequences” are not final agency action).  
+Similarly, the OPIC letter Plaintiffs cite is not final agency action.  The letter merely “questions
+the assumption” that OPIC’s contribution to gree nhouse gas emissions is significant and states that
+additional internal  review is warranted before making a decision regarding detailed study of the issue.
+Att. D-2.  The OPIC climate change report states me rely that projects where U.S. participants purchase
+financial services from OPIC, as such projects existed at the time the report was prepared, are not “asubstantial contributor to climate change.” Plf. Ex. 3 at 5.  As for the future , the report does not purport
+to pre-determine any agency position or decision, but explains that:
+prospective projects receive a thorough envi ronmental assessment . . . In determining
+whether a project will pose an unreasonable or major environmental, health, or safetyhazard, OPIC generally relies on guidelines and standards adopted by internationalorganizations such as the World Bank.  All prospective projects having potentiallysignificant environmental impacts must s ubmit an EIA, undergo a 60-day public comment
+period, submit annual environmental monitoring reports and undergo at least oneindependent compliance audit within the first three years of project operation.
+Plf. Ex. 3 at 44.  Neither the OPIC letter nor the report constitutes “the whole or a part of any agency rule,
+order, license, sanction, relief, or the equivalent or de nial thereof, or failure to  act,”  5 U.S.C. § 551(13).
+Nor can they be said to be “final” positions of  the agency marking the “‘consummation’” of any
+decisionmaking process that fix “‘right or obligations’”  or generate “‘legal consequences . . . .’” Bennett
+,
+520 U.S. at 177-78.  The letter contemplates additi onal consideration, and the report does no more than
+consider the agency’s then-existing portfolio, cont emplating future review of prospective projects.
+IV. Defendants Have Established That OPIC Is Not Subject To NEPA
+Defendants established in their opening brief that OPIC is not subject to NEPA and that Congress
+imposed specific environmental review procedures on the agency tailored to its mission.  Both the plain
+language of the statute and its legislative history compel this conclusion.  Def. Mem. at 31 - 40.  In
+response, Plaintiffs essentially make three broad arguments: (1) that the relevant statute only directsOPIC to assess the extraterritorial impacts of its actions, leaving NEPA applicable to potential domestic
+impacts; (2) that the specific environmental review pr ocedures to which OPIC is subject merely “clarify”
+NEPA; and (3) that these specific procedures could not displace or supplant NEPA because OPIC is not
+charged with protecting the environment.  Plaintiffs are wrong in each respect.
+The fundamental premise of Plaintiffs’ opposition –  that OPIC’s statutory scheme applies only
+
+1
+23456789
+10111213141516171819202122232425262728
+22/ Plaintiffs assert that “case law” supports this conclusion, but fail to cite to any case law
+concerning procedures that purport to “clarify” NEPA, discussing only cases cited by Defendants that
+establish that Congress can impose environmental procedures separate from NEPA in appropriatecircumstances. See
+ Plf. Opp. at 45-46.
+23/ Plaintiffs argue that the President’s ability to exempt particular projects from review
+establishes that NEPA applies because this exemption must be invoked on a project-specific basis. Plf. Opp. at 48.  However, Plaintiffs fail to acknow ledge the illogical implication of their argument –
+that a project could remain subject to NEPA, whic h is not mentioned in the OPIC statute, but be
+exempted from these separate environmental review procedures under 22 U.S.C. § 2151p.  See
+ Def.
+Mem. at 35-36.
+Def. Reply to Plf. Opp. to Def. Mot. 
+Sum.. Jdgmt., Civ. No. 02-4106(JSW) 21to the assessment of the extraterritorial impacts of  OPIC’s actions leaving NEPA to govern the review
+of potential impacts on the U.S. environment – rests so lely upon a simple mistaken reading of the statute.
+See Plf. Opp. at 45.  As set forth in Defendants’ opening brief, the statute directs an environmental
+impact statement, in certain circumstances, for proj ects “significantly affecting the environment of the
+global commons outside the jurisdiction of any country, the environment of the United States , or other
+aspects of the environment which the President may specify.”  22 U.S.C. § 2151p(c)(1)(A) (emphasis
+added).  This is in addition to the separate subsection directing an environmental assessment, in certaincircumstances, for projects “significan tly affecting the environment of any foreign country .”  22 U.S.C.
+§ 2151p(c)(1)(B).  Thus, Plaintiffs are simply in correct – these unique statutory procedures govern
+assessment of both domestic and extraterritorial impacts.  
+Plaintiffs’ second point, the bald assertion made without benefit of supporting citation that OPIC-
+specific environmental procedures merely “clarify” NEPA, finds no support in the plain language of the
+statute or the legislative history.
+22/ Plf. Opp. at 47.  The statute does not reference NEPA or otherwise
+suggest that the specific obligations set forth therei n are in addition to obligations contained elsewhere.23/
+See 22 U.S.C. §§ 2151, 2191, 2197, 2199.  Rather, it provide s a comprehensive environmental impact
+review scheme, addressing both domestic and extraterritorial impacts and  imposing its own publicreview requirement only when an action “is likely to have significant adverse environmental
+consequences that are sensitive, diverse, or unprecedented ....”  22 U.S.C. § 2191a(b).  This latterprovision is in contrast to NEPA’s implementing regulations which requires public review of any
+Environmental Impact Statement (EIS), regardless of whether expected impacts might be “sensitive,diverse, or unprecedented” and, according to the Nint h Circuit, requires public involvement even where
+review is based on an Environmental Assessment (EA)  and the action is expect ed to have no significant
+
+1
+23456789
+10111213141516171819202122232425262728
+24/ As explained in Defendants’ opening brief, C ongress subsequently applied this statutory
+provision to OPIC.  Def. Mem. at 33-34. 
+25/ Compare  41 Fed. Reg. 12896 (March 29, 1976) (proposed A.I.D. procedures), 41 Fed. Reg.
+26913 (June 30, 1976) (final A.I.D. rules), 45 Fed. Reg. 70239 (October 23, 1980) (amendment) with
+Pub. L. No. 97-113, Sec. 307, 95 Stat. 1533 (International Security and Development CooperationAct of 1981, adding 22 U.S.C. § 2151p(c)).
+Def. Reply to Plf. Opp. to Def. Mot. 
+Sum.. Jdgmt., Civ. No. 02-4106(JSW) 22impact.  See  40 C.F.R. §§ 1502.19,1503.  See  also Citizens for Better Forestry , 341 F.3d at 970-971. 
+Plaintiffs’ attempt to reconcile the relevant legislative history with their position is similarly
+unavailing.  Specifically, Plaintiffs allege that the le gislative history establishes that Congress intended
+to define the OPIC-specific environmental review pr ocess “via reference to NEPA.”   Plf. Opp. at 48.
+Plaintiffs find support for this assertion primarily in  the environmental review regulations adopted by the
+U.S. Agency for International Development (A.I.D .), to which Congress referred when it enacted the
+provision that, at the time, applied only to A.I.D.24/  Plf. Opp. at 49.  The preamble to the A.I.D.
+regulations state that they are “intended to implemen t the requirements of NEPA as they affect the A.I.D.
+program.” 22 C.F.R. § 216.1(a).  However, Plaintiffs ignore that this language was written prior to
+Congressional adoption of the statutory provision now a pplicable both to A.I.D. and OPIC and that the
+A.I.D. regulations were not amended after the enactment of that provision.25/  Thus, the preamble
+language could not be evidence of A.I.D’s interpreta tion of this later-enacted language.  Instead, the
+legislative history is clear that while Congress was satisfied with the environmental review procedures
+set forth in the regulations, Congress did not want to  subject the agency, or subsequently OPIC, to NEPA
+itself because of the possibility of  entangling crucial overseas projects in administrative delay and
+domestic litigation.  See  Def. Mem. at 37-40.  Plaintiffs simply ignore the relevant legislative history that
+verifies this intention.  
+Finally, the notion that Congress could not impos e a separate environmental review procedure
+on OPIC because the agency’s mission is not one of environmental protection is mere sophistry.  Plf.
+Opp. at 47.  Plaintiffs cite to no authority for this proposition and nothing compels Congress to impose
+NEPA on every government action carried out by an  agency without environmental protection as its
+primary mission.  Indeed, as explained in Defendant s’ opening brief, it is unsurprising that Congress
+chose to impose a separate environmental review pr ocedure on OPIC given the nature of the agency’s
+activities and NEPA’s lack of extraterritorial application – which Plaintiffs do not even attempt to
+
+1
+23456789
+10111213141516171819202122232425262728
+26/ In addition, the language Plaintiffs quote from Douglas County  comes from the second
+portion of the court’s opinion – after it has already concluded that NEPA does not apply based on the
+plain language and legislative history of the statute.  Compare  Plf. Opp. at 46 with  Douglas County ,
+48 F.3d at 1505-1506.  Neither decision purports to suggest that Congress must  apply NEPA to an
+agency without a core environmental pr otection mission as Plaintiffs suggest.
+Def. Reply to Plf. Opp. to Def. Mot. 
+Sum.. Jdgmt., Civ. No. 02-4106(JSW) 23contradict.  Def. Mem. at 32, n. 23.  
+Nor do the circumstances of Douglas County v. Babbitt , 48 F.3d 1495 (9th Cir. 1995), and Merrell
+v. Thomas , 807 F.2d 776 (9th Cir. 1986), compel a contrary conclusi on as Plaintiffs ar gue.  Plf. Opp. at
+46-47.  According to Plaintiffs, those cases, in which the Ninth Circuit found that separate environmental
+review procedures applied instead of NEPA, are simply different and may be distinguished because the
+defendant agencies in those cases were charged w ith environmental protecti on.  Plf. Opp. at 46-47. 
+These factual differences do nothing to lessen the app licability of the basic premise for which Defendants
+cited them – that the Ninth Circuit has recognized th at Congress may craft specific procedures to apply
+to a particular agency instead of  NEPA.  Def. Mem. at 32-33.  Furt hermore, the holdings in both cases
+were carefully based on the plain language of the statut es at issue as well as their legislative history – not
+upon the mission of the defendants.  See  Douglas County , 48 F.3d at 1501-1505; Merrell , 807 F.2d 777-
+781.26/  Finally, while OPIC’s core mission is not one  of environmental prot ection, Congress has given
+it the authority to reject applications for environmen tal reasons that might have come to light during the
+environmental review procedures in OPIC’s statut e, 22 U.S.C. § 2191(n), – procedures that allow it to
+consider potential environmental impacts as appropriate to a particular application.
+  Plaintiffs have fundamentally failed to show  that Defendants’ interpretation of the relevant
+statutory language is incorrect.  Indeed, their centr al tenet – that OPIC’s statute requires only analysis
+of extraterritorial impacts, staying silent on the i ssue of potential domestic impacts – is plain wrong.  The
+OPIC procedures specifically cover both situations .  Thus, with respect to OPIC, “Congress through
+debate and compromise forged a specific process fo r the Secretary to follow,” but knowingly decided not
+to apply NEPA to the agencies’ activities.  Douglas County , 48 F.3d at 1503. 
+V. Defendants Have Established That The APA P recludes Judicial Review Of OPIC’s Actions
+In response to Defendants’ argument that OPIC ’s statute precludes judicial review of its
+compliance with the terms of the Foreign Assistance Act, including environmental review procedures,
+see 5 U.S.C. § 701(a)(1) (judicial review is barre d under the APA where “statutes preclude judicial
+
+1
+23456789
+10111213141516171819202122232425262728
+27/ Plaintiffs also argue that OPIC’s statute does not provide an “alternate review procedure” that
+would replace access to the courts.  However, in the case that Plaintiffs cite for this proposition, theSupreme Court notes that courts only look for an alternative review procedure to provide evidence ofan intent to replace judicial review in the absen ce of express language in the statute.  Franklin v.
+Massachusetts , 505 U.S. 788, 820 n. 21 (1992).  In this instance, the language is express, establishing
+a conclusive presumption of compliance.
+28/ Plaintiffs cite to several statutes as supposed examples of the language required to preclude
+judicial review.  Plf. Opp. at 42-43.  The first one, 23 U.S.C. § 134(o), exempts agency actions only
+from NEPA – not from judicial review.  Others impose a broader exemption from judicial review,
+providing that certain actions will not be reviewable  in any court for any reason.  2 U.S.C. § 288i, 45
+U.S.C. § 716(d)(3).  In contrast, the language at issue in this case provides that agency actions areconclusively presumed to comply with the Foreign Assistance Act specifically, including the Act’senvironmental review obligations.  A third is similar to the OPIC provision, exempting certainactions from judicial review in certain circumstances.  23 U.S.C. § 135(c)(2).  The remainingprovision cited by Plaintiffs does not refere nce judicial review.  42 U.S.C. § 1973(b).
+Def. Reply to Plf. Opp. to Def. Mot. 
+Sum.. Jdgmt., Civ. No. 02-4106(JSW) 24review”), Plaintiffs argue  that th e statute does not contain express la nguage stating that judicial review
+is precluded and that legislative history undermines Defendant’ position.27/  Plf. Opp. at 42. However,
+Plaintiffs’ reading of the statute, which in their vi ew only restates the “presumption of compliance” that
+generally applies to federal decisionmaking when re viewed under the APA, relies on omission of the key
+word.  The statute provides that OPIC’s actions are “ conclusively presumed to be issued in compliance
+with the requirements of this chapter.”  22 U. S.C. § 2197(j).  This language states Congress’s
+“conclusive” determination that the action complies w ith the relevant chapter – a chapter that includes
+the specific environmental review procedures, discussed further below, to which OPIC is subject.28/  Def.
+Mem. at 29-31.  See  also Block v. Community Nutrition Institute , 467 U.S. 340, 349 (1984) (presumption
+favoring judicial review “may be overcome by specific language or specifi c legislative history that is a
+reliable indicator of congressional intent”).   Plain tiffs do not explain, nor coul d they, how a court could
+override this “conclusive” determination.    
+Plaintiffs also claim that the provision app lies only to “guaranty contracts” while the
+environmental review requirements of the Foreign Assistance Act apply to any investment that OPIC
+insures, guarantees, or finances.  Plf. Opp. at 45.  Ho wever, the legislative history makes clear that all
+of these terms refer to the same fundamental actions – Congress simply used broad language in oneinstance relying on an early description of that aut hority, and more specific language in later enactments.
+In 1968, the current identical authority called "Invest ment Insurance" under the Foreign Assistance Act
+were called "guarantees."  22 U.S.C. § 2181 (1968), amended by 22 U.S. C. § 2181 (1969).  See
+ also H.
+Rpt. No. 91-611, 91st Cong., 1st Sess. 30-31 (1969) (Att. D-3).  In 1969 in the context of referring to
+
+1
+23456789
+10111213141516171819202122232425262728
+29/ Also based on the legislative history, Plaintiffs  assert that the intended beneficiary of the
+conclusive presumption of compliance is a contr act claimant – not OPIC.  Plf. Opp. at 44. This
+assertion supports Defendants’ position.  The purpose of  the provision is to provide certainty to the
+private market investors who rely on the validity of OPIC’s actions.  Def. Mem. at 31.  
+Def. Reply to Plf. Opp. to Def. Mot. 
+Sum.. Jdgmt., Civ. No. 02-4106(JSW) 25“insurance” as “guarantees,” Congress enacted Section 2197(j) using the term “guarantees.”  Additionally
+in 1969, "guarantees" were separated into "investment insurance" and "investment guarantees" forpurposes of subsequent additions to the statute.  22 U.S.C. § 2194 (1969).  
+With respect to legislative history, Plaintiffs ar gue that it shows that Congress anticipated the
+potential for judicial review by recognizing that “a cl aimant would not be protected if execution of a
+contract was induced by fraud or misrepresentation for which he was responsible.”  H. Rep. No. 91-611,
+91
+st Cong., 1st Sess. at 37 (1969).  See  also Plf. Opp. at 43-44.  This means only that a claimant under an
+OPIC contract may not benefit fr om the claimant’s own wrongdoing.  It in no way negates Congress’s
+explicit statement precluding judicial review of OP IC’s compliance with th e Foreign Assistance Act.29/
+Finally, this provision bolsters the conclusion, discussed above, that NEPA does not apply to
+OPIC.  See  Def. Mem. at 31-40.  It would make little sense for Congress to establish a conclusive
+presumption that an action satisfies the environmenta l review procedures in the Foreign Assistance Act
+and then leave the same action open to challenge under NEPA. VI. Conclusion
+For the foregoing reasons, as well as those set forth in Defendants’ opening brief, Defendants’
+motion for summary judgment should be granted and this matter should be dismissed.February 14, 2005 Respectfully submitted,
+THOMAS L. SANSONETTI
+Of Counsel: Assistant Attorney GeneralHoward Schweitzer Environment and Natural Resources DivisionTracey Braun /s/ Ann D. Navaro                       
+Export Import Bank of the United States ANN D. NAVARO, Senior Attorney
+BRIAN C. TOTH, Trial Attorney
+Dev Jagadesan General Litigation SectionOverseas Private Investment Corporation E nvironment and Natural Resources Division
+United States Department of Justice

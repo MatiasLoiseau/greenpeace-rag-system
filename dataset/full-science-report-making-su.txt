@@ -1,0 +1,2777 @@
+# Archivo original: full-science-report-making-su.pdf
+# Tipo: .PDF
+# Procesado el: Sat Oct 11 09:41:42 -03 2025
+
+Scientific Report on Effort Reduction Measures in t he  
+Western and Central Pacific Ocean Tuna Fishery 
+ 
+GREENPEACE AUSTRALIA PACIFIC 
+ 
+Executive Summary  
+ 
+As a result of growing concerns about the sustainability  of 
+fishing activities directed at Western and Central Pacific 
+Ocean (WCPO)  tuna stocks, Greenpeace has 
+commissioned an analysis of the commercially exploited  
+species in the region managed under the aegis of  the 
+Western and Central Pacific Fisheries Commission 
+(WCPFC). Based on the latest information, it appears that 
+while Skipjack tuna is being fished at a moderate level,  
+both Bigeye and Yellowfin tuna are now being overfish ed.  
+Catch levels of these two species are, therefore, not 
+sustainable.  These conclusions are based on the use of 
+what are essentially conventional fisheries models that 
+use the concept of Maximum Sustainable Yield (MSY) to 
+define management targets.  
+ 
+Even under the current management paradigm, it is clear  
+that reductions in fishing efforts to bring fishing mor tality to 
+a level consistent with MSY, are necessary. To prevent a 
+further decline in Yellowfin and Bigeye tuna in the WCPO, 
+effort reductions of the order of at least 20% would b e 
+required. Long-term average catch levels consistent with 
+FMSY  would be less than 70% of present levels (2001-2003 
+average) for both species. Substantial uncertainties, 
+
+  
+ however, exist in the stock estimates and in estimates of 
+the species’ biological parameters.  In addition, substant ial 
+uncertainties are attached to the monitoring of landed  
+catch and to the accuracy of the reported figures. Illeg al, 
+Unreported and Unregulated (IUU) fishing activities als o 
+compromise the quality of data relevant to the 
+management of the tuna fisheries in the WCPO. 
+ 
+Accordingly, in order that these fisheries are managed on 
+a precautionary basis, and with due regard to the overa ll 
+ecosystem, Greenpeace takes the view that effort 
+reductions of 50% would be desirable.  This would imply  
+the use of  F MSY  as a limit to be scrupulously avoided 
+rather than one to be routinely exceeded in these 
+fisheries.  In addition, Greenpeace is proposing that a 
+network of marine reserves should be established in the 
+region which would significantly strengthen management 
+of WCPO tuna stocks and facilitate wider environmental 
+management in the region. 
+ 
+Hence, Greenpeace proposes: 
+ 
+(1)  The immediate establishment of a marine reserve in 
+an enclosed high seas area bound by Palau, FSM, PNG 
+and Indonesia, and a commitment  to establishing a 
+second fully-protected marine reserve to the east in the 
+future. 
+ 
+(2)  Establishment of management objectives of the 
+WCPO fishery, based initially on Annex 2 of the UN Fi sh 
+Stocks Agreement.  
+
+  
+  
+(3) An immediate moratorium on the construction of new  
+large Purse Seine (Super Seiner & Super Super Seiner ) 
+and large Longline vessels intended to fish in the WCPO,  
+and controls on the relocation/deployment of such vessels 
+from other areas. 
+ 
+(4) The WCPFC undertakes a study of the capacity of 
+large Purse Seine and Longline vessels active in the 
+WCPO, leading in the short term to the introduction o f 
+overall limits on vessel numbers. Also, development of a 
+suitable measure of capacity (Purse Seine and Longline) 
+to facilitate the orderly management of fleet capacit y in the 
+WCPO, including clear definition of vessel categories e.g.  
+“large scale”. From a conventional fisheries perspective, 
+this study is critical to determining the level of capacit y 
+available in the region and more importantly what 
+“capacity” the region’s fish stocks can sustain.  From 
+Greenpeace’s perspective, however, we take the view that 
+Super Super Seiners should not be allowed to operate in 
+the region given their huge capacity.   
+ 
+(5)  Large uncertainties are inherent in the models use d to 
+produce assessments and forecasts for tuna fisheries in 
+the WCPO. These relate to  input data quality  toget her 
+with substantial indeterminacies in data relating to ef fort, 
+catch and  IUU fishing, as well as to factors such as 
+recruitment and the influence of climate change. 
+Greenpeace believes that basing management upon MSY 
+target reference points is not sufficiently precautionar y.  
+Accordingly, Greenpeace regards the 20% effort reduction  
+
+  
+ figure suggested from modeling as an absolute bare 
+minimum requirement. To assure future sustainability o f 
+fisheries in the region this figure should be set at 50% . 
+ 
+(6)  The WCPFC should apply a Longline Total Allowa ble 
+Catch (TAC) for Bigeye, based on lower catch levels from  
+an earlier time period, with allocations/quotas for cou ntries 
+or entities taking a large amount of catch (e.g. more t han 
+3,000t). The restriction of catches by other nations to 
+catches at that earlier time should also be enforced. Thi s 
+measure should be introduced in conjunction with a trad e 
+certification/verification system for Bigeye, as used by 
+other Regional Fisheries Management Organisations 
+(RFMOs). 
+ 
+(7)  Immediate prohibition of at-sea transhipment, wi th 
+such transhipment to occur only at designated ports, as 
+provided for in the Convention and to be implemented  by 
+the Commission. 
+ 
+(8)  Implementation of the following series of measure s to 
+reduce IUU fishing in the WCPO, as proposed by 
+Greenpeace: ratify and implement the Compliance and 
+Fish Stocks Agreements; exert control over port access 
+and marketing of tuna products (trade verification); 
+strengthen the WCPFC capacity to take action (regional  
+and global vessel registries, IUU vessel blacklist, reduce 
+size of vessels covered by Monitoring, Control and 
+Surveillance (MCS) regulation, boarding and inspection 
+regulations, prohibition of at-sea transhipment);practi ce 
+good governance at national level (comprehensive 
+
+  
+ management  plans, appropriate legislation enforced);  
+inspect and arrest IUU stateless vessels (national-level 
+action). 
+ 
+(9) That the Commission  commence work on the 
+development of criteria for the allocation of TAC and  
+Total Allowable Effort (TAE), as provided for by the 
+Convention.  
+ 
+(10) Additional research must be carried out to reduce 
+uncertainty and indeterminacy attached to key 
+parameters/assumptions and model structure of the 
+present MULTIFAN-CL models. 
+ 
+1. Introduction 
+ 
+The WCPO extends east from the coasts of Asia. It is 
+home to over 20 island nations and coastal states 
+supporting the world’s largest tuna fishery.  Around 50 % 
+of the global production of the main market species of 
+tuna comes from this region, and it has often been 
+referred to as the last great under-exploited oceanic 
+fishery.  This may have been the case until the end of t he 
+last decade with annual catches of around 1.6 million 
+tonnes. There are increasingly clear signs, however, that  
+this can no longer be assumed. The estimated total 
+catch [1,2]  has increased by nearly 50% since 1990, and the 
+estimated 2004 catch of 2.022 million tonnes was the 
+highest ever recorded. Stocks of Skipjack tuna, (the 
+mainstay of the fishery comprising 65% of the overall  
+
+  
+ catch tonnage), are considered to be in good condition.  
+There are increasing concerns, however, about stocks of 
+Yellowfin and Bigeye tuna, which account for 24% and 5% 
+of the total catch respectively, but represent nearly h alf 
+the landed value of the total catch. Connected with the se 
+concerns are the concerns attached to suspected 
+increases in IUU fishing throughout the fishery sector in 
+question. 
+ 
+The Standing Committee on Tuna and Billfish, which 
+provides consensus scientific information on the status of 
+tuna stocks in the region, has been advising for some 
+years that stocks of Bigeye tuna were being heavily 
+fished. Since 2003, the advice has been that this species 
+was probably being overfished, but, due to some 
+fortuitous recent high recruitment into the populatio n, was 
+not yet in an overfished state. Similarly, Yellowfin tuna 
+stocks have been regarded as close to fully exploited for 
+some time, and since 2003 the consensus has been that 
+this species is possibly being overfished.    
+ 
+Despite these concerns, the WCPO fishery, has in effect, 
+been left unregulated. Until 2004 no RFMO existed. W ith 
+the entry into force of the WCPF Convention on June 19th  
+2004, and the first meeting of the WCPF Commission hel d 
+in December 2004, there now exists a framework for the  
+conservation and management of the stocks (tuna and 
+other species) which are exploited in the region.  The re is 
+now an urgent need to consolidate this framework and 
+recognize the urgent need to formulate and adopt 
+appropriate conservation and management measures. 
+
+  
+ The sustainability of WCPO fish stocks, which can be 
+regarded as “at risk”, must be assured through an 
+appropriate, precautionary and ecosystem based 
+approach to their management. 
+ 
+This report evaluates measures for the conservation and 
+management of the WCPO tuna fisheries, addressing 
+issues raised in a recent Greenpeace position paper 
+submitted for consideration by the WCPFC [3] . These 
+measures primarily involve recommendations for effort 
+reduction, which are the management instruments which 
+have, historically, been most often applied to the 
+management of tuna fisheries in other regions. The 
+impacts of IUU fishing on the stocks and the possible 
+application of marine reserves to the WCPO tuna fishery 
+are also considered as part of the suite of measures whi ch 
+could be considered. There is, however, no discussion of 
+non-target, associated or dependent (NTAD) species, nor 
+of ecosystem-based management. However, any 
+reduction in efforts might be expected to lead directly  to 
+reduced impact of fishing on the ecosystem overall, bot h 
+on the target and the NTAD species.  Benefits could be 
+expected to accrue to the WCPO epipelagic ecosystem as 
+a whole and the emplaced measures could be used as the 
+basis on which to ultimately define and formulate an 
+ecosystem based management approach. 
+ 
+ 
+ 
+ 
+ 
+
+  
+  
+2.   Fishery Overview   
+ 
+2.1  The WCPO tuna fishery 1 
+ 
+The WCPO tuna fishery operates over a vast area 
+stretching from the coasts of Asia to 150 0W, and from 
+50 0N to around 40 0S. Within the Convention area (WCP-
+CA – see Figure 1), EEZs of coastal states occupy much 
+of the equatorial area (10 0N to 10 0S), whereas high seas 
+predominate in subtropical areas, especially north of th e 
+Equator. It is a very diverse fishery. On the one hand,  it 
+involves large international fleets plying the high seas and 
+the EEZs of numerous coastal states. On the other hand, 
+artisanal and small-scale commercial fisheries supply the 
+large populations of Indonesia, the Philippines, and t he 
+less populous Pacific Islands. The majority of the catch2  
+(considered by weight) is taken in tropical areas, with a  
+high proportion of the Purse Seine catch taken in the 
+waters of the Parties to the Nauru Agreement (PNA) 3 
+group. 
+                                                 
+1  Most of the information in this review is taken f rom papers [1][2]  presented at the recent Scientific 
+Committee meeting in Noumea, August 2005 
+2  All catch estimates given refer to the WCP Conven tion Area and thus will differ from previous estima tes 
+which referred to the WCPO, mostly with respect to Longline catches.  
+3  Members of the PNA group are PNG, Solomon Islands , Palau, FSM, Kiribati, RMI, Nauru and Tuvalu.  
+
+  
+  
+  
+ 
+ 
+The provisional total catch 4 in 2004 was 2,021,773 tonnes 
+(t), a record catch, but nonetheless likely to be an 
+underestimate (see later). This represents 51% of the 
+global catch of the main market species of tuna, and 78 % 
+of the Pacific Ocean tuna catch. The total catch rose 
+steadily from the early 1980s onwards, with the advent  of 
+large-scale Purse Seine fishing. Catches reached a 
+relatively stable plateau in 1998.  Since then catches h ave 
+been around 2 million tonnes per annum. A record (alb eit 
+provisional) catch of 1,376,670t of Skipjack was taken in 
+2004. This represented 68% of the provisional total tun a 
+catch in this year with Yellowfin 20% (413,201 t), Big eye 
+                                                 
+4  This total includes only the primary market tuna species (Skipjack, yellowfin, bigeye, and Albacore)  and 
+not other scombrids (eg frigate and bullet tunas), billfish and a range of by-catch species, including  sharks, which 
+are taken in tuna fisheries Figure 1  
+The Western and Central Pacific 
+Ocean (WCPO), with the 
+Eastern Pacific Ocean (EPO) 
+and the WCPFC Convention 
+Area (WCP-CA) in dashed lines    
+ 
+
+  
+ 6% (125,940t) and Albacore 5% (105,962t) making up t he 
+balance of the total (Appendix 1-3). 
+ 
+Although a multi-gear fishery, the majority of the ca tch is 
+taken by Purse Seine (62%, and 1,263,161t in 2004), with 
+pole-and-line taking 15% (297,515t) and Longline 11%  
+(225,786t). The remainder (11%) was taken by a variety  of 
+artisanal gear, mostly in eastern Indonesia and 
+Philippines, and through a small troll catch (Appendix  1-3).  
+ 
+The Purse Seine  fishery operates primarily in equatorial 
+waters, between 10 0N and 10 0S. There is a seasonal 
+fishery in the home waters of Japan. Over 200 large 
+vessels exploit this fishery. The fleet is made up of 
+vessels from Distant Water Fishing Nations (DWFN) 
+namely Japan, Korea, Taiwan and the USA. Together w ith 
+Pacific Islands-based and Philippines vessels, these take 
+the majority of the catch in PNA waters. In addition, small 
+(< 250 GT) and large Purse Seine vessels are responsible 
+for incompletely reported catches in Indonesian, Philip pine 
+and high seas. 
+ 
+The industry targets free (unassociated) schools of fish 
+and fish schools associated with floating logs, and with 
+artificial Fish Aggregation Devices (FADs). These 
+deployed devices are either anchored or allowed to dr ift. 
+The spatial distribution of the target fish, and hence  of 
+effort and catch, is influenced by large-scale 
+oceanographic (ENSO) events. Catches are made further 
+east in the equatorial WCPO in El Niño years.  
+ 
+
+  
+ Skipjack tuna dominate the Purse Seine catch, typically 
+making up 70-75% of the catch, with Yellowfin 20-25%, 
+and Bigeye < 5%.  It is generally considered unecono mic 
+for large Purse Seine vessels operating in the Convent ion 
+Area to fish exclusively in the limited area of high sea s in 
+the equatorial zone, and DWFN fleets rely on agreemen ts 
+with Pacific Island states to allow access to tuna within 
+EEZs. 
+ 
+The Longline  fishery involves a variety of vessels. Large 
+distant water freezer vessels operate widely throughout 
+the region. Smaller offshore vessels operate in tropica l 
+waters and in the waters of sub-tropical Pacific Islands 
+and are often domestically-based. They may land fresh or  
+chilled fish. These vessels and the small handline vessels 
+working around Indonesia, the Philippines and Vietnam,  
+all take large adult fish. The overall Longline catch in  2004 
+consisted of similar proportions of Bigeye (37%), Yellow fin 
+(31%) and Albacore (30%). Bigeye and Yellowfin were 
+taken mostly in tropical areas, and Albacore in more 
+temperate waters. The number of Longline vessels 
+operating in the WCPO is uncertain, but probably excee ds 
+5,000 distant water and offshore vessels, plus 2,500 or 
+more handliners in the Philippines. An unknown number  of 
+handliners operates in Indonesian waters, together with  
+an unspecified number of both small and large 
+Longline/handline vessels in Vietnam. Unlike the large-
+vessel Purse Seine fleet, a number of these vessels 
+operate primarily on the high seas, especially in southe rn 
+waters. Here, they target Albacore, and to the north and 
+east of the region, Bigeye tuna are targeted.   
+
+  
+  
+The pole-and-line fishery  involves large domestic/offshore 
+fleets in Indonesia and Japan together with a distant w ater 
+Japanese fleet. Smaller fleets exist in Pacific Island 
+countries. Skipjack comprises over 80% of the catch (> 
+90% of the catch in tropical waters), Albacore accounts fo r 
+around 12%, (mostly taken in waters east of Japan), wit h 
+Yellowfin comprising around 4%. A small quantity of 
+Bigeye is taken by the pole-and-line fleets.    
+ 
+2.2  WCPO Yellowfin  
+ 
+Yellowfin tuna of the WCPO are assumed to be a single 
+stock for management purposes but are regarded as 
+distinct from the Eastern Pacific Ocean (EPO) stock. 
+Growing to over 200kg, Yellowfin school at the surface, 
+together with Skipjack and Bigeye, as juveniles. They th en 
+spend progressively more time in midwater as they grow 
+towards adult size and progressively develop a swim 
+bladder. They remain fish of the upper mixed layer o f the 
+ocean (epipelagic).  ENSO events are known to influence 
+their vertical distribution and accordingly, their vulner ability 
+to Purse Seine gear. They reach maturity at around 20 kg, 
+and Yellowfin are taken by both surface gear (Purse 
+Seine) and by longlining as adult fish. The majority of the 
+Yellowfin catch (413,201t in 2004) is taken in western 
+equatorial areas, with Purse Seine catches accounting for  
+43% of the total (in both associated and unassociated 
+sets). Longlining accounts for 17% of the catch, and pole-
+and-line around 3%. The remainder (a very large 37%)  is 
+
+  
+ accounted for by assorted gear such as ring net, handline 
+and gillnet in the domestic fisheries of the Philippine s and 
+Indonesia. The total catch in the WCPO has been 
+relatively stable since 1997 at between 410,000t and 
+470,000t, although the Purse Seine catch has been 
+declining in recent years. 
+ 
+The size distribution of the catch by the various gear, 
+based on regional port sampling programs, is shown in 
+Appendix Figure 1. The Philippines and Indonesian 
+fisheries account for the majority of the juvenile catch (< 
+60cm LCF 5, or 5kg). These take adult (> 100 cm LCF or > 
+20kg) fish in the handline fisheries. Purse Seine sets on 
+schools associated with floating logs and deployed FADs 
+(anchored or drifting) and account for a significant ju venile 
+catch, as well as some adult fish. The Longline catch 
+consists almost entirely of adult fish, taken in tropical 
+areas. There are difficulties in separating the quantit ies of 
+juvenile Yellowfin and Bigeye taken by Purse Seine ge ar. 
+This leads to some uncertainties in catch estimates for 
+both species. 
+ 
+There is some evidence of ENSO influences on Yellowfin 
+recruitment which is subsequently reflected in surface and 
+Longline catch levels. There is evidence of decadal-scale 
+variation in the productivity of the stock. 
+                                                 
+5  fork length (length to the caudal fork) 
+
+  
+ 2.3  WCPO Bigeye  
+ 
+Bigeye tuna can reach over 200kg size. They school with 
+Skipjack and Yellowfin tuna in equatorial waters as 
+juveniles. As adults this association is less marked and 
+their distribution is governed by physical factors: they  
+become more closely associated with the thermocline and 
+cooler water. It is uncertain whether Pacific Bigeye tun a 
+can be regarded as a single basin-wide stock for 
+management purposes 6, or whether they should be 
+managed as separate western and eastern stocks, as is 
+done for Yellowfin and Skipjack. Bigeye attain maturit y at 
+around 25kg (110cm), and as adults, are caught primarily  
+by Longline gear. The catch is taken mostly in an 
+equatorial band across the Pacific Ocean, that dips 
+southwards in the EPO. The WCPO Bigeye catch in 2004 
+(125,940t) was the second highest on record, with 65% of 
+this taken by Longline, 21% by Purse Seine (nearly al l in 
+associated sets, particularly on drifting FADs). Relativel y 
+little is taken by pole-and-line and other gear. The total 
+catch of Bigeye in the WCPO has been relatively stable 
+since 1997, but the balance attributable to specific gear  
+has changed. Purse Seine catches have declined and 
+Longline catches have increased. In the EPO, catches 
+have been declining since 2000 (total catch 106,679t in  
+2004), with Longline catches showing the greatest decli ne 
+(39,729t, from an historical high of 104,000t in 1991 ) 
+(Appendix 1-3). 
+                                                 
+6  genetic studies show little evidence of different iation, and there some examples of almost basin-wid e 
+tagged fish movements over long periods; both basin -wide and separate WCPO/EPO stock assessments are u sually 
+undertaken, given this uncertainty .  
+
+  
+  
+The size distribution of the catch by various gear is shown  
+in Appendix Figure 2. Once again the Philippines and 
+Indonesian fisheries account for most of the small 
+(<50cm) fish taken. Associated Purse Seine sets account 
+for the greater proportion of catches of sub-adult (50-
+100cm) Bigeye. Longliners account for most of the catch 
+of adult fish. There is considerable uncertainty about the 
+catch of juvenile Bigeye. This figure can only be estimat ed 
+on the basis of sampling carried out on the catches of 
+several fleets using different gear.      
+ 
+2.4 WCPO Skipjack  
+ 
+The Skipjack tuna resource in the Pacific, in common with  
+Yellowfin, is assumed to consist of two Pacific stocks, in 
+the WCPO and EPO respectively. Skipjack, which do not 
+usually exceed10kg, are schooling species of the upper 
+mixed layer at all sizes. They are susceptible to ENSO 
+influences on their distribution in equatorial areas. T he 
+2004 provisional catch was the highest ever, at 
+1,376,670t, with surface gear - Purse Seine (78%) and 
+pole-and-line (18%) - accounting for virtually all of the 
+catch. Most of the catch is taken in equatorial areas 
+across the WCPO, except for those taken in a seasonal 
+fishery in Japanese waters (Appendix 1-3). As with the 
+other species, much of the juvenile catch (< 45 cm) is 
+taken in the Indonesian and Philippine fisheries. Skipja ck 
+are taken equally in associated and unassociated Purse 
+Seine sets. As with the other two species of tuna, ther e is 
+
+  
+ evidence of ENSO impacts on recruitment.  Recent levels 
+of recruitment into the fishery have been high.  
+ 
+2.5  WCPO Albacore 
+ 
+Albacore are managed as two stocks, those north and 
+south of the equator, respectively. The greater part of  the 
+overall catch (80-90%) is taken in the WCPO in both 
+hemispheres. The balance is taken in the EPO. Recent 
+South Pacific Albacore catches (~ 62,000t) has been the 
+highest on record, largely as a result of the continued  
+development of Pacific Island domestic Longline fisheries. 
+The reported 2004 catch was slightly down on 2002-2003  
+levels. Longlining accounts for the great majority of th e 
+South Pacific catch (72%), and this is mostly taken in  
+sub-tropical and temperate areas beyond Latitude 10 0S. A 
+recent Resolution from the RFMO responsible for the 
+northern Albacore stock the Inter American Tropical Tuna  
+Commission (IATTC), R 7 calls for the need to avoid any 
+increase in fishing mortality on this fully exploited stock. 
+The resolution recognizes that management cooperation 
+with the WCPFC will be necessary. The southern 
+Albacore stock is regarded as only moderately exploited , 
+although there are signs that the biomass available to 
+Longline fishing has declined in some areas to the point  
+where economic overfishing may be occurring.    
+ 
+                                                 
+7  IATTC Resolution on Northern Albacore Tuna (C-05- 02)  
+
+  
+ Albacore will not be further considered in this repor t as 
+they are generally beyond the terms of reference of t he 
+present study. 
+The table below (Table 1) summarizes the main features 
+of the fishery for each species. 
+
+   Table 1. Summary of tuna fishery characteristics, b y species 
+ Abbreviations: WEP Western Equatorial Pacific, CEP Cent ral Equatorial Pacific, 
+STSP Sub-Tropical South Pacific, STNP Sub-Tropical Nort h Pacific; U = 
+Unassociated set, A = Associated set, T = Troll gear   
+Purse 
+Seine  Total catch 
+2004 (est) Main area  
+fished 
+% of 
+catch, 
+set type  Longline 
+% of 
+catch Pole & 
+line % 
+of 
+catch Other gear % 
+of catch 
+Yellowfin 407,509WEP 44 -U, A  17 3 36 
+Bigeye  116,259WEP/CEP 21 - A 65 1.5 12.5 
+Skipjack 1,369,818WEP/CEP 78 -U, A  <1 18 4 
+SP 
+Albacore  56,740STSP  ~ 0 92 ~ 0 8 –T 
+NP 
+Albacore  90,348STNP ~ 0 28 39 29 - T 
+
+ 2.6  Other species in the WCPO tuna fishery 
+ 
+A range of non-target (by-catch or incidental species) i s 
+taken in tuna fisheries, and their estimated catch levels 
+have been recently reviewed for the Commission. [4]  By-
+catch levels are generally highest in the Longline fisher y, 
+low to moderate in associated sets by the Purse Seine 
+fishery, and lowest in the pole-and-line fishery and 
+unassociated sets by the Purse Seine fishery.  
+ 
+Further consideration of these non-target species is 
+beyond the scope of this study, but their management has 
+been the subject of resolutions by other RFMOs. 
+Assessment of the impact of fishing on the stocks of non-
+target, associated or dependent species is, inter alia , one 
+of the conservation and management principles of the 
+Convention (Art. 5(d)). Hopefully, early steps will b e taken 
+at the Commission to introduce resolutions dealing wit h 
+sensitive by-catch and other species, including turtles, 
+seabirds and sharks.  
+ 
+3. Stock assessments - analyses over the last 5 
+years 
+ 
+The current basis of tuna fisheries management in the 
+WCPO is an integrated length-based age-structured 
+model, MULTIFAN-CL, has been developed and used by 
+the Oceanic Fisheries Program of the Secretariat of the 
+Pacific Community (OFP-SPC) since the early 1990s.  
+
+ Initially, applied to South Pacific Albacore, it was 
+subsequently applied to Yellowfin tuna in 1999, to 
+Skipjack tuna in 2000 and to Bigeye tuna in 2000. 
+Although production models, tag-based attrition models 
+and other approaches have been applied in the past, th is 
+data-intensive model is considered robust and is now 
+routinely applied to WCPO stock assessments. The model 
+has an integrated spatial structure (based largely on 
+results of earlier tagging experiments), is able to test  
+various assumptions (e.g. measures of abundance, 
+Longline effort weighting, etc) and can be used to 
+calculate a range of the reference points commonly used 
+in tuna management.  
+ 
+Results of MF-CL assessments are normally updated 
+annually to incorporate additional data and accommoda te 
+any adjustments to the model structure. The results have 
+been presented to the Standing Committee on Tuna an d 
+Billfish (SCTB) since 1992. The results were 
+communicated to the Scientific Coordinating Group of t he 
+Preparatory Conference until Prep Con 7 in December 
+2004. In August 2005 the results were presented at t he 
+first meeting of the WCPFC Scientific Committee. These 
+assessments constitute the primary basis of scientific 
+advice on tuna stocks to the Commission. The results 
+from the assessments for Yellowfin and Bigeye tuna over  
+the last five years are tabulated below. The 
+recommendations for the management of these species 
+derived from assessments of the past five years are 
+summarized.  
+ 
+
+ 3.1  Yellowfin tuna 
+According to assessments presented in the years 2001 to 
+2004 inclusive, the Yellowfin stock was believed to be 
+neither overfished (as described by F current < F MSY, in the 
+range 0.6 –1.1) nor in an overfished state (as described  
+by B current > B MSY , in the range 1.5-2-5). Nonetheless, it 
+was recognized that the stock was nearing full 
+exploitation. Indeed, equatorial areas were regarded as 
+fully exploited. Biomass declines of around 50% in these  
+areas (cf. 35% overall for the WCPO) were attributable  to 
+fishing. (Appendix 1-3). It was considered that any 
+increases in fishing mortality would be unlikely to re sult in 
+any long-term increase in yield and could move the stoc k 
+to an overfished state. Given indications, moreover, of a 
+shift to a lower productivity regime in the WCPO seriou s 
+concerns arose that current catches (at near record 
+levels) might not be sustainable.  Successive SCTBs, 
+therefore, recommended that there be no further 
+increases in fishing mortality, especially on juvenile 
+Yellowfin.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+Year  Status Other indicators Recommendations 
+2001  (14 th  SCTB, 
+2000 data) At least moderately exploited; not 
+over-fished or in overfished state Impact of fishing has led to 35% reduction in biomass (greater in equatorial Pacific) 
+ No further increases in F (particularly on juveniles); closely monitor stock condition  
+2002  (15 th  SCTB 
+2001 data) Likely to be nearing full exploitation; not over-fished or in overfished state; catches may not be sustainable if shift to lower productivity regime Impact of fishing has led to 35% reduction in biomass (greater in tropical areas) Reiterate no further increases in F (particularly on juveniles);closely monitor stock condition  
+2003  (16 th  
+SCTB2002 data) Not over-fished nor in an overfished state; catches may not be sustainable if shift to lower productivity regime   Reiterate no further 
+increases in F (particularly on juveniles) 
+2004  (17 th  SCTB 
+2003 data) Not being over-fished nor in an overfished state; nearing full exploitation  Biomass reduction of 20-35% (but around 50% in tropical regions) Reiterate no further increases in F (particularly on juveniles;  
+2005   (1 st  SC, 
+2004 data) Overfished  but not in overfished 
+state Equatorial regions heavily impacted by fishing; urgent management action may be required Fcurrent must be reduced for 
+sustainable stock levels 
+Source: 14 th , 15 th , 16 th  and 17 th  SCTB summary statements; 1 st  Scientific 
+Committee (SC) record   
+
+ The 2005 assessment incorporated several adjustments 
+to the model. These included changed weighting factors 
+for Longline Catch per unit of effort (CPUEs), and 
+redefinition of the model regions to give six areas. It  was 
+considerably less optimistic then previous assessments. It 
+strongly indicated that overfishing was now likely to b e 
+occurring  (as described by F current > F MSY,   1.0-1.89, base 
+case 1.22). Although the stock appeared at this stage not  
+to be in an overfished state, (as defined by B current > B MSY , 
+0.93-1.55, base case 1.32) the assessment made it clear 
+that the current total catches were unlikely to be 
+sustainable in the medium to long term (10 years). In 
+short, catches at these levels will continue to reduce the 
+total biomass of the stock. Hence, long-term maximum 
+sustainable yields from the fishery are estimated to be 
+around 270,000t. This is very much lower than the recent  
+reported catches in excess of 400,000t. The assessment 
+suggested that the Longline fishery had a relatively lo w 
+impact on the stock. The greatest impacts were 
+attributable to surface fisheries, especially those in 
+equatorial areas of the Indonesian and the Philippine  
+fisheries. As noted earlier, juvenile and sub-adult Yell owfin 
+are taken in both associated and unassociated sets in 
+these fisheries. 
+ 
+ 
+
+ 3.2  Bigeye tuna  
+ 
+The picture that emerged from early assessments of 
+Bigeye were characterized by a high degree of 
+uncertainty, considered both Pacific-wide and in the mo re 
+restricted WCPO region. Even so, by 2004 the 
+assessments were clearly indicating a high risk of 
+overfishing (described by F current ~  F MSY , 0.89-1.02), 
+although the stock was not considered at that stage to be 
+in an overfished state (as described by B current > B MSY , 
+1.75-2.28). In addition recent recruitment of this spe cies in 
+the WCPO had been high. The assessment noted that if 
+there was a return this was to return to long term aver age 
+or lower levels of recruitment, current catches could not 
+be maintained.   
+ 
+By contrast, the EPO situation for Bigeye was somewhat 
+more severe. The stock was considered to be both 
+overfished and in an overfished state. Accordingly, 
+management measures were implemented for the 
+Longline fishery by IATTC in 2004, and even earlier for 
+catches of juvenile Bigeye by Purse Seine operations.  
+ 
+ 
+
+  
+Assessment  Stock Status Other issues Recommendations 
+2001  (14 th  SCTB 
+2000 data) Uncertain; moderate impact on stock.  Declining biomass, recent low recruitment Develop reliable assessments; no further increases in F on surface fisheries until uncertainty resolved  
+2002  (15 th  SCTB 
+2001 data) Uncertain but nearing full exploitation; not being overfished or in an overfished state   No further increases in F on juveniles 
+2003  (16 th  SCTB  
+2002 data) Uncertain; overfishing 
+occurring, but not in an 
+overfished state  No further increases in F on Bigeye tuna 
+(all sizes) 
+2004  (17 th  SCTB 
+2003 data) Close to overfished, but not in an overfished state  Recent recruitment above average No further increases in F on Bigeye tuna (all sizes); decrease in total catch may be needed 
+2005  (2004 data, 1st  SC) Overfishing occurring but not in an overfished state Equatorial regions heavily impacted by fishing; urgent management action may be required Fcurrent 
+to be reduced; if recruitment returns 
+to long term average levels, a further reduction in catch and effort is likely to be required to maintain the stock at sustainable levels  
+Source: 14 th , 15 th , 16 th  and 17 th  SCTB summary statements; 1 st  Scientific 
+Committee (SC) record 
+
+ Following redefinition of areas used in the modeling 
+assessments, changes in Longline abundance indices and 
+effort standardization, the 2005 assessment took the view 
+that overfishing of Bigeye was in fact occurring. (F current > 
+FMSY ,  0.90-1.45, base case 1.23). The stock was not 
+thought to be in an overfished state (B current > B MSY , 1.06-
+1.48, base case 1.25). Both reference points showed 
+some decline relative to the 2004 values. The assessment 
+made it clear that if current F levels are maintained, 
+however, this will move the stock to an overfished state. 
+This would become even more likely if current high 
+recruitment levels return long-term average levels or 
+below. MSY values based on recent and long-term 
+average recruitment are of the order of 90–100,000t a nd 
+65,000t respectively, considerably lower than the prese nt 
+catch level of around 115,000t.   
+   
+3.3   Skipjack tuna 
+ 
+Skipjack assessments continue to conclude that Skipjack 
+is currently exploited at a moderate level relative to its 
+biological potential. The stock is neither being over-fish ed 
+nor in an over-fished state. Biomass levels in this short-
+lived, high natural mortality species are largely drive n by 
+recruitment, and assessments suggest that 
+environmentally driven variation in recruitment will b e the 
+main influence on stock size and fishery performance. 
+Recruitment levels appear to be very high, as has been 
+the case for Yellowfin and Bigeye tuna.  
+ 
+
+ While the biological status of the fishery may be relat ively 
+healthy, initial bioeconomic modeling indicates that 
+reductions in effort, while reducing catch, would result  in 
+economic gains and increased profitability. This would 
+result largely from increased catch rates for Purse 
+Seiners. In addition, other benefits would be likely t o 
+accrue in the form of potentially increased recruitment of 
+Yellowfin and Bigeye to the Longline fishery. 
+Conversely, it should be noted that, as the Purse Seine  
+fishery is a multi-species one, any increase in the Purse 
+Seine Skipjack catch would result in increases in Yellowfi n 
+(and to a lesser extent, Bigeye) catch, as there is current ly 
+no fishing technique to enable fully effective Skipjack 
+targeting, to the exclusion of the other species. 
+ 
+3.4 Overview 
+ 
+The assessments of the status of Yellowfin and Bigeye 
+tuna in the WCPO have grown increasingly more 
+pessimistic over the period 2001 to 2005. It is now thoug ht 
+that both Yellowfin and Bigeye tuna are being overfish ed 
+according to output from the MF-CL model used.  Some 
+important points emerge from these assessments. Firstly, 
+the identification of over-fishing of the stocks has resulte d 
+from refinement of the models used rather than from any 
+obvious changes identified in fishing operations. 
+Secondly, the fisheries of all species appear to be 
+sustained by recent high levels of recruitment into the 
+populations. Hence, it would be prudent to assume that 
+resolution of further uncertainties and indeterminacies in 
+the data used to inform the models may bring further  
+
+ unwelcome findings and suggestions. Under such 
+conditions, management under a precautionary paradigm 
+should be implemented urgently.  Thirdly, the ecologi cal 
+drivers and constraints on the target populations need to  
+be taken fully into account. This should include recognit ion 
+that to a certain extent the fisheries overlap by gear  type 
+and region and are essentially mixed species fisheries. 
+This implies that these fisheries need to be subject to an  
+ecosystem-based management regime in order to achieve 
+true sustainability. Currently, however, the manageme nt 
+options that have been proposed fall well short of wha t is 
+necessary to assure true long-term sustainability in these  
+fisheries. The following sections of the report outline some 
+of the suggestions that have been made to date and 
+articulate the views of Greenpeace on what will constitut e 
+an effective approach. 
+ 
+4. Conventional Management Options for Yellowfin 
+and Bigeye Tuna 
+ 
+At the request of the 5 th  Preparatory Conference, an 
+information paper [5]  was prepared by the Interim 
+Secretariat on “management options …on how the 
+Commission could respond to sustainability concerns in 
+respect of Yellowfin and Bigeye ”. This report was 
+submitted to the 6 th  Preparatory Conference in Bali in April 
+2004, and provides an overview of a range of 
+management options that have been applied to tuna 
+fishery management in other regions. Some of these 
+measures could conceivably be applied in the WCPO. 
+
+  
+In general, restrictions on total fishing effort and he nce 
+rate of fishing mortality (input controls) have histori cally 
+been preferred over direct controls on catch (output 
+controls). Notwithstanding this, the use of combined eff ort 
+and catch controls in contemporary management 
+strategies has increased. This tendency is based 
+pragmatically on the realization that either type of 
+measure used in isolation may prove inadequate.  
+ 
+The various schemata are summarized in Table 2 below 
+and the possible application of these in the WCPO area is 
+discussed in the following sections of this report. 
+ 
+
+ Table 2.  Summary of management options applied to Bigeye and Yellowfin 
+in other ocean areas by RFMOs    Source: RFMO websites, references 5, 20.  
+Management measure applied Eastern Pacific Ocean (IATTC) Indian Ocean (IOTC) Atlantic Ocean (ICCAT) 
+OUTPUT CONTROLS 
+Competitive quota (TAC) Yellowfin TAC 1966-1979; 
+Juvenile Bigeye catch limits 
+1988-99;  Yellowfin catch limits 1998–2001 Qu 
+ota for Bigeye catch 
+on floating objects considered, but not adopted (Competitive TAC for southern 
+Albacore, for countries targeting 
+the species) 
+Allocated quota 
+(TAC) Longline Bigeye catch limited to 2001 levels (2004). Longline catch limits (2004-2006) for four  countries; limited to 2001 levels for others Bigeye Longline catch limits for one nation; limits under development for others 
+ Bigeye Longline TAC of 90,000t 
+(2005- 2008) Longline catch and 
+vessel limits by country, based on average 1991-92 catch; adjustment provisions 
+INPUT CONTROLS 
+Capacity limits  Limits on total Purse Seine 
+carrying capacity (m 3 of well 
+space); limits in entry of 
+new vessels and expansion 
+of capacity Restricting number of Longline vessels > 24m LOA, and GRT,  to number registered in 2003 Restricting number of vessels > 
+24m LOA to average number fishing in 2001-02 
+Gear limits Net depth, escape grids   
+
+ considered 
+FAD restrictions Catch limits on juvenile 
+Bigeye, to trigger ban on FAD fishing (1999-2001); now time/area closures on all purse seining Consideration of time/area closures for FAD fishing Closed area/season for FAD use in 1999; renewed in 2004, to be reviewed this year; all surface fishing, not only FADs  
+Restrict at-sea transshipment High seas transshipment by 
+Purse Seine vessels prohibited   
+Area -time 
+restrictions, including Marine Reserves  Time/area closures considered; preference for total bans for two periods (2003 and 2004); choice of two six-week periods (2005) Considered but not adopted (large Skipjack catch foregone) 
+Area closure to surface fishing 
+for November (years 2005-2008), review effect in 2005 
+Minimum size restriction  Considered, but not 
+implemented Since 1982 (3.2kg); recently rescinded  
+Compulsory 
+retention of all tuna 
+species of all sizes  In place (needs 100% observer coverage); continuing to Jan 07.   
+  
+
+ Pursuant to this 2004 review, and the updated stock 
+assessments from SCG 3, the first meeting of the WCPF 
+Commission (December 2004), directed that advice be 
+provided to the second meeting of the Commission 
+(December 2005), on the following points:  
+ 
+• “estimates of both sustainable catch and effort levels 
+for Bigeye, Yellowfin and South Pacific Albacore” 
+ 
+• “five and ten-year projections of total and spawning 
+stock biomass under 2003 catch levels, and possible 
+scenarios of changes in catch and effort in the WCP-
+CA for the Purse Seine, Longline and other surface 
+fisheries which have a major impact on Bigeye and 
+Yellowfin tuna, including the effects on the stocks of 
+possible time/area closures by fishing methods for 
+Bigeye and Yellowfin tuna” 
+ 
+• “the effects on the stocks of measures to mitigate the 
+catch of juvenile Bigeye and Yellowfin, including 
+controls on setting of floating objects”     
+ 
+In response to this directive, a comprehensive analysis [6]  
+was prepared by the OFP and other collaborators. The 
+findings were presented to the 1 st  Scientific Committee 
+(SC) meeting in August 2005 and are summarized below: 
+ 
+• In relation to the questions concerning sustainable 
+and effort levels, the OFP concluded that for 
+Bigeye and Yellowfin tuna, effort reductions for 
+
+ both species to around 80% of the current F, which 
+would reduce overfishing to F MSY  levels.  
+ 
+• In relation to sustainable catch levels, the OFP 
+concluded that for Yellowfin and Bigeye tuna the 
+long-term average catch levels consistent with F MSY  
+would be less than 70% of present levels (2001-
+2003 average) for both species. With recent high 
+levels of recruitment, especially for Bigeye, catches 
+of 0.95 and 0.77 of current levels for Bigeye and 
+Yellowfin respectively would be consistent with 
+FMSY. 
+ 
+To fulfill the five and 10-year projections requested by the 
+Commission, projections on a 10-year time horizon were 
+made. It is noted that the baseline fishery condition s in 
+2003 used were in some ways atypical. For example, high 
+Purse Seine catches, especially of Yellowfin, took place 
+that year. Twelve scenarios, with subsets, were tested, 
+with outcomes graphically represented in Figure 1 of th e 
+report of Agenda Item 5. Stock projections are somewhat 
+simplistic, however, and should be taken as indicative 
+only, given uncertainties in the simulations. A number  of 
+insights were gained through these projections of possible  
+fishery performance under various conditions and of 
+responses to restrictions applied over the fishing sectors 
+and gear types. 
+ 
+ 
+
+  
+a) Current general situation  
+ 
+The projections broadly confirmed the general situatio n 
+outlined in Section 3. Both Bigeye and Yellowfin ar e 
+currently overfished.  
+ 
+Current catches of Bigeye tuna are not sustainable under  
+long-term average recruitment. Under the unusually hig h 
+recent recruitment levels, overall catches may be 
+sustainable in some regions but not in others. In the 
+Western Equatorial Pacific (WEP) projected abundance 
+declines towards zero even with significant catch 
+reductions. The modeled projections suggested that 2003 
+effort levels were generally sustainable insofar as they 
+would stabilize biomass at levels consistent with MSY.  
+ 
+For Yellowfin tuna , the high 2003 catches are not 
+sustainable, and would lead to rapid depletion of stocks,  
+especially in the WEP, where abundance declines 
+towards zero even with significant catch reductions. 2003 
+effort levels were considered to be sustainable, with most  
+forms of effort reduction generally effective in keeping  
+biomass above levels consistent with MSY.  
+ 
+The projections suggested that biomass levels above 
+those consistent with MSY could be achieved for both 
+species by effort reductions of between 15% and 30% in 
+all fisheries. Together with catch reduction of 30% in a ll 
+fisheries for Bigeye, strong increases in modeled biomass 
+levels were achieved for Yellowfin and Bigeye. 
+
+  
+b) Projected Effects of Specific Measures 
+ 
+i) Bigeye tuna  
+ 
+The greatest positive impact on adult biomass for Bigeye 
+tuna was achieved through projections in which reductions 
+in Longline catch and effort were reduced. In relation  to 
+Purse Seine gear, the most effective measure was the 
+switching from associated to unassociated sets. Modeled 
+reductions in catch/effort in Indonesia and the Philippi ne 
+fisheries had little positive impact.  Closure options on  the 
+Purse Seine fisheries were explored and quarterly time -
+area closures were found to be effective. Specifically, 
+closure of log/FAD sets together with a localized 
+redirection of associated sets to unassociated sets was  
+found to be beneficial. Quarterly Longline closure opt ions 
+were modeled and these simulations suggested that the 
+best results were achieved from closures in the Eastern 
+Equatorial Area. 
+ 
+ii)  Yellowfin tuna 
+ 
+Of the options modeled for Yellowfin tuna, reductions in 
+Purse Seine effort and of effort in the Indonesian an d 
+Philippine fisheries gave better results than reduction in 
+Longline effort. A switch from associated sets to 
+unassociated sets gave less clear benefits for Yellowfin 
+than for Bigeye tuna. This is probably due to the fact  that 
+Yellowfin are taken by both set types. Little impact w as 
+achieved through quarterly closures with effort transfers,  
+
+ but minor benefits were observed in the simulations by 
+shifting Longline effort from west to east. 
+ 
+c) Projected effects of reduced catch of juvenile 
+Bigeye and Yellowfin tuna 
+ 
+Projections were made involving the impact upon biomass 
+of reduced catch of juvenile Bigeye and Yellowfin tuna.  
+The best outcomes in the form of increased biomass and 
+catch gains were achieved through transfer of effort from  
+associated to unassociated sets. These included benefits 
+to the Longline fishery. Effort reductions in Purse Sei ne 
+fisheries and in the Indonesian and Philippine sectors 
+demonstrated potential benefits for Yellowfin, as did many 
+of the time/area closures also simulated for the Purse 
+Seine sector. 
+ 
+d) Summary 
+ 
+A number of broad conclusions can be drawn from the 
+results of the simulated management scenarios and the 
+assessments described above. 
+ 
+Firstly, the simulations suggest that current catches of 
+both species are not sustainable. This is particularly true  
+of the WEP extending from the Philippines to Kiribat i. In 
+this area drastic declines in tuna stocks are predicted by 
+the models used, even if catch levels are substantially 
+reduced. Accordingly, this points to the need to emplace  a 
+robust, enforceable management regime for tuna over the 
+WCPO as a whole. 
+
+  
+Secondly, in the model simulations carried out to explo re 
+the impact of possible management intervention, it was 
+established that there are positive benefits that flow from 
+reducing effort across all fishery types for both Yellow fin 
+and Bigeye tuna. Reducing catch levels across all fishery 
+types would be of benefit to Bigeye tuna populations.  
+ 
+Thirdly, the simulations suggest that effort reduction 
+involving Purse Seine gear were generally most beneficia l 
+for the Yellowfin stock, while effort reduction in the 
+Longline sector was beneficial to the Bigeye tuna stock. 
+ 
+Finally, the simulations predict that some time/area 
+closure options and options involving transfer of fishing 
+from associated/FAD sets to unassociated sets were 
+beneficial to both species. 
+ 
+While these predictions are useful for illustrative purp oses, 
+there are considerable uncertainties in the data used t o 
+form the model and in other aspects of the information  
+available, to form policy. In addition, the scientific advice 
+generated from the assessments appears to be 
+predicated on the use of MSY as a target limit value. 
+Hence, Greenpeace is of the view that the effort and catch 
+reduction suggested by these simulations represent a 
+bare minimum level of management which should be 
+applied to tuna fisheries in the WCPO. The basis for th is 
+assertion is examined in the context of the following 
+sections of the report which outline current management 
+instruments in use in the WCPO fisheries. The report the n 
+
+ examines specific difficulties in applying management 
+schemata in the WCPO. 
+ 
+5. Current management approaches in the WCPO   
+ 
+Various management systems have been applied to 
+various tuna fisheries around the world under the 
+auspices of the relevant RFMOs. These have been 
+summarized in Table 2 above.  In general, input contr ols 
+have more commonly been applied (capacity limits, FAD 
+restrictions, area-time closures) but output controls are 
+also commonly applied, in particular to Longline fisheri es. 
+In relation to the WCPO, however, there are currently  no 
+management measures that apply throughout the 
+Convention Area or throughout the range of any of t he 
+stocks. 
+ 
+At national level, measures may be embedded in nation al 
+tuna management plans to limit  inter alia numbers of 
+operating vessels or catch levels. Exercising of sovereign 
+rights in the context of bilateral access arrangements ma y 
+also be used to achieve both in-zone conservation and 
+management of the resource. At the sub-regional level, 
+the US Multilateral Treaty administered on behalf of  the 
+Pacific nations by the Forum Fisheries Agency (FFA) 
+controls access to EEZs and adjoining waters of Pacific 
+nations. This limits the number of US Purse Seine vessels 
+which may fish in the region. Since 1995, the Palau 
+Arrangement has limited the number of Purse Seine 
+vessels that may fish in waters of the Parties to the Na uru 
+
+ Agreement (PNA). This arrangement limits the number o f 
+Purse Seiners that can operate in what is effectively the  
+PNA region to 205 vessels. 
+ 
+This is potentially a very powerful influence on tuna fishing 
+operations, (and their impact) in the region. Vessels 
+operating under the Palau Arrangement are thought t o 
+take around 70% 8 of the WCPO Purse Seine catch. 
+Hence, this arrangement has the potential to exert a 
+significant amount of control on the Purse Seine effort  
+impacting WCPO stocks. At both national and regional 
+level therefore, some form of capacity limits are in pl ace, 
+at least for the Purse Seine fishery. Nothing is, howe ver, 
+in place in the WCPO for the regulation of the Longl ine 
+fishery or for other gear.    
+ 
+Even so, the adequacy of the restrictions on Purse Seine 
+vessels is open to considerable question. In particular a 
+number of weaknesses have been identified in the Palau 
+Arrangement that has led the Parties to formulate an 
+alternative approach. The Vessel Days Scheme (VDS) is 
+described more fully below. 
+ 
+                                                 
+8  As a significant number of Purse Seine vessels op erating in the western equatorial Pacific  are probably 
+not included in current effort estimates, this is a n overestimate.   
+
+ a) Vessel Days Scheme – Purse Seine effort 
+ 
+In December 2000, the Palau Arrangement Parties 
+signaled their intent to move to a new scheme. This was 
+intended to replace the limits on “vessel numbers by flee t” 
+in the Arrangement, using a scheme based upon limits on 
+“vessel days by zone (EEZ)”. The VDS was intended to  
+ 
+“enhance the economic and biological sustainability of th e 
+Western and Central Pacific Purse Seine fishery by 
+controlling the level of fishing effort by Purse Seine 
+vessels within limits consistent with resource 
+sustainability; and also increasing economic benefits to 
+resource-owning states and economic returns to 
+participating vessel owners” [7] .  
+ 
+The broad thrust behind the scheme was the 
+establishment of a TAE based initially on an average ef fort 
+for the period 1999-2001, then subsequently for 2000-
+2002. Overall, this was designed to limit fishing effort  to a 
+lower level than currently occurring, consistent with a 
+precautionary approach. In addition, it took account of  
+SCG recommendations to cap fishing mortality on Bigeye 
+and Yellowfin tuna.  
+ 
+In operational terms, this involved the calculation of th e 
+total number of vessel days available for allocation to t he 
+Parties (PNA TAE), minus days in international waters 
+and EEZs of other states. After further subtracting 
+obligations associated with the United States Multilate ral 
+Treaty (USMLT) and the Federated States of Micronesia 
+
+ (FSM) Arrangement, individual allocations (Party 
+Allowable Effort, PAE) would be made according to a 
+formula giving equal weight to biomass estimates within 
+the EEZs (Skipjack and Yellowfin) and the average vessel 
+days fished in the EEZs for the period 1996-2002.  
+ 
+It was intended that PAEs would be transferable 
+according to an established set of rules, the definition  of a 
+fishing day would be pro-rated to vessel size (3 categori es 
+of Length Overall) (LOA), and Parties would be free t o 
+allocate their days (PAE) as they wished, presumably 
+according to a set of established priorities. Crucial to the 
+success of the scheme would be the fully operational 
+status of the vessel monitoring system, the Forum 
+Fisheries Agency (FFA) Vessel Monitoring System (VMS) 
+and the associated in-country hubs. In addition, the 
+effectiveness of the scheme would also be determined by 
+other factors. The capacity of individual countries to 
+manage their PAEs to good effect, on a real time basi s, 
+was likely to be important. The effectiveness of tradi ng of 
+effort days amongst Parties to take account of ENSO-
+driven variation in biomass distribution would also be a  
+critical parameter in determining the effectiveness of t he 
+proposed scheme. 
+ 
+Unfortunately, the effectiveness of the VDS as a 
+management tool in the WCPO remains untested and 
+indeed it is yet to be implemented in any form.  It is 
+possible that the scheme may be implemented in mid-
+2007, subject to endorsement by the PNA at ministerial 
+level. This involves a transitional period of between 4 
+
+ months and 18 months from existing arrangements.  The 
+scheme has faced considerable criticism from Purse 
+Seine operators.  The 2005 World Tuna Purse Seine 
+Organization Meeting (WTPO) 9 appeared to be losing 
+patience with the VDS process. They considered that 
+huge difficulties existed in its application and even in  it 
+gaining wide acceptance among PNA members. They 
+recommended that its implementation be postponed.  
+ 
+In any case, the original ambitions of large scale effor t 
+control under the VDS scheme appear to have been 
+comprehensively undermined by the reported likelihood 
+that it will be the 2004 effort level that will be u sed as a 
+baseline. This is more than 20% higher than the average d 
+1999-2001 effort level originally proposed. The 
+assumption of this as a baseline means that the scheme 
+can no longer be regarded as being consistent with a 
+precautionary approach.  It is possible that the VDS could 
+serve as a framework through which future effort 
+reductions could be made, but this is far from certain. 
+However, the success of the VDS as a pivotal 
+management framework through which timely 
+management of the WCPO Purse Seine fishery can be 
+achieved looks extremely doubtful. 
+ 
+The above concerns translate from the Purse Seine 
+fishery which accounts for the bulk of tuna caught in the  
+WCPO to the Longline fisheries. 
+ 
+ 
+                                                 
+9  WTPO Declaration, 5th Annual Assembly, Manila, Ph ilippines, 20-21 September, 2005. 
+
+  
+ b) Longline Effort 
+As yet there has been no attempt to limit Longline ef fort in 
+the WCPO, in contrast with other ocean areas 
+administered by other RFMOs. Early consideration of 
+options for managing effort (and catch) in the South 
+Pacific Albacore fishery did not result in any substantive  
+measures. Proportionally, much less longlining effort is 
+directed in areas of the EEZs of coastal states than is th e 
+case for Purse Seine fisheries.  Nonetheless there is a 
+wide range of vessel size and a very large number of 
+Longliners fish within the PNA area and in the WCPO a s a 
+whole. The estimates are subject to large uncertainty, but 
+number at least 5000. This figure does not include 
+thousands more small vessels (handliners etc.) fishing in 
+Indonesia and the Philippines but which take adult f ish of 
+similar size to those taken by Longliners.  
+ 
+Though data is scarce, Longline effort in the WCPO 
+appears to be increasing. It has been claimed that at least 
+one entity has increased the number of Longline vessel s 
+on the FFA national register by 148 since the 1999 
+Multilateral High Level Conference (MHLC) Resolution 
+was made to limit capacity increases. This is offset to 
+some degree by plans of the same entity to dismantle 1 20 
+older Longliners over the next two years. The Longline  
+fishery in Vietnam is also expanding, as is the Chinese 
+DW Longline fleet. Moreover, Longline fishing has als o 
+provided many of the examples of known IUU fishing in 
+the region.  
+
+  
+As described above, the output of modeled simulations to  
+investigate the impact of effort reduction has singled ou t 
+limits on longlining in the region as the single most 
+effective measure to increase and stabilize biomass of 
+Bigeye tuna. It is recognized, however, that such 
+regulation is extremely difficult. 
+ 
+ As a result, catch limitation has probably been the mo st 
+widely used regulatory tool for Longline fleets. 
+ 
+Recently, for example, the IATTC introduced a self-
+enforced Bigeye TAC for Longline vessels of four 
+countries (China, Japan, Korea and Chinese Taipei) over 
+the period 2004, 2005 and 2006. This requires other 
+contracting parties to ensure Longline catches of Bigeye 
+do not exceed their 2001 levels. This has already had 
+ramifications for the WCPO. There has been some 
+transfer of effort -during 2004 - after EPO quotas w ere 
+reached, and some “laundering” of Bigeye caught in the  
+EPO and described as WCPO fish, has also been 
+documented 10 .      
+  
+ 
+ 
+ 
+ 
+ 
+                                                 
+10   Report on the Fishing Capacity of Chinese Taipei.  Informal Consultation towards WCPFC 2, Tokyo, 8-9 
+September 2005 
+
+ c) Economic and Regulatory considerations 
+ 
+Any management framework proposed must take into 
+account the important role that tuna fisheries play in  the 
+economies of the region. 
+ 
+Longline fishing is less capital intensive than Purse Se ine 
+operations. It has less requirement for input of capit al, 
+technology and expertise. Accordingly, it has been a 
+primary focus of domestic fishing industry development f or 
+many Pacific Island States, in particular those in sub-
+tropical areas. By contrast, Papua New Guinea (and to a  
+lesser extent the Solomon Islands) have pursued a 
+preferred development pathway of gearing a domestic 
+Purse Seine capacity to onshore processing of the catch . 
+The economies of other island states (notably atoll stat es 
+such as Kiribati) in the tropical region are significantl y 
+dependent upon access fees for Purse Seine vessels.  
+ 
+Hence, in considering potential management options, 
+most Island states will heavily weigh economic factors in 
+their evaluation. There is wide perception that the cu rrent 
+state of the stocks is due to the large-scale expansion of 
+the fisheries by the DWFN in past years. Unsurprisingly, 
+most states are unwilling to curtail current and future 
+development aspirations as a result of historical over-
+expansion. This has led to a great overcapacity in the 
+sector as a whole and in turn has led to departure of t he 
+fisheries from sustainability. This unsustainable state is 
+
+ characterized by complete lack of equity in the distributi on 
+and availability of the natural capital these fisheri es 
+represent.  In turn, this implies that balancing 
+development ambitions with the need to restore the 
+fisheries to sustainability and to manage them 
+subsequently will be a major challenge. Essentially, 
+negotiation of timely and substantive fisheries 
+management measures in the Convention area may well 
+be held hostage to economic development, that in and of  
+itself departs significantly from sustainability. 
+    
+6. Problems identified for effective management of 
+WCPO tuna stocks  
+ 
+A range of management options has been considered for 
+tuna fisheries in other tropical ocean areas (as 
+summarized in Table 2 above) where RFMOs have been 
+in place for some time, but where similar problems with  
+Yellowfin and Bigeye stocks are nonetheless evident. 
+There are, however, a number of potential difficultie s 
+which are likely to complicate attempts by the Commission  
+to apply any or all of the potential management opt ions 
+that have been recognized in studies of the options [5]. 
+ 
+ (1) The WCPO fishery is much larger (in terms of catch –  
+50% of the global catch), more complex and spread over 
+a much wider area than any of the other ocean areas 
+where RFMOs manage tuna fisheries. These areas (and 
+the relevant RFMOs) are: The Eastern Pacific Ocean 
+
+ (IATTC), Indian Ocean (IOTC), Atlantic Ocean (ICCAT) 
+and the Southern Ocean (CCSBT).  
+ 
+(2) A second raft of complexities arises as a result of 
+some of the coastal state fisheries being large and highl y 
+complex. The Philippines and Indonesia are good 
+examples of this. In these countries, multi-species tuna 
+fisheries operate using multiple gear and involves very 
+large numbers of vessels of varying sizes. These land 
+their catch at hundreds, if not thousands of landing poi nts.  
+ 
+(3) There is a much greater sea area under the jurisdict ion 
+of coastal states (cf. high seas) than is the case in any 
+other ocean area. Much of this sea area is located in the  
+productive equatorial zone. On one hand, in management  
+terms, this confers potential advantages to coastal states, 
+particularly with management of the Purse Seine fisher y. 
+On the other, these coastal nations vary considerably in 
+size and economic circumstances. Hence, they vary in 
+terms of the way they choose to exercise their rights t o 
+manage their natural resources. The resultant geo-pol itical 
+environment complicates many aspects of regional 
+management, not least being resource allocation issues. 
+ 
+(4) The relative importance of Skipjack in the total cat ch 
+(68%) and Purse Seine catch (78%), is higher than in an y 
+other fishery11, [2] , whereas management concerns are with 
+species that form a relatively minor proportion of the catch 
+                                                 
+11   This has been  the subject of some uncertainty re cently [9] , with discrepancies between observer data and 
+logsheet/port sampling data with respect to the rel ative proportion of Skipjack and “yellowfin plus bi geye” in the 
+catch 
+
+ e.g. Yellowfin (20%) and Bigeye (2.2%). Issues of effo rt 
+and catch reduction, therefore, require careful economi c 
+consideration. Management measures applied to the 
+Bigeye and Yellowfin stocks will result in a forgone catch  
+of the majority species (Skipjack). 
+ 
+(5) The WCPFC is the most recent of the RFMOs to be 
+established. Accordingly, the range and scope of the 
+monitoring and surveillance it conducts are limited. It is 
+likely to be some time before it is well established and  fully 
+functional as a significant regulatory force. As things 
+stand, its limited capacity will compromise support of 
+identified management and conservation measures and 
+the co-ordination of regional management efforts. 
+ 
+The points 1-5 immediately above represent a broad 
+spectrum of general organizational capacity issues and 
+economic issues. These act as constraints on the delivery 
+of effective management and advice for the WCPO tuna 
+fisheries. There are a number of more specific issues 
+which act to constrain effective management. These relat e 
+to the availability and provision of data to inform t he 
+advisory process necessary in defining management 
+needs and objectives. These aspects are explored in 
+more detail in the following sections. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+a) Data provision and availability 
+ 
+The relatively recent creation of the WCPFC means that 
+currently there are substantial gaps and inadequacies in 
+the data covering the WCPO tuna fisheries. These 
+contribute to a substantial level of uncertainty and 
+indeterminacy, which translates into a substantially 
+reduced confidence in the output from fisheries models 
+and the management measures put in place. In some 
+cases, data is absent from nations that are not members 
+of the Commission and, therefore, do not contribute d ata 
+on their fisheries, despite these being of great relevan ce 
+to management in the WCPO. A good example is 
+Vietnam. Indonesia and the Philippines, on the other 
+hand, have acknowledged inadequacies in existing 
+statistical coverage due to the complexity of the fisheries 
+as noted above. These types of data deficiencies are 
+critical given that between 35% and 40% of the total 
+Yellowfin catch is estimated to come from this area. The  
+Commission members are supporting a project  12  to 
+remedy this situation in the medium term. 
+  
+An illustration of the likely scale of the problem is p rovided 
+by the statistics for logsheet coverage in the WCPO. This 
+is somewhat less than the 50% overall and falls to 25% or  
+below for Longline and 15% for pole-and-line. This l ack of 
+data introduces substantial uncertainty into certain 
+operational analyses. In addition, the relative propor tions 
+of juvenile Yellowfin and Bigeye in the Purse Seine catch, 
+is not well characterized. This is possibly because they 
+
+ are of similar appearance and value. The situation wher e 
+species composition is estimated from sampling of a 
+subset of the fleets and then extrapolated to others ne eds 
+to be resolved if data precision is to be improved. 
+  
+b) Fleet capacities 
+ 
+The considerable uncertainties attached to catch and 
+biological data are paralleled by inadequacies in the  data 
+describing fleet capacity over the region. In short, the 
+capacities (and indeed basic vessel characteristics) of 
+fleets operating in the WCPO are not fully documented.  
+The Commission, therefore, is poorly placed to consider 
+the likely benefits of effort reduction options based o n 
+limiting capacity such as capacity limits for large scale  
+vessels operating in the region. As an example, under t he 
+terms of Art. 24 (4,5) of the Convention, and the De cision 
+of the Commission relating to the Record Fishing Vessel s 
+and Authorizations to Fish, the Commission was entitled 
+to receive from members  by July 1, 2005, a record of fl ag 
+fishing vessels authorized to fish in the Convention Area  
+beyond their jurisdiction together with similar data f rom co-
+operating non-members. It was intended that this 
+information should form the basis of the WCPF Record o f 
+Fishing Vessels, in other words, those vessels authorized 
+to fish in the Convention area beyond the national 
+jurisdiction of the flag state. The degree of compliance  
+with this process is unknown, but it is believed that few 
+countries have complied with the requirement to provide  
+information. 
+ 
+
+ The general lack of information about fleet capacities is 
+compounded by large scale failures to observe 
+Resolutions from the 4 th  MHLC (1999), 5 th  MHLC (1999), 
+the 3rd PrepCon (2002) and the 5 th  PrepCon (2003) to 
+“exercise reasonable restraint” in “any further increase  in 
+fishing effort and capacity in the Convention Area and  to 
+apply the precautionary approach forthwith”. Despite the 
+Resolution on Conservation and Management from the 
+first Commission meeting affirming that these resolution s 
+continue to apply, fishing capacity has continued to 
+increase in the Purse Seine and Longline fisheries in 
+recent years. The current fishing capacity in the WCP O is 
+sufficient to  fish at levels well beyond MSY, an 
+observation that appears to be true for Purse Seine 
+fishing [9]  and longlining fishing [10]  on a global scale.  
+ 
+There have been several recent attempts to estimate 
+Purse Seine vessel capacity in the WCPO [12][13][14] . Some 
+of these studies [13]  have excluded vessels active in the 
+region on the grounds that they have a well capacity 
+below 400m 3 or because they are active in only one EEZ. 
+The overall effect of these essentially arbitrary exclusi ons 
+has been to exclude from any management related 
+calculations and modeling, a considerable proportion of 
+the effective capacity for some fleets. For example, in the 
+case of the Philippine Purse Seine fleet, half of the 
+vessels over 250GRT were not included. This amounted 
+to around 20 vessels. None of the smaller vessels of less 
+that 250GRT were included. This is against a background 
+of most newly constructed vessels (post 1999 Resolution 
+on Capacity) being in excess of 2000GRT. 
+
+ A full characterization of Purse Seine and longlining 
+capacity on the WCPO is a vital prerequisite to the 
+success of any management plan based on options 
+restricting capacity [12] .  If the capacity is not known with 
+any certainty, the precise benefits of capacity reduction  
+cannot be gauged. More fundamentally, if capacity is not 
+accurately known, then it is likely to prove impossible to  
+ensure that any mandated capacity reduction is translated  
+into actual reductions in capacity in the real world. 
+ 
+c) Uncertainties in stock assessments 
+ 
+Notwithstanding the general flexibility and utility o f the MF-
+CL model used to inform management in the WCPO 
+region, there are important areas of uncertainty that  
+require resolution in order to improve the stock 
+assessments of the major target species. Examples 
+include sensitivity of management reference points, to 
+assumptions about the stock recruitment relationship 
+(SSR), and about recruitment into the fishery together  with 
+the large gaps in Philippines/Indonesian data. Coupled  
+with uncertainty attached to the capacity in the variou s 
+fisheries sectors, these conspire to undermine confidence 
+in stock assessments for the regions. These, and other 
+areas, will require refinement and much further work.   
+Under these circumstances, however, management 
+should be predicated upon the most pessimistic 
+assumptions in line with a precautionary approach. 
+ 
+ 
+
+ d) Absence of management objectives 
+ 
+Even if efforts are successfully made to eliminate or 
+accommodate sources of uncertainty affecting the output 
+from fisheries models, meaningful advice on the directio n 
+of the fishery is not possible without management 
+objectives actually being set. Annex 2 of the Agreement 
+provides clear guidance in this regard, proposing that 
+fishing mortality does not exceed F MSY  in stocks that are 
+not overfished, and B MSY  as a rebuilding target for 
+overfished stocks. 
+ 
+The Commission will need to frame a set of management 
+objectives for the fishery, and presumably decide on the 
+choice of reference points (target/management reference  
+points and limit/conservation reference points) that wil l be 
+used to evaluate fishery performance. In the view of 
+Greenpeace, the use of F MSY  as a limit value does not 
+constitute a sufficiently precautionary basis for the 
+management of these fisheries. Accordingly, if MSY is to 
+be used as a basis for management, it should be as a 
+starting point, subsequently taking account of 
+uncertainties and indeterminacies in the data.  
+ 
+e) IUU fishing 
+ 
+Allied to the problems concerning precise capacity level s 
+within the industry, is the problem of IUU fishing. T he 
+scale of IUU fishing on the WCPO tuna stock is not known 
+with any great certainty.  It is, however, thought to be a 
+substantial problem as discussed further in Section 7 
+
+ below. Quite apart from the economic implications of su ch 
+fishing activity, as an uncharacterized element in 
+calculations involving effort, capacity and catch level, it  
+clearly could impact upon the quality of assessments and 
+the scientific advice drawn from them. 
+ 
+7. IUU fishing in the WCPO 
+ 
+IUU fishing in the WCPO tuna fishery is widely regarde d 
+as a serious economic and management issue in the 
+region generally and for coastal states, in particular. This 
+is in addition to the fact that it could act to seriousl y 
+compromise effective management and conservation 
+measures. Greenpeace [17]  has estimated that IUU fishing 
+represented a “conservative” 5% to 15% of the WCPO 
+catch in 2002.  This would likely be in addition to th e total 
+2 million tonnes from landings and catches reported for  
+the WCPO, or at least in part. Given the clandestine 
+nature of much IUU fishing activity, there are few, if  any, 
+reliable data on the extent of IUU fishing in the WC PO 13 .  
+This introduces further uncertainty into the assessment 
+system, which is not currently acknowledged for the 
+WCPO stock assessments. The following sections of the 
+report examine IUU fishing and the management 
+implications in more detail. 
+ 
+
+ Illegal fishing 
+ 
+These activities are also generally unreported and often  
+involve unlicensed fishing inside the national waters of 
+Pacific Island [15]  and other coastal  states such as the 
+Philippines [16] . It may consist of violations of conditions by 
+vessels fishing under license. It may involve DWFN 
+members or entities of the WCPFC, together with vessels 
+of open register, or “flag of convenience” countries. It  has 
+been reported [15]  that  illegal fishing, as measured by the 
+number of detected violations, has declined in the EEZs o f 
+FFA members since the mid-1990s, whereas this has not 
+apparently been the case in south-east Asian coastal 
+states. In these areas illegal fishing has probably 
+increased. Incidents involving illegal at-sea 
+transshipments, laundering of fish caught elsewhere 
+during such transshipments and other violations continue 
+in the WCPO, but the true scale and extent is simply 
+unknown.             
+ 
+Unregulated fishing   
+ 
+High seas fishing has long been unregulated, and remain s 
+effectively unregulated for those countries that are not  
+bound as signatories by the UN Fish Stocks Agreement. 
+One of the first acts of a functioning WCPFC should be t o 
+enforce the requirement of flag states to issue 
+authorization to fish on the high seas 12 , as per the 
+decision of WCPFC 1, and duly report to the Commission  
+the details of such vessels on an annual basis. These 
+                                                 
+12   Art 24(2) of the WCPF Convention  
+
+ should be required to carry approved VMS equipment and  
+be subject to effective observer coverage. 
+ 
+Unreported fishing   
+ 
+Such activities include two major categories of vessels. 
+These comprise firstly, those vessels deliberately not 
+reporting their activities and, secondly, vessels of member  
+and non-members that fish in the convention area, but 
+which are not obliged to report. The latter group i ncludes 
+some Vietnamese tuna vessels and some Philippine 
+vessels fishing outside their EEZ. These boats are 
+generally operating under access arrangements but are 
+not required to supply catch data under the terms of t hese 
+agreements, nor is such data routinely sought by the 
+national authorities. As noted above, there are concern s 
+attached to the quality of data that is reported. Ind onesian 
+and Philippine logsheet coverage remains incomplete, 
+particularly in respect of the high seas activities of some 
+fleets. 
+ 
+Overview 
+ 
+Between 5% and 15% of the overall WCPO tuna catch 
+may be taken by IUU fishing activities as outlined in th e 
+recent Greenpeace Report on this topic. Of this, perhaps 
+150,000t may not be included in catch estimates due to 
+passive non-reporting and an unknown amount of 
+deliberate non- or under-reporting. This is potential ly a 
+significant proportion of the catch, and points to a pre ssing 
+need for individual states in the WCPO to develop 
+
+ National Plans of Action for IUU fishing and the WCPFC  
+could reasonably be expected to develop an IUU POA.  
+As a first step a list of IUU vessels and their illegal 
+activities needs to be compiled in order to clearly ident ify 
+known “bad actors”. This approach has been taken by 
+other RFMOs, so is not without precedent [15] . 
+ 
+8.  Proposed effort reduction measures for WCPO and  
+their impact 
+ 
+The data that exists on the tuna fisheries in the WCPO are 
+characterized by considerable uncertainty and 
+indeterminacy. The reliability of the models used in  stock 
+assessments is unknown within fairly wide parameters. 
+Indeed, it was refinements to the models, rather than any 
+substantial change in the body of data gathered to inf orm 
+the model, that led to the 2005 conclusion that stocks of 
+Bigeye and Yellowfin were being overfished at current  
+levels of recruitment. The stocks of Bigeye and Yellowfin 
+are not thought to be in an overfished state, however.  
+Skipjack tuna currently appear to be exploited at moder ate 
+levels relative to current population estimates. 
+ 
+There are identified shortcomings too in respect of curre nt 
+effort and catch levels in the WCPO and in relation to  
+levels of IUU fishing taking place in the region. Moreov er, 
+Purse Seine and longlining capacity is continuing to 
+increase.  Greenpeace considers that under such 
+conditions a rigorous precautionary approach needs to be  
+applied in the management of stocks and the fisheries 
+require management on a whole ecosystem basis. The 
+
+ goal of such management should be to reverse current 
+overfishing and, thus, reverse continuing biomass trends 
+towards an overfished state.  This would accord with the 
+spirit of the Resolution on Conservation and Management  
+Measures made at the first session of the WCPFC. 
+ 
+As a starting point in this discussion, it is possible to use  
+the projected scenarios produced for the WCPFC meeting 
+in 2005. As noted above, these lead to the overall 
+conclusion that using  F MSY as a limit reference point, 
+fisheries for both Yellowfin and Bigeye would require  a 
+reduction in F to around 80% of current levels. As poin ted 
+out in the simulations [6] , an “across the board” effort cut of 
+this magnitude in most fisheries would eliminate 
+overfishing of both species, given commonalities in 
+fisheries for them. At the same time, however, effort 
+reduction in the Purse Seine fishery would come at 
+considerable cost in the amount of Skipjack tuna catch 
+foregone. Sustainable catch levels are more difficult to 
+estimate due to impacts of variable recruitment over time , 
+but significant reductions in recent Yellowfin catch levels,  
+given recent recruitment, would be necessary (23%). As 
+noted above, Greenpeace does not consider MSY as a 
+robust basis for establishing a precautionary managemen t 
+framework. 
+ 
+As a generality, however, effort reductions may well be  
+the preferable suite of options in most cases, particular ly 
+in the short term, although inevitably “technology cre ep” 
+and other slippage is clearly an issue in the long term 
+effectiveness of such measures. Most of the output control 
+
+ (catch-based) options would need to be backed up by 
+comprehensive monitoring programs that are not likely to  
+be in place in the near future.  
+ 
+One clear possibility exists to cap effort and establish a  
+position from which further effort reductions could be 
+achieved. Accordingly, Greenpeace proposes, as a first 
+but substantive step in this direction, that a moratorium  on 
+the construction of large Purse Seine (Super Purse Sein er 
+& Super Super Purse Seiner) and large Longline vessels 13  
+proposing to fish in the WCPO be imposed. This is in li ne 
+with earlier Resolutions of the 4th  MHLC, 5 th  MHLC, 3 rd  
+PrepCon and the 5th PrepCon.  In addition, movement of 
+vessels from other areas should be strictly controlled. At 
+the same time, a WCPFC Record of Fishing Vessels 
+should be established at the earliest opportunity and 
+studies undertaken on the most appropriate measures of 
+effort, and the most suitable option to limit capacity in 
+WCPO Purse Seine and Longline fisheries. With these 
+proposals in mind, the following sections consider 
+possible more specific management options by gear type 
+although it must be stressed that these are grounded in 
+the current management paradigm, and may not, 
+therefore, be sufficiently precautionary. 
+ 
+ 
+ 
+ 
+ 
+                                                 
+13   “large” to be defined following careful considera tion of the implications of the various specificati ons in 
+place elsewhere eg 15m LOA/ 3 GT  for municipal ves sels, 24m LOA  for Longline vessels  
+
+ 8.1  Purse Seine gear 
+ 
+Yellowfin   
+ 
+The projections indicate that reductions applying to Pu rse 
+Seine effort, and Indonesian and Philippines effort i n 
+general were likely to be more effective for this specie s 
+than reductions in Longline effort, in rebuilding bio mass. 
+This is due to the high proportion of the Yellowfin ca tch 
+taken by Purse Seine in the WEP (Philippines/Indonesi a). 
+ 
+Achieving a 20- 30% reduction in effort in all fisheri es 
+would be extremely difficult, with some form of fisher y 
+closure or capacity limit the most obvious options. The 
+VDS, which will be predicated upon 2004 data as a 
+baseline, appears unlikely to push back Purse Seine 
+operations to the required levels. It would not cover a ll 
+large Purse Seine operations in the WCPO. Limited 
+previous experiences with industry initiatives to reduce 
+effort have not been striking.  These include the WTPO, 
+with a voluntary scheme for vessels to spend a minimum 
+specified time in port after unloading and calls, to l imit 
+fleet growth. The OPRT scheme to reduce the large DW 
+Longline fleet by 20% is another example. 
+ 
+Nonetheless, some measures suggest themselves and 
+could be implemented reasonably readily. For example , 
+following the precedent set in the EPO, and as a short-
+term measure, the imposition of a six-week closure of t he 
+large Purse Seine fishery in the WCPO could be trialed . 
+This closure could take place in January-February, 2007, 
+
+ on an experimental basis . Considerable preparatory work 
+would be necessary, but the trial would benefit from 
+existing EPO experience.      
+ 
+Moreover, an indirect, but quantitatively large impact  on 
+fishing efficiency and,  hence, on effort and catch in  the 
+fishery could be achieved if the Commission were to 
+emplace a prohibition on transshipment on the high seas 
+and allow this only to take place in designated ports. This 
+is provided for in Art. 29 (1,3,5) and in the existing  
+Minimum Terms and  Conditions for Foreign Fishing 
+Vessel Access as they apply to the EEZs of FFA 
+members. It is probable that such a prohibition on 
+transshipment would address IUU fishing activities to 
+some degree by restricting opportunities for “launderin g” 
+illegal catch. 
+ 
+The inevitable economic impacts of these effective limits 
+on effort could be minimized by planning to use the 
+enforced closure period to carry out vessel and gear 
+maintenance. Given that this is primarily designed to 
+restrict effort, such closures could be applied in a 
+staggered fashion across fleets to spread downstream 
+impacts on the processing sector. Nonetheless, such a 
+closure program should be regarded as a symptomatic 
+response to the overall problem. It does not address the 
+fundamental problem of too many boats chasing too man y 
+fish.  
+ 
+ 
+
+ Even with restrictions in place on the larger Purse Seine  
+vessels, the limitation of effort by smaller vessels 
+operating in the WEP needs to be addressed. These 
+vessels make a large contribution to the take of Yellowf in 
+tuna and have thus played a significant part in drasti c 
+reductions in biomass of this species in the WEP. This 
+has taken place against the backdrop of the WCPFC 
+directive and increasing concerns about food security in 
+the region. The issue of capacity in this sub-region may  
+need to be dealt with at national level with the ove rsight of 
+the WCPFC. 
+ 
+Finally, FAD/log sets are common in the WEP area and 
+this is where fishery impacts are most severe. Simulations 
+have suggested that transferring this effort to 
+unassociated sets could considerably benefit both Bigeye  
+and Yellowfin tuna. 
+ 
+Bigeye 
+ 
+The most effective modeled measure to conserve and 
+regenerate Bigeye tuna stocks in the WCPO was found to 
+be the transfer of FAD/associated set effort to 
+unassociated sets. Relatively very few of these fish are 
+taken in unassociated Purse Seine operations. 
+Implementing and monitoring restrictions on associated 
+sets, however, implies considerable resource intensive 
+management oversight and enforcement. Limits on the 
+number of FADs allowed might be a useful option 
+administered at a national level, and indeed these 
+
+ measures are included in some national tuna 
+management plans (PNG and Philippines). 
+ 
+The benefits achieved by modeling various quarterly 
+time/area closures for Bigeye were not clear.  Measures 
+which maintained a relatively high proportion of the  Bigeye 
+catch in a time or area limited scenario, resulted in th e 
+forfeit of a large amount of the Skipkjack catch.  Moreove r, 
+the location of high catch areas is spatio-temporally 
+variable.  Overall limits on catch of juvenile catches by 
+Purse Seine gear would only be likely to work if a syst em 
+of 100% observer coverage was emplaced. 
+ 
+8.2 Longline 
+ 
+Yellowfin 
+ 
+Simulations have shown no options that specifically 
+benefit Yellowfin other than overall limits on longl ining 
+capacity and on vessel numbers. Some benefits may be 
+expected to accrue, however, from measures directed at 
+conserving Bigeye tuna. 
+ 
+Bigeye 
+ 
+The modeled projections indicate that, to conserve and 
+restore biomass of Bigeye reductions in Longline catch 
+and effort were the most effective.  Restrictions on 
+fisheries targeting Bigeye have been applied by IATTC , 
+IOTC and ICCA. These are based upon set TACs for 
+
+ longlining based on historically lower catch levels as a 
+baseline, together with allocations made by country a nd/or 
+vessel flag. Such a scheme could be applied in the 
+WCPO. This could be based on the 1999 catch levels 
+which were some 20% lower than current catches coupled 
+with national allocations.  Hence, Japan, Korea, Chines e 
+Taipei, China and possibly the USA, all of which take 
+more than 3000t per annum, would agree to limit catch es 
+to the historical levels together with some other count ries 
+involved in the fishery.  The major drawback to catch 
+controls of this kind in the WCPO is that they would nee d 
+to be self-enforced until trade verification measures coul d 
+be formulated. Such controls already exist for trade in  
+Bigeye tuna to Japan for other ocean areas and RFMOs. 
+Japan is the major market destination for this species. In  
+fact, design of such a scheme for the WCPO can be seen 
+as almost an obligation in light of the existing simila r 
+scheme in place in the EPO. This has led to shifts of eff ort 
+into the WCPO and highlights the limitations of measur es 
+imposed by single RFMOs. 
+ 
+8.3 Pole-and-line and other minor gear 
+ 
+The pole-and-line fishery catch is dominated by Skipja ck 
+tuna with low levels of Yellowfin and Bigeye. Effort in such 
+fisheries is generally declining and generally restrictio ns 
+on catch and effort have not been imposed by other 
+RFMOs.  In any case, restriction on mostly artisanal or 
+small-scale commercial gear would be difficult to impose 
+
+ and enforce. It is likely to be best regulated at indivi dual 
+coastal state level. 
+ 
+8.4 Impacts 
+Table 3 summarizes the options proposed for 
+consideration on the basis of modeled projections and 
+their possible impacts upon the fisheries. 
+ 
+8.5 Allocation 
+ 
+Under Article 10 of the Convention, the Commission, 
+having determined “ the total allowable catch or total level 
+of fishing effort within the Convention area , is required to 
+develop, “ without prejudice to the sovereign rights of 
+coastal States for the purpose of exploring and exploitin g, 
+conserving and managing highly migratory fish stocks 
+within areas under national jurisdiction”  criteria for the 
+allocation of the TAC or total level of fishing effort . This 
+must take into account a range of defined pertinent fact ors 
+and any other factors that it might consider germane. A ny 
+decisions relating to the allocation of TAC or the tot al 
+allowable level of fishing effort, given their importa nce, are 
+required to be taken by consensus.     
+Greenpeace is of the view that, in practice, this is the most 
+difficult and challenging issue facing the Commission. It 
+will require resolution of a range of matters current ly 
+standing unresolved in the Convention on matters of det ail 
+e.g. compatibility of conservation and management 
+measures. The Commission should begin to tackle the 
+allocation question as soon as is possible.     
+
+ Table 3. Suggested management options for the WCPO, with assessm ent of possible 
+impacts of their introduction  
+Measure Rationale Implementation Fishery impacts Ec onomic 
+impacts 
+OUTPUT (Catch related)     
+Overall TAC on Bigeye Longline catches in the WCPO, with individual 
+country allocations for those 
+catching more than 3,000t (see schedule); catches by 
+others kept to (specify year) 
+levels Reductions in Longline catch/effort have large impact on adult biomass 
+ Mandatory self-policing combined with trade certification.  Monitoring of high grading etc   Catch of adult Bigeye 
+reduced. Bring WCPO in line with similar measures in EPO, to avoid effort displacement (since 
+possibly same stock); 
+Little impact on coastal states and smaller non-target Longline fisheries Economic impact largely restricted to target species and large Longliners  
+Overall TAC on Purse Seine 
+Bigeye catches, aimed at 
+juveniles  Trigger closure of 
+fishery setting 
+on floating objects when TAC reached Peg nominal limit at 1999 (or other year ) levels; very high observer coverage needed May only impact in years following low recruitment, and if drifting FAD sets increase  Minor, but may be significant if 
+triggered early in a 
+given fishing year and TAC is low 
+INPUT (Effort related)     
+Moratorium on construction of new vessels (large p/s and Longline) for the WCPO; restrict vessel Halt any further increases in WCPO Purse WCPFC decision and basic monitoring; need policy on transfers from other areas, and Will cap total effort and catch initially until fishing power increases (effort Help to secure aspirations of developing states  
+
+ “Immigration” Seine and 
+Longline  capacity replacements creep) 
+Limit overall Purse Seine capacity (possibly by well volume); apply to vessels >250 GT Overall effort limit  and reduction of 20% needed for both Yellowfin and Bigeye; previous Resolutions Gradual – will need 
+capacity documentation; 
+decisions on appropriate measure of capacity  Reduce effort, but will 
+need constant monitoring  Considerable for some, assuming limit will be set lower than current capacity  
+National limits on Purse Seine effort (VDS system)  Limit effort in PNA area (standard days) to 1999-2001 levels, originally) By PNA  countries; fully operational VMS and national capability needed  Reduce effort to previous more acceptable levels, or provide basis to do so Increase value of access Increase costs of fishing 
+Limit numbers and  total capacity of Longliners >  specified size eg > 24 m LOA Halt increase in Longline  capacity (and effort )  Vessel register and annual vessel registration  In line with ICCAT and IOTC   
+Limit FAD sets per vessel (250 per year) and number of FADs deployed per vessel Reduce Purse 
+Seine catch of 
+juvenile 
+Bigeye (and Yellowfin) Difficult – national responsibility; needs further study Reduce efficiency in some areas; reduce Bigeye catch Increased fishing costs; greater impact in some EEZs than others 
+
+ One month/six week closure 
+of Purse Seine fishery  (during 2006) Reduction in effort needed in all fisheries 
+ Verification of confinement to port   
+Marine Reserve established 
+on trial basis Reduce  effort 
+in WEP; secure productive habitat; reduce high seas creep (20% of PNA catch) 100% VMS, IUU control 
+ 
+Start with donut; monitor  
+then possibly apply to area  further east Possible increase in state revenues  May not be great; effort redistributed and possibly greater catch in adjacent EEZs if no VDS  
+
+9.  Proposed IUU management measures to 
+complement effort reduction measures  
+ 
+Several international instruments and initiatives have 
+attempted to tackle the issue of IUU fishing globally, 
+namely the FAO Compliance Agreement (2002), the UN 
+Fish Stocks Agreement (2001) and the International Plan  
+of Action to Prevent, Deter and Eliminate IUU Fishing 
+(2001). Unfortunately thus far too little progress has been 
+made and IUU fishing reportedly continues to rise in so me 
+regions.  
+ 
+In the WCPO, PrepCon 3 (2002) adopted a Resolution 14  
+relating to IUU fishing and limits on fishing capacity, 
+urging state and entities to prevent, deter and elimin ate 
+IUU fishing in the Convention area, and to promote 
+cooperation in exchanging information on IUU fishing and 
+other related activities. Little concrete action seems to 
+have occurred on IUU fishing in the WCPO since that 
+time.   
+ 
+Greenpeace [8]  recommends five categories of action that 
+should be undertaken  “to protect and develop sustainabl e 
+fisheries”  
+ 
+• ratify and implement the Compliance and Fish Stocks 
+Agreements  
+• exert control over port access and marketing of tuna 
+products (trade verification) 
+                                                 
+14   Resolution of the Preparatory Conference relating  to illegal, unreported and unregulated fishing, an d 
+limits on fishing capacity, November 2002, Manila. 
+
+ • strengthen the WCPFC capacity to take action 
+(regional  and global vessel registries, IUU vessel 
+blacklist, reduce size of vessels covered by MCS 
+regulation, boarding and inspection regulations, 
+prohibition of at-sea transhipment) 
+• practice good governance at national level 
+(comprehensive management plans, appropriate 
+legislation enforced  
+• inspect and arrest IUU stateless vessels (national-
+level action) 
+ 
+Most of these action categories would complement 
+proposed effort reduction; others are already embedded in 
+some of the management options under consideration e.g.  
+prohibition of at-sea transhipment, enhanced MCS 
+capability at national and WCPFC level (see later).  
+ 
+10.  Outline and analysis of the Marine Reserves (M R) 
+concept in the WCPO 
+ 
+The measures which suggest themselves as a result of 
+the various model-based simulations outlined in the 
+narrative above can be seen as a relatively complex mix . 
+Ultimately, their effectiveness will be determined by t he 
+integrity of the model used and crucially by the quali ty of 
+the data used to drive the models and the assumptions 
+used to constrain them. These are problems common to 
+all fisheries managed under a conventional management 
+paradigm. Such management is generally not 
+
+ precautionary and rarely departs from single species 
+considerations to embrace ecosystems as a whole.  
+ 
+Recognition of the various shortcomings in conventional 
+management has led to a growing appreciation of the 
+potential positive role of marine reserves in this regar d. 
+ 
+The establishment of globally-linked networks of marine  
+reserves - areas where all extractive and destructive 
+activities (including fishing) are prohibited - are comin g to 
+be seen as crucial to the conservation of marine species 
+and habitats, and for preserving ecosystem functions in a n 
+undisturbed state. In addition to their primary conserva tion 
+function, secondary benefits flow from this in the form  of 
+potential protection and enhancement of important 
+exploited species.  
+ 
+The concept of marine reserves is also consistent with a 
+precautionary approach to environmental protection. In  
+general, the functioning and structure of marine 
+ecosystems is very poorly understood. These systems are 
+not readily amenable to investigation and analysis. 
+Accordingly, preservation of significant proportions of 
+these ecosystems, as a management strategy in its own 
+right, represents adherence to a precautionary 
+management and conservation paradigm. Marine 
+reserves, then de facto,  constitute an ecosystem-based 
+approach consistent with principles and ethics of 
+sustainability.  
+ 
+
+ Nonetheless, designation of an area as a marine reserve 
+does not preclude a need to define adequate 
+management strategies applied to areas falling outside 
+designated marine reserves. The goal is to achieve 
+sustainable use of marine resources outside the marine 
+reserves network. This implies that these activities must 
+conform to principles of sustainability, causing no 
+degradation of ecosystem structure and function, and als o 
+meet the needs of both current and future generations.  
+Hence, marine reserves are a complement to such 
+measures (applicable to fishing activities) as reduction in 
+fishing effort and capacity, prevention of IUU fishing a nd 
+development of non-destructive fishing methods. 
+ 
+Hence, marine reserves comprise one tier of a dual 
+approach to ecosystem-based protection efforts and 
+associated fisheries management. In this context marine 
+reserves have two primary benefits to fisheries 
+management which flow directly from their primary ro le in 
+the holistic protection of marine ecosystems.  
+ 
+Firstly, marine reserves act as reference areas against 
+which the impact of management initiatives executed 
+outside the designated areas can be assessed. Secondly, 
+they act as a form of insurance against management 
+failure, resulting in degradation of the ecosystem in  non-
+designated areas. A further benefit to fisheries which may 
+flow from marine reserves is enhanced catches beyond 
+their boundaries, although this will be most marked wh en 
+the non-designated areas are subject to failing 
+management and being overfished. This is due to the 
+
+ export of eggs and larvae and the spillover of adult and  
+juvenile fish. 
+ 
+While marine reserves cannot directly address the impact 
+of climate change, they may help indirectly in as much a s 
+healthy marine ecosystems are likely to be more resilien t.  
+Marine reserves would also help protect tuna and other 
+fisheries from unanticipated effects of climate change by 
+providing a robust reference point. 
+ 
+The growing body of marine reserve research, reinforce d 
+by the findings of earlier work, formed the basis for a  wide 
+ranging consensus statement [21] published at a 
+Symposium held at the 2001 annual meeting of the 
+American Association for the Advancement of the 
+Sciences. This statement identified a number of ecologica l 
+effects both inside the reserve boundaries and external  to 
+them. 
+ 
+The beneficial effects can be restated as follows: 
+ 
+ 1) Within reserve boundaries 
+ 
+a)  Long lasting and rapid increases in abundance, 
+diversity and productivity of organisms attributable to 
+decreases in mortality, habitat destruction and to 
+indirect ecosystem effects 
+b)  Reduced probability of extinction of marine speci es 
+ 
+It has been noted that, in general, increasing size confe rs 
+increasing benefits, but even small reserves are effective. 
+
+ To achieve a full range of benefits, full protection wi th 
+stakeholder involvement and enforcement are required. 
+Marine Protected Areas (MPAs) confer lesser benefits. 
+ 
+2) Outside reserve boundaries 
+ 
+a)  The size and abundance of exploited species increase 
+in areas adjacent to reserves, although this finding is 
+based on relatively few studies. 
+b)  Increasing evidence that reserves replenish 
+populations regionally through larval export. 
+ 
+3) Effects of reserve networks 
+ 
+a)  Increasing evidence shows that networks of reserves 
+are more effective than a single reserve at buffering 
+environmental variability and that they provide great er 
+protection for marine communities. 
+b)  Effective networks must span large geographic 
+distances and encompass a substantial area to protect 
+against catastrophic events and provide a stable 
+ecological "platform" for long-term persistence of mar ine 
+communities. 
+ 
+The statement goes on to make it clear that in order to  be 
+most effective in a joint role of conserving both fisherie s 
+and biodiversity, marine reserves must encompass the full 
+diversity of marine habitats, and be operated in the 
+context of complementary management tools and a 
+monitoring program to define their effectiveness.  It 
+concludes that existing scientific information justifies the 
+
+ immediate application of fully protected marine reserv es 
+as a central management tool for marine systems. 
+ 
+a) Greenpeace Proposal for a global network of 
+marine reserves 
+ 
+Greenpeace [18]  believes that if we are to ensure clean and 
+healthy seas and oceans, 40% of each habitat in each 
+large marine ecosystem, including the high seas, should 
+be set aside as marine reserves. In parallel, the rest of the 
+oceans and seas – the other 60% - needs to be managed 
+in a sustainable and equitable way.  
+ 
+At the 2006 meeting of the Convention on Biological 
+Diversity (CBD), Greenpeace released Roadmap to 
+Recovery: a global network of marine reserves 15 .  The 
+report presents a proposal for a global network of h igh 
+seas marine reserves developed by Professor Callum 
+Roberts and his expert team based at York University in 
+the UK, and sets out the principles used for designing t he 
+network. 
+ 
+b) Marine reserves and highly-migratory species  
+ 
+Almost all the marine reserves that have been established  
+so far are small-scale and coastal. These have been 
+shown to benefit biodiversity, leading to increases in 
+density, biomass, size of individuals and diversity [22] , and 
+in many cases have been shown to benefit fisheries in the  
+surrounding waters. Common sense, experience and 
+                                                 
+15   http://oceans.greenpeace.org/en/our-oceans/marine -reserves/roadmap-to-recovery 
+
+ scientific models suggest that marine reserves are likely to 
+work best for fish species that are relatively sedentary as 
+adults but produce offspring that disperse widely, the 
+reserves acting as refugia. 
+ 
+Because of this, it has been widely assumed, in particula r 
+by fishery managers, that marine reserves will not pro tect 
+migratory species of fish such as tuna. They consider that 
+these species will not remain in marine reserves and are 
+vulnerable when they move outside. The perception has 
+grown that the more migratory a species is, the less 
+relevant is the concept of marine reserves to their 
+protection and management.  
+ 
+The underlying assumptions behind this perception have 
+been examined [23] . A major problem exists with the models 
+which are used to predict the impact of marine reserve 
+designation. These models have as two key assumptions: 
+ 
+1: that individuals are evenly distributed in a uniform se a  
+2: that these individuals move randomly  
+ 
+A third key assumption involved is that  
+ 
+3: fishing activity is conducted at random.  
+ 
+These assumptions are demonstrably false. Migratory 
+species are not evenly distributed and fishing effort is n ot 
+randomly directed but is most intense where experience  
+has revealed migration bottlenecks or habitat critical to a 
+particular life stage.  
+
+  
+Where exclusively marine migratory species are involved,  
+the creation of marine reserves to protect known 
+spawning grounds, nursery areas and migration 
+bottlenecks, are all likely to confer highly protective 
+benefits on the population overall, as well as the 
+ecosystems of which they are part.  When the somewhat 
+crude predictive models are refined to incorporate a 
+spatial variability in a species vulnerability to fishing 
+mortality, particularly where this mortality is inten se, then 
+clear benefits emerge in the form of both an increased  
+spawning stock and catch. [23] 
+ 
+Nonetheless, the precise changes that occur as a result of 
+establishing a marine reserve are very difficult to predi ct.   
+By establishing large-scale marine reserves there are 
+likely to be increases in habitat and ecosystem 
+complexity, increases in biomass and enhanced feeding 
+opportunities for both prey and predators. Accordingly,  
+highly migratory species when encountering such reserve 
+areas may spend more time there compared to areas 
+outside due to better feeding conditions and, 
+consequently, benefit from the protection afforded in the 
+reserves [23] . Most of the modeling of potential reserve 
+effects has not considered such possible shifts in habitat 
+use.      
+ 
+Hence, by taking into account information relating to  the 
+critical habitats and the behaviour of migratory specie s it 
+should be possible to establish marine reserves that 
+benefit these species as a component of pelagic 
+
+ ecosystems, while simultaneously prosecuting a 
+sustainable and profitable fishery based upon these 
+species.  
+ 
+c) Implementing large-scale marine reserves in the 
+WCPO 
+ 
+Although identifying marine reserves that would provide  
+the greatest benefit to the tuna in the WCPO is 
+challenging, there is information that could greatly a id the 
+process, including considerable data relating to the spat ial 
+and temporal dynamics of the tuna fisheries. In additio n, 
+some data also exists concerning the biology and ecology 
+of these species which could prove helpful in defining 
+potentail marine reserves.  For example, it might  pro ve 
+beneficial to site marine reserves over productive 
+seamounts known to aggregate tunas 16 . Some work in this 
+area is planned under a forthcoming Global Environment  
+Facility (GEF) funded project in the WCPO.  
+In the case of Yellowfin tuna,  although spawning  is 
+thought to take place over the whole Pacific Ocean, high  
+densities of larvae and eggs have been reported in the 
+Western Pacific. This includes the Coral Sea, and in the 
+Indian Ocean adjoining the North West Shelf area of 
+Australia. Catches of Yellowfin tuna increase towards th e 
+east in response to El Nino events, although the majority 
+of catch is taken in equatorial regions. Tagging studies 
+have shown that Yellowfin tuna may move 1000km or 
+                                                 
+16   Not to be confused with seamounts bottom or midwa ter trawled in some parts of the Pacific   
+
+ more over a twelve-month period, but no directed 
+migration has been identified.  [24] 
+In the case of Skipjack tuna, although they occur 
+throughout the equatorial Pacific, catches are highest in  
+the Western Pacific warm pool. This pool is displaced 
+under the influence of ENSO variability [25] , and this 
+variability in location would need to be taken into a ccount 
+when designing a marine reserve network. This species 
+[24]  generally aggregates in the area of current 
+convergence and boundaries between warm and cold 
+water masses, upwelling areas and other areas where 
+there are changes in hydrography. Larval distribution 
+appears to be governed largely by water temperature 
+which must be between 15 0C and 30 0C. The juvenile fish 
+occupy the same waters as larvae, but move to cool 
+waters as they mature. 
+Variation in the occurrence of Bigeye is also related to 
+seasonal and climatic changes in surface temperature and 
+thermocline and younger fish may aggregate with other  
+tuna species at the surface and in the vicinity of floating  
+objects. Juveniles have not been reported outside tropical  
+waters. Adult fish tend to be solitary. As this species is 
+more tolerant of lower water temperature and oxygen 
+saturation, it is found generally in deeper waters, up  to 
+250m depth [24] . In the case of Bigeye tuna, the greatest 
+proportion of the catch appears to be taken by longlini ng 
+in the eastern area of the equatorial WCPO. This 
+information could be further refined by expanding th e VMS 
+currently used to underpin the regulation of the Pur se 
+Seine fishery to the longlining fleet. 
+
+ By combining such fisheries data with biological 
+information, such as information on migration patterns and 
+known spawning areas, it should be possible to identify 
+priority areas. One recent study that could help with t his 
+process suggests that species diversity for the Pacific was 
+positively correlated with climatic variation. This variat ion 
+was reflected in changes in Sea Surface Temperature 
+(SST), adequate oxygen saturation coupled with 
+oceanographic features such as fronts or eddies which 
+gave rise to productive feeding areas [26] . 
+While it should be possible to identify some key areas that 
+could be set aside as large-scale marine reserves by 
+combining different sets of existing information, furthe r 
+data and research directed at gathering these data is 
+necessary. 
+ 
+d) Solving the problem of the “Donut holes” 
+ 
+One pragmatic first step to establishing a network of 
+marine reserves in the WCPO, might be for the WCPFC to  
+designate those areas of high seas which are completely 
+enclosed by EEZs of coastal states, the so-called “donut 
+holes”,  as marine reserves.  There are two obvious 
+examples - a smaller western area between Palau, FSM, 
+PNG and Indonesia (approx.136 0E – 151 0E, lying east-
+west, just north of the Equator) and a larger area (1 57 0E 
+to 176 0E, lying NW-SE between the equator and 15 0S) 
+(see Figure 1). 
+ 
+
+ Both areas are periodically highly productive and attra ct 
+considerable effort and catch 17 , although the smaller area 
+seems not to be a high Bigeye catch area, based on 
+earlier analyses [10] ; both lie within the WEP, in the PNA 
+area and their closure could have a positive effect in 
+reducing overall effort and catch for both Longline an d 
+Purse Seine fisheries.  Also, designation of these areas as 
+marine reserves would be a tool in combating IUU fishing  
+which is thought to be rife in these areas.  
+ 
+Comprehensive MCS arrangements would be required for 
+the successful implementation of such MRs.  In addition, it  
+would be important to gather as much information as 
+possible relating to the ecology of these areas and the 
+history of the fisheries prosecuted within them, so tha t any 
+changes occurring can be effectively monitored.   
+ 
+Initially agreeing to set one of these areas aside as a 
+marine reserve for a few years on an experimental basis 
+might be the best way of gaining support for the conce pt. 
+ 
+11. Assessment of MR models and an appropriate 
+model for the WCPO  
+As noted, there seems to be few examples of extensive 
+time/area closures as management options in tuna 
+fisheries, let alone permanent no-take areas the 
+equivalent of marine reserves. The IATTC, in the EPO, 
+                                                 
+17   The estimated catch in international waters by th e Purse Seine fleets fishing in the WCPO (excluding  the 
+Philippines domestic fleet) was around 19% for the period 1996-2003 
+
+ closed an area 18  in December 2003 to all Purse Seine 
+fishing for tuna. This was an area, mostly high seas, 
+where catches of juvenile Bigeye had been higher than 
+average, and where Yellowfin catches were also high. The  
+RFMO closed the Purse Seine fishery for the entire EPO 
+for six weeks in August-September in 2004.  This 
+Resolution was replaced in 2005 19  by a requirement that 
+Purse Seine vessels of each party or entity cease fishing 
+in the EPO for six weeks during one of two periods 
+(August/September or November/December) in each of 
+the years 2004, 2005 and 2006. The effects of those 
+closures were to be analyzed and assessed in 2005 and 
+2006 by the IATTC Scientific Working Group.  Apart fro m 
+limited time area/closures associated with restrictions on 
+fishing floating objects e.g. ICCAT, IATTC – see earlie r, 
+there appear to be no other examples of time/area 
+closures in tuna fisheries which might be evaluated for 
+their applicability to the WCPO situation. 
+Accordingly, Greenpeace suggests that much valuable 
+data could be gathered through closing the 
+Palau/FSM/PNG/Indonesia donut hole and the other 
+defined area, provided the necessary monitoring and 
+enforcement arrangements were in place at WCPFC. This 
+is, therefore, suggested for trial at the earliest possi ble 
+opportunity.    
+                                                 
+18   IATTC Resolution on the conservation of tuna in t he EPO (C-03-12) 
+19   IATTC Resolution for a multi-year program on the conservation of tuna in the EPO for 2004, 2005 and 
+2006 (C-04-09)  
+
+ 12. Other options  
+No other options are considered at this point. The WCP FC 
+will need, however, to work cooperatively with the IA TTC 
+on several issues:  
+ 
+• In order to manage north Pacific Albacore throughout  
+the range of the stock, to implement the recent 
+Resolution 20  calling for “measures to ensure that fishing 
+effort on the stock in the WCPFC area does not 
+increase, and as necessary, measures to reduce fishing 
+effort to levels commensurate with the long-term 
+sustainability of the stock”.  
+• Compatibility between any management measures for 
+Bigeye tuna introduced in the EPO and WCPO. 
+•  Cooperation in data collection and management of 
+particularly of that area in which there is overlap 21  in 
+areas of competence of the two RFMOs. 
+ 
+ Conservation and management options relating to non-
+target species will need to be considered in the near 
+future, as requested by the Commission for the second 
+session later this year e.g. cooperation in the conservati on 
+of sharks caught in association with tuna fisheries. These 
+are likely to be shared stocks between the WCPO and 
+EPO in many cases 22 .      
+ 
+                                                 
+20   IATTC Resolution on northern Albacore tuna (C-05- 02) 
+21   An area between 150 0W and 130 0W, and 4 0S and 60 0S. 
+22   IATTC Resolution on the Conservation of sharks ca ught in association with fisheries in the EPO (C-05 -
+03) 
+
+ 13. Recommendations to the Commission  
+ 
+The Commission is committed to adopting, at WCPFC 2 23 , 
+conservation and management measures necessary to 
+address sustainability concerns, based on advice from the 
+Scientific Committee, the Technical and Compliance 
+Committee and any information provided by members at 
+least 30 days in advance of the second annual session, in 
+December 2005. 
+ 
+“Such measures may include, inter alia: 
+(a) catch and effort limits 
+(b) capacity limits for large–scale fishing vessels 
+(c) measures to address impacts of large-scale 
+fishing vessels so as to ensure compatibility between 
+measures applied outside areas of national 
+jurisdiction and measures being applied by coastal 
+states to manage such vessels within their zones 
+(d) time and area closures, and  
+(e) mitigation measures to address the mortality of 
+non-target species, eg seabirds, turtles and sharks. 
+In accordance with Art.6 of the Convention, the 
+precautionary approach will be applied and the absence 
+of adequate scientific information shall not be used as a 
+reason for postponing or failing to take conservation 
+and management measures.” 
+ 
+The current document focuses primarily on measures (a), 
+(b) (c) and (d) at this time.  
+                                                 
+23   Resolution on conservation and management measure s. WCPFC/Comm.1/8, Annex II 
+
+  
+Noting that overfishing is occurring on both Yellowfin a nd 
+Bigeye tuna, Greenpeace believes that WCPO resources 
+may be in overfished state, given the range of 
+uncertainties that pertain to the present assessments, and 
+the extent to which IUU fishing may be occurring. 
+Measures to rebuild the stock are not yet under 
+discussion, but should be anticipated.  Such measures 
+must accord with a precautionary approach, particularly 
+since capacity and the catch of most species in the 
+WCPO continue to grow. It should be noted that recent 
+levels of recruitment have been relatively high for 
+Skipjack, Yellowfin and Bigeye, and some projections 
+predict much less optimistic views of the stocks at long 
+term average levels of recruitment.    
+ 
+As noted, it will be some time before the WCPFC is ful ly 
+operational and effective, in terms of tackling 
+management and conservation issues. These include the 
+development of allocation criteria leading to national  
+allocations, and comprehensive MCS arrangements 
+(including regional observer and VMS programs). Against  
+this background, in the short term, it probably falls on  
+coastal states, acting individually or in concert, to app ly 
+interim management measures at the national level, 
+possibly within the framework of national tuna 
+management plans. 
+ 
+
+Greenpeace calls for the following as major 
+recommendations to the WCPFC at its second session, in 
+terms of the adoption of conservation and management 
+measures:    
+ 
+(1)  The immediate establishment of a marine reserve in 
+an enclosed high seas area bound by Palau, FSM, PNG 
+and Indonesia, and a commitment  to establishing a 
+second fully-protected marine reserve to the east in the 
+future. 
+ 
+(2)  Establishment of management objectives of the 
+WCPO fishery, based initially on Annex 2 of the UN Fi sh 
+Stocks Agreement.  
+ 
+(3) An immediate moratorium on the construction of new  
+large Purse Seine (Super Seiner & Super Super Seiner ) 
+and large Longline vessels intended to fish in the WCPO,  
+and controls on the relocation/deployment of such vessels 
+from other areas. 
+ 
+(4) The WCPFC undertakes a study of the capacity of 
+large Purse Seine and Longline vessels active in the 
+WCPO, leading in the short term to the introduction o f 
+overall limits on vessel numbers. Also, development of a 
+suitable measure of capacity (Purse Seine and Longline) 
+to facilitate the orderly management of fleet capacit y in the 
+WCPO, including clear definition of vessel categories e.g.  
+“large scale”. From a conventional fisheries perspective, 
+this study is critical to determining the level of capacit y 
+available in the region and more importantly what 
+
+ “capacity” the region’s fish stocks can sustain.  From 
+Greenpeace’s perspective, however, we take the view that 
+Super Super Seiners should not be allowed to operate in 
+the region given their huge capacity.   
+ 
+(5)  Large uncertainties are inherent in the models use d to 
+produce assessments and forecasts for tuna fisheries in 
+the WCPO. These relate to  input data quality  toget her 
+with substantial indeterminacies in data relating to ef fort, 
+catch and  IUU fishing, as well as to factors such as 
+recruitment and the influence of climate change. 
+Greenpeace believes that basing management upon MSY 
+target reference points is not sufficiently precautionar y.  
+Accordingly, Greenpeace regards the 20% effort reduction  
+figure suggested from modeling as an absolute bare 
+minimum requirement. To assure future sustainability o f 
+fisheries in the region this figure should be set at 50% . 
+ 
+(6)  The WCPFC should apply a Longline Total Allowa ble 
+Catch (TAC) for Bigeye, based on lower catch levels from  
+an earlier time period, with allocations/quotas for cou ntries 
+or entities taking a large amount of catch (e.g. more t han 
+3,000t). The restriction of catches by other nations to 
+catches at that earlier time should also be enforced. Thi s 
+measure should be introduced in conjunction with a trad e 
+certification/verification system for Bigeye, as used by 
+other Regional Fisheries Management Organisations 
+(RFMOs). 
+ 
+(7)  Immediate prohibition of at-sea transhipment, wi th 
+such transhipment to occur only at designated ports, as 
+
+ provided for in the Convention and to be implemented  by 
+the Commission. 
+ 
+(8)  Implementation of the following series of measure s to 
+reduce IUU fishing in the WCPO, as proposed by 
+Greenpeace: ratify and implement the Compliance and 
+Fish Stocks Agreements; exert control over port access 
+and marketing of tuna products (trade verification); 
+strengthen the WCPFC capacity to take action (regional  
+and global vessel registries, IUU vessel blacklist, reduce 
+size of vessels covered by Monitoring, Control and 
+Surveillance (MCS) regulation, boarding and inspection 
+regulations, prohibition of at-sea transhipment);practi ce 
+good governance at national level (comprehensive 
+management  plans, appropriate legislation enforced);  
+inspect and arrest IUU stateless vessels (national-level 
+action). 
+ 
+(9)   That the Commission  commence work on the 
+development of criteria for the allocation of TAC and  Total 
+Allowable Effort (TAE), as provided for by the Conven tion.  
+ 
+(10)   Additional research must be carried out to red uce 
+uncertainty and indeterminacy attached to key 
+parameters/assumptions and model structure of the 
+present MF-CL models. 
+ 
+ 
+ 
+ 
+ 
+
+ References 
+1 Williams, P. and Reid, (2005) Overview of tuna fisherie s 
+in the WCPO, including economic conditions – 2004. 
+WCPFC-SC1, GN – WP 1 
+2 Lawson, T.A. and P. Williams (2005) Estimates of annua l 
+catches in the WPCFC Convention Area. WCPFC-SC 1, 
+ST-IP 1. 
+ 3 Greenpeace (2005) Position paper on the conservation 
+and management of highly migratory fish stocks in the 
+WCPO. WCPFC-SC1, GN IP-8 
+4 Molony, B. (2005) Estimates of the mortality of non-
+target species with an initial focus on seabirds, turtles and 
+sharks. WCPFC- SC 1, EB WP-1 
+5 Interim Secretariat  of the Preparatory Conference (2004) 
+Management Options for Bigeye and     Yellowfin Tuna  in 
+the WCPO. WCPFC/PrepCon/ WP 24, April 2004 
+6 Hampton et al. (2005) Estimates of sustainable catch 
+and effort levels for target species and the impacts on 
+stocks of potential management measures. WCPFC-SC1, 
+SA WP 10. 
+7 Rodwell, L. (2004) FFA initiatives related to the Pal au 
+Arrangement, Purse Seine management and the 
+management of Bigeye fishing mortality in the WCPO,.  
+SCTB 17, WP FTWG -6 
+8 Lawson, T. (2005) Status of data collection, compilatio n 
+and dissemination. WCPFC – SC1, ST – WP 1.  
+9 Lawson, T. (2005) Update on the proportion of Bigey e in 
+“Bigeye plus Yellowfin” caught by Purse Seiners in the 
+WCPO. WCPFC – SC1, ST – WP 3. 
+10 Reid et al. (2005) An analysis of the fishing capacity of 
+the global Purse Seine fleet. In Management of tuna 
+
+ fishing capacity; conservation and spice-economics FAO, 
+Rome 
+12 Miyake, P. (2005) A review of the fishing capacity of t he 
+Longline fleets of the world. In 
+12  Joseph, J. (2005) Past developments and future options 
+for managing tuna fishing capacity, with special emphas is 
+on tuna Purse Seine fleets. WCPFC-SC1, FT IP-5 (taken 
+from Management of tuna fishing capacity; conservation 
+and socio-economics. FAO, Rome. 
+13 Gillett, R and A. Lewis (2003) A survey of Purse Seine 
+fishing capacity in the WCPO, 198-2003. Admin Rept. AR -
+PIR-03-04, US Dept of Commerce, NOAA.  
+14 Reid et al. (2003) An analysis of fishing capacity in the 
+WCPO and management implications. Marine Policy 
+27(6): 449-469 
+15 Richards, A.H. (2003) Fisheries monitoring, control and  
+surveillance in the WCPO region. Report 03-25  
+16 Lewis, A.D. (1995)  Distant water fishing nation (DWFN) 
+activity in the Philippines EEZ – a review. Desk study 
+undertaken for the Philippines Tuna Research Project 
+(PTRP). 29p. 
+17 Greenpeace (2004) Pirates of the Pacific; Loopholes 
+and solutions in the fight against illegal, unreported  and 
+unregulated fishing in the Pacific. Greenpeace Austra lia 
+Pacific, June 2004 
+18 Greenpeace (2005) Ecological criteria for the 
+identification of potential marine reserves. 
+August 2005 manifesto. 
+19  SPC (2002) Overview of Bigeye in WCPO tuna 
+fisheries. ABY WG of the FFC, WP 1.1.  
+
+ 20 SPC (2002) A comparison of management regimes 
+applied to fisheries taking Bigeye tuna in four oceanic 
+regions. ABY Species Working Group, 4 th  meeting, 
+Rarotonga, Cook Is. May 2002 
+21 Scientific Consensus Statement on Marine Reserves 
+and Marine Protected Areas. Symposium on Marine 
+Protected Areas. Annual Meeting of  the American 
+Association for the Advancement of the Sciences. Publ. 
+National Center for Ecological Analysis and Synthesis, 
+University  of California at Santa Barbara. 12pp 
+http://www.nceas.ucsb.edu/Consensus/consensus.pdf  
+22 Halpern, B.S. (2003). The impact of marine reserve s: 
+do reserves work and does reserve size matter? 
+Ecological Applications 13 (1): 117-137 
+23 Roberts C. M. and Sargant H. 2002.  Fishery benefi ts 
+of fully protected marine reserves: why habitat and 
+behaviour are important.  Natural Resource Modeling. 
+Volume 15, No. 4 Winter 2002 
+24 Myers, R.A. & Worm, B. (2005) Extinction, survival or  
+recovery of large predatory fishes. Philosophical 
+Transactions of the Royal Society  Series B 360: 13-20.  
+25 Froese, R. and D. Pauly. Editors. 2005.FishBase. 
+World Wide Web electronic publication. 
+www.fishbase.org, version (09/2005) 
+26 Lehodey, P., Bertignac, M., Hampton, J., Lewis, A.,  
+Picaut, J., (1997) El Niño Southern Oscillation and tun a in 
+the western Pacific. Nature 389: 716-718. 
+ 
+
+Appendix Figure 1.  Features of the WCPO Yellowfin 
+fishery  
+                                                                           (from Williams and Reid, 2005)  
+ 
+         
+ WCP -CA  
+Yellowfin 
+catch by gear  
+Distribution of yellowfin tuna 
+catch, 1990-2003 
+Annual 
+yellowfin 
+tuna catch 
+by gear 
+type, 2003. 
+Numbers 
+(left) and 
+weight  
+Green – Indo/Phils, red – p/s assoc, yellow – p/s unassoc, blue  - longline  
+
+ Appendix Figure 2.  Features of the WCPO Bigeye 
+fishery 
+     (from Williams and Reid, 2005) 
+    
+ 
+ 
+  
+ 
+ WCP -CA b igeye 
+catch, by gear. 
+1972 -2004  
+2003 catch of 
+bigeye by 
+length (left) 
+and weight 
+Green – Indo/Phils, red - p/s assoc sets,  blue – longline  Distribution of 
+bigeye tuna catch, 
+1990 -2003  
+
+ Appendix Figure 3.  Features of the WCPO Skipjack 
+fishery   
+    (from Williams and Reid, 2005)  
+ 
+  
+   
+ 
+  
+  
+ 
+ 
+ WCP -CA 
+skipjack 
+catch by gear 
+Distribution of 
+skipjack tuna 
+catch, 1990 -2003 
+2003 
+skipjack 
+catch by 
+length 
+(left)  and 
+weight  
+Green – Indo/Phils, red – p/s assoc, yellow – p/s unassoc, blue – pole -and -line

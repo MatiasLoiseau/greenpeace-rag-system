@@ -1,0 +1,503 @@
+# Archivo original: risky-business-the-probabilit-2.pdf
+# Tipo: .PDF
+# Procesado el: Sat Oct 11 09:40:32 -03 2025
+
+by Jim Riccio
+                                                                                                              
+
+
+Introduction
+The 103 operating nuclear reactors in the U.S. have always posed the risk of a catastrophic accident that
+could cost thousands of lives and billions of dollars.  The American public has, over time, become
+inured to this risk.  After the tragedy of September 11th, Greenpeace felt that it was important to re-
+examine the consequences of a nuclear accident. And to question why the Bush/Cheney energy planwould continue to support an electricity source that also constitutes a national security threat.
+This report will not discuss the many vulnerabilities of nuclear power plants.  Suffice it to say that you
+don’t even need to be on the reactor site to cause a nuclear accident. Rather this report will address the
+threat posed by each of these reactors and the long-lived radioactive wastes they produce.  We willdiscuss the risk of a nuclear accident: both the probability of such an accident and its consequences.
+Nuclear industry propagandists are already busy denouncing anyone who would speak of the threat
+posed by their nuclear reactors.  The Nuclear Regulatory Commission has shut down its web site,
+virtually eliminating all information concerning the performance and regulation of the nuclear industry.
+We at Greenpeace believe that the public has a right to know of the risks posed by the nuclear power.We believe that an informed citizenry will be better able to make decisions concerning the importantchoices that face our nation as we plan to meet our energy needs in the new century.
+Earlier this year, Vice President Cheney told CNN, that the administration’s energy policy will give
+nuclear power “a fresh look.”  As the Bush/Cheney Administration attempts to extend the licenses ofnuclear reactors and subsidize the construction of new reactors, the public deserves a frank discussionof the risk posed by this most unforgiving technology.  This report provides a starting point for thatdiscussion based upon the government’s own findings of the consequences of a nuclear reactoraccident.
+As James Madison noted,
+“A popular Government, without popular information, or the means of acquiring it, is but a
+prologue to a farce or a tragedy.”
+1
+Regrettably, the NRC’s regulation of the nuclear industry is already a farce. Greenpeace hopes that byproviding this information to the public and the media we can accelerate the phase out of nuclearreactors and avoid a tragedy.
+
+The New Reality
+As the events of September 11th tragically demonstrated, the risk of a nuclear reactor meltdown must
+encompass not only the potential for an accident but also the possibility of sabotage.  The U.S.
+government has known since at least the mid- 1990’s that terrorists were targeting nuclear power plants.According to the Associated Press:
+Ramzi Yousef, the convicted mastermind of the 1993 World Trade Center
+bombing, encouraged followers in 1994 to strike such a plant, officials say. An
+FBI agent has testified in court that one of Yousef’s followers told him in 1995
+of plans to blow up a nuclear plant.  And in 1999 the NRC acknowledged toCongress that it had received a credible threat of a terrorist attack against anuclear power facility.
+2
+Prior to September 11th and despite the known threat, the U.S. Nuclear Regulatory Commission (NRC)
+staff repeatedly attempted to kill the government’s program for testing security at nuclear reactors.3
+These attempts were in spite of an abysmal security record in which 47% of the reactors tested had
+significant security weaknesses and in over 40 exercises mock terrorists were able to simulatesabotaging safety equipment.
+4  Rather than addressing the nuclear industry’s inability to protect itself
+from mock terrorists, the NRC has moved to allow the nuclear industry to test itself.
+Risk and the Nuclear Industry
+Each nuclear reactor has the potential to devastate the region in which it operates.  The potential for
+such devastation lies in the radioactive fuel that fires the nuclear power plant. The radioactive fuel rods,whether inside the reactor or in the spent fuel pool, must be cooled to prevent them from melting down.
+If a meltdown were to occur in either the reactor or the spent fuel pool, the accident could kill and injure
+tens of thousands of people, cost billions of dollars in damages and leave large regions uninhabitable.
+5
+The threat of such an accident has long been the subject of debate among government regulators, thenuclear industry and a skeptical public.  Not surprisingly, the nuclear industry and those that purport toregulate it have down played the potential of such an accident. However, if the nuclear industry is so
+confident in the “safety” of its reactors and the long-lived radioactive wastes that they produce, why
+must the American taxpayer indemnify the industry against the financial consequences of nuclearaccident through the Price Anderson Act?
+6
+In reality, nuclear power is an inherently dangerous activity.  Splitting atoms is the most complicatedand dangerous way to produce electricity.  Until recently, we have spoken of the threat posed by a
+nuclear reactor in terms of the risk of an accident.  A basic definition of risk is:
+Risk = Probability x Consequences
+The “risk” is the risk of a catastrophic accident.  “Probability” is the likelihood of an event happening.
+“Consequences” are the effect that event has on people, property and the environment.  According to
+the government’s own studies, the consequences of an accident at one of the 103 nuclear reactorsthroughout the U.S. would be devastating.  Even before the events of September 11th,
+ the magnitude of
+the risk posed by nuclear power plants was so great that the federal government should have phased outnuclear power in the United States.  The incalculable threat of sabotage makes the continued operationof these reactors unacceptable.  Nuclear power now constitutes a national security threat.
+
+Consequences of an Accident at a U.S. Nuclear Plant
+On November 1, 1982, The Washington Post reported on a study of the consequences of a nuclear
+reactor accident.  The Sandia National Laboratory prepared the study for the U.S. Nuclear Regulatory
+Commission sometime in 1981 entitled Calculation of Reactor Accident Consequences for U.S. NuclearPower Plants (CRAC-2).  This was not the first time that the government had looked at theconsequences of a nuclear reactor accident, however, it was the last. Therefore, the Sandia workrepresents the best available estimates of the consequences of a nuclear reactor accident.
+It appears the NRC never intended to release the most damning information that resulted from the
+Sandia study.  The report itself only included the average consequences.  However, when the Union ofConcerned Scientists’ (UCS) Freedom of Information Act requests seeking the report were stalled at theNRC, UCS sought the help the House Subcommittee on Oversight and Investigation.  Thesubcommittee staff requested the report and again the NRC stalled.  Finally, Edward Markey (D-MA),then Chairman of House Subcommittee on Oversight and Investigation, formally requested the
+documents from the NRC Chairman.  A midst the reams of paper that made up the CRAC-2 computer
+printout were included not only the average consequences of a nuclear reactor accident but also themaximum results calculated by the computer model. The subcommittee staff analyzed the CRAC-2printouts and the results of the “peak” consequences studied by the Sandia National Laboratory laterappeared in the Washington Post.
+7
+Explanation of Consequences in Crac-2
+In the data released by the House Subcommittee on Oversight and Investigation, the consequences of
+severe nuclear accident are broken down into four categories:
+1. Peak Early Fatalities
+2. Peak Early Injuries
+3. Peak Cancer Deaths
+4. Scaled Costs
+“Peak” refers to the highest calculated values from the CRAC-2 computer printouts for the Sandia
+study.  However, peak does not mean the worst case scenario.  This is due to the uncertainties in the
+meteorological modeling that have been acknowledged by the authors of the Sandia report.  TheCRAC2 model only considered one year’s worth of data and does not model for precipitation beyond athirty-mile radius from the reactor.  According to the documents released by the Subcommittee, “(t)hisis significant for peak consequences since the highest consequences from accidents are predicted tooccur when a radioactive plume encounters rain over a relatively densely populated area.”
+8
+Peak Early Fatalities
+Early Fatalities are deaths that result from radiation exposure occurring within the first year.9
+Reactor Owner Location Fatalities
+1 Salem 1 & 2 PSEG Nuclear 18 miles S of Wilmington, DE 100,000
+2 Waterford 3 Entergy 21 miles W of New Orleans, LA 96,000
+3 Limerick 1 & 2 Exelon 21 miles NW of Philadelphia, PA 74,000
+4 Peach Bottom 2 & 3 Exelon 18 miles S of Lancaster, PA 72,000
+5 Susquehanna 1 & 2 PP&L 7 miles NE of Berwick, PA 67,000
+6 Indian Point 2 & 3 Entergy 24 miles N of New York, NY 50,000/46,000
+7 Catawba 1 & 2 Duke Power 6 miles NNW of Rock Hill, NC 42,000
+8 Three Mile Island 1 AmerGen 10 miles SE of Harrisburg, PA 42,000
+9 Dresden 2 & 3 Exelon 9 miles  E of Morris , IL 42,000
+
+10 Surry 1 & 2 Dominion 17 miles NW of Newport News, VA 31,000
+11 Turkey Point 3 & 4 Florida P&L 25 miles S of Miami, FL 29,000
+12 Sequoyah 1 & 2 TVA 10 miles NE of Chattanooga, TN 29,000
+Peak Early Injuries
+Early injuries are radiation-related injuries occurring within one year of the accident, which require
+hospitalization or other medical attention.  Early injuries include conditions such as sterility, thyroid
+nodules, vomiting and cataracts.10
+Reactor Owner Location Fatalities
+1 Limerick 1 & 2 Exelon 21 miles NW of Philadelphia, PA 610,000
+2 Fermi 2 Detroit Edison 25 miles NE of Toledo, OH 340,000
+3 Waterford 3 Entergy 21 miles W of New Orleans, LA 279,000
+4 Perry 1 First Energy 7 miles NE of Painesville, OH 180,000
+5 Indian Point 2 & 3 Entergy 24 miles N of New York, NY 156,000/141,000
+6 Beaver Valley 1 & 2 First Energy 17 miles W of McCandless, PA 156,000
+7 Catawba 1 & 2 Duke Power 6 miles NNW of Rock Hill, NC 88,000
+8 D.C. Cook 1 & 2 AEP 11 miles S of Benton Harbor, MI 80,000/88,000
+9 Byron 1 & 2 Exelon 17 miles SW of Rockford, IL 79,000
+10 Salem 1 & 2 PSEG Nuclear 18 miles S of Wilmington, DE 75,000/70,000
+11 Davis-Besse First Energy 21 miles ESE of Toledo, OH 73,000
+12 Summer SCE&G 25 miles NW of Columbia, SC 73,000
+Peak Cancer Deaths
+Peak cancer deaths are predicted to occur over the lifetime of the population exposed to the radioactive
+release. This however, is not the case with leukemia, which is assumed to have occurred within the first
+30 years following the accident.11
+Reactor Owner Location Deaths
+1 Salem 1 & 2 PSEG Nuclear 18 mi S of Wilmington, DE 40,000
+2 Millstone 3 & 2 Dominion 3 mi SW of New London, CT 38,000/33,000
+3 Peach Bottom 2 & 3 Exelon 18 mi S of Lancaster, PA 37,000
+4 Limerick 1 & 2 Exelon 21 mi NW of Philadelphia, PA 34,000
+5 North Anna 1 & 2 Dominion 40 mi NW of Richmond, VA 29,000
+6 Susquehanna 1 & 2 PP&L 7 mi NE of Berwick, PA 28,000
+7 Three Mile Island 1 AmerGen 10 mi SE of Harrisburg, PA 26,000
+8 McGuire 1 & 2 Duke 17 mi N of Charlotte, NC 26,000
+9 Beaver Valley 1 & 2 First Energy 17 mi W of McCandless, PA 24,000
+10 Pilgrim 1 Entergy 4 mi SE of Plymouth , MA 23,000
+11 Oyster Creek AmerGen 9 miles S of Toms River, NJ 23,000
+12 Calvert Cliffs 1 & 2 Constellation 40 miles S of Annapolis, MD 23,000
+Scaled Costs
+
+Scaled costs include estimates of lost wages, relocation expenses, decontamination costs, lost property
+and the cost of interdiction for property and farmland. “Scaled” means that the costs have been adjusted
+for the size of the reactor.  Costs which are not calculated in the CRAC2 figures include the costs of
+providing health care to the affected population, all on site cost, litigation costs, direct costs of healtheffects and indirect costs.  The Subcommittee on Oversight and Investigation noted that a separatereport on accident consequences was prepared for the NRC by the Bureau of Economic Analysis, U.S.Department of Commerce and determined that the indirect cost not included in the CRAC2 calculationscould be substantial.
+12
+Reactor    Owner Location Cost in
+Billions*
+1 Indian Point 2 & 3 Entergy 24 miles N of New York, NY 314/274
+2 Limerick 1 & 2 Exelon 21 miles NW of Philadelphia, PA 213/197
+3 San Onofre 2 & 3   SCE 4 miles SE of San Clemente, CA 186/182
+4 Millstone 3 & 2 Dominion 3 miles SSW of New London, CT 174/135
+5 Seabrook 1 North Atlantic 13 miles S of Portsmouth, NH 164
+6 Diablo Canyon 1 & 2 PG&E 12 miles SSW of San Luis Obispo 158/155
+7 Salem 2 & 1 PSEG Nuclear 18 miles S of Wilmington, DE 150/135
+8 Susquehanna 1 & 2 PP&L 7 miles NE of Berwick, PA 143/137
+9 Fermi 2 Detroit Edison 25 miles NE of Toledo, OH 136
+10 Nine Mile Point 2 Constellation 6 miles NE of Oswego, NY 134
+11 Waterford 3 Entergy 21 miles W of New Orleans, LA 131
+12 Braidwood 1 & 2 Exelon 24 miles SSW of Joliet, IL 127/122
+(*1980 dollars)
+Had the NRC not stalled the Union of Concerned Scientists’ attempts to secure a copy of the CRAC-2
+report and had Congressman Markey not intervened, these peak consequences would, in all likelihood,
+never have been reported.  As noted earlier, the Sandia report only included average not peak
+consequences. However, even the average consequences of a nuclear accident are staggering.  When theU.S. General Accounting Office (GAO) reported on the financial consequences of a nuclear powerplant accident in 1986, they drew upon the Sandia study.  The GAO found that the average financialconsequences of an accident at the Indian Point nuclear plant could still reach $15.3 billion and that
+adverse whether conditions could increase the cost ten fold.
+13
+
+Nuclear Power Plant Maps
+We have provided maps for those reactors with the greatest peak early fatalities.  (See maps in
+appendices to report.)
+The first ring is the ten-mile Emergency Planning Zone (EPZ).  As a result of the meltdown at Three
+Mile Island, each utility that owns a commercial nuclear power plant in the United States was requiredto have both an onsite and offsite emergency response plan as a condition of obtaining and maintaininga license to operate that plant. The Nuclear Regulatory Commission (NRC) approves Onsite emergencyresponse plans. Offsite plans are evaluated by the Federal Emergency Management Agency (FEMA)
+and provided to the NRC, who must consider the FEMA findings when issuing or maintaining a license.
+Federal law establishes the criterion for determining the adequacy of offsite planning and preparedness.Basically, emergency plans and preparedness must be determined to adequately protect the publichealth and safety by providing “reasonable assurance that appropriate measures can be taken offsite inthe event of a radiological emergency.”
+14
+The second ring represents the zone for peak fatalities.  This radius is the largest calculated distancefrom the plant at which early fatalities are expected to occur.  This distance is different for each nuclearplant.
+15
+The third ring represents the zone for peak early injuries. This radius is the largest calculated distance
+from the plant at which early fatalities are expected to occur.  Again, this distance is different for each
+nuclear plant.16
+Greenpeace has provided these maps so that the public and the press will have an accuraterepresentation of the regions placed at risk by the continued operation of nuclear reactors in the U.S.
+NRC Downplays Probability
+After the Washington Post had run the story and Sandia had released the final version of the CRAC-2
+report, the Union of Concerned Scientists reviewed the data and discovered that the NRC had attemptedto down play the most damaging results.  The regulators used the lowest probability figures for largestradioactive releases studied. The NRC used a probability per reactor year of one in 100,000.  However,
+according to UCS’ research the probability for some reactors was as high as 1 in 8,333 per reactor
+year.
+17 As the Union of Concerned Scientists pointed out:
+Significantly, these probability figures do not include any consideration of
+sabotage or “external events” (such as earthquakes, hurricanes, tornadoes andaircraft crashes) as possible accident causes, nor do they adequately treat human
+error. Thus these figures must be considered optimistic .  The NRC staff,
+however … treated the 1 in 100,000 figure as though it were engraved in stone.
+18
+The consequences in the CRAC-2 computer printouts are projected to occur from a core melt accidentin which all installed safety equipment fails and the reactor containment is breached directly to the
+atmosphere.
+19 This scenario is not unthinkable when you realize that none of the containment structures
+at U.S. reactors were designed to withstand a core melt accident.20 Furthermore, the pressure
+suppression containment systems incorporated into many General Electric and Westinghouse designedreactors are virtually certain to fail in the event of a melt down.
+21
+Containment or the Lack There Of
+As early as 1971, government regulators knew that the public’s last line of defense against the radiation,
+the reactor containment, was worthless yet licensed the General Electric (GE) reactors anyway.  When
+staff members suggested that this type of containment be banned, the Commission’s deputy director fortechnical review responded that it “ could well be the end of nuclear power. It would throw into
+
+question the continued operation of licensed plants, could make un-licensable the GE and
+Westinghouse ice condenser plants now in review and would generally create more turmoil than I
+can think about .”22
+In 1986 Harold Denton, former director of NRC's Office of Nuclear Reactor Regulation, acknowledged
+this vulnerability while speaking to utilities executives at Brookhaven National Laboratory.  Dentonnoted that, according to NRC studies the GE Mark I reactors had “something like a 90% probability ofthat containment failing."
+23  However, it’s not only the GE and Westinghouse designs that are more
+sieve than shield.  In a version of the Nuclear Regulatory Commission’s 1987 Reactor Risk Reference
+Document released for public comment, the agency again acknowledged the inability of thecontainment to protect the public during a meltdown. The draft report contained this disturbingadmission ,"(i)n general, these data indicate that early containment failure cannot be ruled out
+with high confidence for any of the plants ."
+24 This sentence was deleted from the final version of the
+report however later studies contained this admission, “(a)ll five major reactor containment types
+were found to be subject to failure in such accidents, for which they were not designed .” 25
+Faulty Safety Equipment Shuts Down Nuclear Plants
+Since the containment structures on U.S. reactors are incapable of protecting the public in the event of a
+meltdown, the public must rely on safety systems to prevent a meltdown in the first place.  However, itis not unimaginable that safety equipment at U.S. reactors would fail.  In fact, the failure of safety
+systems to perform their function has contributed to the shutdown of several nuclear reactors since the
+mid 1990s including: Big Rock Point, Maine Yankee, Millstone 1 and Haddam Neck.
+Maine Yankee
+ 
+In December 1995, in response to whistleblower allegations at Maine Yankee, the NRC staff was
+compelled to audit the analyses used to demonstrate the adequacy of the emergency core coolingsystem.  There are two purposes of the Emergency Core Cooling Systems (ECCS). The first is toprovide cooling to the reactor core to prevent a meltdown following a loss of coolant accident orLOCA. This is accomplished by the injection of large amounts of borated water into the reactor coolantsystem. The borated water helps to quell the chain reaction in the reactor’s core. The second purpose of
+the ECCS is to ensure the reactor remains shut down.  This is accomplished by the use of the same
+borated water source.
+26 The staff concluded Maine Yankee’s analysis was unreliable.27
+ 
+Based upon further investigations into design deficiencies, Maine Yankee identified cable separationproblems that could have resulted in the inability of the reactor operators to manually shut down thereactor.   The reactor was taken offline to address these issues. Once the reactor shut down, the NRC
+prohibited its restart until the cable separation problems had been addressed. The NRC noted that “the
+proper separation of cables is important in nuclear power plants to ensure that if one or more set ofcables is damaged, the plant will be able to achieve a safe shutdown.”
+28 After the utility’s attempts to
+sell the reactor, either whole or in parts, failed to find a buyer Maine Yankee moved to decommissionthe nuclear reactor.
+Millstone & Haddam Neck
+On March 4, 1996, the Millstone nuclear power plant in Connecticut graced the cover of Time
+magazine.  In a special investigation,  Time detailed how “two gutsy engineers in Connecticut have
+caught the Nuclear Regulatory Commission at a dangerous game it has played for years: routinely
+waiving safety rules to let plant keep costs down and stay on line.”
+29 The Time magazine cover story
+forced the NRC to shutdown Millstone 1 and every other reactor in the state of Connecticut. Due to thebad publicity the NRC was compelled to investigate whether similar problems existed at other reactorsoperated by Northeast Utilities.
+The subsequent investigations found that Haddam Neck’s emergency core cooling system (ECCS)
+would have been unable to perform its function of cooling the reactor core in the event of an accident.
+
+In other words, if Haddam Neck had experienced a loss of coolant accident the nuclear reactor would
+likely have had a meltdown.  Equally disturbing is the fact that this problem existed since the plant was
+licensed.  For 28 years, Northeast Utilities operated a nuclear reactor with an ECCS that would not have
+cooled the reactor core in the event of an accident.  Subsequent NRC inspections revealed that:
+Inspectors also found that safety margins were reduced, and in some cases technical
+specifications were violated a result of poor engineering. For example, too small pipesleading from the containment sump system to the residual heat removal pump left
+insufficient suction to support pump operation without relying on containment building
+backpressure. This violation is significant because it could have caused a failure of
+the system needed to keep the reactor core cool in the event of an accident .
+30
+On July 22, 1996, operators were forced to shut down the Haddam Neck reactor due to concerns over
+the operability of safety systems.  On December 4, 1996, NU announced its decision to permanently
+shut down Haddam Neck.   Despite the idling of every reactor in the state of Connecticut, and the
+permanent closure of two of the four reactors in the state, the lights remained on.
+Big Rock Point
+In 1997, the Big Rock Point nuclear plant in Michigan “discovered” that the reactor had operated for
+thirteen years without a major safety system.  The piping that was supposed to supply borated water to
+the reactor core in the event of an emergency had been completely severed. Without this safety system,operators would have been unable to shut down the reactor in the event of an accident. The boratedwater was the only backup system for shutting down the reactor core. If the primary system failed, thebackup system would have been unable to stop the chain reaction.
+31  The Big Rock Point
+nuclear plant permanently ceased operation in August 1997, the public was only informed of the flawed
+safety system after the shutdown.
+The problems that shutdown Maine Yankee, Millstone 1, Haddam Neck and Big Rock Point are not
+isolated instances. Over the past several years, the NRC and nuclear plant owners have reported severalhundred instances where safety equipment was discovered to be faulty.
+32 In 1997, a report from the
+NRC’s Office for Analysis and Evaluation of Operational Data (AEOD), reviewed design errors that
+had been reported by nuclear reactors from 1985 – 1995.  The AEOD identified three instances wherethe probability of an accident that damaged the reactor core was unacceptably high. The AEODreported two events where the probability of damaging the core was 1 in 1000 and one event with a coredamage probability of 1 in 100.   All three of these events are exponentially more dangerous than NRCstandards allow.
+33
+
+The Probability of a Nuclear Accident
+The nuclear industry and the Nuclear Regulatory Commission (NRC) have always maintained that the
+probability of an accident was low.  Even if we were to take the nuclear industry or the NRC at its
+word, the risk of a meltdown would still be great because the consequences of such an event arepotentially so devastating.   However, neither the nuclear industry nor the NRC has been very good atestimating the probability of an accident.
+On March 9, 1979, the NRC staff produced a memo for then Commissioner Peter Bradford entitled,
+“Probabilities That The Next Major Accident Occurs Within Prescribed Intervals.”  The memorandum
+states that:
+a) The probability is less than .5 that the next (i.e., the first) major accident occurs within
+the next 400 reactor years.
+b) The probability is less than .05 that the next major accident occurs within the next 21
+reactor years.
+c) The probability is larger than .5 that the next major accident occurs after the next 400
+reactor years.  This is equivalent to statement (a).
+34
+(Note: one nuclear reactor operating for one year equals a reactor year.)
+Less than three weeks later, the unit 2 reactor at Three Mile Island suffered a meltdown of the
+radioactive fuel in the reactor core .
+The Nuclear Regulatory Commission ignores the fact that meltdowns have occurred at U.S. nuclear
+reactors.  The NRC’s latest risk assessments don’t even account for the meltdown at Three Mile Islandor the earlier meltdowns at Fermi-1 and other test reactors. The U.S. nuclear reactors that haveexperienced partial core melt accidents include:
+EBR-1 (Experimental Breeder Reactor) 11/29/55 Idaho Falls, ID
+WTR (Westinghouse Testing Reactor) 04/03/60 Waltz Mill, PA
+SL-1  (Stationary Low Power Reactor) 01/03/61 Idaho Falls, IDFermi-1 10/05/66 Lagoona Beach, MIThree Mile Island 03/28/79 Harrisburg, PA
+35
+Even if you exclude the core-melt accidents at the test reactors, the U.S. commercial nuclear industry
+has melted down two nuclear reactors in less than 3000 reactor years.  This reality makes nuclear power
+anything but “safe.”  However, it wasn’t until after the Chernobyl disaster that the Nuclear RegulatoryCommission acknowledged the risk posed by nuclear reactors in the U.S.
+In the wake of the 1986 accident at Chernobyl, the U.S. Nuclear Regulatory Commission was asked to
+testify before Congress concerning the potential for severe accident in the U.S.  According to NRC
+Commissioner James K. Asselstine:
+…given the present level of safety being achieved by the operating nuclear
+power plants in this country, we can expect to see a core meltdown accidentwith in the next 20 years…
+36
+The U.S. nuclear industry was quick to point out that you can’t have a “Chernobyl” here.  Publicpronouncements by nuclear industry officials included assertions that Soviet technology was sodifferent from U.S. commercial reactors that the causes and consequences of the Chernobyl accidenthad little relevance.
+37 The American Nuclear Society’s fact sheet on nuclear energy stated that,
+
+“Because of major differences in technology, a Chernobyl-type accident can not occur in a light water
+reactor such as those in the U.S. A reactor similar to the Chernobyl design could not be licensed in the
+U.S. either now or before the accident.”38
+Unfortunately, the nuclear industry was merely playing with words.  Their protestations rely on the fact
+that there are no reactors of Chernobyl’s design operating here in the United States, but that’s not thepoint. The reality is that a nuclear accident can occur at a U.S. nuclear power plant that would have off-site releases of radiation comparable to that of Chernobyl.  Again in testimony before Congress in 1986,
+NRC Commissioner James Asselstine stated that:
+While we hope that their occurrence is unlikely, there are accident sequences for
+U.S. plants that can lead to rupture or bypassing of containment in U.S. reactorswhich would result in the off-site release of fission products comparable orworse than the releases estimated by the NRC staff to have taken place during
+the Chernobyl accident.
+That is why the Commission told Congress recently that it could not rule
+out a commercial nuclear power plant accident in the United Statesresulting in tens of billions of dollars of property losses and injuries to the
+public .
+39
+In 1990, the Nuclear Regulatory Commission was again asked the probability of a severe core melt
+accident at a U.S. nuclear reactor.  However, the NRC refused to provide the National Academy ofScience’s National Research Council with the number they were seeking.  In the Nuclear RegulatoryCommission’s response to the National Research Council, the agency stated that it “would strongly
+encourage your committee not to use any number based on assuming an average severe core damage
+frequency….”  Rather, the NRC suggested that the National Research Council state that “there isreasonable assurance that the health and safety of the public are adequately protected.”
+40
+At least on member of the NRC’s Advisory Committee on Reactor Safeguards (ACRS), doesn’t holdthe same overly optimistic view espoused by the Commission. Hal Lewis, a former member of the
+NRC’s Advisory Committee on Reactor Safeguards, critiqued the Commission’s position when the
+ACRS was addressing the renewal of nuclear reactor licenses, noting that:
+the Commission certainly doesn't know that its current regulatory process provides
+adequate protection to the public .  It has declared that it does, and it's the operating
+definition, but the Commission has also promulgated safety goals and the commission
+doesn't know that the current licensing basis will meet the safety goals, although it believes it
+to be the case.
+41
+The public should not be lulled into a false sense of security by the mere fact that the U.S. nuclearpower industry has not melted down a reactor since Three Mile Island. Operating without a meltdown for
+a finite period of time does not mean that safety is adequate.  Again, Mr. Lewis, of the NRC’s Advisory
+Committee on Reactor Safeguards, recognized this fallacy.  Mr. Lewis stated that:
+The general argument that the fact that one has operated safely for a finite period of
+time proves that the safety level is adequate is just not statistically right, becausethere isn't that much history in the industry. And it's a trap. Because other agencies,
+for example, people have used the argument that they had 24 successful Shuttle
+flights, to show the level of safety was adequate.  And in retrospect, after onedisaster, it turned out not to be.  The Soviets, after Chernobyl, suddenly discoveredthat the level of safety they had before Chernobyl was not adequate. But the daybefore Chernobyl they would have said it was adequate on the basis of operatinghistory.
+
+So it is a general trap, a psychological trap, to believe that because something has
+not happened, you are doing just fine.42
+The NRC and the nuclear industry have already fallen into the trap.  The NRC and the NEI have alreadybegun to deregulate nuclear safety regulations, including those dealing with the security of nuclearreactors, based upon the limited operating history of reactors in the U.S.  The risk posed by nuclearpower plants was significant before September 11
+th.  When we take into consideration the terrorist
+threat to nuclear power plants their continued operation is unacceptable.
+As NRC Commissioner Asselstine pointed out, U.S. nuclear reactors are capable of releasing enormous
+amounts of radiation into the environment.  Since each reactor has the potential for a Chernobyl sizedrelease of radiation, it is important to recognize the consequences of such an accident.
+In 1990, the Wall Street Journal reported on a study conducted by a Soviet nuclear industry economist
+on the continuing economic disaster of the Chernobyl accident.  The study found that the cost of the
+disaster had originally been underestimated.  Yuri Koryakin, chief economist of the Research andDevelopment Institute of Power Engineering, the institute that originally designed the Chernobylreactor, found that the accident may cost 20 times more than Moscow’s original estimates.  By 2000,the report estimated that the Chernobyl accident would cost the country between 170 and 215 billionrubles from contaminated farm land, lost electricity production and other economic fall-out.  The
+accident contaminated approximately 31,000 square kilometers or 12,400 square miles.  When the Wall
+Street Journal article was published in 1990, the contaminated land was considered a total loss for atleast two generations.
+43
+The Wall Street Journal article concludes that, “ The total bill suggests that the Soviet Union may
+have been better off if they had never begun building nuclear reactors in the first place .”44
+The Nuclear Energy Institute (NEI) attempt to down play the impact of the disaster.  According to NEI:
+The accident destroyed the reactor in Unit 4, killed 31 people (one immediately and 30
+within three months) and contaminated large areas of Belarus (formerly Byelorussia),
+Ukraine and the Russian Federation. In addition, one person has subsequently died from a
+confirmed diagnosis of acute radiation syndrome, and three children have died fromthyroid cancer.
+45
+The consequences of the accident are severely understated by NEI. According to an article published bythe Associated Press the consequences of the Chernobyl disaster are “grimly visible.”
+an estimated 4,000 deaths among those who took part in the hasty and poorly organized
+cleanup; 70,000 people disabled by radiation, according to government figures. Overall,about 3.4 million of Ukraine's 50 million people, including some 1.26 million children,are considered affected by Chernobyl, and many may not show the affects for years.
+46
+The grim reality of the Chernobyl accident will be with the people of the former Soviet Union forgenerations.
+Shutdown Before Meltdown
+The United States can avoid the next nuclear accident by phasing out the remaining 103 commercial
+nuclear reactors.  Rather than coddling the nuclear industry with more taxpayer subsidies and lessregulation the federal government should replace nuclear reactors with energy efficiency and otherclean, renewable sources of electricity.
+A study conducted by the five national energy laboratories in November 2000 for the U.S. Department
+of Energy found that renewable energy could supply at least 7.5 percent of U.S. electricity by 2010.
+47
+Such an expansion in renewable technologies would allow for the phase-out of the most dangerous
+
+reactors in the U.S.  When combined with increases in energy efficiency the potential to phase-out
+nuclear power is even greater.
+According to the Union of Concerned Scientists’ Clean Energy Blueprint, renewable energy could
+supply 20 percent of U.S. electricity by 2020.48  Coupled with an increase in energy efficiency, this
+increase in renewable resources would produce enough electricity to supplant every nuclear reactorcurrently operating in the United States. 
+49
+Rather than extending the licenses of nuclear reactors and thereby extending the duration of the threatposed by these reactors, the Bush/Cheney energy plan should heed the advice of its own governmentlaboratories and increase our nation’s energy efficiency and use of renewable sources of electricity.
+
+Conclusions
+The 103 operating nuclear reactors in the U.S. present a clear and present danger to the states and
+regions in which they operate.  Nuclear power plants have always presented a risk of a catastrophic
+accident.  The risk is exacerbated by the threat of sabotage. While the risk of a melt down at an existing
+reactor is significant, the government figures actually underestimate the risk because none of theirstudies encompass the threat of a terrorist act.
+Prior to September 11
+th, nuclear power posed such an unacceptable risk to the public heath and safety
+that it should have been phased out.  Since the nuclear industry has proven itself incapable of defending
+nuclear reactors and the NRC has proven itself unwilling to regulate the industry, Greenpeace believes
+that it is time to phase out nuclear power in the United States.  Those reactors that pose the greatestthreat should be shut down first. The charts detailing the consequences of a catastrophic accidentprovide a list of those reactors.
+Greenpeace has provided the public and the media with the government’s own data on the probability
+and the peak consequences of a nuclear accident.  We believe that the public has a right to know the
+threat posed by each of the nuclear power plants operating in their midst.  Nuclear reactors are notmerely an expensive and complicated way to boil water but also constitute a national security threat.As has been noted elsewhere, terrorists are not targeting windmills and solar panels.
+
+Recommendations
+Rather than attempting to protect a power source that threatens the very land, air and water we need to
+survive, we should phase out these atomic atrocities and replacing nuclear reactors with increasedefficiency and other, renewable sources of electricity which do not threaten our families, homes andcommunities. The federal government should immediately take steps to reduce the risk posed by the
+nuclear industry. Greenpeace makes the following recommendations:
+• The federal government should phase out nuclear power in the U.S.  Those reactors that pose the
+greatest risk should be shut down first.
+• The Nuclear Regulatory Commission should not extend the licenses of nuclear reactors and should
+rescind those licenses that have already been renewed.
+• New construction of any nuclear reactors in the United States should be prohibited.
+
+                                                          
+1 James Madison, Madison to W.T. Barry, August 4, 1822. The Mind of the Founder: Sources of the
+Political Thought of James Madison, p. 437, Marvin Meyers, Indianapolis, (1973).
+2 John Solomon, Details of Nuclear Power Left Open, Associated Press, October 24, 2001.
+3 U.S. Nuclear Regulatory Commission, Memorandum to William D. Travers, Executive Director of
+Operations, From: Captain David N. Orrik  USN (Ret.), Security Specialist, NRR, Subject: DifferingProfessional Opinion Regarding NRC’s Reduction of Effectiveness and Efficiency in ther Staff
+Recommendations of the Follow-On OSRE Program for Nuclear Power Plants, February 3, 1999, pp. 1-3.
+4 U.S. Nuclear Regulatory Commission, Briefing on Safeguards Performance Assessment, May 5, 1999,
+pp. 54- 56.
+5 United States House of Representatives, Committee on Interior and Insular Affairs, Subcommittee on
+Oversight & Investigations, "Calculation of Reactor Accident Consequences (CRAC2) for U.S. Nuclear
+Power Plants" November 1, 1982;  R. J. Travis, R. E. Davis, E. J. Grove, and M. A. Azarm, BrookhavenNational Laboratory, NUREG/CR-6451, "A Safety and Regulatory Assessment of Generic BWR and PWRPermanently Shutdown Nuclear Power Plants," August 1997, and Nuclear Regulatory Commission,"Technical Study of Spent Fuel Pool Accident Risk at Decommissioning Nuclear Power Plants," October
+2000.
+6  U.S. Nuclear Regulatory Commission, The Price-Anderson Act – Crossing the Bridge to the Next
+Century: A Report to Congress , October 1998.
+7 Steve Sholly, Consequences of a Nuclear Reactor Accident, Union of Concerned Scientists, 1983, p. 4.
+8 U.S. House of Representatives, Committee on Interior and Insular Affairs, Subcommittee on Oversight
+and Investigation, Calculation of Reactor Accident Consequences (CRAC-2) for U.S. Nuclear PowerPlants, November 1, 1982, pp.14 – 15.
+9 Id. at p. 16, Note 4.
+10Id. at p. 16, Note 5.
+11Id. at p. 16, Note 6.
+12Id. at pp. 15 – 16, Note 10.
+13 U.S. General Accounting Office, Nuclear Regulation: Financial Consequences of a Nuclear Power Plant
+Accident, GAO/RCED-86-193BR, July 1986, pp. 24 –25.
+14U.S. Code of Federal Regulations, Emergency Plans, 10 CFR Part 50.47 (a) (1).
+15U.S. House of Representatives, Committee on Interior and Insular Affairs, Subcommittee on Oversight
+and Investigation, Calculation of Reactor Accident Consequences (CRAC-2) for U.S. Nuclear PowerPlants, November 1, 1982, p. 16. Note 7.
+16Id. at p. 16, Note 8.
+17 Steve Sholly, Consequences of a Nuclear Reactor Accident, Union of Concerned Scientists, 1983, p. 4.
+18 Id at p. 4.
+
+                                                                                                                                                                            
+19 U.S. House of Representatives, Committee on Interior and Insular Affairs, Subcommittee on Oversight
+and Investigation, Calculation of Reactor Accident Consequences (CRAC-2) for U.S. Nuclear Power
+Plants, November 1, 1982, p.14.
+20U.S. Nuclear Regulatory Commission, Survey of Light Water Reactor Containment Systems, Dominant
+Failure Modes and Mitigation Opportunities, NUREG/CR 4242, (198?) p. v.
+21 ‘Failure of Mark I is Almost Certain in Severe Core Melt, Panel Says,’ Inside NRC, December 7, 1987,
+p. 1.
+22 U.S. Atomic Energy Commission, Memorandum from: Joseph M. Hendrie, To: John F. O’leary,
+September 25, 1972.
+23  Brian Jordan, “Denton Urges Industry to Settle Doubts about Mark I Containment, Inside N.R.C., vol. 8,
+no. 12, June 9, 1986, pp. 1, 3.
+24U.S. Nuclear Regulatory Commission, Reactor Risk  Reference  Document , Draft for Comment, NUREG-
+1150, February 1987, p. ES-14.
+25 U.S. Nuclear Regulatory Commission, Survey of Light Water Reactor Containment Systems, Dominant
+Failure Modes, and Mitigation Opportunities, NUREG/CR-4242, (1988) p. v.
+ 26U.S. Nuclear Regulatory Commission, Emergency Core Cooling Systems, http:// www.nrc.gov
+/NRC/EDUCATE/REACTOR/04-PWR/part12.html . (Note: this document is no longer available on the
+NRC’s website.)
+ 27U.S. Nuclear Regulatory Commission, 1996 NRC Annual Report, NUREG-1145, Vol. 13, p.27.
+28U.S. Nuclear Regulatory Commission, Office of Public Affairs - Region I, NRC, Maine Yankee Officials
+To Discuss Cable Separation Issues, I-97-86, July 16, 1997.
+29Eric Pooley,  Blowing the Whistle on Nuclear Safety:  How a showdown at a power plant exposed the
+federal governments failure to enforce its own regulations , Time, March 4, 1996, p. 47.
+30U.S. Nuclear Regulatory Commission, Office of Public Affairs - Region I, NRC Proposes $650,000 Civil
+Penalty for Northeast Utilities for Alleged Violations at Haddam Neck Nuclear Power Plant, I-97-52,  May12, 1997, p. 2.
+31David Lochbaum,  Nuclear Plant Safety: Will the Luck Run Out?, Union of Concerned Scientists,
+Nuclear Plant Safety: Will the Luck Run Out?, December 15, 1998,
+http://www.ucsusa.org/energy/view.safetyluck.html .
+32James P. Riccio, Amnesty Irrational: How the Nuclear Regulatory Commission Fails to Hold Nuclear
+Reactors Accountable for Violations of its Own Safety Regulations, Public Citizen, August 1999; DavidLochbaum, Nuclear Plant Safety: Will the Luck Run Out?, Union of Concerned Scientists,  Nuclear Plant
+Safety: Will the Luck Run Out?, December 15, 1998, http://www.ucsusa.org/energy/view.safetyluck.html.
+ 33U.S. Nuclear Regulatory Commission, Office for Analysis and Evaluation of Operational Data, Design
+Errors in Nuclear Power Plants, January 1997, p. 16.
+34 U.S. Nuclear Regulatory Commission, Memorandum For: Commissioner Bradford, From: David
+Rubinstein, Applied Statistics Branch, Subject: Probabilities That The Next Major Accident Occurs Within
+Proscribed Intervals, March 9, 1979, p. 1.
+
+                                                                                                                                                                            
+35 Richard E. Webb, The Accident Hazards of Nuclear Power Plants, University of Massachusetts press,
+Appendix 2, (1976); U.S. Atomic Energy Commission, Operational Accidents and Radiation Exposure
+Experience 1943 – 1975, pp. 29 – 38, (1975); John May, The Greenpeace Book of the Nuclear Age, p.
+173, (1989).
+36Testimony of NRC Commissioner James K. Asselstine before the Energy Conservation and Power Sub-
+committee of the House Committee on Energy and Commerce, May 22, 1986; Also Letter from NRC
+Commissioner James K. Asselstine to Carl Walske, President, Atomic Industrial Forum, Inc., July 15,
+1986, p. 1.
+37  (Donaldson, Lufkin & Jenrette, Chernobyl: Some Lessons and Implications for Lower Quality Electric
+Utilities, (1986.) p. 22.
+38American Nuclear Society, “Nuclear Energy Facts: Questions and Answers”, 1988, p. 28.
+39U.S. Congress, House Committee on Energy and Commerce, Subcommittee on Conservation and Power,
+Hearing on Nuclear Reactor Safety, 99th Cong., 2nd Session, May 22 and July 16, 1986, p. 38.
+40U.S. Nuclear Regulatory Commission, Letter from: Chairman Kenneth M. Carr, To: Dr. Albert L. Babb,
+Chairman, Committee on Future Nuclear Power Development, Commission on Engineering and Technical
+Systems, National Research Council, June 14, 1990, p. 2.
+41U.S. Nuclear Regulatory Commission, Advisory Committee on Reactor Safeguards, Subcommittee on
+Regulatory Policies and Practices: License Renewal, ACRS-T-1789, March 26, 1990, pp. 165, 166.
+42Id. at 153, 154.
+43Richard L. Hudson, Cost of Chernobyl Nuclear Disaster Soars in New Study, Wall Street Journal, March
+29, 1990, p. A-8.
+44Id. at p. A-8.
+45Nuclear Energy Institute, The Chernobyl Accident and Its Consequences,
+http://www.nei.org/doc.asp?catnum=3&catid=296 , July 2000.
+46 Associated Press, Ukrainians Honor “Chernobyl Heroes” Who Helped Others in the
+1989 Disaster, St. Louis Post-Dispatch, April 27, 2000, p. A-10.
+47 Interlaboratory Working Group, Scenarios for a Clean Energy Future (Oak Ridge, TN; Oak Ridge
+National Laboratory and Berkeley, CA; Lawrence Berkeley National Laboratory), ORNL/CON-476 andLBNL-44029, November 2000. http://www.ornl.gov/ORNL/Energy_Eff/CEF.htm
+48 Clemmer, Donovan, Nogee & Deyette, Clean Energy Blueprint: A Smarter National
+Energy Policy for Today and the Future, Union of Concerned Scientists, Cambridge,Mass. October 2001.  http://www.ucsusa.org/energy/blueprint.html
+49Union of Concerned Scientists, Energy and Security Fact Sheet, 2001.
+http://www.ucsusa.org/energy/fact_security.html

@@ -1,0 +1,1848 @@
+# Archivo original: click-clean-virginia.pdf
+# Tipo: .PDF
+# Procesado el: Sat Oct 11 09:41:16 -03 2025
+
+Clicking Clean 
+Virginia
+The Dirty Energy Powering Data Center Alley
+PUBLISHED: 02-13-2019
+
+CLICKING CLEAN VIRGINIA  | 2
+|| Executive Summary   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+||  Company Scorecard   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+||Data Center Alley: Where the Cloud Touches the Ground   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+||How Dirty is Your Data?   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+||Building A Clean(er) Cloud   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+||Dominion Energy: Making Your Data Dirty   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+||New Climate Threat: The Atlantic Coast Pipeline   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+||Amazon Web Services: Virginia’s Dirty Cloud   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+||Charting a Renewable Path for Virginia   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+||Methodology   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+||Company Profiles   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+|+Amazon Web Services   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+|+Apple   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+|+Facebook   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+|+Google   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+|+Microsoft  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 29
+|+Salesforce   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+|+CloudHQ   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+|+Coresite  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 32
+|+CyrusOne   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+|+Digital Realty Trust   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+|+Equinix   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+|+Iron Mountain   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
+|+QTS   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+|+RagingWire   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+|+Vantage   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39
+||Endnotes   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40Contents
+AUTHORS
+Gary Cook
+Elizabeth Jardim
+EDITOR
+Cassady Craighill
+DESIGNED BY
+Jacob Hardbower
+Kelly Horigan
+Jayne Worth
+PUBLISHED
+February 13, 2019
+Greenpeace Inc.
+702 H Street, NW, STE 300, 
+Washington, D.C. 20001
+
+CLICKING CLEAN VIRGINIA  | 3
+Executive Summary
+San Francisco and “Silicon Valley” may first come to mind 
+when imagining the home of big internet companies, but 
+the physical beating heart of the internet in fact lies on the 
+East Coast, in what has become known as “Data Center 
+Alley” in Northern Virginia . Located just outside Washington, 
+D .C ., Data Center Alley is already home to the world’s 
+highest concentration of data centers in the world and 
+is dramatically expanding . Loudoun County Virginia, the 
+center of Data Center Alley, claims 70 percent of the world’s 
+internet traffic passes through its borders .  
+Data centers serve as factories of the information age; 
+their 24/7 operation makes online browsing, streaming 
+and communication possible, but delivering all this data 
+requires a tremendous amount of electricity  . The explosive 
+demand of internet-based platforms and services has 
+fueled a dramatic expansion in both the size and number 
+of data centers, making them collectively one of the largest 
+sources of new electricity demand globally  . While the 
+internet itself has a global reach, this rapid expansion in 
+data centers has not been evenly distributed, but instead 
+highly concentrated, causing a significant increase in local 
+electricity demand . Given the urgent need to transition 
+away from fossil fuels as rapidly as possible to combat the 
+most extreme consequences of climate change, the source 
+of electricity deployed by the local utility in these data 
+center hotspots takes on global significance .
+Since 2010, Greenpeace has regularly documented the 
+rising global energy footprint of data centers, challenging 
+and benchmarking whether global internet platforms and 
+major data center operators power their operations in a 
+way that accelerates the transition to renewable energy 
+or instead fuels climate change by increasing the demand 
+for coal, gas and oil . During this time, more than 20 of the 
+largest internet companies including Facebook, Google and 
+Apple have established public commitments to power their 
+digital infrastructure with 100 percent renewable electricity, 
+which has already resulted in the deployment of more than 
+10 gigawatts of renewable energy in the U  .S . and abroad .  
+Because of the desirability as a customer to electric utilities, 
+these commitments have also caused many local utilities to 
+significantly shift their investment to renewable electricity 
+generation in order to meet the needs of existing data  
+center customers or remain competitive for attracting  
+new investment  .The Greenpeace Airship A.E. Bates flies over Silicon Valley in 2014 with a banner asking 
+“Who’s The Next To Go Green?”
+As top climate scientists have warned, we must rapidly 
+phase out fossil fuels and transition electricity generation 
+to renewable sources during the next 12 years to stay 
+below the maximum 1 .5 degrees Celsius of total warming 
+permitted to avoid further catastrophic impacts . With 
+the tremendous amount of energy needed to power data 
+centers and their rapid growth, how we power this digital 
+infrastructure is rapidly becoming critical in determining 
+whether we will be able to stave off climate change in time 
+to avoid planetary catastrophe .
+Despite significant new investment in renewable generation 
+by utilities in other data center hot spots such as Iowa, the 
+dramatic expansion of Virginia’s Data Center Alley continues 
+to fuel and increase demand in coal and natural gas . At 
+present, power generation in Virginia is dominated by fossil 
+fuels, with less than 5 percent coming from renewable 
+sources, lagging far behind other regions . Dominion Energy, 
+Virginia’s largest electricity provider and the primary electric 
+utility for Data Center Alley, has strongly resisted any 
+meaningful transition to renewable sources of electricity, 
+currently representing only 4 percent of its current 
+generation mix, with plans to increase to only slightly over 
+10 percent by 2030 . [1]
+Data centers have become a central piece of Dominion’s 
+growth strategy in Virginia, in two main aspects:
+1 . Growing Electricity Demand: While electricity demand 
+for utilities is flat or declining, electricity demand from 
+data centers in Virginia has grown sharply, between 9 and 
+11 percent each year, offsetting declines elsewhere, with 
+data center demand regularly touted by Dominion to its 
+investors as a sign of continued growth .  
+
+
+CLICKING CLEAN VIRGINIA  | 4
+2 . Justification for new fossil fuel investment: Even though 
+five out of Dominion’s largest 20 customers[2] are data 
+center companies that have committed to becoming 100 
+percent renewable, Dominion continues to dramatically 
+expanded its reliance on fracked gas as it retires older  
+coal plants, rather than transition to renewables .
+In fact, Dominion has used rising data center demand to 
+justify significant new investments in natural gas supply and 
+generation capacity, most notably the $7-billion Atlantic 
+Coast Pipeline (ACP), which will deliver fracked gas into 
+Virginia and North Carolina . If allowed to go forward, the 
+ACP will further lock Virginia into a reliance on fracked gas, 
+taking it in the opposite direction from where its emissions 
+need to be to support a carbon pollution pathway in line 
+with the 1 .5 degrees of warming .
+Amazon Web Services Disconnects 
+from 100 Percent Renewable
+Dominion’s lack of renewable energy supply and insistence 
+on making significant new investments in fossil fuels will 
+both delay Virginia’s transition to cleaner sources of energy, 
+and make it much more costly to do so  . Yet many of the largest data center companies with commitments to 100 
+percent renewable energy have continued to rapidly expand 
+their presence in Virginia, thus fueling even more demand 
+for dirty electricity, with Amazon Web Services the biggest 
+culprit  . Amazon Web Services (AWS) already ranked as one 
+of Dominion Energy’s largest electricity customers when it 
+made its commitment to 100 percent renewable energy in 
+late 2014, and Greenpeace‘s analysis shows AWS has tripled 
+its data center operations in Virginia since that time . Even 
+though AWS did add a sizable amount of renewable energy 
+locally from 2015 to 2016, its dramatic growth in Virginia 
+during this period continued to far exceed the additional 
+electricity supply from its renewable projects .
+Since 2017, AWS appears to have turned its back on its 100 
+percent renewable commitment, increasing its already 
+massive operations in Virginia by 59 percent, without any 
+additional renewable energy supply  . In fact, due both to its 
+dominant market share among cloud computing platforms 
+and the concentration of roughly half of its facilities in 
+Virginia, AWS itself is an unknowing silent partner in 
+Dominion’s growth strategy, due to the gravitational effect 
+created among other data center operators who want to 
+tout to their customers a direct connection to AWS’s  
+massive Virginia operations .
+Dirty Data or Clicking Clean—  
+Who is Closing the Di rty Energy Gap in Virginia?
+VantageRagingWir eQTSIron Mount ainEquinixDigit al Re altyCyrusOneCore SiteCloudHQSalesfor ceMicroso/f_tGoogleFacebookAppleAWS
+0 100 200 300 400 500
+15001700 1600Renewable Projects Data Cent er Cap acity
+megawatt s
+
+CLICKING CLEAN VIRGINIA  | 5
+Of the 13 companies in this report that operate their own 
+data centers in Virginia, only Facebook and Microsoft have 
+shown some success in securing a significant supply of 
+renewable energy in Virginia . If Amazon and other internet 
+companies continue their rapid expansion of data centers 
+in Virginia, but allow Dominion to continue with its strategy 
+to use rising data center demand to justify significant 
+new investment in fossil fuel infrastructure, they will be 
+responsible for driving a massive new investment in fossil 
+fuels that the planet cannot afford .
+The rapid growth in energy demand from the IT sector in 
+Virginia is occurring at the exact same time that we need 
+to be urgently transitioning global energy consumption 
+to renewables . Without intervention from data center 
+operators in Virginia, the internet will continue to drive 
+carbon emissions with every click, swipe and share .
+Key Findings:
+||Electricity demand from data centers in Virginia continues 
+to grow at a dramatic rate, with the total power demand 
+of existing data centers and those under development 
+approaching 4 .5 gigawatts, or roughly the same power 
+output as nine large (500-megawatt) coal power plants .
+||Amazon Web Services (AWS), who has built the core of its 
+global infrastructure in Virginia, is by far the biggest driver 
+of this growth, with 1 .7 gigawatts of power demand across 
+55 Virginia data centers operating or under construction, 
+representing an increase of nearly 60% in the past two 
+years alone .
+||Tech giants like Amazon have made promises to power 
+their data centers with renewable energy, but a closer look 
+into the heart of the internet reveals their rapid growth is 
+driving more investment in fossil fuels .
+||Dominion Energy is using the rapid data center growth in 
+Virginia from Amazon and other tech giants as an excuse 
+to build more fossil fuel infrastructure — like the Atlantic 
+Coast Pipeline — locking both major IT brands and the 
+Commonwealth of Virginia into more fossil fuels when  
+both should be rapidly transitioning to 100 percent 
+renewable energy  .
+||Having added over 600 megawatts of additional data 
+center capacity in Virginia and zero additional renewable 
+energy supply in the past two years, AWS no longer 
+appears to be honoring its commitment to  
+100 percent renewables .||Despite 100% renewable commitments that have had 
+significant impact in driving renewables in other markets, 
+Virginia is an important reminder that utilities will only 
+begin to scale up renewable generation when large 
+customers seriously pursue their commitments — either by 
+pushing for stronger renewable energy policies locally or 
+by choosing to site facilities only in places with high levels 
+of renewables .
+||IT giants who are serious about putting their operations 
+on a pathway to avoid dangerous climate change must 
+use their influence to change the rules that govern energy 
+investments of incumbent utilities like Dominion to drive 
+a rapid transition away from fossil fuels to renewable 
+sources of electricity  .
+
+CLICKING CLEAN VIRGINIA  | 6
+Company Scorecard
+Compan yVirginia Powe r 
+Demand (MW)Virginia Renewa ble 
+Supply (M W)Virginia Renewa ble 
+Energy
+1686 132 12%
+271 84 34%
+205 70 37%
+77 04 %
+46 20 44%
+21 29 100%
+467 04 %
+462 04 %
+431 04 %
+179 04 %
+170 04 %
+132 04 %
+116 04 %
+100 04 %
+78 8 14%Internet & Cloud Pl atforms Coloca tion Com paniesComp any Scorecar d
+
+CLICKING CLEAN VIRGINIA  | 7
+The internet has rapidly spread across the globe over the 
+last 20 years, now appearing on demand via smartphones, 
+tablets and laptops wherever in the world it is needed . If you 
+were looking for the beating heart of the global internet that 
+powers our lives, Dulles International Airport, just outside of 
+Washington, D .C ., provides a clear marker of the epicenter of 
+the physical internet  . Fanning out from the airport in almost 
+all directions across converted farmland that once marked 
+the earliest battles of the U  .S . Civil War is the world’s largest 
+concentration of data centers: massive, nondescript buildings 
+filled with computing equipment that serve as the factories 
+of the digital economy  . Between Loudoun, Fairfax and Prince 
+William counties, Northern Virginia is home to more than 100 
+data centers and more than 10 million square feet of data 
+center space .[4] Loudoun county alone claims it handles as 
+much as 70 percent of the world’s internet traffic on a  
+daily basis .[5]
+Telecommunications infrastructure facilitating rapid data 
+delivery, available land and cheap electricity developed 
+northern Virginia into the digital epicenter it is today  . While 
+the recent growth in larger data centers can be partially 
+attributed to tax incentives offered by the state of Virginia, the 
+presence of the largest piece of AWS’s global infrastructure 
+is itself creating a gravitational effect on other major data 
+center operators, who want to be able to market their 
+operations as having a direct connect to AWS . The recent 
+arrival of new high speed subsea data connections to Europe 
+and Africa from Virginia Beach is now attracting major  
+new data center investment in Henrico as well as in  
+southeast Virginia .[6]
+Northern Virginia represents that heart of the physical internet. It’s now home to more than 
+100 large data centers like this one in Ashburn, Virginia.Major data centers in Virginia fall into four prominent categories:
+1 . Dedicated facilities that power internet platforms such as 
+Facebook or Google .
+2 . Cloud computing data centers that sell computing power 
+and storage (e .g . AWS, Google, Microsoft) to a range of 
+customers large and small .
+3 . Colocation data centers: operated by digital “landlords” 
+(e .g . Digital Realty, Equinix, RagingWire) that lease out 
+large pieces of data center space to host the servers for 
+other IT companies such as Apple, Salesforce and Uber,  
+as well as smaller pieces to non-IT companies .
+4 . Government data centers .
+Not only is the data center market in Virginia the largest in  
+the world, but it’s also growing faster than any other region .  
+In the first half of 2018, new multi-tenant colocation data 
+center construction in Virginia was greater than construction 
+in the next four largest areas combined, according to 
+commercial realtor Jones Lang LaSalle (JLL) . In total, 
+JLL estimates 645 additional megawatts of planned or 
+under-construction colocation capacity in the next year  .
+[7] Dominion Energy has estimated its energy sales to data 
+center customers to grow roughly 10 percent a year through 
+2021, adding a predicted 2 .4 terawatt hours of demand .[8] 
+Not including government data centers, we estimate the 
+potential electricity demand of both existing data centers and 
+those under development in Virginia to be approaching 4 .5 
+gigawatts, or roughly the same power output as nine large 
+(500-megawatt) coal power plants .Data Center Alley: Where the 
+Cloud Touches the Ground
+
+
+CLICKING CLEAN VIRGINIA  | 8
+This explosive growth of data centers and the source of 
+energy that powers them is a critical question in whether 
+we will be able to transition to renewable energy in time to 
+avoid the worst impacts of climate change . Storing, moving, 
+processing and analyzing data all require energy, as does the 
+cooling of the buildings so the heat-generating servers don’t 
+overheat  . Even with energy efficiency efforts, if coal and other 
+fossil fuels are used to power data centers, their continued 
+dramatic growth produce a significant increase CO2 .
+In 2016, Virginia generated less than 2 percent of its energy 
+from renewable sources,[9] while the rest came from gas (49 
+percent), coal (12 percent) and other non-renewable sources .
+[10] Virginia electric utilities, including Dominion Power, and 
+other smaller electricity co-ops including Northern Virginia 
+Electric Cooperative (NOVEC) and Rappahannock Electric 
+Cooperative, offer renewables as a very limited part of  
+their energy mix  .
+Virginia is primarily a regulated electricity market, which 
+means customers have limited choice in what type of 
+energy they purchase and from whom they purchase . With 
+only limited exceptions, the energy mix of residential and commercial customers, including data centers, will match the 
+energy mix of their local utility  . This means that the majority 
+of rising electricity demand needed to power data centers 
+in Virginia is driving even more demand for fossil fuels, and 
+more CO2 emissions that are fueling global warming .
+The world’s top climate scientists recently warned that 
+global temperatures must be kept to a total increase 1 .5C or 
+lower in order to prevent extreme climate change impacts 
+from occurring, requiring a halving of global emissions by 
+2030 to stay within this threshold . For Virginia to reduce its 
+greenhouse gas emissions in line with this scientific mandate, 
+it’s essential for its grid to rapidly decarbonize in the next 
+decade . However, the 15-year pathway laid out by Dominion 
+Energy in its latest integrated resources plan (IRP) is pointing 
+Virginia in the opposite direction . The charts on the following 
+page highlight the disconnect between the pathway being put 
+forward by Dominion that dramatically increases the state’s 
+reliance on natural gas, and the rapid transition to renewable 
+energy that global climate models say must occur to stay 
+within 1 .5 degrees .How Dirty is Your Data?
+A Data Center construction project in Ashburn, Virginia. Most of the data centers in Northern Virginia rely on Dominion Energy for electricity, which is only 4% renewable.
+
+CLICKING CLEAN VIRGINIA  | 9
+Wrong Direction
+Dominion ’s Gas Pa thway vs. 1.5ºC Sc enario s
+Dominion Virginia 
+Gas Pathway (IRP)
+1.5ºC Gas Pa thway 
+(Glob al)Percentage of Electricity from Na tural Gas
+Project ed share of electricity from na tural g as in Dominion' s 2018 Int egr ated 
+Resour ce Plan c omp ared with glob al sc enarios c onsis tent with 1.5°C (Share of natural 
+gas without use of CC S) Calculations based on MESSA GE & AIM-C GE models.  Sourc e: Int egrat ed Assessment 
+Modeling Consortium & Int ernational Institut e for Applied Syst ems Analysis, 2018. Estimat es of Dominion gas 
+usage 2030-2050 (dashed line) based on st eady reduction ra te in natural gas use project ed from 2020-2030.Year2015 2020 2040 2050 20300%10%20%30%40%50%60%
+0%30%20%30%40%50%80%
+20%
+10%
+Year1.5ºC Renewable  
+Pathway (Glob al)
+Dominion Virginia  
+RE %
+Project ed share of electricity from renewable sourc es in Dominion' s 2018 
+Integrated Resourc e Plan c omp ared with glob al sc enarios c onsis tent with 1.5°C  
+Calcula tions based on MES SAGE models. Sour ce: Inte grat ed Assessment Modeling Consortium 
+& Int ernational Institut e for Applied Syst ems Analysis, 2018Lagging Behind
+Dominion ’s Renewable Plan vs. 1.5ºC Sc enario sPercentage of Electricity from 
+Renewable Sour ces
+2015 2020 2040 2030
+
+CLICKING CLEAN VIRGINIA  | 10
+Since 2012, more than 20 major tech companies have 
+committed to power their global operations with renewable 
+energy  . Acting on these commitments, the tech sector has 
+collectively already added 10 gigawatts of renewable energy 
+to the grid globally since 2010 .[11] However, very little of this 
+progress is happening in Virginia where most of the data 
+center electricity is produced . Companies with 100 percent 
+RE commitments find when they break ground in Virginia that 
+their options for RE are very limited . As Virginia is primarily a 
+regulated energy market, data centers have few options for 
+buying a renewable supply of energy if not offered by the  
+local utility  .
+Some companies work around this by purchasing excess 
+renewables from other regions where it’s relatively abundant 
+or by simply purchasing renewable energy credits (RECs) . 
+However, neither of these options improves the energy mix of 
+Virginia or influences future direction and is therefore not ideal 
+for those companies concerned with meaningfully reducing 
+their operational carbon emissions . Of the 15 companies 
+measured in this report, only Apple has invested in enough 
+renewable energy procurement to match its demand in the 
+region . Facebook and Microsoft have also shown notable 
+efforts in deploying increasing amounts of local renewables as 
+they scale up operations in Virginia . The remaining companies 
+have energy demand that either far outstrips their supply of 
+renewables(Amazon, for example) or have not deployed any 
+local renewables at all (most of the colocation companies) . Building A Clean(er) Cloud
+“Data Centers in Virginia” Legend  
+(chart on the following page):
+ 
+— This company was not included in Greenpeace’s  
+     2017 Clicking Clean analysis
+X This company does not have a commitment to use    
+    100 percent renewable energy
+Note on Virginia Renewable Energy Percent: In 
+addition to giving companies credit for their renewable 
+energy projects in Virginia, we gave each company 
+an additional 4 percent renewable energy to reflect 
+residual renewable supply from Dominion’s grid mix. A 
+limited number of the facilities in this report fall outside 
+of Dominion’s territory, e.g. in NOVEC’s territory where 
+residual renewable supply is only 0.05 percent, however, 
+we have applied 4 percent across the board given that 
+current service area maps and information on smaller 
+coops’ grid mixes are not readily available to the public. 
+For more information see Methodology section.
+
+CLICKING CLEAN VIRGINIA  | 11
+Compan yVirginia  
+Powe r 
+Demand  
+(MW)Capacity  
+added sinc e 
+2017 Clic k 
+Clean (M W)Electricit y 
+from  
+Renewa bles  
+(MW)Virginia  
+Renewa ble 
+Energy  
+Percent
+1686 626 132 No de adline 12%
+21 12.5 29 2014 100%
+205 170 70 2020 37%
+77 77 0 2016 4%
+271 121 84 50% by 2018 34%
+46 44 20 2022 44%
+462 —0 X4 %
+100 —0 X4 %
+132 —0 X4 %
+467 322 0 No de adline 4%
+179 82 0 No de adline 4%
+78 —8 2050 14%
+431 —0 X4 %
+116 —0RE c ommit for 
+California only4%
+170 —0 X4 %Deadline  
+for 100% RE  
+CommitmentInternet & Cloud Pl atforms Coloca tion Comp aniesData Centers in Virginia  
+and their Renewable Energy Commitment s
+
+CLICKING CLEAN VIRGINIA  | 12
+Dominion Energy, Inc ., is one of the largest producers and 
+transporters of energy in the U  .S ., providing electricity to 
+some 7 .5 million homes and businesses in numerous eastern 
+states and elsewhere . In Virginia, Dominion serves 2 .5 million 
+customers, or roughly two-thirds of the state, and operates 13 
+gas power stations and 6 coal plants,[12] with only a 4 percent 
+supply of renewable energy  .[13] In recent years, Dominion has 
+been increasingly investing in gas generation, evidenced by 
+the shift in energy production in the Commonwealth from 7 
+million megawatt hours in 2006 to 40 million in 2016 .[14]
+Recruiting data centers to Virginia has become a central pillar 
+of Dominion’s long-term strategy to drive growth in electricity 
+sales, with progress regularly reported to its investors .
+[15] While most of Dominion’s other customer segments 
+show gradually declining demand due to improvements in 
+energy efficiency, the 9 to 12 percent annual growth rates in 
+electricity consumption from data centers offset this decline 
+and allow Dominion to continue to report increased sales to 
+its investors .Pipeline construction to support gas drilling operations in the Marcellus Shale region.
+Dominion has in turn used the rapidly growing electricity 
+demand from data centers in Virginia as a central justification 
+for the construction of a $7-billion new fracked gas pipeline . 
+(See section on Atlantic Coast Pipeline .) Dominion is 
+depending on the guaranteed rate of return for Atlantic Coast 
+Pipeline (ACP) as an important new revenue driver for the 
+company in 2019 and beyond,[16] as it expects to pass the 
+costs of its construction on to ratepayers over the next  
+20 years .
+But if the ACP is allowed to be completed, Dominion will  
+have been successful in using demand from data centers 
+to lock both data center companies and other Virginians 
+into a long-term reliance on fracked natural gas at the exact 
+moment we need to be urgently transitioning our electricity 
+grid to renewables . Dominion’s projected demand for the 
+pipeline ignores the fact that six of its 20 largest customers, 
+five of which are data center operators, have made 
+commitments to run on 100 percent renewable energy  .[17]  
+Yet in its 2018 Integrated Resources Plan (IRP), Dominion lays 
+out several plans for meeting Virginia’s energy needs, all of 
+which keep Virginia primarily powered by dirty sources of 
+electricity for years to come .Dominion Energy:  
+Making Your Data Dirty
+Dominion ’s Energy Mix
+RenewableGas
+CoalNucle ar
+4%
+Other 4%33%
+26%33%Dominion ’s Energy Mix
+
+CLICKING CLEAN VIRGINIA  | 13
+The Atlantic Coast Pipeline (ACP) is a proposed interstate 
+natural gas pipeline that would transport Marcellus-Utica 
+shale gas from West Virginia 600 miles through Virginia and 
+North Carolina . The pipeline would also include three new 
+gas compressor stations in Lewis County, West Virginia; 
+Buckingham County, Virginia; and Northampton County, 
+North Carolina .
+Dominion’s preferred route crosses national forests and 
+parks, including the Appalachian Trail, and passes by private 
+residences, putting all of these areas at risk of potential  
+gas leaks and spills . In addition, compressor stations are  
+known to emit air pollutants that are harmful or toxic to  
+human health .[18]
+Despite frequent claims by Dominion touting natural gas as 
+a necessary “clean” and “low-carbon” alternative to coal,[19] 
+recent scientific studies have shown that once the significant 
+methane emissions that typically occur during the extraction, 
+production and delivery of fracked natural gas are taken 
+into account, the greenhouse gas emissions associated with 
+electricity generation from fracked natural gas are actually 
+quite similar to those from coal .[20] In fact, independent 
+analysis of the ACP has estimated the pipeline will emit 
+67,591,816 metric tons of greenhouse gasses annually, or roughly the same as 20 coal plants or 14 million passenger 
+vehicles .[21] In order to put Virginia on an emissions pathway 
+to avoid the most dire impacts of climate change, the most 
+recent studies by climate scientists show that not only must 
+we phase out coal within the next ten years, but we must 
+rapidly transition away from fracked gas as well .
+Downstream Data Center Demand
+Led by AWS’s dramatic expansion (see below), rising data 
+center demand in Virginia has been used by Dominion to 
+justify why the ACP is needed in Virginia, but Duke Energy in 
+neighboring North Carolina is the next biggest investor in the 
+ACP , and North Carolina is a hotbed of data center investment 
+by internet giants such as Facebook, Apple and Google . While 
+all five companies have a 100 percent renewable energy 
+commitment, only Apple has had success matching a majority 
+of its demand with a renewable supply of energy  . For the 
+other tech giants, the majority of the demand is continuing  
+to fuel demand for fracked natural gas in the region .New Climate Threat:  
+The Atlantic Coast Pipeline
+Imp acts of the Atlantic 
+Coast Pipeline (ACP)
+North CarolinaVirginiaWes t 
+Virginia
+Stat es imp acted: Wes t Virginia, Virginia, 
+North Carolina
+Cost: $7 billion and growing
+Length: 600 miles
+Ownership:  Dominion Resourc es (48%) 
+Duk e Ener gy (47%) 
+Southern Comp any (5%)
+GHG Emissions: 67,591,816 metric t ons,
+or 20 co al plant s RichmondData Cent er
+AlleyLewis County
+Compressor
+Buckingham
+County Compressor
+Northhamp ton 
+County Compressor
+Proposed ACP Rout eMarc ellus
+Shale
+
+CLICKING CLEAN VIRGINIA  | 14
+An aerial view of the Google data center in Lenoir, NC. This campus consists of two buildings housing data servers.Combined Da ta 
+Center Capacity , 
+Virginia and No rth 
+Carolina (M W)Actual Renewa ble 
+Supply Adde d 
+(MW)Combined  
+Renewa ble Ga p 
+across Regio n 
+(MW)
+102 75 27
+1686 132 1554
+275 70 205
+161 13 148
+271 84 187
+How Clean Is Your Cloud?  
+Renewables Gap across ACP Region
+
+
+CLICKING CLEAN VIRGINIA  | 15
+Amazon Web Services, the largest cloud company in the world, 
+has made Virginia the center of its global operations, and 
+most recently, the site of Amazon’s second U  .S . headquarters .  
+This combination and the sheer size of its energy footprint 
+gives Amazon an outsized role to play in determining whether 
+Virginia will put itself on the path to transition to renewable 
+sources of energy in time to address climate change . Amazon 
+currently has 55 data centers across 17 campuses in Virginia, 
+with more expansion planned .[22] The company is by far one of 
+the state’s largest consumers of electricity  .[23]
+Is AWS Breaking its 100 Percent 
+Renewable Commitment?
+Facing growing pressure from customers and strong renewable 
+leadership by competitors, AWS started to make a significant 
+shift to renewables, committing in November 2014 to use 100 
+percent renewable for its global operations . AWS embarked on 
+a rapid expansion in its supply of renewable energy in Virginia 
+in 2015 and 2016, including the first deal for wind energy and 
+some of the largest deals for solar at the time . Amazon also 
+worked with Dominion to create a new rate program to reduce 
+the financial risk for companies signing contracts for renewable 
+energy  . (See market-based rate below  .)
+However, unlike other IT leaders such as Apple, Google 
+and Facebook that adopted 100 percent renewable energy 
+commitments, Amazon has remained notoriously opaque 
+when it comes to publicly reporting information about its 
+current energy use and how fast it is growing, making it difficult 
+to assess whether its large contracts for renewable energy were 
+even keeping up with its rapidly growing data center demand 
+in Virginia .
+As highlighted in our last analysis of Amazon’s data center 
+demand in Virginia, Amazon’s dramatic growth continued to 
+far outstrip its otherwise significant contracts for renewable 
+energy  .[24] While Google, Microsoft and other IT companies with 
+renewable commitments have struggled early on to keep up 
+with rapid growth, Amazon appears to have gone the opposite 
+direction . Though the company continues to chronicle its 
+solar and wind projects on its website, Amazon has not signed 
+any new contracts since November 2016[25] and has in fact 
+withdrawn from a previously announced contract for a large 
+new wind farm in Ohio  .[26]While AWS has signed contracts for six solar projects in Virginia, 
+which along with its 72-megawatt Desert Wind project in 
+nearby North Carolina deliver a total of 132 megawatts of 
+renewable energy to the Dominion grid,[27] Amazon has added 
+23 new data centers since 2017, representing an additional 
+626 megawatts of demand, with no additional renewable 
+projects added . If Amazon were to operate its existing and 
+planned Virginia-based data centers at full capacity 24/7, it 
+could consume as much electricity annually as 1 .4 million US 
+homes,[28] or more than the number of households in Chicago  .[29]
+In addition to AWS’s massive operations, Amazon is rapidly 
+expanding elsewhere in Virginia, with the company’s 
+recent annouwncement of locating “HQ2” in Arlington and 
+Alexandria — or “National Landing, ” as dubbed in the region’s 
+bid . Over the next 10 years, Amazon expects to hire 25,000 
+people to work in National Landing and the company has 
+already leased three office buildings and purchased two large 
+plots of land .[30] Despite the breadth of Amazon’s properties, 
+from its data centers, to its headquarters, to its global fleet of 
+trucks, planes, and delivery vans–the company refuses to report 
+even the most basic data on its emissions or the contribution to 
+climate change of its operations .[31]
+Greener Options for Amazon Customers
+For the more than one million companies, universities, 
+government agencies and NGOs that rely on AWS data centers to 
+power key pieces of their digital platforms, it may seem daunting 
+to influence such a massive company  . However, Amazon prides 
+itself on being a customer-focused company, and customer 
+pressure in the past is a big reason why it adopted a 100 percent 
+renewable commitment  . AWS customers should demand 
+greater energy transparency and that AWS follow through on its 
+commitment, as New/Mode recently did .[32] AWS customers 
+seeking to immediately reduce carbon emissions related to their 
+cloud hosting could request to be hosted in Amazon’s California 
+cloud, which is connected to a grid that is 50[33] to 70[34] 
+percent powered by clean sources of electricity  . Companies 
+ready to break up with AWS, for its own broken commitment 
+to renewables, can shift to a cloud service provider actively 
+pursuing its renewable commitment, such as Google’s Compute 
+platform or Microsoft’s Azure, and ask for details on which 
+portion of their cloud has a renewable supply of electricity  .Amazon Web Services – 
+Virginia’s Dirty Cloud
+
+CLICKING CLEAN VIRGINIA  | 16
+Users of the internet platforms that rely on AWS also have a 
+role to play in holding AWS to its commitment, which is to say, 
+almost anyone who uses the internet since such popular sites 
+as Netflix, Hulu, Slack, Pinterest, AirBnB, Yelp, Zillow, Expedia, 
+instacart, DuoLingo, Soundcloud, the Weather Company 
+and many more rely heavily or entirely on AWS,[35] but may 
+not be aware of the climate impacts of their hosting partner  . 
+Finally, Amazon Prime members, while not direct customers 
+of AWS, can raise their voices as well to demand Amazon’s 
+most energy-intensive subsidiary not give up on its renewable 
+energy commitment  . How Amazon powers its cloud has a 
+significant impact on carbon emissions and climate change, 
+which will impact everyone .
+During a 2015 Amazon Web Services summit in Stockholm, Greenpeace Sweden 
+asked AWS customers to demand the company “clean its cloud” .2014
+Amazon is no t acting fast enough 
+to fight climate chang e Now: AWS oper ations in Virginia
+are just 12% renewableBut has added ZERO me gawatts 
+in renewable energySinc e 2017, AWS has built 23 new da ta
+cent ers in Virginia, totalling 626 me gawatt sIn 2015 & 2016, AWS added 132 me gawatts 
+of renewable energy  in VirginiaIn 2014, Amazon c ommit ted to use 100%
+renewable energ y to power its clou dAmazon Web Ser vices (AWS) has more 
+data cent ers in Virginia , the world’ s lar gest 
+data center hub, than any o ther c omp anyIs Amazon Breaking its 
+Renewa ble Energy Commitment?
+
+
+CLICKING CLEAN VIRGINIA  | 17
+Whether they are seeking to or not, data center companies 
+in Virginia are already charting the state’s energy future 
+with each new facility  . Rather than allowing utilities like 
+Dominion to use their tremendous growth to drive more dirty 
+energy investments that are taking the state in the wrong 
+direction, data center companies must become proactive 
+both in driving the deployment of renewables directly, and 
+also in supporting a rapid shift in state policy to support the 
+aggressive deployment of renewable energy  .
+Electric utilities in Virginia are given effective monopolies 
+over the customers in their service territory, significantly 
+limiting or removing any customer choice over the source of 
+electricity powering their operations once they choose their 
+location, and thus their utility  . Like many other monopoly 
+utilities, Dominion has moved very slowly to increase the 
+amount of renewable energy it is offering, and what it has 
+offered was done at a significant premium,[36] despite the 
+rapidly declining cost of renewables .
+However, there are important exceptions and other 
+opportunities outside of the monopoly utilities to purchase 
+renewable energy, as well as some emerging new pathways 
+being offered by Dominion created in response to pressure 
+from data center and other large corporate customers with 
+operations in Virginia .
+Non-Utility Solutions
+Switching Utilities for 100 Percent 
+Renewable Energy
+Virginia state law allows customers to opt out of their 
+monopoly utility service under two important exceptions: (1) 
+to purchase 100 percent renewable energy if their local utility 
+does not offer a 100 percent renewable energy service[37] (2) 
+Large customers (5 megawatts or larger) are also given the 
+option to leave their local service, with the restriction that 
+they would have to give a five-year notice before they could 
+return, which has served as a strong disincentive for most 
+companies .[38] However, a recent decision by the Virginia 
+Supreme Court clarified that the 100 percent renewable 
+exception was available to large customers as well,[39]  
+creating an important new option for data center operators .
+ Without further changes to the law, the 100 percent 
+renewable pathway for data centers could again be limited 
+if state regulators approve a 100 percent renewable service 
+by the local utility, as data centers and other large customers 
+would be required to again adhere to the five-year notice of 
+return requirement  . Appalachian Power Company (APCO) 
+recently had its 100 percent renewable service approved, 
+and Dominion has indicated it will soon resubmit its own 
+proposal, after having previous versions rejected .[40]
+Virtual Power Purchase Agreements
+In monopoly utility markets that have poor options for 
+purchasing renewables directly, virtual or “synthetic” power 
+purchase agreements (PPAs) allow companies to sign a long-
+term contract with renewable energy developers, but do not 
+require the actual delivery of electricity to the buyer  . Instead, 
+the electricity is resold to the open market, with the buyer 
+keeping any underlying RECs, which must then be retired . 
+(See REC arbitrage, below  .) If a company executes a virtual 
+PPA (VPPA) in the same electricity market in which it operates 
+a data center, then a VPPA can help add renewable energy 
+and potentially displace demand for dirty energy on the same 
+grid they have demand . VPPAs can provide the buyer an 
+effective hedge against rising electricity rates from higher fuel 
+costs, securing local RECs at a much lower price than if the 
+project was contracted through a utility tariff  . However, this 
+also creates market risk if wholesale electricity prices decline 
+below the contract price of the PPA . VPPAs have played an 
+important role in cracking open difficult utility markets, 
+helping back down the utilization of dirty energy generation 
+on the grid . They create an indirect impact on shifting local 
+utility investment plans away from fossil fuels, as they will not 
+be incorporated by the local utility as a system resource .Charting a Renewable Path 
+for Virginia
+
+CLICKING CLEAN VIRGINIA  | 18
+Renewa ble Option Pros Cons Tech Compan y 
+Examples in VA
+100% Renewa ble 
+Competitiv e  
+Service Provider•  Potential t o secur e 
+100% direc t PPA with 
+provider without  
+premium pric e
+•  Incre ases pressur e  
+on monopoly utilities   
+to improve oﬀering s•  Market res trictions &   
+regulato ry uncertainty  
+limiting al ternative 
+supplier s
+•  Under current law , 
+option elimina ted if 
+100% ser vice oﬀering  
+by Dominion approvedNone
+Large Cust omer  
+(5MW ) Competitiv e 
+Supplier•  Potential t o secur e 
+100% direc t PPA with 
+provider without  
+premium pric e•  Requires five-ye ar 
+notice of return
+•  Timing res trictions  
+make option 
+impractical for man y 
+customer sNone
+Schedule RG •  Open t o bo th new &  
+existing cus tomer s
+•  Bundled REC/Ener gy 
+produc t, with mar ket 
+reward for ener gy & 
+capacity provided•  Addition t o underlying  
+billNone (New Progr am)
+Schedule RF •  Drives additional RE  
+projec t in Virginia
+•  System resourc e=Direc t 
+impact on V A mix• New cus tomers only
+• Lower additionalit y
+•  Does no t support  
+coloc ation da ta centers
+•  Built in pric e premium,  
+regardless of market  
+benefi tFacebook
+Virtual PP As •  Lower-cost means 
+of driving new local  
+proje cts
+•  Potential hedg e on 
+rising electricity c osts•  Only indirect im pact  
+on local utilit y
+•  Risk from exposur e  
+to mark etDigit al Realty, 
+Microso/f_t Salesfor ce, 
+Apple
+Market Based Ra te 
+(MBR )•  Could enable mor e 
+proje cts due t o reduc ed 
+mark et risk w/VPP As• 200MW progr am limit
+•  Does no t requir e 
+rene wable c ontactAWS, Microso/f_t
+REC Arbitrage  
+(via VP PA)•  Higher im pact than 
+unbundled RECs if ne w 
+projec t is enabled• No additionalit y
+•  Subsidizes utilities in  
+meeting regula tory 
+oblig ationsAWS
+Unbundled RECs •  Revenue insuﬀicient  
+to drive additional  
+projec ts 
+• No additionalit yOracleHigh im pact No imp actSolutions for Driving Renewable Growth in Virginia
+
+CLICKING CLEAN VIRGINIA  | 19
+Unbundled RECs and REC Arbitrage
+The rapid deployment of renewable energy and the 
+stagnation of mandatory renewable energy targets in many 
+states has created a large surplus of “naked” or unbundled 
+renewable credits available at the national level for purchase 
+by the voluntary market, driving their price to record lows, 
+less than $1/megawatt hour  . The minimal revenue generated 
+from the sale of these credits does little to enable additional 
+renewable energy projects or displace demand for dirty 
+sources of electricity  . REC arbitrage is a related lower impact 
+strategy, which typically involves a PPA with a local renewable 
+project, but whose RECs may be much more expensive 
+due to higher demand from compliance obligations . Some 
+developers will offer to sell the more expensive RECs from 
+the project and “arbitrage” these credits by selling them and 
+buying replacement RECs from a much cheaper national pool . 
+While these credits can be used to “count” by corporations 
+under current reporting standards, most IT brands have 
+focused on higher impact strategies to purchase renewable 
+energy on a bundled basis in the same region where they 
+have operations .
+Dominion Utility Renewable Offerings
+In response to pressure from large corporate customers 
+who have the option to leave Dominion service, Dominion 
+has slowly evolved and added to its renewable energy 
+products, but has consistently sought to keep them limited 
+by restricting access, limiting size and adding a significant 
+price premium, despite the rapidly falling cost of renewable 
+sources of electricity:
+Schedule RG:  After an earlier pilot version did not receive any 
+customers,[41] regulators recently approved a revised version 
+of Dominion’s Renewable Generation Supply Service that 
+holds greater promise (Schedule RG),[42] providing a bundled 
+renewable energy supply and RECs . Customers with contracts 
+1-megawatt or larger purchase up to a 100 percent renewable 
+energy supply from Dominion that is either (i) under contract 
+via third-party suppliers or (ii) constructed on the customer’s 
+behalf by Dominion . Projects must either be in Virginia 
+or within the P JM interconnection region . Charges under 
+Schedule RG are in addition to their existing supply contract, 
+but do allow customers to receive the financial benefit of the 
+energy and capacity the projects are providing to the market
+Schedule RF:  The Renewable Facility tariff (Schedule RF) 
+was initially created in response to the desire by Facebook 
+to secure a supply of additional renewable energy to 
+meet a new data center being considered near Richmond .
+[43] Schedule RF is a voluntary program that allows new 
+customers who are adding significant[44] electricity demand 
+to support the development of specific new renewable energy projects by signing a long-term contract to purchase 
+the RECs associated with a new renewable project that are 
+either built by Dominion or secured through third-party 
+contracts . While customers get a guaranteed price for a REC 
+purchase, they do not receive any other market benefits from 
+these projects . In addition to their existing power supply 
+contract, customers enter into long-term contracts to take the 
+renewable energy credits (RECs) these new projects generate . 
+Dominion ratepayers pay for and receive the electricity 
+generated, treating it as part of its overall supply for Virginia, 
+displacing the need for additional fossil generation due to the 
+customers’ growth .
+Schedule MBR:  The Market Based Rate (Schedule MBR) was 
+initially designed as a special rate contract for one customer, 
+Amazon Web Services, but a 200-megawatt pilot has been 
+separately established for large high-load-factor customers 
+only, such as data centers .[45] By paying higher all-in costs 
+via the MBR, customers who have signed VPPAs are able to 
+better match their electricity cost against their VPPA contract, 
+reducing some of the potential upside from a VPPA, but also 
+reducing their exposure from a decline in energy price below 
+their contracted strike price .
+The limited options and other barriers companies face in 
+Virginia to purchase renewables has sifted companies in two 
+buckets: those actually trying via existing tariff options and/
+or climate advocacy in the state, and those greenwashing 
+by simply offsetting their Virginia load with generation from 
+elsewhere or RECs .
+Resetting the Rules for Renewables
+While tech companies have had some success in getting 
+Dominion to take small steps toward making renewables 
+more accessible to corporate buyers, it is clear from the 
+rate of change and direction it has laid out in its IRP[46] that 
+Dominion is intent on keeping Virginians and the data center 
+companies in the state locked into fracked gas and coal far 
+beyond what climate scientists say is acceptable to avoid 
+dangerous climate change .[47]
+Tech companies must move to wield their collective political 
+and economic influence much more aggressively, both with 
+their suppliers and with policymakers in Richmond, to chart 
+a rapid transition to renewable sources of energy  . In addition 
+to being Virginia’s largest utility, Dominion is also the single 
+largest donor to political campaigns in the state, contributing 
+over $10 million in the last decade, affording them significant 
+influence over the state’s politicians and in particular 
+members of Virginia’s General Assembly  .[48]
+
+CLICKING CLEAN VIRGINIA  | 20
+Facebook, Google, Microsoft, Apple and Amazon have all 
+repeatedly proven their skill in using their considerable 
+leverage with policymakers to secure policy changes and 
+economic incentives beneficial to their business before 
+deciding to expand their operations, as recently witnessed 
+with Amazon’s site selection process for its “HQ2 . ” In fact, 
+data centers were again the largest category of tax abatement 
+in Virginia during 2018,[49] the result of a tax incentive package 
+originally passed in 2009 following Apple’s decision to  
+locate its East Coast data center in North Carolina  
+rather than Virginia .[50]
+With more than 100 large data centers, and counting, already 
+operating in Northern Virginia, driving major new growth in 
+electricity demand in the state, companies in Data Center 
+Alley and elsewhere in the state have a unique responsibility 
+to change the energy path the state is currently on, as well as 
+a critical opportunity to ensure their investments hold value 
+over time .But, if the ongoing expansion in Virginia by Amazon and 
+other major data center companies continues along the dirty 
+energy path being offered, it will be seen as an indication 
+that IT companies are not serious about their public 
+commitments to renewable energy  . This has the potential to 
+create significant risk to IT company investments in Virginia 
+and their brand equity as their discerning cloud or colocation 
+customers take their business elsewhere . It will also serve as a 
+validation of Dominion’s strategy to use data center demand 
+to justify major new investments in fossil fuels that will mean 
+much higher costs for all Virginians .
+These potential risks are not only real, but also imminent  . 
+However, rapid and significant intervention can still 
+have success in preventing both business disruption and 
+misdirected continuing investment in fossil fuels .
+Greenpeace activists in Israel took action in 2012 to demand the world’s largest tech companies power their data centers with renewable energy.
+
+CLICKING CLEAN VIRGINIA  | 21
+Key Points of Intervention for 
+Renewable Advocacy:
+||Establish or Strengthen Commitments to Renewable 
+Energy. Public commitments to renewable energy send a 
+powerful signal to politicians and local utilities that access 
+to renewable energy must be part of the package . As a 
+group, the tech companies and data center companies 
+have adopted strong commitments to renewable energy 
+and have operations in Virginia with an aggregate 
+projected demand of over 1 .3 gigawatts .[51] This demand 
+would more than double to 3 gigawatts if Amazon’s cloud 
+subsidiary would rejoin this group  .
+||Invest in Renewables, Not the Atlantic Coast Pipeline.  
+Data center operators and customers with 100 percent 
+renewable energy commitments have a uniquely strong 
+standing to speak out against the ACP , both as major 
+customers who do not want to pay for an unnecessary 
+fracked gas pipeline that will not help them meet their 
+renewable goals or meet customer expectations, and as  
+a customer class being used by Dominion to justify  
+its construction .
+||Demand Dominion Focus its Integrated Resource Plan 
+on Renewables  . In 2018, five major IT brands with long-
+term commitments to renewable energy[52] and who 
+operate data centers or have significant colocation leases 
+in Virginia sent a letter to the Virginia State Corporation 
+Commision (SCC) asking that they not be used by 
+Dominion to justify new fossil fuel growth, asking instead 
+for a greater supply of renewable energy  .[53] The SCC 
+ultimately rejected Dominion’s Integrated Resource Plan 
+for the first time in December 2018, providing an important 
+opportunity for additional large corporate customers to 
+tell regulators they need a greater supply of renewables, 
+not more investment in fossil fuel generation assets or 
+pipelines like the ACP  .[54]
+||Support Legislation to Increase Investment and Access 
+to Renewables  . The Virginia General Assembly plays 
+a central role in setting state energy policy  . Efforts to 
+pass legislation to expand access to renewable energy, 
+including competitive service providers offering renewable 
+energy, are ongoing . However, a recent floor debate on 
+energy legislation led to a vilification of California and 
+other states that have set aggressive targets to transition 
+to renewable energy,[55] claiming they will result in rolling 
+blackouts and would destroy the state’s ability to create 
+jobs, with the exception of candlemakers . Many of the 
+current members of the Assembly may benefit hearing 
+from energy-intensive companies that transitioning 
+Virginia to renewable sources of energy would make it 
+much more likely to attract additional investment not only from the IT sector, but also from many other major brands 
+that have set aggressive greenhouse gas reduction and 
+renewable energy targets . Methodology
+Looking Forward: How Tech 
+Companies Can Create a 
+Renewable Path For Virginia
+Stop Fossil Fuel Lock in
+||Match all growth with renewable purchases via 
+tariffs or direct purchase of in-state renewables, or
+||Support a moratorium on investments in more 
+fossil fuel capacity, starting with the Atlantic Coast 
+Pipeline
+Unlock Renewables
+||Lobby for stronger investment in renewables 
+and better pathways for companies to pursue 
+aggressive transition to renewables in Virginia
+Divorce Dominion
+||If Dominion continues to keep its customers 
+locked in to fossil fuels, make plans to leave 
+Dominion’s grid or leave Virginia altogether, siting 
+new facilities in states that are transitioning to 
+renewable sources of energy  .
+
+CLICKING CLEAN VIRGINIA  | 22
+Increasing attention is being paid to “green” and  
+“renewable” efforts across industries . It can be difficult 
+for even sustainability professionals to evaluate corporate 
+renewable claims and their impact  . In the tech sector, there 
+remains a shortage of useful metrics and publicly available 
+data to evaluate and compare the energy footprints of major 
+internet companies and their respective data centers . This 
+lack of data is not due to the fact that data does not exist; 
+rather, many companies remain unwilling to provide basic 
+information about both the amount and source of their 
+growing electricity consumption .
+Since 2012, our Clicking Clean reports have attempted to 
+shed light on the basic questions: How much dirty energy is 
+being used to power the internet and which companies are 
+choosing truly clean energy?This report attempts to provide a basic answer to this 
+question in Virginia–the heart of the internet–based on 
+what is provided by companies or gleaned from the limited 
+information available and focusing on recent data center 
+investments of select brands and the current clean energy 
+supply associated with each investment  . Starting with an 
+initial set of some of the largest internet platforms, cloud 
+providers and colocation companies with a presence in 
+Virginia, Greenpeace identified two main inputs from a 
+representative sample of their most recent (five years or less) 
+infrastructure investments .
+Wind turbines in Story County, Iowa. Iowa has become a data center hotspot where energy utilities have made significant new investment in renewable generation.
+Methodology 
+
+CLICKING CLEAN VIRGINIA  | 23
+Those inputs are:
+1 . Estimated size of electricity demand of each Virginia 
+facility (in megawatts)  
+ 
+For each company in this report we calculated energy 
+demand by adding up the total capacity of their Virginia-
+based facilities . To measure energy demand at the facility 
+level we relied on company-reported information when 
+available . Many companies still fail to report energy 
+demand information at the facility level . In these cases, 
+we used conservative estimates of the amount of backup 
+generator capacity permitted for each facility as a proxy 
+to calculate power capacity, reducing our estimates of the 
+number of generators and overall capacity by 20 percent 
+to account for redundancy  . We obtained these permits via 
+FOIA request to Virginia’s Department of Environmental 
+Quality, Air Division .  
+ 
+We used publicly reported information on large-scale 
+colocation leases in Virginia to attribute this power 
+demand from these leases back to the company leasing 
+the space . We then subtracted this demand from the 
+colocation company (if also scored in our report) to  
+avoid double counting of overall megawatt demand .  
+2 . Amount of local renewable electricity being used to power 
+Virginia operations (in megawatts)  
+ 
+To determine the amount of renewable energy sourced by 
+each company we relied on company-reported information 
+and media reports about renewable deals in the region . 
+For this assessment, we have counted solar and wind 
+projects in Dominion’s territory in both Virginia and North 
+Carolina . We used recent regional capacity factors (22 
+percent for solar, 34 .6 percent for onshore wind) to adjust 
+to appropriate renewable delivery levels . We then gave 
+each company residual credit for the 4 percent renewable 
+energy level of Dominion’s grid mix  . While a number of 
+the facilities in this analysis clearly fall outside Dominion’s 
+service territory (primarily in NOVEC service territory) 
+where the local utility generation mix is not certain, we 
+have provisionally applied Dominion’s renewable residual 
+level for such facilities in our analysis (instead of 0 .05 
+percent RE for NOVEC, based on P JM residual levels), 
+pending more detailed emissions information from  
+the companies .The above inputs are taken from the 
+following sources:
+||Submissions by companies directly to Greenpeace
+||Public submissions by companies to reporting entities or 
+stakeholder publications
+||Defined by company when announcing investments and 
+within their sustainability reports
+||Reported by the media (in stories on the investments or 
+construction of facilities, etc .)
+||Electricity demand derived by taking the announced size 
+of investment and deriving total number of megawatts, 
+using industry average cost per IT load multiplied by the 
+published Power Usage Effectiveness(PUE) for facility or, 
+if not available,1 .3 for new facilities . When relying upon 
+backup generator permits to calculate the estimated 
+electricity demand of a facility, Greenpeace made 
+conservative assumptions regarding the total power the 
+generators are needed to cover, as well as the number of 
+generators deployed for redundancy  .
+This information is then used to approximate, initially on a 
+facility level, the number of megawatts of clean energy the 
+facility will consume . Having calculated a facility-level clean 
+energy percentage, Greenpeace derives a company average  
+of renewable percentage across its Virginia facilities .
+In compiling the information included in this report, 
+Greenpeace contacted all companies featured and asked 
+for information regarding their data center facilities and for 
+information on their energy commitment and infrastructure 
+siting, energy efficiency and mitigation efforts, renewable 
+energy procurement and renewable energy advocacy  . Where 
+clear and consistent information was not provided by the 
+company, Greenpeace made estimates of data center power 
+demand available to companies for comment in advance  
+of publication .
+
+CLICKING CLEAN VIRGINIA  | 24
+Internet and Cloud Platforms
+Amazon Web Services
+Amazon Web Services (AWS), a subsidiary of Amazon, is the largest provider of cloud hosting services in 
+the world, creating the “virtual” homes of more than one million customers . These customers include 
+well-known video streaming sites such as Netflix, Comcast Xfinity, PBS and C-Span, media sites like the 
+Hearst Corporation and the Guardian, and the web presence for government agencies such as the State 
+Department, NOAA and the CDC . As of January 2017, our Clicking Clean report found that AWS operated 
+32 data centers in Virginia with a combined capacity of 1 .06 gigawatts . Our current analysis shows that 
+AWS has built or been permitted for 23 new facilities in Virginia that will add 626 megawatts capacity 
+when completed, representing a 59 percent growth in just over two years .
+AWS committed in November of 2014 to use 100 percent renewable energy for its global AWS 
+operations . However, unlike other companies, AWS has not included a deadline to meet its 100 percent 
+goal . In 2015 and 2016, AWS signed contacts for six solar projects in Virginia as well as a 72-megawatt 
+wind project in North Carolina to deliver a total of 132 megawatts of renewable energy to the Dominion 
+grid (which powers the lion’s share of AWS’s Virginia-based data centers) . However, since November 
+2016, AWS has not signed any new renewable contracts anywhere and has in fact withdrawn from a 
+previously announced contract for a large new wind farm in Ohio  .[56] While AWS continues to claim it 
+reached 50 percent renewable energy usage in January 2018,[57] the company has remained notoriously 
+opaque when it comes to publicly reporting information about its current energy use and how fast it is 
+growing, making it difficult to assess whether its contracts for renewable energy are keeping up with 
+its rapidly growing data center energy demand . In Virginia, where AWS’s cloud touches the ground 
+more than anywhere else, it’s matching just 8 percent of its demand with renewable power, for a total 
+renewable percentage of just 12 percent  .
+AWS did use its influence with Dominion to develop the Market Based Rate tariff (Schedule MBR, above) 
+opening up a pathway for large customers to have access to market pricing and balance the use of 
+VPPAs, However, AWS’s decision to continue its rapid expansion in Virginia without any additional 
+supply of renewable energy is a powerful endorsement of the energy pathway Dominion has chosen, 
+including the building of the ACP , and a clear signal that its commitment to 100% renewable energy will 
+not serve as a meaningful basis for deciding how its data center are powered .Company Profiles
+
+CLICKING CLEAN VIRGINIA  | 25
+Facility or Lease Estimated Nameplate Power 
+Capacity (MW)Notes
+Ashburn, Virginia (IAD6, IAD13, IAD54) 64
+Ashburn, Virginia (IAD50, IAD60) 60
+Ashburn, Virginia (IAD71, IAD78, IAD79, 
+IAD80)112Buildings 79 and 80 added to this 
+campus since 2016
+Chantilly, Virginia (IAD1 & IAD9) 26
+Chantilly, Virginia (IAD 61, IAD63, 
+IAD65, IAD86)128Buildings 63, 65, 86 added to this 
+campus since 2016
+Haymarket, Virginia (IAD 55 & IAD64) 141
+Manassas, Virginia (IAD7, IAD11, IAD24) 53
+Manassas, Virginia (IAD14, IAD52, 
+IAD59)82
+Manassas, Virginia (IAD73 & IAD74) 64
+Sterling, Virginia (IAD10, IAD32, IAD98, 
+IAD99, IAD118, IAD119)155 Buildings 98, 99, 118 and 119 added
+Sterling, Virginia (IAD12, IAD 15, IAD16) 64
+Sterling, Virginia (IAD51,IAD56, IAD88, 
+IAD89)90
+Sterling, Virginia (IAD57 & IAD58) 48
+Sterling, Virginia (IAD 62, IAD68, IAD81, 
+IAD83)176 Buildings 68, 81, 83 added since 2016
+Sterling, Virginia (IAD90, IAD91, IAD92) 96 New since 2017 Click Clean report
+Manassas, Virginia (IAD75, IAD85, 
+IAD95, IAD96)160 New since 2017 Click Clean report
+Manassas, Virginia (IAD 100, IAD101, 
+IAD102, IAD103)168 New since 2017 Click Clean report
+Total Power Capacity 1686
+Renewable Projects Delivered Renewable Capacity 
+(MW)Notes
+Eastern Shore, Accomack Solar 80MW 18
+Buckingham Solar 20MW 5
+New Kent Solar 20MW 5
+Sappony, Sussex Solar 20MW 5
+Scott, Powhatan Solar 20MW 5
+Southampton Solar 100MW 23
+Desert Wind, Perquimans  
+and Pasquotank NC, 208MW72
+Total Renewable Supply 132
+Local Utility Renewable Percentage 4% 
+Amazon Web Services  
+Virginia Renewable Energy: 12%
+
+CLICKING CLEAN VIRGINIA  | 26
+Apple
+In addition to a number of large data centers Apple owns and operates elsewhere in the U  .S . and 
+abroad, Apple digital offerings are also supported by colocation leases and cloud computing platforms, 
+with significant data center operations in Virginia . Apple was one of the first tech companies to 
+commit to power its data centers with renewable energy in May 2012 . To secure a renewable supply 
+of electricity for its Virginia operations (which include a 20-megawatt lease with a Digital Realty data 
+center in Ashburn and retail stores in the region), Apple contracted for a 165-megawatt solar farm 
+in Fredericksburg, Virginia, in partnership with Akamai, Etsy and Swiss RE .[58] We have attributed 29 
+megawatt of delivered solar capacity for Apple’s portion of this virtual PPA . While Apple currently 
+matches its colocation data center demand with an equivalent renewable energy supply, Apple has not 
+taken responsibility for or reported the size of its use of AWS’s cloud platform based in Virginia, which 
+appears to be significant based on the wide range of Apple services taken offline when AWS cloud 
+services was disrupted in 2017 .[59] Despite its significant operations, Apple has yet to take an active role 
+in renewable advocacy in Virginia, in contrast to its consistent efforts in neighboring North Carolina .
+ 
+Apple  
+Virginia Renewable Energy: 100%
+Facility or Lease Estimated Nameplate Power 
+Capacity (MW)Notes
+Ashburn Colocation 6 Leased in 2015 from Digital Realty
+Ashburn Colocation 15 Leased in 2017 from Digital Realty
+Total Power Capacity 21
+Renewable Projects Delivered Renewable Capacity 
+(MW)Notes
+165 MW Solar Fredericksburg, VA 29 VPPA with Akamai, Etsy and Swiss RE
+Total Renewable Supply 29
+Local Utility Renewable Percentage 4%
+
+CLICKING CLEAN VIRGINIA  | 27
+Facility or Lease Estimated Nameplate Power 
+Capacity (MW)Notes
+Henrico Data Center 60Estimate based on backup generator 
+permit
+East Coast Colocation (Virginia) 48Facebook reported, 2017 sustainability 
+data
+Manassas Colocation 72 Leased in 2018 from CloudHQ
+Ashburn Colocation 25 Leased in 2018 from Digital Realty
+Total Power Capacity 205
+Renewable Projects Delivered Renewable Capacity 
+(MW)Notes
+240 MW Solar (Colonial Trail West & 
+Spring Grove)53 Established with Schedule RF
+80 MW Solar 18 Virtual PPA with Digital Realty
+Total Renewable Supply 70
+Local Utility Renewable Percentage 4% 
+Facebook  
+Virginia Renewable Energy: 37%Facebook
+In December 2011, Facebook became the first internet company to commit to power its online 
+operations with renewable energy  . In 2018, Facebook updated its commitment to include a 2020 
+deadline .[60] More than any other data center operator in Virginia, Facebook has demonstrated 
+consistent effort to source renewable energy for its operation matching 37 percent of its contracted 
+demand in Virginia so far  . Facebook operates its own 60-megawatt data center in Henrico, Virginia, 
+and has leases for 145 megawatts of colocation in Virginia .[61] The company has sought out to match 
+this load in two ways . First, Facebook worked closely with Dominion to establish a new renewable 
+energy rate, the Schedule RF tariff for large buyers . (See Schedule RF above .) This tariff has led to the 
+development of two solar farms, the 142-megawatt Colonial Trail West farm and the 98-megawatt 
+Spring Grove farm, which will infuse the grid with 53 megawatts of renewable supply once constructed .
+[62] To cover a portion of its colocation demand, Facebook worked with Digital Realty to secure a Virtual 
+Purchase Power Agreement to develop an 80-megawatt solar farm (18 megawatts adjusted) within 
+Dominion’s North Carolina territory  . In addition to Facebook’s work with Dominion to create a new 
+avenue for large corporate buyers to source renewables, Facebook has supported state-level advocacy 
+work through its membership in the Advanced Energy Buyers Group  .
+
+CLICKING CLEAN VIRGINIA  | 28
+Facility or Lease Estimated Nameplate Power 
+Capacity (MW)Notes
+Wheeler Data Center, Sterling VA 33Estimate based on backup generator 
+permit
+Hayden Data Center, Sterling VA 32Estimate based on backup generator 
+permit
+Ashburn Colocation 2 Leased in 2015 from Equinix
+Ashburn Colocation 10 Leased in 2017 from CyrusOne
+Total Power Capacity 77
+Renewable Projects Delivered Renewable Capacity 
+(MW)Notes
+None 0
+Total Renewable Supply 0
+Local Utility Renewable Percentage 4% 
+Google  
+Virginia Renewable Energy: 4%Google
+Google was the first IT company to directly contract for a renewable supply of electricity, signing its 
+first PPA in 2010 in Iowa .[63] Despite operating one of the largest networks of data centers in the world to 
+power its search engine and other online services, Google has only recently had operations in Virginia’s 
+Data Center Alley  . Google now has two data centers under development in Sterling, Virginia, and 
+has two significant colocation leases[64] in Ashburn to power the US-East4 region of the Google Cloud 
+platform . Google has purchased over 2 .6 gigawatts of renewable energy globally,[65] giving it a strong 
+claim to being the largest corporate buyer of renewable energy in the world . But despite recent creative 
+claims of being “100 Percent Renewable Globally” from surplus supply of renewable credits in other 
+markets,[66] Google has not yet taken steps to add renewable energy to meet the demand of its data 
+centers in Virginia . Google has been among the most active in supporting clean energy policies in other 
+states where it has operations, particularly in neighboring North Carolina, but is yet to become directly 
+engaged in shaping Virginia energy policy  .
+
+CLICKING CLEAN VIRGINIA  | 29
+Microsoft
+In October 2014, Microsoft made a long-term commitment to use renewable energy for its data centers, 
+with a short-term goal of 60 percent renewables by 2020 . Microsoft is rapidly expanding its data center 
+complex in Boydton, Virginia, and is leasing significant colocation space in Data Center Alley  . Just In 
+the last year, Microsoft added 74 megawatts colocation capacity, bringing its total demand in Virginia 
+to 271 megawatts . On the supply side, Microsoft has been one of the first users of the MBR tariff offered 
+by Dominion to balance a virtual PPA agreement for 315 megawatts of a 500-megawatt solar project in 
+Virginia . Microsoft has also been exploring the use of battery storage, rather than backup generators, at 
+its Boydton data center, providing a dual benefit of reducing emissions and serving as backup storage 
+for the grid it is connected to  .[67] In 2018, Microsoft publicly supported bills in the state that would 
+advance customer choice in accessing renewable energy and reduce penalties for leaving the grid to 
+pursue RE as well as reducing the required customer size from 5 megawatts to 1 megawatt to make 
+renewables an option for more customers .[68]
+Facility or Lease Estimated Nameplate Power 
+Capacity (MW)Notes
+East Coast Data Center, Boydton VA 116Estimate based on backup generator 
+permit
+Ashburn Colocation 14Leased in 2014 from Yahoo/Digital 
+Realty
+Ashburn Colocation 10 Leased in 2015 from Digital Realty
+Ashburn Colocation 22 Leased in 2016 from CyrusOne
+Manassas Colocation 35 Leased in 2016 from CloudHQ
+Manassas Colocation 25 Leased in 2018 from CloudHQ
+Ashburn Colocation 20 Leased in 2018 from CyrusOne
+Ashburn Colocation 14 Leased in 2018 from RagingWire
+Ashburn Colocation 10 Leased in 2018 from CyrusOne
+Ashburn Colocation 5 Leased in 2018 from Digital Realty
+Total Power Capacity  271
+Renewable Projects Delivered Renewable Capacity 
+(MW)Notes
+315 MW Pleinmont Solar Farm 79 MBR tariff and VPPA
+20 MW Dominion Solar Deal 5
+Total Renewable Supply 84
+Local Utility Renewable Percentage 4% 
+Microsoft  
+Virginia Renewable Energy: 34%
+
+CLICKING CLEAN VIRGINIA  | 30
+Salesforce
+Despite being one of the original software-as-a-service cloud platforms, Salesforce does not own or  
+operate its own data centers, but instead powers the rapid growth of the Salesforce Cloud through 
+large leases with colocation operators . Salesforce was the first major internet company that exclusively 
+leased data center space to adopt a 100 percent renewable energy commitment in 2013 . Salesforce has 
+multiple data center leases in Data Center Alley, totaling 46 megawatts, including a massive new lease 
+with QTS in its new Manassas data center  .[69] Salesforce appears to be evolving its efforts to purchase 
+renewable energy toward higher-impact options from its first VPPA for West Virginia wind, as evidenced 
+by the recent aggregation deal between Salesforce and four other companies for solar in Dominion 
+territory in North Carolina .[70] Salesforce has also been among the most active engaging in clean 
+energy policy advocacy in Virginia, joining a September 2018 letter to Virginia regulators asking them 
+to require Dominion to meet future demand with additional investments in renewables,[71] following a 
+similar letter in 2015 .
+Facility or Lease Estimated Nameplate Power 
+Capacity (MW)Notes
+Manassas Colocation 26 Leased in 2018 from QTS
+Ashburn Colo 6 Leased in 2018 from Cyrus One
+Ashburn Colo 6 Leased in 2018 from Digital Realty
+Existing Ashburn 8
+Total Power Capacity 46
+Renewable Projects Delivered Renewable Capacity 
+(MW)Notes
+West Virginia Wind PPA 40 MW 17
+Aggregate Deal 10 MW 2
+Total Renewable Supply 19
+Local Utility Renewable Percentage 4% 
+Salesforce  
+Virginia Renewable Energy: 44%
+
+CLICKING CLEAN VIRGINIA  | 31
+Colocation Companies
+CloudHQ
+Founded in 2016 by the former CEO of Dupont Fabros Technologies (now merged with Digital Realty 
+Trust), CloudHQ is in the process of rapidly completing two massive campuses in the heart of Data 
+Center Alley (Ashburn and Manassas), with expected energy demand of nearly 600 megawatts when 
+both are fully occupied . Competing with Digital Realty Trust as a wholesale colocation data center 
+company, CloudHQ has secured large leases in Northern Virginia from internet giants with 100 percent 
+renewable energy commitments: Facebook and Microsoft  .[72] CloudHQ claims to be connected to 
+WindHQ, touting that it has just had a 164-megawatt wind project come online in 2017 .[73] However, 
+the WindHQ project appears to be in Texas,[74] far from Data Center Alley, and cannot feed into the 
+Dominion grid or displace the demand for dirty energy these large facilities are creating .
+Facility or Lease Estimated Nameplate Power 
+Capacity (MW)
+Ashburn (LC1A, LC1B, LC2) 356
+Ashburn (LC5) 18
+Manasses (MCC1) 58
+Manasses (MDC) 162
+Adjustments to apply demand to 
+tenants in this report
+Facebook -72
+Microsoft -60
+Total Power Capacity  462
+Total Renewable Supply 0
+Local Utility Renewable Percentage 4% 
+CloudHQ  
+Virginia Renewable Energy: 4%
+
+
+CLICKING CLEAN VIRGINIA  | 32
+Coresite
+One of the larger retail colocation companies in the country, Coresite has 21 data centers across eight 
+U .S . markets, including a campus in Reston, Virginia, that is expected to grow from two to five facilities 
+to exceed 1 .3 million square feet, and with an estimated demand exceeding 100 megawatts when 
+fully completed . While Coresite has signaled to its investors that it expects to increase the amount of 
+renewable energy it is purchasing,[75] it has yet to secure a supply of renewable energy for its rapidly 
+expanding Reston Campus . CyrusOne
+ 
+Facility or Lease Estimated Nameplate Power 
+Capacity (MW)
+Reston 100
+Total Power Capacity  100
+Total Renewable Supply 0
+Local Utility Renewable Percentage 4%CoreSite  
+Virginia Renewable Energy: 4%
+
+CLICKING CLEAN VIRGINIA  | 33
+CyrusOne
+Operating 40 data centers across 11 U  .S . markets as well as in the U  .K ., Germany, and Singapore, 
+CyrusOne has rapidly grown to become one of the largest colocation operators since its founding in 
+2012 . Like most of its peers, CyrusOne is in the midst of a significant expansion of its Northern Virginia 
+campus, and is already one of Dominion’s largest customers,[76] with power demand on track to 
+reach nearly 200 megawatts . CyrusOne has recently secured significant leases for its Sterling, Virginia, 
+campus from Google, Microsoft and Salesforce, all of which have 100 percent renewable  
+energy commitments .
+ 
+Facility or Lease Estimated Nameplate Power 
+Capacity (MW)
+Sterling I, II, III 45
+Sterling IV 19
+Sterling V 137
+Adjustments to apply demand to 
+tenants in this report
+Google -10
+Microsoft -52
+Salesforce -6
+Total Power Capacity 132
+Total Renewable Supply 0
+Local Utility Renewable Percentage 4%CyrusOne  
+Virginia Renewable Energy: 4%
+
+CLICKING CLEAN VIRGINIA  | 34
+Digital Realty Trust
+Digital Realty Trust (DLR) is one of the largest data center operators in the world, operating nearly 200 
+data centers across twelve countries . DLR already operates two major campuses with 17 active facilities 
+in Data Center Alley following its $7-billion merger with Dupont Fabros Technologies and has recently 
+acquired additional land to support a third campus .[77] Both DLR and Dupont Fabros Technologies were 
+top-20 customers of Dominion in 2018 .[78] DLR adopted a long-term 100 percent renewable energy goal 
+in 2016 and has contracted for renewable supply in several US markets outside Virginia . However, DLR 
+recently entered into an 80-megawatt solar VPPA to cover the energy demand in Virginia of one of its 
+largest customers, Facebook  .[79] Despite its massive size in Virginia, and in contrast to Equinix, DLR has 
+not been visible in calling for Dominion to shift its energy mix away from fossil fuel to renewables .
+Facility or Lease Estimated Nameplate Power 
+Capacity (MW)Notes
+44462 Round Table Plaza (Bldg M) 72
+43780 Digital Loudoun Plaza (Bldg H) 20
+44274 Round Table Plaza (Bldg L) 53
+44490 Chilum Place (ACC3) 16
+44480 Hastings Drive(ACC4) 55
+44521 Hastings Drive (ACC5) 47
+44461 Chilum Place (ACC6) 34
+21625 Gresham Drive (ACC7) 48
+21745 Sir Timothy Drive (ACC9) 32
+21744 Sir Timothy Drive, Ashburn 
+(ACC10)27
+1780 Business Center Drive (VA3) 17
+43830 Devin Shafron Drive (Bldg F) 13
+43940 Digital Loudoun Plaza (Bldg G) 33
+44060 Digital Loudoun Plaza (Bldg K) 25
+43881 Devin Shafron Drive (Bldg B) 8
+43791 Devin Shafron Drive (Bldg D) 12
+4030 Lafayette Center Drive 3
+44100 Digital Loudoun Plaza (Bldg J) 21
+8217 Linden hall (VA4) 13
+Adjustments to apply demand to 
+tenants in this report
+Apple -21
+Facebook -25
+Microsoft -29
+Salesforce -6
+Total Power Capacity 467
+Renewable Projects Delivered Renewable Capacity 
+(MW)Notes
+80 MW Solar 18 Virtual PPA on behalf of Facebook
+Credit Applied to Facebook -18
+Total Renewable Supply 0
+Local Utility Renewable Percentage 4% 
+Digital Realty  
+Virginia Renewable Energy: 4%
+
+CLICKING CLEAN VIRGINIA  | 35
+Equinix
+Along with Digital Realty Trust, Equinix is one of the largest data center operators in the world, with its 
+business primarily oriented toward retail colocation leases . Equinix was the first colocation company 
+to adopt a 100 percent renewable energy commitment in 2015 and has made progress in securing a 
+supply of renewable energy for a select number of its sites . However, its Northern Virginia operations 
+remain one of its fastest growing markets, with a 50 percent increase over the past two years, with 
+no additional supply of renewables beyond the 4 percent offered by Dominion . To their credit, like 
+Salesforce, Equinix has again weighed in with state regulators asking that they require Dominion to 
+meet future demand with additional investments in renewables[80] and not permit further investments 
+in fossil fuels .
+ 
+Facility or Lease Estimated Nameplate Power 
+Capacity (MW)
+DC 1 2
+DC 2 8
+DC 3 10
+DC 4 12
+DC 5 12
+DC 6 12
+DC 7 4
+DC 8 1
+DC 10 20
+DC 11 16
+DC 12 7
+DC 13 22
+DC 14 1
+CU 1 16
+CU 2 9
+CU 3 11
+CU 4 18
+Adjustments to apply demand to 
+tenants in this report
+Google -2
+Total Power Capacity 179
+Total Renewable Supply 0
+Local Utility Renewable Percentage 4%Equinix  
+Virginia Renewable Energy: 4%
+
+CLICKING CLEAN VIRGINIA  | 36
+Iron Mountain
+Although better known for its document deep storage business model, Iron Mountain has rapidly 
+built up its fleet of data centers through a series of acquisitions (including IO and FORTRUST)[81] and 
+has also built a new hyperscale data center in Manassas, with a projected demand capacity of under 
+80 megawatts when completed . Iron Mountain recently adopted public commitments to 100 percent 
+renewable energy for all of its operations[82] and now claims its data centers are already 100 percent 
+renewable . However, it is not clear by what means it is able to make such a claim given the renewable 
+deals announced and the locations of its data centers . Iron Mountain has contracted for 8 megawatts 
+of wind-powered electricity from nearby Pennsylvania that is connected to its Manassas facility via the 
+P JM regional grid .[83] Greenpeace will provide a full evaluation of Iron Mountain’s data center operations 
+in the next global version of Clicking Clean . QTS
+ 
+Facility or Lease Estimated Nameplate Power 
+Capacity (MW)
+VA-1 (Manasses) 78
+Total Power Capacity 78
+Renewable Projects Delivered Renewable Capacity 
+(MW)
+PA Wind PPA, Ringer Hill 8
+Total Renewable Supply 8
+Local Utility Renewable Percentage 4%Iron Mountain  
+Virginia Renewable Energy: 14%
+
+
+CLICKING CLEAN VIRGINIA  | 37
+QTS
+QTS operates several of the largest colocation data centers in the U  .S ., and has begun rapidly 
+expanding its presence in Virginia . QTS has four large data centers in Northern Virginia and two near 
+Richmond, bringing its aggregate power demand in the state to well over 400 megawatts, once fully 
+occupied . QTS has been successful in securing a renewable supply in several other markets where it 
+operates data centers,[84] but its massive data centers in Virginia remain tied to the dirty energy mix 
+offered by the incumbent utilities . Greenpeace will provide a full evaluation of QTS operations in the 
+next full version of Clicking Clean .
+ 
+Facility or Lease Estimated Nameplate Power 
+Capacity (MW)
+Ashburn 1 38
+Ashburn 2 126
+Dulles 5
+Harrisonburg 48
+Manassas 102
+Richmond 138
+Adjustments to apply demand to 
+tenants in this report
+Salesforce -26
+Total Power Capacity 431
+Total Renewable Supply 0
+Local Utility Renewable Percentage 4%QTS  
+Virginia Renewable Energy: 4%
+
+CLICKING CLEAN VIRGINIA  | 38
+RagingWire
+Now an NTT Subsidiary, RagingWire operates nine data centers in four major U  .S . markets . RagingWire 
+has three existing facilities operating in Ashburn, with two additional data centers under development 
+on their Ashburn campus . RagingWire has secured 100 percent renewable energy supply for customers 
+in its West Coast campus in Sacramento from its municipal utility  .[85] We will provide a full evaluation  
+of RagingWire operations in the next full version of Clicking Clean .
+ 
+Facility or Lease Estimated Nameplate Power 
+Capacity (MW)
+Ashburn (VA1) 17
+Ashburn (VA2) 17
+Ashburn (VA3) 19
+Ashburn (VA4&5) 77
+Adjustments to apply demand to 
+tenants in this report
+Microsoft -14
+Total Power Capacity 116
+Total Renewable Supply 0
+Local Utility Renewable Percentage 4%RagingWire  
+Virginia Renewable Energy: 4%
+
+CLICKING CLEAN VIRGINIA  | 39
+Vantage
+While Vantage is one of the newest data center operators to Data Center Alley, breaking ground on 
+a $1-billion Ashburn campus in March 2018, it may soon be among the largest, with an estimated 
+demand of approximately 174 megawatts if fully completed .[86] We will provide a full evaluation of 
+Vantage operations in the next full version of Clicking Clean .
+ 
+Facility or Lease Estimated Nameplate Power 
+Capacity (MW)
+Ashburn 170
+Total Power Capacity 170
+Total Renewable Supply 0
+Local Utility Renewable Percentage 4%Vantage  
+Virginia Renewable Energy: 4%
+
+
+CLICKING CLEAN VIRGINIA  | 40
+Endnotes
+1 Dominion 2018 IRP , p  .173
+2 See Virginia Electric Power Company, Form 566(2018) of Federal Energy 
+Regulatory Commission which lists top 20 electricity customers, 
+includes five data center companies with 100 percent RE commitments: 
+Amazon, Digital Realty, Dupont Fabros Technologies (now merged with 
+Digital Realty) Equinix, and Microsoft  .
+3 Apple and Salesforce do not operate their own data centers in Virginia, 
+but have significant leases with colocation data centers and utilize 
+cloud computing services operating in the state .
+4 https://datacenterfrontier  .com/ashburn-a-landscape-transformed-by-
+cloud-computing/
+5 https://biz .loudoun .gov/key-business-sectors/data-centers/
+6 http://www  .virginiabusiness . com/news/article/richmond-area-data-
+center-now-tied-into-subsea-cables-in-virginia-beach
+7 https://www  .us .jll .com/content/dam/jll-com/documents/pdf/research/
+americas/us/US-Data-Center-Outlook-2018 .pdf
+8 http://investors . dominionenergy  .com/static-files/3c97934e-1c35-49b7-
+bd6c-e8be0c3be51b, pg 49
+9 EIA . 1 .6 percent overall generation came from solar and hydro; none 
+came from wind .
+10 https://www  .nytimes . com/interactive/2018/12/24/climate/how-
+electricity-generation-changed-in-your-state .html
+11 Clicking Clean 2017 and Business Renewable Center Deal Tracker for 
+2017-2018
+12 https://www  .dominionenergy  .com/library/domcom/media/community/
+educational-programs/power-stations .pdf?la=en
+13 Dominion reports 5 percent RE in Virginia, however, adjusted to exclude 
+biomass generation, the figure is 4 percent
+14 EIA data on Virginia, Generation by primary energy source, 1990 through 
+2016, https://www  .eia .gov/electricity/state/virginia/
+15 https://s2 . q4cdn . com/510812146/files/doc_financials/2018/q2/2Q18-
+Earnings-Call-Slides-(Final) .pdf
+16 http://dominionenergy  .gcs-web  .com/static-files/3c97934e-1c35-49b7-
+bd6c-e8be0c3be51b, pg 24
+17 Dominion’s 2017 Ferc Form 566, which lists top 20 customers for the 
+past three consecutive years, includes six companies with 100 percent 
+RE commitments: Amazon, Digital Realty/Dupont Fabros Technology, 
+Equinix, Microsoft, Walmart  .
+18 https://www  .nrdc . org/experts/amy-mall/va-pipeline-compressor-
+station-threatens-nearby-community
+19 https://www  .dominionenergy  .com/about-us/making-energy/planning-
+energy-tomorrow
+20 http://science .sciencemag . org/content/361/6398/186?rss=1
+21 http://priceofoil . org/content/uploads/2017/02/atlantic_coast_pipeline_
+web_final_v3 .pdf
+22 https://www  .bizjournals . com/washington/news/2018/06/12/amazon-
+web-services-buying-into-massive-waterside .html
+23 See Virginia Electric Power Company, Form 566(2018) of Federal Energy 
+Regulatory Commission
+24 Clicking Clean: Who is Winning the Race to Build a Green Internet (2017) 
+http://www  .clickclean . org/downloads/ClickClean2016%20HiRes .pdf25 https://aws .amazon . com/about-aws/sustainability/sustainability-timeline/
+26 https://www  .theinformation . com/articles/aws-renewable-energy-
+efforts-hit-speed-bumps
+27 Aggregate solar supply of 60 megawatts based on combined nameplate 
+capacity of 260 megawatts, with a 23 percent capacity factor  . 72 
+megawatts of added wind capacity based on 34 percent capacity factor 
+on 208 megawatt nameplate capacity of project  .
+28 Average annual electricity consumption for a US residential utility 
+customer was 10,399 kilowatt hours, according to Department of 
+Energy, 2017 .
+29 https://www  .census .gov/quickfacts/fact/table/losangelescitycalifornia/
+HSD410217#HSD410217
+30 https://www  .bizjournals . com/washington/news/2018/11/13/heres-
+what-amazon-hq2s-footprint-will-look-like .html
+31 https://www  .seattletimes . com/business/amazon/amazon-reluctant-to-
+share-carbon-emissions-data/
+32 https://cdn2 .hubspot  .net/hubfs/2288048/AWS .pdf
+33 https://www  .energy  .ca .gov/pcl/labels/2017_labels/PG_and_E_2017_PCL .pdf
+34 http://www  .siliconvalleypower  .com/svp-and-community/about-svp/
+power-content-label
+35 Amazon lists many of its customers here: https://aws .amazon . com/
+solutions/case-studies/all/
+36 http://www  .scc . virginia .gov/docketsearch/DOCS/3k9201! .PDF
+37 Virginia Code § 56–577(A)(5)
+38 Virginia Code § 56–577(A)(3)
+39 Virginia Electric and Power Company v State Corporate Commission, 
+March 19, 2018 https://caselaw  .findlaw  .com/va-supreme-
+court/1892806 .html
+40 http://www  .scc . virginia .gov/docketsearch/DOCS/3l5y01! .PDF
+41 http://www  .scc . virginia .gov/docketsearch/DOCS/3nxn01! .PDF
+42 State Corporation Commission of Virginia, PUR-2017-00163, November 
+6, 2018
+43 http://www  .scc . virginia .gov/case/e-notice/nr170137 .pdf
+44 30,000,000 kilowatt hours of new demand per year
+45 Customers must have 5-megawatt peak demand, with load factor of at 
+least 85 percent  .
+46 https://www  .dominionenergy  .com/library/domcom/media/about-us/
+making-energy/2018-irp  .pdf
+47 https://www  .ipcc . ch/site/assets/uploads/sites/2/2018/11/SR15_
+Chapter2_Low_Res .pdf
+48 from 2008 – 2018 Dominion made $10,007,389 in political contributions 
+to Virginia politicians . https://www  .vpap  .org/donors/120206-
+dominion/?start_year=2008&end_year=2018
+49 https://www  .bizjournals . com/washington/news/2018/12/28/virginia-is-
+for-tax-abatements-at-least-for-data .html
+50 http://www  .goodjobsfirst  .org/sites/default/files/docs/pdf/datacenters .pdf
+51 Represents combined demand of Apple, Digital Realty, Equinix, 
+Facebook, Google, Iron Mountain, Microsoft and Salesforce .
+52 Adobe, Akamai, Ebay, Equinix, and Salesforce
+53 http://www  .scc . virginia .gov/docketsearch/DOCS/3ntc01! .PDF
+54 http://www  .scc . virginia .gov/docketsearch/DOCS/4d5g01! .PDF
+55 https://bluevirginia .us/2019/02/video-va-gops-disgraceful-dishonesty-
+deception-disinformation-epitomized-by-debate-over-fossil-fuels-vs-
+clean-energy
+56 https://www  .theinformation . com/articles/aws-renewable-energy-
+efforts-hit-speed-bumps
+
+CLICKING CLEAN VIRGINIA  | 41
+57 https://aws .amazon . com/about-aws/sustainability/
+58 https://www  .greenbiz . com/article/apple-akamai-etsy-and-swiss-re-get-
+together-buy-clean-power
+59 https://appleinsider  .com/articles/17/03/02/human-error-caused-
+amazon-web-services-outage-apple-icloud-service-issues
+60 https://newsroom .fb  .com/news/2018/08/renewable-energy/
+61 Facebook reports east coast colocation as 359,000 megawatt hours in 
+2017 (48 megawatts), and has two new reported leases in 2018 with 
+Digital Realty (25 megawatts) and CloudHQ (72 megawatts) . https://
+fbsustainability  .files . wordpress . com/2018/08/2017-sustainability-data-
+disclosure .pdf
+62 https://nadatacenters . com/wp-content/uploads/NADC_
+Newsletter_2018-R2 .pdf
+63 http://www  .scc . virginia .gov/case/e-notice/nr180101 .pdf
+64 https://googleblog .blogspot  .com/2010/07/reducing-our-carbon-
+footprint-with .html
+65 North American Data Center Real Estate Review, 2016 & 2018
+66 https://sustainability  .google/projects/announcement-100/
+67 https://www  .blog .google/outreach-initiatives/environment/meeting-
+our-match-buying-100-percent-renewable-energy/
+68 https://www  .scientificamerican . com/article/how-big-batteries-at-data-
+centers-could-replace-power-plants/
+69 S .B . 837 and H .B . 1528 . Public letter of support sent Feb 5, 2018 .
+70 https://nadatacenters . com/wp-content/uploads/NADC_
+Newsletter_2018-R2 .pdf
+71 https://www  .greentechmedia . com/articles/read/bloomberg-gap-
+salesforce-aggregation-solar-deal
+72 http://www  .scc . virginia .gov/docketsearch/DOCS/3ntc01! .PDF
+73 https://nadatacenters . com/wp-content/uploads/NADC_
+Newsletter_2018-R2 .pdf
+74 http://cloudhq . com/features-solutions/green-renewable/
+75 https://www  .ourenergypolicy  .org/wp-content/uploads/2017/08/2Q-
+2017-AWEA-Market-Report-Public-Version .pdf
+76 https://seekingalpha . com/filing/3870185
+77 See Virginia Electric Power Company, Form 566(2018) of Federal Energy 
+Regulatory Commission
+78 https://investor  .digitalrealty  .com/news-and-events/news/press-
+release-details/2018/Digital-Realty-to-Acquire-424-Acres-in-Loudoun-
+County-Virginia/default  .aspx
+79 See Virginia Electric Power Company, Form 566(2018) of Federal Energy 
+Regulatory Commission
+80 https://www  .datacenterdynamics . com/news/digital-realty-contracts-
+80mw-renewable-energy-facebook
+81 http://www  .scc . virginia .gov/docketsearch/DOCS/3ntc01! .PDF Equinix 
+also joined a similar letter in 2015
+82 https://www  .ironmountain . com/about-us/news-events/news-
+categories/press-releases/2017/december/iron-mountain-to-acquire-io-
+data-centers-u-s-operations
+83 https://www  .ironmountain . com/about-us/corporate-social-
+responsibility/news-and-noteworthy/our-planet/i/iron-mountain-
+commits-to-the-re100-and-science-based-targets
+84 https://www  .ironmountain . com/about-us/news-events/news-
+categories/press-releases/2016/march/new-wind-power-agreement-
+enables-iron-mountain  
+ 
+ 85 https://www  .businesswire . com/news/home/20180402005268/en/Citi-
+Power-QTS-Data-Center-Irving-TX
+86 https://www  .ragingwire . com/content/renewable-energy#
+87 https://www  .bisnow  .com/washington-dc/news/data-center/
+construction-is-underway-on-vantages-1b-ashburn-data-center-
+campus-88764
+
+CLICKING CLEAN VIRGINIA
+FEBRUARY 13, 2019
