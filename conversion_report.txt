@@ -1,0 +1,40 @@
+
+📋 REPORTE COMPLETO DE CONVERSIÓN DE DOCUMENTOS
+======================================================================
+Fecha de conversión: 2025-10-13T18:10:36.492359
+Total de archivos procesados: 333
+Conversiones exitosas: 326
+Conversiones fallidas: 7
+Tasa de éxito: 97.9%
+
+✅ REPORTE DE CONVERSIONES EXITOSAS
+============================================================
+Total de archivos convertidos exitosamente: 326
+
+📄 Archivos .pdf:
+   - Cantidad: 289
+   - Texto total: 22,663,191 caracteres
+   - Promedio por archivo: 78,419 caracteres
+
+📄 Archivos .md:
+   - Cantidad: 37
+   - Texto total: 939,538 caracteres
+   - Promedio por archivo: 25,393 caracteres
+
+📊 Total de texto extraído: 23,602,729 caracteres
+
+🚨 REPORTE DE ERRORES DE CONVERSIÓN
+============================================================
+Total de archivos con errores: 7
+Fecha de conversión: 2025-10-13T18:10:36.492359
+
+📋 Tipo de Error: Exception
+   Archivos afectados: 7
+   - new-coral-data-for-bering-sea.pdf: No se pudo extraer texto con ningún método disponible
+   - illegal-forest-clearance-and-r.pdf: No se pudo extraer texto con ningún método disponible
+   - unedited-version-of-davis-bess.pdf: No se pudo extraer texto con ningún método disponible
+   - 238-lobbyists-led-the-chemical.pdf: No se pudo extraer texto con ningún método disponible
+   - location-of-mato-grosso-in-the.pdf: No se pudo extraer texto con ningún método disponible
+   - supermarket-seafood-sustainabi.pdf: No se pudo extraer texto con ningún método disponible
+   - indictment-against-greenpeace.pdf: No se pudo extraer texto con ningún método disponible
+

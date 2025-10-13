@@ -8,6 +8,10 @@ sentence-transformers==5.1.1
 pandas==2.3.3
 python-dotenv==1.1.1
 
+# Document Processing Dependencies
+PyPDF2==3.0.1
+pdfplumber==0.11.4
+
 # Additional dependencies (automatically installed)
 torch>=2.8.0
 transformers>=4.57.0
