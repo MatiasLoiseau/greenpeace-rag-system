@@ -1,48 +1,50 @@
 {
-  "total_qa_pairs": 50,
+  "total_qa_pairs": 200,
   "categories": {
-    "Nuclear": 2,
-    "Fossil Fuels": 3,
-    "Deep Sea Mining": 1,
-    "Forests": 8,
-    "Climate": 15,
-    "Indonesian Rainforests": 5,
-    "Plastics": 1,
-    "Toxics": 4,
-    "Sustainable Seafood": 1,
-    "Agriculture": 1,
-    "Bitcoin": 1,
-    "Oceans": 4,
-    "Brazilian Amazon": 1,
-    "Democracy": 1,
-    "Plastics & Health": 1,
-    "Arctic": 1
+    "Toxics": 24,
+    "Climate": 63,
+    "Forests": 23,
+    "Nuclear": 6,
+    "Oceans": 16,
+    "Brazilian Amazon": 8,
+    "Fossil Fuels": 22,
+    "Greenpeace": 1,
+    "Sustainable Seafood": 11,
+    "Energy Transfer Lawsuit": 2,
+    "Indonesian Rainforests": 4,
+    "Plastics & Health": 2,
+    "Bitcoin": 2,
+    "Agriculture": 7,
+    "Canadian Boreal": 3,
+    "Voting Rights": 1,
+    "Myth of Recycling": 2,
+    "Plastics": 3
   },
   "top_10_source_files": {
-    "the-last-intact-forest-landsca.txt": 4,
+    "just-recovery-agenda.txt": 8,
+    "energy-r-evolution.txt": 8,
+    "eating-up-the-amazon.txt": 6,
+    "clicking-clean.txt": 6,
+    "moment-truth-time-brands-come-clean-links-forest-destruction-palm-oil.txt": 5,
+    "president-bidens-100-day-climate-progress-report.txt": 5,
+    "windforce-12-2004.txt": 5,
     "oil-in-the-cloud.txt": 4,
-    "protection-money.txt": 3,
-    "just-recovery-agenda.txt": 3,
-    "logs-of-war.txt": 2,
-    "windforce-12-2004.txt": 2,
-    "clicking-clean.txt": 2,
-    "france-s-nuclear-failures.txt": 1,
-    "permit-to-kill.txt": 1,
-    "deep-deception.txt": 1
+    "full-science-report-making-su.txt": 4,
+    "supply-chained.txt": 4
   },
   "question_length_stats": {
-    "min": 98,
-    "max": 225,
-    "avg": 134.88
+    "min": 82,
+    "max": 207,
+    "avg": 138.345
   },
   "answer_length_stats": {
-    "min": 117,
-    "max": 684,
-    "avg": 461.76
+    "min": 77,
+    "max": 799,
+    "avg": 447.83
   },
   "paragraph_length_stats": {
-    "min": 206,
-    "max": 794,
-    "avg": 443.64
+    "min": 202,
+    "max": 796,
+    "avg": 464.925
   }
 }

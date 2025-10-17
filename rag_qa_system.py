@@ -49,7 +49,7 @@ class RAGQuestionAnswering:
     
     def __init__(self, 
                  chroma_db_dir: str = "chroma_db_rag",
-                 model_name: str = "llama3.2",  # Optimized Ollama model  
+                 model_name: str = "llama3.1",  # Upgraded to Llama 3.1 8B (better performance)
                  max_tokens: int = 2048,  # Increased for better responses
                  top_k: int = 8):  # More context for better accuracy
         """
@@ -57,7 +57,7 @@ class RAGQuestionAnswering:
         
         Args:
             chroma_db_dir: Directory with the ChromaDB
-            model_name: Ollama model to use (llama3.2 with optimized parameters)
+            model_name: Ollama model to use (llama3.1 8B with optimized parameters)
             max_tokens: Maximum tokens for response (increased for completeness)
             top_k: Number of relevant chunks to retrieve (8 for better context)
         """
