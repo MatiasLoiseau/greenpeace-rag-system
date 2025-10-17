@@ -1,0 +1,54 @@
+{
+  "total_qa_pairs": 749,
+  "categories": {
+    "Energy Transfer Lawsuit": 3,
+    "Climate": 241,
+    "Forests": 72,
+    "Oceans": 44,
+    "Toxics": 80,
+    "Myth of Recycling": 6,
+    "Sustainable Seafood": 46,
+    "Fossil Fuels": 91,
+    "Nuclear": 31,
+    "Canadian Boreal": 8,
+    "Democracy": 5,
+    "Brazilian Amazon": 31,
+    "Indonesian Rainforests": 33,
+    "Agriculture": 19,
+    "Plastics": 11,
+    "Greenpeace": 4,
+    "Extreme Weather": 1,
+    "Bitcoin": 7,
+    "Deep Sea Mining": 3,
+    "Plastics & Health": 8,
+    "Voting Rights": 4,
+    "Arctic": 1
+  },
+  "top_10_source_files": {
+    "just-recovery-agenda.txt": 36,
+    "oil-in-the-cloud.txt": 24,
+    "the-true-cost-of-coal.txt": 20,
+    "windforce-12-2004.txt": 17,
+    "energy-r-evolution.txt": 15,
+    "eating-up-the-amazon.txt": 15,
+    "fossil-fuel-racism.txt": 14,
+    "president-bidens-100-day-climate-progress-report.txt": 14,
+    "moment-truth-time-brands-come-clean-links-forest-destruction-palm-oil.txt": 14,
+    "clicking-clean.txt": 13
+  },
+  "question_length_stats": {
+    "min": 76,
+    "max": 207,
+    "avg": 137.30307076101468
+  },
+  "answer_length_stats": {
+    "min": 121,
+    "max": 772,
+    "avg": 446.2790387182911
+  },
+  "paragraph_length_stats": {
+    "min": 201,
+    "max": 799,
+    "avg": 455.6849132176235
+  }
+}

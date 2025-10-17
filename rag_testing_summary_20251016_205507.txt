@@ -1,0 +1,226 @@
+======================================================================
+RAG SYSTEM EVALUATION SUMMARY REPORT
+======================================================================
+Generated: 2025-10-17 01:29:08
+Mode: Full Testing
+
+EVALUATION METADATA
+------------------------------
+Total test questions available: 749
+Questions evaluated: 749
+Test dataset: test_dataset.json
+
+OVERALL PERFORMANCE METRICS
+----------------------------------------
+Valid evaluations: 749/749
+Error rate: 0.0%
+
+Performance Scores (0-10 scale):
+  Semantic Similarity : 5.26 ± 1.65
+  Factual Accuracy    : 5.13 ± 2.35
+  Completeness        : 4.01 ± 1.43
+  Relevance           : 5.95 ± 2.06
+  Overall Score       : 5.11 ± 1.72
+
+Source Matching Performance:
+  Source Precision: 62.8%
+  Category Accuracy: 62.8%
+
+Performance Timing:
+  Average time per question: 16.60 seconds
+  Total evaluation time: 12432.5 seconds
+
+Score Distribution:
+  Excellent (9-10): 0.0%
+  Good (7-8): 2.9%
+  Fair (5-6): 70.5%
+  Poor (3-4): 12.6%
+  Very Poor (0-2): 14.0%
+
+PERFORMANCE BY CATEGORY
+-----------------------------------
+
+Climate:
+  Questions evaluated: 241
+  Avg semantic similarity: 5.22
+  Avg factual accuracy: 5.08
+  Avg completeness: 4.02
+  Avg relevance: 5.93
+  Source precision: 69.7%
+
+Fossil Fuels:
+  Questions evaluated: 91
+  Avg semantic similarity: 5.42
+  Avg factual accuracy: 5.35
+  Avg completeness: 4.01
+  Avg relevance: 6.03
+  Source precision: 52.7%
+
+Toxics:
+  Questions evaluated: 80
+  Avg semantic similarity: 5.03
+  Avg factual accuracy: 4.80
+  Avg completeness: 3.71
+  Avg relevance: 5.47
+  Source precision: 68.8%
+
+Forests:
+  Questions evaluated: 72
+  Avg semantic similarity: 5.17
+  Avg factual accuracy: 4.94
+  Avg completeness: 3.96
+  Avg relevance: 5.85
+  Source precision: 59.7%
+
+Sustainable Seafood:
+  Questions evaluated: 46
+  Avg semantic similarity: 5.48
+  Avg factual accuracy: 5.48
+  Avg completeness: 4.22
+  Avg relevance: 6.17
+  Source precision: 50.0%
+
+Oceans:
+  Questions evaluated: 44
+  Avg semantic similarity: 5.45
+  Avg factual accuracy: 5.05
+  Avg completeness: 4.23
+  Avg relevance: 6.30
+  Source precision: 47.7%
+
+Indonesian Rainforests:
+  Questions evaluated: 33
+  Avg semantic similarity: 5.39
+  Avg factual accuracy: 5.45
+  Avg completeness: 4.21
+  Avg relevance: 6.42
+  Source precision: 57.6%
+
+Nuclear:
+  Questions evaluated: 31
+  Avg semantic similarity: 5.16
+  Avg factual accuracy: 5.16
+  Avg completeness: 3.90
+  Avg relevance: 5.97
+  Source precision: 71.0%
+
+Brazilian Amazon:
+  Questions evaluated: 31
+  Avg semantic similarity: 5.23
+  Avg factual accuracy: 4.26
+  Avg completeness: 3.58
+  Avg relevance: 5.58
+  Source precision: 67.7%
+
+Agriculture:
+  Questions evaluated: 19
+  Avg semantic similarity: 5.58
+  Avg factual accuracy: 5.89
+  Avg completeness: 4.63
+  Avg relevance: 6.63
+  Source precision: 78.9%
+
+Plastics:
+  Questions evaluated: 11
+  Avg semantic similarity: 4.73
+  Avg factual accuracy: 5.64
+  Avg completeness: 3.73
+  Avg relevance: 5.55
+  Source precision: 63.6%
+
+Canadian Boreal:
+  Questions evaluated: 8
+  Avg semantic similarity: 4.25
+  Avg factual accuracy: 4.38
+  Avg completeness: 3.50
+  Avg relevance: 5.00
+  Source precision: 62.5%
+
+Plastics & Health:
+  Questions evaluated: 8
+  Avg semantic similarity: 5.75
+  Avg factual accuracy: 5.62
+  Avg completeness: 4.38
+  Avg relevance: 6.50
+  Source precision: 12.5%
+
+Bitcoin:
+  Questions evaluated: 7
+  Avg semantic similarity: 6.00
+  Avg factual accuracy: 7.29
+  Avg completeness: 5.14
+  Avg relevance: 6.86
+  Source precision: 71.4%
+
+Myth of Recycling:
+  Questions evaluated: 6
+  Avg semantic similarity: 6.67
+  Avg factual accuracy: 7.50
+  Avg completeness: 4.83
+  Avg relevance: 6.83
+  Source precision: 50.0%
+
+Democracy:
+  Questions evaluated: 5
+  Avg semantic similarity: 5.20
+  Avg factual accuracy: 3.60
+  Avg completeness: 4.60
+  Avg relevance: 5.80
+  Source precision: 80.0%
+
+Greenpeace:
+  Questions evaluated: 4
+  Avg semantic similarity: 3.50
+  Avg factual accuracy: 4.50
+  Avg completeness: 3.00
+  Avg relevance: 4.25
+  Source precision: 0.0%
+
+Voting Rights:
+  Questions evaluated: 4
+  Avg semantic similarity: 5.00
+  Avg factual accuracy: 5.25
+  Avg completeness: 3.75
+  Avg relevance: 6.00
+  Source precision: 75.0%
+
+Energy Transfer Lawsuit:
+  Questions evaluated: 3
+  Avg semantic similarity: 4.00
+  Avg factual accuracy: 4.67
+  Avg completeness: 3.33
+  Avg relevance: 5.00
+  Source precision: 66.7%
+
+Deep Sea Mining:
+  Questions evaluated: 3
+  Avg semantic similarity: 6.00
+  Avg factual accuracy: 5.67
+  Avg completeness: 4.67
+  Avg relevance: 7.00
+  Source precision: 100.0%
+
+Extreme Weather:
+  Questions evaluated: 1
+  Avg semantic similarity: 6.00
+  Avg factual accuracy: 5.00
+  Avg completeness: 4.00
+  Avg relevance: 7.00
+  Source precision: 100.0%
+
+Arctic:
+  Questions evaluated: 1
+  Avg semantic similarity: 6.00
+  Avg factual accuracy: 4.00
+  Avg completeness: 5.00
+  Avg relevance: 7.00
+  Source precision: 100.0%
+
+RECOMMENDATIONS
+--------------------
+⚠️  FAIR: The RAG system needs significant improvements.
+
+• Improve factual accuracy - consider better chunking or retrieval parameters
+• Improve response completeness - consider retrieving more context chunks
+
+======================================================================

@@ -29,7 +29,7 @@ from typing import List, Dict, Optional
 from dotenv import load_dotenv
 
 # LangChain imports
-from langchain_google_genai import ChatGoogleGenerativeAI
+from langchain_ollama import OllamaLLM
 from langchain_chroma import Chroma
 from langchain_community.embeddings import SentenceTransformerEmbeddings
 from langchain_core.prompts import ChatPromptTemplate
@@ -64,9 +64,6 @@ class RAGQuestionAnswering:
         # Load environment variables
         load_dotenv()
         
-        if not os.getenv("GOOGLE_API_KEY"):
-            raise ValueError("GOOGLE_API_KEY not found in environment variables")
-        
         self.chroma_db_dir = Path(chroma_db_dir)
         self.top_k = top_k
         
@@ -87,48 +84,27 @@ class RAGQuestionAnswering:
             persist_directory=str(self.chroma_db_dir)
         )
         
-        # Initialize Gemini model (free tier friendly settings)
-        logger.info(f"Initializing {model_name} model...")
-        self.llm = ChatGoogleGenerativeAI(
-            model=model_name,
-            max_tokens=max_tokens,
-            temperature=0.1,  # Low temperature for factual responses
-            google_api_key=os.getenv("GOOGLE_API_KEY")
-        )
+        # Initialize local Ollama model
+        logger.info(f"Initializing local Ollama model...")
+        try:
+            self.llm = OllamaLLM(
+                model="llama3.2",  # Usar llama3.2 local
+                temperature=0.1,  # Low temperature for factual responses
+            )
+            logger.info("Local Ollama model initialized successfully")
+        except Exception as e:
+            logger.error(f"Error initializing Ollama: {e}")
+            logger.info("Make sure Ollama is running with: ollama serve")
+            logger.info("And the model is installed with: ollama pull llama3.2")
+            raise
         
-        # Create prompt template
-        self.prompt_template = ChatPromptTemplate.from_template(
-            """Eres un asistente experto en temas ambientales y de Greenpeace. 
-Responde la pregunta basándote ÚNICAMENTE en el contexto proporcionado.
-Si la información no está en el contexto, di "No tengo información suficiente en los documentos para responder esa pregunta."
-
-Contexto de documentos de Greenpeace:
-{context}
-
-Pregunta: {question}
-
-Instrucciones:
-- Responde en español
-- Sé preciso y factual
-- Cita las fuentes cuando sea relevante
-- Si hay múltiples perspectivas en el contexto, menciónalas
-- Mantén la respuesta concisa pero informativa
-
-Respuesta:"""
-        )
+        # Prompt template will be built dynamically
+        pass
         
         # Create retriever
         self.retriever = self.vector_store.as_retriever(
             search_type="similarity",
             search_kwargs={"k": self.top_k}
-        )
-        
-        # Create the RAG chain
-        self.rag_chain = (
-            {"context": self.retriever | self._format_docs, "question": RunnablePassthrough()}
-            | self.prompt_template
-            | self.llm
-            | StrOutputParser()
         )
         
         logger.info("RAG system initialized successfully!")
@@ -147,6 +123,26 @@ Respuesta:"""
             formatted_chunks.append(chunk_text)
         
         return "\n".join(formatted_chunks)
+    
+    def _build_rag_prompt(self, context: str, question: str) -> str:
+        """Construye el prompt para el RAG."""
+        return f"""You are an expert assistant on environmental topics and Greenpeace. 
+Answer the question based ONLY on the provided context.
+If the information is not in the context, say "I don't have sufficient information in the documents to answer that question."
+
+Greenpeace documents context:
+{context}
+
+Question: {question}
+
+Instructions:
+- Answer in English
+- Be precise and factual
+- Cite sources when relevant
+- If there are multiple perspectives in the context, mention them
+- Keep the answer concise but informative
+
+Answer:"""
     
     def ask_question(self, question: str, 
                     category_filter: Optional[str] = None,
@@ -175,20 +171,14 @@ Respuesta:"""
                         "filter": {"category": category_filter}
                     }
                 )
-                
-                # Create temporary chain with filtered retriever
-                temp_chain = (
-                    {"context": filtered_retriever | self._format_docs, "question": RunnablePassthrough()}
-                    | self.prompt_template
-                    | self.llm
-                    | StrOutputParser()
-                )
-                
-                answer = temp_chain.invoke(question)
                 retrieved_docs = filtered_retriever.invoke(question)
             else:
-                answer = self.rag_chain.invoke(question)
                 retrieved_docs = self.retriever.invoke(question)
+            
+            # Format context and generate answer
+            context = self._format_docs(retrieved_docs)
+            prompt = self._build_rag_prompt(context, question)
+            answer = self.llm.invoke(prompt)
             
             # Prepare response
             response = {

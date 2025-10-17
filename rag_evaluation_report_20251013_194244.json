@@ -1,0 +1,362 @@
+{
+  "evaluation_metadata": {
+    "evaluation_date": "2025-10-13T19:50:43.555309",
+    "test_dataset_path": "test_dataset.json",
+    "total_test_questions": 50,
+    "questions_evaluated": 20
+  },
+  "overall_metrics": {
+    "total_questions_evaluated": 20,
+    "valid_evaluations": 20,
+    "error_rate": 0.0,
+    "semantic_similarity": {
+      "mean": 2.35,
+      "std": 2.95423424934449,
+      "min": 0.0,
+      "max": 9.0
+    },
+    "factual_accuracy": {
+      "mean": 1.5,
+      "std": 2.8372521918222215,
+      "min": 0.0,
+      "max": 10.0
+    },
+    "completeness": {
+      "mean": 1.8,
+      "std": 2.4000000000000004,
+      "min": 0.0,
+      "max": 9.0
+    },
+    "relevance": {
+      "mean": 1.5,
+      "std": 2.924038303442689,
+      "min": 0.0,
+      "max": 10.0
+    },
+    "overall_score": {
+      "mean": 1.815,
+      "std": 2.6730647205034153,
+      "min": 0.0,
+      "max": 9.5
+    },
+    "source_precision": 0.35,
+    "source_recall": 0.35,
+    "category_accuracy": 0.35,
+    "average_evaluation_time": 10.047258099999997,
+    "total_evaluation_time": 200.945162,
+    "score_distribution": {
+      "excellent_9_10": 5.0,
+      "good_7_8": 5.0,
+      "fair_5_6": 0.0,
+      "poor_3_4": 10.0,
+      "very_poor_0_2": 80.0
+    }
+  },
+  "category_breakdown": {
+    "Forests": {
+      "count": 2,
+      "semantic_similarity": [
+        2.0,
+        0.0
+      ],
+      "factual_accuracy": [
+        0.0,
+        0.0
+      ],
+      "completeness": [
+        1.0,
+        0.0
+      ],
+      "relevance": [
+        0.0,
+        0.0
+      ],
+      "source_matches": 1,
+      "avg_semantic_similarity": 1.0,
+      "avg_factual_accuracy": 0.0,
+      "avg_completeness": 0.5,
+      "avg_relevance": 0.0,
+      "source_precision": 0.5
+    },
+    "Plastics": {
+      "count": 3,
+      "semantic_similarity": [
+        0.0,
+        9.0,
+        0.0
+      ],
+      "factual_accuracy": [
+        1.0,
+        10.0,
+        0.0
+      ],
+      "completeness": [
+        2.0,
+        9.0,
+        0.0
+      ],
+      "relevance": [
+        1.0,
+        10.0,
+        0.0
+      ],
+      "source_matches": 3,
+      "avg_semantic_similarity": 3.0,
+      "avg_factual_accuracy": 3.6666666666666665,
+      "avg_completeness": 3.6666666666666665,
+      "avg_relevance": 3.6666666666666665,
+      "source_precision": 1.0
+    },
+    "Fossil Fuels": {
+      "count": 4,
+      "semantic_similarity": [
+        0.0,
+        6.0,
+        2.0,
+        0.0
+      ],
+      "factual_accuracy": [
+        2.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "completeness": [
+        1.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "relevance": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "source_matches": 0,
+      "avg_semantic_similarity": 2.0,
+      "avg_factual_accuracy": 0.75,
+      "avg_completeness": 1.25,
+      "avg_relevance": 0.25,
+      "source_precision": 0.0
+    },
+    "Climate": {
+      "count": 4,
+      "semantic_similarity": [
+        2.0,
+        0.0,
+        6.0,
+        0.0
+      ],
+      "factual_accuracy": [
+        0.0,
+        0.0,
+        3.0,
+        0.0
+      ],
+      "completeness": [
+        1.0,
+        0.0,
+        4.0,
+        0.0
+      ],
+      "relevance": [
+        0.0,
+        0.0,
+        5.0,
+        0.0
+      ],
+      "source_matches": 0,
+      "avg_semantic_similarity": 2.0,
+      "avg_factual_accuracy": 0.75,
+      "avg_completeness": 1.25,
+      "avg_relevance": 1.25,
+      "source_precision": 0.0
+    },
+    "Bitcoin": {
+      "count": 1,
+      "semantic_similarity": [
+        8.0
+      ],
+      "factual_accuracy": [
+        9.0
+      ],
+      "completeness": [
+        7.0
+      ],
+      "relevance": [
+        8.0
+      ],
+      "source_matches": 1,
+      "avg_semantic_similarity": 8.0,
+      "avg_factual_accuracy": 9.0,
+      "avg_completeness": 7.0,
+      "avg_relevance": 8.0,
+      "source_precision": 1.0
+    },
+    "Toxics": {
+      "count": 2,
+      "semantic_similarity": [
+        2.0,
+        6.0
+      ],
+      "factual_accuracy": [
+        0.0,
+        3.0
+      ],
+      "completeness": [
+        1.0,
+        4.0
+      ],
+      "relevance": [
+        0.0,
+        5.0
+      ],
+      "source_matches": 0,
+      "avg_semantic_similarity": 4.0,
+      "avg_factual_accuracy": 1.5,
+      "avg_completeness": 2.5,
+      "avg_relevance": 2.5,
+      "source_precision": 0.0
+    },
+    "Oceans": {
+      "count": 2,
+      "semantic_similarity": [
+        0.0,
+        4.0
+      ],
+      "factual_accuracy": [
+        0.0,
+        1.0
+      ],
+      "completeness": [
+        0.0,
+        2.0
+      ],
+      "relevance": [
+        0.0,
+        0.0
+      ],
+      "source_matches": 1,
+      "avg_semantic_similarity": 2.0,
+      "avg_factual_accuracy": 0.5,
+      "avg_completeness": 1.0,
+      "avg_relevance": 0.0,
+      "source_precision": 0.5
+    },
+    "Canadian Boreal": {
+      "count": 1,
+      "semantic_similarity": [
+        0.0
+      ],
+      "factual_accuracy": [
+        0.0
+      ],
+      "completeness": [
+        0.0
+      ],
+      "relevance": [
+        0.0
+      ],
+      "source_matches": 1,
+      "avg_semantic_similarity": 0.0,
+      "avg_factual_accuracy": 0.0,
+      "avg_completeness": 0.0,
+      "avg_relevance": 0.0,
+      "source_precision": 1.0
+    },
+    "Nuclear": {
+      "count": 1,
+      "semantic_similarity": [
+        0.0
+      ],
+      "factual_accuracy": [
+        0.0
+      ],
+      "completeness": [
+        0.0
+      ],
+      "relevance": [
+        0.0
+      ],
+      "source_matches": 0,
+      "avg_semantic_similarity": 0.0,
+      "avg_factual_accuracy": 0.0,
+      "avg_completeness": 0.0,
+      "avg_relevance": 0.0,
+      "source_precision": 0.0
+    }
+  },
+  "sample_results": [
+    {
+      "question_id": "qa_0001",
+      "question": "¿Cuáles son las posibles consecuencias de incluir créditos de REDD en el mercado internacional de carbono si el objetivo global es limitar el calentamiento climático a 2˚C?",
+      "ground_truth": "La información proporcionada no es suficiente para responder completamente sobre las posibles consecuencias de incluir créditos de REDD en el mercado internacional de carbono si el objetivo global es ...",
+      "rag_answer": "No tengo información suficiente en los documentos para responder esa pregunta.",
+      "scores": {
+        "semantic_similarity": 2.0,
+        "factual_accuracy": 0.0,
+        "completeness": 1.0,
+        "relevance": 0.0
+      },
+      "source_match": true,
+      "category": "Forests"
+    },
+    {
+      "question_id": "qa_0002",
+      "question": "¿Cuáles son las consecuencias a largo plazo para la salud humana de la exposición a los productos químicos presentes en el agua de extracción de gas shale?",
+      "ground_truth": "La información proporcionada no es suficiente para responder completamente sobre las consecuencias a largo plazo de la exposición a los productos químicos presentes en el agua de extracción de gas sha...",
+      "rag_answer": "No tengo información suficiente en los documentos para responder esa pregunta.",
+      "scores": {
+        "semantic_similarity": 0.0,
+        "factual_accuracy": 1.0,
+        "completeness": 2.0,
+        "relevance": 1.0
+      },
+      "source_match": true,
+      "category": "Plastics"
+    },
+    {
+      "question_id": "qa_0003",
+      "question": "¿Cómo podrían las políticas presentadas en este documento ayudar a rectificar la injusticia histórica asociada con los recursos fósiles?",
+      "ground_truth": "La información proporcionada no es suficiente para responder completamente a la pregunta. El párrafo presenta una visión general de cómo se puede abordar el problema, pero no ofrece detalles específic...",
+      "rag_answer": "No tengo información suficiente en los documentos para responder esa pregunta.",
+      "scores": {
+        "semantic_similarity": 0.0,
+        "factual_accuracy": 2.0,
+        "completeness": 1.0,
+        "relevance": 0.0
+      },
+      "source_match": false,
+      "category": "Fossil Fuels"
+    },
+    {
+      "question_id": "qa_0004",
+      "question": "¿Cómo afectan las actividades de cultivo de aceite de palma a la biodiversidad y los ecosistemas en áreas como el parque nacional de Jayawijaya?",
+      "ground_truth": "La información proporcionada no es suficiente para responder completamente sobre el impacto de las actividades de cultivo de aceite de palma en la biodiversidad y los ecosistemas del parque nacional d...",
+      "rag_answer": "No tengo información suficiente en los documentos para responder esa pregunta. El contexto proporcionado se centra en áreas como el Golfo de California y Baja California Sur, México, y no menciona esp...",
+      "scores": {
+        "semantic_similarity": 0.0,
+        "factual_accuracy": 0.0,
+        "completeness": 0.0,
+        "relevance": 0.0
+      },
+      "source_match": false,
+      "category": "Forests"
+    },
+    {
+      "question_id": "qa_0005",
+      "question": "¿Cómo puede la tecnología de Azure ayudar a XTO Energy a mantener su crecimiento sostenible en un contexto climático cada vez más desafiante?",
+      "ground_truth": "La información proporcionada no es suficiente para responder completamente sobre cómo la tecnología de Azure puede ayudar a XTO Energy a mantener su crecimiento sostenible en un contexto climático cad...",
+      "rag_answer": "No tengo información suficiente en los documentos para responder esa pregunta.",
+      "scores": {
+        "semantic_similarity": 2.0,
+        "factual_accuracy": 0.0,
+        "completeness": 1.0,
+        "relevance": 0.0
+      },
+      "source_match": false,
+      "category": "Climate"
+    }
+  ]
+}
