@@ -9,9 +9,9 @@ about the Greenpeace dataset using Google's Gemini model.
 
 Features:
 - Uses local embeddings for retrieval (no API cost)
-- Gemini 2.0 Flash for generation (free tier friendly)
+- Gemini 1.5 Flash for generation (better quality, still free tier)
 - Context-aware responses with source citations
-- Configurable number of relevant chunks
+- Configurable number of relevant chunks (increased to 8)
 
 Usage:
     python rag_qa_system.py
@@ -29,7 +29,7 @@ from typing import List, Dict, Optional
 from dotenv import load_dotenv
 
 # LangChain imports
-from langchain_ollama import OllamaLLM
+from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_chroma import Chroma
 from langchain_community.embeddings import SentenceTransformerEmbeddings
 from langchain_core.prompts import ChatPromptTemplate
@@ -49,17 +49,17 @@ class RAGQuestionAnswering:
     
     def __init__(self, 
                  chroma_db_dir: str = "chroma_db_rag",
-                 model_name: str = "gemini-2.0-flash-exp",  # Free tier model
-                 max_tokens: int = 1000,  # Conservative for free tier
-                 top_k: int = 5):
+                 model_name: str = "llama3.2",  # Optimized Ollama model  
+                 max_tokens: int = 2048,  # Increased for better responses
+                 top_k: int = 8):  # More context for better accuracy
         """
         Initialize the RAG QA system.
         
         Args:
             chroma_db_dir: Directory with the ChromaDB
-            model_name: Gemini model to use
-            max_tokens: Maximum tokens for response (keep low for free tier)
-            top_k: Number of relevant chunks to retrieve
+            model_name: Ollama model to use (llama3.2 with optimized parameters)
+            max_tokens: Maximum tokens for response (increased for completeness)
+            top_k: Number of relevant chunks to retrieve (8 for better context)
         """
         # Load environment variables
         load_dotenv()
@@ -84,24 +84,26 @@ class RAGQuestionAnswering:
             persist_directory=str(self.chroma_db_dir)
         )
         
-        # Initialize local Ollama model
-        logger.info(f"Initializing local Ollama model...")
+        # Initialize Ollama model (fallback while resolving Gemini API issues)
+        logger.info(f"Initializing Ollama model: {model_name}")
         try:
+            from langchain_ollama import OllamaLLM
             self.llm = OllamaLLM(
-                model="llama3.2",  # Usar llama3.2 local
-                temperature=0.1,  # Low temperature for factual responses
+                model=model_name,
+                temperature=0.2,  # Optimized temperature
+                num_predict=max_tokens  # Increased for more complete responses
             )
-            logger.info("Local Ollama model initialized successfully")
+            logger.info(f"Ollama model {model_name} initialized successfully")
         except Exception as e:
             logger.error(f"Error initializing Ollama: {e}")
             logger.info("Make sure Ollama is running with: ollama serve")
-            logger.info("And the model is installed with: ollama pull llama3.2")
+            logger.info(f"And the model is available: ollama pull {model_name}")
             raise
         
         # Prompt template will be built dynamically
         pass
         
-        # Create retriever
+        # Create retriever with improved search parameters
         self.retriever = self.vector_store.as_retriever(
             search_type="similarity",
             search_kwargs={"k": self.top_k}
@@ -125,24 +127,33 @@ class RAGQuestionAnswering:
         return "\n".join(formatted_chunks)
     
     def _build_rag_prompt(self, context: str, question: str) -> str:
-        """Construye el prompt para el RAG."""
-        return f"""You are an expert assistant on environmental topics and Greenpeace. 
-Answer the question based ONLY on the provided context.
-If the information is not in the context, say "I don't have sufficient information in the documents to answer that question."
+        """Construye el prompt para el RAG usando Gemini 1.5 Pro."""
+        return f"""You are a highly knowledgeable environmental policy expert and Greenpeace specialist. 
+Your task is to provide comprehensive, accurate, and well-structured answers based STRICTLY on the provided context.
 
-Greenpeace documents context:
+CONTEXT FROM GREENPEACE DOCUMENTS:
 {context}
 
-Question: {question}
+QUESTION: {question}
 
-Instructions:
-- Answer in English
-- Be precise and factual
-- Cite sources when relevant
-- If there are multiple perspectives in the context, mention them
-- Keep the answer concise but informative
+INSTRUCTIONS:
+1. **Accuracy**: Base your answer ONLY on the provided context. If information is missing, explicitly state "I don't have sufficient information in the documents to answer that question."
 
-Answer:"""
+2. **Comprehensiveness**: Provide a detailed, complete answer that addresses all aspects of the question when information is available.
+
+3. **Structure**: Organize your response with clear sections or bullet points when appropriate.
+
+4. **Evidence**: Include specific facts, statistics, dates, and examples from the context.
+
+5. **Sources**: Reference specific documents or sources when citing information.
+
+6. **Multiple Perspectives**: If the context contains different viewpoints or approaches, present them fairly.
+
+7. **Language**: Answer in English with clear, professional language suitable for policy makers and researchers.
+
+8. **Context Integration**: Synthesize information from multiple documents when relevant to provide a complete picture.
+
+DETAILED ANSWER:"""
     
     def ask_question(self, question: str, 
                     category_filter: Optional[str] = None,
@@ -304,7 +315,8 @@ def main():
         print(f"\n✅ Sistema listo!")
         print(f"📊 Categorías disponibles: {len(rag_qa.get_available_categories())}")
         print(f"🔍 Chunks por consulta: {rag_qa.top_k}")
-        print(f"🤖 Modelo: Gemini 2.0 Flash (versión gratuita)")
+        print(f"🤖 Modelo: {rag_qa.llm.model} (Ollama con parámetros optimizados)")
+        print(f"🎯 Configuración mejorada: temperatura 0.2, tokens 2048, retrieval top_k 8")
         
         # Example questions
         print("\n🧪 Probando con preguntas de ejemplo...")

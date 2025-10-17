@@ -1,54 +1,48 @@
 {
-  "total_qa_pairs": 749,
+  "total_qa_pairs": 50,
   "categories": {
-    "Energy Transfer Lawsuit": 3,
-    "Climate": 241,
-    "Forests": 72,
-    "Oceans": 44,
-    "Toxics": 80,
-    "Myth of Recycling": 6,
-    "Sustainable Seafood": 46,
-    "Fossil Fuels": 91,
-    "Nuclear": 31,
-    "Canadian Boreal": 8,
-    "Democracy": 5,
-    "Brazilian Amazon": 31,
-    "Indonesian Rainforests": 33,
-    "Agriculture": 19,
-    "Plastics": 11,
-    "Greenpeace": 4,
-    "Extreme Weather": 1,
-    "Bitcoin": 7,
-    "Deep Sea Mining": 3,
-    "Plastics & Health": 8,
-    "Voting Rights": 4,
+    "Nuclear": 2,
+    "Fossil Fuels": 3,
+    "Deep Sea Mining": 1,
+    "Forests": 8,
+    "Climate": 15,
+    "Indonesian Rainforests": 5,
+    "Plastics": 1,
+    "Toxics": 4,
+    "Sustainable Seafood": 1,
+    "Agriculture": 1,
+    "Bitcoin": 1,
+    "Oceans": 4,
+    "Brazilian Amazon": 1,
+    "Democracy": 1,
+    "Plastics & Health": 1,
     "Arctic": 1
   },
   "top_10_source_files": {
-    "just-recovery-agenda.txt": 36,
-    "oil-in-the-cloud.txt": 24,
-    "the-true-cost-of-coal.txt": 20,
-    "windforce-12-2004.txt": 17,
-    "energy-r-evolution.txt": 15,
-    "eating-up-the-amazon.txt": 15,
-    "fossil-fuel-racism.txt": 14,
-    "president-bidens-100-day-climate-progress-report.txt": 14,
-    "moment-truth-time-brands-come-clean-links-forest-destruction-palm-oil.txt": 14,
-    "clicking-clean.txt": 13
+    "the-last-intact-forest-landsca.txt": 4,
+    "oil-in-the-cloud.txt": 4,
+    "protection-money.txt": 3,
+    "just-recovery-agenda.txt": 3,
+    "logs-of-war.txt": 2,
+    "windforce-12-2004.txt": 2,
+    "clicking-clean.txt": 2,
+    "france-s-nuclear-failures.txt": 1,
+    "permit-to-kill.txt": 1,
+    "deep-deception.txt": 1
   },
   "question_length_stats": {
-    "min": 76,
-    "max": 207,
-    "avg": 137.30307076101468
+    "min": 98,
+    "max": 225,
+    "avg": 134.88
   },
   "answer_length_stats": {
-    "min": 121,
-    "max": 772,
-    "avg": 446.2790387182911
+    "min": 117,
+    "max": 684,
+    "avg": 461.76
   },
   "paragraph_length_stats": {
-    "min": 201,
-    "max": 799,
-    "avg": 455.6849132176235
+    "min": 206,
+    "max": 794,
+    "avg": 443.64
   }
 }
