@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 greenpeace/
-chroma_db_rag/
+chroma_db/
 
 # Distribution / packaging
 .Python
