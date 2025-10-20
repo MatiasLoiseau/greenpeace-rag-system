@@ -1,0 +1,1609 @@
+Herakles Farms in Cameroon
+A showcase in bad palm oil production
+
+ 1
+
+g
+r
+e
+e
+n
+p
+e
+a
+c
+e
+.
+o
+r
+g
+
+Herakles Crime File
+
+Center Photo: Workers in an artisanal palm oil mill near
+Mundemba Cameroon.
+
+© Jan-Joseph Stok / Greenpeace
+
+Greenpeace is an independent campaigning
+
+organization that acts to expose global environmental
+
+problems and achieve solutions that are essential to a
+
+green and peaceful future.
+
+version 1.1
+updated 03/05/2013
+
+Previous version
+Published February 2013 by
+
+Greenpeace USA
+
+702 H Street NW Suite 300
+
+Washington, DC 20001
+
+Tel/ 202.462.1177
+
+Printed on 100% post-consumer
+recycled paper, made using
+chlorine-free processing, printed
+with vegetable based inks on a
+wind-powered press.
+
+Front Cover Photo: The Fabe Nursery, run illegally
+by Herakles Farm through its subsidiary SGSOC (SG
+Sustainable Oil Cameroon). Despite a judge issuing an
+injunction in August 2011 ordering a halt to all operations
+on the nursery, Herakles Farms was continuing to operate
+it illegally in February 2012 when this photo was taken. All
+workers here were told they would be supplied with boots
+and hats, but had yet to receive them when Greenpeace
+visited in early 2012.
+
+© Jan-Joseph Stok / Greenpeace
+
+book design by andrew fournier
+
+Table of Contents:
+
+ExEcutivE Summary:
+p.
+
+4–5
+
+introduction:
+6–7
+p.
+
+undErvaluing thE forESt
+p.
+
+8–9
+
+hEraklES farmS’ illEgal forESt dEStruction
+p.
+
+10–15
+
+concluSion:
+16
+p.
+
+rEfErEncES:
+p.
+
+17–18
+
+EndnotES:
+20–21
+p.
+
+ 4
+
+Greenpeace
+
+Herakles Crime File
+
+Executive Summary
+
+land graBBing in africa rEprESEntS a SEriouS dangEr to thE livElihoodS of Small
+
+farmErS and thrEatEnS millionS of hEctarES of forESt, containing rarE haBitatS
+and hugE QuantitiES of StorEd carBon. incrEaSing gloBal dEmand for palm oil1
+iS onE of thE maJor drivErS of nEW land acQuiSitionS. rESEarch conductEd By
+
+grEEnpEacE intErnational in 2012 found that 27 palm oil proJEctS WErE rEportEd
+in cEntral and WESt africa, covEring around 2.6 million hEctarES of forESt.2
+
+Herakles Farms —
+setting a bad example
+
+The palm oil project being developed by the US-owned
+company Herakles Farms in Cameroon demonstrates
+the threat posed by badly managed expansion of oil
+palm plantations. The project covers 73,086 hectares
+(180,599 acres)3 of forest and existing farmland and
+is home to an estimated 14,000 people,4 mostly small
+farmers. Residents are fiercely opposing the plantation,
+fearing it will deprive them of their farmland and access
+to forest products. International and Cameroonian
+NGOs and scientists are also critical of the project5 on
+the grounds of illegality6, social and economic injustice
+and environmental destruction.
+
+Cameroon lies within the Congo Basin, home to the
+second largest rainforest in the world, and this project
+threatens to become a dangerous model for deforesta-
+tion driven by palm oil across the entire area. Situated
+in the Southwest Region , the plantation would cover
+most of the land linking five protected areas including
+Korup National Park. This region is part of the Guinean
+forests of West Africa, identified by Conservation
+International as a “biodiversity hotspot” —one of the
+world’s top 25 critical areas for biodiversity conserva-
+tion.7
+
+Maps covering the Herakles Farms project area,
+compiled by Greenpeace, show it includes 62,433
+hectares (154,209 acres) of dense natural forest,8
+constituting 89% of the proposed concession.
+
+Illegal forest destruction
+In 2010, Herakles began illegally clearing forest9
+to establish oil palm nurseries, in the absence of a
+presidential decree authorizing the concession, which
+is required by law.10 Herakles has also violated a court
+decision, made in the town of Mundemba, to suspend
+all activity of its plantation following a complaint filed
+by local people. Furthermore, the company was found
+guilty of illegal logging; forestry officials issued a report
+detailing these activities in April 2012.
+
+A rainbow is seen above the coastal rainforest of Cameroon. This forest, at the fringe
+of the Congo Basin, is a biodiversity hotspot, home to endangered species including
+chimpanzees and forest elephants. It also provides hunting and fishing grounds,
+building materials, fuel wood and medicine for local communities. The forest, and
+the people and animals who depend on it, are being threatened by a proposed palm
+oil plantation that would flatten an area eight times the size of Manhattan. The
+corporation behind the proposed project, US-based Herakles Farms, is pressing ahead
+with forest clearance, despite widespread local opposition.
+
+© Greenpeace / Alex Yallop
+
+Clearing of trees in a concession area of Herakles Farm for a palm oil plantation.
+Herakles is pushing ahead with its plans for a huge palm oil plantation with complete
+disregard for the opposition of local people, who fear they will lose their farms and
+their livelihoods to the US-based corporation.
+
+© Greenpeace / Alex Yallop
+
+Executive Summary
+
+ 5
+
+Oil palm nursery in a Herakles Farm’s concession area. Herakles is pushing ahead with its
+plans for a huge palm oil plantation with complete disregard for Cameroonian law and the
+opposition of local people, who fear they will lose their farms and their livelihoods to the
+US-based corporation.
+
+When residents protested against the plantation
+in June 2012 they were met with intimidation and
+arrests.11 In August 2012, Nasako Besingi, the director
+of Cameroonian NGO SEFE (Struggle to Economize
+Future Environment), was physically assaulted by
+people associated with Herakles, while he visited the
+area with French journalists.12
+
+In November 2012, while preparing a peaceful
+demonstration, Besingi and other members of SEFE
+were arrested at the organization’s headquarters, and
+held without charge.13 They were released following
+international criticism, including an appeal from the
+World Organization Against Torture (OMCT) and the
+International Federation for Human Rights (FIDH).14
+
+Herakles has commissioned reports attempting
+to cover up the negative impacts of the project. Its
+environmental and social impact assessment (ESIA)
+is inadequate. It acknowledges the project will
+have “major” impacts on livelihood15 but makes no
+provision for mitigation. Residents report that they
+were not consulted, and complain of verbal promises
+that have not been fulfilled and that farmland was
+demarcated without consent.16 The assessment of
+the High Conservation Value (HCV) forests in the
+project area claimed that only small patches should
+be preserved,17yet an independent review of the data
+concluded that the report indicates that “most of the
+area should be dense lowland rainforest and therefore
+of high conservation value.”18
+
+Failing international standards
+and deterring customers
+Herakles Farms say they are committed to “meeting
+or exceeding” Roundtable on Sustainable Palm Oil
+(RSPO) and International Finance Corporation (IFC)
+standards.19 However, Herakles Farms withdrew its
+RSPO membership in August20 2012 after official
+complaints by NGOs accused it of not complying
+with standards.21 The project would also fail IFC
+Performance Standards on a number of criteria,
+including breach of national law.22 Major multinational
+buyers of palm oil such as Nestlé, Unilever, WalMart
+and McDonalds —the companies Herakles sees as
+potential customers23—are adopting policies that,
+from 2015, they will only buy RSPO-certified palm oil,
+meaning Herakles’ disregard for environmental and
+social issues is likely to exclude the company from one
+of its target markets.
+
+The wrong project in the wrong place
+Herakles Farms is imposing its plantation without the
+free, prior and informed consent of the communities
+that will be directly affected and in the face of op-
+position from the people who will be most impacted.
+The project would remove land and resources that
+are critical to the livelihoods of local communities
+and would disastrously impact biodiversity as well as
+produce millions of tons of greenhouse gas emissions.
+
+Following such as model would send Africa’s forests
+down the path seen in Indonesia and Malaysia where
+oil palm plantations have caused millions of hectares
+of deforestation.24 African countries and investors are
+at a crossroads. They can choose an alternative way
+by promoting small-scale agricultural investments.
+They can also prioritize investment in projects that not
+only respect people’s rights and livelihoods but also
+preserve the forest’s biodiversity and carbon stocks.
+
+ 6
+
+Greenpeace
+
+Herakles Crime File
+
+Introduction:
+
+The great African land grab
+Since 2000, foreign investors in agriculture have report-
+edly bought or leased over 56 million hectares of Africa:
+an area almost the size of Kenya.25 Some are govern-
+ments, particularly from the Middle East and China, while
+others are corporations, including plantation companies
+and speculators that view land as a good investment in a
+time of rising crop prices.26
+
+A recent analysis of land grabs found that “Reported
+land deals in Africa concern an area equivalent to 4.8%
+of Africa’s total agricultural area.”27 This represents a
+serious threat to the livelihoods of small farmers and to
+food sovereignty in the often very poor countries where
+control of large areas of fertile land is being handed to
+foreign interests. Reports suggest the majority of land
+acquired by foreign investors will not be used to meet
+local needs or improve food security28 but to grow crops
+for export—both food and biofuel feedstock.29
+
+Land grabs also threaten Africa’s forests, which contain
+rare habitats and huge quantities of stored carbon.
+Unabated land grabbing for commercial agriculture
+represents a massive new threat to biodiversity and an
+increase in greenhouse gas emissions. In the Congo
+Basin, logging companies already control some 44
+million hectares of forest30, while another several
+hundred thousand hectares are threatened by new palm
+oil ventures.
+
+Palm oil is a major driver of new land acquisitions.
+The oil palm is native to west and central Africa and is
+widely cultivated in the region, but currently most oil
+palm production comes from Malaysia and Indonesia.31
+Rapidly increasing demand for palm oil for food use and
+biofuels32 is leading to a new wave of industrial-scale
+planting in Africa. Research conducted by Greenpeace
+International in 2012 found that 27 palm oil projects were
+reported in Central and West Africa covering around 2.6
+million hectares of forest.33 Many of these are in the early
+stages of development. This huge area is likely to be
+cleared if the plantations are not stopped.
+
+Herakles Farms—
+setting a bad example
+The US-owned Herakles Farms’ palm oil project in the
+Southwest Region of Cameroon exemplifies the threat
+posed by ill-conceived expansion of oil palm plantations.
+It covers 73,086 hectares (180,599 acres)34—an area
+more than ten times the size of Manhattan. Herakles
+Farms, through its subsidiary SG Sustainable Oils Cam-
+eroon (SGSOC), plans to plant around 60,000 hectares
+(148,200 acres) of oil palms.35 The Cameroonian Minister
+of the Economy signed the establishment convention
+for the project in 2009 and the plantation is currently at
+the early planting stage. The project as a whole presents
+major social, environmental and legal issues.
+
+The allocated land is home to at least 14,000 people,
+according to the company,36 and lies on or near the
+borders of five protected areas, including Korup National
+Park. This is “an ecologically vital area—one of the
+largest surviving tracts of lowland forest in the Gulf of
+Guinea”, according to a group of leading scientists.37 A
+2012 study by Greenpeace International shows that the
+forest in the project area contains a high carbon stock,
+meaning the project threatens to produce millions of tons
+of greenhouse gas emissions when the forest is cleared
+to make way for oil palm trees.
+
+The area includes 62,433 hectares (154,209 acres) of
+dense natural forest38 as well as farmland and agrofor-
+estry smallholdings. There is extensive local opposition
+to the project, which residents fear will deprive them
+of their land and access to forest products: like many
+farmers in Africa, most lack formal title to their land. A
+Greenpeace team documented that the setting up of
+one of the project’s nurseries at Fabe deprived people of
+access to a valuable collecting area for forest products,39
+and that cocoa farms have been taken without farmers’
+consent.40 Locals were not properly consulted before the
+establishment convention was signed. The convention
+gives Herakles Farms the exclusive right to farm in the
+area41 and includes no provisions for compensation of
+residents. The company claims “a huge outpouring of
+support from communities”, and says its project will not
+displace people,42 yet simultaneously communities have
+consistently objected to the plans by complaining to the
+government, signing petitions and organizing peaceful
+demonstrations.
+
+ 7
+
+BEtWEEn 2005 and 2010 camEroon loSt
+
+morE than 1% of itS forESt Each yEar.48
+
+thE hEraklES farmS proJEct liES on thE
+
+EdgE of thE congo BaSin rainforESt,
+
+thE World’S SEcond largESt arEa of
+
+tropical forESt. land-graBBing for oil
+
+palm plantationS thrEatEnS to incrEaSE
+
+dEforEStation acroSS thE rEgion: hEraklES
+
+farmS muSt BE StoppEd BEforE itS proJEct
+
+can SEt a dangErouS prEcEdEnt for
+
+unSuStainaBlE palm oil dEvElopmEnt
+
+throughout thE congo BaSin.
+
+Oil Palm Nursery in Cameroon
+
+© Greenpeace / Alex Yallop
+
+Cameroonian and international NGOs and scientists
+have also opposed the project43 citing illegality, a
+lack of respect for people’s rights, damage to local
+livelihoods and environmental destruction. Two local
+NGOs, the Centre for Environment and Development
+(CED) and Réseau de lutte contre la faim (Relufa) have
+laid out how the establishment convention violates
+both national and international law.44 They have also
+shown that, although the agreement gives the com-
+pany “exclusive use” of the land,45 the area includes
+zones that had already been officially designated for
+a mining exploration permit, a logging concession
+(yet to be awarded), and two small-scale logging
+permits.46 Such overlap in intended land usage could
+cause legal conflicts between Herakles Farms and
+other future permit holders. More importantly, they
+illustrate the confusion and damage unplanned land
+allocation is causing. Greenpeace supports the call
+from CED and Relufa for a moratorium on the granting
+of new concessions until Cameroon sets up compre-
+hensive land-use planning and clarifies the processes
+for land allocation.47
+
+A land measuring about 3 hectares that has been
+recently cleared by Herakles Farms next to the
+Tallangaye oil palm nursery.
+
+© Greenpeace
+
+Oil palm nursery in a Herakles Farm’s concession area.
+
+© Greenpeace/ Alex Yallop
+
+View of PAMOL oil palm plantation from the top of the
+hills near the town of Mundemba.
+
+© Jan-Joseph Stok / Greenpeace
+
+ 8
+
+Greenpeace
+
+Herakles Crime File
+
+Undervaluing the forest
+
+Residents
+SGSOC’s Environmental and Social Impact Assessment states that the
+project area is home to more than 14,000 people. 50 Greenpeace France
+and the Cameroonian NGO the Citizens’ Association for the Defense
+of Collective Interests (ACDIC) have conducted research into farming
+systems in the districts covering the Herakles Farms project area. Most
+of the inhabitants are small farmers, growing cassava, palm oil, bananas
+and other crops for subsistence and to supply local markets. Some
+areas produce cocoa as a cash crop.51 Palm oil is mostly processed on
+an artisanal basis to supply unrefined (red) oil for local sale.52 Gathering
+forest products such as bush mango (Irvingia gabonensis), monkey
+cola (Cola lepidota) and bush pepper is also important, particularly for
+women: forest products provide around 30% of women’s cash income in
+the region.53 Herakles’ promise of plantation jobs may be of little help to
+local farmers: the researchers estimate that an average cocoa grower in
+the area currently earns around twice as much a year as an agricultural
+laborer at the Cameroonian company Pamol’s nearby oil palm plantation
+in Ndian.54 Farmers face an array of problems, ranging from a lack of
+formal land rights to exploitation by cocoa traders. Losing farmland and
+forest to the Herakles’ plantation would only exacerbate these difficulties.
+
+The chief delegation walk to meet with
+the local community, after their meeting
+with the Sub- Divisional Officer to ask
+why he banned their event.
+
+© Jean-Pierre Kepseu / Greenpeace
+
+ 9
+
+A biodiversity hotspot
+
+The plantation would cover the majority of the land
+linking five protected areas: Korup National Park, Bakossi
+National Park, Mbanyang Mbo Wildlife Sanctuary, Nta
+Ali Forest Reserve and Rumpi Hills Forest Reserve.
+This area is part of the Guinean forests of West Africa,
+identified by Conservation International as a “biodiversity
+hotspot”—one of the world’s top 25 critical areas for
+biodiversity conservation.55
+
+The protected areas are home to many threatened
+species, including the Drill (Mandrillus leucophaeus),
+Preuss’s red colobus (Procolobus preussi), the Nigerian
+subspecies of the chimpanzee (Pan trogolodytes ellioti)
+as well as rare amphibians, birds and plants. Plans
+belonging to the management teams for Korup National
+Park and Nta Ali Reserve have indicated that larger
+animals, such as elephants, chimpanzees and the
+endangered Drill, use the forests in the Herakles project
+area to forage and move among the different protected
+areas.56 The forests perform a vital function in linking
+populations of large threatened mammals. Aerial survey
+shows that the forest cover within the project area is
+very similar to that in neighboring Korup National Park,
+indicating the biodiversity value of the habitat.
+
+The global climate
+Greenpeace International carried out detailed satellite
+mapping and an aerial survey of the Herakles Farms proj-
+ect area in November 2012 and found the area contains
+62,433 hectares of dense natural forest57 —constituting
+89% of the area surveyed.58 If it were cleared for planta-
+tion, most of the forest‘s carbon would be released—a
+massive yet totally avoidable addition to climate change.
+
+© Markus Mauthe / Greenpeace
+
+© Greenpeace / Steve Morgan
+
+© Greenpeace / Verbelen
+
+© Greenpeace / Verbelen
+
+ 10
+
+Greenpeace
+
+Herakles Crime File
+
+Herakles Farms’ illegal
+forest destruction
+
+Herakles Farms began clearing land for its plantation
+in 2010, despite overwhelming evidence of the forest’s
+global, regional and local importance.59 The project
+has from the beginning, been conducted in violation
+of national law60. At the time of writing, the company
+has not received a presidential decree authorizing the
+concession, which is required under Cameroonian law.61
+In 2010, Herakles began creating nurseries for oil palms,
+without authorization for forest conversion and before
+being issued a “Certificate of Environmental Conformity”
+by the Ministry of Environment, Nature Protection
+and Sustainable Development. In April 2012, ministry
+investigators confirmed illegal felling of trees and land
+clearance at the Talangaye site. They seized equip-
+ment and issued SGSOC with a summons to which62
+Herakles Farms has reportedly failed to respond.63 A
+month later, a visit by ministry officials and Cameroon’s
+EU-financed Independent Forest Observer’ confirmed
+illegal acts had taken place.64 In early November, a flight
+over the area, organized by Greenpeace International,
+documented ongoing clearing.
+
+Residents of the villages of Toko and Fabe organized
+a protest against the plantation during a visit of the
+regional governor in June 2012: they were met with
+intimidation and arrests.65 In November 2012 activists
+from Cameroonian environmental group Struggle to
+Economize our Future Environment (SEFE), who have
+been organizing non-violent protest against Herakles
+Farms, were arrested and held for several days,
+without charges66—part of a pattern of harassment
+against the organization.
+
+In September 2012, Herakles CEO Bruce Wrobel
+published an open letter denying illegality in relation
+to the project. The letter was issued in response to a
+report by the Oakland Institute in collaboration with
+Greenpeace International.67 The letter repeats Her-
+akles’ claim that the project will create “tremendous
+economic, social and environmental benefits”.68 Wrobel
+claims that the forests in the project area have been
+“logged and farmed repeatedly” and are of little value,
+yet on the same page claims that Herakles will harvest
+timber so the government can sell it for “many millions
+of dollars.”69
+
+Herakles Concession Area
+Percentage forest cover
+
+89% Dense Forest
+
+ 11
+
+ 12
+
+Greenpeace
+
+Herakles Crime File
+
+Herakles Farms’ illegal forest destruction
+
+Wrobel has set up a charitable organization, All For
+Africa, which, amongst other activities, claims to
+tackle poverty by establishing palm oil plantations. The
+organization’s Palm Out Poverty initiative is subsidizing
+up to 1 million oil palm trees. However, All For Africa
+has taken money donated to it for charitable purposes
+to start and manage oil palm nurseries in Cameroon.
+Although the nurseries have AFA’s name on them, they
+are being used to pave the way for the commercial
+development of the Herakles’ plantation.
+
+Herakles Farms has been unable to produce evidence
+of any proper authorization permitting either clearing
+or planting, despite several demands to do so by
+Greenpeace, and despite their own claims their
+activities are legal. They have been equally unable to
+demonstrate the alleged low value of the forest after
+their HCV assessment was called inadequate by the
+HCV Resource Network (a group dedicated to the
+improvement of the HCV concept).70
+
+Herakles Concession Area
+Percentage forest cover
+
+Herakles Farms is a palm oil production company.
+
+© Jan-Joseph Stok / Greenpeace
+
+Map taken from:
+
+Herakles Summary Report of
+ESIA and HCV Assessments
+
+SG Sustainable Oils Cameroon
+
+ 13
+
+Herakles Farms’ illegal forest destruction
+
+How Herakles Farms ignores High
+Conservation Value Forest
+
+Herakles Farms has carried out an environmental and
+social impact assessment (ESIA) of the project, as re-
+quired by Cameroonian law. The government accepted
+the report despite criticism from scientists and NGOs.
+The methods used in the ESIA environmental surveys
+were inadequate: plant and animal surveys lasted only
+22 days during the rainy season, when it is difficult
+to detect animals; and the surveys covered less than
+0.003% of the project area,71 with many locations
+close to roads or settlements and hence less likely to
+find rare species.72 Although the ESIA refers to carbon
+emissions, it makes no attempt to assess the actual
+carbon stock of the land to be cleared or to quantify
+potential greenhouse gas emissions, merely noting
+that “The planting of oil palm trees and cover crops
+over most of the area cleared will offset the clearing of
+biomass, but the total biomass will not be restored.”73
+
+The ESIA also misrepresents the social impact of the
+project. It claims the “vast majority” of local people
+“had a favorable opinion of” the Herakles project.74
+Although acknowledging the project will have “major”
+impacts on livelihoods,75 it makes no provision for a
+mitigation plan, recognizing only that “losses of some
+traditional livelihood opportunities, particularly those
+related to Non-Timber Forest Products and hunting”
+are to be expected.76 By contrast, filming in the area by
+the Oakland Institute with the support of the organiza-
+tion SAVE-Wildlife demonstrates there was a lack of
+consultation with little benefit to locals.77 Residents
+of Fabe village report that they were not consulted
+and have made no written agreements with Herakles
+Farms; they complain that promises made verbally
+have not been fulfilled. They point to a water pump
+installed by the company as an example; situated next
+to a large billboard advertising the company, they say
+it has not worked in 13 months.78 In Ekita, villagers
+accuse Herakles of demarcating areas without the
+consent of farmers while they were absent and
+without their consent, marking farmland to be part of
+the plantation.79
+
+Herakles also commissioned an assessment of the
+High Conservation Value (HCV) forests in the area,
+required for meeting Roundtable on Sustainable
+Palm Oil standards. The HCV Resource Network
+peer-reviewed the assessment report and found that
+it was “not rigorous enough for a project of this scale
+and intensity…not adequate to comply with RSPO
+principles”.80 It noted “major issues” with almost
+
+all areas of the assessment, including: the survey
+techniques used, decisions on HCV status, and failing
+to protect HCV areas from conversion.81 An analysis
+of the HCV assessment data on plant and animal
+species by biologists specializing in the region led to
+the conclusion that “most of the area should be dense
+lowland rainforest and therefore of high conservation
+value”.82 By contrast, a map of HCV sites identified by
+Herakles shows only small isolated patches of forest,
+surrounded by massive blocks of plantation, and sites
+listed in a table are mostly less than 25 hectares, or on
+steep slopes unsuitable for oil palm cultivation.83
+
+At the time of writing this report, the HCV section of
+Herakles Farms’ website is still displaying an “under
+construction” message.
+
+What arE high conSErvation valuES arEaS?
+
+•	 HCV1.	Areas	containing	concentrations	of	biodiver-
+
+sity	values	of	global,	national	or	regional	significance
+(e.g.	endemism,	endangered	species).
+
+•	 HCV2.	Globally,	regionally	or	nationally	significant
+
+large	landscape	level	areas	where	viable	populations
+of	most,	if	not	all,	naturally	occurring	species	exist	in
+natural	patterns	of	distribution	and	abundance.
+
+•	 HCV3.	Areas	that	are	in,	or	contain,	rare,	threatened
+
+or	endangered	ecosystems.
+
+•	 HCV4.	Areas	that	provide	nature	with	critical	basic
+
+services	(e.g.	watershed	protection,	erosion	control).
+
+•	 HCV5.	Areas	fundamental	to	meeting	the	basic
+
+needs	of	local	communities	(e.g.	subsistence,
+health).
+
+•	 HCV6.	Areas	critical	to	the	traditional	cultural	identity
+of	local	communities(identified	in	cooperation	with
+such	communities).
+
+Source: High Conservation Value Forests:
+http://www.hcvnetwork.org/site-info/The%20high-
+conservation-values-folder
+
+ 14
+
+Greenpeace
+
+Herakles Crime File
+
+Herakles Farms’ illegal forest destruction
+
+Failing international standards
+
+Herakles Farms claims it is “committed to meeting or exceeding RSPO Principles & Criteria, as well as the International
+Finance Corporation (IFC) Performance Standards”.84 The company is failing to meet these commitments.
+
+The stated aim of RSPO is to promote the use of sustainable oil palm products that adhere to a set of global standards.
+In reality these standards are still too weak to be able to call RSPO-certified palm oil “sustainable.” Furthermore they do
+not prevent deforestation and peat land clearance85, Herakles Farms does not meet even these imperfect standards.
+Herakles’ subsidiary SGSOC was an RSPO member but left in August 201286 after official complaints filed by NGOs
+accused it of not complying with RSPO’s standards.87 Herakles claims it withdrew its membership because “the...
+grievance process is preventing the company from moving forward during a critical and time-sensitive period, in which
+we must move our first planting of seedlings from the nursery to the field”.88 The company’s real commitment to the
+RSPO Principles and Criteria can be judged by its decision to withdraw as soon as its failings were exposed and before
+the complaints were resolved. Meeting these standards was a major plank of Herakles’ public relations strategy,89 so the
+withdrawal indicates failure on the company’s own terms.
+
+The International Finance Corporation (IFC) Performance Standards applicable to palm oil plantations are weak and
+full of loopholes. For example, they use language suggesting companies should “minimize”, “mitigate” or make “efforts
+to avoid” negative impacts on sensitive ecosystems and local communities.90 However, it is clear that Herakles Farms’
+project would fail even these standards, in particular because the project is in breach of national law.91 The project
+also breaches more specific standards, such as by not limiting or even quantifying its greenhouse gas emissions (PS3,
+paragraphs 7-8) and by confiscating land with no provision for compensation92 (PS5 paragraphs 25-29). The IFC has
+told Greenpeace that since it has no investment in Herakles Farms, it has no duty to assess whether Herakles meets its
+standards.93 In the absence of a credible independent assessment, Herakles’ claims can be treated as pure PR.
+
+These palm seeds are ready to be pressed.
+The fruit itself is made into palm oil while the
+nut is used for something called palm kernel
+oil. These are a local variety that are grown by
+smallholders, however in their recently granted
+concessions Herkales Farms plans to grow
+genetically selected varieties sold to them by
+IRAD, a national institute that has previously
+claimed via a controversial ecological
+assessment, that the Herakles planned palm
+oil plantation area constitutes only secondary
+degraded forest.
+
+© Jan-Joseph Stok / Greenpeace
+
+An old grown tree in the primary forest where
+an oil palm plantation is planned. Most of the
+area is covered with primary or high value
+secondary forest. While Herakles Farms
+state that it consists of “secondary heavily
+degraded forest”.
+
+© Jan-Joseph Stok / Greenpeace
+
+The Fabe Nursery, run illegally by Herakles
+Farm through its subsidiary SGSOC (SG
+Sustainable Oil Cameroon). Despite a judge
+issuing an injunction in August 2011 ordering a
+halt to all operations on the nursery, Herakles
+Farms was continuing to operate it illegally in
+February 2012 when this photo was taken. All
+workers here were told they would be supplied
+with boots and hats, but had yet to receive them
+when Greenpeace visited in early 2012.
+
+© Jan-Joseph Stok / Greenpeace
+
+Herakles Farms’ illegal forest destruction
+
+Who will have to blacklist Herakles?
+
+Sourced through habitat destruction, through land
+grabbing from local people and through emitting
+millions of tons of carbon, Herakles Farms palm oil
+will fail ethical and ecological standards.
+
+Delilah Rothenberg, the Herakles Farms project
+manager, told the Cameroon Professional Society
+in 2011 that, although the African market is the
+primary target, her company hopes to sell to
+major multinational buyers of palm oil: “Nestlé,
+Unilever, WalMart, McDonalds…We expect
+them to be our customers.”94 But in reality these
+companies could not buy Herakles’ palm oil from
+Cameroon. All four, along with many other large
+consumers of palm oil, have adopted policies
+committing to only buying RSPO-certified palm
+oil from 2015 forward: a certification whose
+standards Herakles has failed to meet. Nestlé
+goes even further with its “Responsible Sourcing
+Guidelines”, which require suppliers to “protect
+high carbon stock forest”.95 A 2010 commitment
+by the international business group the Consumer
+Goods Forum, to which WalMart, Unilever, and
+Nestlé belong, aims for zero net deforestation by
+2020,96 suggesting many companies are moving
+towards tighter criteria than those stipulated by
+RSPO standards.
+
+ 15
+
+Companies commited to
+buying sustainable palm oil
+
+Nestlé: “By 2013, we are
+committed to achieve
+100% RSPO certified
+sustainable palm oil.”
+
+Unilever: “We will
+purchase all palm oil
+from certified sustainable
+sources by 2015.”
+
+McDonalds: “We are
+committed to sustainable
+palm oil and are focused
+on using only certified
+sustainable palm oil by
+2015.”
+
+WalMart, “Today we’re
+committing that we
+will require sustainably
+sourced palm oil in all
+of our private brand
+products globally by
+the end of 2015.”
+
+ 16
+
+Greenpeace
+
+Herakles Crime File
+
+Conclusion:
+
+The Wrong Project In The Wrong Place
+Herakles Farms is imposing its version of development without consent in the face of opposition from the people who will
+be most affected. Instead of adhering to its own commitment to meet RSPO and IFC standards, Herakles is breaching
+Cameroonian law, denying the project’s impact on biodiversity and ignoring the significant amount of greenhouse gas
+emissions it would cause.
+
+The plantation would take almost all of the land currently used by communities, undermining local food sovereignty as
+people are forced into wage labor at a time of rising global food prices. Muyali Boya Meboka, the division member of
+parliament, for Ndian, has suggested Herakles wants to “buy off” local communities with token development.101
+
+Internationally, while the market for “sustainable” palm oil is expanding rapidly and large buyers are beginning to tighten
+their standards on deforestation, Herakles Farms is pursuing an outdated model of environmentally damaging and
+ethically unacceptable production.
+
+Both via its practices and its withdrawal from RSPO, Herakles has admitted that it fails to meet “international standards”.
+Any customers of or investors in this kind of project would be at risk of association with legal, social and environmental
+scandals.
+
+Following the Herakles Farms model would send Africa’s forests down the disastrous path seen in South-East Asia,
+where unchecked expansion of industrial agriculture, including palm oil, has caused millions of hectares of deforestation.
+
+for african countriES, thE altErnativE iS to promotE invEStmEntS in proJEctS that rESpEct pEoplE’S rightS
+
+and livElihood, prioritizing Small-ScalE agriculturE. Such proJEctS can prESErvE BiodivErSity and forESt
+
+carBon StockS.
+
+Cameroon and other African countries should establish a moratorium on new large-scale land lease agreements
+for agro-industrial projects until clear safeguards are established. These safeguards would protect the rights of land
+users as well as natural forests and other high-value ecosystems. Participatory land use planning should be used to
+reconcile economic, social and environmental factors and reduce the risk of conflicting land use.
+
+Herakles Farms’ Destructive Palm Oil Project in Cameroon Must Be Stopped
+
+Greenpeace is calling for:
+
+Investors,	private	or	public,	to	not	invest	directly	or	indirectly	in	this	project.
+
+•	 Herakles	Farms	to	abandon	their	project.
+•
+•	 All	for	Africa	end	your	partnership	with	Herakles	Farms	on	the	Palm	Out	of	Poverty	project
+•
+
+The	Government	of	Cameroon	to	stop	the	project.
+
+grEEnpEacE iS calling on thE palm oil induStry and invEStorS to adopt and implEmEnt a “zEro dEforEStation
+
+policy”, thuS committing to invESt only in palm oil proJEctS that EnSurE thE protEction of natural forESt,
+
+and rESpEct thE rightS and livElihood of any indigEnouS pEoplES and local communitiES Who Will BE
+
+affEctEd By plantation opErationS. thEy muSt alSo StrivE for morE tranSparEncy and accountaBility.
+
+ 17
+
+References:
+
+Anseeuw, W; Boche, M; Breu, T; Giger, M; Lay, J; Messerli, P and K. Nolte
+
+(2012) ‘Transnational land deals for agriculture in the Global South.
+Analytical report based on the Land Matrix Database’. CDE/CIRAD/
+GIGA http://www.landcoalition.org/sites/default/files/publication/1254/analyti-
+cal%20report%20Web.pdf
+
+Baccini, A; Goetz, S.J; Walker, W.S; Laporte, N. T; Sun, M; Sulla-Menashe,
+D; Hackler, D; Beck, P.S.A; Dubayah, R; Friedl, M.A; Samanta, S and
+Houghton, R. A (2012). ‘Estimated carbon dioxide emissions from
+tropical deforestation improved by carbon-density maps’, Nature
+Climate Change 2 January 2012 http://dx.doi.org/10.1038/nclimatE1354
+
+Hance, J and Butler, R (2011) ‘Palm oil, poverty, and conservation collide
+in Cameroon’ 13 September 2011 http://news.mongabay.com/2011/0914-
+hance-butler_herakles_cameroon.html#fqlrvmE5diczpJWd.99
+
+HCV Resource Network (2012) ‘Technical Panel peer review of: Assess-
+ment of high conservation value on the SGSOC concession for oil
+palm development in South-Western Cameroon’ http://www.hcvnetwork.
+org/resources/assessments/SgSoc%20review_hcv%20tp_full%20final%20
+public.pdf
+
+Herakles Farms website: http://heraklesfarms.com/news.html
+
+CED (Centre pour l’Environnement et le Développement) (2012) ‘Herakles
+
+13th Labour? A study of SGSOC’s land concession in South-West
+Cameroon’ http://www.forestpeoples.org/sites/fpp/files/publication/2012/02/
+herakles-13th-labour-english.pdf
+
+International Finance Corporation (IFC) (2012) ‘Performance standards on
+environmental and social sustainability’ http://www1.ifc.org/wps/wcm/con
+nect/115482804a0255db96fbffd1a5d13d27/pS_English_2012_full-document.
+pdf?mod=aJpErES
+
+CED (Centre pour l’Environnement et le Développement), RELUFA (le
+
+Réseau de Lutte Contre la Faim au Cameroun) (2012), 13 reasons
+SGSOC/ Herakles’sproject in Cameroon has to beStoppedimmediate-
+lyhttp://www.save-wildlife.com/downloads/save_the_forest/13_rEaSonS_Eng-
+liSh.pdf
+
+Khasanah, N; van Noordwijk, M; Ekadinata, A; Dewi, S; Rahayu, S; Ningsih,
+H; Setiawan, A; Dwiyanti, E and Octaviani, R (2012) ‘The carbon
+footprint of Indonesian palm oil production. Technical brief No 25:
+palm oil series’ World Agroforestry Centre, ICRAF, SEA Regional
+Office http://worldagroforestry.org/our_products/publications/details?node=54002
+
+CED (Centre pour l’Environnement et le Développement), WWF, RELUFA
+(le Réseau de Lutte Contre la Faim au Cameroun) (2012) ‘Emerging
+trends in land-use conflicts in Cameroon’ http://www.rightsandresources.
+org/publication_details.php?publicationid=5267
+
+Kupsch, D and Waltert, M: ‘Oil palm development jeopardizes exceptional
+biodiversity and rural agroforestry systems in Southwest Cameroon’
+Poster presentation at the Conference Biodiversity and Society, 14-16
+November 2012. Göttingen, Germany.
+
+City of New York (2011) ‘Inventory of New York City greenhouse gas
+
+Linder, J.M. Laurance, W F; Struhsaker, T T; Lovejoy, T E; Ehrlich, P R;
+
+emissions’ by Jonathan Dickinson and Andrea Tenorio.www.nyc.gov/
+html/om/pdf/2010/pr412-10_report.pdf
+
+Conservation International website: www.conservation.org
+
+Farnan, C (2012) ‘Letter from Herakles Farms to RSPO re: Herakles Farms
+
+NPP Application’ 24 August 2012 http://heraklesfarms.com/docs/npp%20
+application%20lEttEr.pdf
+
+Food and Agriculture Organisation(FAO)/International Tropical Timber
+
+Organisation (ITTO) (2011) ‘The state of forests in the Amazon Basin,
+Congo Basin and Southeast Asia’ http://foris.fao.org/static/data/fra2010/
+Stateofforests_report_English.pdf
+
+Government of Cameroon/SGSOC (2009) ‘Establishment Convention
+by and between the Republic of Cameroon and SG Sustainable
+Oils Cameroon PLC’ September 17, 2009 Available at: http://www.
+oaklandinstitute.org/land-deals-africa-cameroon
+
+GRAIN (2012) ‘GRAIN releases data set with over 400 global land grabs’ 23
+February 2012 http://www.grain.org/article/entries/4479-grain-releases-data-
+set-with-over-400-global-land-grabs
+
+Greenpeace International (2012a) ‘Palm oil’s new frontier - How industrial
+
+expansion threatens Africa’s rainforests’ www.greenpeace.org/international/
+en/publications/campaign-reports/forests-reports/palm-oils-new-frontier/
+
+Greenpeace International (2012b), ‘Herakles Farms continues forest
+
+clearing in Cameroon’, Feature story, November 20 2012 http://www.
+greenpeace.org/africa/en/news/news/herakles-farms-continues-forest-clearing-in-
+cameroon/
+
+Raven, P H; Fredriksson, G; Bradshaw, C J A; Brook, B W; Koh, L P
+and Waltert, M (2012) ‘An open letter about the environmental and
+social impacts of a massive oil palm development in Cameroon’, April.
+Available at: http://newswatch.nationalgeographic.com/2012/03/20/open-letter-
+sounds-alarm-on-massive-oil-palm-development-in-cameroon/
+
+Ministry of Forestry and Wildlife (2012) ‘Rapport de Mission de Controle -
+Report on inspection of SGSOC site at Talangaye’ Delegation for the
+South West, Regional Brigade for Control, 27 April 2012 available at
+http://www.oaklandinstitute.org/land-deals-africa-cameroon
+
+Nellemann C, Miles L, Kaltenborn BP, Viture M, and Ahlenius H (Eds)
+(2007). ‘The last stand of the orangutan’ UNEP. http://www.grida.no/
+publications/rr/orangutan/
+
+Nestlé (2012) Web page, ‘Nestlé committed to traceable sustainable palm
+
+oil to ensure no-deforestation’ 30 October 2012 http://www.nestle.com/
+media/Statements/pages/update-on-deforestation-and-palm-oil.aspx
+
+Njonga, B ; Nzegang, M; Nkal, G and Combaz, D (2012) ‘Système agraire
+et sécurité alimentaire des arrondissements de Toko, Mundemba
+et Nguti’ Association Citoyenne de Défense des Intérêts Collectifs,
+Greenpeace International
+
+Oakland Institute (2012a), ‘Understanding land investments deals in Africa:
+Massive deforestation portrayed as sustainable development: the
+deceit of Herakles Farms in Cameroon’, Land Deal Brief, September
+2012 http://www.oaklandinstitute.org/land-deal-brief-massive-deforestation-
+portrayed-sustainable-investment-deceit-herakles-farms
+
+ 18
+
+Greenpeace
+
+Herakles Crime File
+
+References:
+
+Oakland Institute (2012b) ‘The Herakles debacle’ Film http://www.oaklandinsti-
+
+tute.org/land-deals-africa-cameroon
+
+Observateur indépendant au contrôle forestier et au suivi des infractions
+forestières au Cameroun (2012) ‘Rapport de Mission N°040/OI/
+AGRECO-CEW’June 2012
+
+Oil World (2012).Oil World Database. ISTA MielkeGmbh. June 2012
+
+Palm Oil HQ (2012) “Mielke: Global palm oil consumption to rise by 3.7 mln
+
+tons in 2012-13” 16 October 2012 http://www.palmoilhq.com/palmoilnews/
+mielke-global-palm-oil-consumption-to-rise-by-3-7-mln-tons-in-2012-13-2/
+
+SAVE Wildlife Conservation Fund (2012a) “The US investors and African
+palm oil” http://www.save-wildlife.net/en/our-work/save-the-forests/rainforest-
+deforestation-for-palm-oil-in-cameroon/news-and-downloads
+
+SAVE Wildlife Conservation Fund, (2012b) “Rainforest defenders detained
+
+in Cameroon before organizing a peaceful protest” News report 21
+November 2012 http://www.save-wildlife.net/en/news
+
+SGSOC (SG Sustainable Oils Cameroon Limited) (2011) “Environmental and
+
+Social Impact Assessment”, prepared by H&B Consulting: Available
+at: http://www.oaklandinstitute.org/land-deals-africa-cameroon
+
+SGSOC (2012) “Summary report of ESIA and HCV assessments” February
+
+PR Newswire (2010) “Consumer goods industry announces initiatives
+
+2012, presented to RSPO http://www.rspo.org/article.php?aid=1
+
+on climate protection” 29 November 2010 http://www.prnewswire.com/
+news-releases/consumer-goods-industry-announces-initiatives-on-climate-protec-
+tion-110961494.html
+
+Pro Wildlife, Save Wildlife Conservation Fund, Rettet de regenwald,
+KRCS—Korup Rainforest Conservation Society (2012), ‘RSPO
+grievance against the US company Herakles Farms and its national
+subsidiary Sithe Global Sustainable Oils Cameroon’ 10 March 2012
+http://www.save-wildlife.com/downloads/save_the_forest/rSpo_grievance.pdf
+
+Rothenberg, D (2011) Presentation to Cameroon Professional Society (CPS)
+
+Congress 29-30 July 2011 http://www.youtube.com/watch?v=za2mrxhuh4a
+
+RSPO (Roundtable on Sustainable Palm Oil) (2007) “Principles and
+
+criteria for sustainable palm oil production” http://www.rspo.org/en/
+principles_and_criteria_certification
+
+RSPO (2012) “Statement from the RSPO on complaint received on
+
+Herakles Farms Cooperatierf U.A. /SG Sustainable Oils Cameroon
+(SGSOC)” http://www.rspo.org/news_details.php?nid=106&lang=1
+
+Saatchi, Sassan S; Harris, N L; Brown, S; Lefsky, M; Mitchard, E T A; Salas,
+W; Zutta, B R; Buermann, W; Lewis, S L; Hagen, S; Petrova, S; White,
+L; Silman, M and Alexandra Morel (2011) “Benchmark map of forest
+carbon stocks in tropical regions across three continents” PNAS 2011
+108 (24) 9899-9904; http://www.pnas.org/content/108/24/9899.full
+
+USDA FAS (US Department of Agriculture Foreign Agricultural Service)
+(2012), “Oilseeds: World markets and trade” http://www.fas.usda.gov/
+oilseeds/current/default.asp
+
+World Bank Group. (2012) Deforestation trends in the Congo Basin.
+
+Reconciling Economic Growth and Forest Protection, Executive sum-
+mary http://www.forestcarbonpartnership.org/fcp/sites/forestcarbonpartnership.
+org/files/documents/pdf/nov2012/drivers%20of%20deforestation%20congo%20
+Basin%20Brochure_Eng.pdf
+
+WRI (World Resources Institute)/Government of Cameroon (2012)
+“Forest Atlas of Cameroon” http://www.wri.org/tools/atlas/map.
+php?maptheme=cameroon
+
+Wrobel, B. (2012) “Open Letter of Bruce Wrobel”, 16 September 2012 http://
+
+heraklesfarms.com/news.html
+
+Reuters (2012) “Sliding price boosts palm oil”s appeal to EU biodiesel
+
+sector” 19 October 2012 http://finance.yahoo.com/news/sliding-price-boosts-
+palm-oils-135034914.html
+
+ 19
+
+Area of natural beauty within the concession area
+leased by Herakles Farms in the coastal rainforest
+of Cameroon. Despite lacking a Presidential Decree
+granting the concession, as required by Cameroonian
+law. The concession area is in a biodiversity
+hotspot, home to endangered species including
+forest elephants and chimpanzees, and it provides a
+crucial migration corridor for these animals between
+five protected areas. Local people, who depend on
+the forest to provide food, medicine and building
+materials, have protested against the project and
+have faced intimidation and arrest as a result.
+
+© Greenpeace / Alex Yallop
+
+ 20
+
+Greenpeace
+
+Herakles Crime File
+
+Endnotes
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+ Palm Oil HQ (2012)
+
+26  see for example ‘GRAIN land grab deals’ database which can be
+
+ Greenpeace International (2012a) Appendix 1
+
+ The exact area covered the project varies according to different
+sources. SGSOC’s (2011) Environmental and Social Impact Assess-
+ment gives 73,086 ha (p41). This does not include the 3km buffer
+zone between the project area and Korup National Park.
+
+ SGSOC (2011): 4–122 records 14,600 inhabitants, p4-121 admits
+this may be an underestimate.
+
+downloaded from GRAIN (2012)
+
+27  Anseeuw et al (2012): 7 Note: these land deals do not actually cover
+
+4.8% of Africa’s agricultural land as some of them include land not
+currently in agricultural use, such as forests.
+
+28  Anseeuw et al (2012): 28
+
+29  Anseeuw et al (2012): 26–27
+
+30  World Bank Group. (2012); 5
+
+eg Linder et al, (2012), Greenpeace International (2012a), Oakland
+Institute (2012a)
+
+31  USDA FAS (2012) 87% in 2011.
+
+ CED (2012)
+
+32
+
+ Palm Oil HQ (2012)
+
+ Conservation International website ‘Guinean forests of West Africa’
+http://www.conservation.org/where/priority_areas/hotspots/africa/guinean-
+forests-of-West-africa/pages/default.aspx accessed 9 January 2012
+
+ ‘Dense natural forest’ defined as greater than 20% canopy cover
+with trees over 5 meters in height.
+
+33
+
+ Greenpeace International (2012a) Appendix 1
+
+34
+
+ The exact area covered the project varies according to different
+sources. SGSOC’s (2011) Environmental and Social Impact Assess-
+ment gives 73,086 ha (p41). This does not include the 3km buffer
+zone between the project area and Korup National Park.
+
+9
+
+Pro Wildlife et al. (2012) : 9
+
+35
+
+ SGSOC (2011): 1–2
+
+10  According to Article 7 of Decree No. 76-166 of 27 April 1976 to
+establish the terms and conditions of management of national
+lands, land grants in the “national” domain in excess of 50 hectares
+require a Presidential Decree http://faolex.fao.org/docs/pdf/cmr1270.pdf
+
+11  Oakland Institute (2012a)
+
+36
+
+ SGSOC (2011): p122 records 14,600 inhabitants, p121 admits this
+may be an underestimate.
+
+37
+
+ Linder et al (2012)
+
+38
+
+ Greenpeace mapping analysis
+
+12  Part of the assault can be watched in the video broadcasted by
+France24 in 2012: http://www.france24.com/en/20121002-planet-hope-
+cameroon-palm-oil-rush-forests-development-agriculture-biodiversity-villagers-
+animals from 4’20
+
+39
+
+ Greenpeace field research October–November 2012
+
+40  Oakland Institute (2012b) from 9’00”
+
+41
+
+ Government of Cameroon/SGSOC (2009) Sections 3.1b, 4.2
+
+13  Greenpeace International (2012b)
+
+42  Hance and Butler (2011)
+
+14
+
+ http://www.omct.org/human-rights-defenders/urgent-interventions/camer-
+oon/2012/11/d22048/
+
+15
+
+ SGSOC (2011): xlv
+
+16
+
+ Oakland Institute (2012b) from 9’00”
+
+17
+
+ SGSOC (2012): Figure 2, Table 5
+
+18  Kupsch and Waltert (2012)
+
+43  eg Linder et al, (2012), Greenpeace International (2012a), Oakland
+
+Institute (2012a)
+
+44
+
+ CED (2012)
+
+45
+
+ Government of Cameroon/SGSOC (2009) Section 3.1b
+
+46
+
+ CED, WWF, RELUFA (2012): 8
+
+47  CED (2012): 30
+
+19
+
+ Herakles Farms website, ‘News: September 6 2012’ http://herakles-
+farms.com/news.html
+
+48
+
+ FAO/ITTO (2011): 61, Annex Table 4
+
+20  Farnan (2012)
+
+21
+
+ RSPO (2012)
+
+22
+
+ CED (2012), IFC (2012): ii
+
+23
+
+ Rothenberg, D (2011): from 11’ 30”
+
+24  Nellemann C et al. (2007)
+
+25  Anseeuw et al (2012): 7
+
+49
+
+ Government of Cameroon/SGSOC (2009) Section 13.5
+
+50
+
+ SGSOC (2011): 4–122 records 14,600 inhabitants, p4-121 admits
+this may be an underestimate.
+
+51  Njonga et al (2012)
+
+52  Njonga et al (2012): 46
+
+53  Njonga et al (2012): 44
+
+54  Njonga et al (2012): 60 Approx US$1400 per year for a cocoa
+
+grower and US$835 for a Pamol worker
+
+ 21
+
+Endnotes
+
+55
+
+ Conservation International website ‘Guinean forests of West Africa’
+http://www.conservation.org/where/priority_areas/hotspots/africa/guinean-forests-
+of-West-africa/pages/default.aspx accessed 9 January 2012
+
+84
+
+ Herakles Farms website, ‘News: September 6 2012’ http://herakles-
+farms.com/news.html
+
+56
+
+ Management plans for Korup National Park and Nta Ali reserve, cited
+in Linder et al (2012)
+
+57
+
+ ‘Dense natural forest’ defined as greater than 20% canopy cover with
+trees over 5 meters in height.
+
+85
+
+ RSPO (2007)
+
+86  Farnan (2012)
+
+87
+
+ RSPO (2012)
+
+88  Farnan (2012)
+
+58
+
+ The area surveyed covered 70,237 ha, ie slightly less than the entire
+project area as listed in SGSOC (2011): 41.
+
+89
+
+ Rothenberg, D (2011)
+
+59  Pro Wildlife et al. (2012) : 9
+
+60  CED/Relufa (2012)
+
+90
+
+IFC (2012) eg PS6, para 25.
+
+91
+
+ CED (2012), IFC (2012): ii
+
+61  According to Article 7 of Decree No. 76-166 of 27 April 1976 setting
+
+out the arrangements for management of land, concessions in excess
+of 50 hectares are granted by Presidential Decree http://faolex.fao.org/
+docs/pdf/cmr1270.pdf
+
+92  Government of Cameroon/SGSOC (2009), Oakland Institute (2012b)
+
+from 9’00”
+
+93
+
+ Letter from Mark Constantine, IFC Principal Strategist, to Greenpeace
+US, 19 December 2012
+
+62
+
+ Ministry of Forestry and Wildlife (2012)
+
+63
+
+ Ministry of Forestry and Wildlife (2012)
+
+64  Observateur indépendant au contrôle forestier et au suivi des
+
+infractions forestières au Cameroun (2012)
+
+65  Oakland Institute (2012a)
+
+66
+
+ SAVE Wildlife Conservation Fund (2012b) ; Greenpeace International
+(2012b)
+
+67  Oakland Institute (2012a)
+
+68  Wrobel (2012)
+
+69
+
+ Wrobel (2012)
+
+94
+
+ Rothenberg, D (2011): from 11’ 30”
+
+95
+
+ Nestlé (2012)
+
+96
+
+ PR Newswire (2010)
+
+97
+
+ Nestlé (2012)
+
+98
+
+99
+
+ Unilever website ‘Sustainable Sourcing’ http://www.unilever.co.uk/
+sustainable-living/sustainablesourcing/index.aspx accessed 19 November
+2012
+
+ McDonalds website ‘Sustainable land management commitment:
+palm oil’ http://www.aboutmcdonalds.com/mcd/sustainability/signature_programs/
+sustainable_land_management_commitment.html accessed 19 November
+2012
+
+70  HCV Resource Network (2012)
+
+71
+
+ Linder et al, (2012), and SGSOC (2011):
+
+100  Walmart website ‘Sustainable agriculture: Wal-Mart’s
+
+commitment’http://news.walmart.com/executive-viewpoints/leslie-dach-
+sustainable-agriculture-announcement accessed 19 November 2012
+
+72
+
+ SAVE Wildlife Conservation Fund (2012a): 28
+
+101   Oakland Institute (2012b) from 14’10”
+
+73
+
+ SGSOC (2011): 191
+
+74
+
+ SGSOC (2011): 135
+
+75
+
+ SGSOC (2011): xlv
+
+76
+
+ SGSOC (2011): 154
+
+77
+
+ Oakland Institute (2012b)
+
+78
+
+ Oakland Institute (2012b) from 10’30”
+
+79
+
+ Oakland Institute (2012b) from 9’00”
+
+80
+
+ HCV Resource Network (2012): 4
+
+81
+
+ HCV Resource Network (2012): 11
+
+82  Kupsch and Waltert (2012)
+
+83
+
+ SGSOC (2012): Figure 2, Table 5
+
+ 22
+
+Greenpeace
+
+Herakles Crime File
+
+The Sakbayeme river within the coastal rainforest
+of Cameroon. This forest, at the fringe of the
+Congo Basin, is a biodiversity hotspot, home to
+endangered species including chimpanzees and
+forest elephants. It also provides hunting and
+fishing grounds, building materials, fuel wood
+and medicine for local communities. The forest,
+and the people and animals who depend on it, are
+being threatened by a proposed palm oil plantation
+that would flatten an area eight times the size of
+Manhattan. The corporation behind the proposed
+project, US-based Herakles Farms, is pressing
+ahead with forest clearance, despite widespread
+local opposition.
+
+© Greenpeace / Alex Yallop
+
+ 23
+
+© Greenpeace / Kate Davison
+
+Greenpeace is an independent campaigning organization that
+acts to expose global environmental problems and achieve
+solutions that are essential to a green and peaceful future.
+
+Published February 2013 by
+
+Greenpeace USA
+
+702 H Street NW Suite 300
+
+Washington, DC 20001
+
+T. 202.462.1177
+
+Printed on 100% post-consumer recycled paper, made
+using chlorine-free processing, printed with vegetable
+based inks on a wind-powered press.
+

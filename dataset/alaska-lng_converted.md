@@ -1,0 +1,231 @@
+November 2024
+
+Briefing: Department of Energy’s Go-to Firm Helped Prepare Alaska LNG’s Bogus
+Climate Assessment
+
+Previous Greenpeace USA research revealed that key studies used by the Department of Energy to approve
+liquefied natural gas export authorizations were prepared with support from gas industry insiders and
+consultants. The same appears to be true for Alaska LNG's flawed life cycle analysis, which was ordered by the
+Department of Energy partly due to an executive order mandating federal agencies to exercise climate leadership.
+
+Supplying the Alaska LNG mega-project will require up to 3.36 billion cubic feet of natural gas production per
+day, according to official estimates.1 The gas resources on tap to supply this production are not commercially
+viable without Alaska LNG and its accompanying 800-mile pipeline, which would carry gas from the remote
+Northern Slope of Alaska to the planned liquefied natural gas (LNG) terminal in Nikiski, southwest of Anchorage.
+Nevertheless, a key analysis ordered by the Department of Energy (DOE) in 2021 concluded that Alaska LNG
+would not increase greenhouse gas emissions compared to a scenario where the project does not get built.2
+
+This assessment was the result of comparing Alaska LNG’s projected emissions to a high emissions baseline
+scenario that is both unlikely and inconsistent with stated climate policies. Greenpeace USA research shows that
+the analysis was conducted with the help of KeyLogic, a consulting firm with commercial ties to the gas industry.
+KeyLogic is one of the DOE’s go-to contractors, and, in addition to the Alaska LNG study, it was heavily
+involved in preparing a 2019 LNG analysis that the DOE has used to justify its track record of universally
+approving LNG export applications.3 Some KeyLogic staff have worked on DOE projects while simultaneously
+working for gas companies that the DOE is tasked with regulating.
+
+The DOE’s plan to update the environmental analysis of LNG that informs the public interest determination of
+LNG exports is a step in the right direction— improvements to this analysis are urgently needed.4 But the Alaska
+LNG case study serves as a warning that pro-fossil fuel bias remains a risk to the integrity of this crucial update.
+
+Initial approvals of Alaska LNG by FERC and DOE
+Because of how the federal government regulates LNG export terminals, Alaska LNG was required to secure
+approvals from the Federal Energy Regulatory Commission (FERC) and the DOE. Although FERC was the lead
+agency responsible for Alaska LNG’s environmental impact statement under the National Environmental
+Protection Act (NEPA) between 2018 and 2020, the DOE would later adopt FERC’s environmental impact
+statement for the purpose of approving Alaska LNG’s non-free trade association LNG export application under
+the Natural Gas Act.
+
+1 Appendix C: Life Cycle Greenhouse Gas Emissions for Alaska LNG, in Alaska LNG Final Supplementary Environmental
+Impact Statement (DOE/EIS-0512-S1). 2023. Department of Energy, January 6.
+https://www.energy.gov/nepa/articles/doeeis-0512-s1-final-supplemental-environmental-impact-statement-january-6-2023
+2 Ibid.
+3 Chang, A. 2024. Department of Energy used gas industry insiders and consultants to build the case for soaring LNG
+exports. Greenpeace USA, April 8. https://www.greenpeace.org/usa/research/doe-lng-studies-analysis/
+4 The Temporary Pause on Review of Pending Applications to Export Liquefied Natural Gas. 2024. Department of Energy,
+February 23.
+https://www.energy.gov/fecm/articles/temporary-pause-review-pending-applications-export-liquefied-natural-gas
+
+Both agencies— but especially FERC— are notorious for using deeply flawed reasoning to circumvent credible
+environmental concerns. One of the many flaws in FERC’s assessment of Alaska LNG, as pointed out by the
+Center for Biological Diversity and Earthjustice on behalf of conservation groups including the Sierra Club and
+the Chickaloon Village Traditional Council in June 2020, was that it did not even mention the project’s upstream
+or downstream emissions.5 These typically represent the vast majority of lifecycle emissions associated with LNG
+exports.
+
+Although the DOE adopted FERC’s environmental impact statement in August 2020,6 it subsequently granted a
+rehearing request sought by the Sierra Club to further assess the project’s environmental impacts in April 2021.7
+Consequently, the DOE stated that it would prepare a new, supplemental environmental impact statement (SEIS)
+consistent with NEPA that would include a life cycle analysis of Alaska LNG’s Asia-bound gas exports.8 It was at
+this stage that KeyLogic entered the picture, as a support contractor for the life cycle analysis that DOE would
+commission from the National Energy Technology Laboratory (NETL).
+
+Factors leading DOE to order a new Alaska LNG environmental study
+It is important to understand why the DOE granted the Sierra Club’s rehearing request in the first place. It boils
+down to two factors.
+
+First, the transition from a Trump administration to a Biden administration in January 2021 came with a string of
+climate-focused executive orders, and meant that the DOE and its sub-agencies would be under new leadership.
+Most notably, Executive Order 14008 of January 27, 2021 (“Tackling the Climate Crisis at Home and Abroad”)
+committed to “organize and deploy the full capacity of [the federal government’s] agencies to combat the climate
+crisis” and, further, to “drive assessment, disclosure, and mitigation of climate pollution and climate-related risks
+in every sector” of the U.S. economy.9 The DOE explicitly referred to this and another climate-focused executive
+order in its rehearing order for Alaska LNG.
+
+Second, the Sierra Club’s rehearing request demonstrated, based on previous authorization decisions, that it was
+outside the DOE’s usual practice to dismiss the life cycle emissions associated with LNG exports.10 Typically, the
+DOE had used “general studies” assessing the life cycle emissions of LNG exports from the lower 48 states to
+inform the public interest determination of LNG projects. Due to Alaska LNG’s location, however, none of these
+studies would have been relevant to Alaska LNG. Consequently, the Sierra Club argued that a new life cycle
+emissions study was warranted, and the DOE acquiesced.
+
+5 Request for Rehearing of Order Granting Authorization of the Alaska LNG Project, FERC Docket No. CP17-178-000.
+2020. Center for Biological Diversity and Earthjustice, June 22.
+https://www.biologicaldiversity.org/programs/oceans/pdfs/Center-et-al-AK-LNG-Request-for-Rehearing.pdf
+6 Final Opinion and Order Granting Long-Term Authorization To Export Liquefied Natural Gas to Non-Free Trade
+Agreement Nations, FE Docket No. 14-96-LNG. 2020. Department of Energy, August 20.
+https://www.energy.gov/sites/default/files/2020/08/f77/ord3643a.pdf
+7 Order on Rehearing, FE Docket No: 14-96-LNG. 2021. Department of Energy, April 15.
+https://www.energy.gov/sites/default/files/2021-04/ord3643b.pdf
+8 Notice of Intent to Prepare a Supplemental Environmental Impact Statement for the Alaska LNG Project. 2021. Department
+of Energy. https://www.energy.gov/nepa/articles/doeeis-0512-s1-notice-intent-july-2-2021
+9 Executive Order on Tackling the Climate Crisis at Home and Abroad. 2021. White House, January 27.
+https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/27/executive-order-on-tackling-the-climate-crisis-at-
+home-and-abroad/
+10 Request for Rehearing, FE Docket No. 14-96-LNG. 2020. Sierra Club, September 21.
+https://www.energy.gov/fecm/articles/alaska-lng-project-llc-fe-dkt-no-14-96-lng
+
+2
+
+The outcome of the Alaska LNG study: data-washing and defiance of common sense
+The Alaska LNG study that NETL prepared with support from KeyLogic is strongly suggestive of
+“data-washing,” a practice similar to greenwashing.11 Oil & gas companies use data-washing to make
+credible-sounding environmental claims that rely on faulty assumptions or incomplete analysis. With
+data-washing, there is often a sleight of hand: complex models and equations are used to distract attention from
+how the underlying study design has been carefully crafted to produce industry-favoring results.
+
+The Alaska LNG analysis has the telltale features of data-washing. Behind a smokescreen of emissions estimation
+methods and technical jargon, there is a crucial error: the authors assume (without justification) that if Alaska
+LNG is not built, the same volume of gas would be produced and exported from the lower 48 states instead.12
+There is no evidence provided to support this assertion; and, at a conceptual level, it is basically a license to
+pollute based on the assumption that “if we don’t do it, someone else will.” As a result, the study maintains that
+even though Alaska LNG would emit up to 2.7 billion metric tons of greenhouse emissions over its lifetime (ten
+times the amount of the Willow Project), it would actually save on emissions compared to a scenario where the
+project doesn’t get built.
+
+A 2022 report from Earthjustice and the Stockholm Environmental Institute shows that this type of approach has a
+bevy of scientific shortcomings; and although there is a history of agencies using similar reasoning to assess coal
+and oil projects under NEPA, over time this reasoning has been increasingly rejected by the courts.13 One problem
+is that “the inherent uncertainty of estimating the counterfactual for a single project – what will happen if the
+project is not approved [...] leaves open the possibility that conclusions can be manipulated by project proponents
+to reach a desired result.” Another is that it “centers on a comparison between the project and a ‘no action’
+alternative reflecting a high-emissions ‘business as usual’ scenario that is neither likely, nor tolerable, nor
+consistent with stated policies.” In other words, the analysis “pretends as if the nation, and other nations, have not
+made a commitment to stop global warming.” Lastly, the authors point out that aside from greenhouse gas
+emissions analyses “it is hard to find any other analytical context in which known environmental or health harm is
+dismissed on the theory that ‘if we don’t do it, someone else will.’” The same rationale is not applied, for
+example, when federal agencies assess water pollution or species disturbance under NEPA.
+
+In June 2022, the DOE published the draft SEIS for Alaska LNG, which adopts the findings of the flawed life
+cycle analysis prepared by NETL and KeyLogic.14 During the public comment period, multiple commenters,
+including the Environmental Protection Agency (EPA), pointed out that assumptions underlying the life cycle
+analysis, and that largely drove the results, were incorrect..15, 16 In response, the DOE made an important change to
+
+11 Westervelt, A. 2024. Management consultancies play a massively under-reported, yet extremely clutch role in
+greenwashing and lobbying… June 27.
+https://www.linkedin.com/posts/amywestervelt_management-consultancies-play-a-massively-activity-721211303007824281
+7-uB14/
+12 Appendix C: Life Cycle Greenhouse Gas Emissions for Alaska LNG, in Alaska LNG Draft Supplementary Environmental
+Impact Statement (DOE/EIS-0512-S1). 2022. Department of Energy, June 24.
+https://www.energy.gov/nepa/articles/doeeis-0512-s1-draft-supplemental-environmental-impact-statement-june-24-2022
+13 Hasselman, J. & Erickson, P. 2022. NEPA review of fossil fuels projects – principles for applying a “climate test” for new
+production and infrastructure. Earthjustice and the Stockholm Environmental Institute, May 3.
+https://www.sei.org/publications/nepa-fossil-fuels-climate-test/
+14 Summary, in Alaska LNG Draft Supplementary Environmental Impact Statement (DOE/EIS-0512-S1). 2022.
+15 Appendix D: Comment Response Document, in Alaska LNG Final Supplementary Environmental Impact Statement
+(DOE/EIS-0512-S1). 2023. Department of Energy, January 6.
+https://www.energy.gov/nepa/articles/doeeis-0512-s1-final-supplemental-environmental-impact-statement-january-6-2023
+16 Amended Record of Decision (DOE/EIS-0512-S1). 2023. Department of Energy.
+https://www.energy.gov/nepa/articles/doeeis-0512-s1-amended-record-decision
+
+3
+
+the final SEIS. Instead of concluding that Alaska LNG would definitely reduce emissions compared to the
+baseline scenario, the final SEIS presents two opposing baseline scenarios: one that is unchanged, presenting
+Alaska LNG as a net climate benefit (“No Action Alternative 1”), and a second that assumes Alaska LNG’s life
+cycle emissions would be 100% additional, adding up to 1.9 billion metric tons of CO2e to the atmosphere
+cumulatively (“No Action Alternative 2”).17 Ultimately, however, the DOE granted Alaska LNG’s export
+authorization based on the reasoning that “while both [assumptions] are unlikely, in DOE’s judgment the
+greenhouse emissions and related climate impacts associated with Alaska LNG’s exports … are likely to be closer
+to the difference between No Action Alternative 1 and the project scenarios.”18
+
+It is thanks to pushback from the EPA and civil society groups that the final SEIS presents a view of Alaska LNG
+that considers the potential for LNG exports to increase global emissions at all. But the DOE’s decision to present
+two radically different calculations just to dismiss both of them is illogical, and fails to achieve the goals of NEPA
+and the Natural Gas Act. In future analyses, the DOE must close the door on data-washing to prevent decisions
+that set us back from achieving our climate goals.
+
+The Alaska LNG analysis, like DOE’s 2019 environmental study of LNG, was supported
+by a KeyLogic team with major oil and gas company clients
+
+What makes the Alaska LNG life cycle analysis even more interesting is that it fits into a pattern of analyses
+commissioned by the DOE and supported by KeyLogic that are biased in favor of the LNG industry, including the
+2019 environmental study that underpins the DOE’s public interest determination for LNG exports.
+Since the early 2010s, the DOE has used periodically updated economic and environmental analyses of LNG that
+it commissions from national laboratories and private contractors to help determine whether LNG export
+applications are consistent with the public interest. The DOE’s most recent environmental analysis of LNG, which
+was finalized in 2019, used very low estimates of methane leakage in the LNG supply chain and failed to consider
+how increased LNG exports can drive up total fossil fuel use.19
+
+In a previous investigation, published in April 2024, Greenpeace USA found that the 2019 study was supported
+by KeyLogic’s life cycle analysis team, which was simultaneously offering services to oil and gas industry
+clients.20 At least three KeyLogic employees who were listed among the authors of the study were also performing
+commercial work for Cheniere and Saudi Aramco between 2017 and 2020. Moreover, of the four KeyLogic
+authors, all had, or later developed, significant connections to the oil and gas sector: the project lead had
+previously worked at EQT Corporation— a company that has actively opposed LNG restrictions— and the other
+three authors went on to full-time positions at Cheniere, Saudi Aramco Americas, and GTI Energy, a pro-gas think
+tank.
+
+KeyLogic appears to have also played a large role in the flawed Alaska LNG analysis. Eight KeyLogic
+employees— evidently from the same team that did business with major oil and gas companies— were listed
+among the ten authors of the analysis. One of the authors was formerly a commercial advisor for ExxonMobil,21
+
+17 Summary, in Alaska LNG Final Supplementary Environmental Impact Statement (DOE/EIS-0512-S1). 2023.
+18 Amended Record of Decision (DOE/EIS-0512-S1). 2023.
+19 See, for example, 2019 comments from Sierra Club.
+20 Chang, A. 2024.
+21 The author who was previously a commercial advisor for ExxonMobil is Krista Kirchner-Ortiz, according to LinkedIn.
+
+4
+
+which was a joint owner of Alaska LNG until late 2016 and signed a gas supply deal with the project in 2018.22, 23
+ExxonMobil’s major stake in the project is underscored by a 2019 statement made by ExxonMobil Alaska
+President Darlene Gates: “As the largest holder of discovered gas resources on the North Slope, we have been
+working for decades to tackle the challenges of bringing Alaska’s gas to market.”24
+
+Conclusion
+
+The Alaska LNG case study, like many other examples, both demonstrates how federal analyses are vulnerable to
+data-washing and raises questions about the impartiality of the DOE’s record of LNG export authorizations.
+Although the federal government’s announcement in January to update the LNG studies that inform the public
+interest determination is a step in the right direction, stringent integrity and oversight measures still need to be
+taken to prevent the updated analyses from being mismanaged. These measures should include facilitating an
+inclusive process with meaningful participation from environmental justice communities, experts, and other
+stakeholders outside the gas industry.
+
+Moreover, under NEPA, FERC and the DOE should downweight and avoid the usage of emissions displacement
+analytic approaches, which depend on highly uncertain assumptions and are vulnerable to manipulation. If and
+where baselines are needed, FERC and the DOE should use baseline scenarios that comply with global and
+domestic climate policies and agreements. Lastly, with respect to the DOE’s forthcoming updated environmental
+analysis of LNG, as well as NEPA, the DOE should yield to the EPA’s relevant expertise in matters that concern
+emissions accounting and climate change.
+
+22 ExxonMobil, BP, ConocoPhilips back out of Alaska LNG. 2016. Offshore Energy, August 30.
+https://www.offshore-energy.biz/exxonmobil-bp-conocophilips-back-out-of-alaska-lng/
+23 Bradner, T. 2018. ExxonMobil strikes deal with Alaska to feed LNG project. S&P Global, September 10.
+https://www.spglobal.com/commodityinsights/en/market-insights/latest-news/natural-gas/091018-exxonmobil-strikes-deal-wi
+th-alaska-to-feed-lng-project
+24 ExxonMobil Agrees To Supply Gas for Alaskan LNG Export Project. 2019. Journal of Petroleum Technology, October 23.
+https://jpt.spe.org/exxonmobil-agrees-supply-gas-alaskan-lng-export-project
+
+5
+

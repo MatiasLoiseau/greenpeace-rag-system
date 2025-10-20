@@ -1,0 +1,125 @@
+Highlights of ICF International analysis:
+“GHG Impact of Economic Stimulus Package”
+
+Greenpeace commissioned ICF International to analyze the Obama Administra-
+
+tion’s proposed American Recovery and Reinvestment Bill of 2009 (H.R.1) debated
+and passed by the House of Representatives in January.
+
+Greenpeace concludes from ICF’s analysis that the energy provisions of the
+
+stimulous package would have a net positive global warming impact, reducing green-
+house gas emissions by at least 61.5 million metric tons of carbon dioxide per year.
+Spending money immediately on energy efficiency upgrades to homes and buildings
+is the most efficient use of stimulus money to solve global warming and create green
+jobs and reduce energy bills. Provisions like renewable energy loan guarantees will
+likewise provide good green jobs and long term climate benefits.
+
+ICF was able to do detailed analysis of two portions of the proposed economic
+stimulus package entitled Clean, Efficient, American Energy and Modernize Roads,
+Bridges, Transit and Waterways. We excluded from the analysis those portions of the
+stimulus package where the greenhouse gas impact was impossible to determine
+(e.g. homeland security, Medicaid, unemployment benefits).
+
+Energy Funding
+ICF was able to quantify the carbon footprint for roughly $24 billion of $51.9 billion
+detailed in the energy portion of the stimulus package. It was calculated that this $24
+billion investment would eliminate approximately 61.5 million metric tons of annual
+carbon dioxide emissions, about 1% of current annual US emissions.
+
+This is the same as:
+• Eliminating the carbon dioxide produced by the electricity used by 7.9 million
+American homes, about 8 times the number of households in the city of Chicago.
+
+• Taking nearly 13.3 million cars off the road.
+
+For the remaining $28 billion in slated energy spending, the majority of the itemized
+
+provisions were determined likely to have a net positive global warming benefit, but
+could not be quantified with details provided in the legislation. For instance, several
+provisions provide for research that will likely deliver long term global warming ben-
+efits (e.g. smart grid and battery research).  Some provisions would have less certain
+environmental benefits (like the GSA Federal Fleet- ethanol question).
+
+g
+r
+e
+e
+n
+p
+e
+a
+c
+e
+.
+o
+r
+g
+
+page–1
+
+Highlights of ICF International analysis:
+“GHG Impact of Economic Stimulus Package”
+
+Weatherizing homes and buildings and improving the energy efficiency of
+
+buildings provide the largest net greenhouse gas reductions and cost savings in the
+stimulus package.  These provisions also proved the easiest to quantify. Some ICF
+findings include:
+
+• Smart Appliances  - Retiring old refrigerators would likewise deliver large carbon
+
+benefits and in turn, save consumers on electric bills.
+
+• Helping consumers install florescent light bulbs would provide immediate payback
+
+in terms of carbon and energy savings.
+
+• Local Government Energy Efficiency Block Grants generates an annual $3 billion in
+
+energy savings with a $6.9 billion investment.
+
+• Energy Efficiency Housing Retrofits generate $1.25 billion in savings on a stimulus
+investment of $2.5 billion and save 87.6 million metric tons of carbon dioxide over the
+life of the programs’ energy efficiency improvements.
+
+• Home Weatherization spending of  $6.2 billion investment could reduce carbon
+dioxide emissions by at least 8 million metric tons annually and 131 million metric tons
+over the lifetime of the insulation improvements.
+
+Transportation Funding
+ICF analyzed the potential impact of $30 billion slated for highway construction under
+
+the provision entitled Modernize Roads, Bridges, Transit and Waterways.
+
+• Spending all the stimulus money on new highways would have roughly 10-50 times
+the annual carbon impact of the same money spent on public transportation (light rail)
+or the repair of existing roads.
+
+• In the worse case scenario, new highways would generate over 250 million tons of
+
+net additional CO2 emissions over the lifetime of the road.  In contrast, public transit
+projects of the same capacity would generate only 4 million tons of net carbon dioxide
+over its lifetime
+
+• After construction phase related emissions, public transit saves up to 15 million
+
+tons over its lifetime.
+
+g
+r
+e
+e
+n
+p
+e
+a
+c
+e
+.
+o
+r
+g
+
+page–2
+

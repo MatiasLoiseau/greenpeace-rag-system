@@ -1,0 +1,11397 @@
+CUTTING EDGE
+CONTAMINATION
+
+A STUDY OF ENVIRONMENTAL POLLUTION DURING
+
+THE MANUFACTURE OF ELECTRONIC PRODUCTS
+
+A boy stands on the riverbed contaminated by the outflow of the
+Compeq factory in the Guangdong Province, China. October 2006
+
+AUTHORS: Brigden, K., Labunska, I., Santillo, D., Walters, A.
+
+Greenpeace Research Laboratories
+Department of Biological Sciences,
+University of Exeter, Exeter EX4 4PS, UK
+
+Published by Greenpeace International
+Ottho Heldringstraat 5
+1066 AZ Amsterdam
+The Netherlands
+
+February 2007
+
+JN 043 :: Technical Note 01/2007
+
+COVER PHOTOS
+Right: Treated wastewater being
+discharged to public canal from a
+combined wastewater treatment plant
+of Navanakorn Industrial Estate.
+Pathumthani, Thailand
+© GREENPEACE / SATAPORN THONGMA
+
+Left: Image shows the inside of a
+laptop and the components produced
+and assembled in the factories that are
+highlighted in this report.
+©GREENPEACE/ROSE
+
+© GREENPEACE
+2
+
+CONTENTS
+
+Executive Summary
+
+Introduction
+
+Sampling Program
+
+Printed wiring board (PWB) manufacture; China & Thailand
+
+China
+
+Thailand
+
+Semiconductor chip manufacture; Philippines and Mexico
+
+Component assembly; Mexico
+
+Methodology
+
+Results and discussion
+
+Printed wiring board (PWB) manufacture; China & Thailand
+
+Facilities in China
+
+Facilities in Thailand
+
+Discussion
+
+Semiconductor chip manufacture; Philippines & Mexico
+
+Facilities in Philippines
+
+Facilities in Mexico; Kemet
+
+Discussion
+
+Component assembly; Mexico
+
+Facilities in Mexico
+
+Discussion
+
+Conclusions
+
+References
+
+1
+
+2
+
+2.1
+
+2.1.1
+
+2.1.2
+
+2.2
+
+2.3
+
+3
+
+4
+
+4.1
+
+4.1.1
+
+4.1.2
+
+4.1.3
+
+4.2
+
+4.2.1
+
+4.2.2
+
+4.2.3
+
+4.3.
+
+4.3.1
+
+4.3.2
+
+5
+
+6
+
+4
+
+14
+
+18
+
+19
+
+19
+
+21
+
+24
+
+26
+
+29
+
+30
+
+30
+
+30
+
+35
+
+42
+
+53
+
+53
+
+59
+
+59
+
+65
+
+65
+
+68
+
+72
+
+74
+
+3
+
+CUTTING EDGE CONTAMINATION
+
+EXECUTIVE SUMMARY
+
+THE USE OF ELECTRONIC EQUIPMENT IS WIDESPREAD WITHIN SOCIETY. CONSUMER GOODS, FROM MOBILE PHONES TO DESKTOP AND LAPTOP
+
+COMPUTERS, ARE PART OF DAILY LIFE FOR MANY PEOPLE. THESE PRODUCTS HAVE A VERY CLEAN IMAGE COMPARED WITH MANY OTHER
+
+CONSUMER GOODS. THE REALITY, HOWEVER, CAN BE SOMEWHAT DIFFERENT.
+
+As the sun sets the farmer
+waters his plants near the
+Compeq Factory in the
+Guangdong Province,
+China. October 2006
+
+4
+
+E
+C
+A
+E
+P
+N
+E
+E
+R
+G
+©
+
+An inside look into the
+printing wiring board
+(PWB)
+
+/
+
+N
+A
+M
+Z
+I
+R
+E
+C
+A
+E
+P
+N
+E
+E
+R
+G
+©
+
+In recent years, concerns have grown over the use of hazardous
+chemicals and materials in these products. Attention has tended to
+focus on the impacts on human health and the environment due to such
+chemicals, through the use and ultimate disposal or recycling of these
+products. Less consideration has been paid to the potential
+environmental impacts that result from their manufacture. This
+industry has high resource intensity, in terms of chemicals, energy and
+water demands. This is especially the case for printed wiring board
+(PWBs) and semiconductor chip manufacture. Processes used in both
+sectors are highly complex and chemically intensive; many of the
+chemicals employed do not form part of the final product (e.g.
+solvents). Substantial concerns exist for many chemicals used in this
+industry, both for potential exposure in the workplace and the possible
+environmental consequences of their release in waste streams.
+
+Electronic devices such as computers are incredibly complex
+constructions, consisting of a wide range of diverse components.
+The manufacture of an individual product can be a truly global
+process, with individual components manufactured at numerous
+specialised facilities in many different countries, before assembly
+into the final product.
+
+This study was undertaken to highlight environmental contamination
+resulting from the manufacture of electronic equipment such as
+computers. It is not intended to be an exhaustive investigation of the
+electronics manufacturing industry, but rather an attempt to gain
+understanding of chemical wastes released to the environment by
+certain sectors of this industry, by providing some ‘snap-shot’ case
+studies in three major sectors of this industry. For each sector, many
+manufacturing facilities and Industrial Estates housing such facilities
+were investigated in four countries, as given in the table below
+
+table 1.1 :: Facilities/Sites and Industrial Estates (IEs) investigated, the country in which they are based and the manufacturing sector to
+which they belong.
+
+COUNTRIES
+
+FACILITIES
+
+MANUFACTURING SECTOR
+
+China
+
+China
+Thailand
+
+Thailand
+
+Thailand
+
+Thailand
+
+Thailand
+
+Philippines
+
+Philippines
+
+Philippines
+
+Mexico
+
+Mexico
+
+Mexico
+
+Mexico
+
+Mexico
+
+Mexico
+
+Mexico
+
+Mexico
+
+Mexico
+
+Compeq
+Fortune
+Elec & Eltek (EETH)
+
+Navanakorn IE
+
+Bangpa-in IE; CKL Electronics
+
+Hi-Tech IE; KCE
+Rojana IE; PCTT
+Gateway Business Park (mixed activity IE)
+On Semicon (Also known as ‘On Semiconductor’)
+Cavite Export Processing Zone, CEPZA; mixed activity IE
+Kemet
+Sanyo Video, Tijuana
+Sony, Tijuana
+Parque Integral (Flextronics), Guadalajara
+Jabil, Guadalajara
+Solectron, Guadalajara
+Sanmina-SCI plant 3, Guadalajara
+
+HP, Guadalajara
+
+IBM Site, Guadalajara
+
+PWB manufacture
+
+PWB manufacture
+
+PWB manufacture
+
+PWB manufacture
+
+PWB manufacture
+
+PWB manufacture
+
+PWB manufacture
+Semiconductor chip manufacture
+Semiconductor chip manufacture
+Semiconductor chip manufacture
+Semiconductor chip manufacture
+Assembly (TV & LCD)
+Assembly (TV & LCD)
+Component assembly
+Component assembly
+Component assembly
+Component assembly
+
+Assembly (PC & other components)
+
+Assembly (PC & other components)
+
+5
+
+CUTTING EDGE CONTAMINATION
+
+The use of electronic equipment is widespread within society.
+Consumer goods, from mobile phones to desktop and laptop computers,
+are part of daily life for many people. These products have a very clean
+image compared with many other consumer goods. The reality, however,
+can be somewhat different.
+
+A number of different types of samples were analysed from the various
+sites, though it was not possible to collect all types of sample for each
+of the facilities. Discharged wastewaters and sediments from discharge
+pipes/channels were analysed for some locations, mainly from PWB
+facilities, though also from one component assembly facility. At some
+industrial estates, wastewaters are sent from many individual facilities
+to a common wastewater treatment plant (WWTP). Where possible,
+treated wastewaters and treatment sludges/sediments from these
+WWTPs were also collected and analysed. Groundwater samples from
+many sites were analysed to investigate impacts on local groundwater
+aquifers. In some cases, such as semiconductor manufacturing
+facilities, it was not possible to collect wastewater samples and the
+investigations therefore focussed entirely on groundwater samples
+collected from sources in the vicinity of the plants.
+
+Though this study has certain limitations due to its overall scope and
+limited access to some types of samples at some sites, it does provide
+substantial information on the environmental contamination of these
+parts of the industry where little has previously been available. This
+study demonstrates the nature of environmental contamination due to
+the manufacture of some components used in electrical/electronic
+equipment at multiple sites in many countries.
+
+Evidence of environmental contamination by a diverse range of
+chemicals, many with known uses in this industry, was found for
+each of the three sectors investigated. This included both chemicals
+incorporated into the products as well as chemicals used in
+manufacturing processes, many with known toxicity to humans and
+other potential environmental impacts. Some chemicals were found in
+wastestreams from more than one sector, including some toxic and
+environmentally persistent groups of chemicals;
+
+- polybrominated diphenyl ethers (PBDEs); widely used as brominated
+
+flame-retardants
+
+- phthalates; widely used as plasticizers (softeners) in plastics
+
+- certain chlorinated solvents
+
+- high levels of some heavy metals.
+
+Of these chemicals, many that are incorporated into electronic products
+have also been identified within and around e-waste recycling yards in
+China and India in a recent Greenpeace investigation (Brigden et al.
+2005), including certain heavy metals, phthalates and the brominated
+flame-retardants PDBEs. Laptop computers purchased in Europe
+within the last year have also been found to contain mixtures of
+PBDEs (Brigden et al. 2006), though the compositions were different
+from those found at the manufacturing sites.
+
+Other chemicals found in wastestreams and groundwater samples were
+specific to each of the manufacturing sectors, for example the
+brominated flame-retardant TBBPA and photoinitiator-related
+chemicals at PWB manufacturing sites. These differences reflect the
+different processes employed within each sector, though this may also
+be due in part to the types of samples that it was possible to collect
+from facilities in each sector (e.g. no wastewaters samples were
+analysed from semiconductor chip manufacturers as no such
+wastestreams could be identified at the plants visited).
+
+6
+
+A farmer picking peanuts from a
+field near the Compeq Factory,
+in the Guangdong Province,
+China. October 2006
+
+Flame Retardants
+
+Flame-retardants are chemicals added to a wide variety of
+materials, including casings and components of many electronic
+goods, to prevent the spread of fire. Two widely used groups of
+chemicals are brominated flame retardants (including PBDEs
+and TBBPA) and phosphorus based compounds (including TPP).
+
+- PBDEs (Polybrominated diphenyl ethers) are
+
+environmentally persistent chemicals, some of which are highly
+bioaccumulative and capable of interfering with normal brain
+development in animals. Several PBDEs are suspected
+endocrine disruptors, demonstrating an ability to interfere with
+hormones involved in growth and sexual development. Effects
+on the immune system have also been reported.
+
+- TBBPA (Tetrabromobisphenol-A) There is evidence that
+
+TBBPA may interfere with thyroid hormones, with the potential
+for effects on growth and development, and other in vitro
+studies (not within a living organism) indicate the potential for
+effects on other hormone systems, the immune system, liver and
+kidneys. Recently concerns have been raised over chemicals
+formed during the degradation of TBBPA in the environment.
+
+- TPP (Triphenylphosphate) is acutely toxic to aquatic life and
+is a strong inhibitor of a key enzyme system in human blood. It
+can also cause contact dermatitis in some individuals and is a
+possible endocrine disruptor.
+
+Phthalates are widely used as plasticizers (softeners) in plastics,
+especially PVC (e.g. in cables and other flexible components),
+though many other industrial uses exist. Many phthalates are
+toxic to wildlife and humans, often through their metabolites
+(chemicals to which they breakdown in the body). DEHP, a widely
+used phthalate, is a known reproductive toxin capable of causing
+changes to both male and female reproductive systems in
+mammals (e.g. development of the testes in early life). Other
+phthalates (e.g. DBP and BBP) also exert reproductive toxicity.
+Both DEHP and DBP are classified as “toxic to reproduction”
+within the EU. Certain other phthalates (DINP and DIDP) can
+affect the liver and kidneys, albeit at higher doses.
+
+E
+C
+A
+E
+P
+N
+E
+E
+R
+G
+©
+
+7
+
+CUTTING EDGE CONTAMINATION
+
+A large proportion of the compounds isolated from discharged
+wastewaters and associated samples could not be identified, and
+therefore their properties and potential impacts remain unknown. For
+some chemicals identified in wastestreams (e.g. photo-initiator related
+chemicals used in PWB manufacture), very little information is
+available on their toxicity and environmental properties, presumably
+largely as a result of rapidly changing manufacturing processes and the
+chemicals employed within certain sectors. The possible impacts on
+human health and the environment due to the use and release of these
+chemicals, therefore, remain largely unknown.
+
+The ineffective treatment of wastewaters by the WWTPs to which they
+are discharged has been demonstrated at some industrial estates in
+Thailand where PWBs are manufactured. As is the case for many
+industrial estates where common WWTPs receive mixed wastes from
+many facilities, although treatment processes may be able to degrade
+certain chemicals they are not effective at dealing with persistent
+organic chemicals and heavy metals in wastewaters. As this study has
+found, this can mean that such chemicals are still present in treated
+wastewaters discharged to the environment. Furthermore, their
+accumulation in WWTP sludges creates an additional wastestream
+contaminated with heavy metals and persistent organic chemicals. For
+certain chemicals used in PWB manufacture (e.g. photoinitiator-related
+compounds) the results suggest that they are degraded by the
+treatment processes employed at some sites. However, such wastewater
+treatment is not universally carried out, and these chemicals were
+found in wastewaters being directly discharged to the environment from
+other PWB manufacturing facilities (both Fortune and Compeq in
+China). Due to the limited information available on these compounds
+the impacts of such discharges remains unknown.
+
+In addition to the chemicals identified in wastewater networks,
+contamination of groundwater aquifers with chlorinated chemicals and
+some heavy metals (e.g. nickel) was evident at some sites. Many of
+these chemicals have known uses in the facilities located at the sites
+where they were found. Groundwater contamination is of particular
+concern as local communities use this resource for drinking water in
+many places.
+
+Trihalomethanes (THMs) were also found in some groundwater
+samples from sites in all sectors. These chemicals are generally formed
+as by-products of chlorine based water disinfection, which is common
+practice for many groundwater sources including open wells, and this is
+their most likely source in these samples.
+
+Despite the overall complexity of the sample set available and the result
+obtained, some distinct patterns of contamination could be attributed to
+each of the different sectors investigated
+
+PWB manufacturing
+For the PWB manufacturing facilities investigated, wastewaters and
+sediments from discharge pipes/channels contained many chemicals of
+environmental concern. Some groups of chemicals were found
+throughout wastewater distribution networks and WWTPs, as well as
+in wastewaters discharged directly to the wider environment, either by
+WWTPs or individual facilities. These included some persistent and
+toxic chemicals; PBDEs (brominated flame-retardants) and phthalates,
+as well as high levels of some heavy metals. Other types of flame-
+retardant were found in wastewaters from facilities in China; TBBPA
+(commonly incorporated into PWBs) and TPP; see flame-retardants
+box.
+
+PBDEs were widely distributed, being found in wastewaters and/or
+sediments at all sites, including wastewaters released directly to
+environment. Though present in many samples, there were substantial
+differences in the number of PBDEs and their relative amounts in
+samples from different locations. Distribution patterns indicate that the
+facilities are significant point sources of these chemicals.
+
+Other chemicals specific to the PWB sector were found in discharged
+wastewater networks at most sites, including photoinitiator-related
+compounds and very high levels of heavy metals, including copper,
+nickel and zinc.
+
+8
+
+This farmer is on his break,
+drinking water. His field is
+near the Compeq factory in
+the Guangdong Province,
+China. October 2006
+
+E
+C
+A
+E
+P
+N
+E
+E
+R
+G
+©
+
+9
+
+CUTTING EDGE CONTAMINATION
+
+Photoinitiators and related compounds
+
+Metals
+
+Photoinitiators and related compounds. Photoinitiators use UV
+light to induce polymerisation and are extensively used in the
+manufacture of PWBs. Benzophenone and acetophenone based
+chemicals have traditionally been used though new compounds
+have been recently introduced, including thioxanthones. There is
+very little information on the potential human health and
+environmental impacts of many of these compounds, especially
+those more recently introduced.
+
+- Benzophenones; From animal experiments, the parent
+
+compound benzophenone can have toxic effects on the liver and
+kidneys. Benzophenone and some of its derivatives may effect
+the estrogenic hormone system.
+
+- Acetophenones; Though in use for many years, little
+
+information exists on their toxicity. Acetophenone itself is a
+toxic chemical; exposure can cause sedative effects in humans
+as well as effects on the blood; vapours can cause skin
+irritation. Effects on lungs, kidneys, and liver have also been
+reported in animals.
+
+- Thioxanthones; Thioxanthones are used in PWB photoresist
+processes. Little information is available on these compounds,
+though some derivatives of thioxanthone are known to be of
+high aquatic hazard and capable of causing long-term effects in
+aquatic organisms at low concentrations.
+
+Copper and nickel are widely used in PWB manufacture. In some
+cases, manufacturing processes use other chemicals which can impede
+the recovery of metals from wastewaters. Releases of copper to aquatic
+environments can have significant impacts. At the EETH facility in
+Thailand, wastewater contained the highest level of copper of the sites
+at a concentration almost two times the maximum permitted level for
+industrial effluents in Thailand.
+
+Some metals are used in the manufacture of PWBs and other
+electrical components; particularly copper but also nickel and
+other metals.
+
+Copper is widely used due to its high electrical conductivity;
+some PWB manufacturing processes use water soluble copper
+compounds. Many aquatic organisms are extremely sensitive to
+copper, particularly in soluble forms, and releases to aquatic
+environments can have significant impacts. Effects can occur at
+very low levels, including reductions in growth and fertility rates
+as well as increased mortality.
+
+Nickel is also used in the manufacture of PWBs, including nickel
+electroplating involving water-soluble nickel compounds. Ingestion
+of some nickel compounds can cause toxic effects in humans and
+animals; gastrointestinal effects and even cardiac effects. 2-5%
+of the population are nickel sensitive and can suffer effects at far
+lower doses. Some nickel compounds are carcinogenic to humans,
+and possibly some animals.
+
+Groundwater samples collected from PWB manufacturing sites were
+generally not impacted with the chemicals found in other samples.
+Although high levels of some metals were commonly present in
+wastestreams, their levels in groundwaters were generally not high.
+However, one sample from the Hi-Tech IE in Thailand did contain nickel
+at a level above the World Health Organisation (WHO) drinking water
+guideline value and nearly 5 times the Thai groundwater quality level
+for this metal.
+
+Semiconductor chip manufacture
+Volatile organic chemicals (VOCs) were found in samples from each of
+the sites where semiconductor chips are manufactured. The VOCs
+identified included chlorinated chemicals, commonly used as industrial
+solvents or degreasing agents, many with known toxic effects of the
+central nervous system, liver, and kidneys.
+
+10
+
+Ayutthaya, Thailand
+Wastewater from treated
+wastewater pond (far side) inside
+a combined wastewater treatment
+plant of Bangpa-in Industrial Estate,
+flowing towards public canal,
+13 September 2006.
+
+A
+M
+G
+N
+O
+H
+T
+N
+R
+O
+P
+A
+T
+A
+S
+
+/
+
+E
+C
+A
+E
+P
+N
+E
+E
+R
+G
+©
+
+11
+
+CUTTING EDGE CONTAMINATION
+
+Chlorinated volatile organic chemicals (VOCs)
+
+Nonylphenol (NP)
+
+Chlorinated methanes, ethanes and ethenes, many of which are or
+have been widely used as solvents in industrial processes,
+including surface cleaning in the manufacture of electrical
+equipment (PWBs & semiconductor chips); especially 1,1,1-
+trichloroethane, trichloroethene and tetrachloroethene. Many of
+these chemicals are potentially carcinogenic to humans. Most can
+affect the central nervous system (CNS), liver, and kidneys and
+are irritating to the skin, eyes, and mucous membranes. Some can
+be absorbed directly through the skin. The widespread use and
+storage of chlorinated solvents has led to releases of these
+chemicals into the environment, including groundwater aquifers.
+
+The most extensive contamination was seen at the Cavite Export
+Processing Zone (CEPZA) industrial estate in the Philippines, where
+chlorinated VOCs (ethenes & ethanes) were found in 5 groundwater
+samples, all collected close to the centre of the industrial estate. The
+distribution of these chemicals in the groundwater indicates localised
+industrial inputs within the CEPZA IE. In three samples, the level of
+one or more chlorinated ethene exceeded maximum recommended
+levels for drinking water set by the World Heath Organisation (WHO)
+and/or US Environmental Protection Agency (EPA). For one of these
+the level of tetrachloroethene was 9 times the WHO guidance value and
+70 times the USEPA maximum contaminant level.
+
+The situation was less clear at the other sites. Chlorinated VOCs were
+found in only one sample at the Gateway IE (Philippines). In the case
+of the On Semicon site (Philippines), the greatest groundwater
+contamination was detected to the south of the facility, indicating that
+another so far unidentified source may be responsible.
+
+Some samples associated with this sector contained high levels of
+metals, primarily zinc, though current levels would not be expected to
+pose a risk to health in drinking water. In many cases the likely sources
+were unclear, though high levels do appear to be centred around the On
+Semicon site.
+
+Nonylphenol (NP) is a chemical most widely known as a
+breakdown product of nonylphenol ethoxylate (NPE) surfactants
+(detergents), though it has reportedly also been used as an
+antioxidant in some plastics. It is a strong endocrine (hormone
+system) disruptor, capable of causing intersex (individuals with
+both male and female characteristics) in fish. Nonylphenol can
+also build up through the food chain and may be capable of
+causing damage to DNA and even sperm function in humans.
+
+The data give a snap-shot of groundwater contamination at each site. It
+was not the intention of this study to conduct a full comprehensive
+survey of the aquifers, nor was there the ability to do so due to the
+limited number of groundwater access points at each site. There is
+clearly a need for further detailed investigations of chlorinated VOCs in
+groundwater at the semiconductor chip manufacturing sites to find the
+full extent of the contamination of the aquifers, particularly at the
+CEPZA IE in the Philippines. As no samples of production wastes
+(such as wastewaters) could be collected from the facilities in this
+sector, the nature and extent of chemicals in these waste streams are
+unknown.
+
+Component assembly
+At the investigated sites in Mexico where component assembly takes
+place, high levels of some metals were found in about half the
+groundwater samples collected, principally nickel and zinc. The levels of
+nickel in 3 samples [1 from a well adjacent to the Sanyo Video facility
+in Tijuana, and 2 collected close to the Flextronics IE in Guadalajara]
+were above the WHO maximum guideline value for nickel in drinking
+water, the highest being over double the WHO value. No contamination
+with chlorinated VOCs was found in these groundwaters.
+
+Samples of wastewater were only accessible at one site, that belonging
+to IBM in Guadalajara. A number of chemicals of environmental
+concern were found in these wastewaters, including nonyl phenols, a
+phthalate, and also trace levels of 2 PBDEs, flame-retardant chemicals
+discussed above. Nonyl phenols (NP) are persistent chemicals that are
+toxic to aquatic life, and can bioaccumulate. NPs are commonly formed
+as degradation products of nonylphenol ethoxylates (NPEs), a group of
+chemicals used as surfactants (detergents). One NPE was also found in
+the same wastewater, along with a phthalate (DEHP).
+
+12
+
+Overall, the results from this study clearly demonstrate that the current
+use of hazardous chemicals and practices in the manufacture of
+electronic equipment is resulting in contamination of the environment
+with many hazardous chemicals, some of which are persistent and able
+to bioaccumulate. Commonly used wastewater treatment processes are
+unable to deal with many of the chemicals used, including certain
+brominated flame-retardants and heavy metals.
+
+At those sites where groundwater contamination has been highlighted it
+is imperative that any further inputs to the groundwaters aquifers are
+immediately prevented and full site investigations carried out to find
+the extent of the contamination and enable remediation. Where
+contaminated groundwater sources are used for drinking water, clean
+drinking water from other sustainable sources needs to be supplied in
+the interim.
+
+Despite its high demand for resources, including a diverse array of
+hazardous chemicals, the electronics industry at a global level appears
+to remain relatively free from specific environmental regulation. This
+may, in part, be a consequence of the very rapid evolution and
+development of the sector, such that the rate of introduction of new
+industrial processes outpaces the development of regulatory controls.
+
+When it comes to worker and environmental protection, there are some
+signs of change within the electronics industry. The EU Directive on the
+restriction of the use of certain hazardous substances in electrical and
+electronic equipment, or the RoHS Directive, has had a substantial
+impact on the industry well beyond Europe and, in the case of some
+companies at least, well before its official entry into force on July 1st
+2006. This Directive prevents the use of the heavy metals lead,
+mercury, cadmium and hexavalent chrome and of certain brominated
+flame-retardants, namely PBBs and PBDEs (with exceptions for deca-
+BDE and some designated uses of metals). It does not control the use
+of all potentially hazardous chemicals, including other brominated
+flame-retardants such as TBBPA. Furthermore, it addresses only a very
+small part of the problem, with a heavy focus on avoiding the presence
+of only certain hazardous chemicals in the final products put on the
+market in the EU. Aside from the upstream changes these specific
+prohibitions require, RoHS alone is likely to have little impact on the
+use of the majority of the hazardous chemicals used in the
+manufacturing processes themselves, nor on the overall efficiency and
+resource intensity of those processes.
+
+Collecting water
+samples from a well
+near the Sanyo plant in
+Tijuana. June 2006.
+
+E
+C
+A
+E
+P
+N
+E
+E
+R
+G
+©
+
+What is urgently required is a much more fundamental shift in thinking
+and emphasis by those companies engaged in electronics manufacture
+to ensure that concerns regarding chemical and other raw material use,
+workplace exposure and waste management become a routine part of
+company planning, research and development cycles, without waiting
+for legislative measures to catch up and without pursuing derogations
+from existing law. In technological terms, electronics manufacturing
+remains at the cutting edge and has a strong economic future. There is
+no reason why it should not also be at the cutting edge when it comes
+to clean designs and technologies, substitution of hazardous chemicals,
+increased resource efficiencies, greater worker health protection and
+the prevention of environmental pollution at source. In short, it is vital
+that, in the inevitable race for technological advances, the electronics
+manufacturing industry does not remain blind to the parallel need for
+pollution prevention and sustainability.
+
+13
+
+CUTTING EDGE CONTAMINATION
+
+1 :: INTRODUCTION
+
+THERE HAS BEEN GROWING CONCERN IN RECENT YEARS OVER THE PRESENCE OF HAZARDOUS CHEMICALS AND MATERIALS WITHIN
+
+ELECTRICAL AND ELECTRONIC EQUIPMENT. INTEREST HAS CENTRED IN PARTICULAR ON COMPUTERS AND THEIR PERIPHERAL EQUIPMENT,
+
+DUE LARGELY TO RAPIDLY INCREASING PRODUCTION OF SUCH GOODS GLOBALLY.
+
+E
+C
+A
+E
+P
+N
+E
+E
+R
+G
+©
+
+I
+P
+G
+©
+
+One of the residents near the Compeq
+factory in the Guangdong Province,
+China preparing her stove to make
+bread. October 2006
+
+Examples include lead, a highly toxic metal that has traditionally been
+used in electrical solders and other materials used in the manufacture
+of such products, and certain toxic brominated compounds, such as
+polybrominated diphenyl ethers (PBDEs), the use of which as flame
+retardants has resulted in releases of these chemicals to the
+environment.
+
+Studies investigating the use of hazardous chemicals in this sector have
+tended to focus on impacts on human health and the environment
+resulting from the recycling and disposal of old electrical/electronic
+equipment, an already large and rapidly increasing wastestream.
+Greenpeace recently conducted a study demonstrating workplace and
+environmental contamination due to recycling activities in China and
+
+India (Brigden et al. 2005). However, the use of hazardous chemicals in
+this type of product is not restricted to older, now obsolete models.
+Greenpeace recently reported the presence of certain hazardous
+chemicals in five laptop computers purchased in Europe in March 2006
+(Brigden & Santillo 2006). Although legislation in some countries and
+regions has prohibited or imposed greater controls on the use of certain
+hazardous chemicals (e.g. the European RoHS Directive, EC 2003),
+and despite moves by some companies to replace hazardous substances
+with safer alternatives (Cobbing 2006), even very recently
+manufactured models of computers and related equipment may still
+contain some toxic heavy metals and other hazardous chemicals.
+
+14
+
+A topic that has received less public attention to date is the potential
+for environmental impacts during the manufacture of
+electrical/electronic equipment, from both chemicals incorporated into
+the products as well as other chemicals used in their manufacture but
+that do not form part of the final product, such as solvents and
+surfactants (Walters et al. 2006). This study was undertaken to
+investigate such impacts from certain sectors within this industry.
+
+A typical computer is an incredibly complex construction consisting of
+a wide range of diverse components, from the visible external keyboard,
+casing and screen to the internal circuitry and wiring including printed
+wiring boards (PWBs), semiconductors, hard drives, interface sockets,
+cables, etc. many of which are themselves composed of numerous
+individual parts. The manufacture of this type of equipment is a truly
+global industry. A typical computer may have been assembled using
+thousands of components manufactured at numerous specialised
+facilities, which may be located in a number of different countries.
+There are many diverse manufacturing sectors within this industry.
+
+This study is not, therefore, intended to be a comprehensive
+investigation into all aspects of the whole manufacture process of
+computers and peripheral equipment, but rather to provide some ‘snap-
+shot’ case studies into environmental contamination from the use of
+hazardous chemicals in three major sectors of this industry;-
+
+• Printed wiring board (PWB) manufacture
+• Semiconductor chip manufacture
+• Component assembly
+
+The assembly of individual component into discrete devices and the
+final product can make use of surfactants and chemical solvents as well
+as flux chemicals and metals in electrical solders. Historically solders
+were lead based alloys and, although lead-free alternatives are now
+widely used (Lau et al. 2003), numerous derogations permitting
+continued use of leaded solders have recently been agreed under the
+EU’s RoHS Directive (EC 2005). The manufacture of PWBs and
+semiconductor chips are highly complex and chemically intensive
+processes using a wide range of chemicals, many of which do not form
+part of the final product. These processes, described in more detail by
+Walters et al. (2006) are outlined briefly below in order to put the
+current study into context.
+
+Printed Wiring Board (PWB) manufacture
+Printed wiring boards (PWB) are also known as printed circuit boards
+(PCB). In this report the term PWB is used to avoid confusion with
+another common use of PCB to refer to the chemicals polychlorinated
+biphenyls.
+
+PWBs are essentially complex copper circuitry embedded within an
+electrically insulating baseboard. Baseboards are generally made from
+glass fibre-epoxy resin based composites to which flame retardant
+chemicals are commonly added. Tetrabromobisphenol-A (TBBPA), a
+brominated flame retardant (BFR), is widely used in epoxy resin
+boards. This compound becomes largely chemically bound into the
+polymer, though traces of unreacted TBBPA do remain unbound in the
+finished board (Sellstrom & Jansson 1995) and the harsh chemical
+environments used during PWB production may be expected to cause
+some leaching of unreacted monomer. The initial stage of baseboard
+manufacture is not further covered in this report.
+
+The manufacture of a PWB involves producing complex copper
+circuitry on thin layers of insulating material (baseboard). The layers
+are then laminated together and holes drilled to allow electrical
+communication between layers. Additional circuitry may be laid down
+on the outer surface and a range of the surface finishing chemicals
+applied to clean, strengthen and protect the board. For each layer, the
+copper circuitry is produced by firstly coating the base material with
+copper. The circuit pattern is temporarily protected from the subsequent
+stripping (etching) stage by a template or ‘mask’ laid on top of the
+copper in the shape of the desired circuit (using the photochemical
+techniques described below), and then unwanted copper is selectively
+stripped back off from everywhere except where the circuit is required.
+Multiple processes and chemicals that can generate a mix of hazardous
+wastes are used in PWB manufacture; specific techniques applied vary
+between manufacturers.
+
+The process of creating circuits utilises complex photochemistry, i.e.
+exploiting chemical changes through exposure to ultraviolet (UV) light.
+The (cleaned) copper surface is first coated with a photoresist mixture
+(of monomers, crosslinking agents and photocatalysts) that changes its
+solubility upon exposure to UV light. A diverse range of organic
+chemicals are used in photoresists. A mask (map) of the circuitry is
+applied and UV light shone on the board. Many processes are used, but
+in that most commonly used the photoresist mixture polymerise on
+exposure to UV light and becomes insoluble while unexposed areas
+remain soluble. The latter are then washed away using a suitable
+solvent, which can still include chlorinated solvents, though water based
+systems are increasingly available (Lau et al. 2003, Shaw et al. 1997).
+Spent developing solution containing dissolved photoresist mixtures is
+one of the largest liquid wastestreams generated by PWB
+manufacturing (USEPA 1995). Exposed copper is then etched from
+the surface, and the protective photoresist is subsequently removed
+using other chemicals (‘film stripping’) to leave the finished copper
+circuit. These processes create complex wastestreams that include
+soluble copper, photoreactive chemicals and solvents.
+
+15
+
+CUTTING EDGE CONTAMINATION
+
+Individual layers are joined together using epoxy resins under heat and
+pressure. Holes, or ‘vias’, are drilled through the PWB to allow the
+attachment of components, or provide electrical connection between
+layers by copper coating the insides of the holes. Hole coating has
+traditionally been carried out using the ‘electroless copper process’
+followed by electroplating. The electroless copper process uses dissolved
+copper compounds, formaldehyde and chelating chemicals (that can
+impede recovery of metals from wastewaters), as well as other
+hazardous chemicals. This process is therefore associated with
+significant environmental concerns, though some manufactures now use
+alternative processes which are less chemical intensive and
+environmentally impacting (Chang 1995, Hui et al. 2003). Outer layer
+circuitry is then laid down in a similar manner to that used for inner
+layers, and then surface finishes are applied primarily to prevent copper
+oxidation and give physical protection. These are usually based on
+metallic solders (either lead-tin or lead free alloys) and/or other metals
+including nickel and gold, which can involve the use of water-soluble
+nickel compounds.
+
+The processes used, including numerous rinse cycles, result in
+significant loss of metals and process chemicals into wastewaters.
+Though some chemical recovery does take place at many facilities,
+wastewaters can represent a significant source of environmental
+pollution (USEPA 1995).
+
+Semiconductor chip manufacture
+Semiconductor chips, or ‘microchips’ consist of a complex array of
+microscopic components based on semiconducting material within an
+extremely small area. These circuits respond much more quickly and
+use less electricity than conventional circuitry. The manufacture of
+semiconductor chips involves many chemical processes that require vast
+quantities of process chemicals and water (Walters et al. 2006); over
+30 kg of materials (including water) are required for the manufacture
+of a single 2 g memory chip (Williams et al. 2002). Due to the dynamic
+nature of this industry, technologies used and the chemicals and
+processes employed are rapidly changing (Dietrich 2004).
+
+Semiconductor chips are constructed from ultra pure materials in a
+multiple step-wise process, essentially involving three basic elements:
+the layering of insulating, semiconducting or conducting material, the
+doping of semiconducting layers with an array of chemicals to tune
+their electrical properties and the surface patterning using masking and
+etching processes analogous to PWB construction. In this way multiple
+layers of circuitry are built up.
+
+The processes are intolerant of even trace impurities, requiring the use
+of very high purity chemicals (gases and solvents), many in high
+volumes. Some recycling/reclamation of spent chemicals does occur,
+though recovered solvents and gases can contain impurities that may
+make clean-up to the necessary high purity impracticable, and so waste
+solvents may often be incinerated (Timms 1999). The processing of
+solvent waste is often out-sourced to separate companies. Use of
+chlorinated solvents by this industry has resulted in groundwater
+contamination at a number of locations (Williams 2003). Large
+volumes of wastewaters are generated, mainly from surface rinsing that
+follows etching and cleaning stages. These contain a wide range of
+chemicals including solvents, acids and metals, particularly dissolved
+copper.
+
+Processes used in semiconductor manufacture also generate gaseous
+wastestreams containing a wide range of hazardous air pollutants.
+These can include heavy metals, perfluorinated compounds, inorganic
+acids and volatile organic chemicals (VOCs), some of which are potent
+greenhouse gases. Though abatement of chemicals in gaseous
+wastestreams commonly take place, significant chemical emissions to
+air have nevertheless been reported (Chein & Chen 2003).
+
+The use of hazardous chemicals in this industry has raised concerns
+over workers health, particularly the potential impacts from long-term,
+low level exposure to a wide and frequently changing range of
+chemicals. Epidemiological studies have highlighted increased
+incidences of reproductive effects and certain cancers (Chen et al.
+2002, Clapp 2006, Hsieh et al. 2005, Schenker et al. 1995), though
+establishing cause-effect relationships to chemical exposure is
+extremely difficult in such circumstances (Fowler 1999).
+
+This study was not intended to be an exhaustive investigation of the
+electronics manufacturing industry, rather an attempt to gain
+understanding of the chemical wastes released to the environment by
+certain sectors of this industry in a number of different countries. It
+was not possible to investigate, and therefore compare, the same
+manufacturing sector in each of the different countries included in this
+study, nor to collect the same range of samples for each of the
+individual facilities investigated. This study does, however, provide
+substantial information on the environmental contamination of these
+parts of the industry where little has previously been available. The
+individual manufacturing facilities or Industrial Estates in each of the
+four countries, and the manufacturing activities carried out at each is
+presented in Table 1.1.
+
+16
+
+August 2006
+Image shows the inside
+of a laptop and the type
+of component produced
+and assembled in the
+factories that are
+highlighted in
+this report.
+
+/
+
+N
+A
+M
+Z
+I
+R
+E
+C
+A
+E
+P
+N
+E
+E
+R
+G
+©
+
+table 1.1: Facilities/Sites and Industrial Estates (IEs) investigated, the country in which they are based and the manufacturing sector
+to which they belong.
+
+COUNTRIES
+
+FACILITIES
+
+MANUFACTURING SECTOR
+
+China
+
+China
+
+Thailand
+
+Thailand
+
+Thailand
+
+Thailand
+
+Thailand
+
+Philippines
+
+Philippines
+
+Philippines
+
+Mexico
+
+Mexico
+
+Mexico
+
+Mexico
+
+Mexico
+
+Mexico
+
+Mexico
+
+Mexico
+Mexico
+
+Compeq
+
+Fortune
+
+Elec & Eltek (EETH)
+
+Navanakorn IE
+
+Bangpa-in IE; CKL Electronics
+
+Hi-Tech IE; KCE
+
+Rojana IE; PCTT
+
+Gateway Business Park (mixed activity IE)
+
+On Semicon (Also known as ‘On Semiconductor’)
+
+Cavite Export Processing Zone, CEPZA; mixed activity IE
+
+Kemet
+
+Sanyo Video, Tijuana
+
+Sony, Tijuana
+
+Parque Integral (Flextronics), Guadalajara
+
+Jabil, Guadalajara
+
+Solectron, Guadalajara
+
+Sanmina-SCI plant 3, Guadalajara
+
+HP, Guadalajara
+
+IBM Site, Guadalajara
+
+PWB manufacture
+
+PWB manufacture
+
+PWB manufacture
+
+PWB manufacture
+
+PWB manufacture
+
+PWB manufacture
+
+PWB manufacture
+
+Semiconductor chip manufacture
+
+Semiconductor chip manufacture
+
+Semiconductor chip manufacture
+
+Semiconductor chip manufacture
+
+Assembly (TV & LCD)
+
+Assembly (TV & LCD)
+
+Component assembly
+
+Component assembly
+
+Component assembly
+
+Component assembly
+
+Assembly (PC & other components)
+
+Assembly (PC & other components)
+
+17
+
+CUTTING EDGE CONTAMINATION
+
+2 :: SAMPLING PROGRAM
+
+FOR EACH OF THE THREE MANUFACTURING SECTORS INVESTIGATED IN THIS STUDY, SEVERAL SEPARATE FACILITIES INVOLVED IN SIMILAR
+
+ACTIVITIES WERE VISITED AND A RANGE OF DIFFERENT TYPES OF SAMPLES COLLECTED FROM EACH, DEPENDING ON SAMPLE AVAILABILITY
+
+AND SUITABILITY AT THE SITE.
+
+Greenpeace collecting
+samples from a wastewater
+channel on the IBM site in
+Guadalajara, Mexico.
+June 2006.
+
+©GREENPEACE
+
+18
+
+I
+P
+G
+©
+
+MONGOLIA
+
+CHINA
+
+INDIA
+
+Boluo County, Huizhou City
+Guangdong Province
+
+Figure 2.1 :: Map of China showing the location of Boluo County in which the
+Fortune and Compeq manufacturing facilities were located.
+
+The types of samples collected include groundwaters, wastewaters
+(both treated and untreated), sediments from discharge channels and
+water bodies that receive discharged wastewaters, treatment facility
+sludges, and soil samples.
+
+All samples were collected and stored in pre-cleaned glass bottles that
+had been rinsed thoroughly with nitric acid and analytical grade
+pentane in order to remove all heavy metal and organic residues.
+Wastewater samples were collected in a 1 litre screw-cap bottle. For
+those samples analysed for volatile organic chemicals, a sample was
+collected in a separate 125 ml amber bottle with a ground-glass
+stopper. Sediment and soil samples were collected in 100ml bottles. All
+samples were kept cool and returned to the Greenpeace Research
+Laboratories for analysis. Detailed description of sample preparation
+and analytical procedures are presented in the Appendix.
+
+2.1 :: PRINTED WIRING BOARD (PWB)
+MANUFACTURE; CHINA & THAILAND
+A number of facilities involved in the manufacture of printed wiring
+boards (PWB) were visited both in China and Thailand. A range of
+samples were collected including wastewaters, sediments from
+discharge channels and rivers, sludges from wastewater treatment
+plants (WWTP), soil and groundwater.
+
+2.1.1 :: China
+This study investigated two facilities involved in the manufacture of
+PWB in China; Fortune and Compeq. These two separate facilities are
+both located in Boluo County, Guang Dong, China, the location of which
+is shown in Figure 2.1. Both are stand-alone facilities, not situated
+within an Industrial Estate. Fortune is located in agricultural land at
+Bu Shang Village, near to the Bushang River while the Compeq facility
+is situated on the banks of the XianGang River, Hu Zhen Village.
+
+19
+
+CUTTING EDGE CONTAMINATION
+
+At the Fortune facility, wastewaters are discharged via an underground
+channel which flows into an open ditch that in turn flows into the
+Bushang River. Wastewaters discharged via this route are not
+continuous but released in batches. At the time of sample collection
+wastewater discharge was not taking place. The underground channel
+and open ditch flow through farmland neighbouring the Fortune facility.
+
+The Compeq facility, located on the banks of the XianGang River, has
+four outfalls that discharge wastewaters to the river. From the most
+upstream to the most downstream, these discharges are hereinafter
+referred to as;-
+
+1. Open discharge channel #2
+2. Pipe #2
+3. Pipe #1
+4. Open discharge channel #1, from wastewater treatment plant
+
+Samples of discharged wastewaters were collected from both facilities,
+as well as sediments from discharge channels and the creeks / rivers
+into which they flow. Soil and groundwater samples were also collected
+from the vicinity of the Fortune facility. For both facilities, samples
+were collected on two separate occasions, firstly in November 2005
+(MI05049-51) and a second set in January 2006 (MI06001-
+MI06010). Details and locations of the individual samples are given in
+Table 2.1 and in Figure 2.2 (Fortune) and Figure 2.3 (Compeq).
+
+N
+
+4
+
+Ditch
+
+Alley
+
+Farmland
+
+3
+
+Road
+
+1
+
+Underground
+Channel
+
+1
+
+2
+
+FORTUNE
+
+Disused Ditch
+
+MI05010
+
+SEDIMENT
+
+WATER SAMPLE
+
+1
+
+2
+
+3
+
+4
+
+1
+
+MI06051
+
+MI06009
+
+MI06008
+
+MI06007
+
+MI05049
+
+Figure 2.2 :: Sketch map of the locations from which samples were collected
+in the vicinity of the Fortune PWB manufacturing facility, China
+
+table 2.1 :: description of wastewater, sediment, soil and groundwater samples associated with the Fortune and Compeq PWB
+manufacturing facilities, China
+
+SAMPLE#
+
+TYPE
+
+DATE
+
+SAMPLE LOCATION
+
+groundwater
+
+wastewater
+
+sediment
+sediment
+soil
+soil
+
+sediment
+wastewater
+sediment
+sediment
+sediment
+wastewater
+wastewater
+
+19.11.05
+
+18.11.05
+
+19.01.06
+
+19.01.06
+
+19.01.06
+
+19.01.06
+
+17.01.06
+
+19.11.05
+
+18.01.06
+
+17.01.06
+
+17.01.06
+
+18.01.06
+
+18.01.06
+
+Fortune
+well, located at the outfall of underground channel into the open ditch
+
+underground channel; to an open ditch leading to the BuShang River
+
+underground discharge channel
+
+open ditch, leading to the Bushang River
+
+field close to the Fortune facility, adjacent to the open ditch
+
+field 500m from the Fortune facility; unaffected by wastewater discharges
+
+Compeq
+XianGang River; 500 m upstream of discharge pipes
+
+discharge channel #2; furthest upstream outfall
+
+discharge channel #2; furthest upstream outfall
+discharge pipe #2; new outfall 0.3m upstream of old outfall (MI06001)
+discharge pipe #2, old (now unused) outfall
+discharge pipe #1
+discharge channel #1, furthest downstream outfall
+
+MI05049
+
+MI05051
+
+MI06009
+
+MI06008
+
+MI06007
+
+MI06010
+
+MI06003
+
+MI05050
+
+MI06006
+
+MI06002
+
+MI06001
+
+MI06004
+
+MI06005
+
+20
+
+THAILAND
+
+ROJANA IE
+
+AYUTTHAYA
+
+HI-TECH IE
+
+BANGPA-IN IE
+
+NAVANAKORN IE
+
+PATHUM THANI
+
+CHAO PHRAYA RIVER
+
+EETH
+
+BANGKOK
+
+Show water well locations
+
+THAILAND
+
+ROJANA IE
+
+AYUTTHAYA
+
+HI-TECH IE
+
+BANGPA-IN IE
+
+NAVANAKORN IE
+
+PATHUM THANI
+
+CHAO PHRAYA RIVER
+
+EETH
+
+BANGKOK
+
+THAILAND
+
+ROJANA IE
+
+AYUTTHAYA
+
+HI-TECH IE
+
+BANGPA-IN IE
+
+NAVANAKORN IE
+
+PATHUM THANI
+
+CHAO PHRAYA RIVER
+
+EETH
+
+BANGKOK
+
+Show water well locations
+
+ROJANA IE
+
+COMPEQ
+
+Show water well locations
+
+AYUTTHAYA
+
+pipe 2
+
+pipe 1
+
+HI-TECH IE
+
+ROJANA IE
+
+AYUTTHAYA
+
+HI-TECH IE
+
+BANGPA-IN IE
+
+ROJANA IE
+
+BANGPA-IN IE
+
+Xian’gang Bridge
+
+1
+
+SEDIMENT
+
+WATER SAMPLE
+
+1
+
+2
+
+3
+
+4
+
+1
+
+2
+
+3
+
+MI06003
+
+MI06006
+
+MI06002
+
+MI06001
+
+MI05050
+
+MI06004
+
+MI06005
+
+1
+
+2
+
+Xian’gang River
+
+3
+4
+
+2
+
+3
+
+Figure 2.3 :: Sketch map of the locations from which samples were collected
+in the vicinity of the Compeq PWB manufacturing facility, China
+
+CHAO PHRAYA RIVER
+
+AYUTTHAYA
+
+CHAO PHRAYA RIVER
+
+2.1.2 :: Thailand
+Five separate locations were investigated in Thailand, in each case
+where facilities are involved in the manufacture of PWBs. One location
+is a stand-alone facility (EETH), while the reminder are situated within
+Industrial Estates (IEs). Each of the Industrial Estates contains many
+individual facilities, some involved in the manufacture of PWBs, and
+many others involved in a range of industrial activities, though
+primarily centred on the manufacture of electronic devices. The five
+locations (and the individual PWB manufacturing facilities investigated
+within each Industrial Estate), as shown in Figure 2.4, are:-
+
+- Elec & Eltek (EETH), Pathumthani Province
+- Bangpa-in IE, Ayutthaya Province (CKL Electronics)
+- Hi-Tech IE, Ayutthaya Province (KCE)
+- Rojana IE, Ayutthaya Province (PCTT)
+- Navanakorn IE, Pathumthani Province
+
+HI-TECH IE
+NAVANAKORN IE
+
+NAVANAKORN IE
+
+BANGPA-IN IE
+
+PATHUM THANI
+
+PATHUM THANI
+
+CHAO PHRAYA RIVER
+
+EETH
+
+EETH
+
+NAVANAKORN IE
+
+BANGKOK
+
+BANGKOK
+
+Figure 2.4 :: Map of the sites investigated in Thailand where facilities are
+involved in the manufacture of PWBs. Map derived from maps obtained from
+the Thailand Department of Groundwater Resources (www.dgr.go.th)
+
+PATHUM THANI
+
+EETH
+
+21
+
+BANGKOK
+
+CUTTING EDGE CONTAMINATION
+
+Detailed information on the exact processes employed is not available
+for all facilities. However, from information on some company websites
+it is known that the electroless copper process is used at the EETH and
+possibly other facilities. This process utilises water soluble copper
+compounds, hazardous chemicals such as formaldehyde, and chelating
+chemicals such as EDTA that impede the recovery of metals from
+wastewaters. In addition to copper, the use of nickel and other metals in
+the PWB manufacturing processes is widely reported, though detail on
+solvents, surfactants and other processes chemicals is not generally
+available (EETH 2006, CKL 2007, KCE 2007, PCTT 2006).
+
+In May 2006, samples of groundwater were collected from the
+immediate vicinity of each of the five sites. In addition wastewaters,
+sediments and treatment plant sludges were collected from some of the
+sites. For each of the Industrial Estates there is at least one combined
+wastewater treatment plant (WWTP) that received wastewaters from
+many facilities within the estate. In some instances it was possible to
+collect wastewaters from individual PWB manufacturers prior to their
+treatment by WWTPs. In these instances, samples of treated
+wastewater were also collected from the WWTP, along with sludge and
+sediment samples where possible. Details of all samples are presented
+below and in Table 2.2.
+
+At Elec & Eltek (EETH), a channel flows from west to east at the rear
+of the facility. There are no continuous direct discharges from EETH to
+the canal, but many small open pipes are visible on the banks of the
+channel below the EETH facility. Any liquids flowing through these
+pipes would be discharged into the channel. A sample of water and one
+of sediment were collected from this channel near the middle of the
+factory perimeter. A second sediment sample was collected from the
+channel at the upstream (western) edge of the factory perimeter. Two
+groundwater samples were collected to the north and southeast of
+EETH.
+
+At the Navanakorn IE it was not possible to collect samples of
+wastewaters from PWB manufacturing facilities that operate within
+this industrial estate; PCTT. Four groundwater samples were collected;
+two to the northeast and one to the west of the estate as well as one
+from a residential property within the estate.
+
+For the Bangpa-in, Hi-Tech and Rojana estates, wastewaters from
+individual facilities are carried via underground pipes to combined
+WWTPs. Manholes in front of individual facilities give access to
+individual wastewater inputs to the pipe network. At each estate,
+wastewater was collected from one of the PWB manufacturers as well
+as treated wastewater from the combined WWTP.
+
+CKL, one of the two known PWB manufacturing facilities within the
+Bangpa-in IE was specifically sampled as collection of wastewaters
+from this facility was possible prior to their reaching the WWTP. It was
+not possible to collect wastewater samples form the other facility,
+Mectec. Wastewater was collected at its point of discharge from CKL
+via a manhole. Sediment was also collected from a separate manhole in
+which no water was flowing. Three samples were collected from the
+Bangpa-in WWTP that receives wastewaters from CKL and other
+facilities; one sample of treated wastewater at the point of discharge
+from the WWTP, and two samples of sludge from the many wastewater
+treatment tanks. Four groundwater samples were also collected from
+close to the Bangpa-in IE; one to the north, one to the south and one
+to the west of the estate as well as one from a drinking water tank
+within the CKL facility.
+
+22
+
+Ayutthaya, Thailand
+Liquid dripping from a pipe above
+wastewater treatment tank inside a
+combined wastewater treatment
+plant of Bangpa-in Industrial Estate.
+13 September 2006.
+
+©GREENPEACE/SATAPORN THONGMA
+
+I
+P
+G
+©
+
+table 2.2 :: description of wastewater, sediment, sludge and groundwater samples collected in from five separate sites in which
+facilities are involved in the manufacture of PWBs, Thailand
+
+SAMPLE#
+
+TYPE
+
+DATE
+
+SAMPLE LOCATION
+
+MI06024
+
+MI06025
+
+MI06026
+
+MI06027
+
+MI06028
+
+MI06032
+
+MI06033
+
+MI06034
+
+MI06059
+
+MI06036
+
+MI06037
+
+MI06038
+
+MI06039
+
+MI06040
+
+MI06035
+
+MI06041
+
+MI06043
+
+MI06044
+
+MI06045
+
+MI06046
+
+MI06047
+
+MI06048
+
+MI06049
+
+MI06050
+
+MI06051
+
+MI06052
+
+MI06053
+
+MI06054
+
+MI06055
+
+MI06056
+
+MI06057
+
+MI06058
+
+wastewater
+
+Sediment
+
+Sediment
+
+groundwater
+groundwater
+
+groundwater
+
+groundwater
+
+groundwater
+
+groundwater
+
+wastewater
+
+Sediment
+
+wastewater
+
+Sludge
+
+Sludge
+groundwater
+
+groundwater
+
+groundwater
+
+groundwater
+
+wastewater
+
+wastewater
+
+Sediment
+
+groundwater
+
+groundwater
+
+groundwater
+
+groundwater
+
+wastewater
+
+wastewater
+
+groundwater
+
+groundwater
+
+groundwater
+
+groundwater
+
+groundwater
+
+16.05.06
+
+16.05.06
+
+16.05.06
+
+16.05.06
+
+16.05.06
+
+16.05.06
+
+16.05.06
+
+16.05.06
+
+16.05.06
+
+26.05.06
+
+16.05.06
+
+26.05.06
+
+16.05.06
+
+16.05.06
+16.05.06
+
+16.05.06
+
+16.05.06
+
+16.05.06
+
+17.05.06
+
+26.05.06
+
+17.05.06
+
+17.05.06
+
+17.05.06
+
+17.05.06
+
+17.05.06
+
+26.05.06
+
+17.05.06
+
+17.05.06
+
+17.05.06
+
+17.05.06
+
+17.05.06
+
+17.05.06
+
+Elec & Eltek (EETH)
+canal behind EETH; near the middle of factory perimeter
+
+canal behind EETH; near the middle of factory perimeter, as MI06024
+
+canal behind EETH; upstream (western) edge of the factory
+groundwater tank; village 0.3 Km north (N) of EETH (G1185)
+groundwater tank; village 1 Km southeast (SE) of EETH (MN0258)
+
+Navanakorn IE
+groundwater tank; temple 1 Km northeast (NE) of estate (JICB0005)
+
+groundwater tank; village 1 Km northeast (NE) of the estate (NB0052)
+
+groundwater tank; temple 1 Km west (W) of the estate (MQ0546)
+
+groundwater from a residential property within the estate
+
+Bangpa - in IE
+
+CKL; manhole in front of facility containing flowing wastewater
+
+CKL; manhole in front of facility; dry, no flowing water
+
+combined WWTP; discharge treated wastewater
+
+combined WWTP; one of many treatment tanks (dry tank)
+
+combined WWTP; one of many treatment tanks (wet tank)
+
+filtered drinking water; tank within the CKL facility
+
+groundwater tank; school 3 Km north (N) of Bangpa-in IE (QO859)
+
+groundwater tank; school 1.5 Km south (S) of Bangpa-in IE (MQ0519)
+
+groundwater tank; village 2 Km west (W) of Bangpa-in IE (G1223)
+
+Hi-Tech IE
+
+KCE; manhole in front of facility
+communal WWTP; treated wastewater pond, awaiting discharge to canal
+communal WWTP; treated wastewater pond, as MI06046
+groundwater tank; village 2 Km west (W) of estate (MQ0923)
+groundwater tank; village 1.5 Km east (E) of Hi-Tech IE (MQ0521)
+groundwater tank; school 2 Km northeast (NE) of Hi-Tech IE (G1344)
+groundwater tank; village 2 Km southeast (SE) of Hi-Tech IE (14444)
+
+Rojana IE
+PCTT; manhole in front of facility, pipe leading to WWTP (Phase 1)
+
+WWTP (Phase 1); treated wastewater being discharged to a canal
+
+groundwater tank; village 1.5 Km west (W) of estate (MQ0738)
+
+groundwater tank; village 1 Km northwest (NW) of estate (MQ0629)
+groundwater tank; village 1 Km southwest (SW) of estate (02578)
+
+groundwater tank; temple 1.5 Km southeast (SE) of estate
+
+groundwater tank; via an apartment, 1.5 Km east (E) of estate (17496)
+
+23
+
+CUTTING EDGE CONTAMINATION
+
+Within the Hi-Tech IE, a sample of wastewater from the KCE facility
+was collected via a manhole. It was not possible to collected samples of
+wastewater from other PWB manufacturers known to operate within
+this estate. At the WWTP, treated wastewater is stored in a large pond
+prior to discharge to a public canal system. A sample of wastewater
+and sediment were collected from this pond. Four groundwater samples
+were also collected from close to the Hi-Tech IE; one to the west, one
+to the east, one to the northeast, and one to the southeast of the estate.
+
+At the Rojana IE, wastewater was collected from the PCTT facility at
+its point of discharge to the underground pipe network leading to the
+Phase 1 WWTP. A sample of treated wastewater was collected from
+this WWTP as it was being discharged to an open canal system. Five
+groundwater samples were also collected from close to the Rojana IE;
+one to the west, one to the northwest, one to the southwest, one to the
+southeast and one to the east of the estate.
+
+2.2 :: SEMICONDUCTOR CHIP MANUFACTURE;
+PHILIPPINES AND MEXICO
+Facilities involved in the manufacture of semiconductor chips were
+investigated at three sites in the Philippines and one site in Mexico. The
+individual sites were;
+
+– Philippines; Gateway Business Park Industrial Estate (IE), General
+
+Trias, Cavite
+
+– Philippines; On Semicon, stand alone facility, Biñan, Laguna
+– Philippines; Cavite Export Processing Zone (CEPZA) IE, Rosario,
+
+Cavite
+
+– Mexico; Kemet, stand alone facility, Monterrey
+
+The locations of the three sites in the Philippines are shown in Figure
+2.5. The location of the Kemet facility in Monterrey, Mexico is shown
+on a map in Figure 2.6, in Section 2.3.
+
+24
+
+PHILIPPINES
+
+South China Sea
+
+Rosario, Cavite
+
+General Trias, Cavite
+
+Carmona, Cavite
+
+Sulu Sea
+
+MALAYSIA
+
+Philippine
+Sea
+
+MANILA
+
+CEBU
+
+DAVAO
+
+Figure 2.5 :: Map of the Philippines showing the location of three sites
+investigated with relation to the manufacture of semiconductor chips
+
+It was not possible to collect wastewater from any of the facilities. To
+investigate impacts on the groundwater aquifers within the area of each
+site, samples of groundwater were collected from the vicinity of each
+site. A total of 20 samples were collected from the three sites in the
+Philippines in June 2006 and 1 sample was collected from within the
+Kemet facility in Mexico in February 2006. A summary of the samples
+collected is given in Table 2.3.
+
+The Gateway Business Park IE in the Philippines is a mixed estate with
+facilities mostly engaged in the manufacture of electronic products.
+Located within this IE are Intel Philippines, a manufacturing and
+testing facility for Semiconductors and microprocessors, and Luzon
+Electronics, a subsidiary of Hitachi that is involved in the manufacture
+of hard drives. Four samples of groundwater were collected from
+locations within the estate.
+
+table 2.3 :: description of groundwater samples collected from sites in the Philippines and Mexico where facilities are involved in the
+manufacture of semiconductor chips
+
+SAMPLE#
+
+TYPE
+
+SITE
+
+SAMPLE LOCATION
+
+MI06060
+
+MI06061
+
+MI06062
+
+MI06063
+
+MI06064
+
+MI06065
+
+MI06066
+
+MI06067
+
+MI06068
+
+MI06069
+
+MI06070
+
+MI06071
+
+MI06072
+
+MI06073
+
+MI06074
+
+MI06075
+
+MI06076
+
+MI06077
+
+MI06078
+
+MI06079
+
+06.06.06
+
+06.06.06
+
+06.06.06
+
+06.06.06
+
+06.06.06
+
+06.06.06
+
+06.06.06
+
+06.06.06
+
+06.06.06
+
+06.06.06
+
+06.06.06
+
+06.06.06
+
+06.06.06
+
+06.06.06
+
+06.06.06
+
+06.06.06
+06.06.06
+
+06.06.06
+
+06.06.06
+
+06.06.06
+
+Gateway IE
+
+Gateway IE
+
+Gateway IE
+
+Gateway IE
+
+On Semicon
+
+On Semicon
+
+On Semicon
+
+On Semicon
+
+On Semicon
+
+On Semicon
+
+CEPZA IE
+
+CEPZA IE
+
+CEPZA IE
+
+CEPZA IE
+
+CEPZA IE
+
+CEPZA IE
+CEPZA IE
+
+CEPZA IE
+
+CEPZA IE
+
+CEPZA IE
+
+Philippines
+water tank; middle of Gateway IE
+
+tap (groundwater) near Intel Philippines, northern part of Gateway IE
+
+tap (groundwater) near the WWTP within Gateway IE
+
+(between MI06060 & MI06061)
+
+tap (groundwater) near Luzon Electronics, southern part of Gateway IE
+
+handpump 200m to the northeast (NE) of On Semicon
+
+handpump 100m to the north (N) of On Semicon
+
+handpump 100m to the north (N) of On Semicon, 20m from MI06065
+
+handpump 500m to southwest (SW) of On Semicon; Barangay Maduya
+
+handpump 1 km to southwest (SW) of On Semicon; Barangay Maduya
+
+tap 750m to southwest (SW) of On Semicon; Health centre, B. Maduya
+
+tap; residential community 1 km north (N) of IE
+
+tap; residential community 1 km north (N) of IE, 150m east of MI07070
+
+water pump; residential community approx 2 km northeast (NE) of IE
+
+water tank within the IE; east side of IE
+
+water tank within the IE; east side of IE 250m south of MI07073
+
+tap within the IE; west side
+within IE, near the Danam facility; southeast side of IE
+
+within IE, near the MA Technology facility; southeast side of IE
+
+within IE, near the Keyrin Electronics facility; north side of IE
+
+within IE near Dae Duck facility; west side of IE 500m west of MI06075
+
+MI06013
+
+22.02.06
+
+Kemet
+
+Mexico
+Bathroom tap within the Kemet facility
+
+On Semicon is a stand-alone facility that manufactures and tests
+semiconductor chips. The facility is located next to a small river, and a
+residential community is based to the northeast on the opposite side of
+the river downstream of On Semicon. Six samples of groundwater were
+collected in the vicinity of the facility; three from the residential
+community close to the northeast perimeter of the facility, and three
+from locations 0.5-1 km to the southwest in Barangay Maduya. Two of
+the groundwater samples by the northeast perimeter (MI06065 &
+MI06066) were collected from sources used by the community for
+drinking water.
+
+The CEPZA IE is a large mixed use estate with over 250 facilities
+involved in a wide range of activities, including the manufacture of
+semiconductor chips and other electronic devices (PEZA 2007). A
+common WWTP is located within the Industrial Estate. A total of 10
+samples of ground water were collected within and around this estate.
+
+In Mexico, the Kemet facility in Monterrey is involved in the
+manufacture of capacitors and tantalum based chips. One sample of
+water was collected from a tap within a bathroom of the Kemet facility
+that is believed to be a source of groundwater, it is not known if this
+water had undergone purification treatment. Due to the location from
+which this sample was taken, it was not possible to collect the sample
+directly into a ground-glass stopper amber bottle, as described above.
+Instead the sample was collected in a clean, transparent PET water
+bottle.
+
+25
+
+CUTTING EDGE CONTAMINATION
+
+Tijuana
+
+UNITED STATES
+
+TIJUANA
+
+MI06080
+
+SANYO VIDEO
+
+MI06081
+
+Gulf of California
+
+Monterrey
+
+MEXICO
+
+Guadalajara
+
+Gulf of Mexico
+
+CUBA
+
+SONY DE TIJUANA
+
+MI06083
+
+Guatemala
+
+0
+
+2.5km
+
+Figure 2.6 :: Map of Mexico showing the locations of Tijuana and Guadalajara
+where sites involved in assembly were investigated, and also Monterrey, the
+site of the Kemet facility involved in semiconductor chip manufacture
+
+Figure 2.7 :: Map of the Tijuana area in Mexico showing the locations of
+component assembly facilities and some of the groundwater samples
+collected in their vicinities
+
+The locations of the Tijuana and Guadalajara sites in Mexico are shown
+in Figure 2.6. The sites of individual facilities and Industrial Estate
+located within the Tijuana and Guadalajara areas are shown in Figures
+2.7 and 2.8 respectively.
+
+Within each area, samples of groundwater were collected in the vicinity
+of the assembly facilities. Discharged wastewaters were also collected
+from one facility in Guadalajara as access to such samples was not
+possible for the other facilities investigated. A total of 13 samples of
+groundwater were collected from all sites; 4 samples from Tijuana in
+June 2006, and 9 samples from Guadalajara - 2 in February 2006 and
+7 in June 2006. In addition, 2 samples of discharged wastewaters were
+collected from the IBM site, Guadalajara in June 2006. Details of the
+individual samples are given in Table 2.4.
+
+In Tijuana, Sanyo Video is situated adjacent to two other facilities; one
+manufacturing electronic devices and the other, plastic products. Other
+facilities also involved in the manufacture of electronic products are
+sited a few kilometres to the north of Sanyo Video. Three samples of
+groundwater were collected from wells immediately to the south of the
+Sanyo Video facility. The second location in Tijuana was Sony, a stand-
+alone facility located approximately 5 km to the south of Sanyo Video.
+One groundwater sample was collected from a pumping station to the
+southeast of Sony.
+
+2.3 :: COMPONENT ASSEMBLY, MEXICO
+A number of locations were investigated in two areas of Mexico,
+Tijuana and Guadalajara, where facilities are involved in the assembly
+of computers and other electrical devices. The individual facilities and a
+brief description of their activities are given below;
+
+Tijuana
+
+- Sanyo Video; assemble televisions with liquid crystal displays (LCDs)
+
+or plasma screens
+
+- Sony (stand alone facility); assemble televisions with LCDs or plasma
+
+screens
+
+Guadalajara
+
+- Parque Integral (Flextronics); an estate housing separate divisions of
+Flextronics that assemble PWBs, computer parts other electronic
+devices, plus facilities of their suppliers
+
+- Jabil; assemble PWBs, PCs and other electronic devices
+
+- Solectron; assemble PWBs, LCDs and other electronics devices
+
+- Sanmina-SCI plant 3; assemble computer components
+
+- HP; assembled personal computers (PCs) and other electronic
+
+devices
+
+- IBM Site; assembled PCs, Think Pads and hard disk components at
+the time of sampling. This site also houses Hitachi (assemble CD
+drives) and Sanmina SCI (assemble servers)
+
+26
+
+The entrance of the
+Sanmina plant in
+Guadalajara, Mexico.
+June 2006.
+
+table 2.4 :: description of groundwater and wastewater samples collected from facilities involved in the assembly of PWB, PC and
+other electronic devices, Mexico
+
+SAMPLE#
+
+DATE
+
+SITE
+
+SAMPLE LOCATION
+
+MI06080
+
+MI06081
+
+MI06082
+
+MI06083
+
+MI06011
+
+MI06012
+
+MI06084
+
+MI06085
+
+MI06086
+
+MI06087
+
+MI06088
+
+MI06089
+
+MI06090
+
+09.06.06
+
+09.06.06
+
+09.06.06
+
+09.06.06
+
+02.02.06
+
+15.02.06
+
+11.06.06
+
+11.06.06
+
+11.06.06
+
+11.06.06
+
+11.06.06
+
+11.06.06
+
+11.06.06
+
+Tijuana
+
+Tijuana
+Tijuana
+Tijuana
+Guadalajara
+
+Guadalajara
+
+Guadalajara
+
+Guadalajara
+
+Guadalajara
+
+Guadalajara
+
+Guadalajara
+
+Guadalajara
+
+Guadalajara
+
+Groundwater
+
+Sanyo Video; covered well 400 m south (S) of Sanyo Video
+
+Sanyo Video; open well 250 m south (S) of Sanyo Video
+
+Sanyo Video; “new hope” well, close to Sanyo Video
+
+Sony; pumping station 1.5 km southeast (SE) of Sony (CESPT 41909)
+
+Sanmina-SCI plant 3; well at rear of the facility
+
+Flextronics; bathroom tap within the facility
+
+Flextronics IE; 300 m north (N) of estate, from a dripping pipe
+
+Flextronics IE; pumping station Well 61, adjacent to the estate entrance
+
+Flextronics IE; 500 m northeast (NE) of estate, from a dripping pipe
+
+Flextronics IE; groundwater tank 2 km northeast (NE) of estate
+
+Jabil; groundwater tank 400 m northeast (NE) of the facility
+
+Solectron; pipeline 2 km to the east (E) of the facility
+
+HP; Well “San Sebastianito” immediately behind the facility
+
+MI06091
+
+MI06092
+
+11.06.06
+
+11.06.06
+
+Guadalajara
+
+Guadalajara
+
+Wastewater
+IBM site; open channel #1, from storm water
+
+IBM site; open channel #2 flowing from within the site
+
+E
+C
+A
+E
+P
+N
+E
+E
+R
+G
+©
+
+27
+
+CUTTING EDGE CONTAMINATION
+
+Six separate locations were investigated in the Guadalajara area. The
+Parque Integral is a large Industrial Estate owned by Flextronics. The
+estate houses a number of divisions of Flextronics that are involved in
+separate activities including the assembly of PWBs, other computer
+parts and other electronic devices. Some suppliers to Flextronics also
+have facilities within the estate. Five samples of groundwater were
+collected from the vicinity of the Flextronics facilities within this estate.
+One was collected in February 2006 from a bathroom tap within the
+Flextronics facility. The remainder were collected in June 2006; one
+from a pumping station adjacent to the estate entrance, two from pipes
+located very close to the estate, to the north and to the northeast, and
+one from a groundwater tank 2 km to the northeast.
+
+For four other stand-alone facilities, one sample of groundwater was
+collected from locations near to each of the facilities. One sample was
+collected in February 2006 from a well located at the rear of
+Sanmina-SCI plant 3. The remainder were collected in June 2006; one
+sample from the “San Sebastianito” well located immediately behind
+the Hewlett Packard (HP) facility, one sample from a groundwater
+tank to the northeast of the Jabil stand-alone facility, and one sample
+from a groundwater pipe 2 km to the east of the Solectron facility. In
+the vicinity of the Solectron facility, groundwater is known to flow to
+the northeast.
+
+Two samples of discharged wastewater were collected from the large
+IBM site in Guadalajara, Mexico, which has been producing electronic
+products since 1982. Within this large site, IBM assembled PCs and
+Thinkpad computers at the time of sampling. Two other facilities are
+also located within the IBM site; Hitachi (assemble hard drives and CD
+drives) and Sanmina SCI (assemble servers). The samples of
+wastewater were collected from separate open channels flowing from
+the IBM site. One channel (MI06091) carries combined wastewaters
+from two individual channels that join upstream of the sampling point;
+one of these is the discharged wastewater from within the site. The
+source of the other, and the relative contributions to overall wastewater
+flow and contaminant inputs to the combined channel, are not known.
+Similarly the exact source of the wastewater in the other channel that
+was sampled (MI06092) is not known, other than it originated within
+the IBM site.
+
+MI06087
+
+MI06086
+
+MI06088
+
+FLEXTRONICS
+
+JAIBIL
+
+GUADALAJARA
+
+SOLECTRON - MI06089
+
+HP
+MI06090
+
+MI06092
+MI06091
+
+IBM
+
+0
+
+5km
+
+SANMINA SCI - MI06011
+
+Figure 2.8 :: Map of the Guadalajara area in Mexico showing the locations of
+component assembly facilities and certain samples associated with them
+
+HP
+
+28
+
+3 :: METHODOLOGY
+
+A RANGE OF DIFFERENT ANALYSES WAS CARRIED OUT ON THE VARIOUS SAMPLES COLLECTED DEPENDING ON THE SAMPLE TYPE. A
+
+SUMMARY OF THE TYPE OF ANALYSES FOR EACH GROUP OF SAMPLES IS GIVEN BELOW
+
+SAMPLE TYPE
+
+Groundwater
+
+Wastewater
+
+Sediment
+
+Sludge
+
+Soil
+
+Metals
+(quantitative)
+
+TYPE OF ANALYSIS
+
+Extractable organic compounds
+(quantitative)
+
+Volatile organic compounds
+(qualitative & quantitative)
+
+√
+
+√
+
+√
+
+√
+
+√
+
+-
+
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+-
+
+-
+
+-
+
+Heavy metal concentrations were determined by ICP atomic emission
+spectrometry (AES), following acid digestion and using appropriate
+certified reference materials in addition to intra-laboratory standards.
+A wide range of metals and metalloids were quantified in all samples,
+the list being based on their known use in this sector & presence in e-
+waste recycling yards (Brigden et al. 2005). A full list of all elements
+quantified, and the method detection limits for different samples types
+is given in the Appendix.
+
+Extractable organic compounds were isolated from each sample and
+identified as far as possible using gas chromatography and mass
+spectrometry (GC/MS), following liquid:solid extraction into a mixture
+of pentane and acetone for solid samples or liquid:liquid extraction
+with pentane only for wastewater samples. Volatile organic chemicals
+(VOCs) were identified and quantified in groundwater samples as
+received (with no pre-treatment) using GC/MS with HeadSpace sample
+introduction technique.
+
+A full list of all VOCs that were used as a standards for Selective Ion
+Monitoring (SIM) GC/MS organic analysis, and for quantification of
+VOCs detected in water samples, is provided in the Appendix.
+
+29
+
+CUTTING EDGE CONTAMINATION
+
+4 :: RESULTS AND DISCUSSION
+
+FOR EACH MANUFACTURING SECTOR (PWB MANUFACTURING, SEMICONDUCTOR CHIP MANUFACTURE, ASSEMBLY) THE RESULTS
+
+FROM THE ANALYSES OF SAMPLES ARE PRESENTED AND DISCUSSED IN SEPARATE SECTIONS (4.1-4.3) AND THE DATA SUMMARISED IN
+
+TABLES 4.1-4.21.
+
+For each sector, the data for individual sites are separately outlined.
+These data are collectively discussed for the sector as a whole towards
+the end of each section. Information on certain key pollutants detected
+during this study is presented in Text Boxes A-G.
+
+Of the full range of metals and metalloids quantified in this study, a
+number were not present above method detection limits in any sample
+(arsenic, gallium, germanium, indium, mercury, selenium, thallium). For
+clarity these are not included in the individual results tables, but the
+detection limits for each is given in The Appendix.
+
+It should be noted that all elements (metals and metalloids) quantified
+in this study are naturally found at some level in uncontaminated
+environmental samples such as soils, sediments, surface waters and
+groundwaters, though generally at low concentrations. Inputs from
+point sources such as industrial discharge can, however, result in levels
+that far exceed natural background concentrations. The following
+sections focus on those metals found at levels in the various samples
+that indicate levels above background due to inputs from industrial or
+other anthropogenic sources. In the case of organic contaminants,
+some of which may also have natural origins, the focus of discussions
+is on those compounds more likely to have arisen exclusively from
+man-made sources.
+
+In the following sections the data from the analyses of the samples
+collected are presented and discussed separately for each of the three
+manufacturing sectors investigated in this study; printed wiring board
+(PWB) manufacture (Section 4.1), Semiconductor chip manufacture
+(Section 4.2), and component assembly (Section 4.3).
+
+4.1 :: PRINTED WIRING BOARD (PWB)
+MANUFACTURE; CHINA & THAILAND
+4.1.1 Facilities in China
+A total of 13 samples were collected from the vicinity of two separate
+PWB manufacturing facilities in China. These included 4 wastewater
+samples, 6 sediment samples, 2 soil samples and 1 sample of
+groundwater. The results from these samples are presented in the tables
+below. Organic chemicals identified in all samples are presented in
+Tables 4.1, and 4.2 for the Compeq and Fortune facilities respectively.
+The metal quantification data for each facility are presented in Tables
+4.3 and 4.4 respectively. VOCs were not quantified in the water
+samples associated with the Compeq and Fortune facilities.
+
+30
+
+Compeq
+For the Compeq facility, sampling was carried out in November 2005
+and January 2006. A single wastewater sample MI05050 was
+collected in 2005 from the most upstream discharge channel. In 2006,
+two more wastewater samples (MI06004 & MI06005) were collected
+from other discharges, as well as four sediment samples from
+discharge channels (MI06001, 02, 06) and the XianGang River
+(MI06003). The wastewater sample MI05050 contained the
+brominated flame retardant Tetrabromobisphenol A (TBBPA). Also
+present were diphenylmethone (benzophenone) and two derivatives of
+diphenylethone, and as well as a benzothiazole derivative. The two
+wastewater samples that were collected from other outfalls (MI06004
+& MI06005) contained two PBDEs at trace levels: BDE-47 and BDE-
+99. One of these (MI06004) also contained an additional 7
+brominated compounds that it was not possible to identify. Besides, all
+wastewater samples contained high concentrations of copper. The
+highest level was found in the sample collected from the most
+upstream outfall (MI05050) with copper at 811 µg/l. MI06004
+contained about half this level (389 µg/l), while the level in MI06005
+was far lower.
+
+All sediment samples contained the same two PBDEs found in the
+wastewaters at trace levels, including that from the river upstream of
+Compeq, suggesting significant contributions from other sources. The
+outfall of pipe#2 had been recently moved. Sediment from the old
+outfall of pipe#2, MI06001, contained another PBDE (BDE-153) and
+one PCB congener (PCB-153). Both sediments from the old and the
+current outfall locations of pipe #2 contained a number of additional
+brominated compounds that could not be fully identified; 24 in the
+sediment from the old outfall (MI06001) and 7 from the new outfall
+location (MI06002).
+
+Furthermore, all three sediments (MI06001, MI06002 and MI06006)
+collected close to wastewater outfalls contained copper and tin at very
+high levels. By far the highest concentrations were found in the sample
+from the most upstream outfall (MI06006), with copper at 21900
+mg/kg (2.19%) and tin at 10800 mg/kg (1.08%). This sample also
+contained nickel and zinc at high concentrations, though to a lesser
+degree. The two sediments collected adjacent to pipe #2, located
+further downstream, (MI06001, MI06002) contained lower, but still
+elevated levels of copper (979-1460 mg/kg) and tin (194-355 mg/kg).
+For pipe #2, the higher levels were found at the current discharge
+point (MI06002), situated immediately upstream of the old and now
+unused discharge point (MI06001). In contrast, river sediment
+collected upstream of all wastewater discharges (MI06003) did not
+contain high metal concentrations indicating the high levels found were
+much more likely a direct result of discharges by Compeq.
+
+table 4.1 :: organic chemicals identified in wastewater (WW) and sediment (Sed) samples from the Compeq PWB manufacturing facility,
+China. From left to right, samples are presented from upstream to downstreamlocations. The number of compounds reliably identified is
+presented for each group; (#) - signifies compounds identified at trace levels using a selective SIM method; ( - ) – not detected.
+
+LOCATION
+
+SAMPLE#
+
+SAMPLE TYPE
+No. of organic compounds isolated
+
+No. reliably identified (% of total)
+
+PBDEs
+
+PCBs
+
+Tetrabromobisphenol A
+
+Diphenylmethanone (benzophenone)
+
+Benzoic esters and aldehyde
+
+Diphenylethanone & derivatives
+
+Sulphur or nitrogen compounds
+
+Terpenoids
+
+Aliphatic hydrocarbons
+
+COMPEQ
+
+MI05050
+
+MI06004
+
+MI06005
+
+MI06003
+
+MI06006
+
+MI06002
+
+MI06001
+
+WW
+
+27
+
+WW
+
+19
+
+WW
+
+6
+
+Sed
+
+18
+
+Sed
+
+33
+
+Sed
+
+17
+
+Sed
+
+43
+
+7 (26%)
+
+2(11%)
+
+2(33%)
+
+6(33%)
+
+12(36%)
+
+2(12%)
+
+5(12%)
+
+-
+
+-
+
+(1)
+
+1
+
+1
+
+2
+
+2
+
+-
+
+-
+
+(2)
+
+(2)
+
+(2)
+
+(2)
+
+(2)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+4
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+3
+
+7
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+(3)
+
+(1)
+
+-
+
+-
+
+1
+
+-
+
+-
+
+-
+
+-
+
+table 4.2.: organic chemicals identified in groundwater (GW), wastewater (WW), sediment (Sed) and soil samples from the Fortune
+PWB manufacturing facility, China. The number of compounds reliably identified is presented for each group; (#) - signifies
+compounds identified at trace levels using a selective SIM method; ( - ) – not detected.
+
+LOCATION
+
+SAMPLE#
+
+SAMPLE TYPE
+No. of organic compounds isolated
+
+No. reliably identified (% of total)
+
+PBDEs
+
+Tetrabromobisphenol A
+
+Chlorinated benzene
+
+Phthalates
+
+Diphenylmethanone (benzophenone) and derivatives
+
+Diphenylethanone derivative
+
+Quantacure ITX
+
+Cyclohexanone derivatives
+
+Alkyl benzenes
+
+Triphenyl phosphate (TPP)
+
+Sterol derivatives
+
+Other aromatic hydrocarbons
+
+Fatty acids
+
+Cyclic siloxane derivatives
+
+Resin acid derivatives
+Aliphatic hydrocarbons
+
+FORTUNE
+
+MI05049
+
+MI05051
+
+MI06008
+
+MI06009
+
+MI06007
+
+MI06010
+
+GW
+
+17
+
+WW
+
+107
+
+Sed
+
+49
+
+Sed
+
+104
+
+soil
+
+23
+
+soil
+
+18
+
+2(12%)
+
+25(23%)
+
+17(35%)
+
+45(43%)
+
+3(13%)
+
+4(22%)
+
+-
+
+-
+
+(1)
+
+1
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+-
+
+(3)
+
+(1)
+
+-
+
+3
+
+2
+
+1
+
+1
+
+2
+
+5
+
+1
+
+3
+
+1
+
+2
+
+-
+
+-
+1
+
+(3)
+
+7(12)
+
+(3)
+
+(2)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+1
+
+-
+
+-
+
+-
+13
+
+-
+
+-
+
+-
+
+1
+
+-
+
+1
+
+-
+
+19
+
+-
+
+-
+
+3
+
+-
+
+-
+
+1
+1
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+1
+
+-
+1
+
+CUTTING EDGE CONTAMINATION
+
+table 4.3 :: metals quantified in groundwater (GW), wastewater (WW), sediment (Sed) and soil samples from the Compeq PWB
+manufacturing facilities, China. From left to right, samples are presented from up stream to downstream locations.
+Concentrations are given in mg/kg dry weight for sediment and soil samples, and µg/l for water samples. ( - ) - not detected.
+
+MI05050
+
+MI06004
+
+MI06005
+
+WW
+
+µg/l
+
+-
+
+42
+
+-
+
+-
+
+-
+
+-
+
+-
+
+811
+
+-
+
+2315
+
+-
+
+62
+
+-
+
+-
+
+21
+
+WW
+
+µg/l
+
+-
+
+22
+
+-
+
+-
+
+-
+
+-
+
+-
+
+389
+
+-
+
+130
+
+-
+
+50
+
+-
+
+-
+
+36
+
+WW
+
+µg/l
+
+-
+
+31
+
+-
+
+-
+
+-
+
+-
+
+-
+
+60
+
+-
+
+32
+
+-
+
+-
+
+-
+
+-
+
+24
+
+COMPEQ
+MI06001
+
+Sed
+
+mg/kg
+
+-
+
+114
+
+1.7
+
+-
+
+-
+
+14
+
+35
+
+979
+
+42
+
+521
+
+-
+
+40
+
+194
+
+49
+
+100
+
+MI06002
+
+MI06003
+
+MI06006
+
+Sed
+
+mg/kg
+
+-
+
+129
+
+1.8
+
+-
+
+-
+
+15
+
+48
+
+1460
+
+48
+
+440
+
+-
+
+43
+
+355
+
+54
+
+113
+
+Sed
+
+mg/kg
+
+-
+
+137
+
+2.0
+
+-
+
+-
+
+15
+
+73
+
+40
+
+46
+
+389
+
+-
+
+21
+
+7
+
+57
+
+117
+
+Sed
+
+mg/kg
+
+-
+
+226
+
+0.8
+
+-
+
+-
+
+22
+
+49
+
+21900
+
+40
+
+1360
+
+-
+
+171
+
+10800
+
+15
+
+447
+
+LOCATION
+
+SAMPLE#
+
+SAMPLE TYPE
+
+METAL
+Antimony
+
+Barium
+
+Beryllium
+
+Bismuth
+
+Cadmium
+
+Chromium
+
+Cobalt
+
+Copper
+
+Lead
+
+Manganese
+
+Molybdenum
+
+Nickel
+
+Tin
+
+Vanadium
+Zinc
+
+32
+
+Image shows the inside
+of a laptop and the type
+of  component produced
+and assembled in the
+factories that are
+highlighted in
+this report.
+21 August 2006.
+
+/
+
+E
+S
+O
+R
+E
+C
+A
+E
+P
+N
+E
+E
+R
+G
+©
+
+table 4.4 :: metals quantified in groundwater (GW), wastewater (WW), Sediment (Sed) and soil samples from the Fortune PWB
+manufacturing facility, China. Concentrations are given in mg/kg dry weight for sediment and soil samples, and µg/l for water samples.
+( - ) - not detected.
+
+LOCATION
+
+SAMPLE#
+
+SAMPLE TYPE
+
+METAL
+Antimony
+
+Barium
+
+Beryllium
+
+Bismuth
+
+Cadmium
+
+Chromium
+
+Cobalt
+
+Copper
+
+Lead
+
+Manganese
+
+Molybdenum
+
+Nickel
+
+Tin
+
+Vanadium
+
+Zinc
+
+MI05049
+
+MI05051
+
+MI05051
+
+GW
+
+µg/l
+
+-
+
+260
+
+-
+
+-
+
+-
+
+-
+
+-
+
+5
+
+-
+
+220
+
+-
+
+-
+
+-
+
+-
+
+349
+
+WW filtered
+
+WW unfiltered
+
+µg/l
+
+-
+
+80
+
+-
+
+-
+
+-
+
+-
+
+-
+
+944
+
+-
+
+137
+
+-
+
+314
+
+-
+
+-
+
+-
+
+µg/l
+
+-
+
+8200
+
+8
+
+-
+
+-
+
+217
+
+-
+
+83900
+
+794
+
+568
+
+-
+
+4500
+
+1040
+
+35
+
+893
+
+COMPEQ
+MI06008
+
+Sed
+
+mg/kg
+
+-
+
+127
+
+2.4
+
+-
+
+<0.5
+
+13
+
+34
+
+143
+
+44
+
+263
+
+-
+
+53
+
+21
+
+52
+
+90
+
+MI06009
+
+MI06007
+
+MI06010
+
+Sed
+
+mg/kg
+
+-
+
+217
+
+1.8
+
+-
+
+<0.5
+
+11
+
+75
+
+23500
+
+139
+
+260
+
+2
+
+2690
+
+5610
+
+36
+
+332
+
+soil
+
+mg/kg
+
+soil
+
+mg/kg
+
+-
+
+113
+
+2.3
+
+-
+
+<0.5
+
+15
+
+36
+
+35
+
+46
+
+301
+
+-
+
+21
+
+-
+
+57
+
+82
+
+-
+
+62
+
+1.1
+
+-
+
+<0.5
+
+9
+
+19
+
+11
+
+24
+
+372
+
+-
+
+9
+
+-
+
+28
+
+51
+
+33
+
+CUTTING EDGE CONTAMINATION
+
+Fortune
+Two sets of samples were collected from the Fortune facility: a
+groundwater (MI05049) and wastewater (MI05051) in November
+2005 as well as four further samples in January 2006 including two
+sediment samples (MI06008 & MI06009) and two soil samples
+(MI06007 & MI06010).
+
+Wastewater collected from the underground discharge channel from
+Fortune (MI05051) contained a large number of organic chemicals.
+These included;
+
+• brominated chemicals: three PBDEs (BDE-47, BDE-99 and BDE-
+153), TBBPA and 18 additional brominated compounds that could
+not be fully identified.
+
+• a phosphorus based flame retardant: triphenyl phosphate (TPP)
+
+• photoinitiators and related compounds: derivatives of
+
+diphenylmethanone (benzophenone), diphenylethanone and a
+thioxanthen-9-one derivative known as “Quantacure ITX”)
+
+• three phthalate esters, dibutylphthalate (DBP), diisobutylphthalate
+
+(DiBP) and diethylhexyl phthalate (DEHP).
+
+• other compounds including alkyl benzenes, aliphatic hydrocarbons,
+
+sterols derivatives and fatty acids
+
+Discharge of wastewater was not occurring at the time of sampling.
+Wastewater in the underground channel was from a previous recent
+discharge, and contained a very high level of suspended solids which
+may have been due to resuspension of sediment that had accumulated
+in the channel over time from previous discharges. Therefore both total
+and dissolved (after filtration) metal concentrations were separately
+determined for this sample. Concentrations of dissolved copper (944
+µg/l) and nickel (314 µg/l) were particularly high. Total metal levels
+(which includes the amounts in suspended solids) were far higher still,
+particularly for copper at 83900 µg/l. Other metals were also present
+at high levels in suspended material, particularly lead (794 µg/l), tin
+(1040 µg/l) and zinc (893 µg/l). The total metal levels indicate that
+the majority of each metal in the wastewater is mainly present in the
+suspended solids. This may be due to resuspension of sediment in the
+channel, sediment that has accumulated high levels of metals from
+discharged wastewaters over a longer period of time. Though possible, it
+is unlikely that the total levels of metals reflect the levels in wastewater
+as discharged.
+
+34
+
+Sediment samples from the underground channel and the ditch that it
+discharges into both contained PBDEs, including the tetrabrominated
+form BDE-47, the pentabrominated form BDE-99 and the
+hexabrominated form BDE-153 (which together are generally among
+the most abundant PBDEs found in environmental samples). The
+sediment from the underground wastewater channel (MI06009)
+contained by far the most PDBEs (19), many at well above trace
+levels. Both sediments contained at least 25 additional brominated
+compounds that could not be fully identified. The channel sediment
+(MI06009) also contained the photo-initiator related chemicals
+diphenylmethanone (benzophenone) and the thioxanthen-9-one
+derivative “Quantacure ITX”, as well as a resin acid derivative and a
+range of alkyl benzenes. Metal concentrations in the channel sediment
+reflect the high levels in the discharged wastewater, with exceptionally
+high concentrations of copper (23500 mg/kg, 2.35%), tin (5610
+mg/kg, 0.56%) and nickel (2690 mg/kg, 0.27%), and to a far lesser
+degree lead and zinc. Concentrations in the open ditch were far lower;
+only copper exceeded background levels at 143 mg/kg, nearly 200
+times lower than in the channel.
+
+Both soil samples also contained PBDEs and other brominated
+compounds that could not be fully identified; 18 in the soil collected
+adjacent to the open wastewater receiving ditch (MI06007), and 7 in
+the soil collected 0.5 km from the Fortune facility (MI06010). Metal
+concentrations in the soil sample MI06007 were moderately higher
+than in the soil collected 0.5 km from the Fortune facility (MI06010),
+though this was a consistent difference for all metals, i.e. there was no
+specific signature of contamination from those metals prevalent in the
+wastewater channel (copper, tin, nickel).
+
+The one sample of groundwater (MI06049) contained a trace level of
+1,4-dichlorobenzene and the phthalate ester dibutylphthalate (DBP).
+No brominated compounds were identified in this sample. Other than
+for zinc (349 µg/l), metal concentrations were not elevated in this
+groundwater.
+
+4.1.2 :: Facilities in Thailand
+32 samples associated with PWB manufacture in Thailand were
+collected in 5 separate locations, including 19 groundwater samples, 7
+wastewater samples, 4 sediments and 2 sludge samples. The results of
+the organic analysis for wastewater, sediment and sludge samples are
+presented in Tables 4.5 & 4.7. VOCs were detected in only 5 water
+samples, which further underwent quantitative analysis (see Table 4.9
+for results). The metal quantification data for wastewater and solid
+samples are presented in Tables 4.6 & 4.8; data for groundwater
+samples are presented in Tables 4.10-4.11.
+
+Elec & Eltek (EETH)
+5 samples were collected from the site of the EETH facility; one
+wastewater sample MI06024, two sediment samples MI06025 &
+MI06026 from the wastewater carrying canal, and two groundwater
+samples MI06027 & MI06028. The wastewater sample contained a
+high concentration of copper (3710 µg/l), and a range of chlorinated
+VOCs, though at trace levels, including chlorinated solvents
+(tetrachloromethane; di-, tri- and tetra-chlorinated ethenes and
+trichloroethane), hexachlorobutadiene, as well as trihalomethanes
+
+(THMs). THMs are chlorinated and brominated chemicals that are
+formed as by-products of chlorine based water disinfection. Other
+organic compounds detected in this sample were dichlorobenzene,
+camphor and two phthalate esters - diethyl phthalate (DEP) and
+diethylhexyl phthalate (DEHP).
+
+Canal sediment from the same location (MI06025) contained a very
+high copper level (22650 mg/kg), i.e. with copper comprising over 2%
+of the sediment by weight. Other metals (beryllium, lead, nickel, tin and
+zinc) were also present at above background levels, though to a lesser
+degree. Levels of copper and tin were also high in canal sediment from
+the upstream edge of the factory (MI06026), though less than in
+MI06025. Both canal sediment samples contained dichlorobenzene and
+PBDEs at trace levels.
+
+No elevated metal concentrations and no VOCs were detected in either
+of the two groundwater samples.
+
+table 4.5 :: organic chemicals identified in wastewater (WW), sediment (Sed) and sludge samples from sites involved in the
+manufacture of PWBs; EETH and Hi-Tech IE, Thailand. The number of compounds reliably identified is presented for each group; (#) -
+signifies compounds identified at trace levels using a selective SIM method; ( - ) – not detected.
+
+LOCATION
+
+SAMPLE#
+
+SAMPLE TYPE
+No. of organic compounds isolated
+
+No. reliably identified (% of total)
+
+PBDEs
+
+Chlorinated benzene
+
+Trihalomethanes
+
+Di- or tetrachloromethanes
+
+Chlorinated ethanes/ethenes
+
+Hexachlorobutadiene
+
+Benzophenone, chlorophenyl
+
+Benzophenone and its derivatives
+
+Diphenylethanone derivatives
+
+Xanthen-9-one derivative
+
+Phthalates
+
+Stigmast-5-en-3-ol
+
+Benzoic acid and derivatives
+
+Other aromatic hydrocarbons
+
+MI06024
+
+WW
+
+41
+
+EETH
+MI06025
+
+Sed
+
+14
+
+HI-TECH IE
+
+MI06026
+
+MI06045
+
+MI06046
+
+MI06047
+
+Sed
+
+13
+
+WW
+
+25
+
+WW
+
+17
+
+Sed
+
+17
+
+15(36%)
+
+4 (29%)
+
+3 (23%)
+
+12 (48%)
+
+3 (18%)
+
+2 (12%)
+
+-
+
+1
+
+(4)
+
+(1)
+
+(5)
+
+(1)
+
+-
+
+-
+
+-
+
+-
+
+2
+
+-
+
+-
+
+1
+
+(3)
+
+(1)
+
+(2)
+
+(1)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+(1)
+
+(1)
+
+-
+
+-
+
+2
+
+3
+
+2
+
+1
+
+1
+
+-
+
+1
+
+-
+
+-
+
+(1)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+1
+
+1
+
+-
+
+-
+
+(2)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+35
+
+CUTTING EDGE CONTAMINATION
+
+table 4.6 :: metals quantified in wastewater (WW) and sediment (Sed) samples from sites involved in PWB manufacture; EETH & Hi-
+Tech IE, Thailand. Concentrations are given in mg/kg dry weight for sediment and sludge samples and µg/l for water samples. ( - ) -
+not detected.
+
+LOCATION
+
+SAMPLE#
+
+SAMPLE TYPE
+
+METAL
+Antimony
+
+Barium
+
+Beryllium
+
+Bismuth
+
+Cadmium
+
+Chromium
+
+Cobalt
+
+Copper
+
+Lead
+
+Manganese
+
+Molybdenum
+
+Nickel
+
+Tin
+
+Vanadium
+
+Zinc
+
+MI06024
+
+WW
+
+µg/l
+
+-
+
+33
+
+-
+
+-
+
+-
+
+-
+
+-
+
+3710
+
+-
+
+732
+
+-
+
+21
+
+-
+
+-
+65
+
+EETH
+MI06025
+
+Sed
+
+mg/kg
+
+-
+
+153
+
+5.8
+
+-
+
+-
+
+61
+
+19
+
+22650
+
+151
+
+224
+
+-
+
+107
+
+463
+
+30
+190
+
+MI06026
+
+MI06045
+
+MI06046
+
+MI06047
+
+HI-TECH IE
+
+Sed
+
+mg/kg
+
+-
+
+147
+
+1.1
+
+-
+
+-
+
+49
+
+9
+
+4260
+
+39
+
+116
+
+-
+
+27
+
+93
+
+38
+70
+
+WW
+
+µg/l
+
+-
+
+30
+
+-
+
+-
+
+-
+
+-
+
+-
+
+1010
+
+-
+
+2240
+
+-
+
+56
+
+90
+
+-
+77
+
+WW
+
+µg/l
+
+-
+
+15
+
+-
+
+-
+
+-
+
+-
+
+-
+
+432
+
+-
+
+411
+
+-
+
+251
+
+-
+
+-
+295
+
+Sed
+
+mg/kg
+
+-
+
+125
+
+1.7
+
+-
+
+-
+
+57
+
+9
+
+134
+
+22
+
+132
+
+7
+
+26
+
+75
+
+72
+77
+
+Hi-Tech IE
+Within the Hi-Tech IE, 7 samples were collected including two
+wastewater samples MI06045 (untreated KCE wastewater) &
+MI06046 (treated wastewater from WWTP), a single sediment sample
+MI06047 from the WWTP, and four groundwater samples MI06048-
+MI06051. The untreated wastewater from KCE (MI06045) contained
+the phthalate ester diisobutyl phthalate (DiBP) and a number of
+aromatic ketones (photoinitiators and related compounds); diphenyl-
+methanone (benzophenone) and two chlorinated diphenyl-methanone
+derivatives, two diphenyl-ethanone derivatives and a xanthen-9-one
+derivative chemically similar to “Quantacure ITX”. Also present was a
+benzoic ester and two volatile chlorinated compounds; dichloromethane
+and chloroform at concentration of 1.1 µg/l and 1.9 µg/l respectively.
+The treated wastewater (MI06046) also contained a phthalate ester,
+diethylhexyl phthalate (DEHP), as well as traces of dichlorobenzene.
+Both wastewaters also contained high levels of copper and nickel. The
+wastewater from KCE (MI06045) contained the higher copper level
+(1010 µg/l), while nickel was higher (251 µg/l) in the treated
+wastewater (MI06046), which also had a somewhat elevated zinc level.
+
+The sediment (MI06047) collected from the same WWTP pond as the
+treated wastewater sample (MI06046) contained copper and tin at
+somewhat high levels. The only organic compounds that could be
+identified in this sample were two PBDEs, both present at trace levels.
+Of the four groundwater samples, one (MI06049) contained two metals
+at above-background levels, namely zinc and nickel (the latter at 96
+µg/l, or about 10 times background levels). To a lesser extent the level
+of zinc in two other groundwater samples (MI06048, MI06050) was
+also elevated. Neither the groundwater samples nor the treated
+wastewater sample collected from the WWTP contained any detectable
+VOCs.
+
+Bangpa-in IE
+Nine samples were collected from the Bangpa-in IE: two wastewater
+samples MI06036 (untreated KCL wastewater) & MI06038 (treated
+wastewater from WWTP), one sediment from a CKL manhole
+(MI06037), two WWTP sludge samples (MI06039-40), and four
+groundwater samples MI06035, MI06041, MI06043-44. The location
+of one of these samples (MI06041) is 3 km to the southwest of the Hi-
+Tech IE.
+
+36
+
+table 4.7 :: organic chemicals identified in wastewater (WW), sediment (Sed) and sludge samples from sites involved in the
+manufacture of PWBs; Bangpa-in IE and Rojana IE, Thailand. The number of compounds reliably identified is presented for each
+group; (#) - signifies compounds identified at trace levels using a selective SIM method; ( - ) – not detected.
+
+LOCATION
+
+SAMPLE#
+
+SAMPLE TYPE
+No. of organic compounds isolated
+
+No. reliably identified (% of total)
+
+PBDEs
+
+Chlorinated benzene
+
+Trihalomethanes THMs
+
+Di- or tetrachloromethanes
+
+Benzophenone, chlorophenyl
+
+Other benzophenone derivatives
+
+Diphenylethanone derivatives
+
+Phthalate esters
+
+Carbamodithioic acid, dimethyl-, methyl ester
+
+l-Limonene
+
+Benzoic acid and its derivatives
+Cyclotetrasiloxanes
+Other aromatic hydrocarbons
+Aliphatic hydrocarbons
+
+MI06036
+
+MI06038
+
+WW
+
+63
+
+WW
+
+39
+
+BANGPA-IN IE
+MI06037
+
+MI06039
+
+MI06040
+
+MI06052
+
+MI06053
+
+ROJANA IE
+
+Sed
+
+14
+
+Sludge
+
+Sludge
+
+32
+
+14
+
+WW
+
+29
+
+WW
+
+32
+
+9(14%)
+
+5(13%)
+
+3(21%)
+
+12(38%)
+
+2(14%)
+
+8 (28%)
+
+8(25%)
+
+-
+
+-
+
+-
+
+-
+
+1
+
+2
+
+2
+
+-
+
+-
+
+-
+
+4
+
+-
+
+-
+
+-
+
+(2)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+1
+
+-
+
+-
+
+-
+
+-
+
+1
+
+1
+
+(2)
+
+(1)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+-
+
+(2)
+
+(2)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+1
+
+2
+
+7
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+-
+
+(3)
+
+(1)
+
+(1)
+
+(1)
+
+-
+
+-
+
+-
+
+1
+
+-
+
+1
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+(2)
+
+-
+
+-
+
+-
+
+-
+
+3
+
+1
+
+-
+
+-
+
+-
+
+-
+
+2
+
+Similarly, both sludge samples from the WWTP (MI06039 &
+MI06040) contained extremely high levels of those metals present in
+the wastewaters, namely copper (8.4-8.9%), tin (0.33-0.63%) and
+zinc (0.48-0.58%), as well as antimony, bismuth, nickel and lead at
+levels above background levels for uncontaminated environmental
+materials such as soils and sediments. The sludges also contained the
+same two PBDEs found in the treated wastewater. One of the sludge
+samples, MI06039, additionally contained a range of aliphatic
+hydrocarbons, a derivative of a cyclic siloxane, and diphenyl ether.
+
+No VOCs were detected in any of the groundwater samples. Copper in
+MI06035 and zinc in MI06044 were present at levels slightly elevated
+above typical background levels for groundwater.
+
+Both wastewaters contained high concentrations of copper, with the
+higher level (1780 µg/l) in the wastewater from KCL, while the treated
+wastewater contained 570 µg/l. Both wastewaters also contained nickel
+(59-114 µg/l) and zinc (134-153 µg/l) at notable levels. The two
+wastewater samples had different profiles of extractable organic
+compounds. Sample MI06036 from the CKL underground discharge
+pipe, contained a characteristic range of photoinitiators and related
+compounds; diphenylmethanone (benzophenone) derivatives including a
+chlorinated derivatives, two diphenylethanone derivatives, and a range
+of benzoic acid esters. Sample MI06038, treated wastewater from the
+WWTP where CKL and other facilities sends their wastewaters,
+contained dibutyl phthalate (DBP), two PBDEs (BDE-47 and BDE-
+99) at trace levels, and a terthiophene derivative, but none of the
+photoinitiator-related compounds were found in CKL’s discharge.
+
+The sediment sample MI06037, from a separate underground pipe of
+CKL (with no water flow at the sampling time), contained extremely
+high levels of copper (7.6% by weight) and tin (6.3%), as well as lead,
+nickel and zinc at elevated levels. This sample also contained the same
+two PBDEs found in the treated wastewater and dichlorobenzene,
+though all at trace levels.
+
+37
+
+CUTTING EDGE CONTAMINATION
+
+table 4.8 :: metals quantified in wastewater (WW), sediment (Sed) and sludge samples from sites involved in PWB manufacture;
+Bangpa-in IE & Rojana IE, Thailand. Concentrations are given in mg/kg dry weight for sediment and sludge samples and µg/l for water
+samples. ( - ) - not detected.
+
+MI06036
+
+MI06038
+
+BANGPA-IN IE
+MI06037
+
+MI06039
+
+MI06040
+
+MI06052
+
+MI06053
+
+ROJANA IE
+
+Sed
+
+mg/kg
+
+-
+
+792
+
+0.4
+
+-
+
+-
+
+91
+
+3
+
+Sludge
+
+mg/kg
+
+Sludge
+
+mg/kg
+
+70
+
+286
+
+0.4
+
+79
+
+-
+
+110
+
+30
+
+49
+
+327
+
+0.3
+
+106
+
+-
+
+133
+
+22
+
+75900
+
+89000
+
+84400
+
+323
+
+603
+
+4
+
+114
+
+62600
+
+19
+164
+
+112
+
+1360
+
+9
+
+1410
+
+3350
+
+15
+5790
+
+91
+
+2500
+
+4
+
+598
+
+6290
+
+8
+4780
+
+WW
+
+µg/l
+
+-
+
+37
+
+-
+
+-
+
+-
+
+-
+
+-
+
+73
+
+-
+
+26
+
+-
+
+17
+
+-
+
+-
+94
+
+WW
+µg/l
+-
+
+33
+
+-
+
+-
+
+-
+
+203
+
+-
+
+106
+
+-
+
+73
+
+-
+
+153
+
+81
+
+-
+
+1470
+
+carbamodithioic acid, two aliphatic hydrocarbons, chloroform (0.9
+µg/l) and traces of bromodichloromethane. This treated wastewater
+also contained some metals above background levels for surface
+waters, including chromium, copper, nickel, tin and zinc. In the PCTT
+wastewater sample, only copper was present at the slightly elevated
+level of 73 µg/l.
+
+Two groundwater samples collected near to the Rojana IE (MI06054
+& MI06058) contained zinc at slightly elevated concentrations above
+background levels. No groundwaters contained any chlorinated VOCs,
+though two samples (MI06055 & MI06056) contained traces of the
+toxic compound phenol.
+
+LOCATION
+
+SAMPLE#
+
+SAMPLE TYPE
+
+METAL
+Antimony
+
+Barium
+
+Beryllium
+
+Bismuth
+
+Cadmium
+
+Chromium
+
+Cobalt
+
+Copper
+
+Lead
+
+Manganese
+
+Molybdenum
+
+Nickel
+
+Tin
+
+Vanadium
+Zinc
+
+WW
+
+µg/l
+
+-
+
+95
+
+-
+
+-
+
+-
+
+-
+
+-
+
+1780
+
+-
+
+479
+
+-
+
+59
+
+-
+
+-
+153
+
+WW
+
+µg/l
+
+-
+
+36
+
+-
+
+-
+
+-
+
+-
+
+-
+
+570
+
+-
+
+311
+
+-
+
+114
+
+-
+
+-
+134
+
+Rojana IE
+Among the 7 samples collected from the Rojana IE were two
+wastewater samples, MI06052 (untreated wastewater from PCTT) &
+MI06053 (treated wastewater from WWTP), and five groundwater
+samples, MI06054-MI06058. Both wastewater samples contained
+phthalate esters – diethylhexyl phthalate (DEHP) in PCTT wastewater
+and, in the treated wastewater (MI06053), a combination of
+diethylhexyl phthalate (DEHP), dibutyl phthalate (DBP) and diisobutyl
+phthalate (DiBP). The PCTT wastewater (MI06052) also contained
+chlorinated and brominated compounds (three PBDEs,
+dichloromethane, chloroform and dichlorobenzene). Dichloromethane
+and chloroform were present in this sample at concentration of 2.2 µg/l
+and 35.5 µg/l respectively. In addition to the phthalate esters listed
+above, the treated wastewater (MI06053) contained a derivative of
+
+38
+
+table 4.9 :: volatile organic chemicals (VOCs) quantified in groundwater (GW) and wastewater (WW) samples from sites involved in
+the manufacture of PWBs, Thailand. ( - ) - not detected.
+
+SAMPLE#
+
+SAMPLE TYPE
+
+LOCATION
+
+COMPOUNDS
+
+S
+M
+H
+T
+
+D
+E
+T
+A
+N
+I
+R
+O
+L
+H
+C
+
+,
+
+S
+E
+N
+A
+H
+T
+E
+M
+
+S
+E
+N
+E
+H
+T
+E
+&
+S
+E
+N
+A
+H
+T
+E
+
+MI06024
+
+WW
+
+EETH
+
+MI06045
+
+WW
+
+MI06059
+
+GW
+
+MI06052
+
+MI06053
+
+WW
+
+WW
+
+Hi-Tech IE
+
+Navanakorn IE
+
+Rojana IE
+
+Rojana IE
+
+CONCENTRATION, µg/l
+
+Bromoform
+
+Chloroform
+
+Methane, bromodichloro-
+
+Methane, dibromochloro-
+
+Methane, dichloro-
+
+Methane, tetrachloro-
+
+Ethane, 1,1,1-trichloro-
+
+Ethene, 1,1-dichloro-
+
+Ethene, 1,2-dichloro-, cis-
+
+Ethene, trichloro-
+
+Ethene, tetrachloro-
+
+Hexachlorobutadiene
+
+<0.5
+
+<0.5
+
+<0.5
+
+<0.5
+
+-
+
+<0.1
+
+<0.5
+
+<0.1
+
+<0.5
+
+<0.5
+
+<0.1
+
+<0.5
+
+-
+
+1.9
+
+-
+
+-
+
+1.1
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+1.2
+
+1.2
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+35.5
+
+-
+
+-
+
+2.2
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+0.9
+
+<0.5
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Navankorn IE
+Only groundwater samples were collected from the Navarkorn IE:
+MI06032-MI0634 and MI06059. No elevated metal concentrations
+were found in any sample. VOCs were detected only in MI06059; the
+compounds chloroform and bromodichloromethane. These THMs were
+both present at trace levels (1.2 µg/l).
+
+39
+
+CUTTING EDGE CONTAMINATION
+
+table 4.10 :: metals quantified in groundwater (GW) samples from sites involved in PWB manufacture; Bangpa-in IE & Rojana IE,
+Thailand. ( - ) - not detected.
+
+BANGPA-IN IE
+
+ROJANA IE
+
+MI06035
+
+MI06041
+
+MI06043
+
+MI06044
+
+MI06054
+
+MI06055
+
+MI06056
+
+MI06057
+
+MI06058
+
+MI06059
+
+GW
+
+µg/l
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+49
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+GW
+
+µg/l
+
+-
+
+41
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+GW
+
+µg/l
+
+-
+
+139
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+GW
+
+µg/l
+
+-
+
+147
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+210
+
+127
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+GW
+
+µg/l
+
+-
+
+29
+
+GW
+
+µg/l
+
+-
+
+47
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+GW
+
+µg/l
+
+-
+
+43
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+GW
+
+µg/l
+
+-
+
+56
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+GW
+
+µg/l
+
+-
+
+55
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+GW
+
+µg/l
+
+-
+
+74
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+65
+
+17
+
+75
+
+25
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+67
+
+-
+
+-
+
+-
+
+-
+
+-
+
+20
+
+50
+
+71
+
+LOCATION
+SAMPLE#
+
+SAMPLE TYPE
+
+METAL
+Antimony
+
+Barium
+
+Beryllium
+
+Bismuth
+
+Cadmium
+
+Chromium
+
+Cobalt
+
+Copper
+
+Lead
+
+Manganese
+
+Molybdenum
+
+Nickel
+
+Tin
+
+Vanadium
+
+Zinc
+
+40
+
+table 4.11 :: metals quantified in in groundwater (GW) samples from sites involved in PWB manufacture; EETH, Navanakorn IE &-
+Tech IE, Thailand. ( - ) - not detected.
+
+LOCATION
+
+SAMPLE#
+
+SAMPLE TYPE
+
+METAL
+Antimony
+
+Barium
+
+Beryllium
+
+Bismuth
+
+Cadmium
+
+Chromium
+
+Cobalt
+
+Copper
+
+Lead
+
+Manganese
+
+Molybdenum
+
+Nickel
+
+Tin
+
+Vanadium
+
+Zinc
+
+EETH
+
+NAVANAKORN IE
+
+HI-TECH IE
+
+MI06027
+
+MI06028
+
+MI06032
+
+MI06033
+
+MI06034
+
+MI06048
+
+MI06049
+
+MI06050
+
+MI06051
+
+GW
+µg/l
+-
+
+118
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+GW
+µg/l
+-
+
+125
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+GW
+µg/l
+-
+
+93
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+97
+
+110
+
+144
+
+-
+
+-
+
+-
+
+-
+
+12
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+GW
+µg/l
+-
+
+47
+
+GW
+µg/l
+-
+
+198
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+GW
+µg/l
+-
+
+57
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+119
+
+-
+
+-
+
+-
+
+-
+
+55
+
+GW
+
+µg/l
+
+-
+
+14
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+29
+
+-
+
+96
+
+-
+
+-
+
+GW
+
+µg/l
+
+-
+27
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+GW
+
+µg/l
+
+-
+66
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+24
+
+213
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+179
+
+71
+
+20
+
+41
+
+CUTTING EDGE CONTAMINATION
+
+4.1.3 :: Discussion
+Many similarities were seen in the chemicals identified in the
+wastewaters and other samples associated with the individual PWB
+manufacturing facilities located in China and Thailand. Similar patterns
+were seen in the distribution of certain groups of organic chemicals,
+and in those metals present at high concentrations, including;
+- brominated flame-retardants, primarily polybrominated diphenyl
+
+ethers (PBDEs)
+- phthalate esters
+- chemicals used as photoinitiators, and related compounds
+- chlorinated solvents
+- benzoic acid esters
+- heavy metals; primarily copper, nickel and zinc
+
+Some groups of chemicals were found only in the wastewaters from
+PWB manufacturing facilities, while others were also present at other
+points, in wastewater pipes and channels, within communal WWTPs,
+and even in treated wastewaters discharged from WWTPs (although in
+this last case it is not possible to ascribe the presence of these
+chemicals to any individual chemical plant as many contribute
+wastewater to the treatment plant). In some cases accumulation was
+found in sediment and sludge samples collected from wastewater pipes
+and channels and communal WWTPs. Some heavy metals were found
+to have accumulated to very high levels in some of these samples.
+
+Analysis of the organic chemicals in samples collected from the sites in
+China and Thailand has shown the complexity of the contaminants that
+arise from PWB manufacture. This was particularly obvious in case of
+the samples collected from China. The majority of the organic
+compounds that have been isolated during GC/MS screening analysis
+could not be reliably identified, partially due to the lack of the current
+databases on spectral characteristics of some industrial chemicals that
+have not been on the market for a long time, or which have not
+previously been recognised as significant environmental contaminants.
+Those chemicals include a range of brominated organic substances
+which it was possible to identify only as “polybrominated compounds”
+by Selective Ion Monitoring (SIM) GC/MS analysis (see Appendix for
+details of the analyses). It was found that 8 samples out of a total of
+13 that were collected from the facilities in China contained
+unspecified brominated compounds which deserve further investigation.
+The number of such compounds ranged from 7 in samples MI06002,
+MI06004 and MI06010 to as many as 27 in sample MI06008. Both
+
+samples MI06007 and MI05051 contained 18 unspecified brominated
+organic compounds, samples MI06001 and MI06009 contained 24
+and 25 compounds respectively. At the same time, other than
+groundwater, all samples from China were found to contain brominated
+organic compounds which were reliably identified, including congeners
+of PBDEs (in 9 samples) and TBBPA (in 2 samples) as discussed
+below. It is necessary to mention that samples containing brominated
+compounds were represented by wastewaters (MI05051 & MI06004),
+sediments (MI06001-MI06002 & MI06008-MI06009) and soil
+samples (MI06007 & MI06010). Therefore, the presence of these
+compounds in the environmental samples could have resulted from
+discharges or fugitive losses from the industrial sector in the
+investigated area.
+
+Of all organic chemicals identified, the widest distribution was found
+for PBDEs, a group of polybrominated chemicals widely used as flame-
+retardants. Many PBDEs are environmentally persistent chemicals, and
+some are also toxic and highly bioaccumulative. More information on
+PDBEs is given in Text Box A.
+
+PDBEs were identified in at least one sample collected from every site
+sampled, whether in wastewater or in sediments from wastewater
+channels and ponds. In almost all cases, the PDBE congeners identified
+at all sites were BDE-47, BDE-99 and BDE-153. All such samples
+contained two or three of these PDBE congeners, with the exception of
+one sample from the Fortune facility in China that contained these
+three along with many additional PBDEs.
+
+PBDEs were found in discharged wastewaters from three facilities;
+Fortune and Compeq in China, and PCTT within the Rojana IE in
+Thailand. The wastewater from Fortune, and one of the wastewaters
+from Compeq also contained another brominated flame retardant,
+TBBPA, which is widely used in the manufacture of PWBs (in which it
+is generally polymerised, Lassen et al. 1999). The Fortune wastewater
+also contained a different type of flame retardant, TPP. This toxic
+chemical is an aryl phosphate, a phosphorus based chemical, different
+to the brominated compounds mentioned above. TPP was not found in
+any other sample. Additional information on TBBPA and TPP is given
+in Text Box A.
+
+42
+
+© GREENPEACE
+
+43
+
+The river behind the Compeq
+factory in the Guangdong
+Province, China is slowly drying
+up. October 2006.
+
+CUTTING EDGE CONTAMINATION
+
+contaminated dusts (Harrad et al. 2004). While their acute toxicity is
+considered low, chronic exposure to certain PBDEs (especially in the
+womb) has been associated with abnormal brain development in
+animals (Eriksson et al. 2002), with possible long-term impacts on
+memory, learning and behaviour (Darnerud 2003, Eriksson et al. 2001,
+2002, Viberg et al. 2004). There are concerns that similar effects may
+be of relevance in humans (Branchi et al. 2003). PBDEs also exhibit
+endocrine (hormone) disrupting properties, interacting with both
+oestrogen and thyroid hormone systems either as the parent compound
+or as metabolites (Meerts et al. 1998, 2001, Legler & Brouwer 2003).
+Effects on the immune system have also been reported (Birnbaum &
+Staskal 2004, Darnerud 2003). Furthermore, when plastics containing
+PBDEs are burned, either in an incinerator or by open burning, the
+potential exists for formation of brominated dioxins (IPCS 1998),
+which may be of equivalent toxicity to chlorinated dioxins.
+
+Because of these environmental and human health concerns, controls
+are increasingly being placed on the use of PBDEs (along with some
+other brominated fame retardants) in some regions. Penta-BDE is
+included as a “priority hazardous substance” under the EU Water
+Framework Directive (EU 2001) and remains under consideration for
+inclusion as a POP (persistent organic pollutant) under the 2001
+global Stockholm Convention (Peltola & Yla-Mononen 2001, UNEP
+2006). Both “penta” and “octa” are now banned from use in Europe
+(EU 2003a). Within the electronics sector, use of PBDEs other than
+“deca” was prohibited from July 2006 under the Directive on
+Restrictions on Hazardous Substances (RoHS), associated with the
+WEEE Directive (EU 2002a, b).
+
+BOX A :: FLAME RETARDANTS
+Polybrominated diphenyl ethers (PBDEs) are one of several classes of
+brominated compound in widespread use as flame retardant additives
+in plastics and foams, including plastic casings of electronic equipment
+(OECD 2003). There are many different chemicals (congeners)
+included in this group, differing in the numbers and positioning of
+bromine atoms in the molecules. Those in common commercial use are
+“penta” (i.e. a mixture rich in pentabrominated congeners), “octa”,
+(rich in octabrominated congeners) and “deca” (almost exclusively the
+decabrominated congener).
+
+PBDEs are environmentally persistent chemicals. Some, especially the
+lower brominated congeners (e.g. “penta-BDE”), are also highly
+bioaccumulative. Their manufacture and use as additives in plastics
+and other polymers, in which they are not tightly bound to the polymer
+matrix, has led to their widespread presence in the environment.
+PBDEs can be detected in indoor air and dusts in the workplace and
+in the home (Santillo et al. 2003 a & b). They also occur in almost
+every part of the environment, including sediments (Allchin & Morris
+2002), freshwater and marine fish (Asplund et al. 1999a, b), birds
+eggs (Hites 2004) and even whales from the deep oceans and the
+Arctic (de Boer et al. 1998, Ikonomou et al. 2002).
+
+PBDEs have also been reported as common contaminants in humans,
+including reports from Sweden, Spain, Finland and North America
+(Lindstrom et al. 1997, Meneses et al. 1999, Strandman et al. 1999,
+She et al. 2000). Concentrations of lower brominated PBDEs have
+shown increasing levels in both blood and breast milk in recent
+decades, particularly in regions in which “penta” remains in
+commercial use (Alaee et al. 2003, Meironyte et al. 1999, Thomsen et
+al. 2002). Workers in electronics recycling facilities in Europe have
+been found to have higher blood levels of PBDEs than other workers,
+probably as a result of inhalation of contaminated dust (Sjödin et al.
+2001, Sjödin et al. 2003). For the general population, exposure to
+PBDEs probably occurs through a combination of food contamination
+and direct exposure to chemicals from consumer products and/or
+
+Tetrabromobisphenol A (TBBPA), another form of brominated flame
+retardant, is used widely in various industrial and consumer products
+including electrical and electronic appliances (Lassen et al. 1999). This
+chemical is most frequently used in polymeric form, i.e. bound to the
+polymers in which it is incorporated, though a small percentage of
+total use is in additive uses (i.e. in a similar manner to the common
+additive flame retardants PBDEs and HBCD). Despite its primary use
+in reactive, polymeric forms, TBBPA has been found in the indoor
+environment, including in office dust samples (Leonards et al. 2001).
+It has been reported that TBBPA may interfere with the binding of
+thyroid hormones (Meerts et al. 1998, 2001), raising the potential for
+diverse effects on growth and development. Concerns have also been
+raised that TBBPA can induce oestrogen-like properties (Meerts et al.
+2001, Samuelsen et al. 2001, Olsen et al. 2003), neurotoxicity
+(Mariussen & Fonnum 2003), immunotoxicity (Pullen et al. 2003),
+nephrotoxicity (Fukuda et al. 2004) or hepatotoxicity (Ronisz et al.
+2004, Tada et al. 2006). However, most of the studies are in vitro
+studies and these are not used for the purpose of risk assessment.
+
+A risk assessment report published by European Commission in 2006
+(EC 2006) has concluded that “No health effects of concern have
+been identified for TBBP-A”. This study has been prepared by the
+United Kingdom on behalf of the European Union and was based on
+the scientific publications up to 2004. But very recently the UK revised
+the environmental risk assessment to take into account new test data
+and exposure information provided by Industry (DEFRA 2006). “The
+exposure section was updated with site-specific monitoring data. Initial
+results of studies of degradation in anaerobic sewage sludge and
+anaerobic sediment were added. These show de-bromination of TBBPA
+to form bisphenol A, another substance being assessed under the
+Existing Substances Regulation. Other recent studies in the published
+literature also found evidence for debromination of TBBPA in the
+environment. TC NES agreed that this source of Bisphenol A to the
+environment should be considered further in an update to the
+Bisphenol A risk assessment”. Finalisation of this revised
+environmental risk assessment, expected to identify some significant
+risks to the environment, is expected shortly.
+
+Triphenyl phosphate (TPP), one of a number of so-called triaryl
+phosphates, has long been used as a flame retardant for polymers such
+as poly(butylene terephthalate) (PBT), an important polymeric
+material for the electrical and electronic industries and automotive
+production (Xiao et al. 2006) and in phenolic and phenylene oxide-
+based resins (IPCS 1991). This compound is not chemically bound to
+plastic material and therefore may be released into environment
+through leaching from polymers in which it is incorporated. As a
+result, phosphoric triesters have been detected in various
+environmental compartments such as air (Marklund et al. 2003,
+Hartmann et al. 2004, Carlsson et al. 1997), wastewater, surface and
+groundwater (Fries & Puttmann 2003), including location where
+electronic wastes are recycled (Brigden et al. 2005). Although a
+relatively minor component compared to other flame retardants in air
+samples from three schools, a day care centre and an office, much
+higher levels were found in close proximity to computer monitors
+(video display units, or VDUs) when in normal use (Carlsson et al.
+2000). Further investigations revealed that TPP was present at levels
+up to 10% by weight of the plastic in the outer covers of the monitors.
+Combustion of polymers containing TPP may also be a major source
+to the environment (IPCS 1991). TPP is the most acutely toxic to
+aquatic life of all the triaryl phosphates in common use (IPCS 1991).
+It has been reported as a contaminant in human blood (Jonsson et al.
+2001) and is a strong inhibitor of a key enzyme (monocyte carboxyl
+esterase) in human blood cells (Amini and Crescenzi 2003). Recent
+research has also indicated an ability to inhibit human androgen
+hormone reception in vitro (Honkakoski et al. 2004). Contact
+dermatitis following exposure to TPP has been reported by several
+authors, with some cases dating back to the 1960s (Carlsson et al.
+1997 and Sanchez et al. 2003).
+
+CUTTING EDGE CONTAMINATION
+
+Accumulation of PBDEs in sediments was also evident at some
+locations. At the Fortune and Compeq sites in China, the same PBDEs
+found in wastewater samples were also found in sediment samples
+collected from wastewater channels and the waterways into which they
+discharge. At the Compeq site, these PBDEs were also found in the
+XianGang River upstream of the wastewater discharge points and so
+there may be other inputs to the river upstream of Compeq.
+
+The sediment sample (MI06009) from the Fortune wastewater channel
+contained by far the most PBDEs of all samples, many at well above
+trace levels. This sample, as well as the sediment from the open ditch to
+which wastewater is discharged, and the wastewater itself, also
+contained many additional polybrominated chemicals that could not be
+fully identified. It is possible that some of these were other PBDEs, a
+hypothesis which requires further investigation.
+
+For two of the other PWB manufacturers, CKL within the Bangpa-in
+IE and the EETH facility (both in Thailand), PBDEs could not be
+detected in the wastewater from either facility, but were found in
+sediment samples from the wastewater discharge channels. This
+suggests previous discharge of wastewaters containing PBDEs, which
+generally have low water solubility and a high affinity for binding to
+sediment particulates.
+
+The results demonstrate the distribution of PBDEs throughout
+wastewater discharge networks and treatment facilities, and in some
+cases the inability of the wastewater treatment processes to deal
+effectively with the presence of these chemicals in wastewaters. At
+three sites in Thailand where facilities are located within Industrial
+Estates (IEs), samples were collected from both an individual PWB
+manufacturing facility and a communal WWTP that receives
+wastewater from many different facilities. At one of these sites, the
+CKL facility within the Bangpa-in IE, the same PBDEs found in
+sediment collected from the CKL discharge pipe were also found in two
+samples of sludge from the WWTP as well as treated wastewater being
+discharged by the WWTP. PBDEs were also found in sediment from the
+treated wastewater pond of the WWTP at the Hi-Tech IE, presumably
+from wastewaters discharge to it from one or more facilities, though
+these were not found in the wastewater from the KCE facility at the
+time of sampling. It was not possible to collect sediment from the KCE
+discharge to see whether PBDEs had been previously discharged from
+this facility. At the Rojana IE, PBDEs were found in the wastewater
+from the PCTT facility though not in treated wastewater from the
+WWTP. It was not possible to collect sediment or sludge samples from
+this WWTP, which may have contained PBDEs accumulated from
+wastewaters discharged to it, found at the other sites. In all cases, the
+WWTPs receive wastewater from many facilities within the Industrial
+Estate, and therefore additional sources of PBDEs to the WWTP, from
+facilities other than the specific PWB manufacturers investigated,
+cannot be ruled out.
+
+46
+
+In addition to the distribution throughout the various wastewater
+networks, general background contamination with PBDEs was found in
+the vicinity of the two facilities in China. The XianGang River receives
+wastewater discharges from the Compeq facility. River sediment
+collected upstream of all discharge points contained two PDBEs that
+were also found in sediments collected by Compeq wastewater outfalls.
+However, many additional polybrominated compounds were found at the
+outfalls locations that were not present in the upstream river sediment.
+At the Fortune facility, two soil samples from the area showed traces of
+PDBE contamination. The soil collected adjacent to the wastewater
+ditch contained more PBDEs and other polybrominated compounds
+than the soil collected 500m from the Fortune site. It is not possible to
+distinguish the contribution to such general background contamination
+arising specifically from the PWB manufacturing facility from the
+contribution arising from other point and diffuse sources in the area.
+
+Another class of chemicals found in wastewaters from individual
+facilities were phthalate esters, particularly DEHP, but also DiBP and
+DBP. Of these, DEHP was present in the wastewater from three
+facilities; PCTT (Rojana IE) and EETH, Thailand, as well as the
+Fortune facility in China. The latter also contained DiBP and DBP,
+while at the Hi-Tech IE (Thailand), DiBP was found in the wastewater
+from the KCE facility.
+
+At one site, a phthalate ester discharged by an individual PWB
+manufacturer to a WWTP was also found in the treated wastewater
+discharged by the WWTP into the wider environment, though it is
+clearly not possible to state conclusively that the contamination had a
+common origin in both cases. The treated wastewater at the Rojana IE
+contained DEHP (also found in the PCTT wastewater), as well as
+DiBP and DBP which were not present in the PCTT wastewater. At the
+Hi-Tech IE and Bangpa-in IE, treated wastewaters from WWTPs also
+contained phthalates that were not found in the wastewaters from the
+PWB manufacturer investigated at each Industrial Estate. At some
+locations, there appear to be additional sources of phthalates to the
+communal WWTP.
+
+Phthalates (phthalates esters) are predominantly used as plasticizers to
+soften plastics (especially PVC) and have undergone large-scale and
+ongoing releases to the environment (CSTEE 2001). They have been
+detected in various environmental compartments, including in the
+tissues of wildlife and in the human body (Otake et al. 2001, Butte &
+Heinzow 2002, Fromme et al. 2004, Colon et al. 2000, Blount et al.
+2000, Silva et al. 2004). Phthalates are relatively persistent in the
+environment. Among the greatest concerns relate to the toxicity of
+some phthalates, including DEHP and DiBP, to the developing
+reproductive system in mammals (Ema & Miyawaki 2002, Mylchreest
+et al. 2002). More information on phthalates is presented in Box B.
+
+BOX B :: PLASTICISERS - PHTHALATE ESTERS
+Phthalates (or, more accurately, phthalate diesters) are non-
+halogenated chemicals with a diversity of uses, dominated by use as
+plasticizers (or softeners) in plastics, especially PVC (e.g. in cables
+and other flexible components). Other applications included uses as
+components of inks, adhesives, sealants, surface coatings and personal
+care products. Some phthalates are discrete chemicals, such as the
+well known di(2-ethylhexyl) phthalate (DEHP), while others are
+complex mixtures of isomers, such as diisononyl phthalate (DINP).
+
+All uses of phthalates, especially the major use as PVC plasticisers,
+result in large-scale losses to the environment (both indoors and
+outdoors) during the lifetime of products, and again following disposal.
+Within the European Union (EU) alone, this amounts to thousands of
+tonnes per year (CSTEE 2001). As a result, phthalates are among the
+most ubiquitous man-made chemicals found in the environment. They
+are widely found in the indoor environment, including in air and dust
+(Otake et al. 2001, Butte & Heinzow 2002, Fromme et al. 2004).
+Phthalates are commonly found in human tissues, including in blood
+and, as metabolites, in urine (Colon et al. 2000, Blount et al. 2000,
+Silva et al. 2004). In humans and other animals they are relatively
+rapidly metabolised to their monoester forms, but these are frequently
+more toxic than the parent compound (Dalgaard et al. 2001).
+
+Lao Zhao, one of the
+farmers who lives near
+the Compeq factory,
+preparing his meal by
+blowing through a
+bamboo tube to stoke
+the fire. Guangdong
+Province, China.
+October 2006.
+
+E
+C
+A
+E
+P
+N
+E
+E
+R
+G
+©
+
+Substantial concerns exist with regard to the toxicity of phthalates to
+wildlife and humans. For example, DEHP, one of the most widely used
+to date, is a known reproductive toxin, capable (in its monoester form
+MEHP) of interfering with development of the testes in early life. In
+addition, adverse impacts on female reproductive success in adult rats
+and on development of the young have been reported following
+exposure to this chemical (Lovekamp-Swan & Davis 2003).
+Butylbenzyl phthalate (BBP) and dibutyl phthalate (DBP) have also
+been reported to exert reproductive toxicity (Ema & Miyawaki 2002,
+Mylchreest et al. 2002). Both DEHP and DBP are classified as “toxic
+to reproduction” within Europe. Recent research has revealed a
+correlation between phthalate exposure during pregnancy and
+decreased ano-genital index (distance from the anus to the genitals) in
+male children (Swan et al. 2005). Decreased AGI correlated with
+concentrations of four phthalate metabolites, namely monoethyl
+phthalate (MEP), mono-n-butyl phthalate (MBP), monobenzyl
+phthalate (MBzP), and monoisobutyl phthalate (MiBP). It was also
+found that DBP can not only be taken up by crops and enter the food
+chain, but also affects proteome formation as well as the physiology
+and the morphology of some crops during growth (Liao 2006). Other
+commonly used phthalates, including the isomeric forms DINP and
+DIDP (diisodecyl phthalate), are of concern because of observed
+effects on the liver and kidney, albeit at higher doses.
+
+At present, there are few controls on the marketing and use of
+phthalates, despite their toxicity, the volumes used and their propensity
+to leach out of products throughout their lifetime. Of the controls
+which do exist, however, probably the best known is the EU-wide ban
+on the use of six phthalates in children’s toys and childcare articles,
+first agreed as an emergency measure in 1999 and finally made
+permanent in 2005 (EC 2005). While this addresses one important
+exposure route, exposures through other consumer products remain
+unaddressed.
+
+CUTTING EDGE CONTAMINATION
+
+In addition to the widely distributed organic chemicals discussed above,
+some heavy metals were found at high concentrations either in
+discharged wastewaters or through the wastewater networks, including
+in samples from WWTPs.
+
+Most significant among the contaminants found was copper, present at
+high concentrations in the wastewaters from all facilities (ranging from
+60 µg/l to 3710 µg/l). For comparison, background concentrations of
+copper in uncontaminated surface waters can vary significantly but
+average levels are typically below 10 µg/l (ATSDR 2004, Salomons &
+Forstner 1984). Wastewater discharged by EETH had the highest
+copper concentration, over 300 times average background levels, and
+almost two times the maximum permitted level for industrial effluents
+in Thailand (2000 µg/l or 2.0 mg/l, PCD 2004). EETH is known to use
+the electroless copper process (EETH 2006), which uses soluble copper
+compounds and chelating chemicals that impede the recovery of metals
+from wastewaters (Walters et al. 2006). Some of the other facilities
+may also use this widely used process, though this cannot be confirmed
+without additional information.
+
+Two other facilities sampled in Thailand (KCE and CKL) send
+wastewaters to WWTPs. Samples of these wastewaters also contained
+high copper concentrations (1010-1780 µg/l). At both sites, the treated
+wastewaters discharged from the WWTPs had somewhat lower levels
+(432-570 µg/l), and although these levels are below Thai discharge
+standards, they are still approximately 50 times average background
+copper concentrations. Similar copper levels were found in wastewaters
+discharged to waterways from the two facilities in China, Compeq and
+Fortune, which contained dissolved copper at 811 and 944 µg/l
+respectively, just below the maximum allowable national effluent
+standard for China of 1.0 mg/l (SEPA 1996).
+
+Soluble copper compounds are widely used in PWB manufacture
+(Walters et al. 2006). In very high doses, copper can cause toxic effects
+in humans, though of greater concern is the impact of such discharges
+on aquatic organisms, may of which are highly sensitive to soluble
+copper even at very low doses. More information on the uses and
+effects of copper is given in Box C.
+
+Treated wastewaters discharged by the WWTPs at the Bangpa-in, Hi-
+Tech and Rojana IEs in Thailand also contained elevated levels of
+nickel (114-251 µg/l) and zinc (134-1470 µg/l) and, in the case of the
+Rojana IE, tin (81 µg/l). These metals are generally present at far
+lower levels in uncontaminated fresh surface waters; nickel below 20
+µg/l (ATSDR 2005b), zinc below 50 µg/l (ATSDR 2005c) and tin
+below 2 µg/l (ATSDR 2005d). High concentrations were not found in
+the individual wastewaters from the PWB manufacturers at the time of
+sampling, which suggests other facilities are the primary sources of
+nickel, zinc and tin to these WWTPs. However, wastewater from one
+facility, Fortune in China, did contain high levels of nickel and zinc as
+well as tin, though primarily in suspended rather than soluble forms,
+which may reflect accumulation of these metals in sediment within the
+channel from discharged wastewaters over some time
+
+Nickel is widely used in the manufacture of PWBs, whereas the specific
+use of zinc is not well documented. Some processes employ water-
+soluble nickel compounds that have the potential to leach to
+groundwaters following release to the environment (Walters et al.
+2006). Exposure to high concentrations of nickel can results in toxic
+effects, and some nickel compounds are carcinogenic to humans and
+animals (ATSDR 2005b, IARC 1990). More information on the uses
+and effects of nickel and zinc is given in Box C.
+
+Tin is extensively used in PWB manufacture, in layering and etching
+processes as well as a component of electrical solder (Walters et al.
+2006). Exposure to inorganic tin does not usually cause toxic effects in
+humans or animals, unless ingested in extremely large amounts
+(ATSDR 2003). However, the high concentrations of tin in some
+samples, together with other more toxic metals, demonstrate poor
+waste treatment and disposal practices.
+
+Metals discharged in wastewater tend to bind to sediment particles and
+accumulate in bottom sediments. At all locations, the discharge of
+wastewaters containing high levels of heavy metals over considerable
+time has resulted in the accumulation of these metals (primarily copper,
+nickel, zinc and tin) to very high levels in discharge channel sediments
+as well as in sediments and sludges within WWTPs. Reflecting the
+levels in the wastewaters, copper was the most prevalent metal, with
+extremely high levels at some locations. At the Bangpa-in IE and
+EETH facility, Thailand, and at both facilities in China, for example
+where copper levels in sediments from discharge channels ranged from
+22650-75900 mg/kg (2.3-7.6%). These levels are many hundreds of
+times higher than copper levels in uncontaminated sediments (ATSDR
+2004, Salomons & Forstner 1984). The highest level found was in the
+CKL discharge channel at the Bangpa-in IE, over 1500 times typical
+background concentrations.
+
+48
+
+BOX C :: METALS
+Copper is widely used within electronics products due to its high
+electrical conductivity, primarily as a pure metal, or as part of
+mixtures (alloys) with other metals, including beryllium (ATSDR
+2004, OECD 2003). Levels of copper in the environment are typically
+quite low, with soils containing less than 30 mg/kg, and only slightly
+higher levels (less than 50 mg/kg) in freshwater sediments (Alloway
+1990, ATSDR 2004, Salomons & Forstner 1984). Background
+concentration of soluble copper in uncontaminated surface waters can
+vary significantly, but average levels are typically below 10 µg/l
+(ATSDR 2004, Salomons & Forstner 1984).
+
+Copper is an important element for humans and animals in low doses,
+though exposure to high levels of bioavailable copper can lead to
+bioaccumulation and toxic effects (ATSDR 2004). However, many
+aquatic organisms are extremely sensitive to copper, particularly in
+soluble forms, and releases of soluble copper compounds to aquatic
+environments can have significant impacts. Copper in soluble forms is
+highly mobile in the aquatic environment, particularly at higher acidity.
+In these forms, copper is far more bioavailable and is toxic to a wide
+range of aquatic plants and animals (ATSDR 2004, Gerhardt 1993,
+Mance et al. 1984). Effects can occur at very low levels, including
+reductions in growth and fertility rates as well as increased mortality
+(Bryan & Langston 1992, UNEP 1993). Although dependent on many
+others factors, the majority of aquatic organisms cannot tolerate or
+survive at copper concentrations above 1 mg/l (1000 µg/l), and
+impacts can occur at concentrations as low as 0.05 mg/l (50 µg/l) for
+some sensitive organisms (Nor 1987, Salomons & Forstner 1984). The
+World Health Organisation (WHO) set a drinking water guideline value
+for copper of 2000 µg/l (WHO 2006).
+
+Nickel is used in the manufacture of PWBs, primarily in the formation
+of metal surface finishes through electroplating, as well as in layering
+and etching processes used to produce the copper circuitry of the PWB
+(USEPA 1998). Nickel electroplating involves the use of water-soluble
+nickel compounds (USEPA 2001). Levels of nickel in the environment
+are typically quite low, with soils and freshwater sediments generally
+containing nickel below 60 mg/kg (Alloway 1990, ATSDR 2005b).
+Although nickel is generally persistent in soils, water-soluble nickel
+compounds can be quite mobile and have the potential to leach
+through soil and subsequently enter groundwater. Concentrations of
+nickel in uncontaminated surface waters are typically below 20 µg/l,
+while groundwater levels are generally below 10 µg/l (ATSDR 2005b,
+Salomons & Forstner 1984).
+
+Very small amounts of nickel are essential for normal growth and
+reproduction in some animals and plants, and most likely also for
+humans (ATSDR 2005b, Alloway 1990). However, toxic and
+carcinogenic effects can result from exposure to higher concentrations
+for a wide range of life forms (ATSDR 2005b). Reported effects in
+humans include nausea, abdominal cramps, diarrhoea and vomiting, as
+well as cardiac effects following very high doses (ATSDR 2005b). A
+significant proportion of the population (2-5%) are nickel sensitive
+and effects can occur in sensitised individuals at far lower
+concentrations (ATSDR 2005b). Oral exposure to high nickel
+concentrations can also result in a range of toxic effects in many
+animals, predominantly gastrointestinal and cardiac effects, and nickel
+sensitisation has also been reported in some animals (ATSDR 2005b).
+Furthermore, some nickel compounds have been classified as
+carcinogenic to humans, and there is also evidence of carcinogenicity in
+animals (DHHS 2005, IARC 1990). The WHO set a nickel drinking
+water guideline value of 70 µg/l (WHO 2006), and in Thailand the
+groundwater quality level is 20 µg/l (SEPA 1996, PCD 2000).
+
+Zinc
+Reports on the manufacture of PWBs do not specifically list the use of
+zinc in the manufacturing processes employed (Walters et al. 2006).
+Elevated levels found in this study may be due to other manufacturing
+facilities within the industrial estates, though it remains a possibility
+that the PWB facilities may be contributing to the total load on the
+environment. Levels of zinc are generally quite low in the environment;
+in uncontaminated soils and sediments levels are typically below 100
+mg/kg, while in uncontaminated fresh surface waters and groundwater
+levels are typically below 50 µg/l (ATSDR 2005c, Salomons &
+Forstner 1984).
+
+Zinc is an essential nutrient for humans and animals, though exposure
+to high concentrations of bioavailable zinc can result in significant
+bioaccumulation with possible toxic effects (ATSDR 2005c). High
+doses of zinc in humans can induce a range of symptoms, including
+pancreatic damage, anaemia, gastrointestinal distress and diarrhoea.
+Similar effects are also seen in animals (ATSDR 2005c, Goyer 1996).
+The WHO does not set a drinking water guideline value for zinc, but
+levels up to 3 mg/l (3000 µg/l) are not considered unacceptable (WHO
+2006).
+
+CUTTING EDGE CONTAMINATION
+
+Nickel and zinc were also present at elevated levels in sediments at
+these four sites, at levels (generally 2-4 times background levels),
+though to a far lesser extent than for copper (ATSDR 2005b, ATSDR
+2005c, Salomons & Forstner 1984). Though not generally considered
+as a toxic metal, tin was also present at very high levels, ranging from
+463-62600 mg/kg, the highest (over 6000 times background levels)
+again being found in the sediment from the CKL discharge channel
+(ATSDR 2003).
+
+The impact of discharging heavy metals to WWTPs was clearly
+demonstrated at the Bangpa in IE. As seen for some organic chemicals
+(e.g. PDBEs), these facilities tend to concentrate metals into sludges,
+producing an additional contaminated wastestream. One of the sludge
+samples from this WWTP contained the highest levels of copper
+(89000 mg/kg, or 8.9% by weight), nickel (1410 mg/kg) and zinc
+(5790 mg/kg) of all samples.
+
+Some groups of organic chemicals were found in samples from
+wastewater discharge pipes and channels from many of the individual
+PWB manufacturers, but were not present in any other samples from
+these sites. These included photoinitiator-related chemicals, benzoic acid
+esters, chlorinated solvents and trihalomethanes (THMs).
+
+Photoinitiators are catalysts used in the photolithography processes,
+which is employed to print designs onto PWBs using UV light. More
+information is given on these compounds in Text Box D. Three similar
+groups of photoinitiator-related chemicals were commonly identified;
+diphenyl-methanone (also known as benzophenone) and its derivatives,
+diphenylethanone derivatives, and xanthen-9-one derivatives.
+
+Photoinitiator-related chemicals were found in wastewaters collected
+from individual PWB manufacturers at four separate sites, in both
+Thailand (CKL in the Bangpa-in IE, KCE in the Hi-Tech IE) and China
+(Compeq and Fortune). A similar pattern of chemicals was found in the
+wastewaters from each of these facilities. Wastewater from all of the
+four facilities contained diphenylmethanone and the same
+diphenylethanone derivative (2,2-dimethoxy-diphenylethanone), while
+the related compound, diphenylethanedione was found in all but the
+Fortune wastewater.
+
+There is little information available on the toxicity of the
+diphenylmethanone-related compounds. However, diphenylmethanone
+(or benzophenone) itself have been found to have toxic effects to liver
+and kidneys in animals (US DHHS 2000) and displayed potential
+hormone disrupting properties in several tests (Matsumoto et al. 2005,
+Kawamura et al. 2003). More information is given on these compounds
+in Text Box D.
+
+Two other closely related chemicals, derivatives of diphenylmethanone,
+were also found in wastewaters from both the CKL and KCE facilities
+in Thailand; 2-chloro- and 2-hydroxy-diphenylmethanone. 2-
+Chlorodiphenylmethanone, also known as o-chlorobenzophenone, is
+known to be used as a photopolymerisation initiator for coating plastic
+mouldings (Adachi et al. 2005). Additional photoinitiator-related
+chemicals were also identified in wastewater samples, though each was
+only present in samples from one facility. These included three different
+derivatives of diphenylmethanone, and two xanthen-9-one derivatives.
+One of the latter, a thioxanthen-9-one derivate commonly known as
+Quantacure ITX, was present in the wastewater and underlying
+sediment in the discharge channel from the Fortune facility.
+
+Quantacure ITX usually consists of several isomers of thioxanthone
+isopropyl derivatives. It has been widely used as a photoinitiator in inks
+in the flexographic printing industry (USEPA 2000). There is little
+information available on the properties of these chemicals, though it
+has been shown that thioxanthone-based compounds, including isomers
+of isopropylthioxanthone, can cause long-term effects in aquatic
+organisms at relatively low concentrations (USEPA 2000). Some
+additional information on thioxanthone-based photoinitiators is
+presented in Box D.
+
+The Hi-Tech wastewater contained a related chemical, xanthen-9-one
+derivate. It was not possible to find any information about the toxicity
+of this compound. It is difficult to evaluate what effects on the
+environment and, consequently, wild life and human health, could be
+caused by such photoinitiator-related chemicals as their toxic properties
+have not been fully investigated.
+
+50
+
+BOX D :: PHOTOINITIATORS AND RELATED
+COMPOUNDS
+Photoinitiators are additives that use ultraviolet (UV) or visible light to
+induce polymerisation, or to cure materials, as in the case of coatings
+and inks. Photoinitiators have extensive applications in the manufacture
+of printed circuits, encapsulation of electronic components, decorative
+coating, surface coating, etc. The main advantage of polymerization
+started by photoinitiators is temperature-independence and easy control.
+It can be conducted at very low temperatures and can be stopped simply
+by removing the light source.
+
+Photoinitiators sold under various trade names including Quantacure,
+Irgacure, Darocure, Photocure, Vicure and others. Many photoinitiators
+that have been traditionally used by the industry in the past and those
+that remain in use are based on benzophenone (Allen et al. 1988, 1990,
+1997, Eustis et al. 2006) and acetophenone (Torbiero et al. 2006,
+Umarji et al. 2005, Mijangos et al. 2006). Industrial developments
+during last two decades promoted fast growing research and synthesis of
+new chemicals that are used in the fields of photopolymerisation and
+photoimaging science and technology (Corrales et al. 2003, Yilmaz et al.
+2004). As a result, new polymers bearing thioxanthone (Jiang et al.
+2006), anthraquinone, camphorquinone or benzyl moieties (Seidl et al.
+2006) have been synthesised. Information on these photoinitiators are
+mainly in the form of numerous patents. However, there is very little
+information on the toxicity of these new compounds. This is a major
+concern because it is unknown what effects they could cause on human
+health and the environment through use in, and release from,
+manufacturing processes.
+
+Benzophenone based photoinitiators
+Benzophenone itself and its derivatives are used as photoinitiators
+during production of UV-cured resins, inks and coatings (Eustis et al.
+2006). Apart from this application, benzophenone has many other
+uses, including as a fragrance enhancer, and, occasionally, as a flavor
+ingredient. It is also used in the manufacture of insecticides,
+agricultural chemicals and pharmaceuticals and is an additive for
+plastics and adhesives (US DHHS 2000). In animals the liver is the
+primary target organ of benzophenone toxicity in rats and mice, based
+on increases in liver weights, hepatocellular hypertrophy, clinical
+chemistry changes, and induction of liver microsomal cytochrome
+P450 2B isomer. The kidney was also identified as a target organ of
+benzophenone toxicity in rats only, based on exposure concentration-
+related increases in kidney weights and microscopic changes (US
+DHHS 2000). Benzophenone and some of its derivatives displayed
+estrogenic activity in the MCF-7 cell proliferation assay (Matsumoto
+et al. 2005) and in the yeast two-hybrid assay (Kawamura et al.
+2003).
+
+Acetophenone based photoinitiators
+One of the most widely used acetophenone-based photoinitiator is 2,2-
+dimethoxy-1,2-diphenylethanone, also known as 2,2-Dimethoxy-2-
+phenylacetophenone (DMPA) or “Photocure 51”. DMPA is a
+photoinitiator which is added to polysiloxanes to produce photosensitive
+polymers that are widely used in silicon microelectronics (Torbiero et al.
+2006, Umarji et al. 2005). Diphenylethanedione (also known simply as
+benzyl) is a raw material for production of DMPA. Another
+acetophenone-based photoinitiator, 2,2-diethoxyacetophenone, is used in
+the synthesis of telechelic polyurethane methacrylates which have
+widespread use in the coatings industry (Asha et al. 2005).
+
+Despite the fact that acetophenone-based photoinitiators have been in
+use for over two decades, little information exists in the public domain
+concerning their toxicity. Acetophenone itself is a toxic chemical. Acute
+exposure of humans to acetophenone vapor may produce skin irritation
+and transient corneal injury. Acute oral exposure has been observed to
+cause hypnotic or sedative effects, hematological effects and a weakened
+pulse in humans. Congestion of the lungs, kidneys, and liver were
+reported in rats acutely exposed to high levels of acetophenone via
+inhalation (USEPA 2000). DMPA has been found to be toxic to HepG2
+cells, a human hepatoma cell line, in dose-dependent manner during
+photopolymerisation experiments in tissue engineering (Liu & Bhatia
+2002).
+
+Thioxanthone based photoinitiators
+Thioxanthones are widely used bimolecular photoinitiators in vinyl
+polymerisations. They have been employed in processes such as UV-cured
+printing inks, surface coating, microelectronics, and photoresists
+(Coralles et al. 2003). The thioxanthones were also often used in
+conjunction with other photoinitiators to design cost effective synergistic
+photoinitiator blends (Cho et al. 2003, Segurola et al. 1999, Andersen et
+al. 1996). Recently thioxanthone-based photoinitiators have received a
+revitalized interest because of their absorption characteristics at near
+UV range (Temel et al. 2006).
+
+Isopropyl derivatives of thioxanthone are used as photoinitiators under
+the trade name Quantacure ITX in many applications, including
+production of UV-cured inks that comprise a comparatively new ink
+technology in the flexographic printing industry (USEPA 2000). Little
+information is available on these compounds, though derivatives of
+thioxanthone including isomers of isopropylthioxanthone are known to be
+of high aquatic hazard and capable of causing long-term effects in
+aquatic organisms even at concentrations of less than 0.1 mg/l (USEPA
+2000).
+
+Public and regulatory concerns arose around the proprietary product
+Quantacure ITX in September 2005, when a laboratory in Italy found
+that traces of this photoinitiator had been found in some milk products
+for babies. Quantacure ITX, which was used as a curing agent for ink on
+Tetra Pak’s packaging, had migrated through packaging into the milk.
+Following this discovery, millions of litres of the baby milk were recalled
+or confiscated by government authorities.
+
+CUTTING EDGE CONTAMINATION
+
+Chlorinated chemicals, many commonly used as solvents, were found in
+wastewater at the EETH facility, and to a lesser extent at the PCTT
+facility on the Rojana IE, both in Thailand. Though present at only
+trace levels, the wastewater at EETH contained a range of these
+volatile chlorinated chemicals, while the PCTT wastewater contained
+only one, a chlorinated methane. Due to the volatile nature of these
+chlorinated chemicals, they can evaporate rapidly from waters and this
+may have contributed to the low levels found in these wastewater
+samples. It is possible that discharged wastewaters initially contained
+far higher levels. Wastewaters at some sites contained additional
+volatile chlorinated chemicals known as trihalomethanes (THMs).
+These chemicals are generally present due to use of chlorine based
+water disinfection rather than their intentional use in industrial
+processes.
+
+Chlorinated solvents and THMs were also identified in many of the
+samples of groundwater collected in the vicinity of semiconductor chip
+manufacturing facilities investigated in this study, and these chemicals
+are further discussed under that section of the report (Section 4.2)
+with additional information provided in Boxes E & F.
+
+Esters of benzoic acid were found in wastewater samples from the CKL
+and KCE facilities in Thailand and the Compeq facility in China. These
+chemicals are not of particular environmental concern as they can
+occur as natural components of plants (Dudareva et al. 2000), though
+their presence in the wastewaters at these three locations suggests
+their industrial application and provides further indications that similar
+processes are employed at the separate facilities.
+
+The distribution of discharged chemicals through wastewater networks
+and treatment facilities was investigated at three sites where samples
+could be collected from WWTPs. A similar pattern was observed at
+these sites for some brominated flame-retardants (PBDEs), phthalates,
+and a number of metals. In many cases, representatives of these
+chemical groups were identified in the wastewaters from individual
+manufacturers and also in treated wastewater from the WWTP, as well
+as sludge and sediment samples from the WWTPs. These patterns of
+distribution suggest movement of the chemicals from individual
+facilities, through the wastewater network within the Industrial Estate
+and, in some cases, ultimately discharged from the WWTP into the
+wider environment. The accumulation of these chemicals in WWTP
+sludge and sediment samples further demonstrates the failure of the
+wastewater treatment processes employed to treat these chemicals
+effectively. Disposal of solid wastes such as WWTP sludge containing
+these chemicals, whether to landfill, poorly controlled dumps or
+incinerators, can provide additional routes of entry into the wider
+environment.
+
+52
+
+Some chemicals found in wastewaters from the CKL and KCE
+manufacturing facilities (photoinitiator-related chemicals, benzoic acid
+esters) were not found in treated wastewaters or solid samples from
+WWTPs. This pattern suggests that the WWTPs may be able to
+degrade these chemicals in wastewaters, at least to concentrations
+below the detection limits of the methods employed in this study.
+However, if this is the case, such treatment processes are not universally
+applied or effective as these, and other chemicals, were also found in
+wastewaters from the Fortune and Compeq facilities being discharged
+directly into the environment.
+
+Impacts on groundwater
+Although high levels of metals, particularly copper, were present in
+wastestreams from all sites, very high levels were not generally found in
+groundwater samples from the vicinity of these facilities. Only one
+groundwater sample contained copper at a detectable level, 49 µg/l in
+sample MI06035 collected from a water tank within the CKL facility.
+Though higher than in all other samples, which had copper levels below
+20 µg/l, the level at this location is still within the range typically found
+in groundwater (ATSDR 2004). The only groundwater sample collected
+in China, adjacent to the Fortune facility, contained a high zinc level,
+though this groundwater did not contain high levels of copper and other
+metals that were present in discharged wastewaters. In Thailand, one
+sample collected to the east of the Hi-Tech IE (MI06049) contained
+somewhat higher levels of nickel (96 µg/l) and zinc (179 µg/l) than
+found in the majority of other groundwater samples. Levels of nickel
+and zinc in groundwater are typically below 10 µg/l and 50 µg/l
+respectively (ATSDR 2005b, ATSDR 2005c). One other sample
+collected close to the Hi-Tech IE also contained a slightly elevated level
+of zinc (71 µg/l), as did two of the five samples collected close to
+Rojana IE (67-71 µg/l). However, none of these samples contained high
+levels of copper, the most prevalent metal in the wastewaters at these
+sites. It is therefore not possible on the basis of the results from the
+current study to draw links between metal concentrations in
+groundwater and discharges from the PWB manufacturing sector.
+
+table 4.12 :: volatile organic chemicals (VOCs) identified in groundwater (GW) samples from sites involved in the manufacture of
+semiconductor chips, Philippines and Mexico.
+
+SAMPLE#
+
+SAMPLE TYPE
+
+LOCATION
+
+NO. OF VOC’S
+ISOLATED &
+RELIABLY
+IDENTIFIED
+
+Trihalomethanes
+
+Chlorinated methanes
+
+Chlorinated ethanes
+
+Chlorinated ethenes
+
+Bis(chlorophenyl)sylfone
+
+MI06060
+
+MI06062
+
+MI06068
+
+MI06069
+
+MI06073
+
+MI06074
+
+MI06075
+
+MI06076
+
+MI06077
+
+MI06078
+
+MI06079
+
+MI06013
+
+GW
+
+GW
+
+GW
+
+GW
+
+GW
+
+GW
+
+GW
+
+GW
+
+GW
+
+GW
+
+GW
+
+GW
+
+GATEWAY IE
+PHILIPPINES
+
+4
+
+5
+
+(4)
+
+-
+
+-
+
+-
+
+-
+
+(1)
+
+(2)
+
+(2)
+
+-
+
+-
+
+ON SEMICON
+PHILIPPINES
+
+CAVITE PROCESSING ZONE IE PHILIPPINES
+
+5
+
+-
+
+-
+
+(1)
+
+(3)
+
+1
+
+1
+
+-
+
+-
+
+-
+
+(1)
+
+-
+
+5
+
+-
+
+-
+
+(1)
+
+(4)
+
+-
+
+5
+
+-
+
+-
+
+(1)
+
+(4)
+
+-
+
+4
+
+4
+
+4
+
+(1)
+
+-
+
+(1)
+
+(2)
+
+-
+
+(4)
+
+(4)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+4
+
+-
+
+-
+
+-
+
+(4)
+
+-
+
+KEMET
+MEXICO
+
+8
+
+4
+
+(4)
+
+(3)
+
+-
+
+-
+
+(4)
+
+-
+
+-
+
+-
+
+(1)
+
+-
+
+The somewhat elevated levels in these samples may be due in part to
+the activities at the nearby Industrial Estates, though other sources,
+including local geology cannot be discounted. Also the use of zinc and
+copper in water distribution piping can cause levels of these
+magnitudes. In all cases, the levels of copper and zinc found would not
+be expected to pose a risk to health in drinking water (WHO 2006)
+and do not exceed Chinese and Thai national groundwater quality
+levels. However, the one groundwater sample with elevated nickel,
+MI06049 collected to the east of the Hi-Tech IE, contained a level (96
+µg/l) that exceeds both the Thai groundwater quality level of 20 µg/l
+and the World Health Organisation (WHO) drinking water guideline
+value of 70 µg/l (SEPA 1996, PCD 2000, WHO 2006). This potential
+contamination deserves further investigation.
+
+All groundwater samples collected from these sites were generally free
+of organic chemicals. No chlorinated organic chemicals were found in
+any of the samples, other than two THMs in one sample, most likely as
+a result of chlorine based water disinfection. Other than chlorinated
+solvents, the organic chemicals highlighted in the wastewaters from the
+PWB manufacturing facilities, such as PBDEs, tend to have very low
+mobility in soils and would not be expected to be seen in groundwaters.
+
+4.2 Semiconductor chip manufacture; Philippines &
+Mexico
+Twenty-one groundwater samples associated with semiconductor chip
+manufacture were analysed for metals and VOCs. Twenty of these
+samples were collected from three sites in the Philippines: Gateway
+Business Park IE, On Semicon, and Cavite Processing Zone IE
+(CEPZA IE).
+
+A single groundwater sample was collected from within the Kemet
+manufacturing facility in Monterrey, Mexico. VOCs were detected in 12
+of the 21 samples (11 of the 20 from the Philippines and in the single
+sample from Mexico). Quantitative analysis was carried out on 11 of
+these samples (the sample from Mexico was not quantified due to the
+method of collection). A summary of the VOCs identified in the samples
+is presented in Table 4.12 and the levels of individual VOCs is presented
+in Table 4.13. The metals data for these samples are presented in Tables
+4.14-4.15.
+
+4.2.1 Facilities in Philippines
+
+Gateway Business Park IE
+Of the four samples that were collected from the Gateway Business
+Park IE, two (MI06060 & MI06062) contained low levels of VOCs,
+none of which were identified in the other two samples (MI06061 &
+MI06063). All four trihalomethanes (THMs) were detected in sample
+MI06060; bromoform and dibromochloromethane at concentrations
+1.4 µg/l and 0.7 µg/l respectively; chloroform and
+bromodichloromethane at below the level of quantification (0.5 µg/l for
+each). Sample MI06062, which contained one THM (chloroform) at
+trace level, also contained other chlorinated compounds including
+chloromethane and chloroethane at concentrations of 0.8 µg/l and 5
+µg/l respectively; dichloromethane and 1,1-dichloroethane were
+present, though at trace level. MI06062 was collected from a location
+between those of MI06060 & MI06061.
+
+53
+
+CUTTING EDGE CONTAMINATION
+
+table 4.13 :: volatile organic chemicals (VOCs) quantified in groundwater samples from sites involved in the manufacture of
+semiconductor chips; Gateway Business Park IE and Cavite Processing Zone IE, Philippines. ( - ) - not detected.
+
+MI06060
+
+MI06062
+
+MI06068
+
+MI06069
+
+MI06073
+
+MI06074
+
+GATEWAY IE
+
+PHILIPPINES
+
+ON SEMICON
+
+PHILIPPINES
+
+CAVITE PROCESSING ZONE IE PHILIPPINES
+
+1.4
+
+<0.5
+
+<0.5
+
+0.7
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+-
+
+-
+
+-
+
+-
+
+-
+
+<0.5
+
+-
+
+-
+
+0.8
+
+<0.5
+
+5.0
+
+<0.5
+
+-
+
+-
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+<0.5
+
+-
+
+-
+21.3
+
+0.3
+
+1.6
+
+-
+
+CONCENTRATION,µg/l
+
+TRIHALOMETHANES (THMS)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+CHLORINATED METHANES
+
+-
+
+-
+
+-
+
+-
+
+CHLORINATED ETHANES
+
+-
+
+0.8
+
+-
+
+-
+
+<0.5
+
+-
+
+CHLORINATED ETHANES
+
+1.9
+28.9
+
+-
+
+12.8
+
+0.5
+
+0.3
+20.0
+
+-
+
+6.4
+
+0.3
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+1.4
+
+-
+
+-
+
+-
+
+SAMPLE#
+
+LOCATION
+
+COMPOUND
+
+Bromoform
+
+Chloroform
+
+Methane, bromodichloro-
+
+Methane, dibromochloro-
+
+Methane, chloro-
+
+Methane, dichloro-
+
+Ethane, chloro-
+
+Ethane, 1,1-dichloro-
+
+Ethane, 1,1,1-trichloro-
+
+Ethene, 1,1-dichloro-
+
+Ethene,1,2-dichloro-, cis-
+
+Ethene,1,2-dichloro-, trans-
+
+Ethene, trichloro-
+
+Ethene, tetrachloro-
+
+54
+
+MI06075
+
+MI06076
+
+MI06077
+
+MI06078
+
+MI06079
+
+CAVITE PROCESSING ZONE IE PHILIPPINES
+
+15.4
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+<0.5
+
+-
+
+-
+
+-
+
+-
+
+3.3
+
+2.7
+
+1.4
+
+<0.5
+
+0.8
+
+1.8
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+5.0
+
+1.6
+
+4.0
+
+7.7
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+19.0
+31.9
+
+-
+
+14.5
+
+350
+
+0.8
+
+0.5
+
+<0.5
+
+0.9
+
+-
+
+-
+
+-
+
+-
+
+-
+
+0.2
+
+2.8
+
+-
+
+<0.5
+
+0.1
+
+©GREENPEACE/ROSE
+
+Image shows a chip produced by
+INTEL in the Philippines.
+Water samples were taken from
+the underground wells near the
+INTEL industrial complex
+highlighted in this report.
+21 August 2006.
+
+55
+
+CUTTING EDGE CONTAMINATION
+
+The sample collected in the northern part of the IE near Intel
+Philippines (MI06061) contained levels of copper (233 µg/l) and zinc
+(246 µg/l) higher than typical groundwater levels. All other samples
+contained copper below 20 µg/l. Somewhat less elevated levels of zinc
+(138-144 µg/l) were also present in MI06062 and MI06063, though
+not in sample MI06060 collected from a location between those of
+MI06062 and MI06063. Levels of zinc in groundwater are typically
+below 50 µg/l (ATSDR 2005c). In addition, all four samples contained
+very similar levels of vanadium (65-68 µg/l), above typical background
+levels for groundwater.
+
+On Semicon (also know as ‘On Semiconductor’)
+Of the six samples (MI06064 – MI06069) collected close to the On
+Semicon facility, all but one sample contained elevated levels of zinc,
+though levels of other metals may be considered normal for
+uncontaminated waters. The highest zinc levels were found in samples
+collected closest to the facility. To the southwest, MI06067 collected
+500m from the facility contained 631 µg/l, with levels dropping to
+normal background levels for the sample furthest from the facility
+(MI06068). To the north, a sample collected 100m from the facility
+(MI06065) contained the highest level of all samples (852 µg/l),
+though a sample collected only 20m from this location had a somewhat
+lower level, 201 µg/l. Levels of zinc in groundwater are typically below
+50 µg/l (ATSDR 2005c).
+
+56
+
+table 4.14 :: metals quantified in groundwater samples from sites
+involved in the manufacture of semiconductor chips; Gateway
+Business Park IE, On Semicon (Philippines) and Kemet (Mexico).
+( - ) - not detected
+
+LOCATION
+
+GATEWAY BUSINESS PARK IE, PHILIPPINES
+
+SAMPLE#
+METAL
+Antimony
+Barium
+Beryllium
+Bismuth
+
+Cadmium
+
+Chromium
+
+Cobalt
+
+Copper
+
+Lead
+
+Manganese
+
+Molybdenum
+
+Nickel
+
+Tin
+
+Vanadium
+
+Zinc
+
+MI06060
+
+MI06061
+
+µg/l
+
+µg/l
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+44
+
+-
+
+-
+
+-
+
+65
+
+-
+
+-
+
+7
+
+-
+
+-
+
+-
+
+-
+
+-
+
+233
+
+-
+
+23
+
+-
+
+-
+
+-
+
+68
+
+246
+
+table 4.15 :: metals quantified in groundwater samples from sites
+involved in the manufacture of semiconductor chips; CEPZA IE,
+Philippines ( - ) - not detected.
+
+LOCATION
+
+SAMPLE#
+
+METAL
+Antimony
+
+Barium
+
+Beryllium
+
+Bismuth
+
+Cadmium
+
+Chromium
+
+Cobalt
+
+Copper
+
+Lead
+
+Manganese
+
+Molybdenum
+
+Nickel
+
+Tin
+
+Vanadium
+
+Zinc
+
+MI06070
+µg/l
+-
+
+34
+
+MI06071
+
+µg/l
+
+-
+
+52
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+239
+
+-
+
+-
+
+-
+
+-
+
+255
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+183
+
+-
+
+-
+
+-
+
+-
+
+20
+
+CEPZA IE, PHILIPPINES
+
+GATEWAY BUSINESS PARK IE, PHILIPPINES
+
+ON SEMICON, PHILIPPINES
+
+KEMET,
+MEXICO
+
+MI06062
+
+MI06063
+
+MI06064
+
+MI06065
+
+MI06066
+
+MI06067
+
+MI06068
+
+MI06069
+
+MI06013
+
+µg/l
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+24
+
+-
+
+-
+
+-
+
+66
+
+138
+
+µg/l
+
+-
+
+6
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+67
+
+144
+
+µg/l
+
+-
+
+22
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+383
+
+-
+
+-
+
+-
+
+-
+
+µg/l
+
+-
+
+15
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+µg/l
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+µg/l
+
+-
+
+40
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+µg/l
+
+-
+
+68
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+µg/l
+
+-
+
+24
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+398
+
+305
+
+206
+
+2410
+
+364
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+128
+
+201
+
+852
+
+631
+
+-
+
+-
+
+-
+
+-
+
+23
+
+-
+
+-
+
+-
+
+-
+
+469
+
+µg/l
+
+-
+
+71
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+MI06072
+
+MI06073
+
+CEPZA IE, PHILIPPINES
+MI06075
+
+MI06074
+
+MI06076
+
+MI06077
+
+MI06078
+
+MI06079
+
+µg/l
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+23
+
+-
+
+-
+
+-
+
+-
+
+1770
+
+µg/l
+
+-
+
+41
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+66
+
+-
+
+-
+
+-
+
+-
+
+-
+
+µg/l
+
+-
+
+45
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+63
+
+-
+
+-
+
+-
+
+-
+
+-
+
+µg/l
+
+-
+
+34
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+39
+
+48
+
+µg/l
+
+-
+
+71
+
+-
+
+-
+
+-
+
+-
+
+-
+
+26
+
+-
+
+73
+
+-
+
+46
+
+-
+
+-
+
+236
+
+µg/l
+
+-
+
+71
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+29
+
+-
+
+20
+
+-
+
+-
+
+-
+
+µg/l
+
+-
+
+52
+
+-
+
+-
+
+-
+
+-
+
+-
+
+27
+
+-
+
+16
+
+-
+
+28
+
+-
+
+-
+
+-
+
+µg/l
+
+-
+
+24
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+40
+
+54
+
+-
+
+-
+
+-
+
+57
+
+The sample from the northern part of the Industrial Estate (MI06078)
+contained the highest concentrations of all the chlorinated ethenes
+identified, namely: 1,1-dichloroethene (19 µg/l), cis-1,2-dichloroethene
+(31.9 µg/l), trichloroethene (14.4 µg/l) and tetrachloroethene (350
+µg/l). The two eastern samples (MI06073 & MI06074) contained
+similar but slightly lower levels of dichloroethene and trichloroethene,
+but far lower levels of tetrachloroethene (0.3-0.5 µg/l) and 1,1-
+dichloroethene (0.3-1.9 µg/l). Of these two samples, that collected
+closest to the centre of the Industrial Estate (MI06073) contained the
+higher levels of all chlorinated ethenes. In addition, both samples from
+the eastern part also contained 1,1-dichloroethane, though at trace
+levels in both samples. The distribution pattern of VOCs at this site, and
+implications from the use of groundwater as drinking water, are
+discussed in Section 4.2.3 below, for all sites.
+
+In addition to the VOCs, a number of samples contained one or more
+metals at elevated concentrations. In general, the samples containing
+high levels of metals were different to the samples containing
+chlorinated ethanes and ethenes. High levels of zinc were found in 3
+samples; two from locations outside the Industrial Estate to the north
+and northeast (MI06070 & MI06072), and one from the southeast
+edge of the Industrial Estate furthest from its centre (MI06076).
+These samples were free of VOCs, other than the THMs in sample
+MI06076. By far the highest zinc level was found in MI06072 (1770
+µg/l), far higher than background levels in groundwater, which are
+typically below 50 µg/l (ATSDR 2005c). The most western sample
+(MI06079), which did contain VOCs (THMs and chlorinated ethenes),
+also contained nickel (54 µg/l) and molybdenum (40 µg/l) at levels
+slightly above typical groundwater background levels.
+
+CUTTING EDGE CONTAMINATION
+
+No VOCs were found in any of the three samples collected to the north
+of On Semicon (MI06064-MI06066), nor in the sample collected to
+the southwest, closest to the facility (MI06067). Unexpectedly, the
+most contaminated sample was that collected furthest from On
+Semicon (MI06068), which contained five volatile organic chemicals,
+namely 1,1-dichloroethane, cis- and trans-isomers of 1,2-
+dichloroethene, trichloroethene, and bis(chlorophenyl)sulfone. This
+suggests significant groundwater contamination, but arising from a
+different facility. A further sample (MI06069), collected closer to the
+facility than MI06068, contained only one of these compounds, the
+trans-isomer of 1,2-dichloroethene, and at a far lower level that in
+MI06068.
+
+Cavite Processing Zone IE
+Of the 10 groundwater samples from CEPZA IE, 7 contained VOCs. In
+contrast, three samples collected outside the Industrial Estate, to the
+north and northeast (MI06070-72), did not contain any VOCs. Two
+samples (MI06076 & MI06077) collected on the southeast edge of
+Industrial Estate contained only THMs, chemicals formed as by-
+products of chlorine based water disinfection.
+
+Of the THMs identified in all samples, bromoform was detected in four
+samples in the range from 0.8 µg/l (MI06079) to 15.4 µg/l
+(MI06075). Chloroform, bromodichloromethane and
+dibromochloromethane were detected in three samples (MI06076,
+MI06077 and MI06079), the highest concentrations being found in
+sample MI06077, at levels of 1.6 µg/l, 4 µg/l and 7.7 µg/l respectively.
+
+In addition to the THMs, other chlorinated VOCs were found in five
+samples, all collected within the Industrial Estate, closest to its centre.
+The most contaminated samples were those collected in the northern
+(MI06078) and eastern (MI06073 & MI06074) side of the Industrial
+Estate. These samples contained a range of chlorinated ethenes
+(isomers of dichloroethene, trichloroethene and tetrachloroethene) and
+a chlorinated ethane (1,1-dichloroethane), suggestive of localised
+industrial inputs, perhaps from spills or leaks from storage tanks or
+transfer operations. Two samples collected in the western edge of the
+Industrial Estate (MI06075 & MI06079) also contained chlorinated
+ethenes, though fewer chemicals were found in these samples, and in
+lower concentrations.
+
+58
+
+4.2.2 :: Facilities in Mexico; Kemet
+A single sample of groundwater MI06013 was collected within the
+Kemet facility in Monterrey, Mexico. This sample contained 1,2-
+dichloroethene and three THMs (chloroform, bromodichloromethane
+and dibromochloromethane). All were detected at trace levels, though
+the precise levels were not quantified due to the method of collection
+for this sample. No metals were present above typical background
+levels.
+
+Due to the method of collection and storage of this sample, it is
+possible that some VOCs may have been lost from the water sample by
+evaporation prior to analysis. It is possible that the water at source
+contains those VOCs identified above trace levels, including 1,2-
+dichloroethene, and may have contained additional VOCs to those
+identified.
+
+4.2.3 :: Discussion
+Of the four sites investigated in this sector, VOCs were found in one or
+more sample collected from each site. At all sites the VOCs identified
+including chlorinated chemicals commonly used as industrial solvents
+or degreasing agents, in addition to THMs which are commonly found
+as by-products of chlorine based water disinfection.
+
+However, only the samples from the CEPZA IE site gave a clear
+indication of groundwater contamination arising from site under
+investigation. The data for the CEPZA IE in the Philippines clearly
+demonstrates contamination of the groundwater with chlorinated VOCs,
+with the highest degree of contamination centred within the IE. The
+distribution pattern of VOCs in the samples indicates that one or more
+facilities within the estate, probably in the northern/eastern part, are a
+source of chlorinated ethenes and ethanes to the groundwater aquifer.
+
+At the On Semicon site, the distribution pattern of VOCs indicates that
+this facility is not the source of the VOCs in the groundwater in the
+area; rather another so far unidentified source is likely to exist to the
+south of the On Semicon facility.
+
+For two other sites, the situation is less clear again; the Gateway IE
+(Philippines) and the Kemet facility (Mexico). VOCs were found in only
+one of the four samples from the Gateway IE and all at relatively low
+levels. While there is no clear pattern of groundwater contamination,
+there may be a source of chlorinated VOCs in the vicinity of the WWTP
+from where sample MI06062 was collected. At the Kemet facility, 1,2-
+dichloroethene was found in the one sample collected, though it was
+not possible to quantify the level of this chemical, nor to speculate on
+its origins. As mentioned above, due to the method of collection it is
+possible that some VOCs may have been lost from the water sample by
+evaporation prior to analysis.
+
+59
+
+CUTTING EDGE CONTAMINATION
+
+BOX E :: DISINFECTION PRODUCTS -
+TRIHALOMETHANES (THMS)
+THMs (trichloromethane or chloroform, tribromomethane or
+bromoform, bromodichloromethane and dibromochloromethane) are
+formed in drinking water primarily as a result of chlorination of
+organic matter present naturally in raw water supplies during
+disinfection. The rate and degree of THM formation increase as a
+function of the chlorine and humic acid concentration, temperature, pH
+and bromide ion concentration. Chloroform is the most common THM
+and the principal disinfection by-product in chlorinated drinking water.
+In the presence of bromides, brominated THMs are formed
+preferentially and chloroform concentrations decrease proportionally.
+THMs are not expected to be found in raw water (unless near a
+pollution source) but are usually present in finished chlorinated water.
+Although the THMs identified in groundwater samples in the current
+investigation are unlikely to be linked directly to industrial activities at
+the electronics manufacturing plants under study, the following
+background information is provided as their presence is nevertheless of
+some toxicological and environmental significance.
+
+Two THMs, chloroform and bromodichloromethane, are established
+animal carcinogens (IARC 1999). There are numerous studies on the
+effects of the THMs on human health. Several studies (Cantor 1997,
+Koivusalo & Vartiainen 1997, Boorman 1999) have suggested that
+long-term consumption of chlorinated drinking water may increase the
+risk of bladder cancer and other site-specific neoplasms. A study
+(Vinceti et al. 2004) analysing cancer mortality in a residential cohort
+from an Italian municipality, where drinking water had high
+trihalomethanes content over a 22-year period, reported associations
+between chlorinated drinking water and cancer risk. The levels of
+chloroform and total THMs ranged from 33.1 g/l to 51.7g/l and from
+39.7g/l to 70.0g/l respectively, depending on the time of the
+measurement after initial chlorination (just after treatment and after
+24 hours). The study concluded that, despite the fact that the increased
+rates of some site-specific cancers could be due to life-style
+confounding factors, particularly to smoking, the higher death rates
+
+from prostate, breast and ovarian cancer and for melanoma may well
+have been related to long-term exposure to THMs in the drinking
+water. A recent publication (Tardiff et al. 2006) reviewing last findings
+concerning association between adverse reproductive and
+developmental effects and exposure to disinfection by-products found
+no impact of chlorination by-products on the highly controversial
+outcome of spontaneous abortion. However, as in the previously
+published review on the same subject (Graves et al. 2001), the updated
+weight of evidence suggested a positive association with disinfection
+by-products exposure and some measures of growth retardation such
+as intrauterine growth retardation, small for gestational age, term low
+birth weight, and small body length or head circumference. At the
+same time, in the last update on Guidelines for Drinking-Water Quality
+by the WHO (2006), it is stated that exposure to one of the THMs
+(bromodichloromethane) has been linked to a possible increase in
+reproductive effects (increased risk for spontaneous abortion or
+stillbirth).
+
+Chloroform
+IARC has classified chloroform as possibly carcinogenic to humans
+(Group 2B) (IARC 1999). The most universally observed toxic effect
+of chloroform is damage to the centrilobular region of the liver. The
+severity of these effects per unit dose administered depends on the
+species and pathway by which the chloroform enters the body (WHO
+2006). Toxic effects in human following ingestion or inhalation of
+substantial doses include hallucinations and distorted perceptions,
+nausea, vomiting, and other unspecified gastrointestinal effects (Lewis
+2004). Apart from being the principal THM in drinking water,
+chloroform has also been used in a range of industrial applications,
+including as a solvent, a heat transfer medium in fire extinguishers and
+an intermediate in the preparation of dyes and pesticides. The current
+extent of any of these recorded uses is unclear.
+
+Bromoform
+In an NTP bioassay, bromoform induced a small increase in
+relatively rare tumours of the large intestine in rats of both sexes,
+but did not induce tumours in mice. Data from a variety of assays on
+the genotoxicity of bromoform are equivocal. IARC has classified
+bromoform in Group 3 (not classifiable as to its carcinogenicity to
+humans). Studies in animals, combined with limited observations in
+humans, indicate that the principal adverse health effects associated
+with inhalation or oral exposure to bromoform are central nervous
+system depression and liver and kidney damage (ATSDR 2005a).
+
+Dibromochloromethane (DBCM)
+IARC has classified DBCM in Group 3 (not classifiable as to its
+carcinogenicity to humans). In an NTP bioassay, DBCM induced
+hepatic tumours in female and possibly in male mice (WHO 2006).
+Studies in animals, combined with limited observations in humans,
+indicate that the principal adverse health effects associated with
+inhalation or oral exposure to dibromochloromethane are central
+nervous system depression and liver and kidney damage (ATSDR
+2005a)
+
+Bromodichloromethane (BDCM)
+IARC has classified BDCM in Group 2B (possibly carcinogenic to
+humans). BDCM gave both positive and negative results in a variety
+of in vitro and in vivo genotoxicity assays. In an NTP bioassay,
+BDCM induced renal adenomas and adenocarcinomas in both
+sexes of rats and male mice, rare tumours of the large intestine
+(adenomatous polyps and adenocarcinomas) in both sexes of rats
+and hepatocellular adenomas and adenocarcinomas in female mice.
+Exposure to BDCM has also been linked to a possible increase in
+reproductive effects (increased risk for spontaneous abortion or
+stillbirth) (WHO 2006).
+
+Chlorinated ethenes and ethanes are known to have been used as
+solvents in the manufacture of semiconductor chips. Contamination of
+groundwater with these chemicals has previously been reported in the
+vicinity of facilities that used them as solvents, including those involved
+in the manufacture of materials for semiconductor chips, in a number
+of countries (Williams 2004). Previous investigations of contamination
+at two semiconductor chip manufacturing sites, in Japan and Thailand,
+reported high levels of two of the chemicals found in this study;
+trichloroethene (also known as trichloroethylene) and 1,2-
+dichloroethene (ERTC 2001, Williams 2004). At the site in northern
+Thailand, within the Northern Region Industrial Estate in Lamphun
+Province, groundwater was found to contain very high levels of both
+trichloroethene and 1,2-dichloroethene within a factory perimeter, both
+at far higher levels than those found in this study, over 100 mg/l (1mg/l
+= 1000 µg/l). The levels in the groundwater were found to vary greatly
+with depth and over short distances from the source of contamination
+(ERTC 2001). This previous report suggests that far higher levels of
+those VOCs identified at the CEPZA IE site may be present in the
+groundwater aquifer closer to the source or sources of these chemicals,
+though this could not be confirmed as it was not possible to collect
+samples within the perimeters of factories at the CEPZA IE.
+
+There is clearly a need for further detailed investigations of chlorinated
+VOCs in groundwater at the chip manufacturing sites to find the full
+extent of the contamination of the aquifers, particularly at the CEPZA
+IE site.
+
+61
+
+CUTTING EDGE CONTAMINATION
+
+BOX F :: CHLORINATED SOLVENTS AND OTHER
+CHLORINATED HYDROCARBONS
+The widespread use and storage of chlorinated solvents has led to
+releases of these chemicals into the environment, including to
+groundwaters used as sources of drinking water. The main applications
+of chlorinated solvents include dry cleaning operations, manufacture of
+fluorocarbons, use as solvents for fats, oils, waxes and resins, as a
+degreasing agents, in organic synthesis, during cleaning of printed
+circuit boards, in polymer manufacture and in paint removers, as well
+as many others. Many of these chemicals are considered to be
+potentially carcinogenic to humans. Most can affect the central
+nervous system, liver, and kidneys and, following high exposures, can
+de-fat the skin (possibly causing dermatitis) and are irritating to the
+eyes and mucous membranes. Some can be absorbed through intact
+skin, and several can cause rapid and erratic heartbeats.
+
+Dichloromethane is widely used as a solvent. It is listed by the
+International Agency for Research of Cancer (IARC) in Group 2B
+(possibly carcinogenic to humans). It causes central nervous system
+(CNS) depression, liver and kidney damage, and can cause elevated
+blood carboxyhemoglobin (also caused by exposure to carbon
+monoxide). Contact of the liquid with skin or eyes causes painful
+irritation and possible burns. Dichloromethane has been found in
+surface water samples at concentrations ranging from 0.1 to 743 µg/l.
+Levels are usually higher in groundwater because volatilization is
+restricted; concentrations as high as 3600 µg/l have been reported in
+some contaminated aquifers. Mean concentrations in drinking water
+are generally below 1 µg/l (WHO 2006).
+
+Trichloromethane (Chloroform) has been used in industrial processes
+(e.g. as a solvent), although its presence in drinking water is usually
+due to chlorine-based disinfection (see THMs box).
+
+Tetrachloromethane (carbon tetrachloride) is a confirmed carcinogen
+with experimental carcinogenic, neoplastigenic, and tumorigenic data
+(listed in Group 2B by IARC). It is toxic to humans by ingestion,
+subcutaneous and intravenous routes, and is mildly toxic by inhalation.
+Experimental data showed that carbon tetrachloride has teratogenic
+and reproductive effects, and can damage the liver, kidney and lungs
+(Lewis 2004). Because of its harmful and ozone depleting effects,
+many uses are now banned and it is only used in some industrial
+applications. Historically it was used in the production of
+chlorofluorocarbon (CFC) refrigerants (Budavari et al. 1986, WHO
+2006) but this use of carbon tetrachloride was stopped in 1996 when
+CFC-11 and CFC-12 were themselves banned (UNEP 1997).
+Concentrations of tetrachloromethane found in drinking water are
+generally less than 5 µg/l (WHO).
+
+1,1 - Dichloroethane is a highly flammable chemical. There are limited
+data showing that it can be present at concentrations of up to 10µg/l
+in drinking water (WHO 2006). However, because of the widespread
+use and disposal of this chemical, its occurrence in groundwater may
+still be on the increase in some regions. It is not listed as a suspect
+carcinogen. It is a CNS depressant, but seems to be less likely than
+other chlorinated solvents to cause liver or kidney damage.
+
+1,2 - Dichloroethene exists in a cis- and a trans- forms. The cis- form
+is more frequently found as a water contaminant. Both cis- and trans-
+isomers are CNS depressants, and can irritate skin, eyes, or mucous
+membranes. The presence of these two isomers, which are metabolites
+of other unsaturated halogenated hydrocarbons in wastewater and
+anaerobic groundwater, may indicate the simultaneous presence of
+more toxic organochlorine chemicals, such as vinyl chloride.
+Accordingly, their presence indicates that more intensive monitoring
+should be conducted (WHO 2006). These chemicals have been found in
+drinking water supplies derived from groundwater at levels up to 120
+µg/l.
+
+Tetrachloroethene is widespread in the environment and is found in
+trace amounts in water, aquatic organisms, air, foodstuffs and human
+tissue. The highest environmental levels of tetrachloroethene are found
+in the commercial dry cleaning and metal degreasing industries.
+Emissions can sometimes lead to high concentrations in groundwater.
+Tetrachloroethene in anaerobic groundwater may degrade to more
+toxic compounds, including vinyl chloride. It is not classified as a
+carcinogen. It can cause depression of the CNS, and cause irritation of
+the skin, eyes, and upper respiratory tract. Very high exposure can
+cause death. Concentrations in drinking water are generally below 3
+µg/l, although much higher concentrations have been detected in well
+water (23 mg/l) and in contaminated groundwater (1 mg/l) (WHO
+2006).
+
+1,1 - Dichloroethene is a central nervous system depressant and may
+cause liver and kidney toxicity in occupationally exposed humans. It
+causes liver and kidney damage in laboratory animals. 1,1-
+Dichloroethene has been detected in finished drinking water taken from
+groundwater sources at median concentrations of 0.28–1.2 µg/l and in
+public drinking water supplies at concentrations ranging from 0.2 to
+0.5 µg/l (WHO 2006).
+
+1,1,1 - Trichloroethane is widely used as a cleaning solvent for
+electrical equipment, and as a solvent for adhesives and coatings.
+Exposure to high concentrations can lead to hepatic steatosis (fatty
+liver) in both humans and laboratory animals. Toxic effects in
+laboratory animals included reduced liver weight and changes in the
+kidney consistent with hyaline droplet neuropathy. This solvent has been
+found in only a small proportion of surface waters and groundwaters,
+usually at concentrations of less than 20 µg/l; higher concentrations
+(up to 150 µg/l) have been observed in a few instances (WHO 2006).
+
+Trichloroethene is used primarily in metal degreasing. IARC classified
+trichloroethene as Group 2A (probably carcinogenic to humans) based
+on sufficient weight of evidence of carcinogenicity in animals with
+supporting human data. It can cause CNS depression, can affect
+kidneys, liver, and lungs, and can cause rapid and irregular heartbeat,
+leading to death in extreme cases. Exposure can cause skin, eye, and
+mucous membrane irritation. Poor handling, as well as improper
+disposal of trichloroethene in landfills, have been the main causes of
+groundwater contamination. It is expected that exposure to
+trichloroethene from air will be greater than that from food or
+drinking water, unless the drinking water contains trichloroethene at
+levels above about 10 µg/l (WHO 2006).
+
+CUTTING EDGE CONTAMINATION
+
+The WHO and USEPA guidance values for THMs and maximum
+contaminant levels for chlorinated VOCs in drinking water are
+presented in Tables 4.16 and 4.17 respectively. None of the THMs
+detected in the samples from this study exceeded WHO and USEPA
+levels for drinking water, though the USEPA does set a contaminant
+level goal for bromoform and bromodichloromethane as zero (WHO
+2006, USEPA 2006).
+
+table 4.16 :: guidance values and maximum contaminant levels for THMs in drinking water (WHO 2006, USEPA 2006)
+
+THM
+
+Chloroform
+
+Bromoform
+
+Dibromochloromethane
+
+Bromodichloromethane
+
+Total THMs (TTHMs)
+
+WHO GUIDANCE
+VALUE, µg/l
+
+USEPA MAXIMUM CONTAMINANT
+LEVEL, µg/l
+
+USEPA MAXIMUM CONTAMINANT
+LEVEL GOAL, µg/l
+
+300
+
+100
+
+100
+
+60
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+80
+
+n/a
+
+0
+
+60
+
+0
+
+n/a
+
+In contrast, several chlorinated ethenes that were found in the samples
+collected from CEPZA IE site exceeded WHO and/or USEPA levels
+(WHO 2006, USEPA 2006). Concentrations of trichloroethene were
+above USEPA levels in three samples MI06073 (2.5 times higher),
+MI06074 (about 1.3 times higher) and MI06078 (2.9 times higher).
+The concentration of 1,1-dichloroethene exceeded the USEPA level by
+2.5 times in one sample (MI06078). However, the most significant
+contamination was detected for tetrachloroethene in this same sample,
+which exceeded both the WHO guidance value by almost 9 times, and
+USEPA maximum contaminant level by 70 times.
+
+table 4.17 :: guidance values and maximum contaminant levels for chlorinated VOCs in drinking water (WHO 2006, USEPA 2006)
+
+VOC
+
+WHO GUIDANCE VALUE, µg/l
+
+USEPA MAXIMUM CONTAMINANT LEVEL, µg/l
+
+1,1-Dichloroethane
+1,1-Dichloroethene
+cis-1,2-Dichloroethene
+trans-1,2-Dichloroethene
+Dichloromethane
+Tetrachloroethene
+Trichloroethene
+
+64
+
+30
+
+30
+
+50
+
+50
+
+20
+
+40
+
+20
+
+n/a
+
+7
+
+70
+
+100
+
+5
+
+5
+
+5
+
+Greenpeace
+labelling a water
+sample from a well
+near the Sanyo
+plant in Tijuana.
+June 2006.
+
+E
+C
+A
+E
+P
+N
+E
+E
+R
+G
+©
+
+Many of the compounds that were detected in the samples of
+groundwater can affect the central nervous system, liver, and kidneys. A
+number of health studies of workers involved in the manufacture of
+electronics, including semiconductor materials and chips, have
+highlighted elevated incidence of certain diseases amongst workers (Zhu
+1998, Brumfiel 2004, LaDou 2006), particularly some forms of cancers
+including cancer of the brain, central nervous system and kidney,
+melanoma of the skin, pancreatic cancer, and cancer of lymphatic and
+hematopoietic tissue (Clapp 2006). Due to certain limitations in the
+data available, some studies were not able to draw direct links between
+those diseases with elevated incidences and specific work activities or
+exposure to specific chemicals. However, the study conducted in China
+among workers of electronics and metal sectors of the industry with
+previous excellent health has clearly linked allergic skin diseases and
+hepatitis with occupational exposure to the chlorinated solvent
+trichloroethene (Zhu 1998). More information on THMs and chlorinated
+solvents is presented in Box E and Box F respectively.
+
+In addition to VOC contamination, elevated levels of metals were found
+at all of the sites in the Philippines, primarily zinc. No elevated metal
+levels were found in the sample from Kemet, Mexico. At the On Semicon
+site, the distribution of high zinc levels suggest that On Semicon is
+contributing to elevated levels of zinc in the groundwater at this site. A
+sample collected 100m to the north of the facility (MI06065) contained
+the highest level of all samples (852 µg/l), more than ten times typical
+background levels of less than 50 µg/l (ATSDR 2005c).
+
+High levels of zinc and other metals were also present in some sample
+associated with the Gateway IE and CEPZA IE sites, though the
+distribution patterns do not suggest impacts from facilities within these
+Industrial Estates on groundwater metal levels. At the CEPZA IE site,
+all samples that contained elevated concentrations were those collected
+outside, or on the edges of the Industrial Estate. No elevated levels of
+metals were found in any of the samples collected within the centre of
+the Industrial Estate, i.e. those samples which did show significant VOC
+contamination, as discussed above. At the Gateway IE site, the zinc
+levels were lower and there was no clear distribution pattern. One
+sample contained an elevated copper level, the highest level for all
+samples in this sector (233 µg/l), but this could be a result of the use of
+plumbing materials containing copper, which are able to cause such
+water levels (WHO 2006). The almost identical levels of vanadium in all
+four samples from this site suggests that the higher than normal
+background levels of vanadium in these samples is due to an elevated
+background level of vanadium in this area.
+
+For all sites, the elevated levels of metals found were below levels
+generally accepted to be a risk to human health (WHO 2006), though
+collectively they do indicate inputs to the groundwater aquifers sampled.
+Any ongoing inputs are likely to result in increasing levels over time.
+
+4.3 :: COMPONENT ASSEMBLY; MEXICO
+4.3.1 :: Facilities in Mexico
+A total of 15 samples associated with component assembly were
+collected from two areas in Mexico, Tijuana and Guadalajara. Samples
+included 13 groundwater samples and 2 wastewater samples. VOCs were
+detected in 3 of the 13 groundwater samples collected and in both
+wastewater samples. A list of organic compounds identified in the
+wastewater samples, and the quantitative results for VOCs analysis are
+presented in Tables 4.18 and 4.19 respectively. Results for metal
+analysis of these samples are presented in Tables 4.20 and 4.21.
+
+Tijuana
+VOCs were detected in two of the four groundwater samples collected
+from the two sites in Tijuana, though in both cases only THMs, rather
+than chlorinated industrial solvents, were found. Sample MI06081,
+collected from an open well near the Sanyo Video facility, contained only
+chloroform and then only at trace level. This groundwater was the only
+sample with any elevated metal levels for groundwater, containing a
+nickel concentration of 150 µg/l. Sample MI06083 from a pumping
+station near the Sony facility contained four THMs – bromoform,
+chloroform, bromodichloromethane and dibromochloromethane – at
+concentrations in the range 0.6-1.3 µg/l.
+
+Guadalajara
+9 groundwater samples and 2 wastewater samples were collected
+around the Guadalajara area. Among these, VOCs were detected only in
+one groundwater sample, MI06087, collected 2 km northeast of the
+Flextronics IE. Once again, this sample contained only THMs –
+chloroform, bromodichloromethane, and dibromochloromethane at
+concentrations 6.3 µg/l, 2.9 µg/l and 1.5 µg/l respectively. Bromoform
+was present at trace level only.
+
+Groundwater (MI06012) colleted from a tap within the Flextronics
+facility contained copper at a concentration (226 µg/l) above typical
+background level. Elevated metal concentrations were also found in two
+samples collected to the northeast of the Flextronics IE. One sample
+(MI06086) collected 0.5 km from the estate contained high
+concentrations of zinc (492 µg/l) and nickel (129 µg/l). A second
+sample (MI06087) collected slightly further away (2 km to the
+northeast) contained only nickel, at a slightly lower level (106 µg/l). In
+contrast, high metal levels were not found in two further groundwater
+samples collected at the entrance of the estate (MI06085), and 300 m
+north of the estate (MI06084).
+
+At a different site, a groundwater sample collected 2 km east of the
+Solectron facility (MI06089) contained a similarly elevated level of zinc
+(579 µg/l), as well as somewhat higher lead level than found in all other
+samples (59 µg/l). No VOCs were detected in this sample. No other
+groundwater samples were collected within the vicinity of this site.
+
+65
+
+CUTTING EDGE CONTAMINATION
+
+table 4.18 :: organic chemicals identified in wastewater (WW) samples from the IBM Site, Guadalajara, Mexico. The number of
+compounds reliably identified is presented for each group; (#) - signifies compounds identified at trace levels using a selective SIM
+method; ( - ) – not detected
+
+LOCATION
+SAMPLE#
+
+SAMPLE TYPE
+No. of organic compounds isolated
+
+No. reliably identified (% of total)
+
+PBDEs
+
+Benzene, 1,4-dichloro-
+
+Trihalomethanes
+
+DEHP
+
+Phenol
+
+Phenol, nonyl-, mix isomers
+
+Phenoxyethanol, nonyl-
+
+Diphenyl ether
+
+Alcohols
+
+Fatty acids
+
+Aliphatic hydrocarbons
+
+IBM SITE, GUADALAJARA
+
+MI06091
+
+WW
+
+68
+
+14 (21%)
+
+-
+
+(1)
+
+(1)
+
+1
+
+1
+
+1
+
+1
+
+-
+
+2
+
+5
+
+1
+
+MI06092
+
+WW
+
+32
+
+9 (28%)
+
+(2)
+
+1
+
+(1)
+
+-
+
+-
+
+-
+
+-
+
+1
+
+-
+
+-
+
+4
+
+table 4.19 :: Volatile organic chemicals (VOCs) quantified in groundwater (GW) samples from Tijuana and wastewater (WW) samples
+from Guadalajara, Mexico. ( - ) - not detected.
+
+LOCATION
+SAMPLE#
+SAMPLE TYPE
+COMPOUNDS
+
+S
+M
+H
+T
+
+Bromoform
+
+Chloroform
+
+Methane, bromodichloro-
+
+Methane, dibromochloro-
+
+TIJUANA
+
+MI06081
+
+MI06083
+
+MI06087
+
+GUADALAJARA
+MI06091
+
+MI06092
+
+GW
+
+-
+
+<0.5
+
+-
+
+-
+
+GW
+
+0.6
+
+1.3
+
+0.8
+
+0.9
+
+GW
+CONCENTRATION,µg/l
+
+<0.5
+
+6.3
+
+2.9
+
+1.5
+
+WW
+
+-
+
+<0.5
+
+-
+
+-
+
+WW
+
+-
+
+<0.5
+
+-
+
+-
+
+66
+
+Water sample collected
+from a wastewater
+channel on the IBM site
+in Guadalajara, Mexico.
+June 2006.
+
+E
+C
+A
+E
+P
+N
+E
+E
+I
+R
+P
+G
+G
+©
+©
+
+Both wastewater samples from the IBM site (MI06091 & MI06092)
+contained only one VOC, the THM chloroform, and even then at only
+trace levels. However, a range of extractable organic compounds was
+also detected in both samples. The wastewater that included discharge
+from the wastewater treatment plant (MI06091) contained
+diethylhexyl phthalate (DEHP), phenol, a mixture of nonylphenol (NP)
+isomers, nonylphenoxyethanol, octanol and decanol, several fatty acids,
+and a trace amount of dichlorobenzene. The second wastewater sample
+from the IBM site, MI06092, contained (other than dichlorobenzene)
+different organic compounds to those detected in sample MI06091,
+namely two PBDEs at trace levels (BDE-47 and BDE-99), diphenyl
+ether and several aliphatic hydrocarbons. Neither wastewater contained
+high metal concentrations.
+
+table 4.20 :: metals quantified in groundwater (GW) samples from sites in Guadalajara, Mexico. ( - ) - not detected.
+
+AREA
+
+LOCATION
+
+SAMPLE#
+
+SAMPLE TYPE
+
+METAL
+Antimony
+
+Barium
+
+Beryllium
+
+Bismuth
+
+Cadmium
+
+Chromium
+
+Cobalt
+
+Copper
+
+Lead
+
+Manganese
+
+Molybdenum
+
+Nickel
+
+Tin
+
+Vanadium
+
+Zinc
+
+Sanmina
+
+Flextronics
+
+Flextronics IE
+
+Flextronics IE
+
+GUADALAJARA
+Flextronics IE
+
+Flextronics IE
+
+Jabil
+
+Solectron
+
+HP
+
+MI06011
+
+MI06012
+
+MI06084
+
+MI06085
+
+MI06086
+
+MI06087
+
+MI06088
+
+MI06089
+
+MI06090
+
+GW
+
+µg/l
+
+-
+
+132
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+362
+
+-
+
+42
+
+-
+
+-
+
+-
+
+GW
+
+µg/l
+
+GW
+
+µg/l
+
+GW
+
+µg/l
+
+GW
+
+µg/l
+
+-
+
+9
+
+-
+
+-
+
+-
+
+-
+
+-
+
+226
+
+-
+
+-
+
+-
+
+28
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+35
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+129
+
+-
+
+-
+
+492
+
+GW
+
+µg/l
+
+-
+
+18
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+106
+
+-
+
+-
+
+-
+
+GW
+
+µg/l
+
+-
+
+21
+
+-
+
+-
+
+-
+
+-
+
+-
+
+29
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+GW
+
+µg/l
+
+-
+
+13
+
+-
+
+-
+
+-
+
+-
+
+-
+
+38
+
+59
+
+-
+
+-
+
+-
+
+-
+
+-
+
+66
+
+579
+
+GW
+
+µg/l
+
+-
+
+40
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+36
+
+-
+
+30
+
+-
+
+-
+
+-
+
+67
+
+CUTTING EDGE CONTAMINATION
+
+table 4.21 :: metals quantified in groundwater (GW) samples from Tijuana and wastewater (WW) samples from Guadalajara, Mexico.
+( - ) - not detected.
+
+AREA
+
+LOCATION
+
+SAMPLE#
+
+SAMPLE TYPE
+
+METAL
+Antimony
+
+Barium
+
+Beryllium
+
+Bismuth
+
+Cadmium
+
+Chromium
+
+Cobalt
+
+Copper
+
+Lead
+
+Manganese
+
+Molybdenum
+
+Nickel
+
+Tin
+
+Vanadium
+
+Zinc
+
+Sanyo
+
+MI06080
+
+Sanyo
+MI06081
+
+TIJUANA
+Sanyo
+MI06082
+
+Sony
+MI06083
+
+Sony
+MI06083
+
+IBM Site
+MI06091
+
+IBM Site
+MI06092
+
+GUADALAJARA
+
+GW
+
+µg/l
+
+-
+
+183
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+963
+
+-
+
+41
+
+-
+
+-
+
+-
+
+GW
+
+µg/l
+
+-
+153
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+128
+
+-
+
+150
+
+-
+
+-
+
+17
+
+GW
+
+µg/l
+
+-
+221
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+1125
+
+-
+
+21
+
+-
+
+-
+
+32
+
+GW
+
+µg/l
+
+-
+59
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+GW
+
+µg/l
+
+-
+59
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+WW
+
+µg/l
+
+-
+53
+
+-
+
+-
+
+-
+
+-
+
+-
+
+15
+
+-
+
+50
+
+-
+
+31
+
+-
+
+-
+
+96
+
+WW
+
+µg/l
+
+-
+77
+
+-
+
+-
+
+-
+
+-
+
+-
+
+17
+
+-
+
+962
+
+-
+
+35
+
+-
+
+-
+
+119
+
+4.3.2 :: Discussion
+The majority of groundwater samples that were collected close to the
+assembly facilities in both Tijuana and Guadalajara did not show any
+significant level of contamination with VOCs, containing only THMs at
+trace levels. Just under half of the samples, 5 out of 13, did contain
+high levels of some metals, principally nickel and zinc.
+
+In Tijuana, water from one well (MI06081) adjacent to the Sanyo
+Video facility contained nickel at a level of concern as the water from
+this well is used for drinking. The concentration of nickel in this sample
+was 150 µg/l, the highest value among all groundwater samples from
+all sites in all countries considered in this study and more than two
+times higher than the WHO guideline value of 70 µg/l for nickel in
+drinking water. For comparison, concentrations of nickel in groundwater
+are normally less than 10 µg/l (ATSDR 2005b, WHO 2006).
+
+Three samples associated with the Flextronics IE contained high metal
+concentrations. One sample collected from a tap within the Flextronics
+IE contained a high copper level (226 µg/l), though this level of copper
+does not pose a risk to health. Elevated levels of nickel, both above the
+WHO guideline value, were also detected in two more groundwater
+samples collected close to the Flextronics IE (MI06086 & MI06087),
+both collected to the northeast of the estate (129 and 106 µg/l). The
+sample with the highest nickel level (MI06086) also contained zinc at
+a level (492 µg/l) almost ten times levels typically found in
+groundwater, which are generally below 50 µg/l (ATSDR 2005c). A
+similar level of zinc was also present in groundwater close to the
+Solectron facility (MI06089, 579 µg/l).
+
+Of these levels, the samples with elevated nickel levels are of greatest
+concern. Exposure to high concentrations of nickel can results in toxic
+effects, and some nickel compounds are carcinogenic (ATSDR 2005b,
+IARC 1990). More information on the uses and effects of nickel and
+zinc is given in Box C. Nickel and zinc, in water soluble forms, can be
+reasonably mobile in the environment and have the potential to leach
+into groundwater. It is not possible to pinpoint the exact sources of
+nickel and zinc to the groundwater samples that contain elevated levels,
+but their proximity to the assembly facilities suggest that releases from
+
+68
+
+The wastewater sample MI06091 also contained a phthalate ester,
+diethylhexyl phthalate (DEHP), one of the most frequently detected
+environmental pollutants (Peijnenburg & Struijs 2006) and for which
+toxic effects to reproductive development in mammals, have been
+confirmed (Swan et al. 2005). The main use of DEHP is as a
+plasticizer in various plastics including PVC. Plasticizers are not
+chemically bound to plastics and able to leach (Loff et al. 2000).
+Therefore, waste streams containing DEHP are frequently reported
+and, if discharged into natural watercourses with industrial or sewage
+effluents, may exert a deleterious impact on aquatic life (Forget-Leray
+et al. 2005). See more information on DEHP and other plasticizers in
+Box B.
+
+The second wastewater sample MI06092 was also collected within the
+IBM site but from a different open channel to that from which sample
+MI06091 was taken. It is unknown if this wastewater had been treated
+within the site. Two congeners of brominated flame-retardants PBDEs
+were detected in this sample. As was discussed in previous sections of
+the report (see 4.1.3 and Box A) PBDEs are toxic, persistent and
+bioaccumulative chemicals. Diphenyl ether, also reliably identified in
+this sample, is the parent molecule of PBDEs. It has various industrial
+uses such as a high boiling solvent to purify pharmaceuticals, as a
+starting material for the preparation of heat transfer fluid, speciality
+surfactants, and blowing agents.
+
+these facilities may be contributing to the elevated levels found.
+Additional sources cannot be discounted, however, including the use
+of plumbing materials that can contain copper, nickel of zinc, which
+are able to cause elevated drinking water levels (WHO 2006).
+It was not possible to ascertain whether such materials were
+present at these locations.
+
+The THMs detected in some groundwater samples from both Tijuana
+and Guadalajara sites are most certainly be due to the use of chlorine-
+based disinfectant materials. It was known from the local people that
+such materials are applied directly to some wells in the Guadalajara
+area investigated. The concentrations of THMs in all samples were
+below WHO guideline values.
+
+In addition to the groundwater samples, two wastewater samples
+(MI06091 & MI06092) were collected from one site in Guadalajara,
+Mexico where IBM was involved in the assembly of PCs and Thinkpad
+computers at the time of sampling. The levels of metals in these
+samples in general were not elevated, though they did contain several
+classes of organic compounds of environmental concern.
+
+Among the compounds reliably identified in the sample of treated
+wastewater MI06091 collected from an open channel within the IBM
+site was nonylphenoxyethanol, a member of a group of chemicals
+known as nonylphenol ethoxylates (NPEs). Also identified were a
+mixture of nonylphenol isomers, known degradation products of NPEs.
+NPs are persistent, bioaccumulative and toxic to aquatic life (OSPAR
+2001). Phenol, a parent compound, was also detected in this sample. It
+is difficult to specify the precise source of these chemicals in this
+treated wastewater sample as NPEs have been used in various
+industrial and consumer applications (OSPAR 2001), though their
+principle uses are as surfactants and emulsifiers. The use of
+nonylphenol derivatives as antioxidants in some plastics has also been
+reported (Guenther et al. 2002). Numerous studies (Jobling et al.
+1995, 1996, 2002, Thomas & Dong 2006, Razia et al. 2006) confirm
+that degradation products of NPEs, including nonylphenol, possess the
+ability to mimic natural hormones by interacting with the estrogen
+receptors. Toxic effects of nonylphenol to human health have also been
+reported (Chitra et al. 2002, Adeoya-Osiguwa et al. 2003, Harreus et
+al. 2002). More information on NPEs, NPs and related compounds is
+presented in Box G.
+
+69
+
+CUTTING EDGE CONTAMINATION
+
+BOX G :: SURFACTANTS AND RELATED
+COMPOUNDS
+Nonylphenol (NP) is a non-halogenated chemical, commonly found as
+an isomeric mixture, manufactured almost exclusively to produce
+nonylphenol ethoxylates (NPEs), a group of non-ionic surfactants.
+Once released to the environment, NPEs can degrade back to
+nonylphenol, which is persistent, bioaccumulative and toxic to aquatic
+life. NPEs have been used as surfactants, emulsifiers, dispersants
+and/or wetting agents in a variety of industrial and consumer
+applications (OSPAR 2001). Nonylphenol derivatives are reportedly
+also used as antioxidants in some plastics (Guenther et al.2002).
+
+As a result of their widespread use, nonylphenol and its derivatives
+have become widely distributed in fresh and marine waters,
+accumulating in particular in sediments. Research into levels in wildlife
+remains very limited, although there have been reports of significant
+levels in fish and aquatic birds downstream from sites of manufacture
+and/or use of NPEs. Nonylphenol is known to accumulate in the
+tissues of fish and other organisms, and to biomagnify through the food
+chain (OSPAR 2001). Nonylphenol residues have recently been
+reported in house dust and indoor air (Butte and Heinzow 2002, Rudel
+et al.2003, Saito et al.2004), possibly relating to use in consumer
+products. NP has also been detected in samples of human umbilical
+cord blood (Tan and Mohd 2003).
+
+The main hazards associated with NPEs result from their partial
+degradation to shorter-chain ethoxylates and to the parent
+nonylphenol, both of which are toxic to aquatic organisms and to
+higher organisms through secondary poisoning (i.e. resulting from the
+accumulation through the food chain).The most widely recognised
+effects are undoubtedly oestrogenic activity, i.e. the ability of
+nonyphenol to mimic natural oestrogen hormones, leading to altered
+sexual development in some organisms, most notably the feminisation
+of fish (Jobling et al.1995, 1996, 2002). Hazards to human health
+remain unclear, although recent studies have highlighted concerns
+directly relevant to humans. For example, Chitra et al.(2002) and
+Adeoya-Osiguwa et al.(2003) describe effects on mammalian sperm
+function, while DNA damage in human lymphocytes has also recently
+been documented (Harreus et al.2002).
+
+Nonylphenol has been included as a “priority hazardous substance”
+under the EU Water Framework Directive, such that action to prevent
+releases to water within 20 years will be required throughout Europe
+(EU 2001). It is still included into Annex 2 List of Chemicals for
+Priority Action of the OSPAR Strategy with regard to Hazardous
+Substances (OSPAR 2006). Moreover, according to Directive
+2003/53/EC, as of January 2005 products containing greater than
+0.1% NP or NPEs may no longer be placed on the market within
+Europe, with some minor exceptions principally for “closed-loop”
+industrial systems (EU 2003b).
+
+Additionally, both wastewater samples contained trace amounts
+of chloroform and 1,4-dichlorobenzene. It is unknown if these
+wastewaters originally contained any other volatile organic compounds
+(VOCs) as they flow through the open channels within the site and any
+VOCs, if present, might quickly evaporate.
+
+In general, the wastewater from a channel originating from the IBM
+Site in Guadalajara is a source of contamination by persistent organic
+compounds such as PBDEs, nonylphenols (NPs), and phthalates which
+could be linked to the electronics manufacture at this site. This would
+appear to contradict the ‘Supplier Conduct Principles Guidelines’ of
+IBM that states that suppliers should operate in a manner that is
+protective of the environment. (IBM 2004). Though groundwater
+samples collected around the Tijuana and Guadalajara sites did not
+show any significant contamination by organic compounds that could be
+linked to the assembly of PCs and other electronic devices, high
+concentrations of some metals (principally nickel and zinc) in
+groundwater sources close to a number of facilities suggest that
+their activities may be impacting groundwater aquifers. For those
+groundwater sources that contain levels of nickel above acceptable safe
+drinking water levels, the consumption of the water from these wells for
+drinking purposes should be discontinued.
+
+E
+C
+A
+E
+P
+N
+E
+E
+R
+G
+©
+
+A farmer sitting by the well from
+which the local communities pump
+water for their homes. Their homes
+are near the Compeq Factory, one of
+the electronics facilities in the
+Guangdong Province, China.
+October 2006.
+
+71
+
+CUTTING EDGE CONTAMINATION
+
+5 :: Conclusions
+
+Although this study is not an exhaustive investigation into
+environmental impacts resulting from the manufacture of
+computers and their peripheral equipment (and was not intended
+to be), the results nonetheless highlight releases of hazardous chemicals
+within each of the three sectors investigated; printed wiring board
+(PWB) manufacture, semiconductor chip manufacture and
+component assembly.
+
+For many of the locations investigated this study demonstrates
+discharges to and/or contamination of the immediate environments
+around manufacturing facilities with a range of hazardous chemicals
+used to form the product or in the manufacturing processes employed.
+Within each sector, some similar patterns of contamination were seen
+at the sites of different facilities. It was not possible to collect samples
+from all waste streams generated by each facility and therefore
+additional chemical releases to the environment may be occurring
+undetected, either intentionally or as fugitive releases. Further
+research would be necessary to identify and quantify the full
+environmental impact of each sector, with the full cooperation of
+the manufacturing facilities.
+
+Where wastewaters and associated samples could be collected, from
+PWB manufacturers and one assembly site, analysis showed a wide
+range of chemicals being discharged, many with known toxic
+characteristics and some of which are environmentally persistent.
+For some of the chemicals identified, such as the photoinitiators-related
+chemicals used in PWB manufacture, very little information is
+available on their possible impacts on human health and the
+environment, presumably largely as a result of rapidly changing
+manufacturing processes and the chemicals employed. Furthermore, a
+large proportion of the compounds isolated from these samples simply
+could not be identified and therefore their properties and potential
+impacts remain unknown. It was not possible to collect samples of
+wastewaters from the semiconductor facilities and therefore no
+conclusions can be drawn on potential impacts from such wastestreams
+from the facilities at the sites investigated. However, contamination of
+groundwater aquifers with toxic chlorinated chemicals, many of
+which have known uses as industrial solvents, was detected at some
+of the sites.
+
+72
+
+Some chemicals incorporated into electrical and electronic devices
+during manufacture were common to samples collected from many
+sites. Most noteworthy were PBDEs, a group of brominated chemicals
+widely used as flame retardants, and phthalate esters (phthalates),
+chemicals used in a wide range processes and materials though most
+commonly as plasticisers (softeners) in plastics. These two chemical
+groups both contain chemicals that are known to be toxic, and some
+are also persistent in the environment; certain PBDEs are also known
+to bioaccumulate (build up in animals and humans). PBDEs were
+particularly widespread, being present in wastewaters and other
+samples from the majority of sites investigated. Discharged wastewater
+from one PWB manufacturing facility (EETH, Thailand) also contained
+chlorinated VOCs, a group of chemicals widely used as solvents and
+more commonly reported as contaminants in groundwater samples
+collected near semiconductor chip manufacturing facilities.
+
+Wastewaters from PWB facilities also commonly contained high levels
+of metals, particularly copper, nickel and zinc. Soluble copper
+compounds are widely used in PWB manufacture, particularly where
+the electroless copper process is used. From information available at
+the time of writing, this still appears to be the case at the EETH
+facility in Thailand, where the highest concentrations of copper in all
+sampled wastewaters was found, exceeding the maximum allowed level
+for industrial effluents in Thailand. The presence of soluble copper in
+wastewaters can have serious environmental impacts, as many aquatic
+organisms are highly sensitive to soluble copper even at very low doses.
+High levels were also found in wastewaters discharged to waterways
+from both facilities in China.
+
+Where wastewaters undergo treatment prior to discharge to the wider
+environment, the processes typically employed are simply unable to deal
+with many of the hazardous chemicals identified in the wastewaters,
+such as the persistent brominated flame-retardants and toxic metals.
+At best these treatment processes simply scavenge such chemicals from
+wastewaters only to generate an additional contaminated wastestream
+in the form of sludges, as this study has demonstrated for some PWB
+manufacturers where it was possible to collect samples throughout
+wastewater disposal networks.
+
+Wastewater discharged from the IBM site in Guadalajara, Mexico
+contained other hazardous compounds not found at other sites. Of
+particular concern is the presence of a nonylphenol ethoxylate (NPE)
+and a range nonylphenols (NPs), degradation products NPE. NPs are
+persistent, bioaccumulative and toxic chemicals that are commonly
+used as surfactants. These chemicals are prohibited from marketing
+and use throughout Europe because of the health and environmental
+concerns they present.
+
+Contamination of groundwater aquifers with toxic chlorinated
+volatile organic chemicals (VOCs) and toxic metals including nickel
+was identified at a number of sites, particularly in the vicinity of
+semiconductor manufacturers. Contamination of groundwater is of
+particular concern as in many places local communities use this
+resource for drinking water. At one Industrial Estate in the Philippines
+(CEPZA IE) housing a number of semiconductor chips manufacturing
+facilities, safe drinking water levels set by the WHO and/or USEPA
+levels were exceeded for chlorinated VOCs, a group of chemicals some
+of which have been reported to be used as solvents in the manufacture
+of semiconductor chips. One sample from this site contained three
+VOCs at levels above one or more of these limits, with
+tetrachloroethene at a level 9 times the WHO guidance value and 70
+times the USEPA maximum contaminant level. The limited scope of this
+study inevitably means that hotspots of higher contamination levels,
+such as may exist in regions of aquifers directly beneath storage tanks
+or other industrial facilities, may have gone undetected.
+
+High levels of metals, particularly copper, nickel and zinc were also
+found in some groundwaters. At two sites, one involved in PWB
+manufacture (Hi-Tech, Thailand) and one in component assembly
+(Sanyo Video, Mexico), levels of nickel were above the WHO drinking
+water guideline value, and that from Thailand exceeded the Thai
+groundwater quality level.
+
+Although it is not possible to pinpoint the exact source or sources of
+the contaminants found in groundwater in the vicinity of these facilities,
+it seem likely that the use of these chemicals in the manufacturing
+processes is contributing to chemical inputs to the aquifers either by
+intentional or fugitive releases.
+
+The data from this study provide a compelling case for the substitution
+of hazardous chemicals in the products manufactured and the
+processes used by the sectors investigated, either by direct replacement
+with non-hazardous alternatives or through the altering the processes
+to eliminate the need for such chemicals.
+
+E
+C
+A
+E
+P
+N
+E
+E
+R
+G
+©
+
+Agricultural fields near
+electronics factories in the
+Guangdong Province,
+China. October 2006.
+
+73
+
+CUTTING EDGE CONTAMINATION
+
+6 :: References
+
+Adachi, Y., Takashima, K., Ushio, A. & Matsui, S. (2005) Method of coating a plastic
+molding, ultraviolet-curable under coating for metal evaporation, and plastic moldings.
+United States Patent 6916508. http://www.freepatentsonline.com/6916508.html
+
+Adeoya-Osiguwa, S.A., Markoulaki, S., Pocock,V., Milligan, S.R. & Fraser, L.R. (2003) 17-
+beta-estradiol and environmental estrogens significantly effect mammalian sperm function.
+Human Reproduction 18(1): 100-107
+
+Alaee, M., Arias, P., Sjödin, A & Bergman, A. (2003). An overview of commercially used
+brominated flame retardants, their applications, their use patterns in different
+countries/regions and possibly modes of release. Environment International 29 (6):
+
+Allchin, C. & Morris, S. (2002) The determination and occurrence of three groups of
+brominated flame retardants (polybrominated diphenyl ethers, tetrabromobisphenol A and
+hexabromocyclododecane) in samples of aquatic origin from the UK. In: Readman,
+J.;Worsfold, P., eds. Proceedings of ISEAC 32, International Symposium on the
+Environment and Analytical Chemistry, Plymouth, 17-20 June 2002: 15
+
+Allen, N. S., Edge, M., Catalina, F., Corrales, T., Blanco-Pina, M. & rthur Green, A. (1997)
+Photochemistry and photocuring activities of novel substituted 4?-(4-methylphenylthio)
+benzophenones as photoinitiators. Journal of Photochemistry and Photobiology A:
+Chemistry 110(2): 183-190
+
+Allen, N. S., Lam E., Kotecha J. L.,. Green, W. A, Timms, A., Navaratnam, S. & Parsons, B.
+J. (1990) Photochemistry of novel 4-alkylamino benzophenone initiators: a conventional
+laser flash photolysis and mass spectrometry study. Journal of Photochemistry and
+Photobiology A: Chemistry 54(3): 367-388
+
+ATSDR (2005c) Toxicological profile for zinc. Agency for Toxic Substances and Disease
+Registry, US Public Health Service, http://www.atsdr.cdc.gov/toxprofiles/tp60-c6.pdf
+
+ATSDR (2005d) Toxicological profile for tin. Agency for Toxic Substances and Disease
+Registry, US Public Health Service, http://www.atsdr.cdc.gov/toxprofiles/tp60-c6.pdf
+
+Birnbaum, L.S. & Staskal, D.F. (2004). Brominated flame retardants: cause for concern?
+Environmental Health Perspectives 112 (1): 9-17
+
+Blount, B.C., Silva, M.J., Caudill, S.P., Needham, L.L., Pirkle, J.L., Sampson, E.J., Lucier,
+G.W., Jackson, R.J. & Brock, J.W. (2000) Levels of seven urinary phthalate metabolites in
+a human reference population. Environmental Health Perspectives 108(10): 979-982
+
+Boorman, G.A. (1999) Drinking water disinfection byproducts: review and approach to
+toxicity evaluation. Environmental Health Perspectives 107(Suppl 1):207 –217
+
+Branchi I., Capone F., Alleva E. & Costa L.G. (2003). Polybrominated Diphenyl ethers:
+neurobehavioural effects following developmental exposure. NeuroToxicology 24 (3): 449-
+462
+
+Brigden, K., Labunska, I., Santillo, D. & Allsopp, M. (2005)  Recycling of electronic wastes
+in China and India: workplace and environmental contamination. Greenpeace Research
+Laboratories Technical Note 09/2005; www.greenpeace.to/publications
+
+Brigden, K. & Santillo, D. (2006)  Determining the presence of hazardous substances in five
+brands of laptop computers. Greenpeace Research Laboratories Technical Note 05/2006;
+www.greenpeace.to/publications
+
+Allen, N. S., Chen, W., Catalina, F., Green, P. N. & Green, A. (1988) Photochemistry of
+novel water-soluble para-substituted benzophenone photoinitiators: A polymerization,
+spectroscopic and flash photolysis study. Journal of Photochemistry and Photobiology A:
+Chemistry 44(3): 349-360
+
+Brigden, K., Santillo, D., Labunska, I. & Johnston, P. (2006)  The toxic legacy: “e-waste”
+recycling in China and India. Public Service Review: International Development 1: 84-86
+
+Brumfiel, G. (2004) Semiconductor industry: Chipping in. Nature 431(7009): 622-623
+
+Amini, N. and Crescenzi, C. (2003) Feasibility of an on-line restricted access material/liquid
+chromatography/tandem mass spectrometry method in the rapid and sensitive determination
+of organophosphorus triesters in human blood plasma. Journal of Chromatography B
+795(2): 245-256
+
+Anderson, D.G., Davidson, R.S. & Elvery, J.J (1996)  Thioxanthones: their fate when used
+as photoinitiators. Polymer 37(12): 2477-2484
+
+Asha, S.K., Thirumal, M., Kavitha, A. & Pillai, C.K.S. (2005)  Synthesis and curing studies
+of PPG based telechelic urethane methacrylic macromonomers. European Polymer Journal
+41(1): 23-33
+
+Asplund, L., Athanasiadou, M., Sjödin, A., Bergman, Å. & Borjeson, H. (1999b)
+Organohalogen substances in muscle, egg and blood from healthy Baltic salmon (Salmo
+salar) and Baltic salmon that produced offspring with the M74 syndrome. Ambio 28(1):
+67-76
+
+Bryan, G.W. and Langston, W.J. (1992). Bioavailability, accumulation and effects of heavy
+metals in sediments with special reference to United Kingdom estuaries: a review.
+Environmental Pollution 76: 89-131
+
+Budavari, S.M., O’Neil, J., Smith A. and Heckleman P.E. [Eds] (1986) The Merck index: an
+encyclopaedia of chemicals, drugs and biologicals. 11th Edn Merck and Co, Inc., New
+Jersey, USA
+
+Butte, W. & Heinzow, B. (2002) Pollutants in house dust as indicators of indoor
+contamination. Reviews in Environmental Contamination and Toxicology 175: 1-46
+
+Cantor, K.P. (1997) Drinking water and cancer. Cancer Cause Control 8(3):292 –308
+
+Carlsson, H., Nilsson, U. and Östman, C. (2000) Video display units: an emission source of
+the contact allergenic flame retardant triphenyl phosphate in the indoor environment.
+Environmental Science and Technology 34(18): 3885-3889
+
+Asplund, L., Hornung, M., Peterson, R.E,Turesson, K. & Bergman, Å. (1999a) Levels of
+polybrominated diphenyl ethers (PBDEs) in fish from the Great Lakes and Baltic Sea.
+Organohalogen Compounds 40:351-354
+
+Carlsson, H., Nilsson, U., Becker, G. and Östman, C. (1997) Organophosphate ester flame
+retardants and plasticizers in the indoor environment: Analytical methodology and
+occurrence. Environmental Science & Technology 31(10): 2931-2936
+
+ATSDR (2003) Toxicological profile for tin, United States Public Health Service, Agency
+for Toxic Substances and Disease Registry
+
+ATSDR (2004) Toxicological profile for copper. Agency for Toxic Substances and Disease
+Registry, US Public Health Service, http://www.atsdr.cdc.gov/toxprofiles/tp132-c6.pdf
+
+CEC (2006)  Proposal for a Directive of the European Parliament and of the Council on
+environmental quality standards in the field of water policy and amending Directive
+2000/60/EC, COM(2006) 397 final, Presented by the Commission of the European
+Communities, Brussels, 17.7.2006: 25 pp. http://eur-
+lex.europa.eu/LexUriServ/LexUriServ.do?uri=COM:2006:0397:FIN:EN:PDF
+
+ATSDR (2005a) Toxicological profile for bromoform and chlorodibromomethanne. Agency
+for Toxic Substances and Disease Registry, US Public Health Service,
+http://www.atsdr.cdc.gov/toxprofiles/tp130.html
+
+ATSDR (2005b) Toxicological profile for nickel. Agency for Toxic Substances and Disease
+Registry, US Public Health Service, http://www.atsdr.cdc.gov/toxprofiles/tp15-c6.pdf
+
+Chang, L-Y. (1995) A waste minimization study of a chelated copper complex in
+wastewater – treatability and process analysis. Waste Management 15:209-220
+
+Chein, H.M. & Chen, T.M. (2003) Emission characteristics of volatile organic compounds
+from semiconductor manufacturing. Journal of the Air and Waste Management Association
+53:1029-1036
+
+74
+
+Chen, P-C., Hsieh, G-Y., Wang, J-D. & Cheng, T-J. (2002) Prolonged time to pregnancy in
+female workers exposed to ethylene glycol ethers in semiconductor manufacturing.
+Epidemiology 13(2):191-196
+
+Chitra, K.C., Latchoumycandane, C. & Mathur, P.P. (2002) Effect of nonylphenol on the
+antioxidant system in epididymal sperm of rats. Archives of Toxicology 76(9): 545-551
+
+Cho, J.-D., Kim, H.-K., Kim, Y.-S., Hong, J.-W. (2003) Dual curing of cationic UV-curable
+clear and pigmented coating systems photosensitized by thioxanthone and anthracene.
+Polymer Testing 22(6): 633-645
+
+CKL (2007) Capabilities, Product & Special Processes, CKL Electronics website;
+www.cklpcb.com/
+
+Clapp, R.W. (2006) Mortality among US employees of a large computer manufacturing
+company: 1969–2001. Environmental Health: A Global Access Science Source  5: 30-40
+
+Cobbing, M. (2006) Cleaning up our chemical homes; changing the market to supply toxic-
+free products. Greenpeace International;
+www..greenpeace.org/raw/content/international/press/reports/chemical-home-company-
+progress.pdf
+
+Colon, I., Caro, D., Bourdony, C.J. & Rosario, O. (2000) Identification of phthalate esters in
+the serum of young Puerto Rican girls with premature breast development. Environmental
+Health Perspectives 108(9): 895-900
+
+Corrales, T., Catalina, F. , Peinado, C. &Allen, N.S. (2003) Free radical
+macrophotoinitiators: an overview on recent advances. Journal of Photochemistry and
+Photobiology A: Chemistry 159:103–114
+
+CSTEE (2001) EC Scientific Committee on Toxicity, Ecotoxicity and the Environment,
+Opinion on the results of the Risk Assessment of: 1,2-Benzenedicarboxylic acid, di-C8-10-
+branched alkyl esters, C9-rich and di-”isononyl” phthalate - Report version (Human Health
+Effects): Final report, May 2001. Opinion expressed at the 27th CSTEE plenary meeting,
+Brussels, 30 October 2001: 7 pp. http://europa.eu.int/comm/food/fs/sc/sct/out120_en.pdf
+
+Dalgaard, M., Nellemann, C., Lam, H.R., Sorensen, I.K. & Ladefoged, O. (2001) The acute
+effects of mono(2-ethylhexyl)phthalate (MEHP) on testes of prepubertal Wistar
+rats.Toxicology Letters 122: 69-79
+
+Darnerud, P.O. (2003). Toxic effects of brominated flame retardants in man and in wildlife.
+Environment International 29 (6): 841-853
+
+de Boer, J.,Wester, P.G., Klamer, H.J.C., Lewis, W.E. & Boon, J.P. (1998) Do flame
+retardants threaten ocean life? Nature 394 (2 July): 28-29
+
+DEFRA (2006). Update on ongoing work on individual chemicals: Vinylneodecanoate,
+HBCD, TBBPA, HMDS. UK Chemicals Stakeholder Forum, 25th Meeting, 11 July 2006;
+www.defra.gov.uk/environment/chemicals/csf/060711/pdf/csf0631.pdf
+
+DHHS (2005) Nickel compounds and metallic nickel, 11th Report on Carcinogens, U.S.
+Department of Health and Human Services. www.ehp.niehs.nih.gov/roc/Dudareva, N.,
+Murfitt, L. M., Mann, C. J. , Gorenstein, N., Kolosova, N., Kish, C. M., Bonham, C., and
+Wood K. (2000) Developmental Regulation of Methyl Benzoate Biosynthesis and Emission
+in Snapdragon Flowers. Plant Cell 12: 949-961
+
+Dietrich, J.M. (2004) Life cycle process management for environmentally sound and cost
+effective semiconductor manufacturing. IEEE International Symposium on Electronics and
+the Environment 2004 Conference Record. ISSN: 1095-2020
+
+EC (2003) Directive 2002/95/EC of the European Parliament and the Council, 27 January
+2003, on the restriction of the use of certain hazardous substances in electrical and
+electronic equipment. Official Journal L037, 13/02/2003: 19-23
+
+EC (2005) Commission Directive 05/747/EC of 21 October 2005 amending Directive
+2002/95/EC of 27 January 2003 on the restriction of the use of certain hazardous
+substances in electrical and electronic equipment
+
+EC (2005)  Directive 2005/84/EC of the European Parliament and of the Council of 14
+December 2005 amending for the 22nd time Council Directive 76/769/EEC on the
+approximation of the laws, regulations and administrative provisions of the Member States
+relating to restrictions on the marketing and use of certain dangerous substances and
+preparations (phthalates in toys and childcare articles). Official Journal of the European
+Communities L344, 27.12.2005: 40-43 http://eur-
+lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:344:0040:0043:EN:PDF
+
+EC (2006) 2,2’,6,6’-Tetrabromo-4,4’-isopropylidene diphenol (tetrabromobisphenol-a or
+TBBP-A). Part II – Human Health. Summary Risk Assessment Report. © European
+Communities, 2006. http://ecb.jrc.it/documents/existing-
+chemicals/risk_assessment/summary/tbbpahhsum402.pdf
+
+EEC (1976) Council Directive 76/769/EEC of 27 July 1976 on the approximation of laws,
+regulations and administrative provisions of the Member States relating to restrictions on
+the marketing and use of certain dangerous substances and preparations. OJ L 262: 201-
+203
+
+EEC (1979) Council Directive 80/68/EEC of 17 December 1979 on the protection of
+groundwater against pollution caused by certain dangerous substances. OJ L 020: 43-48
+
+EEC (1991) Council Directive 91/692/EEC of 23 December 1991 standardizing and
+rationalizing reports on the implementation of certain Directives relating to the
+environment. OJ L 377: 48-54
+
+EEC (1996) Commission Directive 96/55/EEC of 4 September 1996 adapting to technical
+progress for the 2nd time Annex I to Council directive 76/769/EEC of 27 July 1976 on the
+approximation of lows, regulations and administrative provisions of the Member States
+relating to restrictions on the marketing and use of certain dangerous substances and
+preparations (chlorinated solvents). OJ L 231: 20-21
+
+EETH (2006)  PCB Fabrication, Slide 6. Elec & Eltek International Holdings Limited
+website; www.eleceltek.com/jsp/eeic/eeic_fabrication.jsp
+
+Ema, M. & Miyawaki, E. (2002) Effects on development of the reproductive system in male
+offspring of rats given butyl benzyl phthalate during late pregnancy. Reproductive Toxicology
+16: 71-76
+
+Eriksson, P., Viberg, H., Jakobsson, E., Orn, U., Fredriksson, A. (2002) A brominated flame
+retardant, 2,2 ‘,4,4 ‘,5-pentabromodiphenyl ether: Uptake, retention, and induction of
+neurobehavioral alterations in mice during a critical phase of neonatal brain
+development.Toxicological Sciences 67(1): 98-103
+
+Eriksson, P.,Viberg, H., Ankarberg, E., Jakobsson, E., Örn, U. & Fredriksson, A. (2001)
+Polybrominated diphenylethers (PBDEs): a novel class of environmental neurotoxicants in
+our environment. In: Asplund, L.; Bergman, Å.; de Wit, C., et al. eds. Proceedings of the
+Second International Workshop on Brominated Flame Retardants, BFR 2001, Stockholm,
+May 14-16 2001: 71-73
+
+ERTC (2001) Contamination of Chlorinated Ethylene in Soil and Groundwater and a Case
+Study in Thailand. Environmental Research and Training Center (ERTC), Department of
+Environmental Quality Promotion, Government of Thailand;
+www.ertc.deqp.go.th/other/ertcwt441.asp
+
+EU (2001) Decision No 2455/2001/EC of the European Parliament and of the Council of
+20 November 2001 establishing the list of priority substances in the field of water policy
+and amending Directive 2000/60/EC, Official Journal L 249, 17/09/2002: 27-30
+
+EU (2002a) Directive 2002/95/EC of the European Parliament and of the Council of 27
+January 2003 on the restriction of the use of certain hazardous substances in electrical and
+electronic equipment. Official Journal L 037, 13/02/2003: 19-23
+
+EU (2002b) Directive 2002/96/EC of the European Parliament and of the Council of 27
+January 2003 on waste electrical and electronic equipment (WEEE) – Joint declaration of
+the European Parliament, the Council and the Commission relating to Article 9. Official
+Journal L 037, 13/02/2003: 24–39
+
+75
+
+CUTTING EDGE CONTAMINATION
+
+EU (2003b) Directive 2003/53/EC of the European Parliament and of the Council Of 18
+June 2003 Amending For The 26th Time Council Directive 76/769/EEC Relating To
+restrictions on the marketing and use of certain dangerous substances and preparations
+(nonylphenol, nonylphenol ethoxylate and cement).
+http://europa.eu.int/eurlex/pri/en/oj/dat/2003/l_178/l_17820030717en00240027.pdf
+
+EU (2004) Commission Decision 2004/781/EC amending Decision 1999/815/EC
+concerning measures prohibiting the placing on the market of toys and childcare articles
+intended to be placed in the mouth by children under three years of age made of soft PVC
+containing certain phthalates. Official Journal L 344, 20.11.2004:35-36
+
+Eustis, S., Krylova, G., Smirnova, N., Eremenko, A., Tabor ,C., Huang, W.Y., El-Sayed, M.A.
+(2006) Using silica films and powders modified with benzophenone to photoreduce silver
+nanoparticles Journal of Photochemistry and Photobiology A-Chemistry 181 (2-3): 385-
+393
+
+Honkakoski, P., Palvimo, J.J., Penttila, L.,Vepsalainen, J. and Auriola, S. (2004) Effects of
+triaryl phosphate’s on mouse and human nuclear receptors. Biochemical Pharmacology
+67(1): 97-106
+
+Hsieh, G-Y., Wang, J-D., Cheng, T-J. & Chen P-C. (2005) Prolonged menstrual cycles in
+female workers exposed to ethylene glycol ethers in the semiconductor manufacturing
+industry. Occupational and Environmental Medicine 62:510-516
+
+Hui, I.K., Li, C.P. & Lau, H.C.W. (2003) Hierarchical environmental impact evaluation of a
+process in printed circuit board manufacturing. International journal of production
+research. 41:1149-1165
+
+IARC (1999) Some Chemicals that Cause Tumours of the Kidney or Urinary Bladder in
+Rodents, and Some Other Substances. IARC Monographs on the Evaluation of Carcinogenic
+Risks to Humans. ISBN 92 832 1273 8, Vol. 73, 674 pages
+
+Forget-Leray, J., Landriau, I., Minier, Ch. & Leboulenger, F. (2005) Impact of endocrine
+toxicants on survival, development, and reproduction of the estuarine copepod Eurytemora
+affinis (Poppe). Ecotoxicology and Environmental Safety 60(3):288-294
+
+IARC (1990) Nickel and certain nickel compounds. In: International Agency for Research
+on Cancer (IARC) monographs on the evaluation of the carcinogenic risk of chemicals to
+humans. Volume 49; Chromium, Nickel and Welding. ISBN 9283212495
+
+Fowler, B., LaDou, J., Osorio, A.M., Paul, M., Swan, S.H., & Teitelbaum, D.T. (1999)
+Spontaneous abortion in the British semiconductor industry (letter). American Journal of
+Industrial Medicine. 36: 584-5.
+
+Fries, E. & Puttmann, W. (2003) Monitoring of the three organophosphate esters TBP,
+TCEP and TBEP in river water and ground water (Oder, Germany). Journal of
+Environmental  Monitoring  5:346 – 352
+
+Fromme H., Lahrz T., Piloty M., Gebhart H., Oddoy A. & Rüden H. (2004) Occurrence of
+phthalates and musk fragrances in indoor air and dust from apartments and kindergartens
+in Berlin (Germany). Indoor Air 14 (3): 188-195
+
+Fukuda, N., Ito, Y., Yamaguchi, M., Mitumori, K., Koizumi, M.,. Hasegawa, R., Kamata, E.
+and Ema, M. (2004) Unexpected nephrotoxicity induced by tetrabromobisphenol A in
+newborn rats. Toxicol. Let. 21:145–155
+
+Gerhardt, A. (1993) Review of impact of heavy-metals on stream invertebrates with special
+emphasis on acid conditions. Water air and soil pollution, 66(3-4): 289-314
+
+IBM (2004) Supplier Conduct Principles: Guidelines. Provision 9 Protection of the
+Environment. IBM Corporation USA; www-
+03.ibm.com/procurement/proweb.nsf/objectdocswebview/fileibm+supplier+
+conduct+principles+-+guidelines/$file/scpg-v2.0.pdf
+
+Ikonomou, M.G., Rayne, S. & Addison, R.F. (2002) Exponential increases of the brominated
+flame retardants, polybrominated diphenyl ethers, in the Canadian Arctic from 1981 to
+2000. Environmental Science and Technology 36(9): 1886-1892
+
+IPCS (1991) Triphenyl Phosphate, Environmental Health Criteria 111, International
+Programme on Chemical Safety. UNEP/ILO/WHO, ISBN 92 4 157111 X IPCS (1998)
+Polybrominated dibenzo-p-dioxins and dibenzofurans, Environmental Health Criteria, No.
+205, International Programme on Chemical Safety, UNEP/ILO/WHO, ISBN 92 4 157205
+1: 303 pp.
+
+Jiang, X., Wang, W., Xu, H. & Yin, J. (2006) Water-compatible dendritic
+macrophotoinitiator containing thioxanthone. Journal of Photochemistry and Photobiology
+A: Chemistry 181(2-3): 233-237
+
+Goyer, R.A. (1996) Toxic effects of metals. In Casarett & Doull’s Toxicology. The Basic
+Science of Poisons, Fifth Edition, Klaassen, C.D. [Ed]. McGraw-Hill Health Professions
+Division, ISBN 0071054766
+
+Jobling, S., Coey, S.,Whitmore, J.G., Kime, D.E., van Look, K.J.W., McAllister, B.G.,
+Beresford, N., Henshaw, A.C., Brighty, G.,Tyler, C.R. & Sumpter, J.P. (2002) Wild intersex
+roach (Rutilus rutilus) have reduced fertility. Biology of Reproduction 67(2): 515-524
+
+Graves, C.G., Matanoski, G.M., (2001) Weight of evidence for an association between
+adverse reproductive and developmental effects and exposure to disinfection by-products: a
+critical review. Regulatory Toxicology and Pharmacology 34(2): 103–124
+
+Jobling, S., Reynolds,T.,White, R., Parker, M.G. & Sumpter, J.P. (1995) A variety of
+environmentally persistent chemicals, including some phthalate plasticizers, are weakly
+estrogenic. Environmental Health Perspectives 103(6): 582-587
+
+Guenther, K., Heinke,V.,Thiele, B., Kleist, E., Prast, H. & Raecker,T. (2002) Endocrine
+disrupting nonylphenols are ubiquitous in food. Environmental Science and Technology
+36(8): 1676-1680
+
+Jobling, S., Sheahan, D., Osborne, J.A., Matthiessen, P. & Sumpter, J.P. (1996) Inhibition of
+testicular growth in rainbow trout (Oncorhynchus mykiss) exposed to estrogenic
+alkylphenolic chemicals. Environmental Toxicology and Chemistry 15(2):194-202
+
+Harrad, S.,Wijesekera, R., Hunter, S., Halliwell, C. & Baker R. (2004). Preliminary
+assessment of UK human dietary and inhalation exposure to polybrominated dipehyl ethers.
+Environmental Science and Technology 38 (8): 2345-2350
+
+Harreus, U.A.,Wallner, B.C., Kastenbauer, E.R. & Kleinsasser, N.H. (2002) Genotoxicity and
+cytotoxicity of 4-nonylphenol ethoxylate on lymphocytes as assessed by the COMET assay.
+International Journal of Environmental Analytical Chemistry 82(6): 395-401
+
+Hartmann, P.C., Burgi, D. &  Giger, W. (2004)  Organophosphate flame retardants and
+plasticizers in indoor air. Chemosphere 57(8):781-787
+
+Hites, R.A. (2004). Polybrominated Diphenyl ethers in the environment and in people: A
+meta-analysis of concentrations. Environment, Science and Technology 38 (4): 945-956
+
+Jonsson, O.B., Dyremark, E. and Nilsson, U.L. (2001) Development of a microporous
+membrane liquid-liquid extractor for organophosphate esters in human blood plasma:
+identification of triphenyl phosphate and octyl diphenyl phosphate in donor plasma. Journal
+of Chromatography B 755(1-2): 157-164
+
+Kawamura, Y., Ogawa, Y., Nishimura, T., Kikuchi, Y., Nishikawa, J., Nishihara, T., Tanamoto,
+K. (2003) Estrogenic activities of UV stabilizers used in food contact plastics and
+benzophenone derivatives tested by the yeast two-hybrid assay. Journal of Health Science 49
+(3): 205-212
+
+KCE (2007) Current Technology Capability and Future Development. KCE Electronics
+Public Co. website; www.kce-hq.com/kce/hom_capupdate.htm
+
+76
+
+Koivusalo, M., & Vartiainen, T. (1997) Drinking water chlorination byproducts and cancer.
+Reviews Environmental Health 12:81–90
+
+Meerts, I.A.T.M., Marsh, G., van Leeuwen-Bol, I., Luijks, E.A.C., Jakobsson, E., Bergman,
+Å. & Brouwer, A. (1998)  Interaction of polybrominated diphenyl ether metabolites (PBDE-
+OH) with human transthyretin in vitro. Organohalogen Compounds 37: 309-312
+
+LaDou, J. (2006) Printed circuit board industry. International Journal of Hygiene and
+Environmental Health 209: 211–219
+
+Lassen, C., Lokke, S. & Hansen, L.I. (1999) Brominated Flame Retardants: substance flow
+analysis and substitution feasibility study. Danish Environmental Protection Agency
+Environmental Project No. 494, Copenhagen, ISBN 87-7909-415-5: 240 pp.
+
+Lau, J.H., Wong, C.P., Lee, N.C. & Ricky Lee, S.W. (2003) Electronics Manufacturing with
+Lead-Free, Halogen-Free & Conductive-Adhesive materials. McGraw-Hill ISBN:0-07-
+138624-6
+
+Legler, J. & Brouwer, A. (2003). Are brominated flame retardants endocrine disruptors?
+Environmental International 29 (6): 879-885
+
+Leonards, P.E.G., Santillo, D., Brigden, K., van der Ween, I., Hesselingen, J.v., de Boer, J. &
+Johnston, P. (2001)  Brominated flame retardants in office dust samples. In: Asplund, L.;
+Bergman, Å.; de Wit, C., et al. eds. Proceedings of the Second International Workshop on
+Brominated Flame Retardants, BFR 2001, Stockholm, May 14-16 2001: 299-302
+
+Lewis, R.J. (2004) Sax’s dangerous properties of industrial materials. 11th Edition. ISBN
+0 471 47662 5. Publ. John Willey & Sons, Inc. Vol.2, 1891pp.
+
+Liao, Ch-S., Yen, J-H., Wang, Y-Sh. (2006) Effects of endocrine disruptor di-n-butyl
+phthalate on the growth of Bok choy (Brassica rapa subsp. chinensis). Chemosphere 65
+(2006) 1715–1722
+
+Lindstrom, G., van Bavel, B., Hardell, L. & Liljegren, G. (1997) Identification of the flame
+retardants polybrominated diphenyl ethers in adipose tissue from patients with non-
+Hodgkin’s lymphoma in Sweden. Oncology Reports 4(5): 999-1000
+
+Liu, V.A. & Bhatia, S.N. (2002) Three-dimensional photopatterning of hydrogels containing
+living cells. Biomedical Microdevices 4(4): 257-266
+
+Loff, S., Kabs, F., Witt, K., Sartoris, J., Mandl, B., Niessen, K.H. & Waag, K.L. (2000)
+Polyvinylchloride infusion lines expose infants to large amounts of toxic plasticizers. Journal
+of Pediatric Surgery 35(12): 1775-1781
+
+Lovekamp-Swan, T. & Davis, B.J. (2003) Mechanisms of phthalate ester toxicity in the
+female reproductive system. Environmental Health Perspectives 111 (2): 139-145
+
+Mance, G., Brown, V.M. & Yates, J. (1984). Proposed environmental quality standards for
+List II substances in water. Copper. Water Research Centre Technical Report TR210
+
+Mariussen, E. & Fonnum, F. (2003) The effect of brominated flame retardants on
+neurotransmitter uptake into rat brain synaptosomes and vesicles. Neurochem. Int. 43:
+533–542
+
+Marklund, A., Andersson, B. & Haglund, P. (2003) Screening of organophosphorus
+compounds and their distribution in various indoor environments. Chemosphere 53(9):
+1137-1146
+
+Matsumoto, H., Adachi, S. & Suzuki, Y. (2005) Estrogenic activity of ultraviolet absorbers
+and the related compounds. Yakugaku Zasshi-Journal Of The Pharmaceutical Society Of
+Japan 125 (8): 643-652
+
+Meerts, I.A.T.M., Letcher, R.J., Hoving, S., Marsh, G., Bergman, Å., Lemmen, J.G., van der
+Burg, B. & Brouwer, A. (2001)  In vitro estrogenicity of polybrominated diphenyl ethers,
+hydroxylated PBDEs and polybrominated bisphenol A compounds. Environmental Health
+Perspectives 109(4): 399-407
+
+Meerts, I.A.T.M., Letcher, R.J., Hoving, S., Marsh, G., Bergman, Å., Lemmen, J.G., van der
+Burg, B. & Brouwer, A. (2001) In vitro estrogenicity of polybrominated diphenyl ethers,
+hydroxylated PBDEs and polybrominated bisphenol A compounds. Environmental Health
+Perspectives 109(4): 399-407
+
+Meerts, I.A.T.M., Marsh, G., van Leeuwen-Bol, I., Luijks, E.A.C., Jakobsson, E., Bergman,
+Å. & Brouwer, A. (1998) Interaction of polybrominated diphenyl ether metabolites (PBDE-
+OH) with human transthyretin in vitro. Organohalogen Compounds 37: 309-312
+
+Meironyte, D., Noren, K. & Bergman, Å. (1999) Analysis of polybrominated diphenyl ethers
+in Swedish human milk. A time-related trend study, 1972-1997. Journal of Toxicology and
+Environmental Health - Part A 58(6): 329-341
+
+Meneses, M., Wingfors, H., Schuhmacher, M., Domingo, J.L., Lindstrom, G. & von Bavel, B.
+(1999) Polybrominated diphenyl ethers detected in human adipose tissue from Spain.
+Chemosphere 39(13): 2271-2278
+
+Mijangos, I., Navarro-Villoslada, F., Guerreiro, A., Piletska, E., Chianella, I., Karim, K.,
+Turner, A. & Piletsky, S. (2006) Influence of initiator and different polymerisation
+conditions on performance of molecularly imprinted polymers. Biosensors and Bioelectronics
+22: 381–387
+
+Mylchreest, E., Sar, M.,Wallace, D.G. & Foster, P.M.D. (2002) Fetal testosterone
+insufficiency and abnormal proliferation of Leydig cells and gonocytes in rats exposed to
+di(n-butyl) phthalate. Reproductive Toxicology 16: 19-28
+
+Nor, Y.M. (1987) Ecotoxicity of copper to aquatic biota: a review. Environmental Research,
+43: 272-282
+
+OECD (2003) Technical guidance for the environmentally sound management of specific
+waste streams: used and scrap personal computers. Organisation for Economic Co-operation
+and Development (OECD) Working Group on Waste Prevention and Recycling.
+ENV/EPOC/WGWPR(2001)3/FINAL.
+
+Olsen, C.M., Meussen-Elholm, E., Samuelsen, M., Holme, J.A. and Hongslo, J.K. (2003)
+Effects of the environmental oestrogens bisphenol A, tetrachlorobisphenol A,
+tetrabromobisphenol A, 4-hydroxybiphenyl and 4,4?-dihydroxybiphenyl on oestrogen
+receptor binding, cell proliferation and regulation of oestrogen sensitive proteins in the
+human breast cancer cell line MCF-7. Pharmacol. Toxicol. 92:180–188
+
+OSPAR (2001) Nonylphenol/nonylphenolethoxylates, OSPAR Priority Subtances Series,
+OSPAR Convention for the Protection of the Marine Environment of the North-East
+Atlantic, OSPAR Commission, London, ISBN 0-946956-79-0: 18 pp.
+
+OSPAR (2006) OSPAR List of Chemicals for Priority Action. OSPAR Convention for the
+Protection of the Marine Environment of the North East Atlantic. (Update 2006)
+http://www.ospar.org/eng/html/sap/strategy_hazardous_substances.htm
+
+Otake,T., Yoshinaga, J. & Yanagisawa, Y. (2001) Analysis of organic esters of plasticizer in
+indoor air by GC-MS and GC-FPD. Environmental Science and Technology 35(15): 3099-
+3102
+
+PCD (2000) Groundwater Quality Standards, Pollution Control Department, Ministry of
+Natural Resources and Environment, Government of Thailand. Summarised from
+Notification of the National Environmental Board No. 20, B.E. 2543 (2000), issued under
+the Enhancement & Conservation of National Environment Quality Act B.E. 2535 (1992),
+published in the Royal Government Gazette, Vol. 117 Special part 95 D, dated September
+15 , B.E. 2543 (2000). www.pcd.go.th/info_serv/en_reg_std_water03.html#s1
+
+PCD (2004) Industrial Effluent Standards, Pollution Control Department, Ministry of
+Natural Resources and Environment, Government of Thailand. Summarised from
+Notification of the Ministry of Science, Technology and Environment, No. 3, B.E.2539
+(1996) issued under the Enhancement and Conservation of the National Environmental
+Quality Act B.E.2535 (1992), published in the Royal Government Gazette, Vol. 113 Part 13
+D, dated February 13, B.E.2539 (1996). www.pcd.go.th/info_serv/
+en_reg_std_water04.html
+
+77
+
+CUTTING EDGE CONTAMINATION
+
+PCTT (2006) Manufacturing Process. PCTT website; www.pctt.com/process.asp
+
+Peijnenburg, W.J.G.M. & Struijs, J. (2006) Occurrence of phthalate esters in the
+environment of the Netherlands. Ecotoxicology and Environmental Safety 63(2): 204-215
+
+Peltola, J. & Yla-Mononen, L. (2001) Pentabromodiphenyl ether as a global POP.
+TemaNord 2001:579, Nordic Council of Ministers, Copenhagen, ISBN 92-893-0690-4: 78
+pp.
+
+PEZA (2007) Public Ecozones, Philippines Economic Zone Authority website;
+www.peza.gov.ph/firms_public.htm
+
+Pullen, S., Boecker, R. and Tiegs, G. (2003) The flame retardants tetrabromobisphenol A
+and tetrabromobisphenol A-bisallylether suppress the induction of interleukin-2 receptor
+alpha chain (CD25) in murine splenocytes. Toxicology 184:11–22
+
+Razia, S., Maegawa, Y., Tamotsu, S. & Oishi, T. (2006) Histological changes in immune and
+endocrine organs of quail embryos: Exposure to estrogen and nonylphenol. Ecotoxicology
+and Environmental Safety 65(3): 364-371
+
+Ronisz, D., Finne, E.F., Karlsson, H. and Förlin, L. (2004) Effects of the brominated flame
+retardants hexabromocyclododecane (HBCDD), and tetrabromobisphenol A (TBBPA), on
+hepatic enzymes and other biomarkers in juvenile rainbow trout and feral eelpout. Aquat.
+Toxicol. 69: 229–245
+
+Rudel R.A., Camann D.E., Spengler J.D., Korn L.R. & Brody J.G. (2003). Phthalates,
+alkylphenols, pesticides, polybrominated diphenyl ethers, and other endocrine-disrupting
+compounds in indoor air and dust. Environmental Science and Technology 37 (20): 4543-
+4553
+
+Saito I., Onuki A. & Seto H. (2004). Indoor air pollution by alkylphenols in Tokyo. Indoor
+Air 14 (5): 325-332
+
+Salomons, W. and Forstner, U. (1984). Metals in the hydrocycle. Springer-Verlag, Berlin,
+Heidelberg, New York, Tokyo, ISBN 3540127550
+
+Samuelsen, M., Olsen, C., Holm, e.J.A., Meussen-Elholm, E., Bergmann, A. and Hongslo,
+J.K.(2001)  Estrogen-like properties of brominated analogs of bisphenol A in the MCF-7
+human breast cancer cell line, Cell Biol. Toxicol. 17: 139–151
+
+Sanchez, C., Ericsson, M., Carlsson, H. and Colmsjo, A. (2003) Determination of
+organophosphate esters in air samples by dynamic sonication-assisted solvent extraction
+coupled on-line with large-volume injection gas chromatography utilizing a programmed-
+temperature vaporizer. Journal of Chromatography A 993(1-2): 103-110
+
+Santillo, D., Labunska, I., Davidson, H., Johnston, P., Strutt, M. & Knowles, O. (2003a)
+Consuming Chemicals: Hazardous Chemicals in house dust as an indicator of chemical
+exposure in the home: Part I - UK. Greenpeace Research Laboratories Technical Note
+01/2003, April 2003: 74 pp.
+
+Santillo, D., Labunska, I., Fairley, M. & Johnston, P. (2003b) Hazardous chemicals in house
+dusts as indicators of chemical exposure in the home: Part II – Germany, Spain, Slovakia,
+Italy and France. Greenpeace Research Laboratories Technical Note 02/2003, December
+2003: 96 pp.
+
+Schenker, M. B., Gold, E.B, Beaumont, J.J., Eskenazi, B., Hammond, S.K., Lasley, B.L.,
+McCurdy, S.A., Samuels, S.J., Saiki, C.L. and Swan, S.H. (1995) Association of
+spontaneous abortion and other reproductive effects with work in the semiconductor
+industry. American Journal of Industrial Medicine 28(6): 639-659
+
+Segurola, J., Allen, N., Edge, M., Parrondo, A. & Roberts, I. (1999) Photochemistry and
+photoinduced chemical crosslinking activity of several type II commercial photoinitiators in
+acrylated prepolymers. Journal of Photochemistry and Photobiology A: Chemistry 122(2):
+115-125
+
+Seidl, B., Liska, R. & Grabner, G. (2006) New photocleavable structures III:
+Photochemistry and photophysics of pyridinoyl and benzoyl-based photoinitiators. Journal
+of Photochemistry and Photobiology A: Chemistry 180(1-2): 109-117
+
+Sellstrom, U. & Jansson, B. (1995) Analysis of tetrabromobisphenol A in a product and
+environmental samples. Chemosphere 31: 3085-3092
+
+SEPA (1996) Integrated wastewater discharge standard GB 8978-1996 issued by Division
+of Technology Policies and Standards, Department of Science, Technology and Standards,
+Sates Environment Protection Administration of China
+
+Shaw, J.M., Gelorme, J.D., LaBianca, N.C., Conley, W.E. & Holmes, S.J. (1997) Negative
+photorestists for optical lithography. IBM Journal of Research and Development. 41:81-94
+
+She, J.,Winkler, J.,Visita, P., McKinney, M. & Petreas, M. (2000) Analysis of PBDEs in seal
+blubber and human breast adipose tissue samples. Organohalogen Compounds 47: 53-56
+
+Silva, M.J., Barr, D.B., Reidy, J.A., Malek, N.A., Hodge, C.C., Caudill, S.P., Brock, J.W.,
+Needham, L.L. & Calafat, A.M. (2004) Urinary levels of seven phthalate metabolites in the
+U.S. population from the National Health and Nutrition Examination Survey (NHANES)
+1999-2000. Environmental Health Perspectives 112 (3): 331-338
+
+Sjödin, A., Patterson, D.G. and Bergman, A. (2003). A review on human exposure to
+brominated flame retardants – particularly polybrominated diphenyl ethers. Environment
+International 29: 829-839
+
+Sjödin, A., Carlsson, H.,Thuresson, K., Sjolin, S., Bergman, Å. & Ostman, C. (2001) Flame
+retardants in indoor air at an electronics recycling plant and at other work environments.
+Environmental Science and Technology 35(3): 448-454
+
+Strandman, T., Koistinen, J., Kiviranta, H., Vuorinen, P.J., Tuomisto, J. & Vartiainen, T.
+(1999) Levels of some polybrominated diphenyl ethers (PBDEs) in fish and human adipose
+tissue in Finland. Organohalogen Compounds 40:355-358
+
+Swan, S.H., Main, K.M., Liu, F., Stewart, S.L., Kruse, R.L., Calafat, A.M., Mao, C.S.,
+Redmon, J.B., Ternand, C.L., Sullivan, S. & Teague, J.L. (2005) Decrease in anogenital
+distance among male infants with prenatal phthalate exposure. Environmental Health
+Perspectives 113 (8): 1056-1061
+
+Tada, Y., Fujitani, T., Ogata, A. & Kamimura H. (2006) Flame retardant
+tetrabromobisphenol A induced hepatic changes in ICR male mice. Environmental
+Toxicology and Pharmacology, In Press, Corrected Proof, Available online 30 August 2006.
+http://www.sciencedirect.com/
+
+Tan, B.L.L. & Mohd, M.A. (2003). Analysis of selected pesticides and alkylphenols in
+human cord blood by gas chromatograph-mass-spectrometer. Talanta 61 (3): 385-391
+
+Tardiff, R.G., Carson, M.L.& Ginevan, M.E. (2006) Updated weight of evidence for an
+association between adverse reproductive and developmental effects and exposure to
+disinfection by-products. Regulatory Toxicology and Pharmacology 45:185–205
+
+Temel, G., Arsu, N. & Yagci, Yu. (2006) Polymeric Side Chain Thioxanthone Photoinitiator
+for Free Radical Polymerization. Polymer Bulletin 57(1): 51-56
+
+Thomas, P. and Dong, J. (2006) Binding and activation of the seven-transmembrane
+estrogen receptor GPR30 by environmental estrogens: A potential novel mechanism of
+endocrine disruption. The Journal of Steroid Biochemistry and Molecular Biology 102(1-5):
+175-179
+
+Thomsen, C., Lundanes, E. & Becher, G. (2002) Brominated flame retardants in archived
+serum samples from Norway: A study on temporal trends and the role of age.
+Environmental Science and Technology 36(7): 1414-1418
+
+Timms, P.L. (1999) The chemistry of volatile waste from silicon wafer processing. Dalton
+Transactions 815-912
+
+78
+
+Torbiero, B., Pourciel-Gouzy, M.L., Humenyuk, I., Doucet, J.B., Martinez, A., Temple-Boyer,
+P. (2006)  Mass patterning of polysiloxane layers using spin coating and photolithography
+techniques. Microelectronics Journal 37:133–136
+
+Williams, E. (2004) Environmental impacts of microchip manufacture. Thin Solid Films,
+461: 2– 6
+
+Umarji, G.G., Ketkar, S.A., Phatak, G.J., Giramkar, V.D.,Mulik , U.P., Amalnerkar, D.P.
+(2005) An aqueous developable photoimageable silver conductor composition for high
+density electronic packaging. Microelectronics Reliability 45: 1903–1909
+
+UNEP (1993). Preliminary assessment of the state of pollution of the Mediterranean Sea
+by zinc, copper and their compounds and proposed measures. Mediterranean Action Plan
+UNEP (OCA)/MED/WG.66/Inf.3, Athens 3-7 May 1993
+
+UNEP (1997) The 1987 Montreal Protocol on Substances that Deplete the Ozone Layer, as
+adjusted and amended by the second Meeting of the Parties (London, 27-29 June, 1990),
+and by the fourth Meeting of the parties (Copenhagen, 23-25 November 1992), and further
+adjusted by the seventh Meeting of the Parties (Vienna, 5-7 December 1995), and further
+adjusted and amended by the ninth Meeting of the Parties (Montreal, 15-17 September
+1997)
+
+WHO (2006) Guidelines for Drinking-water Quality. First Addendum to Third Edition Vol. 1
+Recommendations. World Health Organization 2006, ISBN 92 4 154696 4, pp. 595
+
+Xiao, J., Hu, Y., Yang, L., Cai, Y., Song, L., Chen Z. & Fan, W. (2003)  Fire retardant
+synergism between melamine and triphenyl phosphate in poly(butylenes terephthalate).
+Polymer Degradation and Stability 91(9):2093-2100
+
+Yilmaz, F., Cianga, L., Guner, Y., Topppare, L. & Yagci, Y. (2004) Synthesis and
+characterization of alternating copolymers of thiophene-containing N-phenyl maleimide and
+styrene by photoinduced radical polymerization and their use in electropolymerization.
+Polymer 45: 5765–5774
+
+WHO (2006) Guidelines for drinking-water quality, Volume 1, recommendations; 3rd
+edition. World Health Organization (WHO). ISBN 9241546964.
+www.who.int/water_sanitation_health/dwq/gdwq0506.pdf
+
+UNEP (2006)  Advance Report of the second meeting of the Persistent Organic Pollutants
+Review Committee (POPRC), 6 -10 November 2006, Geneva, Switzerland: 48 pp.
+http://www.pops.int/documents/meetings/poprc_2/meeting_docs/report/default.htm
+
+Zhu, M.A.Z., Xiaorong, X., Tianlun, Z., Lizhi, H., Qi, Z & Jiebing B. (1998)  Allergic skin
+disease and hepatitis following trichloroethylene exposure: of 15 patients, 5 died. Toxicology
+Letters 95, Suppl 1: 174
+
+US DHHS (2000) NTP Technical Report on the Toxicity Studies of Benzophenone
+Administered in Feed to F344/N Rats and B6C3F1 Mice. Toxicity Report Series Number
+61, NIH Publication No. 00-3943, pp.8
+
+USEPA (1995) Printed Wiring Board Industry and Use Cluster Profile
+
+EPA-744-R-95-005
+
+USEPA (1998) Printed Wiring Board Pollution Prevention and Control Technology:
+Analysis of Updated Survey Results EPA-744-R-98-003
+
+USEPA (2000) Acetophenone. Hazard Summary. Created in April 1992, Revised in
+January 2000. Available at http://www.epa.gov/ttn/atw/hlthef/acetophe.html
+
+USEPA (2000) Flexographic Ink Options: A Cleaner Technologies Substitutes Assessment
+(DRAFT). EPA/744-R-00-004A&B Vol. A& #151, pp.400
+
+USEPA (2001) Printed Wiring Board Surface Finishes: Cleaner Technologies Substitutes
+Assessment, Volumes 1 and 2. EPA-744-R-01-003A and B
+
+USEPA (2006) National Primary Drinking Water Regulations.
+http://www.epa.gov/safewater/mcl.html#dbps , Updated October 2006
+
+USEPA (2000) Flexographic Ink Options: A Cleaner Technologies Substitutes Assessment
+(DRAFT). EPA/744-R-00-004A&B Vol. A& #151, pp.400
+
+Viberg, H., Fredriksson, A., Eriksson, P. (2004) Investigations of strain and/or gender
+differences in developmental neurotoxic effects of polybrominated diphenyl ethers in mice.
+Toxicological Sciences 81(2): 344-353
+
+Vinceti, M., Fantuzzi, G., Monici, L., Cassinadri, M., Predieri, G. &  Aggazzotti, G. (2004) A
+retrospective cohort study of trihalomethane exposure through drinking water and cancer
+mortality in northern Italy. Science of The Total Environment 330(1-3): 47-53
+
+Walters, A., Santillo, D., Labunska, I. & Brigden, K. (2006)  Background documents on
+three key elements of the electronics manufacturing sector: semiconductors, printed wiring
+(circuit) boards and TFT-LCD screens. Greenpeace Research Laboratories Technical Note
+08/2006; www.greenpeace.to/publications
+
+Williams, E. (2003) Environmental impacts in the production of personal computers. In.
+Kuehr R & Williams E (Eds) Computers and the Environment: Understanding and
+Managing their Impacts. Kluwer Academic Publishers - Dordrecht ISBN: 1-4020-1680-8
+
+79
+

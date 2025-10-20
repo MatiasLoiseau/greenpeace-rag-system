@@ -1,0 +1,2297 @@
+THROWING AWAY
+THE FUTURE:
+
+HOW COMPANIES STILL
+HAVE IT WRONG ON PLASTIC
+POLLUTION “SOLUTIONS”
+
+There  has  been  a  wave  of  public  concern  about  the
+global  plastic  pollution  crisis,  heightened  by  the
+growing  scientific  evidence  about  its  ecological  and
+social impacts.  As a result, more and more people from
+all around the world are taking action themselves, and
+turning  to  solutions    that  most  large  companies  have
+so far failed to implement: rejecting cheap, throwaway
+plastic  packaging,  and  demanding  reusable  and
+refillable  options for everyday goods.  Small businesses
+are  developing  many
+(and
+sometimes  basic,  common  sense)  packaging  methods
+and  models.    There  is  a  global  movement  to  create  a
+sustainable world with a culture focused on reusables,
+not disposables
+
+innovative
+
+inspiring,
+
+In  response  to  public  motivation  to  resolve  the  global
+plastic  pollution  crisis,  some  of  the  world’s  largest
+companies that produce massive amounts of wasteful,
+single-use plastic packaging have started to admit that
+they  need  to  act.  Some  have  made  commitments  that
+seem  aspirational,  but  closer  scrutiny  shows  that  they
+are  mostly  continuing  on  the  same  track  by  investing
+in false solutions that fail to move us away from single-
+use  plastic,  diverting  attention  away  from  better
+systems,  perpetuating  the  throwaway  culture,  and
+confusing people in the process. This is a transformative
+moment for our society. The world’s largest companies
+should  not  remain  stuck  in  the  past  by  promoting
+false  solutions  but  instead  should  urgently  reprioritize
+corporate  business  models,  and  follow  the  lead  of
+people all over the world by kicking off a just transition
+away from a throwaway economy.
+
+TABLE OF CONTENTS
+
+2
+
+6
+
+SECTION 1
+INTRODUCTION
+
+SECTION 2
+FALSE PAPER PROMISES
+
+10
+
+SECTION 3
+FALSE IMPRESSIONS: “BIOPLASTICS” - THE LATEST
+
+FORM OF “GREENWASHING
+
+12
+
+18
+
+SECTION 4
+OUR RECYCLING SYSTEM: DOOMED BY PLASTIC
+
+SECTION 5
+CHEMICAL RECYCLING TECHNOLOGIES - TOXIC TECH
+
+DISGUISED AS THE SOLUTION
+
+24
+
+SECTION 6
+CONCLUSION: WE NEED A REUSE REVOLUTION!
+
+SECTION 1
+
+INTRODUCTION
+
+2
+
+from  hydraulic
+
+Despite  the  increasing  scientific  understanding
+of  the
+irreversible  damage  plastic  can  cause
+to  our  environment  and  communities,  plastic
+production  is  projected  to  increase.  The  fossil
+fuel  industry  intends  to  increase  production  by
+an  additional  40%  over  the  next  decade,21  and
+plastic  could  account  for  20%  of  the  total  global
+oil  consumption.22  Companies
+including  Shell
+and  ExxonMobil  have  invested  a  combined  $180
+billion  since  2010  into  plastic  production,  using
+fracturing
+cheap  natural  gas
+(‘fracking’)  in  the  United  States.23  Petrochemical
+companies  are  expanding  plastic  production
+operations  on  the  Gulf  Coast  of  the  United
+States,24  where  communities  have
+long  been
+fighting the toxic effects of oil and gas refining.25 26
+European  companies  are  also  hungrily  exploiting
+the  natural  gas  rush,  with  the  Ineos  Corporation
+investment
+making  the  biggest  petrochemical
+in  the  EU  in  20  years,27  28  into  plastic  production
+infrastructure,
+“virtual  pipeline”
+to  flood  Europe  with  cheap  fracked  gas  from
+the  US  to  make  plastic,29  30  31  a  plan  which  has
+generated an international outcry.  In Asia, it’s also
+reported  that    petrochemical  producers  including
+Sinopec,  Petronas  and  Hengli  Petrochemical  are
+investing  billions  of  dollars  into  expanding  plastic
+production.33
+
+including  a
+
+With  cheaply  available  virgin  plastic  flooding  the
+market, single-use plastic packaging may represent
+a  lifeline  for  the  oil  and  gas  industry.  However,
+solutions  focused  on  improving  the  ‘end  of  life’
+management of plastic won’t work without turning
+off the tap.
+
+Plastic  pollution  is  a  threat  to  our  environment.
+The equivalent of a truckload of plastic enters the
+ocean  every  single  minute.1  Once  in  the  marine
+environment, plastic breaks apart into smaller and
+smaller pieces. In fact, studies estimate that there
+are  anywhere  between  five  and  50  trillion  plastic
+particles  in  our  oceans  today.2  These  plastics  are
+often ingested by marine animals, which can then
+be choked or starved.
+
+is  not
+
+limited  to  the  visible
+Plastic  pollution
+pollution  in  our  oceans  and  on  our  beaches.  The
+vast majority of all plastic ever produced has been
+landfilled  or  released  into  the  environment  and
+remains  there  in  some  form.3  There  is  emerging
+evidence on the presence of plastic in freshwater,4
+soil,5  and  the  atmosphere,6  and  still  more  is
+needed on its environmental and health impacts.7
+Plastic  carries  known  and  potential  impacts  to
+human health, at every point of its life cycle.
+
+Ninety-nine  percent  of  plastic  begins  its  life  as  oil
+or gas,8 with its extraction and refining contributing
+to  climate  change,  air  pollution  and  the  potential
+for  accidents.9  Cumulative  impacts  from  plastic
+production  on  surrounding  communities  are
+not  always  part  of  environmental  or  safety  risk
+assessments, which tend to document the impacts
+of  chemicals  in  isolation.10  The  climate  impacts  of
+plastic are grim: current estimates suggest that by
+2050,  global  greenhouse  gas  emissions  related  to
+the  lifecycle  of  plastic  could  make  up  as  much  as
+10-13%  of  the  available  ‘budget’  of  emissions  we
+have left.11 It has also been estimated that, by the
+end of 2019 alone, globally, plastic production and
+burning  will  emit  the  equivalent  of  189  coal-fired
+power plants.12
+
+Plastic  also  needs  chemical  additives  to  make  it
+functional  and  give  it  desired  properties  such  as
+stability, flexibility or appearance;13 these additives
+can include carcinogenic and endocrine-disrupting
+chemicals  such  as  phthalates.14  Some  plastics  can
+themselves  leach  out  hazardous  chemicals,  such
+as  BPA  (bisphenol-A)  from  polycarbonate15  16  17  18
+and  phthalates  from  PVC.  Though  much  is  known
+about  the  dangers  these  chemicals  pose  to  our
+reproductive  system  and  other  aspects  of  our
+health,  scientists  have  highlighted  the  need  for
+further  research  on  the  risks  for  human  health
+that additives in food packaging may pose.19 While
+the chemicals may be present in small amounts in
+each  package,  the  full  impacts  of  these  chemicals
+when combined are generally not considered.20
+
+3
+
+Time to declare Peak Plastic
+
+Plastic packaging accounts for the largest share of
+global  plastics  manufacturing.34  35  36  It  is  also  the
+largest source of plastic waste in the environment,
+as  packaging  is  typically  designed  to  be  single-
+use.37
+
+to  other  forms  of  single-use  packaging,  investing
+in  partnerships  to  improve  recycling  and  waste
+management, or looking to emerging technologies
+that enable these companies to continue business
+as usual rather than reducing demand for plastic.
+
+from
+
+large
+
+Global  and  regional  waste  audits  have  found
+plastic  packaging
+‘fast  moving
+consumer  goods  companies’  (FMCGs)  such  as
+Nestle, PepsiCo, Procter & Gamble, Coca Cola and
+Mondelez  to  be  the  most  frequently  identified
+branded  plastic  pollution  collected  worldwide.38  39
+In  response,  many  FMCGs  have  adopted  various
+voluntary  commitments  to  make  their  plastic
+packaging more recyclable, reusable, compostable,
+or  made  of  recycled  content.  While
+these
+commitments  are  an  important  step  forward,
+most  of  the  plans  to  meet  these  goals  have
+focused  on  false  solutions:  switching  from  plastic
+
+it  sells,  or  to
+
+To date, no major FMCG has made a commitment
+to  reduce  the  total  volume  or  number  of  units
+of  single-use  packaging
+invest
+significantly  in  reusable  and  refillable  delivery
+systems,  and  only  a  handful  of  companies  have
+even disclosed their plastic footprint.40 Companies
+and  retailers  using  single-use  plastic  packaging
+need to urgently adopt reduction targets, decrease
+the  number  of  products  they  sell  packaged  in
+single-use  plastic,  and  significantly  invest  in  new
+delivery  systems  based  on  reusable  and  refillable
+packaging  constructed  of  durable  materials  and
+designed to achieve multiple uses.
+
+4
+
+Not all solutions are equal
+
+Seemingly  every  day,
+large  FMCG  companies
+and  retailers  as  well  as  smaller  start-ups  or
+entrepreneurs  advertise  a  new  innovation  or  way
+to  reduce  plastic,  intended  to  build  trust  with
+consumers  that  they  are  leading  the  charge  to
+find  solutions  to  our  plastic  pollution  crisis.    Not
+all  promoted  “solutions”  are  inherently  equal  or
+equitable.
+
+be worth $10 billion in value,43 with other benefits
+beyond
+impacts,
+the  reduced  environmental
+including  customer  convenience  and  choice.  But
+fundamentally, companies also need to reimagine
+their  business  models  based  on  the  recognition
+that  we  cannot  continue  to  produce  disposable
+packaging that is used for seconds but pollutes our
+planet for generations.
+
+Any  solution  to  the  global  plastic  pollution  crisis
+should contribute to a ‘just transition’41 to a plastic-
+free  economy,  that  also  needs  to  be    equitable.
+Using  a  ‘people’s  solutions  lens’42  to  evaluate
+potential  solutions  can  identify  solutions  that  are
+more  likely  to  benefit  the  widest  array  of  people
+and our planet.
+
+•  Who  makes  the  decisions?  Does  this  support
+and  drive  community  self-determination?      Is
+governance  adequate  so  that  any  decisions  made
+by companies are driven by the public good?
+
+to  our  collective  health  and
+
+•  Who  benefits  from  the  solution?  Does  this
+contribute
+the
+protection of our natural ecosystems, or does this
+allow  corporations  to  continue  to  externalize  the
+costs  of  doing  business  onto  communities  and
+our  planet?  Does  this  lead  towards  true  systemic
+change?
+
+•  Who  or  what  else  will  this  impact?    Will  this
+create  unintended  consequences  for  somebody
+else or another part of our global environment? Is
+there  enough  information  available  to  determine
+impacts?
+
+The  plastic  pollution  crisis  will  only  be  resolved
+when  companies  that  profit  from  single-use
+plastic declare peak plastic, and commit to urgent
+reductions in the amount of single-use disposable
+packaging  units  they  sell.    An  obvious  first  step
+is
+immediately  eliminating  unnecessary  and
+excessive  packaging,  such  as  coffee  capsules.
+They  will  also  need  to  adopt  a  publicly  available,
+comprehensive  plan  to  invest  in  new  ways  to
+bring  products  to  consumers  in  reusable  and
+refillable  packaging  that  is  durable,  affordable
+and  more  responsibly  produced.    Many  diverse
+reuse  and  refill  options  exist  currently,  and  with
+innovation,  even  more  could  be  developed.
+The  Ellen  MacArthur  Foundation  estimates  that
+replacing  even  20%  of  single-use  packaging  could
+
+5
+
+is
+
+through
+
+inaccuracies
+
+(LCAs),  plastic
+
+in
+Warning:  bias  and
+Life  Cycle  Analysis:    Many  companies
+will  claim  that  according  to  Life  Cycle
+Assessments
+the
+most  environmentally  friendly  option
+for  any  type  of  packaging.    LCAs  are
+decision-making  tools  that  can  be  used
+to  compare  various  environmental  or
+social impacts associated with all stages
+of  a  product’s  life,  from  raw  material
+extraction
+manufacture,
+distribution,  use,  and  end  of  life.  While
+illuminating  decision-
+these  can  be
+making
+they  often  offer  a
+tools,
+selective  view  depending  on  what
+assumptions  are  made,  and  what  data
+is  used  or  available.44  Some  LCAs  show
+plastic  as  the  most  environmentally-
+friendly  of  several  options,  but  these
+often  exclude  important  parts  of  the
+plastics  lifecycle  such  as  the  extraction
+of
+the
+raw  materials,  production,
+release  of  hazardous  chemicals,  end  of
+life  disposal  or  marine  pollution.  For
+example,  a  recent  Danish  study  claimed
+lightweight  LDPE  plastic  carrier
+that
+least  environmental
+bags  had
+impact  compared
+to  paper,  cotton
+and  other  selected  materials,  but  the
+study’s  approach  and  its  assumptions
+favor  single-use  practices,  effectively
+removing  the  benefits  of  reuse  from
+more durable materials; it also assumes,
+unrealistically, zero littering and leakage
+of  plastic  bags  from  recycling  and  waste
+management systems.45
+
+the
+
+SECTION 2
+
+FALSE PAPER PROMISES
+
+6
+
+Some  companies  are  attempting  to  address  their
+plastics  problem  by  switching  their  disposable
+packaging  from  plastic  to  paper.  Dunkin’  Donuts
+have  announced  a  switch  from  plastic  foam  cups
+to  paper  cups,46  and  McDonald’s  and  Starbucks
+both  announced  switches  to  paper  straws.47
+Nestle  in  particular  has  emphasized  a  shift  to
+paper-based packaging,48 proclaiming that its new
+paper-wrapper for its Yes! Candy bar is patent-free
+because  it  “want[s]  the  industry  to  use  paper.”49
+Nestle has also switched to paper straws for paper
+Nesquik pouches in Europe,50 and paper packaging
+for Milo drinks will follow in Asia.51 Companies tout
+these  switches  as  positive  moves  -  and  receive
+praise  for  them52  -  because  paper  has  long  been
+seen  as  an  environmentally  sustainable  material.
+However, in reality, this switch is problematic.
+
+Forests  play  a  unique  role,  supporting  a  stunning
+array of biodiversity, removing and storing carbon,
+providing sustenance and livelihood to indigenous
+peoples,  and  performing  a  range  of  ecological
+services  that  sustain  life.53  The  pulp  and  paper
+industry  is  responsible  for  substantial  impacts  to
+the  environment,  including  climate  change,54  as
+logging  and  large-scale  industrial  tree  plantations
+drive  natural  forest  loss  degradation,  emitting
+huge  amounts  of  CO2.55  In  the  race  to  limit  global
+warming to 1.5 degrees Celsius, cutting emissions
+alone is not enough.  We will also have to remove
+massive  amounts  of  carbon  dioxide  from  the
+atmosphere;  the  most  effective  way  to  do  this
+is  to  restore  degraded  forests  and  to  reforest
+large parts of those areas lost in the past.56 This is
+fundamentally  incompatible  with  an  increase  in
+logging and industrial tree plantations.
+
+Despite  the  fact  that  paper  has  been  recycled  for
+centuries,  current  paper  recycling  systems  are
+failing  to  deliver  enough  quality  recycled  fiber
+in  many  countries,  partly  due  to  contamination
+in  the  recycling  stream,  leading  municipalities
+to  incinerate  or  landfill  vast  amounts  of  paper
+collected for recycling.57 58 Major FMCG companies
+that  have    announced  shifts  to  paper  packaging
+seem  unaware  of  these
+limitations;  none  of
+these  have  committed  to  exclusively  source  post-
+consumer  recycled  fiber,  and  many  even  ignore
+the  future  recyclability  of  their  paper  packaging.
+For  example,  McDonald’s  announced  in  2018  that
+it would switch its plastic straws to paper in the UK
+and Ireland, in response to concerns about plastic,
+but the thickness of the new paper straws and the
+use  of  adhesives  make  them  incompatible  with
+current recycling systems.59 Overall, current paper
+recycling  is  unable  to  provide  a  sustainable  route
+for an increase in paper packaging.
+
+FMCG  companies  often  promote
+third-party
+certifications,  like  the  Forest  Stewardship  Council
+(FSC),  as  proof  that  their  new  paper  packaging
+will  be  sourced  responsibly,60  and  some  FMCGs
+companies may see increasing their purchasing of
+disposable paper packaging from certified sources
+as  a  responsible  way  forward.  Forest  certification
+can  be  a  useful  tool,  although  even  the  most
+stringently  FSC-certified  fiber  does  nothing  to
+address  the  fundamental  impact  that  any  logging
+has  on  a  forest’s  ecosystem  services  such  as
+storing carbon or providing homes for wildlife.
+
+7
+
+But  certified  sustainable
+logging  schemes  are
+wholly  unable  to  absorb  any  additional  demand,
+as  the  current  supply  of  FSC  certified  fiber  is
+limited, and also fail to ensure enough meaningful
+sustainability  metrics.  For  example,  current
+demand  already  outstrips  the  availability  of
+responsibly  sourced  fiber  in  the  United  States
+and  Canada,  and  it  is  uncertain  if  enough  newly
+certified  FSC  fiber  will  come  online  in  order  to
+meet  additional  demand.61  This  has  led  some
+companies62  to  either  rely  on
+less  stringent
+elements  of  the  FSC  system  that  cannot  provide
+on-the-ground  guarantees,63  or  to  rely  on  entirely
+separate  but  substantially  weaker  schemes
+such  as  the  Sustainable  Forestry  Initiative  or
+the  Programme  for  the  Endorsement  of  Forest
+Certification.64  It  is  also  important  to  note  that
+sourcing  FSC-certified  fiber  in  some  regions  does
+not  guarantee  responsible  logging,  including  in
+Russia,  Congo  Basin  and  Scandinavia  where  FSC
+has  struggled  with  massive  loss  of  intact  forest
+landscapes, destruction of high conservation value
+forest, and insufficient indigenous sovereignty and
+human rights processes.65 66 67
+
+in  the  Great  Northern  Forest,
+
+As  one  example,  Swedish  pulp  and  paper
+giant  Svenska  Cellulosa  AB  (SCA)  is  expanding
+operations
+in
+part  to  meet  growing  demand  from  packaging
+manufacturers.68  SCA’s  forestry  operations  are
+FSC-certified,  but  indigenous  communities  have
+actively  opposed  SCA’s  conversion  of  old-growth
+forests  to  plantations.69  SCA’s  customers  make
+IKEA,
+cardboard  packaging  sold
+L’Oréal,  Mars,  Mondelez,  Nestlé,70  Procter  &
+Gamble,  and  Unilever,  much  of  which  will  also  be
+single  use,  and  could  be  replaced  with  re-usable
+delivery systems relatively easily.71
+
+to  Amazon,
+
+Given the current impacts on already-limited forest
+resources,  much  larger  areas  of  forest  need  to
+be  protected  and  restored,  not  transformed  into
+disposable packaging.  There is no way the planet
+can  sustain  additional  demand  from  companies
+attempting  to  substitute  their  single-use  plastic
+packaging  with  paper  or  cardboard;  companies
+must commit to overall reduction of packaging and
+shift to alternative delivery systems like reuse and
+refill.  This  is  a  matter  of  urgency  for  the  climate,
+and acting now is still possible.
+
+8
+
+9
+
+SECTION 3
+
+FALSE IMPRESSIONS:
+“BIOPLASTICS” - THE LATEST
+FORM OF “GREENWASHING
+
+In  response  to  growing  public  concern  over
+conventional  single-use  plastics,  many  companies
+are  swapping  single-use  plastics  derived  from
+fossil  fuels  with  bio-based  plastics,  which  are
+often  erroneously  promoted  as  biodegradable  or
+compostable.    Several  companies—for  example,
+Coca-Cola,72  Danone,73  Nestlé,74  PepsiCo,75—are
+using  bio-based  plastics  to  replace  some  portion
+of  conventional  fossil-derived  plastics
+in  their
+beverage  bottles,  and  many  bags  or  disposable
+take-away  food  service  items  (cutlery,  plates,  etc)
+are
+increasingly  marketed  as  “biodegradable.”
+These  terms  can  be  confusing  for  customers,
+especially  when  generic  “greenwashing”  terms
+such as ‘eco’, ‘bio’ or ‘green’ are used for marketing
+advantage.  The word “bioplastics” does not have a
+standardized  definition  and  is  often  used  to  refer
+to plastic that is either bio-based, biodegradable
+or  compostable  and  can  even  include  fossil  fuel
+based plastic.
+
+10
+
+plastic:
+
+Another
+
+is  compostable.  Compostable  plastic
+
+confusing
+Compostable
+marketing term associated with bio-based plastics
+and biodegradability is the claim that a disposable
+is
+item
+engineered  to  fully  decompose  (as  opposed  to
+into  small  fragments)  under  certain
+breaking
+conditions91  that  are  met
+industrial
+composting  facilities,  or,  less  commonly,  in  home
+composting  systems.92  But  not  all  municipalities
+have  industrial  composting,  and  many  cannot
+recycle compostable plastic packaging, and thus it
+is most likely to be landfilled or incinerated, making
+it little different to conventional single-use plastic.
+
+in  either
+
+technologies  promise  bio-
+While  some  new
+based  packaging  made
+from  non-agricultural
+crops like algae, methane or seaweed,93 these are
+emerging  technologies  and  processes  and  will
+require  transparent  assessments  on  a  range  of
+impacts. Some bio-based packaging materials that
+are  grown  according  to  agroecological  farming
+principles  or  make  use  of  local  agricultural  waste
+or by-products may be a component of an overall
+plan  to  eliminate  single-use  plastic  packaging,
+provided these materials do not compete with land
+for  food  crops  or  soil  fertility  needs;  for  example,
+in  tropical  areas,  food  products  may  be  wrapped
+in  banana  leaves.  Overall,  a  highly  precautionary
+approach
+industrially-processed  bio-based
+plastic packaging should be taken.
+
+to
+
+‘Bio-based  plastic’  refers  to  plastics  made  not
+from  fossil  fuel  building  blocks  but  from  plant
+material,  such  as  corn  or  sugar  cane.76  Bio-based
+plastic  only  represents  about  1%  of  the  plastic
+available  on  the  market.77  Though  research  is
+underway  to  increase  the  amount  of  bio-based
+material,78  currently  most  bio-based  plastic
+is
+still  partially  composed  of  fossil-based  plastic.
+For  example,  the  NaturALL  bottle  used  by  major
+beverage  companies  is  currently  30%  bio-based
+plastic, and 70% fossil-based plastic.79
+
+The  majority  of  bio-based  plastic  is  derived  from
+agricultural crops, which compete with food crops,
+threatening  food  security  and  driving  land  use
+change  and  agricultural  emissions.80  81  Globally,
+the  production  of  agricultural  commodities
+is
+the  leading  cause  of  deforestation  and  habitat
+destruction,82  and  agricultural  crops,
+forestry
+and other land uses are responsible for a quarter
+of  the  greenhouse  gas  emissions  globally.83  A
+growing share of agricultural land is used for non-
+food  crops,  mostly  farmed  on  large  industrial
+plantations  which  displace  both  natural  habitat
+and small-scale  farmers.84 While some  FMCGs like
+Unilever  have  made  commitments  to  ensure  that
+their  bio-based  plastic  comes  from  sustainable
+sources,  the  commonly-cited  Bioplastic  Feedstock
+Alliance is not a third-party certification standard.
+While  many  consumers  may  believe  that  all  bio-
+based  plastic  will  naturally  decompose  if  littered
+or  landfilled,  this  is  not  necessarily  true.    Both
+conventional  fossil-based  plastic  or  bio-based
+plastic can be engineered to degrade under certain
+conditions; these are known as either degradable
+or  biodegradable  plastics.85  86  However,  the  heat
+and  humidity  conditions  required  are  rarely,  if
+ever,  met  in  the  natural  environment,87  88  89  and
+when that biodegradable plastic does break apart,
+it  may  not  fully  disappear  but  instead  fragment
+into  smaller  pieces,  including  microplastics,  which
+can  be  ingested  by  animals  and  enter  the  food
+web.
+
+The impression that that these products are more
+‘natural’ because they are from plants is also false:
+production of bio-based plastic can involve similar
+chemical  additives  to  conventional  fossil-based
+plastic.90
+
+11
+
+SECTION 4
+
+OUR RECYCLING SYSTEM:
+DOOMED BY PLASTIC
+
+12
+
+FMCG  companies  and  the  plastics  industry  have
+long  promoted  the  idea  that  recycling  is  the  best
+way  to  keep  plastic  out  of  the  landfill,94  but  more
+than  90%  of  all  the  plastic  ever  produced  has  not
+been  recycled.95  Plastic  is  far  more  likely  to  end
+up  in  landfills,  incinerators  or  in  the  environment
+than  to  be  recycled.  Nevertheless,  corporate
+commitments  to  confront  plastic  pollution  have
+overwhelmingly  focused  on  increasing  recycled
+or  recyclable  content,  promoting  recyclability
+or  technological  recycling  solutions.    However,
+numerous  exposés  have  demonstrated
+that
+recycling  systems  have  failed  to  deliver  on  the
+promise  to  both  recover  enough  material  to
+reduce  demand  for  virgin  plastic  or  to  ensure
+proper  disposal,96  97  98  objectives
+that  are
+unachievable,  due  to  the
+inherent  difficulties
+posed  by  the  nature  of  plastics,  the  mixtures  of
+plastics and the enormous amount produced.
+
+Recycling  systems  cannot  keep  up  with  the
+huge  volume  of  plastic  waste  generated.  Even  in
+Germany,  which  has  one  of  the  highest  recycling
+rates  in  the  world  based  on  collection,  more  than
+60%  of  all  plastic  waste  is  burned,  and  only  38%
+recycled.99 In the EU as a whole, 31% of the plastic
+waste collected in 2016 was reported as recycled100
+-  despite  the  fact  that  much  of  this  is  exported  to
+lower  income  countries  where  its  ultimate  fate
+is  unknown.    This  pattern  is  repeated  In  the  US,
+
+where  just  9%  was  recycled  in  2015  (the  most
+recent  Government  data  available),101  while  the
+amount  actually  recycled  domestically  may  be  as
+low  as  2%  of  the  total  plastic  waste,  according  to
+one analysis.102
+
+of
+
+(HDPE)
+
+packaging  made
+
+Plastic
+polyethylene
+terephthalate  (PET)  (e.g.soda  and  water  bottles)
+and  high  density  polyethylene
+(eg.
+milk  jugs,  laundry  detergent  containers),103  are
+commonly  recyclable  in  many  municipal  systems,
+but  recycling  rates  for  these  are  still  shockingly
+low:  half  of  the  PET  sold  is  never  collected  for
+recycling,104 and only 7% of those bottles collected
+for  recycling  are  turned  into  new  bottles.105  Much
+of  the  plastic  packaging  is  “downcycled,”  which
+means  that  instead  of  making  a  new  plastic
+package from an old one, the plastic is reprocessed
+into  products  of  lesser  quality  or  value  which  are
+not further recyclable and not possible to recycle.
+
+Flexible  plastic  packaging  such  as  wrappers,
+sachets,  pouches,  shrink-wrap,  and  savory  snack
+bags  now  dominate  grocery  stores  -  the  market
+for this grew by 19% just in 2017106 - and this type
+of  packaging  is  often  made  of  multiple  materials
+that make it difficult if not impossible to recycle.107
+Recycling  collection  facilities  not  equipped  to
+handle  the  complexity  of  these  materials  have
+become overwhelmed.
+
+13
+
+Sachets: a single serving of uncontrollable
+plastic  pollution.  A  sachet  is  a  particular
+kind  of  plastic  packaging  typically  used
+to  sell  small  or  single  portions  of  food
+and personal care products such as  soap,
+shampoo  and  deodorant.  Southeast  Asia
+accounts  for  almost  50%  of  the  global
+sachet  market;  855  billion  sachets  were
+sold  globally  in  2018,  and  at  current
+growth  rates,  1.3  trillion  will  be  sold  in
+2027.108  109  In  North  America  and  Europe,
+this packaging is known as ‘on the go’ (for
+example, ketchup packets or daily doses of
+vitamins)  or  ‘trial  size.’  In  Southeast  Asia,
+the  ‘sachet  economy’  was  pioneered  by
+Unilever,110 where products in sachets are
+aggressively  marketed  by  FMCGs  to  low-
+income  consumers  in  rural  communities
+unable
+larger  containers.
+Because  the  package  is  a  combination
+of  plastic  and  other  materials  (like  foil),
+it  cannot  be  recycled:  waste  sachets  are
+therefore  overwhelming  municipal  waste
+infrastructure systems in South East Asia,
+imposing  an  intrusive  double  standard
+which exploits global inequity.
+
+to  afford
+
+initially  collected  between  4.5  million
+and  10  million  sachets  annually,115  this  is
+a  small  portion  relative  to  the  27  billion
+sachets  Unilever  sold  in  Southeast  Asia
+in  2016116  or  the  estimated  59.7  billion
+sachets  used  annually  in  the  Philippines
+alone.117  Unilever  is  now  promoting  its
+use  of  the  CreaSolv  process118  which  uses
+chemical  solvents  to  dissolve  the  plastic
+sachets  to  make  new  flexible  plastic;  a
+pilot plant in Indonesia processes 3 tonnes
+of plastic daily.119  However, Unilever offers
+little
+information  about  the  potential
+health  impacts  of  the  solvents  or  the
+efficiency  of  the  technology.    Instead  of
+focusing on these false solutions, Unilever
+innovation  of
+needs  to  prioritise  the
+environmentally responsible reusable and
+refillable  systems  for  their  customers  in
+Southeast Asia.
+
+than
+
+developing
+
+Rather
+accessible
+reusable  packaging  systems,  FMCGs  seem
+intent  on  continuing  to  sell  products  in
+sachets. Nestle acknowledges the problem
+but  has  done  little  to  address  its  use  of
+sachets  directly,111  and  Unilever  is  using
+downcycling  and  is  now  turning  to  new
+chemical-based
+technologies
+to  deal  with  the  unrecyclable  sachets
+(see  Section  4).112  Unilever  Philippines
+is  reported  to  sell  more  than  half  of  its
+products  in  plastic  sachets.113  In  2012,
+Unilever  developed  a  Sachet  Recovery
+Program  in  the  Philippines  to  downcycle
+into  cement  pavers,  which
+sachets
+to  schools  and
+were
+communities.114  While
+company
+
+then  donated
+
+recycling
+
+the
+
+What,  then,  happens  to  the  plastic  waste  that  is  collected  but  not  ultimately  recycled?    There  are  no
+countries where all plastic packaging is effectively recycled domestically, therefore most of this ‘low-value
+plastic’ is dumped in landfills, burned in incinerators which emit greenhouse gas  emissions and pollutants
+into the air,120 or littered into the environment. The vast majority of all of the plastic that has ever been
+produced  globally  has  been  released  to  the  environment,  with  12%  incinerated,  and  79%  landfilled  or
+released into the natural environment.121
+
+14
+
+There is no “away”
+
+Within  the  small  percentages  of  plastic  that
+are  reported  as  ‘recycled’  is  another    important
+component  to  this  story  -  the  global  plastic
+waste  trade.  Plastic  not  recycled  domestically
+is  typically  been  packed  into  mixed  bales  and
+largely  exported  to  other  countries  to  deal  with.
+The  United  States,  for  example,  exported  one
+third of its recyclable plastic waste, and until 2018,
+half  of  that  was  destined  for  China,122  where  low
+environmental  standards  and  cheap  labor  costs
+made the recycled material attractive to use in the
+manufacturing sector.123
+
+investigations  of  municipal  waste
+
+Field
+in
+Southeast  Asia  have  detailed  unpermitted
+recycling  operations,  open  burning,  complaints
+of  health  symptoms  suggestive  of  environmental
+pollution,  among  other  problems.124  Sorting  of
+waste is typically done by informal laborers known
+as  waste-pickers,  who  often  lack  the  resources  to
+sort  cleanly  and  safely.125  While  one  study  reports
+
+that  large  amounts  of  plastic  waste  enter  the
+ocean via several large Asian rivers,126 this does not
+mean  that  Asian  countries  are  more  responsible
+for  the  world’s  plastic  pollution:  much  of  that
+discarded  plastic  may  have  originated  in  North
+America  or  Europe,  where  plastic  generation  per
+person is higher than in many Asian countries.127
+
+In  2018,  China  banned  the  importation  of  foreign
+waste, and plastic waste exports around the world
+dropped  by  50%  as  plastic  waste  collected  for
+recycling  began  to  stockpile  or  head  for  improper
+disposal.128  Some  plastic  waste  was  redirected  to
+nearby  countries,  like  Indonesia,  Malaysia  and
+Thailand,129  which  were  already  struggling  with
+municipal  recycling
+infrastructure  clogged  by
+non-recyclable  waste.  Some  of  those  countries
+in  turn  adopted  their  own  restrictions  on  plastic
+waste  imports130  and  have  since  began  to  return
+containers of waste to the originating countries.131 132
+
+incinerated,133  and
+
+Burning  Waste:    In  the  EU  the  majority
+(41.6%)  of  plastic  waste  collected  in  2016
+was
+incineration  of
+plastic  waste  in  Europe  increased  by  61%
+between  2000  and  2016.134  This  rush  to
+burn  is  also  happening  in  China,  which
+incinerators,  with
+has  231  operating
+another  103  planned  (for  comparison,
+Europe  has  500  incinerators).135  According
+to  one  analysis,  the  US  could  be  burning
+13%  of  its  plastic  waste,  or  six  times  the
+plastic  waste  that  it  recycles.136  Waste
+incineration
+inefficient  way  of
+generating  energy  and  an  irresponsible
+management.137
+form
+Incinerating plastics creates air pollutants,
+fly  ash,  bottom  ash,  and  boiler  ash/slag;
+it can harm human health and the planet
+
+is  an
+
+waste
+
+of
+
+by  emitting  respiratory  irritants,  cancer-
+causing  dioxins/furans,  heavy  metals
+including  mercury,  cadmium  and  lead,
+and major greenhouse gases - contributing
+to  the  climate  crisis.138  139  It  is  also  an
+environmental  justice  issue;  for  example,
+approximately eighty percent of the waste
+incinerators  in  the  US  are  located  in  low-
+income  communities,  communities  of
+color, or both.140  Facilities are often costly
+to  run  and  require  a  constant  stream  of
+waste,  so  waste  incineration  encourages
+generation
+disposable  material.
+Despite  the  known  pollution  generated
+by  incineration,  Nestle  Philippines  has
+announced  it  is  sponsoring  recovery  of
+plastic  waste  to  burn  in  kilns  that  make
+cement,141 a highly polluting practice.142
+
+of
+
+15
+
+It’s  abundantlyclear
+that  recycling  can  only
+ever  make  a  small  dent  in  the  rising  quantities
+of  plastics  being  produced  and  the  inevitable
+plastic  waste.  Therefore,  the  efforts  made  by
+most  FMCGs  and  retailers  to  clean  up  beaches,
+improve  recycling  and  recyclability,  or  educate
+their customers are - at best -  misdirected and at
+worst,  creating  a  smokescreen  of  activity  to  mask
+the problem. Some have begun increasing package
+labelling to indicate whether or not it is recyclable;
+these  labels,  like  How2Recycle  in  North  America,
+are potentially misleading in that each municipality
+has  different  capacity  to  recycle  different  types
+of  plastic,  so  what  is  recyclable  is  not  necessarily
+recycled.  Focusing only on end-of-life strategies for
+plastic  waste  also  ignores  the  human  health  and
+environmental  consequences  of  the  entire  plastic
+life cycle.143 144
+
+Recycling  has  a  part  to  play  as  an  important
+sub-strategy  for  the  transition  to  a  plastic-free
+economy,  but  is  it  not  a  substitute  for  the  overall
+reduction  in  single-use  packaging,  and  certainly
+not a justification for increased plastic production.
+In  this  transition,  any  continued  recycling  needs
+to  meet  the  highest  social  and  environmental
+standards,  and  take  its  rightful  place  in  the  waste
+hierarchy, under ‘avoid’ ‘reduce’ and ‘reuse’.
+
+16
+
+17
+
+SECTION 5
+
+CHEMICAL RECYCLING
+TECHNOLOGIES - TOXIC TECH
+DISGUISED AS THE SOLUTION
+
+18
+
+contamination.146  The  low  cost  of  virgin  feedstock
+combined with these limitations means that while
+that  some  plastics  are  technically  recyclable,  the
+difficulty  recycling  them  en  masse  means  that
+no  practical  market  exists,  so  recycling  rates  are
+low.147 This is the case with polypropylene, the base
+plastic  for  much  of  the  flexible  packaging  on  the
+market, like yogurt cups or squeeze bottles.148
+
+Thus,  the  availability  of  recycled  material  is  much
+lower  than  the  demand.  With  FMCGs  anxious
+to  label  their  products  as  both  recycled  and
+recyclable,  the  plastics
+is
+promoting  the  perception  that  full  recycling  will
+someday  be  possible,  and  companies  are  turning
+to  potentially  risky  emerging
+-
+collectively known as chemical recycling.
+
+industry  and
+
+technologies
+
+lobby
+
+increase  recycled  content
+
+Commitments  to
+in
+packaging  by  at  least  37  FMCGs  are  translating
+to  a  demand  for  up  to  5  -  7.5  million  metric  tons
+of  recycled  plastic  by  2030,  an  increase  of  200-
+300%.145 But these promises crash into a significant
+real-world barrier: the complex plastics and mixed
+materials  used  in  flexible  plastic  packaging  and
+labels are not practically recyclable in conventional
+recycling  processes  and  can’t  produce  new  plastic
+of the required quality.
+
+Conventional  recycling  methods,  also  known  as
+mechanical  recycling,  essentially  chop  up  plastic
+and re-formulate it without changing the chemical
+structure. This works well for downcycling plastics
+into other materials but less well for creating ‘like-
+new’  plastic  due  to  quality  loss,  degradation  and
+
+19
+
+Gasification and pyrolysis are not new technologies
+- they have been used for decades as alternatives to
+waste incineration, however they have a failed track
+record  due  inefficiency,  emissions  pollution,  and
+environmental  impact.150  151  Despite  these  failures,
+new  development  of  gasification  and  pyrolysis
+for  waste  plastics  reprocessing  is  currently  being
+inaccurately promoted as a modern way to achieve
+a ‘circular economy.’ Examples of some companies
+investing in this risky technology include:
+
+•  Mars
+
+to  be
+Incorporated,  which  claims
+testing  capacity  to  use  pyrolysis  to  meet  its
+commitment to increasing recycled plastic.152
+
+•  Saudi  Arabian  Chemical  giant  SABIC,  which  has
+even  co-opted  the  ‘circular  economy’  language
+by  launching  “certified  circular  polymers,”  or
+plastic  made  from  pyrolysis  (in  other  words,
+plastic  waste  made  into  oil  which  is  made  into
+like-new plastic).153 Unilever and Tupperware will
+use this plastic.154 155
+
+•  Agilyx,  a  company  manufacturing  jet  fuel  and
+recycled polystyrene from polystyrene waste.156
+
+in
+
+new
+
+chemical
+
+Investment
+recycling
+infrastructure is risky in that it will ‘lock in’ demand
+for plastic waste in order to generate more plastic
+as  well  as  non-plastic  by-products.  One  analysis
+estimates products produced by chemical recycling
+to be worth $120 billion, with the production of gas
+and oil from these processes  projected to be 14%
+of  that  value.157  It  is  critical  for  FMCGs  to  ensure
+increase
+that  meeting  their  commitments  to
+recycled  content  will  reduce  the  use  of  virgin
+plastic, not drive new fossil fuel generation.
+
+Chemical Recycling
+
+Chemical recycling is an umbrella term for several
+technologies,  most  of  which  are  in  their  infancy.
+Big  brands  often  describe  chemical  recycling  in
+their  promotional  materials  using  terms  such  as
+“enhanced  recycling”  or    “advanced  recycling”  to
+give  the  false  impression  that  these  technologies
+are benign.  Information about the environmental
+and health impacts of many of these technologies
+is currently limited, but there are serious concerns
+about emissions of hazardous chemicals and their
+intensive  use  of  energy.  There  are  various  forms
+of  these  emerging  technologies,  which  convert
+plastic  waste  into  basic  chemical  building  blocks
+(polymers or monomers), including:149
+
+•  using  chemical  solvents
+
+to  purify  waste
+
+plastics,
+
+•  chemical  depolymerisation,
+
+in  which  the
+plastic  polymer  chains  are  degraded  into  their
+original building blocks, such as monomers, and
+
+•  thermal  depolymerisation  and
+
+cracking
+in
+(breaking  the  chemical  bonds,  as  used
+petroleum  refining)  also  known  as  gasification
+and pyrolysis, which can produce hydrocarbons
+such as gas or oil (plastic to fuel) as well as ‘like-
+new’ plastic materials.
+
+and
+
+solvents
+
+Chemical
+depolymerisation
+decontaminate  the  plastic,  but  the  plastic  that
+results from the process is still of degraded quality.
+They  also  require  a  single-stream  of  plastic  waste
+and therefore face the same collection barriers as
+mechanical  recycling.  Thermal  depolymerisation,
+on the other hand, can process mixed plastic waste
+as  well  as  address  the  degradation  problem,  but
+it  brings  other  serious  concerns,  particularly  the
+creation of potentially hazardous byproducts.
+
+Gasification  converts  plastic  waste  into  a  gas;
+pyrolysis,  sometimes  called  ‘plastic-to-oil’,  makes
+plastic  waste  into  tar  oil  by  exposing  it  to  high
+heat;  the  oil  can  then  be  used  for  fuel,  to  make
+new  plastic,  or  other  chemical  applications.  While
+this may technically differ from burning as it is not
+combustion,  it  is  still  thermal  destruction  using
+high  heat  (and  a  lot  of  energy)  and  can  create
+hazardous byproducts.
+
+20
+
+21
+
+Promoting chemical recycling in a
+regulatory vacuum
+
+Neither the US nor the EU has coherent regulations
+or  agreed  definitions  for  these  technologies  as  a
+group,  creating  further  confusion  when  industry
+or  FMCGs  promote  new  recycling  technologies.
+lobby  group  American  Chemistry
+The  plastics
+Council  encourages  regulators  to  see  ‘plastics-
+to-fuel’  not  as  recycling  or  waste  disposal  but
+as  manufacturing  processes,  or  even  energy
+production,158  despite  also  promoting
+these
+technologies
+the
+“Chemical Recycling Alliance.”159
+
+companies
+
+through
+
+and
+
+To  promote  acceptance  of  the  technology,  the
+plastics
+industry  employs  multiple  high-profile
+industry  alliances,  like  the  American  Chemistry
+Council’s Chemical Recycling Alliance160 the Alliance
+to  End  Plastic  Waste,161  and  positions  plastics-
+to-fuel  as  a  technological  marvel  (one  plastics
+industry  spokesperson  has  even  compared
+plastics-to-fuel  technology  to  “going  to  Mars”162).
+PepsiCo  and  Procter  &  Gamble  have  joined  the
+Alliance  to  End  Plastic  Waste,  a  partnership  of
+mostly plastics and petrochemical producers which
+aims to raise $1.5 billion to improve recycling and
+waste  management  infrastructure  and  develop
+recycling
+chemical
+recycling,  although  these  are  small  investments
+compared  to  the  $180  billion  investment  into  the
+expansion of plastic production.164
+
+technologies,163
+
+including
+
+Despite  the  many  concerns  mentioned  above  and
+the  fact  that  chemical  recycling  is  not  yet  technically
+or  economically  viable,165  FMCGs  are  promoting
+these  technologies  under  the  guise  of  “recycling”
+in  their  corporate  responsibility  materials.166  Many
+petrochemical  companies  have  invested  in  various
+chemical  recycling  start-ups  in  Europe  and  North
+America,167  which  are  partly  funded  by  some  FMCGs.
+Procter  &  Gamble,  PepsiCo,  Nestle,  L’Oreal,  Coca-
+Cola, Kuerig and Danone have all invested in chemical
+recycling technologies or have entered into purchasing
+agreements  for  future  product,168  169  170  even  though
+many  are  not  yet  producing  material  at  significant
+commercial scale and are still in a laboratory, pilot or
+construction phase.171  For example:
+
+•  Procter  &  Gamble  developed  a  process  using
+chemical solvents to convert polypropylene, which
+it has licensed to a startup that will sell material to
+Nestle and L’Oreal.172 173
+
+•  PepsiCo.  has  touted  its  intentions  to  incorporate
+chemically  recycled  PET  by  2020,  despite  the  fact
+that PET produced by its supply partner will not be
+commercially available until mid-2020.174
+
+22
+
+Banking on a false solution with unknown
+environmental and health impacts
+
+‘circular  economy’
+
+Details  of  these  recycling  processes  are  often
+not  disclosed,  obscuring  information  about  their
+costs,  efficiency,  environmental  impacts  such  as
+air or water pollution, or risks to workers.  Despite
+describing  them  as  ‘closed  loop’  or  referring  to
+in  their  promotions,175
+the
+most  processes  are  highly  energy-intensive,176
+require  costly  infrastructure,  and  generate  waste
+(such  as  additives  and  contaminants).  Even  with
+technologies  that  are  more  advanced,  there  is
+limited  evidence  that  they  are  environmentally
+safe  or  efficient  at  transitioning  to  a  low-carbon
+economy,177  much
+less  away  from  single-use
+plastics.
+
+Given  the
+limitations  of  mechanical  recycling,
+FMCG  commitments  towards  increased  recycled
+content  are  dependent  on  the  use  of  chemical
+
+commercial
+
+recycling  which  has  not  been  proven  to  be
+safe,  efficient,  or  environmentally  responsible,
+and  furthermore  is  still  years  away  from  being
+reality.178  Despite  high-profile
+a
+investment  and  promotion  as  a  solution,  chemical
+recycling  is  expensive,  inefficient  and  not  enough
+is  known  about  the  impacts  of  these  potentially
+polluting  processes.  FMCGs  and  retailers  are
+banking  on  theoretical  solutions  in  order  to  claim
+that  their  non-reusable  and  non-recyclable  plastics
+are made from recycled content and are ‘recyclable’.
+Meanwhile,  focusing  on  these  new  technologies
+could  delay  innovation  into  responsible  solutions.
+And  while  recycling  has  a  limited  but  important
+role  to  play  in  the  short-term,  to  solve  the  plastic
+pollution  crisis,  we  need  to  create  less  single-use
+plastic in the first place.
+
+23
+
+SECTION 6
+
+CONCLUSION:
+WE NEED A REUSE REVOLUTION!
+
+24
+
+•  Non-toxic:  Reusable  containers  should  be  free
+of  hazardous  chemicals,  extending  not  just  to
+chemicals  that  have  been  regulated  or  restricted
+in  certain  regions  but  to  all  chemicals  that  have
+intrinsically hazardous properties.179
+
+•  Convenient: Consumers should be able to access
+a  range  of  reusable  and  refillable  products  to
+fit  various  lifestyles,  and  reuse  shouldn’t  just
+be  available  to  customers  online,  for  example.
+Reusable  packaging
+collectible,
+and  companies  should  take  responsibility  for
+designing  collection  systems  to  ensure  that
+reusable  containers  don’t  become  disposable.
+Retailers  should  allow  customers
+to  bring
+their  own  reusable  containers  as  well  as  offer
+collectible options.
+
+should  be
+
+•  Simple:    A  transition  to  an  agricultural  system
+designed  around  ecological  principles  would
+include  more  consumption  of  food  closer  to  the
+point of production, meaning that we would need
+less packaging and transportation.
+
+•  Supports  a  just  transition  to  a  plastic-free
+economy:  values  manufacturing  and  delivery
+workers,  small  business  owners,  and  consumers
+more than profits for upper management
+
+The plastics crisis we are already in shows that the
+promise  of  recycling  has  already  failed.    But  the
+new  chemical  recycling  technologies  promoted
+by  big  brands  are  are  no  silver  bullet  either.    We
+could  be  waiting  years  before  these  become  a
+commercial reality, only to find that they come with
+a  high  ecological  cost  and  have  already  locked  us
+into a never-ending growth of plastics production.
+
+What  of  the  other  solutions  offered  by  big  food
+and  big  plastic?    It’s  easy  to  promote  natural
+alternatives  -  such  as  paper  and  card  -  and
+alternatives  that  sound  ‘natural’  -  like  bioplastics,
+that  come  with  unanswered  questions.
+  But
+the  volumes  and  scale  of  resources  that  would
+be  needed  would  put  unacceptable  pressures
+on  natural  resources  such  as
+forests  and
+agricultural land, which are already straining from
+overexploitation.
+
+This  is  not  an  adequate  response  to  the  plastics
+crisis  or  the  climate  crisis.    It’s  clear  that  we
+cannot  afford  to  wait.    It’s  also  fortunate  that
+other  solutions  exist,  which  can  be  implemented
+relatively quickly, that will benefit both people and
+the planet.
+
+As  a  priority,  we  call  for  the  reduction  of  units
+sold  in  single-use  packaging,  and  for  investment
+in  solutions  focused  on  reuse,  refill  and  other
+systems  not  dependant  on  disposables.
+to  rethink  how
+Ultimately  companies  need
+products  are  delivered  to  the  consumer.
+In
+the  transition  to  avoiding  throwaway  plastic,
+replacing  virgin  plastic  with  non-toxic,  recycled
+(and  recyclable)  plastic  only  has  a  limited  role  in
+addressing plastic overproduction.
+
+There  is  no  silver  bullet,  one-size  fits  all  option
+for  new  reusable/refillable  packaging  that  will
+be  applicable  to  every  company,  product  or
+geography.    We  propose,  however,  that  FMCGs
+and retailers urgently prioritize investment into the
+delivery  of  reuse  and  refill  options  that  meet  the
+following criteria:
+
+•  Affordable:  Producers must take responsibility
+for  the  cost  of  the  material,  the  refillable/
+reusable  packaging  and  its  collection,  and  not
+create  only  ‘premium’  reusable  containers  for
+well-off consumers.
+
+•  Durable:    Materials  should  be  long-lasting  and
+as strong as possible, to have the least amount
+of health and environmental impacts.
+
+25
+
+What FMCG companies and retailers need to do:
+
+Prioritize Reduction
+Companies  must  publicly  commit  to  phase  out
+single-use  plastics
+immediately,  and  achieve
+absolute reductions in the total number of single-use
+plastic  packaging  units  (not  lightweighting  existing
+products).  Companies should prioritize problematic
+and unnecessary plastics that are frequently littered
+or  harmful  to  human  health,  or  frequently  not
+recycled despite recyclability claims.
+FMCG  companies  must  engage  retailers  to  pilot
+alternative delivery systems.
+
+Invest in Innovative Alternative Delivery Systems
+Companies  have  incredible  power  to  collaborate
+with  consumers  to  re-imagine  our  supermarkets  or
+shopping  experiences  to  deliver  products  without
+sacrificing the planet.
+Be  flexible  and  creative  to  meet  a  variety  of
+consumer needs. There are multiple ways that reuse
+and refill options can work for consumers; no single
+option will be the best for everybody.
+
+Be Transparent
+Companies  must  track  and  annually  disclose  their
+use  of  plastic,  including  the  number,  composition,
+and weight of items containing single-use plastics.
+Companies should review the policies taken by their
+trade  associations  and  either  work  to  ensure  those
+associations  act  in  accordance  with  their  values  or
+sever their relationships.
+
+26
+
+27
+
+ENDNOTES
+
+1World Economic Forum (2016),  Every minute, one garbage truck of
+plastic is dumped into our oceans. This has to stop, James Pennington,
+27 Oct 2016; https://www.weforum.org/agenda/2016/10/every-
+minute-one-garbage-truck-of-plastic-is-dumped-into-our-oceans/
+
+2UN News (2017), ‘Turn the tide on plastic’ urges UN, as microplastics in
+the seas now outnumber stars in our galaxy, 23 February 2017;
+https://news.un.org/en/story/2017/02/552052-turn-tide-plastic-
+urges-un-microplastics-seas-now-outnumber-stars-our-galaxy#.
+WnTQcqinHIV
+
+3Geyer, R, Jambeck J, Law, K,  (2017) ‘Production, use, and fate of all
+plastics ever made.’
+https://advances.sciencemag.org/content/3/7/e1700782
+
+4Schmidt et al (2017), Export of Plastic Debris by Rivers into the Sea’
+https://pubs.acs.org/doi/10.1021/acs.est.7b02368
+
+5Rillig, M. (2012).Microplastic in terrestrial ecosystems and the soil?
+Environ. Sci. Technol. https://pubs.acs.org/doi/pdfplus/10.1021/
+es302011r
+
+6Wetherbee, GA, Baldwin AK, Ranville JF (2019),  It is raining plastic,
+USGS; https://pubs.er.usgs.gov/publication/ofr20191048
+
+7See, for example, draft Scientific Consensus Statement on Nano
+and Micro Plastics, presented at Unwrapped conference, June 12,
+2019, Scotts Valley, California. https://drive.google.com/drive/
+folders/1jnKYM5ihrBIxNYaX05FK-yeZWFUSEUqr
+
+8CIEL (2017). Fueling Plastics issue brief. https://www.ciel.org/
+wp-content/uploads/2017/09/Fueling-Plastics-Fossils-Plastics-
+Petrochemical-Feedstocks.pdf  Accessed Sep 3, 2019
+
+9CIEL (2019) . Plastic & Health: The Hidden Costs of a Plastic Planet
+https://www.ciel.org/wp-content/uploads/2019/02/Plastic-and-
+Health-The-Hidden-Costs-of-a-Plastic-Planet-February-2019.pdf
+
+10CIEL (2019). Op. cit.  Page 63. https://www.ciel.org/wp-content/
+uploads/2019/02/Plastic-and-Health-The-Hidden-Costs-of-a-Plastic-
+Planet-February-2019.pdf  Page 25
+
+11Plastic & Climate: The Hidden Costs of  Plastic Planet. https://
+www.ciel.org/wp-content/uploads/2019/05/Plastic-and-Climate-
+FINAL-2019.pdf Page 19
+
+12CIEL (2019b). op.cit.  Page 80
+
+13See for example, British Plastics Federation website (undated).
+‘Plastics Additives.’  https://www.bpf.co.uk/plastipedia/additives/
+default.aspx
+
+14US Centers for Disease Control and Prevention website (2017).
+https://www.cdc.gov/biomonitoring/Phthalates_FactSheet.html
+
+15State of California Environmental Protection Agency, ‘Proposition 65
+List.’ https://oehha.ca.gov/proposition-65/proposition-65-list
+
+16US National Institute of Environmental Health Sciences, website.
+‘Bisphenol A.’ https://www.niehs.nih.gov/health/topics/agents/sya-
+bpa/index.cfm
+
+17US National Institute of Environmental Health Sciences, website.
+op.cit.  ‘Endocrine Disruptors.’
+
+18It should be noted that similar additives are added to food packaging
+made of other materials, such as aluminum cans, though migration
+from packaging into the human body may differ based on the material
+used. See, for example,  https://www.foodpackagingforum.org/food-
+packaging-health/can-coatings
+
+21Taylor, Matthew (2017), ‘180 bn investment in plastic factories feeds
+global packaging binge.’ The Guardian. Dec 26, 2017. https://www.
+theguardian.com/environment/2017/dec/26/180bn-investment-in-
+plastic-factories-feeds-global-packaging-binge
+
+22Ellen MacArthur Foundation (2016).  ‘New Plastics Economy’ https://
+www.ellenmacarthurfoundation.org/publications/the-new-plastics-
+economy-rethinking-the-future-of-plastics page 18
+
+23Taylor, Matthew (2017), op.cit.
+
+24See, for example. Luck, M (2019), Chevron-Phillips to build 8B
+plant on Gulf Coast, Chron, ‘July 10, 2019 https://www.chron.com/
+business/energy/article/Chevron-Phillips-to-build-8B-plant-on-
+Gulf-COast-14082601.php, Luck, M (2019), Exxon to invest 2B into
+Baytown petrochemicals, Chron, May 2 2019 https://www.chron.
+com/business/energy/article/Exxon-to-invest-2B-into-Baytown-
+petrochemical-13813195.php, and Environmental Integrity Project
+(2018), 31 New or Expanded Petrochemical Plants Approved in
+Hurricane Zone Along TX and LA Gulf Coast, September 26, 2018
+https://www.environmentalintegrity.org/news/31-new-or-
+expanded-petrochemical-plants/
+
+25Hazardous Substance Research Centre, South & Southwest Outreach
+program (2003), Environmental Impact of the Petroleum Industry;
+https://cfpub.epa.gov/ncer_abstracts/index.cfm/fuseaction/display.
+files/fileID/14522
+
+26Gulf Restoration Network, website, undated; http://action.
+healthygulf.org/our-work/resisting-dirty-energy/offshore-oil-and-
+gas
+
+27Flanders Investment and Trade, undated; https://www.
+flandersinvestmentandtrade.com/invest/en/news/ineos-uk-plans-
+%E2%80%98mega-investment%E2%80%99-in-antwerp-flanders
+
+28The Brussels Times (2019), 2.7 billion investment on its way to
+Antwerp’s Port, 5 January 2019
+https://www.brusselstimes.com/all-news/belgium-all-news/
+employment/52889/2-7-billion-investment-on-its-way-to-antwerp-
+s-port/
+
+29Griswold, Eliza. ‘A Pipeline, a Protest, and the Battle for Pennsylvania’s
+Political Soul.’ New Yorker, October 26, 2018 https://www.newyorker.
+com/news/dispatch/a-pipeline-a-protest-and-the-battle-for-
+pennsylvanias-political-soul
+
+30Maykuth, Andrew. ‘Sunoco begins first exports of Marcellus Shale
+ethane via Marcus Hook terminal.’  Philadelphia Inquirer, March 9, 2016
+
+31Ineos, website. https://www.ineos.com/news/ineos-group/a-first-
+for-britain/ Accessed August 25, 2019.
+
+32Food and Water Watch Europe, August 28, 2019. https://www.
+foodandwatereurope.org/pressreleases/broad-international-
+opposition-to-petrochemical-giant-ineos-expansion-plans/
+
+33Foster, Malcolm. ‘G20 to take ocean plastic waste as petrochemical
+producers expand in Asia.’  Retuers.  June 13, 2019. https://www.
+reuters.com/article/us-g20-summit-plastics/g20-to-tackle-ocean-
+plastic-waste-as-petrochemical-producers-expand-in-asia-
+idUSKCN1TE0QJ
+
+34Jambeck et al (2015). ‘Plastic waste inputs from land into the ocean.’
+Science. 3 February 2015. Vol 347, Issue 6223.
+
+35PlasticsEurope (2018) . https://www.plasticseurope.org/
+application/files/6315/4510/9658/Plastics_the_facts_2018_AF_web.
+pdf  Accessed August 22, 2019.
+
+19See, for example, draft Scientific Consensus Statement on Nano and
+Micro Plastics, presented at Unwrapped conference, June 12, 2019,
+Scotts Valley, California
+
+36Ellen MacArthur Foundation (2016).  ‘New Plastics Economy’, page 18
+https://www.ellenmacarthurfoundation.org/publications/the-new-
+plastics-economy-rethinking-the-future-of-plastics
+
+20EU Science Hub, 2016. ‘Assessing potential risks from exposure to
+chemical mixtures - case study review.’ https://ec.europa.eu/jrc/
+en/science-update/assessing-potential-risks-exposure-chemical-
+mixtures-case-study-review
+
+37Jambeck et al (2015), op.cit.
+
+38Break Free from Plastic (2018). ‘The Brand Audit report.’  https://
+www.breakfreefromplastic.org/globalbrandauditreport2018/
+
+28
+
+39GAIA (2019), Plastics Exposed:  How Waste Assessments and Brand
+Audits are Helping Philippine Cities Fight Plastic Pollution; https://
+www.no-burn.org/wp-content/uploads/Plastics-Exposed-2nd-
+Edition-Online-Version.pdf
+
+57Staub, Colin (2018),  ‘Paper recycling sector reflects on a year in flux.’
+Resource Recycling, November 6, 2018 https://resource-recycling.com/
+recycling/2018/11/06/paper-recycling-sector-reflects-on-a-year-in-
+flux/
+
+40Ellen MacArthur Foundation (2019), op.cit.
+
+58Environmental Paper Network (2019c), op.cit.
+
+41For more information about principles of just transition, see, for
+example, https://climatejusticealliance.org/just-transition/
+
+42Adapted from the Grassroots Global Justice Alliance. http://
+ggjalliance.org/aggregator/sources/48
+
+43Ellen MacArthur Foundation (2019), ‘Reuse’; https://www.
+ellenmacarthurfoundation.org/assets/downloads/Reuse.pdf
+
+44Friends of the Earth Europe (2018), Justifying plastic pollution: the
+shortcomings of Life Cycle Assessments in food packaging policy;
+http://www.foeeurope.org/sites/default/files/materials_and_
+waste/2018/justifying_plastic_pollution_the_shortcomings_of_lcas_
+in_food_packaging_policy.pdf
+
+45Ministry of Environment and Food (Denmark) (2018), Life
+Cycle Assessment of grocery carrier bags, Environmental
+Project No. 1985, February 2018; https://www2.mst.dk/Udgiv/
+publications/2018/02/978-87-93614-73-4.pdf, page 13, 43
+
+46Dunkin Donuts (2018). website. https://news.dunkindonuts.com/
+news/dunkin-donuts-to-eliminate-foam-cups-worldwide-in-2020
+Accessed September 3, 2019.
+
+47Starbucks announced that some straws would be replaced by a
+raised lid redesign but that FrappucinoTM drinks would be served with
+a straw made from a “plastic alternative” (https://stories.starbucks.
+com/stories/2019/say-hello-to-the-lid-that-will-replace-a-billion-
+straws-a-year/) which has been reported as either paper or bio-based
+plastic (https://stories.starbucks.com/stories/2018/starbucks-
+announces-environmental-milestone/).  https://www.nytimes.
+com/2018/06/15/business/mcdonalds-plastic-straws-britain.html
+
+48Nestlé (2019) website. https://www.nestle.com/ask-nestle/
+environment/answers/tackling-packaging-waste-plastic-bottles
+
+49Global Business News (2019), Nestlé wrapper breakthrough hailed
+in fight against plastic, July 2 2019; https://www.business-support-
+network.org/Globalbiz/nestle-wrapper-breakthrough-hailed-in-
+fight-against-plastic/
+
+50Environmental Leader (2019), Nestlé Launches Nesquik in Recyclable
+Paper Pouches, March 7 2019;
+https://www.environmentalleader.com/2019/03/nestle-nesquik-
+recyclable/
+
+51Nestlé (2019), Nestlé accelerates action to tackle plastic waste,
+Jan 15 2019; https://www.nestle.com/media/pressreleases/
+allpressreleases/nestle-action-tackle-plastic-waste
+
+52See, for example, Agrawal, N (2018) Well-Known Brands Are Moving
+Towards Paper Packaging. Here’s Why? BizNGO,  October 17, 2018
+https://bizongo.com/blog/big-brands-paper-packaging/, or Myers,
+A (2019), A technical breakthrough in confectionery packaging will
+see Nestlé’s ‘YES!’ snack bar range wrapped in recyclable paper
+for the first time, Confectionery News, 03-Jul-2019 https://www.
+confectionerynews.com/Article/2019/07/03/Ground-breaking-work-
+by-Nestle-research-produces-first-recyclable-paper-packaging-on-
+snack-bar
+
+53IUCN (undated), Raising the profile of primary forests including intact
+forest landscapes, website https://www.iucn.org/theme/forests/our-
+work/primary-and-intact-forest-landscapes/raising-profile-primary-
+forests-including-intact-forest-landscapes.
+
+54Environmental Paper Network (2019, The state of the global paper
+industry 2018; https://environmentalpaper.org/wp-content/
+uploads/2018/04/StateOfTheGlobalPaperIndustry2018_FullReport-
+Final-1.pdf p.3)
+
+55Environmental Paper Network (2019b), A burning issue: Large scale
+industrial tree plantations and climate change, 20 February 2019;
+https://environmentalpaper.org/wp-content/uploads/2019/02/
+Forest-fires-plantations-EPN-discussion-document-20-Feb-2019.pdf
+
+56Bastin et al (2019). ‘The global tree restoration potential.’ https://
+science.sciencemag.org/content/365/6448/76  See also, Greenpeace
+International (2019), Deforestation, meat production driving climate
+crisis, August 8 2019;  https://www.greenpeace.org/international/
+press-release/23685/deforestation-meat-production-driving-
+climate-crisis/ and  IPCC Land Use report https://www.ipcc.ch/
+report/srccl/
+
+59Picheta, R (2019), McDonald’s new paper straws aren’t recyclable —
+but its axed plastic ones were, CNN Business, August 5, 2019; https://
+www.cnn.com/2019/08/05/business/mcdonalds-paper-straws-
+recyclable-scli-gbr-intl/index.html
+
+60Nestlé (2019), Nestlé launches YES! snack bars in recyclable paper
+wrapper, July 2 2019; https://www.nestle.com/media/news/yes-
+snack-bars-recyclable-paper-wrapper
+
+61See, for example, FSC http://ga2014.fsc.org/dollars-and-sense
+
+62For example, Unilever had stated will give preference to FSC but
+obtain PEFC-certified paper for its packaging where it cannot obtain
+FSC-certified, though its current paper policy notes that it accepts
+both schemes seemingly equally https://www.greenchipstocks.
+com/articles/unilever-plans-for-100-sustainable-packaging/78832
+.   https://www.unilever.com/Images/unilever-paper-and-board-
+packaging-policy-2018_tcm244-529491_en.pdf
+
+63Greenpeace International press release (2018).  https://www.
+greenpeace.org/international/press-release/15589/greenpeace-
+international-to-not-renew-fsc-membership/
+
+64Greenpeace Southeast Asia press release (2015) ‘‘Greenpeace, RAN
+warn of forest certification greenwash.’ https://www.greenpeace.
+org/southeastasia/press/591/greenpeace-ran-warn-of-forest-
+certification-greenwash/
+
+65Intact Forest Landscapes website (undated). http://www.
+intactforests.org/
+
+66Greenpeace Global Mapping Hub. 2017. https://maps.greenpeace.
+org/project/impact-of-industrial-logging-on-intact-forest-
+landscape-ifl-in-congo-basin/
+
+67Greenpeace Russia (2017), The major problem of FSC in Russia;
+http://www.forestforum.ru/viewtopic.php?f=28&t=20791
+
+68SCA (2017) investor presentation. http://cloud.magneetto.
+com/sca/2017_0531_cmd2017_2/view; Bioenergy International,
+website (2019). https://bioenergyinternational.com/
+biochemicals-materials/sca-investing-sek-7-5-billion-
+in-kraftliner-capacity-expansion-at-obbola-mill?utm_
+source=Bioenergy+International+newsletter&utm_
+campaign=68a135c540-EMAIL_CAMPAIGN_2019_05_22_07_26_
+COPY_01&utm_medium=email&utm_term=0_dcf37b26af-
+68a135c540-77569249
+
+69Greenpeace (2019). Countdown to Extinction, 10 June 2019, page 93;
+https://www.greenpeace.org/international/publication/22247/
+countdown-extinction-report-deforestation-commodities-soya-
+palm-oil
+
+70Nestlé (2019), Nestlé pulp mill transparency; https://www.nestle.
+com/asset-library/documents/creating-shared-value/raw-
+materials/nestle-pulp-mill-transparency.pdf
+
+71Greenpeace (2019), Countdown to Extinction op.cit.  page 93
+
+72Coca-Cola website (2016). ‘PlantBottle™ Packaging.’ www.coca-
+colaafrica.com/stories/sustainability-packaging-plantbottle#
+
+73Barrett, Axel. “Danone Uses Bioplastics Bottle for So Delicious
+Brand.” Bioplastics News, 27 Jun. 2018, http://bioplasticsnews.
+com/2018/06/27/danone-wave-bioplastics-plantbased-bottle-
+packaging
+
+74Nestlé Waters. “Danone and Nestlé Waters Launch NaturALL Bottle
+Alliance with California Startup to Develop 100% Bio-Based Bottles.” 2
+Mar 2017 www.nestleusa.com/media/pressreleases/nestle-waters-
+launch-alliance-naturall-bio-based-bottles
+
+75Greener Package (2019), PepsiCo joins NaturALL Bottle Alliance;
+https://www.greenerpackage.com/bioplastics/pepsico_joins_
+naturall_bottle_alliance
+
+76European Bioplastics website (undated). https://www.european-
+bioplastics.org/faq-items/what-are-the-advantages-of-bioplastic-
+products/  Accessed Sep 3 2019
+
+77European Bioplastics (website).  https://www.european-bioplastics.
+org/market/   Accessed Sep 3, 2019.
+
+29
+
+78Greener Package (2019), op.cit.
+
+79Nestlé (2017), Danone and Nestlé Waters Launch NaturALL Bottle
+Alliance with California Startup to Develop 100% Bio-Based Bottles, 2
+March 2017;
+https://www.nestleusa.com/media/pressreleases/nestle-waters-
+launch-alliance-naturall-bio-based-bottles
+
+80Institute for Bioplastics and Biocomposites, Biopolymers: Facts and
+Statistics, Edition 4. Hannover, Germany: IfBB, 2017.
+
+81Giljum, Stefan, et al. (2016), Land Under Pressure: Global Impacts of
+the EU Bioeconomy. Brussels: Friends of the Earth Europe, 2016. www.
+foeeurope.org/sites/default/files/resource_use/2016/land-under-
+pressure-report-global-impacts-eu-bioeconomy.pdf
+
+82Díaz S et al (2019) ‘Summary for policymakers of the global
+assessment report on biodiversity and ecosystem services of the
+Intergovernmental Science-Policy Platform on Biodiversity and
+Ecosystem Services, advance unedited version’ 6 May 2019 https://
+www.ipbes.net/system/tdf/spm_global_unedited_advance.
+pdf?file=1&type=node&id=35245
+
+98Greenpeace Spain (2019), When Recycling Is Not Enough,  (Spanish
+only); https://es.greenpeace.org/es/wp-content/uploads/
+sites/3/2019/03/reciclar_no_es_suficiente.pdf
+
+99Dobush, Grace (2019), The Brutal Reality Of Being The World’s ‘Best’
+Recycler’,  Huffpost. July 19. 2019; https://www.huffpost.com/entry/
+germany-recycling-reality_n_5d30fccbe4b004b6adad52f8
+
+100Plastics Europe (2018) ‘Plastics the Facts 2018’. https://www.
+plasticseurope.org/application/files/6315/4510/9658/Plastics_the_
+facts_2018_AF_web.pdf
+
+101United States Environmental Protection Agency. (undated). ‘Plastics:
+Material-Specific Data.’ https://www.epa.gov/facts-and-figures-
+about-materials-waste-and-recycling/plastics-material-specific-
+data  Accessed August 25, 2019.
+
+102Dell, Jan. (2019). ‘Six times more plastic waste is burned in US than
+is recycled.’ Analysis was done using both 2015 EPA data and US
+Census Bureau data. https://www.plasticpollutioncoalition.org/
+pft/2019/4/29/six-times-more-plastic-waste-is-burned-in-us-than-is-
+recycled
+
+83IPCC (2014). Climate change 2014: Mitigation of climate change’
+Cambridge University Press, page 820, figure 11.2;  https://www.ipcc.
+ch/site/assets/uploads/2018/02/ipcc_wg3_ar5_full.pdf
+
+103Closed Loop Partner (2019). ‘Accelerating Circular Supply Chains
+for Plastics.’ http://www.closedlooppartners.com/wp-content/
+uploads/2019/04/CLP_Circular_Supply_Chains_for_Plastics.pdf
+
+84Giljum, Stefan, et al. (2016), op.cit.
+
+85Greene, et al. (2018), ‘Biodegradation of Biodegradable and
+Compostable Plastics under Industrial Compost, Marine and Anaerobic
+Digestion’.  http://hendun.org/journals/EEO/PDF/EEO-18-1-104.pdf
+
+104Ellen MacArthur Foundation (2016), ‘New Plastics Economy:
+Rethinking the Future of Plastic’. https://www.newplasticseconomy.
+org/about/publications/report-2016
+
+105Ellen MacArthur Foundation (2016), op.cit.
+
+86Degradable plastic breaks apart based on physical and chemical
+impact, while biodegradable plastic specifically degrades based on the
+action of naturally-occurring microorganisms such as bacteria, fungi
+and algae. See http://www.biobags.co.uk/faq/biodegradable.htm
+
+106Goldsberry, Clare. ‘Flexible packaging seeing growth in all market
+segments.’ Plastics Today, November 5, 2019.
+https://www.plasticstoday.com/packaging/flexible-packaging-
+seeing-growth-all-market-segments/106685753459758
+
+87UNEP (2015), ‘ Biodegradable Plastics and Marine Litter:
+Misconceptions, concerns and impacts on impacts on marine
+environments.’ https://wedocs.unep.org/bitstream/
+handle/20.500.11822/7468/-Biodegradable_Plastics_and_Marine_
+Litter_Misconceptions,_concerns_and_impacts_on_marine_
+environments-2015BiodegradablePlasticsAndMarineLitter.pdf.
+pdf?sequence=3
+
+107Friends of the Earth Europe (2018), Unwrapped: how throwaway
+plastic is failing to solve Europe’s food waste problem (and what we
+need to do instead), 10 April 2018, page 9; http://www.foeeurope.org/
+unwrapped-throwaway-plastic-food-waste
+
+108Transparency Market Research, Global Sachet Packaging Market.
+Report held by Greenpeace.
+
+88Laville, S (2019), Biodegradable’ Plastic Bags Survive Three Years in
+Soil and Sea. The Guardian, 29 Apr. 2019; www.theguardian.com/
+environment/2019/apr/29/biodegradable-plastic-bags-survive-
+three-years-in-soil-and-sea
+
+109Posadas, Dennis (2014), Sachets help low-income communities but
+are a waste nightmare, The Guardian. May 22, 2014. https://www.
+theguardian.com/sustainable-business/sachet-packaging-low-
+income-communities-waste-nightmare
+
+89Napper, I.E. & Thompson, R.C. (2019). ‘Environmental Deterioration of
+Biodegradable, Oxo-biodegradable, Compostable, and Conventional
+Plastic Carrier Bags in the Sea, Soil, and Open-Air Over a 3-Year Period.’
+Environmental Science & Technology 53(9): 4775-4783 https://doi.
+org/10.1021/acs.est.8b06984.
+
+90Vieira et al (2011) Natural-based plasticizers and biopolymer
+films: A review. European Polymer Journal 47,254–263. https://doi.
+org/10.1016/j.eurpolymj.2010.12.011
+
+91ASTM Standardization News, (1999),  ASTM standards help define
+and grow a biodegradable plastics industry, October 1999; https://
+www.ftc.gov/sites/default/files/documents/public_comments/
+guides-use-environmental-marketing-claims-project-no.p954501-
+00181%C2%A0/00181-56737.pdf
+
+92European Bioplastics website (undated). https://www.european-
+bioplastics.org/faq-items/what-are-the-required-circumstances-for-
+a-compostable-product-to-compost/  Accessed August 20, 2019
+
+93European Bioplastics. (2018) ‘Bioplastics Facts and Figures’ https://
+docs.european-bioplastics.org/publications/EUBP_Facts_and_
+figures.pdf  Accessed Aug 20 2019
+
+94Buranyi, Stephen. ‘The Plastic backlash: what’s behind our sudden
+rage - and will it make a difference.’  The Guardian, November 13, 2018.
+https://www.theguardian.com/environment/2018/nov/13/the-
+plastic-backlash-whats-behind-our-sudden-rage-and-will-it-make-a-
+difference  Accessed August 22, 2019.
+
+95Geyer, R, Jambeck J, Law, K,  (2017), op.cit.
+
+96Greenpeace Malaysia (2018), ‘Malaysia and the Broken Global
+Recycling System.’ ‘https://www.greenpeace.org/southeastasia/
+publication/549/the-recycling-myth/
+
+97GAIA, (2019b), Discarded: Communities on the frontlines of the
+global plastic crisis, 22 April 2019; https://wastetradestories.org/wp-
+content/uploads/2019/04/Discarded-Report-April-22-pages.pdf
+
+110Mahajan, Vijay. ‘How Unilever Reaches Rural Consumers in Emerging
+Markets. Harvard Business Review. December 14, 2016.https://hbr.
+org/2016/12/how-unilever-reaches-rural-consumers-in-emerging-
+markets
+
+111In Nestlé’s recent “negative list” of materials it will phase out,
+“non-recyclable paper/plastic combinations” is on the list, but not the
+combination of plastic/foil which characterizes much of the sachets
+on the market is not. Nestlé (2019). https://www.nestle.com/asset-
+library/documents/media/press-release/2019-january/nestle-
+action-tackle-plastic-waste-negative-list.pdf
+
+112Unilever website. (2018). https://www.unilever.com/news/news-
+and-features/Feature-article/2018/our-solution-for-recycling-
+plastic-sachets-takes-another-step-forward.html  Accessed August
+25, 2019.
+
+113Manila Bulletin (2018), Unilever PH pushes plastic sachet recycling
+project, January 11, 2018; https://business.mb.com.ph/2018/01/09/
+unilever-ph-pushes-plastic-sachet-rcycling-project/
+
+114Unilever (2017), Unilever Strengthens Waste Recovery Efforts,
+5 August 2017; https://www.unilever.com.ph/news/press-
+releases/2017/MisisWalastikProgramCynthiaVillar.html
+
+115Various news accounts give various figures for both the first year
+and subsequent years, ranging from 4.5 million to 10 million collected.
+2014 figures have been reported at 7.5 million. Remo AR (2013, Sachet
+recovery program may help stop floods, September 14, 2013; https://
+business.inquirer.net/142911/sachet-recovery-program-may-help-
+stop-floods#ixzz5zR88mXLB
+
+116Greenpeace (2018), A Crisis of Convenience: the corporations behind
+the plastics pollution pandemic, 23 October 2018, page 10; https://
+www.greenpeace.org/international/publication/19007/a-crisis-
+of-convenience-the-corporations-behind-the-plastics-pollution-
+pandemic/
+
+117GAIA (2019), op.cit.
+
+30
+
+118CreaCycle Gmbh, website (undated).  https://www.creacycle.de/en/
+the-process.html
+
+119Unilever website (2018), Our solution for recycling plastic sachets
+takes another step forward, 08/11/2018; https://www.unilever.com/
+news/news-and-features/Feature-article/2018/our-solution-for-
+recycling-plastic-sachets-takes-another-step-forward.html
+
+120GAIA, (2019b), op.cit.
+
+121Geyer, R., Jambeck J., Law, K.  (2017), op.cit.
+
+122Wheeling, Kate. ‘The EPA Blames Six Asian Nations that the US
+Exports Plastic Waste to For Ocean Pollution.’ Pacific Standard, July 15,
+2019; https://psmag.com/environment/the-epa-blames-six-asian-
+nations-that-the-u-s-exports-plastic-waste-to-for-ocean-pollution
+
+123GAIA, (2019b), op.cit. page 9
+
+124GAIA, (2019), op.cit.
+
+125GAIA, (2019), op.cit.page 12
+
+126Schmidt et al (2017), op.cit.
+
+127Jambeck, J. et al (2015), op.cit.
+
+128Greenpeace East Asia. (2019), Data from the global plastics waste
+trade 2016-2018 and the offshore impact of China’s foreign waste
+import ban, 23 April 2019; http://www.greenpeace.org/eastasia/
+Global/eastasia/publications/campaigns/toxics/GPEA%20
+Plastic%20waste%20trade%20-%20research%20briefing-v1.pdf
+
+143CIEL(2019b), op.cit. https://www.ciel.org/wp-content/
+uploads/2019/02/Plastic-and-Health-The-Hidden-Costs-of-a-Plastic-
+Planet-February-2019.pdf
+
+144Hahladakis, J. et al (2019),  An overview of chemical additives present
+in plastics: Migration, release, fate and environmental impact during
+their use, disposal and recycling.’ Journal of Hazardous Materials,
+Volume 344, 15 February 2018.  https://www.sciencedirect.com/
+science/article/pii/S030438941730763X
+
+145Closed Loop Partner (2019). ‘Accelerating Circular Supply Chains
+for Plastics.’ http://www.closedlooppartners.com/wp-content/
+uploads/2019/04/CLP_Circular_Supply_Chains_for_Plastics.pdf
+
+146Chemical & Engineering News, 2018, Chemistry may have solutions
+to our plastic trash problem, June 15, 2018,  Volume 96, Issue 25
+https://cen.acs.org/environment/pollution/Chemistry-solutions-
+plastic-trash-problem/96/i25
+
+147Closed Loop Partner (2019) op.cit, or Differences in Recyclability
+and Recycling of Common Consumer Plastic Resins; https://
+files.nc.gov/ncdeq/Environmental%20Assistance%20and%20
+Customer%20Service/Plastic%20Bottles/Other%20Resources/
+RecyclingCommonConsumerPlasticResins.pdf
+
+148Recycling Today (2019), The potential of polypropylene, July 17 2019;
+https://www.recyclingtoday.com/article/the-recycling-potential-of-
+polypropylene/
+
+149Zero Waste Europe (2019), ‘El Dorado of chemical recycling.’ https://
+zerowasteeurope.eu/wp-content/uploads/edd/2019/08/2019_08_29_
+zwe_study_chemical_recycling.pdf
+
+129Greenpeace East Asia. (2019), op.cit.
+
+150Zero Waste Europe (2019), op.cit.
+
+130Greenpeace International (2019), New research exposes a crisis in
+the global trade of “recyclable” plastics, 23 April 2019; https://www.
+greenpeace.org/international/press-release/21789/new-research-
+exposes-a-crisis-in-the-global-trade-of-recyclable-plastics/
+
+131Cancian, Dan. ‘Malaysia Has Started Returning Tons of Trash to the
+West: ‘We Will Not Be the Dumping Ground of the World.’ Newsweek,
+May 28, 2019. https://www.newsweek.com/plastic-waste-malaysia-
+minister-yeo-bee-bin-south-east-asia-trash-1436969
+
+132Sarmiento, Prime. ‘ASEAN steps up to stop junk imports’ China
+Daily. August 5, 2019. http://global.chinadaily.com.cn/a/201908/05/
+WS5d4788d5a310cf3e35563dac.html
+
+133CIEL (2019),‘Plastic & Health: The Hidden Costs of a Plastic Planet,
+February 2019; https://www.ciel.org/wp-content/uploads/2019/02/
+Plastic-and-Health-The-Hidden-Costs-of-a-Plastic-Planet-
+February-2019.pdf
+
+134Plastics Europe (2018). ‘Plastics: The Facts.’ https://www.
+plasticseurope.org/application/files/6315/4510/9658/Plastics_the_
+facts_2018_AF_web.pdf
+
+151GAIA (2017).  ‘Waste Gasification & Pyrolysis: High Risk, Low Yield
+Processes for Waste Management’ https://www.no-burn.org/report-
+reveals-billions-wasted-on-gasification-over-30-years-of-failures/
+
+152Ellen MacArthur Foundation (2019), op.cit
+
+153SABIC, website, (2019), SABIC PIONEERS FIRST PRODUCTION OF
+CERTIFIED CIRCULAR POLYMERS, 13 February 2019; https://www.
+sabic.com/en/news/17390-sabic-pioneers-first-production-of-
+certified-circular-polymers
+
+154Eco Business (2019), Sabic and customers launch certified circular
+polymers from mixed plastic waste https://www.eco-business.com/
+press-releases/sabic-and-customers-launch-certified-circular-
+polymers-from-mixed-plastic-waste/
+
+155Plastics News Europe (2016), Tupperware puts Sabic certified
+circular polymers into housewares, May 16 2019; https://www.
+plasticsnewseurope.com/news/tupperware-puts-sabic-certified-
+circular-polymers-housewares
+
+156Closed Loop Partner (2019), op.cit..
+
+135CIEL (2019), op.cit. page 44
+
+157Closed Loop Partner (2019), op.cit. page 21
+
+136Dell, Jan. (2019), Six times more plastic waste is burned in US than is
+recycled, April 30 2019; https://www.plasticpollutioncoalition.org/
+pft/2019/4/29/six-times-more-plastic-waste-is-burned-in-us-than-is-
+recycled
+
+137GAIA (2018). ‘Facts about WTE incinerators.’ https://www.no-burn.
+org/wp-content/uploads/GAIA-Facts-about-WTE-incinerators-
+Jan2018-1.pdf
+
+138GAIA (2018), op.cit.
+
+139GAIA (2018b). ‘Garbage Incineration is Dirty Energy.’  https://www.
+pfpi.net/wp-content/uploads/2017/09/GAIA-garbage-incineration-
+factsheet.pdf
+
+140Ana Isabel Baptista AI and Perovich A (2019), US Municipal Solid
+Waste Incinerators: An Industry in Decline, The Tishman Environment
+and Design Center at The New School, May 2019; https://static1.
+squarespace.com/static/5d14dab43967cc000179f3d2/t/5d5c4bea0d5
+9ad00012d220e/1566329840732/CR_GaiaReportFinal_05.21.pdf
+
+141Business World (2019), Nestlé Philippines, Republic Cement to
+co-process post-consumer waste. May 17, 2019; https://www.
+bworldonline.com/nestle-philippines-republic-cement-to-co-
+process-post-consumer-waste/
+
+142Zero Waste Europe et al (2016). Civil society statement on the
+practice of waste incineration in cement kilns. November 16, 2016.
+https://zerowasteeurope.eu/2016/11/civil-society-statement-on-
+the-practice-of-waste-incineration-in-cement-kilns/
+
+158American Chemistry Council, website (undated). ‘What are
+plastics-to-fuel technologies and how should they be regulated?’
+https://plastics.americanchemistry.com/Product-Groups-and-
+Stats/Plastics-to-Fuel/Infographic-What-Are-Plastics-to-Fuel-
+Technologies-and-How-Should-They-Be-Regulated.pdf
+
+159American Chemistry Council, website (undated). ‘The Chemical
+Recycling Alliance.’ https://plastics.americanchemistry.com/
+Chemical-Recycling-Alliance.html
+
+160https://plastics.americanchemistry.com/Chemical-Recycling-
+Alliance.html
+
+161Alliance to End Plastic Waste (2019), Plastic Waste and the Circular
+Economy https://endplasticwaste.org/latest/plastic-waste-and-the-
+circular-economy/
+
+162Wagner, Rick (2018), In My Opinion: Launchpad for circularity,
+Resource Recycling. January 25, 2018. https://resource-recycling.
+com/recycling/2018/01/25/opinion-launchpad-circularity/
+
+163https://endplasticwaste.org/latest/alliance-to-end-plastic-waste-
+welcomes-12-new-companies-from-across-the-plastics-value-chain/
+
+164Laville, Sandra (2019),  Founders of Plastic Waste Alliance
+Investing Billions in New Plantshttps://www.theguardian.com/
+environment/2019/jan/21/founders-of-plastic-waste-alliance-
+investing-billions-in-new-plants
+
+165Chemical & Engineering News, 2018, op.cit.
+
+31
+
+166See, for example, PureCycle website (2019) https://purecycletech.
+com/2019/03/purecycle-technologies-partners-with-milliken-
+nestle-to-accelerate-revolutionary-plastics-recycling/ and Nestle
+website (2019). https://www.nestle.com/media/pressreleases/
+allpressreleases/nestle-action-tackle-plastic-waste
+
+167Plastics Recycling Update (2018) Recycling startups ink deals with
+virgin plastics makers, May 4, 2018; https://resource-recycling.
+com/plastics/2018/05/04/recycling-startups-ink-deals-with-virgin-
+plastics-makers/
+
+168Closed Loop Partner (2019), op.cit. page 16
+
+169Closed Loop Partner (2019), op.cit.
+
+170Unilever (2018), Unilever to pioneer breakthrough food packaging
+technology together with Ioniqa & Indorama Ventures, April 4 2018;
+https://www.unilever.com/news/press-releases/2018/unilever-to-
+pioneer-breakthrough-food-packaging-technology-together-with-
+ioniqa-and-indorama-ventures.html
+
+171Closed Loop Partner (2019), op.cit..
+
+172PureCycle (2019), PureCycle Technologies Partners with Milliken,
+Nestlé to Accelerate Revolutionary Plastics Recycling, March 13
+2019;  https://purecycletech.com/2019/03/purecycle-technologies-
+partners-with-milliken-nestle-to-accelerate-revolutionary-plastics-
+recycling/
+
+173PureCycle (2019), PureCycle Technologies signed an agreement with
+L’Oréal for the supply of Ultra-Pure Recycled Polypropylene, July 18
+2019; https://purecycletech.com/2019/07/purecycle-technologies-
+signed-agreement-with-loreal-for-the-supply-of-ultra-pure-
+recycled-polypropylene/
+
+174Loop Industries, Inc. Form 10-Q.  July 8, 2019.  Accessed from
+the SEC Edgar database https://www.sec.gov/Archives/edgar/
+data/1504678/000165495419008030/lp_10q.htm
+
+175See, for example, Ioniqa website http://www.ioniqa.com/circular-
+economy/
+
+176Based on an initial Greenpeace analysis of available materials
+of companies profiled  in the Closed Loop Partners 2019 report,
+ACCELERATING CIRCULAR SUPPLY CHAINS FOR  PLASTICS; https://
+www.closedlooppartners.com/wp-content/uploads/2019/04/CLP_
+Circular_Supply_Chains_for_Plastics.pdf  This is also substantiated by
+Zero Waste Europe (2019), op.cit.
+
+177Zero Waste Europe (2019), op.cit.
+
+178Chemical & Engineering News, 2018, op.cit. Ultimately “chemically
+recyclable polymers are the best solution to the problem of plastic
+trash …. Still, intrinsically recyclable plastics are a long way from
+commercial reality. Besides technical hurdles, there are also economic
+ones.”
+Zero Waste Europe (2019), op.cit. “The potential roll-out of such
+technologies at industrial scale can only be expected from 2025-2030
+and this is an important factor when planning the transition to a
+Circular Economy and notably the decarbonisation agenda.”
+
+179For Greenpeace’s definitions of hazardous chemicals, please see
+glossary for Greenpeace (2018), Crisis of Convenience, op.cit.
+
+PHOTO CREDITS
+
+Cover © Greenpeace
+Merci Ferrer stands and looks at the mountain of trash at a dumpsite in Dumaguete City,
+Philippines.
+
+Page 1 © Bente Stachowske / Greenpeace
+Plastic rubbish floats covered by oil in Havana harbour, Cuba.
+
+Page 2 © Fully Syafi / Greenpeace
+A plastic bottle of Nestle stacks among imported plastic waste at a dumpsite in Mojokerto, East Java,
+Indonesia. According to a Greenpeace report, Southeast Asia countries including Thailand, Vietnam,
+Malaysia and Indonesia have accepted more imported plastic waste, since China banned plastic
+waste imports in January 2018.
+
+Page 3 © Nandakumar S. Haridas / Greenpeace
+Greenpeace Malaysia has been conducting a field investigation on the broken system of recycling
+and how it impacts Malaysian society. The findings were shocking: a new ‘dump site’ of plastic waste
+from more than 19 countries -- most of them are developed countries. The investigation found illegal
+practices, and blatant violations causing environmental pollution as well as harming people’s health
+conditions.
+
+32
+
+Page 4 © Greenpeace
+Global Anti Incineration Alliance Philippines Executive Director Froilan Grate shows a discarded
+pack of a Nestle product as he stands on a trash-filled shoreline along Manila Bay in Navotas City,
+Philippines.
+
+Page 6 © Ulet Ifansasti / Greenpeace
+Young acacia plantation beside peatland forest inside the PT Sumatra Riang Lestari (PT SRL)
+pulpwood concession in Rupat Island, Bengkalis Regency, Riau Province. PT SRL is a supplier to
+APRIL, the pulp & paper division of the RGE Group. On 28 January 2014, APRIL announced its
+intention to continue to use rainforest logs until at least 2020.
+
+Page 8 © Christian Åslund / Greenpeace
+Aerial view of SCA’s, tree nursery in Timrå, the boreal region of Sweden. It is the biggest nursery of its
+kind where SCA among other plants produce the invasive species Lodgepole Pine (Pinus Contorta)
+before being planted out in nature, often replacing natural forests.
+Page 10 © Fred Dott / Greenpeace
+
+Page 12 © Kosaku Hamada / Greenpeace
+Many tarry residues were found at Chinase beach and dead streaked shearwater was found and oil
+was attached to its feathers. The dead cause remains unknown, it is under investigation by Ministry
+of Environment.
+
+Page 14 © Vivek M. / Greenpeace
+Ananthamma, a local woman, runs a small shop from her home in Vadigere village, an activity
+enabled due to the time saved by running her kitchen on biogas. The community in Bagepalli has
+pioneered the use of renewable energy in its daily life thanks to the biogas Clean Development
+Mechanism (CDM) project started in 2006.
+
+Page 16 © Greenpeace
+A trash-filled river is seen in Barangay Bagumbayan North in Navotas City, Philippines.
+
+Page 18 © Greenpeace
+In occasion of World Clean Up Day Greenpeace Africa, along with Break Free From Plastic
+movement, organized cleanup activities and brand audits on 5 continents and inspired people to
+participate. The brand audit results will put the spotlight on big brands and hold them accountable
+for their contribution to the plastic pollution crisis.
+
+Page 21 © Marco Garcia / Greenpeace
+Campaigners visit James Campbell National Wildlife Refuge on Oahu Island to document and bear
+witness to plastic pollution. Greenpeace is tracing plastic found in the ocean, communities, and
+shorelines back to the companies that produce it. The activity is part of Greenpeace visit with the
+Arctic Sunrise ship.
+
+Page 22 © Simran McKenna / Greenpeace
+Hurricane Harvey aerials. A refinery storage tank sits surrounded by flood waters in Baytown, Texas
+more than a week after Hurricane Harvey slammed into the area. The human impacts of Hurricane
+Harvey have been staggering, and the greatest concern is for the people struggling in its aftermath.
+This disaster makes clear once again that coastal Texas and the wider Gulf region are on the
+frontlines of sea level rise and extreme weather heightened by climate change, as well as the toxic
+impacts from fossil fuel infrastructure.
+
+Page 23 © Nandakumar S. Haridas / Greenpeace
+Greenpeace Malaysia has been conducting a field investigation on the broken system of recycling
+and how it impacts Malaysian society. The findings were shocking: a new ‘dump site’ of plastic waste
+from more than 19 countries -- most of them are developed countries. The investigation found illegal
+practices, and blatant violations causing environmental pollution as well as harming people’s health
+conditions.
+
+Page 24 © Soojung Do / Greenpeace
+The market, which aims to be zero-waste, requires the sellers to bring products with no single-use
+plastic packaging and to encourage the up-cycling of items.
+
+Page 25 © Jung Park / Greenpeace
+Seoul office created ‘Plastic Zero Grocery store map’ with volunteers in April and ‘Mangwon market’
+is one of the places in the Map. In this traditional market, people can purchase many items with
+their own carrier bags to avoid plastic package. Also, this market runs a campaign called ‘Almaeng’
+meaning packaging free. The market tries to encourage people to shop without plastic bags in many
+ways such as rending eco-bags for free and providing discount coupons once customers bring their
+own containers.
+
+Page 26 © Isabelle Rose Povey / Greenpeace
+Carrots with no packaging for sale in a supermarket.
+Waitrose supermarket Unpacked scheme offers customers a range of unpackaged products with
+the aim of saving thousands of tonnes of unnecessary plastic. Refillable zones have dispensers for
+customers to refill their own containers.
+
+Page 33 © Greenpeace
+Merci Ferrer walks on a dumpsite in Dumaguete City, Philippines.
+
+Back cover © Ecoton / Fully Handoko
+People collect plastic scraps and paper to take to a local factory, where it is burned as fuel. One
+small truckload earns 10 USD. Bangkun Village, Pungging District, Mojokerto Regency.
+
+33
+

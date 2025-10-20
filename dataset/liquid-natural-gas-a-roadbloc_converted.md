@@ -1,0 +1,1925 @@
+cleanenergynow
+
+Liquid Natural Gas:
+A roadblock to a
+clean energy future
+
+Table of Contents
+
+Liquid Natural Gas: A roadblock to a clean energy future
+
+A New Global Warming Challenge
+
+Time Bomb or Terrorist Target
+
+Transforming Baja California into a Dirty Energy Zone
+
+Liquid Natural Gas: Derailing California’s Golden Dream
+
+LNG’s Global Blood Trail
+
+Page i
+
+Page 1
+
+Page 9
+
+Page 15
+
+Page 26
+
+Page 31
+
+Acknowledgements
+
+This report was written by John Coequyt and Katie Albrecht with assistance from Lynda
+Arakelian, Lauren Gilbertson, Kristin Casper and Arturo Moreno.   Greenpeace would
+like to thank Bill Powers, Co-Chair of the Border Power Plant Working Group, for his
+assistance in the writing and analysis of this report.  This report draws heavily on the
+work of the RACE Coalition, of which Greenpeace is a member, and analysis completed
+for the Coalition by Synapse Energy Economics.
+
+About Greenpeace
+
+Since 1971, Greenpeace as been a leading voice for the environmental movement.
+Greenpeace works around the world to protect oceans and ancient forests, and to fight
+toxic pollution and genetic engineering, global warming and nuclear threats.  Without
+compromise, Greenpeace takes on powerful political and corporate opposition to protect
+the future of our planet.
+
+Liquid Natural Gas: A roadblock to a clean energy future
+
+Over the past few years, fueled by rising natural gas prices, some of the world’s largest
+multinational corporations began searching for new sites for Liquid Natural Gas (LNG)
+terminals.    Very  early  in  this  process  these  corporations  identified  the  Northern  most
+State in Mexico, Baja California, as a prime target for LNG development.
+
+Hoping to avoid strict environmental laws and local opposition to coastal development in
+California, yet still have easy access to the United States, corporations like Sempra, Shell,
+ChevronTexaco,  Marathon  and  ConocoPhillips  proposed  LNG  terminals  on  the  Baja
+California coast, just South of the California border.  The first proposed projects, which
+were  inappropriately  located  in  residential  neighborhoods,  were  driven  away  by  local
+residents who feared for the safety of their families.  However, two environmentally and
+socially flawed projects remain on the Baja California coast.
+
+The  first,  a  joint  project  of  Sempra  and  Shell,  is  currently  proposed  near  a  resort
+community  on  a  pristine  stretch  of  the  Baja  California  coast.    The  environmentally
+destructive  terminal  would  use  millions  of  gallons  of  seawater  every  day,  potentially
+impede migrating whales, and put the safety of the local retirement community at risk.
+
+ChevronTexaco has proposed a second terminal on the Coronado Islands eight miles off
+the coast.   ChevronTexaco was handed the  lease  for  the islands in a midnight deal that
+has angered residents and politicians equally.  The project would endanger the bountiful
+wildlife on the island and could also impede whale migration.
+
+The  construction  and  operation  of  the  LNG  terminals  in  Mexico  will  degrade  the
+environment and the Sempra/Shell terminal will put local communities at substantial risk
+in the event of a major accident or terrorist attack.   But, it doesn’t have to be that way.
+Now  is  the  time  to  shift  away  from  dangerous  dependence  on  fossil  fuels  and  towards
+global investments in renewable energy, conservation and energy efficient technologies.
+
+Greenpeace is asking that:
+
+1.  California  policy  makers  not  commit  the  state  to  long-term  contracts  to
+
+Liquid Natural Gas from either Mexico or California.
+
+2.  Multinational companies and the governments of California and Mexico
+invest  in  clean  energy  technologies,  such  as  wind  and  solar  power,
+creating good local jobs without risking the public’s health and safety.
+
+i
+
+Derailing California and Mexico Clean Energy Commitments
+
+The  fast  tracking  of  LNG  within  the  California  government  threatens  the  tremendous
+strides that the renewable energy industry had made in the State.  Efforts are underway
+within  the  State  of  California  to  promote  LNG  over  energy  efficiency  and  renewable
+energy resources in conflict with the official policy of the State articulated only two years
+ago in the Energy Action Plan.
+
+There is no reason to fast-track LNG investments.  California can meet its future energy
+demands  without  building  any  LNG  terminals.    If  the  State  pursues  aggressive  energy
+efficiency goals, retrofits the old inefficient coastal power plants, and expands the States
+renewable  energy  goals,  the  State  can  reduce  natural  gas  demand  by  one-third,  the
+equivalent of three LNG terminals.
+
+California can reduce natural gas demand by one-third
+
+Gas Demand, Projected Demand Increase by California Natural Gas
+Utilities, Supply/Demand Reduction Options
+
+Gas Quantity,
+(mmcfd)
+
+Average daily natural gas use in California, 2001
+
+Projected increase in gas demand over 2002 baseline, 2006-2016
+
+6,600
+
+0-2001
+
+Average projected daily natural gas delivery from one LNG terminal
+
+700-800
+
+Total Reduction in California gas demand from conservation measures
+and accelerated renewable portfolio standard (20% by 2010)
+
+1,100 – 1,5002
+
+Total Reductions assuming 30 percent renewable portfolio standard (a)
+
+1,800 – 2,3003
+
+Source: Synapse Energy Economics, 2004
+(a)  Estimated from CEC baseline.
+
+The  development  of  LNG  infrastructure  in  California  and  Baja  California  threatens  the
+State’s ability to combat global warming.  The use of natural gas that has been liquefied
+and transferred across the Pacific reduces the difference between natural gas power plant
+CO2 emissions and coal power plant emissions by nearly half.  Yet more importantly, by
+reaching beyond the traditional boundaries of North America to South America, Russia
+and the Far East, the development of LNG terminals on the West Coast would open up
+nearly limitless quantities of natural gas to the energy markets in those states.  This shift
+threatens to turn natural gas, previously viewed as a “transitional” fuel, into a permanent
+source of global warming gasses.
+
+1 Derived from presentations by PGE, SoCalGas, and SDGE at CEC/CPUC Natural Gas Workshop, Dec. 9-10, 2003.
+2006-2016 demand increase in SoCalGas/SDGE territory: 0 mmcfd.  In PGE territory: 0-200 mmcfd.
+2 Derived from Synapse Energy Economics evaluation submitted in March 23, 2004 RACE coalition comments in CPUC
+Utility Long-Term Natural Gas Procurement Proceeding, Rulemaking  04-01-25
+3 Derived from Synapse Energy Economics evaluation submitted in March 23, 2004 RACE coalition comments in CPUC
+Utility Long-Term Natural Gas Procurement Proceeding, Rulemaking  04-01-25
+
+ii
+
+In Baja a renewable energy developer Fuerza Eolica is planning to build a 340 MW wind
+farm on Mexican side of the California border.  This wind power, when combined with
+an upgrade  of Cerro Prieto, would produce enough power to  eliminate the need for the
+inefficient gas/oil burning state owned power plants in Rosarito.  But those investments
+are  unlikely  if  even  one  of  the  LNG  terminals  in  Baja  California  and  signs  long  term
+contracts for all of the State’s natural gas needs.
+
+Time Bomb or Terrorist Target?
+
+As  the  number  of  proposed  LNG  facilities  in  North  America  has  grown  to  national
+prominence, so have the safety concerns.  These concerns were escalated after a study by
+the Algerian government into an accident at a LNG terminal indicated that LNG leak was
+responsible  for  the  explosion.    Additional  concerns  over  the  cost  and  feasibility  of
+protecting  an  LNG  terminal  in  Boston,  which  was  closed  again  during  the  Democratic
+Convention,  are  spilling  into  the  debate  over  costs  and  dangers  at  facilities  across  the
+United States and into Mexico, where politicians are debating who will ultimately pay for
+security at LNG facilities in Baja California.
+
+It is likely that accident and terrorism safeguards will be updated in the United States to
+reflect  new  information  and  concerns  since  September  11th.    But  it  remains  to  be  seen
+whether these efforts will extend south of the border into Mexico.  Neither Sempra/Shell
+nor Chevron-Texaco has indicated that they intend to implement any additional safety or
+security measures.
+
+LNG’s Global Blood Trail
+
+Greenpeace and other environmental and social justice groups are currently opposing the
+development  of  LNG  facilities  on  the  West  Coast.    We  stand  together  in  an  effort  to
+protect  not  only  the  communities  both  in  California  and  Mexico,  but  also  the  impacted
+communities  around  the  world.    From  the  partially  contact  indigenous  communities  in
+Peru to the residents of war torn Indonesia, to Sakhalin Island in Russia, the expansion of
+the Oil and Gas industry into new and sensitive areas represents a global threat for which
+the governments of the world are ill prepared.
+
+iii
+
+Chapter 1. A New Global Warming Challenge
+
+Global warming threatens to devastate the world’s natural climate system.  Over the past
+century,  the  earth’s  surface  temperature  has  risen  by  about  one  degree  Fahrenheit,  and
+mounting evidence indicates that most of the recent warming can be attributed to human
+activities, such as the burning of oil, coal and gas.  While a rise in temperature of just one
+degree  may  not  sound  threatening,  that  change  in  temperature  is  enough  to  cause
+unpredictable  weather  patterns  with  devastating  results.    Global  warming  is  implicated
+for  intensifying  extreme  weather  conditions  such  as  floods,  droughts,  wildfires,
+hurricanes  and  heatwaves  and  causes  problems  ranging  from  the  spread  of  infectious
+diseases to the destruction of power lines and crops.  The impacts of global warming not
+only impact our health; they also result in billions of dollars of expenses for relief efforts
+and insurance costs.
+
+The  burning  of  coal,  gas  and  oil  releases  carbon  dioxide  (CO2)  into  the  atmosphere,
+which is the primary cause of global warming.  The United States is responsible for over
+a  quarter  of  the  world’s  carbon  emissions,  while  representing  only  four  percent  of  the
+global population.  Instead of spending billions of dollars increasing dependency on fossil
+fuels (coal, gas and oil), the U.S government and powerful oil companies should invest in
+alternative,  renewable  sources  of  energy.    The  current  trend  towards  an  increased
+dependence on Liquid Natural Gas (LNG) is frightening because it increases reliance on
+environmentally destructive fossil fuels and significantly delays the possibility of moving
+towards  renewable  energy  sources  by  creating  a  costly  infrastructure  for  LNG.    This  is
+especially  true  of  the  West  Coast  of  North  America  which,  unlike  the  East  Coast,
+currently has no LNG terminals or LNG infrastructure.
+
+This  report  analyzes  the  impacts  of  two  proposed  LNG  regasification  sites  on  the
+environment  and  local  communities  of  Baja  California  and  the  Coronado  Islands  in
+Mexico.    The  construction  and  operation  of  the  LNG  regasification  terminals  at  these
+sites  will  both  severely  degrade  the  environment  and  put  existing  local  communities  at
+substantial safety risk in the event of a major accident or terrorist attack.   But, it doesn’t
+have to be that way.  Now is the time to shift away from dangerous dependence on fossil
+fuels  and  towards  global  investments  in  renewable  energy,  conservation  and  energy
+efficient technologies.
+
+What is liquid natural gas (LNG)?
+
+Liquid  Natural  Gas  (LNG)  is  the  liquid  form  of  natural  gas.    In  a  process  called
+liquefaction,  natural  gas  is  condensed  at  minus  260  degrees  Fahrenheit.  Liquefaction
+greatly  reduces  the  volume  of  natural  gas  making  it  economically  feasible  to  transport
+LNG  great  distances  via  special  tankers.    The  tankers  deliver  the  LNG  to  receiving
+terminals, such as those proposed in Baja California, where the LNG is converted back to
+natural gas and delivered to customers.  The creation of this LNG receiving infrastructure
+
+1
+
+will  increase  the  United  States’  and  Mexico’s  dependence  on  foreign  fossil  fuels  and
+open up Mexico’s energy market to exploitation by multinational corporations.
+
+Shell/Sempra LNG terminal in Baja California
+
+Shell  International  Gas  Limited  and  Sempra  Energy  LNG  Corp  have  jointly  proposed  a
+Liquid  Natural  Gas  (LNG)  receiving  terminal  in  Baja  California1.    The  two  companies
+will own and operate the $600 million facility.  The proposed location for the terminal is
+on the Costa Azul in Mexico, 23 km Northwest of the city of Ensenada.  The terminal has
+a designed natural gas delivery rate of 1000 million cubic feet per day (mmcfd).2  A 64
+km pipeline will stretch northwards from the terminal to the Industrial Park, El Florido, in
+the municipality of Tijuana.
+
+The  Baja  California  site  was  chosen  after  evaluation  of  potential  coastal  sites  near  the
+U.S.  border.    The  final  decision  was  made  based  on  zoning,  proximity  to  population
+centers,  and  proximity  to  deep  water.  The  Shell/Sempra  LNG  terminal  will  be  located
+within 2 miles of one of the most of the popular tourist resorts, Bajamar.  The associated
+pipeline will pass through an inland route that avoids residences, but has a more negative
+environmental impact as compared to other proposed routes.
+
+The  Baja  California  LNG  terminal  will  occupy  40  acres  of  coastal  land,  with  24
+additional  acres  being  used  for  the  service  road.    It  will  take  three  and  a  half  years  to
+construct,  requiring  approximately  1,000  construction  workers.    Construction  of  the
+pipeline  will  disrupt  nearby  communities  and  will  take  one  year  to  complete.    After
+construction, 30-40 technical workers will be required to operate the facility.  It is likely
+that already trained individuals will fill all of the higher-paid, skilled positions. Members
+of  the  local  community  are  not  likely  to  fill  these  higher-paying  jobs.    In  addition,  35
+contract  workers  will  be  hired  for  services  such  as  security,  catering,  cleaning,  and
+maintenance.
+
+The terminal will unnecessarily harm the coastal environment.  Shell and Sempra plan to
+use at least 100 million gallons per day of seawater to regasify the LNG at the terminal.
+This process is expected to kill 100 percent of any sea life entrained in the seawater used
+for regasification.3
+
+There is concern that construction will destroy archeological remains dating back
+thousands of years. The archeologists who conducted the review are scrambling to study
+the site before the evidence is lost forever.
+
+2
+
+Chevron-Texaco Proposed LNG terminal at the Coronado Islands4
+
+Chevron-Texaco  has  proposed  an  offshore  LNG  terminal  that  will  use  oil  and  gas
+industry technology to construct a receiving and regasification site in 20 meters of water,
+13 km off the coast of Tijuana, Mexico.  The terminal will have an average capacity of
+700  mmcfd.5    The  LNG  terminal  will  be  located  just  600  meters  east  of  the  Coronado
+Islands  and  will  cost  $650  million  dollars  to  build.    Construction  will last at least three
+years and is expected to require 1,200 construction workers.
+
+The  offshore  LNG  terminal  at  the  Coronado  Islands  will  receive  LNG  from  a
+ChevronTexaco-owned exploitation site located in the Gorgon gas fields off the coast of
+Western  Australia.    The  site  of  the  proposed ChevronTexaco LNG liquefaction plant in
+Barrow Island, Australia is highly controversial due to the unique habitat Barrow Island
+provides for a number of unique or endangered species.  The LNG receiving terminal off
+the  Baja  California  coast  will  have  the  capacity  to  store  250,000  cubic  meters  of  LNG.
+The  LNG  will  be  warmed  using  seawater  and  then  shipped  through  a  new  underwater
+pipeline  that  will  join  Baja  California’s  existing  energy  infrastructure.    The  gas  will  be
+available to customers in Northern Baja California and throughout the West Coast of the
+U.S.
+
+The offshore site was chosen based on the natural breakwater provided by the Coronado
+Islands.    Another  consideration  was  the  distance  that  an  offshore  site  provided  from
+residential  communities.  The  site  is  within  600  meters  of  the  Coronado  Islands,  critical
+habitat for a number of marine bird species.  A major concern is the impact of lights from
+the terminal on birds nesting on the island.
+
+How does LNG contribute to global warming?
+
+LNG  uniquely  increases  the  emissions  of  CO2  into  the  atmosphere.  The
+composition of natural gas emissions are identical whether it has been converted to LNG
+or burned straight from gas.  However, the processes necessary to convert and transport
+LNG  are  energy  intensive.    As  shown  in  Table  1,  the  process  of  converting  natural  gas
+into a liquid, transporting it across the Pacific Ocean, and then returning it to its gaseous
+form,  known  collectively  as  the  “LNG  supply  chain,”  requires  an  increased  natural  gas
+consumption of 18-22 percent.6 An additional 11 to 18 percent increase in CO2 emissions
+is likely to occur because of high CO2 content in the raw source gas being converted to
+LNG and exported to Mexico.7  The CO2 in the source gas may be vented to atmosphere
+during processing.
+
+The combined impact of venting CO2 during processing and the energy penalty of
+the  LNG  supply  chain  would  increase  CO2  emissions  by  roughly  20  to  40  percent  over
+California’s current emissions from domestic sources of natural gas (see Table 1).  This
+increase significantly closes the gap between coal and natural gas with respect to global
+warming gases.
+
+3
+
+Table  1.    Transportation  of  liquid  natural  gas  to  California  would  significantly
+increase greenhouse gas emissions
+
+Process Step
+
+Domestic Natural Gas
+Liquification
+Transport
+Regasification
+Carbon Dioxide in Gas
+
+Total Additional Gas Consumed
+
+Additional Gas Use
+(Percent)
+Basecase
+9 – 10
+7 – 9
+2 – 3
+0 – 18
+18 – 40
+
+Source: Powers Engineering 2004, June 1, 2004 Global LNG Summit presentation.
+
+The coal industry claims that LNG increases gas consumption by 30 percent8 over natural
+gas  for  the  liquefaction  and  regasification  alone  which  is  nearly  three  times  the  Powers
+Engineering  estimate.    The  discrepancy  stems  from  the  age  and  thus  efficiency  of  the
+LNG  infrastructure.    The  Powers  Engineering  study  assumes  the  most  efficient
+technology  available,  while  the  coal  industry  used  the  current  condition  of  plants  when
+conducting its study.
+
+The  net  result  of  the  increase  in  global  warming  emissions  is  that  natural  gas  power
+plants  burning  high  CO2  natural  gas  that  has  been  shipped  as  LNG  to  California  would
+have  a  global  warming  impact  that  falls  in-between  coal  and  domestic  natural  gas  (see
+Table 2).  In other words, LNG power plants will only reduce global warming pollution
+by  about  half  as  much  as  a  domestically  produced  natural  gas  versus  current  electricity
+from coal.  Given the tremendous worldwide reserves of natural gas that could be shipped
+to developed countries for decades, this difference is significant.
+
+Table 2.  Liquid natural gas power plants
+Power Plant Type
+
+Global Warming Gas Pollution
+
+Natural gas – low CO2 domestic gas
+
+Liquid Natural Gas
+
+400 g/Kwh
+
+480 g/Kwh
+
+Liquid Natural Gas – high CO2 (a)
+
+560 g/Kwh
+
+Coal – Advanced IGCC
+
+660 g/Kwh (b)
+
+Coal – pulverized coal
+
+770 to 830 g/Kwh (c)
+
+Source: http://www.ieagreen.org.uk/sr1p.htm
+(a)  Assumes a 40 percent increase in CO2 emissions, see above.
+(b)  Three  demonstration  integrated  gasification  combined  cycle  (IGCC)  plants  exist  in  the  U.S.
+Gasification  plants  turn  coal  into  gas,  and  are  touted  as  the  next  generation  of  coal-burning  power
+plants, but have not been embraced by industry.  Assumes a 50 percent thermal efficiency.
+(c)  Half of U.S. electricity is generated from pulverized coal.  Assumes 40 – 43 percent efficiency.
+
+4
+
+Because  of  the small difference between LNG and coal power plants, renewable energy
+and  conservation  investments  are  much  more  effective  in  slowing  global  warming  and
+produce  a  multitude  of  co-benefits.  California’s  natural  gas  demand  can  be  reduced  by
+2,300  mmcfd  through  conservation  and  renewable  energy  measures,  avoiding  the
+emission of 100 billion pounds of CO2 per year. This would reduce California’s natural
+gas  consumption  by  a  third,  and  the  equivalent  of  removing  more  than  10  million
+passenger cars per year from the road.1
+
+The proposed LNG terminals will serve U.S. demand almost entirely
+
+While the two proposed LNG sites in Baja California will primarily serve the California
+market,  both  Shell/Sempra  and  Chevron-Texaco  claim  that  these  plants  will  eventually
+also  provide  LNG  in  quantity  to  the  Baja  California  market.  The  Mexican  government
+has stated that the terminals built in Mexico will serve the U.S market. A report presented
+by  the  Mexican  Secretary  of  Energy,  Felipe  Calderon  Hinojosa,  states,  “Mexican  LNG
+terminals could supply directly to the south of the United States.”2
+
+Sempra Energy continues to assert that it will sell the majority of the natural gas from its
+LNG terminal to Mexico.  In response to Greenpeace’s request for information, a Sempra
+official  stated  “[Greenpeace’s  letter]  incorrectly  stated  that  Energia  Costa  Azul  is  being
+built solely for the benefit of the United States. In fact, when our facility is completed in
+2007,  we  expect  that  Mexico  will  consume  about  half  of  the  gas  from  the  plant  and
+virtually all of the output by the middle of the next decade.”3
+
+A review of the natural gas use in Baja California shows that the demand is nowhere near
+the proposed LNG supply, and shows that Baja California could only use a fraction of the
+natural gas that one LNG terminal would provide.  The peak amounts of natural gas used
+in  Baja  California,  excluding  the  power  plants  that  serve  the  U.S.  market,  is
+approximately  250  mmcfd  when  all  the  power  plants  are  running.    The  average  natural
+gas use is considerably less, in the range of 150 to 200 mmcfd.  The Shell/Sempra LNG
+terminal  will  have  a  peak  capacity  of  1,300  mmcfd.    The  Chevron-Texaco  site  at  the
+Coronado Islands will have a capacity of 1,000 mmcfd.4
+
+No  new  power  plants  are  currently  proposed  or  under  construction  in  Baja  California.
+The  typical  lead-time  between  permit  application  and  an  operational  project  is  at  least
+three  years.    There  will  be  no  new  large  natural  gas  customers  in  Baja  California  when
+the  proposed  Costa  Azul  and  Coronados  Islands  terminals  begin  operation  in  2007.
+Power  plants  serving  the  Baja  California  market  are  also  served  by  existing  long-term
+natural  gas  contracts.    As  shown  in  Table  3  below,  less  than  10  mmcfd  of  the  planned
+
+1 Environmental Protection Agency (assumes auto emissions of 10,000 pounds of CO2 per year).
+2 Hinojosa, Felipe Calderon, Secretary of Energy, Mexico. “Opportunities for LNG Terminals in Mexico.”
+LNG Ministerial Summit December 2003. Available from http://www.usea.org/lngsummitpresentations.htm
+3 May 21, 2004, from Michael J. Murray of Sempra
+4 California Energy Commission, March 2004.
+
+5
+
+output  of  2,300 mmcfd, or less than one percent, could be purchased directly for use in
+Baja California in 2007.
+
+Table 3.  Mexico’s natural gas demand is far less than LNG output
+
+Capacity
+MW
+
+Daily gas use
+(mmcf/d) (a)
+
+Power Plant/Industry
+
+CFE Rosarito
+Intergen
+CFE Rosarito (gas/oil)
+Mexicali Local Use
+Subtotal Mexico
+
+Intergen
+Sempra Mexicali
+
+550
+500
+650
+NA
+1,700
+
+560
+650
+
+Subtotal California Export
+
+1,210
+
+64
+58
+120
+<10
+252
+
+70
+76
+
+146
+
+Contract
+Expires
+2010 (b)
+2013
+2010
+Unknown
+
+No
+No
+
+Power
+Use
+
+Mexico
+Mexico
+Mexico
+Mexico
+
+California
+California
+
+Total
+(a)  assumes an annual capacity factor 70 percent
+(b) Available from http://www.sempratrading.com
+
+2,910
+
+398
+
+The  lack  of  natural  gas  infrastructure  and  demand  in  Baja,  along  with  the  fact  that
+California  ratepayers  are  being  asked  to  bear  the  burden  of  $200  million  in  costs  to
+modify  the  SDGE  natural  gas  pipeline  transmission  system,  indicates  that  much  of  the
+Baja California LNG supply is expected to serve the California market.  The $200 million
+in  pipeline  upgrades  is  needed  to  reverse  flow  and  allow  the  importation  of  large
+quantities  of  natural  gas  from  LNG  terminal(s)  located  in  Baja  California  to  the  U.S
+market.
+
+Renewable Energy Options for Baja California
+
+The  opportunity  cost  of  fostering  dependency  on  natural  gas  in  Mexico  is  enormous.
+Northern Baja California currently meets about 40 percent of its electricity requirements
+through  geothermal  plant,  Cerro  Prieto.    Cerro  Prieto  currently  produces  720  MW  and
+has the potential to reach 1,500 MW9.  Additionally, clean energy production from solar
+and  wind  energy  technologies  have  tremendous  potential  in  Baja  California.    The
+mountainous  area  between  Tijuana  and  Mexicali  includes  some  of  the  best  sites  in
+Mexico for producing wind energy.  A prime site for solar power production, there are an
+average of 290 sunny days per year in Baja California, with seven hours of sunlight per
+day.
+
+In  Baja,  Fuerza  Eolica  is  planning  to  build  an  additional  340  mw  of  wind  power  on
+Mexican  side  of  the  California  border.    This  wind  power,  when  combined  with  an
+upgrade  of  Cerro  Prieto,  would  produce  enough  power  to  eliminate  the  need  for  both
+CFE power plant in Rosarito, and would easily replace the inefficient gas/oil plant.
+
+6
+
+There is also tremendous demand for renewable energy in Mexico.  A poll completed by
+the  Commission  for  Environmental  Cooperation found that 94 percent of energy buyers
+in  Mexico  would  like  to  purchase  renewable  energy,  and  90  percent  would  accept  a
+requirement that they purchase renewable energy.10
+
+Table 4. Renewable Energy Options for California and Baja California11
+Energy Options (a)
+
+Cost
+($/kwh) (b)
+0.05
+0.16
+0.05
+0.25
+0.14-0.17
+0.05
+0.03-0.06
+0.15 (d)
+0.22 (e)
+
+Natural gas combined-cycle power plant (baseload)
+Natural gas simple cycle power plant (peaking)
+Wind
+Solar Photovoltaic (residential) (f)
+Solar thermal (residential)
+Geothermal (flash)
+Energy conservation (c)
+San Diego Gas and Electric 2004 residential charge
+CFE, North Baja California 2004 residential charge
+(a)  California Energy Commission, Comparative Cost of California Central Station Electricity Generation
+
+Technologies, August 2003, page 3 and 11.
+
+(b)  “levelized direct cost”—assumes life of project natural gas cost in $5/MMBtu to $6/MMBtu range.
+(c)  California Consumer Power and Conservation Financing Authority, “Clean Growth: Clean Energy for
+California’s Economic Future- Energy Resource Investment Plan.” February 2002, Table 6-2, pg.54.
+
+(d)  Includes only metered kwh usage charge and “electric energy charge”, April 2004.
+(e)  Includes only December 2003 published CFE summer usage charge based on 1,000 kwh/month.
+(f)  California Energy Commission, Energy Power Calculator; SEIA cost calculations.
+
+The  combination  of  renewable  energies  in  Mexico  could  produce  at  least  50  million  to
+100  million  MWh  of  energy.12    In  southern  California,  the  unsubsidized  price  for
+residential  solar  power  is  approximately  25  cents  per  kwh.13    The  current  residential
+power  rate  in  Baja  California  is  22  cents  per  kwh  (see  Table  4).  This  difference  is
+negligible when the cost of environmental degradation and safety issues associated with
+LNG are included.
+
+Mexico  has  tremendous  potential  for  solar  thermal  energy.    A  report  by  the  European
+Solar Thermal Industry Association and Greenpeace states that with the right incentives
+and  policies  Mexico  could  generate  1,290  MW  of  power  at  solar  power  stations  by
+2015.14
+
+Mexico  also  has  great  potential  for  energy  efficiency,  the  Mexico’s  Comisión  Nacional
+para  el  Ahorro  de  Energía  (CONAE)  estimated  that  Mexico  can  reduce  energy
+consumption by 20 percent, saving the country 100,000 million pesos every year.
+
+1 Available from www.shell.com
+2 California Energy Commission, West Coast LNG Projects April 29, 2004.
+3 July 15, 2003 envr coalition comment letter on USCG DEIS for ChevronTexaco Port Pelican offshore
+LNG project, Gulf of Mexico.
+4 Available from www.chevrontexaco.com
+
+7
+
+5 California Energy Commission, West Coast LNG Projects, April 29, 2004.
+6 B. Powers, July 6, 2004 PowerPoint presentation to CalEPA, Sacramento.
+7 Both the Gorgon gas field (NW Australia, source of ChevronTexaco LNG) and the Tangguh gas field
+(Indonesia, source of Sempra/Shell LNG) are high in CO2.
+8 Coal Industry: Utility Fax Alert #681, July  9, 2004.
+9 Conversations with Alejandro Abril, Dirctor of CFE Geothermal Projects
+10 http://www.cec.org/files/PDF/ECONOMY/breceda_es.pdf
+11 Powers Engineering, “Worldwide View of Global Supply Chains” Global LNG Summit June, 2004.
+12 Munoz, Enrique Caldera.“Potencial de la Energia Eoloelectrica en Mexico,” Investigacion elaborada para
+Greenpeace Mexico, 1999.
+13 California Energy Commission, Clean Power Estimator.
+14 Greenpeace, Solar Thermal Power: 2020 Exploiting the Heat From the Sun to Combat Climate Change.
+
+8
+
+Chapter 2. Time Bomb or Terrorist Target
+
+As the increasing number of proposed LNG facilities in North America has grown to
+national prominence in the United States, so have the safety concerns.  These concerns
+escalated after a study by the Algerian government into an accident at a LNG terminal
+indicated that LNG vapor was responsible for the explosion.  In addition, concerns over
+the cost and feasibility of protecting an LNG terminal in Boston is spilling into the debate
+over costs and dangers at facilities across the United States and into Mexico, where
+politicians are debating who will ultimately pay for security at LNG facilities in Baja
+California.
+
+It is likely that accident and terrorism safeguards will be updated in the United States to
+reflect new information and concerns since September 11th.  But it remains to be seen
+whether these efforts will extend south of the border into Mexico.  Neither Sempra/Shell
+nor Chevron-Texaco has indicated that they intend to implement any innovative safety or
+security measures.
+
+A recent accident in Algeria raises new questions about the safety of LNG
+
+The LNG industry claims that new LNG facilities are no longer dangerous.  They claim
+that  the  disaster  in  Cleveland  in  1944  that  killed  128  people,  and  the  non-fatal  vapor
+cloud releases in Boston in 1988 and the UAE in 1978, are problems of the past.  But the
+fatal  January  2004  accident  that  destroyed  a  good  portion  of  an  Algerian  LNG
+liquefaction  plant  indicates  that  the  industry  has  not  solved  its  safety  problems  and
+provides dramatic evidence that these facilities should not be located near people.
+
+The new report by the Algerian government, presented at a LNG conference in Qatar in
+March  2004,  states  that  “large  amount  of  liquid  gas  escaped  from  a  pipe  and  formed  a
+cloud of highly flammable and explosive vapor that hovered over the facility. The cloud
+exploded  after  coming  into  contact  with  a  flame  source.”    According  to  leading  LNG
+safety experts, the accident in Algeria could occur at plants like the ones being proposed
+in Baja Mexico.1
+
+Multinational companies move LNG terminals to Mexico to avoid U.S. opposition
+
+The safety  concerns  that  LNG sites invite  are one of  the  reasons  that  people  across  the
+U.S have fought to ensure that LNG facilities are not built in their cities.  The Mayor of
+Boston,  Thomas  M.  Menino,  sued  to  keep  LNG  tankers  out  of  Boston  harbor  after  the
+Sept. 11 attacks.  Menino lost that court fight but maintains LNG tankers should not enter
+metropolitan  areas  due  to  safety  concerns.    Boston  fire  officials  told  a  state  panel  in
+February 2004 that they remain unprepared to deal with the potential disaster stemming
+from  an  explosion  aboard  one  of  the  giant  tankers  that  carries  LNG  through  Boston
+Harbor.2
+
+9
+
+Massive  security measures are now  involved  in bringing  each  LNG tanker  into  Boston.
+Since Sept. 11 at least a dozen vessels clear a safety and security zone two miles ahead
+and  one  mile  behind  the  ship  -  and  the  Coast  Guard  also  inspects  the  tankers  offshore.
+The security measures taken to guard LNG related equipment from terrorist attacks in the
+U.S  demonstrate  an  implicit  recognition  of  the  extreme  potential  danger  that  LNG
+terminals create no matter where they are constructed.
+
+LNG  terminals  have  been  defeated  in  Vallejo  (California),  Oxnard  (California),  Eureka
+(California), Harpswell (Maine), Mobile (Alabama), Tijuana and Rosarito, (Mexico).  All
+of  these  proposed  sites were  withdrawn  when  local  residents  declared  that  they  did  not
+want the LNG terminals in their communities.  These communities cited “serious safety
+concerns”3  as  their  reason  for  refusing  these  LNG  terminals.    Successes  in  these  seven
+cities  demonstrate  that  local  resistance  is  an  effective  means  of  preventing  poorly  sited
+LNG terminals from being completed.
+
+LNG facilities pose a terrorist and safety threat to local communities
+
+A  recent  report  of  the  U.S.  Congressional  Research  Service  identified  LNG  terminals,
+tankers  and  pipelines  as  prime  terrorist  targets.  In  the  United  States,  federal  warnings
+about  Al  Qaeda  threats  since  September  11,  2001  have  repeatedly  mentioned  energy
+infrastructure.  On  the  morning  of  Sept.  11,  2001,  top  officials  in  the  White  House
+situation room expressed an almost immediate fear of an attack on the Boston LNG plant,
+according to the former White House terrorism chief Richard A. Clarke.4
+
+The  Congressional Research Service report  outlines  the potential  for  an  attack  on  LNG
+facility as a “serious hazard.” Although there has not yet been a terrorist attack on LNG
+tankers or land-based facilities, gas and oil pipelines and oil tankers have been attacked in
+at least six countries, including the 2002 attack on the French oil tanker Limberg off the
+Yemeni  coast  by  a  bomb-laden  boat.5    Paul  W.  Pafomak  explains  why  LNG  tank
+facilities  may  be  targeted;  "because  LNG  infrastructure  is  highly  visible  and  easily
+identified, it is also potentially vulnerable to terrorist attack...LNG is inherently volatile
+and is usually shipped and stored in large quantities."6
+
+Potential hazards include pool fires, which occur when combustible gas-air mixture burns
+above  a  pool  of  leaked  LNG.  "Such  pool  fires  are  intense,  burning  far  more  hotly  and
+rapidly than oil or gasoline fires," the report adds. "Many experts agree that a pool fire,
+especially  on  water  ...  is  the  most  serious  LNG  hazard."7    It  is  also  the  consensus  that
+such a fire could not be extinguished.
+
+If LNG were released in an attack, it would most likely ignite immediately. However, if
+the LNG escaped without catching fire, a cloud of the gas could drift elsewhere and cause
+a  fire,  according  to  the  report.  Beyond  physical  damage,  an  attack  on  a  LNG  facility,
+especially  one  serving  a  large  percentage  of  the  population  of  California,  could  have  a
+tremendous ripple effect on the California economy.
+
+10
+
+In  Alabama,  a  similar  LNG  terminal  proposal  for  the  City  of  Mobile  led  the  Mobile
+Register to conduct research, which it claimed “revealed significant flaws in the research
+used  by  the  (federal)  government  when  approving  the  construction  of  such  facilities.”
+Leading  LNG  scientists  warned  that  an  accident  or  terrorist  attack  involving  a  tanker
+could  lead  to  a  fire  a  mile  wide,  inflicting  second-degree  burns  on  people  two  miles
+away,” leading to overwhelming local public opposition to the $600 million ExxonMobil
+proposal.8
+
+A study by  Lloyd's  Register of  Shipping presents a chilling  examination  of  what might
+happen  if  terrorist  attacked  a  LNG  tanker.  According  to  the  study,  terrorists  who  blew
+relatively  small  holes  in  the  inner  and  outer  hulls  of  a  LNG  tank  could  trigger  an
+escalating series of explosions and fires. The ship, said the Lloyd's study, "would become
+a total loss with a continuous fire that would be inextinguishable until all  gas had been
+consumed."9
+
+James A. Fay, professor emeritus at the Massachusetts Institute of Technology, a leading
+expert on LNG and former chairman of the Massachusetts Port Authority board, believes
+a  boat  bomb,  like  the  one  used  against  the  USS  Cole  in  2000  or  the  French  oil  tanker
+Limburg in 2002, would cause at least half of the ship's cargo to seep over the water and
+ignite in a raging blaze. "There's no doubt that with a big enough bomb you can blow a
+hole in the side of the vessel and the cargo will burn," Fay said.  "It's well understood that
+for  the  big  fires  we're  talking  about  that  distances  like  half  a  mile  or  so,  you  can  get
+second-degree burns to exposed skin in about 30 seconds..."10
+
+"In just over three minutes, the fire could spread two-thirds of a mile from the ship. There
+is  nothing  safety  officials  can  do  in  such  a  case.  They  would  have  no  time  to  evacuate
+people or to put out the fire.... Like the attack on the World Trade Center in New York
+City, there exists no relevant industrial experience with fires of this scale from which to
+project measures for securing public safety."11
+
+Jerry Havens, a University of Arkansas professor and expert in both fires and weapons of
+mass destruction, agrees with Fay's assessments.  Haven’s concern is primarily with the
+lack  of  security  measures  required  in  the  transport  of  LNG.    In  testimony  before  the
+House  Subcommittee  on  Energy  Reforms  given  on  June  22,  2004,  he  commented  that
+spills  from  a  LNG  tanker  could  require  an  exclusion  zone  of  several  miles  in  order  to
+protect  the  public.    He  also  emphasized  that  “present  regulations  do  not  require  the
+address of spills from a tanker at the facility”.12 Dr. Havens agrees with the findings of
+Lloyd's  Register  and  is  also  concerned  that  the  entire  tanker  could  be  lost  in  fire  if
+attacked, a concern that has recently been validated by consultants to the Federal Energy
+Regulatory Commission (FERC).
+
+New studies indicate need for larger safety zones
+
+The FERC has received important new evidence regarding the safety of LNG tankers. On
+May 13, 2004, FERC’s consultant, ABS Consulting, Inc, found that the 2001 LNG
+
+11
+
+hazard study previously relied on by the FERC was flawed in both its methodology and
+its conclusions, and that there is a lack of data on the consequences of an accident or act
+of sabotage involving tankers carrying LNG. ABS also found that the previous study, by
+Quest, underestimated both LNG vapor cloud dispersion distances and thermal radiation
+zones associated with major LNG release events.13
+
+The report concluded that if the tanker's hull and cargo tanks were successfully breached,
+a pool fire could burn victims up to 4,600 feet away. Such an event could cause "severe
+pain" within 13 seconds and third-degree burns within 50 seconds.  The report only
+analyzed the effect of a 20 percent loss of LNG, even though scientists are concerned that
+any breech of the hull would result in a total loss of the cargo.  The safety zone required
+for a full breech of the tanker would likely be several miles.
+
+It is critical that the Mexican Government, the State of California and FERC expand their
+LNG  siting  considerations  to  include  this  new  evidence.  Though  tankers  are  the  most
+vulnerable aspects of the LNG supply chain, current U.S. and Mexican regulations do not
+require safety zones for tanker accidents or acts of terrorism. Despite this, it is not clear
+whether FERC will apply the ABS recommendations to currently proposed LNG terminal
+sites,  or  whether  multinational  corporations  operating  in  Mexico  would  adopt  those
+regulations.
+
+Who will protect LNG facilities in Mexico?
+
+There is concern in Mexico about who will pay for security precautions.  These costs are
+growing quickly in the U.S, where communities are paying up to millions of dollars per
+year  for  tanker  and  terminal  security.    Manuel  Bartlett,  a  PRI  senator,  Cuauhtemoc
+Cardenas,  a  founding  member  of  PRD,  and  other  politicians  warn,  “Mexico  will  be
+forced  to  provide  security  for  a  project  that  will  be  part  of  the  U.S.  energy  system.”14
+They  also  “contend  the  [Chevron-Texaco]  project  would  violate  Mexico's  sovereignty
+and compromise its national security.” 15
+
+The cost of protecting each LNG shipment to Boston, the only LNG receiving plant in an
+urban area in the United States, is about $80,000 per tanker.  This includes a contribution
+of about $30,000 per tanker from the surrounding communities and the state.16  The cost
+of  this  protection  has  been  rising  as  the  measures  become  more  extreme,  matching  the
+increasing  fear  of  attack.    Currently,  safety  measures  include  “maritime  patrol  boat
+escorts,  helicopters,  police  divers,  fire  fighting  tug  boats,  and  the  closing  of  the  Tobin
+Bridge - the U.S. Route 1 commuting expressway, which LNG ships clear by less than 10
+feet.  In  addition,  Massachusetts  State  Police  cruisers  are  placed  strategically  along  the
+shore to watch for possible land-based missile attacks.”17
+
+In  the  United  States  LNG  facilities  are  considered  “critical  assets”  that  warrant  special
+protection.    For  this  reason,  Senator  John  F.  Kerry,  the  Democratic  Presidential
+candidate, is pressuring Secretary of Homeland Security Tom Ridge to raise the terrorist
+threat level from elevated to high in Boston when weekly LNG tankers enter the port in
+Everett.  "The  Everett  LNG  facility  should  be  considered  a  critical  asset  that  warrants
+
+12
+
+enhanced  protective  measures  consistent  with  those  implemented  when  the  threat  level
+was elevated to Orange in December 2003," Kerry wrote.18
+
+Despite the precautions taken with the LNG facilities in the USA, little planning has been
+done regarding how to safeguard the proposed LNG sites in Baja California.  The double
+standard  generally  evident  in  the  decision  to  build  dangerous  facilities  in  Mexico,  after
+they  have  been  refused  by  local  opposition  groups  in  multiple  U.S.  states  including
+Louisiana,  Maine  and  California,  is  especially  evident  when  the  security  of  the  sites  is
+scrutinized.    Neither  Shell/Sempra  nor  Chevron-Texaco  outlines  any  security  plan
+relevant  to  the  threat  of  a  terrorist  attack  on  the  proposed  sites  in  Baja  California.    In
+contrast  to  the  degree  of  concern  over  the  existing  LNG  sites  in  the  U.S,  the  lack  of
+analysis  and  foresight  regarding  the  proposed  sites  in  Baja  California  indicates  an
+increased  risk  of  terrorist  attack  and  demonstrates  a  lack  of  responsibility  and  concern
+from Shell/Sempra and Chevron-Texaco.
+
+Mexico has a history of fuel storage accidents
+
+Historically,  fuel  storage in Mexico has  been risky business.   In  1984, over 500 people
+were killed in an explosion at liquid petroleum gas (LPG) terminal in Mexico City.  The
+same LPG terminal experienced a second failure in 1996; four more lives were lost.
+
+LPG is not the only fuel to have caused a tremendous loss of life in a Mexican City.  A
+leak  of  hexane  from  a  PEMEX  operated  factory  in  Guadalajara,  Mexico  devastated  the
+area.  Over 20 city blocks were flattened by blasts from the series of explosions.19  As a
+result  of  this  explosion,  15,000  people  were  left  homeless,  at  least  1,500  people  were
+injured and 170 people  were killed.20  Natural gas has also been the source of a deadly
+explosion in Mexico.  In 1996, a natural gas leak caused an explosion that killed 6 people
+and injured 30.
+
+The history of fuel storage explosions in Mexico is long and deadly.  It has not been one
+specific  form  of  fuel  that  has  caused  these  deaths,  but    many  different  non-renewable
+energy sources.  Shell, Sempra, Chevron-Texaco  and PEMEX state that LNG is a safer
+energy source, despite recent accidents in Algeria and the potential for terrorist attacks.
+Each of these previous sources of energy has been touted as “safe” and the results have
+been deadly.
+
+Offshore LNG facilities still require security
+
+Even offshore  LNG facilities,  while  not  posing  an imminent safety  hazard,  will require
+extensive  security  measures  because  of  the  economic  consequences  of  an  attack  on  a
+facility that supplies such a large volume of Southern California’s natural gas. According
+to the U.S. Congressional Research Service:
+
+Offshore  oil  and  gas  facilities...have  been  attacked  in  the  past  during
+wartime  and
+territorial  disputes.  Since  September  11,  2001,
+international concern about terrorist attacks on these platforms has grown.
+
+in
+
+13
+
+Some  experts  believe  terrorists  attacks  against  offshore  platforms  have
+been  on  the  rise  recently  in  countries  with  a  history  of  terror  activity....
+Because  offshore  oil  and  gas  facilities  are  remote,  isolated,  and  often
+lightly  manned,  some  experts  believe  they  are  more  vulnerable  to  terror
+attacks than land-based facilities....if several new offshore terminals were
+attacked  in  the  future,  the  effects  on  natural  gas  availability  and  prices
+could have serious consequences for U.S. energy markets.21
+
+LNG  facilities  in  Mexico  would  be  a  terrorist  target  only  because  they  are  supplying  a
+large amount of natural gas to the United States.  Although it is not clear right now that
+Mexico will use any significant amount of natural gas from these facilities, it is possible
+that  Baja  California  could  become  dependent  upon  natural  gas  once  an  LNG  receiving
+terminal  is  built.    The  dependency  of  both  the  United  States  and  Baja  California  on
+natural  gas  would  dramatically  increase  the  value  of  the  site  as  a  terrorist  target.    If  an
+LNG receiving terminal were attacked, the economic and social consequences would be
+severe.  The industry standard given for restoring a LNG receiving terminal to functional
+capacity  is  four  years.    Dependency  on  the  centralized  power  of  LNG  creates  a
+tremendous opportunity for terrorists to strike and cause lasting chaos in both the United
+States and Mexico.
+
+1 Raines, Ben. “Report Sheds New Light on LNG Blast in Algeria.” Mobile Register April 14, 2004.
+2 Daniel, Mac. “Fire Officials Voice Concerns on LNG Threat.” The Boston Globe  February 27, 2004.
+3 Fenske, Sara. “Welcome to Fire Island.” Houston Press May 27, 2004.
+4 Bender, Bryan. “US feared 9/11 hit in Boston, book says: LNG site in Everett was considered at risk,” Boston Globe,
+March 23, 2004.
+5 Paformak, Paul W.  “Liquefied Natural Gas (LNG) Infrastructure Security: Background and Issues for
+Congress,” Congressional Research Service, Library of Congress, September 9, 2003.
+6 Ibid
+7 Ibid
+8 Finch, Bill. “Poll finds growing opposition to LNG Majority in Mobile and Baldwin counties against
+terminal in Mobile Bay,” Mobile Register March, 2004.
+9 LNG Watch: “Samoa LNG: What is it?” February, 2004.
+10 Energy Security, January 21, 2004.
+11 Ibid
+12 Hearing before the Subcommittee on Energy Policy, Natural Resources and Regulatory Affairs, U.S
+House of Representatives  testimony, June 22, 2004.
+13 ABS found that in the scenario most often cited as a sample tanker sabotage case, a flammable LNG
+vapor cloud could travel as far as 18,000 feet (over three miles) before dissipating, and that thermal
+radiation from an LNG pool fire at the tanker could cause second-degree burns at a distance of 4,600 feet
+within 30 seconds. Available from http://www.ferc.gov/industries/gas/indus-act/lng-model
+14 Lindquist, Diane. “LNG Controversy Heating Up: Mexico’s opposition leaders criticize plans for
+terminals off Baja.” San Diego Union Tribune April 7, 2004.
+15 Ibid
+16 Paformak, Paul W.  “Liquefied Natural Gas (LNG) Infrastructure Security: Background and Issues for
+Congress,” Congressional Research Service, Library of Congress, September 9, 2003.
+17 Howland, Jonathan. JINSA April 1, 2004.
+18 Bryan Bender, “U.S Feared 9/11 Hit in Boston, Book Says.” The Boston Globe March 23, 2004.
+19 Staten, Clarke EMT. “Explosions rip Mexican City” Emergency News Net, April 22, 1992.
+20 Eisner, Peter. “Mexico Reels from Explosion” Newsday April 24, 1992.
+21 Paformak, Paul W.  “Liquefied Natural Gas (LNG) Infrastructure Security: Background and Issues for
+Congress,” Congressional Research Service, Library of Congress, September 9, 2003.
+
+14
+
+Chapter 3. Transforming Baja California into a Dirty Energy Zone
+
+Hoping to avoid strict environmental laws and local opposition to coastal development in
+California, yet still have easy access to the United States, corporations like Sempra, Shell,
+ChevronTexaco,  Marathon  and  ConocoPhillips  proposed  LNG  terminals  on  the  Baja
+California coast, just South of the California border.  The first proposed projects, which
+were  inappropriately  located  in  residential  neighborhoods,  were  driven  away  by  local
+residents who feared for the safety of their families.  However, two environmentally and
+socially flawed projects remain on the Baja California coast.
+
+Secret deal hands Coronado Islands to Chevron-Texaco
+
+In  order  to  build  the  proposed  LNG  terminal  at  the  Coronado  Islands  site,  Chevron-
+Texaco  had  to  secure  a  concession,  or  a  right  to  use  public  assets,  from  the  Mexican
+federal government. The Ministry of Communications and Transport (SCT) is the branch
+of  the  government  responsible  for  issuing  concessions.    The  SCT  and  Chevron-Texaco
+quietly  negotiated  a  deal  to  hand  over  control  of  the  Coronado  Islands  to  the
+multinational  corporation  for  30  years.  The  SCT  announced  that  the  solicitation  for  a
+concession for the use of federal waters would be made on December 8, 2003.  However,
+the notice was not published until December 29, 2003, a time when the public would pay
+little attention to the announcement.1
+
+The information regarding the concession did not appear in any of the expected locations.
+It was not published on the  web page of  the SCT  or the standard public  website of  the
+Interior Ministry, which is a violation of the Federal Law of Transparency and Access to
+Governmental Public Information.
+
+The delayed release of the announcement that a solicitation for a concession to use public
+assets was timed to correspond with the holiday season in Mexico.  The notice specified
+that  parties  interested  in  the  concession  must  express  interest  before  January  12,  2004.
+Mexico  was  on  holiday  until  January  5,  leaving  one  week  for  an  interested  party  to
+obtain,  complete  and  deliver  the  necessary  documents.    If  these  documents  were  not
+delivered by 2 PM on January 12, 2004, the interested party was not able to participate in
+the upcoming tender.2
+
+The  timing  of  the  release,  and  the  lack  of  publication  of  the  document  on  readily
+accessible sites, demonstrate a lack of transparency in the negotiation of the tender, and
+the subsequent granting of exclusive rights to use the Coronado Island site for 30 years to
+Chevron-Texaco.
+
+The exceptional conservation value of these islands has been recognized by the Mexican
+Federal  Congress,  which  exhorted  the  relevant  Federal  agencies  to  create  a  natural
+protected area for the Baja California Pacific islands, including the Coronado Islands, as
+well  as  San  Benito,  Cedros,  Guadalupe,  San  Martín,  San  Jerónimo,  and  Todos  Santos
+(Congreso de la Unión 2003) on July 23, 2003.
+
+15
+
+Shell has misrepresented their intentions in the past
+
+In May 2003, the Border Power Plant Working Group (BPPWG) used the courtroom to
+highlight  the  unfair  practices  of  California’s  Sempra  Energy  and  InterGen,  a  power
+generation  venture  of  Shell.    Sempra  and  Shell  were  in  the  process  of  constructing
+transmission  lines  to  connect  power  plants  just  across  the  border  to  United  States’
+markets.  The BPPWG filed suit against the Department of Energy (DOE), as the DOE
+granted the permits  necessary  to  import power  to  the  U.S. along  the  transmission lines.
+Federal  Judge  Irma  Gonzalez  initially  appeared  to  set  higher  pollution  reduction
+standards for the region.  However, she eventually ruled in favor of the DOE after taking
+into consideration the economic impacts of shutting down the plants.
+
+Shell  had  agreed  to  install  smog  reducing  Selective  Catalytic  Reduction  (SCR)
+technology,  considered  to  be  Best  Available  Control  Technology  (BACT),  on  its  two
+export  turbines  by  the  time  of  commercial  startup  in  June  2003.    The  company  was
+initially  unwilling  to  install  BACT  on  the  two  remaining  turbines  supplying  power  to
+Mexico.    Pressure  from  citizens,  local  government,  and  California  federal  politicians
+ultimately  forced  InterGen  to  capitulate  and  agree  to  install  SCR  on  the  two  domestic
+turbines as well.3
+
+Despite  their  written  commitment,  InterGen  did  not  install  SCR  on  one  of  the  export
+turbines  before  startup  in  June  2003.    The  plant  operated  without  control  from  the
+summer 2003 through January 2004.  One reason that Judge Gonzalez did not shut down
+the power plants during the remedy phase of the court case was InterGen’s insistence that
+its plant’s emissions would be controlled to less than significant levels through the use of
+SCR.
+
+Shell – as InterGen – misrepresented itself to the court, the DOE, and to the community,
+which was directly impacted by the unexpectedly high emission levels.     Although the
+failure of Intergen to install SCR was pointed out to the DOE by the Border Power Plant
+Working  Group  in  November  2003,  InterGen  continued  to  operate  the  affected  turbine
+until January 2004.  The company agreed to stop operating the turbine only in response to
+a  threat  of  a  complete  shutdown  by  the  DOE.4      As  a  result  of  this  “breach  of  faith,”
+Senator Diane Feinstein of California negotiated an accelerated SCR installation schedule
+for  the  remaining  two  Intergen  turbines  in  January  2004.    The  initial  spring  2006  SCR
+installation target date has been advanced to the spring of 2005.
+
+Violation of the Constitution
+
+According  to  a  group  of  Mexican  Federal  legislators  and  local  activist  groups,  the
+proposed  LNG  terminals  in  Baja  California  and  the  Coronado  Islands  also  violate  the
+Mexican  Constitution.  Their  argument  stems  from  Article  27  of  the  Mexican
+Constitution, which states:
+
+Ownership  of  the  lands  and  waters  within  the  boundaries  of  Mexico
+belong  to  the  State,  and  the  State  has  direct  ownership  of  all  natural
+liquid  and  gaseous
+resources
+
+including  petroleum  and  all  solid,
+
+16
+
+hydrocarbons.  No petroleum or hydrocarbon concessions may be granted,
+and  the  State  must  manage  the  exploration  and  development  of  such
+products in accordance with terms established in the regulatory law.5
+
+The  independence  of  Mexican  oil  and  gas  from  foreign  interests  has  been  a  matter  of
+national pride since 1938 when the company Petroleos Mexicanos was created.6
+
+According  to  the  legislators,  President  Vicente  Fox  attempted  to  sidestep  the  Mexican
+Constitution  in  order  to  open  the  energy  sector  to  private  investors.    However,  the
+legislators  filed  a  constitutional  challenge  in  the  Supreme  Court  on  July  4,  2001.    The
+legislators claimed that President Fox announced an amendment to the Constitution that
+would allow for increased investment by the private sector. Proposing an amendment to
+the  Constitution  is  a  function  reserved  exclusively  for  the  Congress.      The  Mexican
+Supreme  Court  ruled  against  President  Fox’s  changes  on  February  26,  2004.    The
+Supreme  Court  declared  “that  President  Vicente  Fox  had  overstepped  his  authority  in
+raising  the  amount  of  power  that  the  Federal  Electricity  Commission  could  buy  from
+private companies that generate more than they need to fuel their own operations.”7
+
+Legal battle over environmental permits for Sempra LNG terminal
+
+Fifteen lawsuits that challenge environmental permits issued to Shell/Sempra have been
+filed in Mexican Courts.  The flood of lawsuits caused a temporary injunction against the
+permit to be issued in November of 2003.8   The injunctions were lifted in March 2004
+when the Mexican City courts declared that the suits had merit.  Although Shell/Sempra
+now  claim  that  they  are  moving  ahead  “in  full  force  and  effect”,9  the  removal  of  the
+injunction  actually  indicates  that  the  lawsuits  are  proceeding  within  the  Mexican  Court
+System.    Shell/Sempra’s  claims  that  the  legal  problems  have  been  completely  resolved
+may be designed to reassure investors.
+
+The LNG terminals do not help the local economy in the long-term
+
+The  LNG  terminal  proposed  by  Shell/Sempra  will  require  1,000  workers  during  the
+construction  phase.    This  phase  is  expected  to  last  40  months.    When  construction  is
+completed, the LNG terminals will employ between 30 and 40 technical workers.10  It is
+unclear if these workers will be from the local community or not, but as the job requires
+specific technical skills, it is expected that the company will bring workers in from other
+locations who have already completed the necessary training.
+
+Chevron-Texaco plans on employing 1,200 construction workers during the construction
+phase.    The  estimated  number  of  local  jobs  that  will  be  indirectly  created  is  2,400.
+Chevron-Texaco does not further articulate how these jobs will be created.  However, the
+Chevron-Texaco  and  Shell/Sempra  terminals  are  similar  in  size  and  employment
+expectations are similar.
+
+Chevron-Texaco claims that placing an LNG regasification terminal in Mexico will move
+Mexico from the end of the natural gas supply chain to the beginning. However, Mexico
+
+17
+
+is really being placed near the end of one of the longest supply chains in history.  It will
+take  18  days  for  LNG  from  Chevron-Texaco’s  proposed  LNG  liquefaction  site  in
+Australia  to  reach  the  West  Coast  of  Mexico.11    Importing  LNG  from  the  proposed
+Sakhalin Island site in the Russian Far East will take a minimum of 11 days one-way.12
+The amount of CO2 emitted during the transportation process increases with the length of
+the  voyage.    Despite  Chevron-Texaco’s  claim,  Mexico  is  not  being  moved  to  the
+beginning  of  the  supply  chain,  and  it  is  not  moving  in  the  direction  of  energy
+independence as this implies.
+
+The LNG terminal is bad for the economy in Baja California
+
+The economy in Baja California relies heavily on tourism, and the importance of tourism
+to the area is growing steadily.  In 2003, almost three billion U.S dollars were generated
+from  Baja  California  travel  and  tourism,  and  that  amount  is  growing  at  a  rate  of  6.7
+percent  annually.13    Strong  growth  in  this  sector  is  expected  to  continue  and  increase
+because of investments being made in the area. The tourism sector is critical to Mexico,
+as the factory jobs that Mexico depends heavily upon are being moved to countries with
+cheaper  labor.    While  Baja  California  has  not  lost  many  jobs  at  the  border  assembly
+plants to lower cost  labor  abroad, the tourism industry is seen as  an  essential  means of
+stabilizing the economic situation in the state.14
+
+The tourism industry is largely focused on expanding ecotourism.  To that end, the state
+government  created  a  series  of  ecotourism  circuits  in  each  of  the  six  major  regions  of
+Baja California.  These ecotourism circuits take tourists through historic missions, natural
+hot  springs,  cave  paintings  and  archaeological  sites.    More  traditional  tourism  is  still
+based almost entirely on the natural surroundings of the area.  Activities include seaside
+spas,  wilderness  and  beach  camping,  deep-sea  fishing,  beach  horseback  riding,  golf,
+kayaking, hiking, scuba diving and sailing.15
+
+The ecotourism industry is a major driving force in the economy of Baja California.  The
+proposed  LNG  terminals  on  the  coastline  and  the  Coronado  Islands  will  introduce
+unsightly terminals and tankers to the area, hampering the tourism industry.   The tourism
+industry  requires  both  skilled  and  unskilled  labor  and  provides  many  job  opportunities.
+The LNG terminals will reduce the number of tourism related jobs and will create very
+few local jobs.
+
+Sempra/Shell terminal jeopardizes Bajamar Resort
+
+A popular tourist resort, Bajamar, is located within 2 miles of the LNG terminal proposed
+by Shell and Sempra.  Developer Roberto Valdes spoke out against the LNG terminal, “I
+think Ensenada city and state government officials need to put a hold on the project and
+consider if it is wise to jeopardize the safety and peace of mind of people who are living
+and investing in the Bajamar resort”.16  Valdes is especially concerned because the recent
+explosion  at  an  LNG  facility  in  Algeria  caused  damage  up  to  seven  miles  away.  An
+accident  of  similar  magnitude  at  the  Sempra/Shell  LNG  terminal  would  put  Bajamar
+residents and property in danger.  If the Bajamar resort is perceived as a risky investment,
+investors will be hesitant to continue to purchase property in the area.
+
+18
+
+Chevron-Texaco’s proposed terminal would damage tours to the Coronado Islands
+
+The LNG terminal proposed by Chevron-Texaco would compromise critical marine bird
+habitat  and  greatly  damage  the  tourist  appeal  of  the  Coronado  Islands.  The  islands
+provide  a  prime  habitat  for  a  threatened  species  of  marine  bird,  the  Xantus  Murrelet.
+This  bird  and  its  chicks  are  particularly  sensitive  to  light  pollution  during  the  nesting
+season.  The huge terminal, brilliantly lit at night, will be only 600 meters from the South
+Coronado  Island.    The  Islands  also  offer  encounters  with  Sea  Lions,  Harbor  Seals,
+octopus,  Horn  Sharks,  Moray  Eels,  Garibaldis,  and  purple  coral  for  divers  and  nature
+viewers out for day trips.  Chevron-Texaco’s LNG terminal would be an eyesore at this
+beautiful site and decrease both the popularity of the Islands and the revenue that tourism
+to the Islands generates.
+
+PEMEX will not gain from LNG importation
+
+The  proposed  LNG  terminals  will  not  help  Petroleos  Mexicanos  (PEMEX),  the  state
+owned  energy  firm,  in  the  long  term.    Although  the  LNG  regasification  sites  will  be
+located in Mexico, they will be owned and operated by multinational companies.  Due to
+legal  constraints,  PEMEX  will  be  a  partner  of  the  LNG  terminal  developers,  although
+PEMEX  will  not  be  a  primary  benefactor  of  income  generated  from  the  sale  of  the
+regasified  LNG.    In  fact,  PEMEX  could  become  one  of  the  largest  customers  of  the
+multinational  corporations.  PEMEX  hopes  to  purchase  enough  natural  gas  from
+Shell/Sempra  and  ChevronTexaco  to  be  able  to  export  it  to  the  U.S,  where  demand  is
+
+Proposed LNG terminals have been rejected by communities
+
+In both Tijuana and Rosarito, when citizens became informed about the
+potential dangers associated with the proposed LNG terminals, the
+community opposed the proposed terminals, and the developers abandoned
+the projects.
+
+In Tijuana, Marathon Oil attempted to construct an LNG regasification
+site. However, the people living in that area fought against the LNG
+terminal because they realized that they were going to be undertaking 75
+percent of the risk, for, at most, 10 percent of the natural gas. The
+community became educated about the dangers of the proposed LNG
+terminal, and rallied against the terminal when they realized the damaging
+environmental and health impacts it created. Faced with such strong local
+opposition, the federal and local governments decided to enforce the
+Tijuana Urban Development Plan, which had zoned the area for "low
+impact tourism". Marathon Oil was forced to discontinue its plans for the
+terminal.
+
+In Rosarito, El Paso Energy and Conoco Phillips proposed an LNG
+terminal that met with strong local opposition and was forced to stop its
+construction plans.  The local citizens were angered by the proposed the
+location of the LNG site - near a power plant owned by Petroleos
+Mexicanos. The people living near the Petroleos Mexicanos power plant
+refused to allow an additional plant to devastate their health,
+neighborhoods and the environment.
+
+19
+
+high.17  However, it is highly unlikely that multinational corporations like Sempra/Shell
+and ChevronTexaco will allow PEMEX to make any significant profits on the natural gas
+they intend to sell to the United States.  This PEMEX export concept does little to help
+the  situation  in  Baja  California,  where  energy  prices  are  high,  and  many  are  unable  to
+afford electrical service.
+
+According  to  a  recent  analysis  of  the  North  American  market  for  natural  gas,  PEMEX
+customers are also unlikely to gain financially from the importation of LNG into Mexico.
+Although  some  commentators  have  stated  that  LNG  imports  will  reduce  the  cost  of
+natural gas, recent analysis18 of the economics of natural gas in North America indicates
+that LNG importation will cause essentially no natural gas price depression either locally
+(at point of importation) or nationally.  This is not surprising since the finding basically
+confirms that LNG developers will not be  “shooting themselves in the  foot” financially
+by  undercutting  gas  prices  with  LNG.    The  static  North  American  natural  gas  models
+being used by many to show a dramatic price depression with the importation of LNG are
+inappropriate  models  because  they  fail  to  take  into  account  the  depletion  of  low-cost
+conventional natural gas in North America.
+
+There are insufficient supplies of low-cost domestic gas left for it to remain at the margin,
+so higher cost unconventional gas must be drilled. The abundant, higher cost domestic
+sources of gas, such as conventional (small gas field), unconventional, and arctic will be
+the marginal source of supply—with or without LNG importation—and these higher cost
+supplies will set the domestic price of gas at $4.00 to $4.50/MMBtu.  Because these will
+set the market price of gas, “injections” of imported LNG will have little or no impact on
+the marginal price of natural gas.
+
+Environmental Harms in Mexico
+
+Although both of the proposed terminals in Baja California will have a significant impact
+on  the  surrounding  environment,  neither  Sempra/Shell  nor  ChevronTexaco  are  making
+any  significant  effort  to  use  the  best  available  technology  to  reduce  or  avoid  these
+impacts by investing in alternative, clean energy sources.  In fact, both projects are being
+pushed  forward  in  the  absence  of  completed  scientific  study  of  the  potential  impacts.
+Furthermore, the past practices of these companies, particularly Sempra and Shell, show
+that they are willing to put their profits ahead of environmental and social concerns.
+
+Seabirds and the Coronado Islands
+
+The Coronado Islands, located off the Baja California coast in Mexico, just below the
+border about 20 miles south of San Diego, will be placed in serious jeopardy by the
+proposed LNG regasification terminal.  The Coronado Islands are uninhabited and remain
+largely isolated.  The species that inhabit the islands have not adapted to human activity.
+The proposed LNG sites expose these previously isolated islands to damaging forms of
+human activity.
+
+20
+
+The construction and general operation of the terminal, along with the tankers supplying
+the terminal, will have a continuous impact on the islands.  The LNG terminal will cause
+distinct disturbances to the globally significant species of seabirds that inhabit the
+Coronado Islands. There are ten species of seabirds that use the Coronado Islands as their
+breeding grounds.  Of these ten species, seven are listed as either threatened or
+endangered in the U.S or Mexico. The numbers of seabirds inhabiting the Coronado
+Islands are significantly lower than historical numbers due to impacts from habitat
+degradation as well as the prevalent use of the pesticide DDT which causes harmful
+thinning of the birds’ shells.19  While these seabird populations are currently rebounding,
+the proposed LNG terminal would make it very unlikely that these seabirds would
+continue to increase in number.
+
+There are a number of factors linked to the LNG terminal that could cause continued loss
+of seabird populations. The construction of the terminal would introduce previously
+unknown sounds and sights to the islands. Surface nesting seabirds, such as the Brown
+Pelican, Double-crested, Brandt’s, and Pelagic Cormorants, flee their nests when they are
+disturbed, leaving eggs unprotected.  These vulnerable eggs are then susceptible to gull
+predation.  A study conducted by Anderson and Keitt (1980) showed that 80 percent or
+more of eggs are lost due to human disturbances and the gull predation that follows.20
+The construction of the LNG terminal, and the subsequent operation of the terminal,
+would result in a severe threat to the already-endangered Brown Pelican, and would
+drastically reduce the populations of the Double-crested, Brandt’s and Pelagic
+Cormorants.
+
+Another category of seabird that inhabits the Coronado Islands is nocturnal seabirds.  The
+Coronado Islands are at least 8 miles from any sources of light pollution, ensuring a
+proper nocturnal period for the seabirds that have evolved to be active only during the
+nighttime in order to avoid predators.  The LNG terminal will require extensive lighting
+for safety purposes.  The required lighting threatens nocturnal seabirds in two distinct
+ways.  First, the lighting increases the risk of predation to nocturnal seabirds by
+illuminating their habitat during their active hours. Two types of seabirds, auks and storm
+petrels, breed only at night.  The light pollution caused by the LNG terminal will disturb
+the breeding process while simultaneously exposing the active seabirds to predatory gulls
+and falcons.  Seabirds are attracted to light.  Mortality rates will increase as birds fly into
+lights and structures surrounding the lights.21
+
+The Xantus’s Murrelet is especially threatened by the light pollution that will be
+introduced to the Coronado Islands if the LNG terminal is built.  This species is important
+to protect because of reduced population numbers.  The Xantus Murrelet was listed as
+threatened by the California Department of Fish and Game in February 2004. This bird is
+extremely light sensitive.  The world’s largest population of this endangered seabird
+gathers in the nearshore waters of the Coronado Islands from January through July.22
+
+21
+
+A Potential threat to migrating whale populations
+
+The  LNG  tankers  will  also  impact  the  marine  life  in  the  ocean  surrounding  the  LNG
+regasification site.  The waters off the coast of Baja California are particularly important
+to  the  gray  whale  population,  which  returns  to  the  Baja  California  waters  each  year  to
+reproduce.
+
+The potential harms to the gray whale population from the proposed regasification site at
+Baja  California  have  not  yet  been  formally  studied,  although  two  studies  are  in  the
+preliminary stages.  ChevronTexaco has recently commissioned a study by the Hubbs Sea
+World Research Institute and Shell has commissioned a study by the Center for Scientific
+Research and Advanced Study (CICESE) located in Ensenada, Mexico.
+
+Past  research  demonstrates  that  the  two  most  significant  threats  to  the  gray  whale
+population are pollution and the disturbance of calving lagoons. The LNG regasification
+site at the Coronado Islands will sit directly in the middle of the migration path that gray
+whales follow each spring.
+
+While the specific impact of the LNG tankers is unknown, the massive size of the
+tankers, coupled with the frequency of their visits, is certain to increase the threat to the
+gray whale population.   A peer-reviewed scientific study showing that construction and
+operation of the LNG terminals would have a minimal impact on ocean life, particularly
+the gray whale population, must be conducted and disclosed before construction begins.
+
+Unnecessary seawater use at terminals will impair marine ecosystems
+
+The  LNG  terminal  requires  the  intake,  disinfection,  and  discharge  of  between  100  and
+200  million  gallons  of  chlorinated  seawater  per  day.    Chlorinated  seawater  is  toxic  to
+marine life, effecting the processes of reproduction, feeding, and respiration.  It can also
+cause  mutagenic  effects.23    The  cold  temperatures  at  which  the  water  is  discharged,  as
+much as 20 degrees colder than the ocean’s water, amplify the negative impacts of toxic,
+chlorinated seawater.24
+
+The  immediate  impacts  of  discharging  chlorinated  water  into  the  ocean  are  significant.
+Chlorine  does  not  dissolve,  but  rather  breaks  down  and  forms  complexes  with  other
+substances  to  create  chlorinated  organics.    Chlorinated  organics  remain  toxic  to  marine
+life forms for extended period of time.
+
+The Clean Water Act requires the use of “the best technology available for minimizing
+adverse environmental impact” of LNG terminals within the borders of the United States.
+Submerged  combustion  vaporization  (SCV)  is  the  least  environmentally  damaging
+technology available for regasification.  It uses less than two percent of the natural gas to
+vaporize  the  LNG.    Although  use  of  SCV  results  in  a  slight  increase  in  terminal  air
+emissions, these emissions can be substantially reduced by employing selective catalytic
+reduction  (SCR)  for  nitrogen  oxide  control.    SCR  is  used  to  control  nitrogen  oxide
+emissions from the SCV system in use at  the  oldest  LNG  regasification  terminal  in the
+
+22
+
+United  States,  Distrigas  LNG  in  Boston.25  Mexico  is  not  governed  by  the  Clean  Water
+Act,  and  the  LNG  sites  in  Baja  California  will  use  less  sophisticated,  and  much  more
+environmentally devastating, regasification technology.
+
+Pipeline construction by Sempra Energy has damaged ancient artifacts
+
+Costa  Azul  is  the  only  remaining  undisturbed  stretch  of  coastline  between  Tijuana  and
+Ensenada.  The site has a rich history of habitation by indigenous peoples, extending back
+over  10,000  years.    The  Mexican  government  has  zoned  the  Costa  Azul  area  for  low-
+impact tourism, and recognized that “this area, with its magnificent coastal landscapes, its
+rare and  well-preserved  biological and coastal resources, its strategic location  along the
+most scenic part of the tourist corridor, should be preserved as a state park or preserve for
+all Baja Californians, generating sustainable employment through ecotourism and related
+services, long-term excavations, and park management.”26
+
+Unfortunately,  the  current  plans  for  developing  an  energy  market  in  Baja  California  do
+not  consider  the  value  of  the  undisturbed  coastline  or  the  archeological  significance  of
+Costa Azul in particular.  Instead, some of the environmental damage associated with the
+LNG terminals has already been done.  The proposed terminals at both sites will connect
+with the Bajanorte Gas Pipeline, which extends 130 miles from Tijuana to Mexicali and
+on  to  the  U.S  and  was  completed  in  2002.    Sempra  Energy’s  subsidiary,  Gasoducto
+Bajanorte,  cleared  an  80-foot  wide  right-of-way  along  the  entire  length  of  the  pipeline
+route.27
+
+Although the path of the pipeline passed through a federally protected indigenous art site,
+Sempra  made  no  attempt  to  get  the  necessary  permits  or  take  any  steps  to  protect  the
+invaluable  artifacts.    They  were  finally  stopped  by  the  efforts  of  Mexico’s  National
+Institute of Anthropology and History.  Although Sempra eventually changed the path of
+the pipeline, they left a disastrous trail of irreparable damage in their wake.  The clearing
+of the right-of-way led to the destruction of hundreds of oak and pinyon trees and their
+habitats.    Bedrock  mortars,  grinding  slicks,  ancient  encampments  and  potential
+archaeological sites were also destroyed.  When the company agreed to alter their path to
+avoid the federally protected Vallecitos Archaelogical site, they did not repair, replant or
+make  any  attempt  to  mitigate  the  damages  the  clearing  had  caused.    This  complete
+disregard  for  the  value  of  the  local  culture  and  habitat  to  maintain  the  construction
+schedule bodes ill for the environment in the vicinity of the proposed LNG project.28
+
+Construction by Sempra/Shell will destroy more artifacts
+
+The National Institute for History and Anthropology (INAH) was commissioned to carry
+out  an  investigation  of  the  potential  impacts  of  the  Sempra/Shell  LNG  terminal  on  the
+archeological remains at the site. After one season in the field collecting and compiling
+information,  the  archeologists  working  for  INAH  produced  a  report  on  their  findings.
+This  report  established  the  urgent  need  to  take  measures  preventing  irreversible  loss,
+which can contribute to the historical understanding of the Baja California peninsula.
+
+23
+
+Their  findings  indicate  that  construction  of  the  proposed  liquid  natural  gas  plant,
+including  the  access  road  and  a  large  portion  of  the  plant,  will  destroy  artifacts  and
+evidence of people that lived in Baja California thousands of years ago.
+
+The  current  plan  is  to  excavate  the  artifacts  and  human  remains  at  the  site  before
+construction  begins.  The  work  will  be  primarily  one  of  archeological  rescue  and
+preservation.    The  time  frame  of  the  work  is  currently  dictated  not  by  the  needs  of  the
+project, but by the construction schedule set by Sempra/Shell.
+
+Based  on  studies  carried  out  in  areas  near  the  proposed  gas  processing  facility,
+archeologists  think  there  is  a  possibility  that  there  are  graves  on  the  site.    The
+archeologists want to study those remains for clues to the nutrition and marine economy
+of  the  humans  that  lived  here  thousands  of  years  ago,  but  they  fear  that  most  of  the
+artifacts will be destroyed in a rush to construct the plant.
+
+1 Banker and Associates, Energy Consultants, “New Actors in LNG politics in Baja California.” MEI
+report No. 660, January 27, 2004.
+2 Ibid
+3 Barron, Jeffrey. “Evolving Impact of Environmental Laws on Cross-border Power Between Mexico and
+the United States”, Power in Latin America August, 2003.
+4 Lindquist, Diane. “InterGen gives in, unplugs turbine.” San Diego Union Tribune January 17, 2004.
+5 Young, Randel and Charles Meacham. “Pemex’s Multiple Services Poses Financial Issues.” International
+Oil and Gas Finance Review 2003, pg 73.
+6 Day, Paul. “Does MSC stand for Mexico Sold Cheap?” Business Mexico 2003.
+7 Alexander’s Gas and Oil Connections volume 7, issue #10 May 16, 2002.
+8 Lindquist, Diane. “Permits for Sempra’s LNG Plant Suspended.” San Diego Union Tribune December 19,
+2003.
+9 Phase 1 Comments of Sempra Energy LNG Corp., March 23, 2004.
+10 www.shell.com
+11 Maul, David. CEC Staff Update on Liquefied Natural Gas, February 24, 2004 (assumes 18.5 knots).
+12 Oman, 25 days; Australia, 18 days; Malaysia, 17 days; Indonesia, 16 days; Brunei, 16 days; Russia, 11
+days; Alaska, 5 days.
+13 “WorldTradeShow.com and Mexican Tourism Bureaus Partner.” Business Wire  March 24, 2004.
+14 Luken, Carlos. “Mexico's hope in Baja California.” Contra Costa Times, August 24, 2003.
+15 “New Fox Studios Movie Park & Other Cultural Improvements Make Baja California An Exciting
+Summer Vacation Destination.” PR Newswire,  May 10, 2001.
+16 Lindquist, Diane. “Mexican agency warns of potential for LNG disaster.” The San Diego Union-Tribune,
+January 23, 2004.
+17 “S.A. firm cashes in on Mexican connections in energy market.” San Antonio Business Journal, May 28,
+2004.
+18Fahd, George and Dale Nesbitt (President). “Impact of LNG Imports on North American Natural Gas
+Prices.” Energy Pulse June 10, 2004.
+19 Aguirre, Alfonso and Bradford Keitt. “Potential effects of a liquefied natural gas offshore terminal on
+seabirds at Coronado Islands, Baja California, Mexico.”
+20 Ibid
+21 Ibid
+22 Ibid
+23 Patin, Stanislav Environmental Impact of the Offshore Gas and Oil Industry, Ecomonitor Pub, December
+1999.
+24 http://www.environmentalhealth.org/DeadlyPowerExecSumm.html
+
+24
+
+25 Border Power Plant Working Group (and others) letter to U.S Coast Guard Docket Management Facility
+Revised Comments on Draft Environmental Impact Statement Prepared for Port Pelican LLC Deepwater
+Port License Application- LNG vaporizer system Global LNG Summit June 2004.
+26 Robertson, Miguel Wilken. “Costa Azul: A Threatened Cultural Landscape (notes for a talk)” September
+12, 2003.
+27 Ibid
+28 Ibid
+
+25
+
+Chapter 4. Liquid Natural Gas: Derailing California’s Golden Dream
+
+California is currently engaged in a fight for its energy future.  The majority of California
+voters, along with Greenpeace, are demanding clean renewable resources.  On the other
+side,  multinational  corporations  are  arguing  that  the  State  should  invest  billions  in  new
+LNG facilities and polluting power plants, including plants that would be sited in Mexico
+but supply California’s market.
+
+Shell,  Sempra,  Chevron-Texaco  and  BHP  corporations  are  pressuring  California  to
+postpone  its  renewable  energy  goals,  goals  that  are  supported  overwhelmingly  by
+California voters. Instead, these energy giants propose the purchase of foreign supplies of
+natural gas in the form of LNG. In addition to the influence of the big corporations, all of
+California’s  natural  gas  utilities  either  have  or  until  recently  had,  a  direct  stake  in  the
+importation of LNG.1
+
+Greenpeace is part of a larger coalition of environmental groups and community activists
+in California that is advocating for increased investment in renewable energy and energy
+efficiency in California, instead of the creation of long-term dependence on liquid natural
+gas facilities.
+
+California can meet its future energy demands  without building any  LNG terminals.  If
+the State pursues  aggressive energy  efficiency  goals, retrofits the old inefficient coastal
+power plants, and expands the States renewable energy goals, the State can reduce natural
+gas demand by the equivalent of three LNG terminals.
+
+Conservation and renewable energy are California’s top priority
+
+In  2002  the  California  Assembly  overwhelmingly  voted  to  make  California  a  national
+renewable  energy  leader.    California’s  Renewable  Portfolio  Standard  ensures  that  20
+percent  of  California's  energy  will  be  produced  from  clean  energy  like  wind,  solar  and
+geothermal  by  2017.    New  legislation  has  been  introduced,  pushed  by  Governor
+Schwarzenegger, which would accelerate the target date to 2010.
+
+In  the  same  year,  the  California  Power  Authority  (CPA)  sent  its  Energy  Resource
+Investment Plan to the state legislature. The Energy Resource  Investment Plan details a
+strategy to prevent a future energy crisis by meeting California’s energy supply shortfalls
+through energy efficiency, conservation and renewable generation. In total, the CPA will
+generate $5 billion in revenue bond financing that will leverage over $12 billion in clean
+energy investment by 2007.
+
+In  addition,  the  State’s  Energy  Action  Plan,  adopted  in  2003  by  the  California  Public
+Utilities  Commission,  the  California  Energy  Commission  and  the  CPA,  places  energy
+efficiency  and  the  acceleration of the State’s renewable energy  goal as the first  priority
+for the State.
+
+26
+
+California can eliminate the need for three LNG facilities
+
+Natural  gas  demand  in  California  can  be  cost-effectively  reduced  by  one  third,  through
+conservation and renewable energy,2 reducing CO2 emissions by 101 billion pounds per
+year.  This reduction is equal to removing more than 10 million passenger cars per year
+from the road3 and provides the same benefits as building three LNG terminals.
+
+ This  transition  to  renewable  energy  is  especially  important  as  decisions  made  now
+impact  the  future  of  energy  production.    If  the  LNG  infrastructure  is  built  on  the  West
+Coast, California and Baja California will become increasingly dependent on natural gas
+and  a  valuable  opportunity  to  switch  to  a  cleaner,  safer,  more  sustainable  method  of
+energy production will be significantly delayed, or lost altogether.
+
+California already has a plan for reducing natural gas consumption by one-quarter
+
+Numerous  studies  on  the  potential  for  energy  efficiency  and  renewable  energy  were
+conducted when the State was putting together its Energy Action Plan.  The fundamental
+result of these studies is a consensus that the state can significantly reduce its natural gas
+use  through  increased  investments  in  energy  efficiency  and  renewable  power  while
+saving money and improving the environment.
+
+The  studies  by  the  California  Energy  Commission  and  others  show  that  the  State  can
+reduce  its  natural  gas  use  by  nearly  1,500  mmcfd  or  roughly  25  percent  through  cost-
+effective  energy  efficiency  measures  and  by  accelerating  investments  in  renewable
+energy.  Further increasing the State renewable energy goals to 30 percent of the State’s
+energy  use  by  2017  would  reduce  natural  gas  use  by  the  equivalent  of  another  LNG
+terminal (see Table 1).
+
+Table 1: Extending California’s renewable energy goal to 30 percent by 2017 would
+allow the State to cut natural demand by one-third.
+
+Gas Demand, Projected Demand Increase by California Natural Gas
+Utilities, Supply/Demand Reduction Options
+
+Gas Quantity,
+(mmcfd)
+
+Average daily natural gas use in California, 2001
+
+Projected increase in gas demand over 2002 baseline, 2006-2016
+
+6,600
+
+0-2004
+
+Average projected daily natural gas delivery from one LNG terminal
+
+700-800
+
+Total Reduction in California gas demand from conservation measures a
+accelerated renewable portfolio standard (20% by 2010)
+
+1,100 – 1,5005
+
+Total Reductions assuming 30 percent renewable portfolio standard (a)
+
+1,800 – 2,3006
+
+Source: Synapse Energy Economics, 2004
+(a) Estimated from CEC baseline.
+
+27
+
+Increased Energy Efficiency Investments
+
+The  largest  single  consumer  of  natural  gas  in  California  is  the  electric  power  industry,
+accounting for roughly one-third of the natural gas use in the state.  Consequently, one of
+the  best  ways  to  reduce  California’s  natural  gas  demand  is  to  reduce  the  need  for
+electricity through accelerated energy efficiency programs.
+
+Studies  by  the  California  Energy  Commission  and  an  Xenergy  Inc.  consultants  report
+commissioned  by  the  Energy  Foundation  and  Hewlett  Foundation7  found  that  over  the
+next  decade  there  is  a  significant  potential  for  energy-efficiency  savings  in  California.
+The  CEC  found  that  increased  investments  in  energy  efficiency  could  save  30,000
+gigawatt hours (gwh) of electricity, which would reduce natural gas consumption in the
+state  by  550  mmcfd  over  the  CEC  base  case  forecast.8    Similarly,  Xenergy  found  that
+even more cost-effective energy efficiency measures can be implemented – saving 40,000
+gwh  of  electricity  –  that  would  equal  820  mmcfd  of  natural  gas  savings  over  the  CEC
+base  forecast.    The  baseload  throughput  of  one  LNG  terminal  is  approximately  700
+mmcf/d.
+
+Building Standards
+
+More  efficient  technology  is  available  at  the  consumer  level.    Recently  adopted  2005
+building standards will provide a 10 percent improvement over the 2001 standard.  They
+are expected to produce annual electricity savings of nearly 5,000 gwh, which translates
+into  130  mmfcd  of  natural  gas  reductions  by  2016.9  Improved  appliance  standards  also
+are expected to provide significant additional savings.
+
+Improving the efficiency of coastal natural gas power plants
+
+The State can take a giant step forward in energy efficiency by upgrading the old coastal
+utility boiler plants. Most of these units were built before 1975 and consume at least 50
+percent more natural gas per unit of electricity produced than a new power plant.  There
+are approximately 16,600 MW of old generating capacity in California.10 Upgrading just
+the  older  non-peaking  plants  in  California  with  newer  technology  would  save
+approximately 500 mmcf/d.11
+
+There are also significant health and
+economic benefits to replacing
+these aging power plants.  Newer
+plants have lower fuel and
+operating costs, and produce less
+smog-forming nitrogen oxide
+emissions. Water usage from
+inefficient cooling could also be
+dramatically reduced with more
+efficient processes, which can be
+critical in mitigating the harm to
+
+)
+
+W
+M
+
+(
+
+y
+t
+i
+c
+a
+p
+a
+C
+
+Figure 1. Most of the natural gas power plants
+in California  were built before 1980
+
+12,000
+10,000
+8,000
+6,000
+4,000
+2,000
+0
+
+1950s
+
+1960s
+
+1970s
+
+1980s
+
+1990s
+
+2000s
+
+Year Built
+
+28
+
+aquatic ecosystems.  According to the California Energy Commission, all of the natural
+gas power plants built in this decade, 8,000 MW of power plants, have a nitrogen oxide
+limit of 5 ppm or less.  However, over 10 percent of the older natural gas plants are
+permitted to emit over 50 ppm and another 12 percent can emit between 15 and 50 ppm
+(see Figure 1).12
+
+Renewable energy is the key to reducing natural gas use in the state.
+
+An  accelerated  Renewable  Portfolio  Standard  (RPS)13  is  another  key  to  significantly
+reducing  natural  gas  use  in  the  State.    The  RPS,  adopted  by  California  voters  in  2002,
+currently  states  that  20  percent  of  energy  generation  in  California  should  be  from
+renewable  sources  of  electricity  by  2017.    This  represents  a  doubling  of  the  renewable
+energy production from 2001.
+
+Table  2:  Energy  Efficiency  and  a  30  percent  RPS  will  reduce  the  need  for  three
+LNG terminals in California
+
+Supply/Demand Reduction Options
+
+Increased Investments in Energy Efficiency Programs
+
+Newly Implemented Building Standards
+
+Improved Efficiency of Old Natural Gas Power Plants
+
+Accelerated Renewable Portfolio Standard to 20 percent by 2010
+
+Renewable Portfolio Standard 30 percent by 2017 (a)
+
+Total Natural Gas Demand Savings
+
+Source: Synapse Energy Economics, 2004
+(a) Estimated from CEC baseline.
+
+Gas Savings
+(mmcfd)
+
+550 – 820
+
+80 – 130
+
+475
+
+27 – 55
+
+685 – 820
+
+1,800 – 2,300
+
+New  legislation  has  been  introduced,  endorsed  by  the  new  Governor  Arnold
+Schwarzenegger,  which  would  accelerate  the  target  date  to  2010.    This  change  would
+offset 220 mmcfd of natural gas use in 2010, falling to 55 mmcfd in 2013 as compared
+with the current RPS.14
+
+Policy makers and environmentalists are calling on the State to continue to pursue
+aggressive renewable energy targets.  An increase the RPS to 30 percent by 2017 would
+represent a significant increase in energy production and further reduces the demand for
+natural gas in the state.  A 30 percent renewable energy goal by 2017 would reduce
+natural gas demand by an additional 685 to 820 mmcfd, the equivalent of one LNG
+terminal.
+
+1 Southern California Gas and San Diego Gas and Electric are owned by Sempra.  Until recently PGE
+owned the U.S. extension of the North Baja Pipeline in partnership with Sempra.
+2 Synapse report and assuming renewable energy goal of 30 percent by 2017.
+
+29
+
+3 Environmental Protection Agency (assumes auto emissions of 10,000 pounds of CO2 per year).
+4 Derived from presentations by PGE, SoCalGas, and SDGE at CEC/CPUC Natural Gas Workshop, Dec. 9-
+10, 2003.
+5 Derived from Synapse Energy Economics evaluation submitted in March 23, 2004 RACE coalition
+comments in CPUC Utility Long-Term Natural Gas Procurement Proceeding, Rulemaking  04-01-25
+6 Ibid
+7 Xenergy, 2002, California’s Secret Energy Surplus, the Potential for Energy Efficiency”
+8 The CEC assumed 10,000 gwh of energy efficiency savings.
+9 Energy Action Plan Legislative Report, dated January 5, 2004.
+10 “Aging Natural Gas Power Plants in California.” California Energy Commission Staff Paper, July
+2003.
+11 Synapse Energy Economics on the California Natural Gas Utilities’ Phase 1 Proposals, March 23, 2004.
+12 California Energy Commission, Aging Natural Gas Power Plants in California, July 2003.
+13 “Proposed Energy Savings Goals for Energy Efficiency Programs in California.” California Energy
+Commission Staff Report, dated October 27, 2003, pg 32.
+14 Renewable Resources Development Report, a Presentation by Ann Peterson, Project Manager, at
+the California Energy Commission Business Meeting, November 19, 2003, assuming 8,000 Ghw increase.
+
+30
+
+Chapter 5.  LNG’s Global Blood Trail
+
+Liquid  natural  gas  production  results  in  environmental  damage  and  human  rights
+violations around the world.  The natural gas used to make LNG destined for Mexico will
+be mined for in some of the world’s most sensitive environments, such  as the Peruvian
+jungle  and  Sakhalin  Island  in  the  Russian  Far  East.    The  world’s  banks  are  poised  to
+finance these destructive practices around the globe.
+
+Government Overthrow in Bolivia
+
+Plans  by  Sempra  Energy  to  export  Bolivian  gas  to  Chile  for  liquefaction  and
+shipment  to  California  fueled  a  popular  uprising  that  left  65  dead  and  forced  President
+Sanchez  de  Lozada  from  power.  The  revolt  began  in  September  of  2003,  when
+indigenous  and  workers’  groups  began  protests,  strikes  and  roadblocks  against  the
+government’s plan to export natural gas to the United States and Mexico via Chile. The
+demonstrations  against  the  natural  gas  project  subsequently  spiraled  into  widespread
+protests  against  the  Bolivian  government.    The  opposition  to  the  project  has  been
+particularly  strong  because  many  Bolivians  are  against  exporting  natural  gas  through  a
+Chilean port. Bolivia lost access to the ocean in 1883 after being defeated by Chile in the
+War of the Pacific.
+
+Bringing Disease and Destruction: The Camisea Project in Peru
+
+The Camisea Gas Project in Peru is located in previously inaccessible Peruvian jungle in
+one of the most biologically diverse areas in the world. The project is also located in the
+Nahua  Kugapakori  State  Reserve  neighboring  the  Urubamba  River,  which  was  created
+over  a  decade  ago  to  protect  vulnerable  native  cultures.    These  nomadic,  indigenous
+communities  have  had  little  or  no  contact  with  the  outside  world.    In  spite  of  the
+protected  status  of  this  land,  Phase  I  of  the  Camisea  Gas  project  will  be  completed  in
+August  2004.  This  project  is  highly  controversial  due  to  the  extensive  environmental
+damage and the impact on indigenous peoples caused during the construction of the gas
+wells, gas plant, and 700-kilometer pipeline from the jungle to the coast.
+
+Companies  involved  in  the  Camisea  project  consortium  include  Hunt  Oil,  Halliburton,
+Argentina’s  PlusPetrol  and  Techint,  and  Belgium's  Tractebel.  The  consortium  has  been
+fined  by  the  Peruvian  government  for  violating  erosion  control  and  water  quality
+standards.  The  pipeline  right-of-way  passes  through  many  kilometers  of  steep  jungle
+terrain  with  unstable  soils  and  has  been  completely  exposed  for  two  consecutive  rainy
+seasons. The failure of the consortium to promptly replant and close the pipeline right-of-
+way  has  resulted  in  tremendous  erosion,  landslides,  and  water  quality  impacts  in  the
+jungle  portion  of  the  project.  This  failure  has  also  opened  the  region  to  “invasion”  by
+outside colonists, further degrading this sensitive environment and threatening the health
+and way-of-life of the indigenous inhabitants.
+
+31
+
+Hunt  Oil  will  be  responsible  for  Phase  II  of  the  project,  the  construction  of  a  liquefied
+natural gas (LNG) liquefaction terminal on the Peruvian coast south of Lima. The target
+markets  for  this  LNG  are  California  and  Mexico.    While  Hunt  Oil  and  the  other
+companies  involved  stand  to  make  a  substantial  profit  from  LNG,  the  cost  to  the
+Machiguenga  indigenous  communities  in  the  Camisea  region  is  a  decline  in  health,
+attributed  to  pollution  and  the  invasion  of  construction,  and  the  potential  loss  of  their
+culture.
+
+The indigenous cultures living in the Nahua  Kugapakori State Reserve are in the initial
+stages  of  contact  with  the  outside  world.    One  of  their  early  communications  with  the
+outside world was an expression of outrage at the invasion of the oil companies; “In the
+past,  Shell  worked  here  and  almost  all  of  us  died  from  the  diseases...We  know  that  if
+another  company  comes  here,  our  rivers  and  land  will  be  destroyed.  What  will  we  eat
+when the rivers are dead and the animals have run away?"1
+
+Endangering the Whales: Russia’s Sakhalin Island2
+
+Sakhalin  is  a  Russian  island  that  is  located  about  50  miles  north  of  Japan.  After  the
+collapse  of  the  Soviet  Union  in  the  early  1990’s,  multi-national  oil  and  gas  companies
+wasted little time in exploring the waters around the island for oil and gas. It is now one
+of  the  leading  oil  and  gas  producing  regions  in  Russia,  and  almost  all  of  what  is  being
+produced is for the export market.
+
+Natural gas is a by-product of the crude oil that is being extracted from Sakhalin. Despite
+industry  claims  to  the  contrary,  getting  natural  gas  from  beneath  the  ocean  floor  has
+proven to be a dirty and dangerous process. Sakhalin’s oil and gas is being drilled from
+two huge off-shore oil platforms, one operated primarily by ExxonMobil (the Sakhalin I
+project),  and  the  other  primarily  by  Shell  and  Mitsubishi  (the  Sakhalin  II  project).
+Sakhalin  II  would  be  a  potential  supplier  of  the  Shell/Sempra  import  terminal  at  Costa
+Azul in Baja California.
+
+Both  of  these  platforms  are  located  in  a  pristine  marine  habitat,  and  can  potentially
+impact the only feeding ground of the critically endangered Western Pacific Gray Whale.
+There  are  about  only  100  of  these  magnificent  creatures  alive,  and  the  health  of  the
+surviving  whales  is  being  seriously  compromised.  Scientists  studying  the  whales  have
+observed  malnourished,  or  “skinny,”  whales  in  the  area.  These  scientists  are  concerned
+that  continued  oil  and  gas  drilling  adjacent  to  whale  habitat,  tanker  traffic,  and
+underwater pipeline construction could push the last of this dying breed into extinction.
+
+For the next phase of the Sakhalin II project, Shell wants to build massive infrastructure
+to get the oil and gas to markets abroad. This will involve laying underwater oil and gas
+pipelines that will run right through whale feeding habitat, as well as through the home of
+many other species of fish, and on to the shores of Sakhalin. Environmentalists and local
+fishermen  are  very  concerned  that  the  construction  of  these  pipelines  could  seriously
+disrupt this habitat, and that the pipeline could leak and contaminate the waters.
+
+32
+
+Once on the island, the oil and gas would be sent through parallel pipelines that will run
+the length of Sakhalin Island, over 800 kilometers, to its southern tip. Along its route, the
+pipeline will cross over 1,000 streams and rivers. Hundreds of these waterways provide
+spawning grounds for wild salmon, and together they contribute to one of the most robust
+salmon habitats in the world. The pipeline crossings will gouge right through the beds of
+these streams, with very little concern given to the well-being of the salmon, or the local
+economy and community that depends on the salmon for a substantial part of their diet.
+
+The  Sakhalin  II  project  is  dependent  upon  the  public’s  money  for  its  construction.  The
+U.S. Export-Import Bank, and the European Bank for Reconstruction and Development
+are  currently  considering  financing  the  further  development  of  the  Sakhalin  II  project,
+including the gas pipeline and the regasification terminal.
+
+Jepordizing Biodiversity: Australia’s Barrow Island3
+
+ChevronTexaco,  ExxonMobil  and  Shell  are  currently  proposing  to  put  over  $6  billion
+worth  of  industrial  gas  processing  facility  and  equipment  on  Barrow  Island  in  a
+development known as the Gorgon Project.  This infrastructure, which includes an LNG
+liquefaction plant, could be located offshore, on the mainland or on less important islands
+nearby.
+
+Barrow  Island  is  Western  Australia’s  second  largest  island  and  home  to  internationally
+significant biodiversity.  If no concerted effort to regulate human access and activities on
+the island is made, the unique biodiversity of the island will be jeopardized or lost forever.
+
+There are 24 known indigenous animal species or subspecies that exist only on Barrow
+Island.  This  exceptional  assemblage  includes  five  forms  of  mammals,  two  types  of
+reptiles,  one  species  of  bird  and  sixteen  species  of  invertebrates.    The  island  is  also  a
+refuge for the magnificent Perentie that, at lengths of over six feet, is the world's second
+largest lizard.
+
+Barrow  Island  is  such  an  important  habitat  for  unique  species  that  it  is  referred  to  as
+“Australia’s  Ark”.    A  large  construction  workforce  will  soon  invade  this  important
+habitat  in  order  to  build  the  proposed  facilities.  The  estimated  52,037  personnel
+movements per year that will be required to build the new facilities is a manifold increase
+in  the  level  of  human  industrial  activity  presently  occurring  on  Barrow  Island.  This
+activity  is  one  of  the  central  threats  posed  to  the  24  known  types  of  animals  that  live
+nowhere else but Barrow Island. Increased human activities on the island increase the risk
+of  the  introduction  of  weeds  and  diseases  that  could  wipe  out  the  island’s  biological
+diversity forever.
+
+Presently, only 150 barge movements occur per year and only 150 people live on Barrow
+Island at any one time. The number of visitors to the island is carefully controlled based
+on Barrow Islands status as a Permanent Class A Reserve. Yet, even this relatively low
+level  of  activity  has  led  to  the  introduction  of  eight  known  species  of  environmental
+weeds, four of which have been impossible to eradicate. In recent years it has also been
+necessary to implement eradication programmes for black rats, house mice, and European
+bees.
+
+33
+
+The  Gorgon  proposal  estimates  that  861  barge  movements  and  52,307  personnel
+movements  per  year  will  be  required  to  build  the  new  facilities.    The  Australian
+Northwest  Territory  State  Environmental  Protection  Authority  (EPA)  warns  that
+temporary contractors will do the majority of this work.  This transitory work force will
+increase the risk of introducing foreign weeds, pests and diseases to the  degree that the
+EPA considers “virtually certain”.
+
+A Traditional Way of Life at Risk: BP’s Tangguh Project in Indonesia
+
+BP  has  proposed  an  LNG  exploitation  site  at  the  Berau  and  Bituni  Bays,  which  are
+located  in  the  Indonesian  province,  Papua.    The  project,  named  the  Tangguh  (which
+translates to all-powerful in Indonesian) project by BP, requires the construction of two
+offshore gas platforms, a 2,000 meter long and 150 meter wide airfield and an LNG plant
+that  will  cover  600  hectares  of  what  is  now  rainforest. 4    The  massive  construction
+required to operate BP’s plant is having a significant impact on the local populations.
+
+Bituni  Bay  is  a  fishing  community.    Fishing  and  shrimping  account  for  US$13
+million/year.    Many  fisher  folk,  both  male  and  female,  have  taken  jobs  with  BP.
+However, the effects of BP’s construction threaten those that are not fortunate enough to
+claim  one  of  the  limited  available  positions  of  employment.    The  seismic  testing
+performed in the waters south of Bituni Bay has impacted fishing and reduced revenues
+for the local fisher folk.  Additionally, large fields of Mangrove have been cut to clear the
+way for the construction, resulting in large stacks of logs that disrupt local fisheries.
+
+As  the  mangroves  are  cut  down  to  create  space  for  the  new  LNG  plant,  the  mangrove
+ecosystem  is  disrupted.    Mangroves  are  a  major  source  of  revenue,  generating  over
+US$10  million  per  year.  The  mangrove  ecosystem  is  already  under  pressure  from  the
+wood chip exporting industry.
+
+While many community members view the Tangguh project as an opportunity, citing BP
+estimates that 5,000 temporary construction jobs will be created with about 10 percent of
+those jobs being permanent, many citizens are angry about the lifestyle changes that the
+Tangguh project will force on them. The Economist reported that all information supplied
+to  the  villagers  came  from  BP,  NGO’s  paid  for  by  BP,  or  the  Indonesian  government,
+which stands to profit from the site.  If the villagers were informed of the potential safety
+and  environmental  harms  associated  with  the  site,  they  may  be  less  captivated  by  the
+promise of a comparatively small number of jobs.
+
+The  Papua  province  is  in  a  state  of  extreme  unrest  as  it  seeks  independence  from
+Indonesia.  Local conflicts and investigations into human right’s abuses made the area too
+volatile  for  Exxon  Mobil  to  operate  in  nearby  Aceh,  another  province  seeking
+independence from Indonesia.  Developing a natural gas exploitation site in this conflict
+stricken  community  may  cause  additional  problems  in  the  area.  In  addition,  if  BP  is
+forced  to  close  its  LNG  site  due  to  safety  concerns  resulting  from  the  conflict,  the
+California market that it supplies will suffer a lack of supply5.  The impacts of that drastic
+reduction in supply could be reminiscent of the previous energy crisis.
+
+34
+
+1 Available from www.amazonwatch.org
+2 Available from www.pacificenvironment.org
+3 Availiable from www.rescuebarrowisland.org.au/
+4 Mining Advocacy Network. Kerebok Volume 3 Number 27 October 2002
+http://www.jatam.org/english/case/bt/uploaded/not_power.html
+5 JATAM- Mining Advocacy Network, "From Persia to Papua: Tracking the Perils of BP's
+Mining, Oil and Gas Operations Around the World" January 2003.
+
+35
+
+702 H Street, NW, Suite 300
+Washington, D.C. 20001
+

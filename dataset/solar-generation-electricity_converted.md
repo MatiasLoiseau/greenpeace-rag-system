@@ -1,0 +1,224 @@
+Briefing
+
+Solar Generation: electricity for over 1 billion people and 2 million jobs by 2020 – a
+report by EPIA and Greenpeace
+
+What does this report tell us?
+
+Solar energy is on the brink of a boom. The industry is already  worth $1billion annually. By the time
+the generation born today reaches adulthood in 2020 solar energy could easily provide energy to over
+a billion people globally and provide 2.3 million full-time jobs. By 2020 solar can provide a projected
+276 terawatt hours of energy. Even if we double current consumption rates that would be equivalent
+to supplying 30% of Africa’s energy needs, or 10% of OECD European demand by 2020. This is equal
+to 1% of the projected global demand.
+
+This would replace the output of 75 new coal fired power stations and prevent the emission of 664
+million tonnes of carbon dioxide. It would have an investment value of US$75 billion a year and bring
+the cost of solar modules down to US$1 per watt delivered.
+
+By 2040 solar output could be more than 9000 terawatt hours, which would be 26% of the projected
+global demand, or more than the combined demand of OECD Europe and OECD North America in
+1998.
+
+If we want to prevent dangerous climate change, we have to phase out the fossil fuels currently used
+to meet the majority of global electricity demand. This report, using conservative modelling, shows
+that we can easily use solar to replace a large part of the global energy demand. At the same time as
+protecting the planet from climate change, solar energy can create millions of jobs.
+
+ “Solar Generation” is part of the global Choose Positive Energy campaign, aimed at massively
+increasing the uptake of renewable energy. The Choose Positive Energy campaign aims to
+encourage the public to demand that they can get connected to Green Energy supplies, and demand
+that renewable energy be made available to two billion people of the world’s poorest people within the
+next decade.
+
+The campaign demonstrates the point that the energy to meet human needs does not have to come
+at the cost of more climate change. “Solar Generation” shows that solar PV can meet a large part of
+this demand.
+
+EPIA and Greenpeace produced “Solar Generation” as a long-term analysis of the global solar
+electricity market. It provides a detailed analysis of the PV market up until 2020, with projections to
+2040. It is designed to add more weight to the political arguments supporting better market conditions
+for the expansion of solar PV.
+
+This study is based upon clearly defined and realistic assumptions from which extrapolations could be
+made on the likely expansion of the solar electricity market up to 2020. Those assumptions include a
+projected average PV market growth rate of 30% up to 2020 and 15% growth between 2020 and
+2040. It   uses International Energy Agencay (IEA) assumptions of increased of energy demand
+27,000 terawatt hours by 2020, and 35,000TWh by 2040.
+
+How do we get to this solar future?
+
+Joint political and industrial support is needed to give solar the boost required to allow it to realise this
+potential. Already in countries such as Japan and Germany, the combination of government and
+industrial commitment has achieved greater penetration of solar electricity into the energy mix at local,
+national, regional and global levels. This has included extensive investment in new facilities and
+products from the industry, and the implementation of legislative support frameworks at the political
+level. While Germany and Japan have been the leaders in forging and optimising these joint
+commitments, more countries are rapidly pursuing similar initiatives.
+
+“Solar Generation” has identified several areas where effective joint action by industry and
+governments would have a significant impact in ensuring that the rapid progress of the past few years
+translates into achieving the medium- and long- term potential revealed by this study.
+
+Stabilisation of the annual world market at a level of 1GWp+ by 2006
+This would be achieved through the extension of (adapted) best practice support schemes to
+encourage the uptake of solar electricity amongst consumers.
+
+Building a global export market for photovoltaics
+The solar electricity industry must be a truly global industry to deliver the economies of scale needed
+to catalyse significant price reductions and achieve its status as a driving force for sustainable
+development in both the industrialised and developing worlds. This requires action at both national
+and global levels, including better co-operation between export promotion agencies, tapping financing
+credits through the mobilisation of the huge funds available to Export Credit Agencies, promoting local
+capacity building measures relating to financing and developing supply networks, and raising
+awareness among all actors of the potential role of the Kyoto Protocol mechanisms in developing the
+industry.
+
+Better targeting of R&D resources for the solar electricity industry
+The emphasis here should shift towards achieving better automation of the production chain, the
+development of new products and achieving greater economies of scale
+
+Enhanced co-operation between the global solar electricity industry and research organisations
+The global solar electricity industry should play an enhanced role in the allocation of funds earmarked
+for research
+
+Fostering the development of an advanced PV plant technology industry
+Expansion of production facilities in the solar electricity sector will lead to a massive increase in
+demand for plant and equipment. Emphasis will have to be placed on strengthening this part of the
+industry in order to ensure that state-of-the-art production processes can be effectively and efficiently
+put into operation world-wide
+
+Who’s winning the solar race?
+
+At present, the nations of the industrialised world vary greatly in their commitment to solar electricity.
+While countries such as Germany, Japan and the Netherlands, as well as others in Europe, have
+moved forward from discussion to implementing the necessary support schemes, others have actually
+cut back their solar electricity programmes. In the United States in particular, this could severely affect
+the ability of the national solar electricity industry to fulfil its promise as a global exporter providing for
+sustainable employment at home.
+
+Entry into the solar electricity market is not the preserve of companies only active in the clean energy
+sector. Many of the leaders in the solar electricity industry were, and still are, leading lights in the “old”
+energy economy. The sustained commitment of these companies will be appropriately rewarded if we
+create the right climate to ensure that the whole solar electricity business sector moves rapidly ahead.
+
+Solar power will certainly play an ever more significant role in the energy supply mix. However, the
+extent to which solar electricity will make its impact on that market will depend very much on ensuring
+that the potential winners in this business are made fully aware of the opportunities available.
+
+Those opportunities will only be realised if both industry and governments continue to strengthen their
+commitment to broadening the energy supply base and, through the deployment of solar electricity
+
+Why we need solar
+
+Combating climate change: International consensus now clearly states that business-as-usual is no
+longer an option, and the world must move  to a clean energy economy, if we are to prevent further
+climate change. Solar power is a prime choice in developing an affordable, feasible, substitute for
+fossil fuels in all climate zones around the world. Climate change will persist for many centuries, due
+to the long life of greenhouse gases, however an expansion of the solar market now can play a vital
+role in limiting both the rate and magnitude of climate change over the next century.
+
+Meeting human needs: More than 2 billion people in the world today are without access to electricity,
+trapped in a cycle of poverty and without basic needs including clean water, health care facilities,
+heating and lighting.  Renewable energy sources offer us the best chance we have to avoid a
+potential climate catastrophe, and to ensure that the world’s poor also have access to clean and
+reliable energy. The Choose Positive Energy campaign aims to bring renewable energy to 2 billion
+people in 10 years, and solar can be large part of that mix.
+
+Energy security: Strengthening the renewable energy sector will also provide real energy security.
+Fossil fuels, due to their wholesale contribution to the climate catastrophe, represent an intrinsically
+insecure energy source regardless of whether they are from Alaska or the Middle East. Decentralised
+renewable sources of supply from the sun can help countries achieve true energy security, and
+energy independence.
+
+The impact on consumers & job seekers born today
+
+Phasing in solar photovoltaics requires a shift from centralised to decentralised power production,
+allowing far greater control to individual consumers.
+
+More jobs are created in the installation and servicing of PV systems than in their manufacture. Based
+on information provided by the industry, it has been assumed that 20 jobs are created per MW of
+capacity during manufacture (assumed to fall to 10 jobs/MWp of capacity after 2010) and about 30
+jobs per MW during the process of installation, retailing and providing other local services. As far as
+maintenance is concerned it is assumed that with the more efficient business structures and larger
+systems of the industrialised world, about 1 job will be created per installed MW. Since developing
+world markets will play a more significant role beyond 2010, however, the proportion of maintenance
+work is assumed to steadily increase up to 2 jobs per MW by 2020.
+
+The result is that by 2020, around 2.3 million full time jobs would have been created by the
+development of solar power around the world. The majority of those would be in the installation and
+marketing of systems.
+
+Key Findings
+
+Global Solar Electricity Output in 2020: 276 Terawatt hours
+
+= 30% of total demand in Africa
+
+= 10% of total demand in OECD Europe
+
+= 1% of total global demand
+
+= the annual output of 75 coal-fired power stations
+
+Detailed Projections for 2020:
+
+PV systems capacity
+
+207 GWp
+
+Grid-connected consumers
+
+Off-grid consumers
+
+Employment potential
+
+Investment value
+
+Cost of solar modules
+
+82 million worldwide
+35 million in Europe
+
+1 billion worldwide
+
+2.3 million full-time jobs worldwide
+
+            US$75 billion per annum
+
+Level of US$1 per Wp achieved
+
+Cumulative carbon savings
+
+More than 660 million tonnes of CO2
+
+Global Solar Electricity Output in 2040:
+
+9,113 Terawatt hours
+
+= 26% of total global demand
+
+= more than the combined demand in OECD-Europe and
+OECD-North America in 1998
+
+Conclusions
+
+The results of this EPIA/Greenpeace joint initiative clearly point to solar electricity potentially making a
+significant impact on the global energy mix over the next few decades.
+
+Our goal must now be to mobilise the necessary industrial, political and end-user commitment to this
+technology and, more importantly, the service it provides. We must redouble our efforts to ensure that
+the population born today benefits from all the socio-economic and environmental benefits that solar
+electricity offers.
+
+The Solar Generation should know no north/south divide. It should be an inclusive generation bringing
+together by 2040 a significant fraction of the world’s population in both industrialised and developing
+countries – a generation, supplied by an industry driven by customer needs and the ability of a
+sophisticated global market to meet those needs.
+
+Copies of the report can be downloaded from http://www.greenpeace.org
+
+For more information contact Louise Fraser on +31 6 53 955 202 or
+
+Sven Teske on +49 172 4040754
+

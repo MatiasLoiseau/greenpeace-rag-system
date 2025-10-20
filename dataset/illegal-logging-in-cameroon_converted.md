@@ -1,0 +1,122 @@
+Publications
+
+Illegal logging in Cameroon
+By Filip Verbelen – Greenpeace, Belgium
+
+Cameroon is the number one tropical timber exporter in Africa and ranks among the world's top five tropical log
+exporters [e.g. '96-'97: 2.8 million cubic metres timber exported (Rwe)]. The forest sector is heavily dominated by
+foreign companies. A small number of foreign companies control over 60 per cent of all the logging and timber
+processing and 3/4 of all timber exports.
+
+Four timber species represent over 60 per cent of total timber exports (SGS - 1995):
+
+Ayous (30%) -Sapelli (16.4 %) - Azobé (8.1 %) - Tali (6.2 %)
+
+In recent years, the trade is diversifying a bit, with Asian markets being less selective, and with the devaluation
+of the French francs making it more economically interesting to log other timber species.
+
+European logging companies traditionally dominate the Cameroon forestry sector with French and Italian
+consortia being particularly dominant. The French companies Thanry; Bolloré, Coron & Rougier and the Italian
+groups Alpi-Spa and Vasto Legne all rank among the biggest Cameroonian loggers. European loggers tend to
+get access to the most pristine, unlogged forests (the frontier forests in East province). Three parent groups,
+partially or wholly financed by French interests, retain almost a third of Cameroon's logging concessions. (GFW
+p.7)
+
+Southern Europe (Italy, France, Portugal, Spain) are traditionally important markets for Cameroon timber, but it's
+relative importance is declining with emerging exports to South East Asia (China, Philippines, Japan, Thailand).
+
+Less than 20 per cent of Cameroon's unprotected forests remain free from logging development. Almost all
+logging in Cameroon is carried out in a very destructive way and illegal logging is a major issue. The extremely
+high level of corruption in Cameroon and the dramatic lack of capacity (staff and equipment) in the forestry
+departments are serious constraints for enforcement of the forestry legislation. In the East province, home to the
+majority of the concession area, one forestry-official is responsible for an average of almost 21,000 hectares of
+concession.
+
+Forestry reform in cameroon
+
+In an attempt to reduce the environmental impact of the logging industry and increase economic returns for
+Cameroon, the World Bank pushed for new forestry legislation (the new 1994 forestry law) and a reform of the
+forest industry. French politicians and decision makers used all their influence to weaken the new proposed
+forest legislation and defend specific interests of the French logging companies. (Ekoko 1997, p.22-23)
+
+Important elements of the new forest law are:
+
+•  A log export ban to come into effect by 1999 and reach the objective of 70 per cent domestic wood
+
+processing by 1999.
+
+•  Establish a public auction process of concession allocation to the highest bidder and limit the concession
+
+size of a company to 200,000 hectares.
+
+Unfortunately, the new legislation has often been openly violated by concessionaires enjoying protection from
+high ranking authorities in Cameroon. A recent survey carried out by Cameroon Environmental Watch indicated
+significant and widespread irregularities, both in the status of conception allocation and in the enforcement of
+existing legislation:
+
+•  The log export ban has not been implemented, ITTO export figures for 1998 indicate that logs still made
+up more than 70 per cent of exports. (In June 1999, an administrative order essentially loosened these
+
+1
+
+restrictions. Under this revision, the log export ban was lifted for two dominant species: Ayous and
+Sapelli). These exceptions allowed for much of Cameroon's current logging trade to continue because
+these two species represented more than a third of all logs exported in 1997. However in August 1999,
+the government issued another set of guidelines that banned Sapelli exports while allowing for continued
+exports of Ayous and opening possibilities for the promotion of other currently "under-utilised" species.
+
+•  Three subsidiary companies, all French owned hold more than 200,000 hectares of concessions - in
+
+violation of the law. The companies are Sibaf-Bolloré, CFC-Thanry and Coron.
+
+•  Seven concessions (Thanry and Coron subsidiaries) were allocated through a discretionary process in
+
+1996, violating the new legislation that called for a competitive and public allocation process.
+
+•  At least 21 of the 31 allocated concessions (UFA's) did not go to the highest bidder. The Cameroonian
+
+government lost millions of dollars by not allocating concessions to the highest bidder.
+
+•  According to government records, during 1997-1998, 29 of 52 active licenses (56 per cent) continued to
+
+operate even though the duration of their logging rights had expired.
+
+One of those licenses belonging to the French group Bolloré (La Forestière de Campo) is located within the
+boundaries of the Campo reserve, Cameroon's second largest protected area.
+
+•  Less then a third of UFA concessions allocated to date fully comply with the guidelines set out in the
+
+new forestry legislation. (GFW - Cameroon, p.7)
+
+•  One out of five violation reports was completely dropped after the intervention of an influential person in
+
+the east and central province (CEW 1999).
+
+•  Ninety-six per cent of violations reported in 1992-93 were followed by incomplete judicial procedures.
+
+A number of active concessions fall within the boundaries of several forest reserves and the legal status of these
+concessions appear to be questionable (GFW-Cameroon, p.20), for example the French group Pallisco has
+operations in the buffer zone of the Dja-reserve, a World Heritage listed protected this revision, the log export
+ban was lifted for two dominant species: Ayous and Sapelli. These exceptions allowed for much of Cameroon's
+current logging trade to continue because these two species represented more than a third of all logs exported in
+1997. However in August 1999, the government issued another set of guidelines that banned Sapelli exports
+while allowing for continued exports of Ayous and opening possibilities for the promotion of other currently
+"under-utilised" species.
+
+References
+CEW (Cameroon Environmental Watch). Carried out field surveys and analysis of data (e.g. violations reports)
+from the Délégations Provinciales de l'Environnement du Centre et de l'Est. Findings are quoted in GFW-
+Cameroon.
+Ekoko François. (1997) The political economy of the 1994 Cameroon forestry law. Center for International
+Forestry Research (CIFOR). 41p.
+Global Forest Watch Cameroon. An overview of logging in Cameroon. An initiative of World Resources Institute.
+March 2000. 66p.
+Pearce, F. "France swaps debt for rights to Tropical Timber" - The New Scientist. Vol. 141 - N° 1910, 29
+January, 1994 - p. 7.
+Republique du Cameroun. (RC). Loi N° 94/01 du 20 Janvier 1994 portant Régime des Forëts de la Faune et de
+la Pêche. 1994.
+
+© Greenpeaace March 2000
+
+2
+

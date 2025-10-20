@@ -1,0 +1,4082 @@
+© Aaron Sprecher / Greenpeace
+
+Deception by the Numbers
+
+American Chemistry Council claims about chemical
+recycling investments fail to hold up to scrutiny
+
+P U B L I S H E D :   S E P T E M B E R   9 ,   2 0 2 0
+
+www.greenpeace.org/usa/research/deception-by-the-numbers
+
+Contents
+
+1. Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+
+Key Findings  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+
+The Problem   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+
+The False Solution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+
+The Quest for Acceptance—and Taxpayer Dollars  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+
+Consumer Goods Companies: Wishcycling Their Recycling Commitments . . . . . . . . . . . . 6
+
+Petrochemical Companies: Fueling Climate Change  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+
+2. Criteria for Evaluation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+
+Methodology  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+
+Criterion 1: Does the Project Actually Recycle Plastic? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+
+Criterion 2: Are These Investments Viable?  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+
+Investment Breakdown  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+
+Processing Capacity  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+
+3.  Evaluation of the ACC’s Projects List . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+
+4. Project and Company Profiles . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+
+5. Recommendations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+
+American Chemistry Council  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+
+Elected Officials . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+
+Local Decision-makers  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+
+Investors  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+
+Fast-Moving Consumer Goods Companies  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+
+Endnotes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+
+DECEPTION BY THE N UM BERS  |  2
+
+AUTH OR
+
+Ivy Schlegel
+
+EDITOR
+
+Perry Wheeler
+
+DESIGNED BY
+
+Kyle McKibbin
+
+PUBLISHED
+
+September 9, 2020
+
+COVE R P HOTO
+
+An industrial flare burns off
+waste at a petrochemical
+refining plant in Baytown,
+Texas following Hurricane
+Harvey in 2017.
+
+© Bob Pearson / Greenpeace
+
+Greenpeace Inc.
+
+702 H Street, NW, STE 300,
+Washington, D.C. 20001
+
+1. Introduction
+
+Despite decades of deceptive industry marketing, we know
+we can’t recycle our way out of the plastic pollution crisis.
+But the companies making and selling plastic—and their trade
+association surrogate the American Chemistry Council—aren’t
+giving up. Instead, they’re doubling down to mislead investors,
+governments, and the public into believing we can. Here’s how
+they’re using the fantasy of chemical recycling to do it.
+
+“Chemical recycling” is an intentionally vague term used
+by the chemical and plastics industries to refer to myriad
+technologies (many of which remain in the lab or pilot
+phases), all promising to convert plastic waste into its basic
+chemical building blocks and generate ‘“like new” plastic.
+There are two general categories: (1) plastic-to-fuel or waste-
+to-fuel,1 which uses a variety of methods, generally involving
+heat and combustion, to turn plastic or mixed waste into
+hydrocarbons, such as gas or oil; and (2) plastic-to-plastic,
+which also uses various methods, including chemical
+solvents, to degrade plastic polymers into its basic building
+blocks. However, the engineering realities of these processes
+make this distinction rather fuzzy.
+
+Without a widely accepted technical definition, the industry
+has often attempted to conflate waste-to-fuel/plastic-to-
+fuel and plastic-to-plastic under the respective umbrellas of
+“chemical recycling” and “advanced recycling.” Waste-to-fuel/
+plastic-to-fuel conversion comprises existing technologies
+like pyrolysis and gasification, as well as still-theoretical
+methods. Since these processes produce fossil fuels, energy,
+or petrochemicals, they  should not be considered recycling.
+Plastic-to-plastic methods would theoretically turn plastic
+waste directly into its chemical precursors, but these
+promises may never actually deliver.
+
+The American Chemistry Council (ACC), a trade association
+that represents manufacturers of petrochemicals and plastics,
+promotes so-called chemical recycling technologies as a
+means to overcome the identified challenges to “traditional”
+mechanical recycling collection, sorting, and reprocessing
+(see 2. Criteria for Evaluation for definitions). The ACC also
+often and overtly uses “advanced recycling” as a synonym
+for “chemical recycling,”2 further confusing the issue, as
+“advanced” recycling can also refer to innovative elements of
+mechanical recycling, such as optical sorting.
+
+The ACC often promotes the plastics industry’s sizable
+investments in plastics recycling. In April 2020—just one
+day before the debut of the movie The Story of Plastic,
+which details the environmental and human impacts
+of the lifecycle of plastic—the ACC issued the statement
+“the private sector has invested $4.6 billion in advanced
+recycling technologies to complement and support existing
+recycling systems.”3 An infographic posted on the ACC’s
+website had an even higher $4.8 billion in investment in
+52 projects supposedly able to divert 3 million tons of
+waste from landfills, and then later updated this to
+$5.2 billion in investments in 62 projects supposedly
+able to divert 3.6 million tons of waste.4
+
+While the ACC does not promote or publicize the list
+of these projects, we obtained the list of the projects
+used to generate this estimate. We found a range of
+technologies, including so-called “chemical recycling”
+and waste-to-fuel, as well as mechanical recycling
+improvements and upgrades, suggesting that the ACC
+may be trying to conflate unproven technologies and
+false solutions with mere additions and improvements
+to existing systems. We reviewed the various projects,
+technologies, and companies to assess whether these
+investments are actually plastics recycling and whether
+any of them might viably—and urgently—reduce plastic
+production and pollution. We found that many of the
+investments are going into waste-to-fuel projects
+(which is not recycling), that one-third of the total
+projects or companies are likely to not be viable, and
+that none of the plastic-to-plastic projects on this list
+shows promise of becoming viable. This means that
+very little of this investment has a chance of reducing
+plastic production or pollution, and ensures years of
+fossil-based plastic production.
+
+DECEPTION BY THE N UM BERS  |  3
+
+Key Findings
+
+	| Less than 50% of the projects on the ACC’s list of “advanced” recycling met our basic criteria to be deemed credible plastic
+recycling projects; the rest were either waste-to-fuel/plastic-to-fuel (which is not recycling), or other non-reprocessing
+projects.
+
+	| Of the recycling projects we determined to be  valid mechanical or plastic-to-plastic recycling, we found these would have
+a total processing capacity of 0.2% of the plastic waste generated in 2017. This means that if even these projects are all
+successful and operate at full capacity, this would not address the overproduction of plastic in the U.S. market.
+
+	| About one-third of the total proposed recycling projects either is unlikely to be viable or is questionable as to whether they
+will be completed, and all of the plastic-to-plastic projects are considered to be of questionable viability or potentially
+unviable. This means that the promises of plastic-to-plastic recycling show very little likelihood of recycling any plastic.
+
+	| Taxpayer funding of at least $506 million was identified to be invested in these projects.
+
+	| Almost 90% of the taxpayer funds identified for projects on the ACC’s list went to waste-to-fuel projects, meaning public
+
+money is being used to produce fuels, waxes, and chemicals for the petrochemical industry.
+
+The Problem
+
+To date, only 9% of the plastic ever produced has been
+recycled.5 The Ellen MacArthur Foundation estimated in
+2017 that, globally, 95% of plastic packaging material value
+was lost after a single use, and only 14% was even collected
+for recycling, with a much smaller percentage functionally
+recycled into new plastic packaging.6 In the U.S., only 8% of all
+plastic generated was recycled in 2017.7
+
+Recent research by Greenpeace revealed that many plastics
+used by food and beverage companies have such a low
+likelihood of being reprocessed in the U.S. by municipal
+collection and waste management systems that “recyclable”
+labels or symbols on packaging can be considered deceptive
+marketing.8 At the same time, in an effort to address public
+concerns about plastic packaging, many large multinational
+food and beverage companies have made “circular economy”
+commitments to increase the use of recyclable and recycled
+content in their plastic packaging.9 The petrochemical and
+plastics industries are at the ready to promote chemical
+recycling as a technical quick fix and silver bullet.
+
+The False Solution
+
+Many chemical recycling technologies co-opt “circular
+economy” language, but upon investigation, these circular
+claims fall flat. First, waste-to-fuel and plastic-to-fuel using
+heat processes (gasification or pyrolysis) to combust the
+waste or plastic into materials such as diesel jet fuel
+marketed to airlines, waxes, or lubricants, and the
+engineering nature of these processes, do not readily
+produce oil or gas able to be used as a drop-in solution
+for plastic manufacturing. Thus, these products are more
+likely to be combusted rather than recycled.10
+
+This is a bait-and-switch, as the world is already awash in oil
+and gas, and more of it is not needed. In fact, virgin plastic
+is cheaper than recycled plastic precisely because the fossil
+fuels used to produce it are so plentiful. There is no evidence
+that the marketing of the fuels generated from the burning of
+waste actually reduces oil and gas exploration or production,
+or demand for virgin plastic resin. Plastic-to-fuel does not
+solve a plastic production problem, but instead aims to solve
+a waste management problem. It should be underscored that
+waste-to-fuel and plastic-to-fuel are not “recycling”; rather,
+they are material destruction.
+
+ACC member Dow Chemical Company, a leading promoter of
+pyrolysis waste-to-fuel processes, initially called its process
+“recycling.” However, after being pressed by the National
+Recycling Coalition in 2017, Dow leadership replied publicly:
+“We agree. It is not recycling.”11 Still, the ACC persists in
+using the term “advanced recycling” for chemical recycling,
+even noting on a current regulatory fact sheet that chemical
+recycling facilities, including pyrolysis and gasification,
+“should be regulated not as recycling but new manufacturing.
+These facilities receive plastic feedstock that is converted to
+valuable fuels and petrochemical products,” and that these
+companies should be considered “producers of alternative
+energy not waste disposal companies.”12
+
+Plastic-to-plastic technologies, on the other hand, could
+theoretically produce plastic building blocks, like styrene
+or the monoethylene glycol used to make polyethylene
+terephthalate (PET) plastic, which would potentially classify
+it as recycling. However, many of these technologies remain
+proven only in laboratory conditions, which are vastly different
+from real-world conditions. As Global Initiative for Incinerator
+Alternatives (GAIA) has demonstrated in its recent investigation
+on U.S. chemical recycling, there are no plastic-to-plastic
+
+DECEPTION BY THE N UM BERS  |  4
+
+facilities proven to be currently operational at commercial
+scale, according to publicly available regulatory data.13 Only one
+company, Agilyx, claims to be commercially producing plastic
+monomers from waste plastic; however, investigations by GAIA
+reveals that Agilyx has not yet found an appropriate market
+for the styrene oil, leading to the incineration of the product.14
+And as with plastic-to-fuel, none of these technologies makes
+a credible case for actually reducing production of virgin
+plastic or exploration for and extraction of fossil fuels.
+
+Finally, recent investigations and technical assessments
+have found that the chemical recycling industry at large
+is characterized by unresolved technical, economic, and
+environmental problems, noting that many methods can
+release toxic chemicals into the environment, as many
+plastics contain additives and chemicals like phthalates
+or bisphenol A (BPA), which are not destroyed in the
+depolymerization processes.15 16
+
+Evidence on mature technologies such as gasification and
+pyrolysis shows both that they are energy intensive, as is the
+polymerization process to make new plastic, and that the
+chemical conversion itself generates significant quantities of
+carbon dioxide.17 18 And despite industry promotional claims,
+there is no evidence that proposed solvent-based technologies
+(plastic-to-plastic) can deliver a net-positive energy balance.
+It is very difficult to find publicly available information to
+understand the final fate accountability of materials generated
+by these processes that would not end up as marketable fuel
+or plastic, including feedstock that can’t be converted, co-
+products like char or chemicals removed from the process, or
+greenhouse gas and volatile organic compound emissions.
+
+The Quest for Acceptance—
+and Taxpayer Dollars
+
+The ACC also promotes robust growth and investment
+in the manufacturing of petrochemicals. It often promotes
+$204 billion in petrochemical projects,19 a number that often
+appears as a stand-alone figure in news articles related to
+demand for plastic. Many of these projects would need additional
+financing and a complex series of environmental and land-use
+permits, and given the current economic downturn as well
+as the potential for a reduced demand for plastic, many
+likely will never be built. These projections are intended to
+drive investor confidence and create the impression that this
+money is already spent, suggesting that the buildout is “a
+done deal,” ultimately serving the ACC’s agenda of influencing
+state and local governments and decision-makers to approve
+fossil fuel, petrochemical, and plastic expansion projects;
+remove regulatory obstacles; and award public monies or tax
+breaks to pass some of this investment on to taxpayers under
+the guise of the public good.
+
+“Chemical recycling” projects may be more likely than
+petrochemical projects to be approved for regulatory relief or
+public funding, as they carry an aura of “green” and “circular,”
+precisely because they are considered recycling. In many ways,
+“chemical recycling” is similar to “clean coal” or carbon
+capture and storage: a vaguely defined false solution promoted
+by the industry.20 Rather than pouring money into a declining
+oil and gas industry’s self-imagined technological solution,
+money should be invested into a green and just recovery
+prioritizing a transition away from petro-based business models
+toward a climate-safe future with environmental justice.
+
+In 2019, the U.S. Department of Energy (DOE) launched a
+“Plastics Innovation Challenge,” which announced $25 million
+in grants to “position the U.S. as the world leader in advanced
+plastic recycling technologies.”21 22 In April 2019, Haley
+Stevens (D-MI) convened a DOE hearing on chemical recycling.
+At the hearing Anthony Gonzalez (R-OH) said that “chemical
+recycling is probably ultimately how we get there,”23 noting
+that Ohio is a center of polymer development and research,
+through the University of Akron’s College of Polymer Science
+and Polymer Engineering.
+
+Several current pieces of federal legislation include support
+for advanced and chemical recycling. The Realizing the
+Economic Opportunities and Values of Expanding Recycling
+(RECOVER) Act (H.R. 5115) would allocate $500 million
+in federal grants for states, municipalities, and tribal
+governments to expand recycling infrastructure. While the act
+does not specify advanced or chemical recycling, definitions
+of “recycling” in this bill include generation of feedstocks
+for manufacturing.24 The ACC and other trade associations
+support this bill, and a coalition of plastic and petrochemical
+manufacturers—including packaging manufacturer and
+recycler Berry Global (which has a project on the ACC’s list)—
+signed a letter to House Speaker Nancy Pelosi (D-CA) and
+others in April 2020, asking her to include the RECOVER Act in
+a coronavirus-related infrastructure package.25 Co-sponsors
+of this bill are Tony Cárdenas (D-CA) and Larry Buchson (R-IN);
+four of the 52 projects on the ACC list are in Indiana (as well as
+another large PET recycling facility not on this list).
+
+The Plastic Waste Reduction and Recycling Act (H.R. 7728),
+introduced by Reps. Stevens and Gonzalez, includes direction
+to the National Science Foundation, DOE, Environmental
+Protection Agency, and National Oceanic and Atmospheric
+Administration to support research and other activities on
+advanced recycling technologies.26 This bill is endorsed by the
+ACC.27 Haley Stevens also launched the Congressional Plastics
+Solutions Task Force in December 2019, which will, among
+other activities, look at “new technologies” and “facilitate
+investment in recycling technologies and promote education
+on plastics generation and recovery.”28
+
+DECEPTION BY THE N UM BERS  |  5
+
+Consumer Goods Companies:
+Wishcycling Their Recycling
+Commitments
+
+Despite the fact that waste-to-fuel is not recycling, or that
+plastic-to-plastic is not technically or economically viable,29
+and that the plastics industry has yet to prove the environ-
+mental, climate, and health safety of these technologies,
+major food and beverage corporations are eagerly promoting
+them under the guise of “recycling” throughout their
+corporate responsibility materials and “circular economy”
+commitments.30 Many fast-moving consumer goods
+companies have invested in or agreed to purchase material
+generated from these plastic-to-plastic and waste-to-fuel
+/plastic-to-fuel companies and technologies, including
+Nestlé, PepsiCo, and Unilever,31 32 33 and others have publicly
+declared interest in so-called chemical recycling consortiums
+and partnerships with fossil fuel companies. Mars Inc., for
+example, sees pyrolysis as a part of its “circular economy”
+goals and has joined a consortium with petrochemical giant
+Total to develop and expand pyrolysis technologies.34
+
+Companies appear to be relying on the promise of
+“chemically recycled” packaging to satisfy their recycled
+content commitments.35 They face considerable risk of not
+meeting their commitments without significantly investing
+in innovations based on reuse that aim at total reduction
+of single-use plastics. Many fast-moving consumer goods
+companies and retailers —including Coca-Cola, Colgate-
+Palmolive, Keurig Dr Pepper, PepsiCo, Procter & Gamble,
+Unilever, and Walmart—are also investing in “chemical
+
+recycling” technologies indirectly via their funding of Closed
+Loop Partners’ infrastructure investment fund.36 Closed Loop
+Partners funds several chemical recycling companies, many of
+which appear on the ACC’s list.
+
+Three of the projects on the ACC’s list are associated with
+major fast-moving consumer goods companies:
+
+Loop Industries/Indorama: Coca-Cola, Danone, PepsiCo
+
+PureCycle: Nestlé, L’Oréal, P&G
+
+BP Infinia: Unilever
+
+These are the only three projects on the list that would be
+considered plastic-to-plastic, and we determined all three
+to be of questionable viability.
+
+Petrochemical Companies:
+Fueling Climate Change
+
+Many of these waste-to-fuel projects are either themselves
+owned by fossil fuel or petrochemical companies, or have
+petrochemical value chain partners and are currently
+supplying them with fossil fuels. Many petrochemical
+companies have announced investments in various “chemical
+recycling” start-ups in Europe and North America.37 Several
+of these smaller companies position themselves as “green
+recycling” or “clean tech” companies, but in reality generate
+fuels and petrochemicals that are bought by companies like
+BP, INEOS, and Shell. At least two companies promise to
+produce jet fuel, which would be used not to make plastic, but
+would be combusted.
+
+DECEPTION BY THE N UM BERS  |  6
+
+2. Criteria for Evaluation
+
+New Investments in U.S. Plastics Recycling
+
+Announced since July 2017
+
+Combined projects valued at
+
+52 4.8
+
+$
+
+projects in the U.S.
+
+billion
+
+Potential to divert
+
+3.0
+
+million tons of waste*
+from landfills
+
+*  Mostly plastic, but includes other waste
+(MSW, cartons, electronics, etc.)
+
+New Ways to Reuse Plastics
+Today a growing number of post-use plastics are
+being repurposed to create a range of useful
+products for new manufacturing, from the
+feedstocks to create brand new plastics to
+transportation fuels, waxes, and a wide range
+of raw materials.
+
+Traditional Recycling
+Innovations to strengthen traditional recycling
+
+robotics, near-infrared optics, etc.) being
+
+Advanced Recycling
+Growing investments in advanced recycling
+technologies are also expanding the types
+of plastics that can be reused, as well as the
+range of outputs that can be produced, making
+it a promising option for the path forward.
+
+REDESIGN
+
+RECOVERY,
+RECYCLING,
+REUSE
+
+MANUFACTURE
+
+Circular
+Economy
+
+RETAIL
+
+USE
+
+An Industry Moving Forward
+U.S. businesses across a variety of sectors are taking bold steps to help end plastic
+
+in technology, systems, and infrastructure so more plastics are recovered, recycled,
+and reused. These investments are moving us closer to attaining our goal of
+reusing, recycling, or recovering all plastic packaging by 2040.
+
+Learn more about industry advances at
+plasticmakers.com
+© 2020 American Chemistry Council, Inc.
+
+Figure 1: ACC Infographic on Investments in Plastics Recycling (2020).
+
+Methodology
+
+We obtained the list of projects the ACC used to generate its
+$4.6 billion estimate. This list, presented in section 3, included
+only the project name and cities. Using publicly available
+information, we analyzed these projects to determine if
+they can legitimately be considered plastics recycling, and
+whether the technologies are viable and likely to be built
+or successfully to recycle plastic waste to plastic. We also
+tabulated the known costs of these investments as well as
+any public funds spent. The list we obtained had 52 projects,
+and predated the ACC’s updated infographic (Figure 1). It is
+not clear what criteria the ACC used to put this list together,
+though we noted that of the ACC’s six technology provider
+members of its Advanced Recycling Alliance for Plastics,38 five
+are represented on this list.
+
+Between June and July 2020, we reviewed a range of
+company websites, news articles, state permitting databases
+(e.g., state environmental permits, air quality permits), the
+CalRecycle public database, corporate registration records,
+
+annual reports, and investor information. One of the projects
+was a duplicate, so we analyzed a total of 51 projects. Our
+review included two criteria for meeting the definition of
+plastics recycling, an investment breakdown of the projects,
+and their processing capacity.
+
+Criterion 1: Does the Project Actually
+Recycle Plastic?
+
+To meet the definition of “plastics recycling,” the project
+must process plastic waste into plastic resin that can be used
+as feedstock for making a new plastic product. There is no
+standard definition of “advanced” or “chemical” recycling;
+the industry uses them interchangeably and liberally
+as greenwashing terms. We reviewed publicly available
+information about specific technologies and processes in
+use or proposed for each project to determine whether it is
+mechanical recycling, plastic-to-plastic, or waste-to-fuel.
+
+Mechanical recycling: mehanical recycling is “standard”
+recycling that many of us are familiar with, where plastic
+is washed, chopped, and melted into plastic pellets, which
+are used to make new plastic products. Limitations in this
+process mean that most mechanically recycled plastic
+waste is transformed into material of lesser value, also
+known as downcycling.
+
+Sorting: We found several examples of projects that were
+expansions of or upgrades to materials recovery facilities
+(MRFs). Projects that simply separate and bale mixed
+curbside materials are not necessarily “plastics recycling,”
+though upgrades such as robotics and optical sorting may
+theoretically increase the reprocessing capacity.
+
+Waste-to-fuel/plastic-to-fuel: Existing, pilot, or proposed
+projects and facilities that use any of a variety of methods,
+generally involving heat and combustion, to turn plastic or
+mixed waste into hydrocarbons, such as gas or oil. These
+should not be considered recycling, since those materials
+are ultimately combusted. Twelve of the ACC’s 51 projects
+are waste-to-fuel or plastic-to-fuel. We found one company,
+Aemerge RedPak, that appears to be solely waste-to-
+energy, which we noted but included in this category.
+
+Plastic-to-plastic: Pilot or proposed projects or facilities
+that would use any potential method to process plastic
+waste into the chemical precursors used to make plastic,
+or plastic monomers, are classified as plastic-to-plastic.
+This could theoretically be considered a chemical recycling
+
+DECEPTION BY THE N UM BERS  |  7
+
+technology if proven to work at commercial scale.
+However, all plastic-to-plastic projects on this list remain
+unproven, and all were all found to be of questionable
+viability (see Criterion 2: Are These Investments Viable?),
+and those that are proven are only proven in labs. It is
+important to note our classification of the technology as
+plastic-to-plastic does not mean it will automatically end
+up becoming valid plastic recycling.
+
+Most mechanical recycling is downcycling, where plastics
+are transformed into items of lesser value (e.g., plastic
+bottles reprocessed into carpet fibers). While some of the
+mechanical recycling investments on the ACC list appear
+to have some kind of innovative element (e.g., robotics,
+optical sorting), many of the projects on this list are a
+somewhat low bar for “advanced” innovation. We also
+found that, of the mechanical recycling/downcycling projects,
+many process or intend to process items like windshields,
+agricultural plastic, carpet, car seats and automotive plastic,
+or medical waste. Recycling these items does not address or
+improve the low recyclability of single-use packaging which
+remains the largest end use of plastic,39 40 41 and which
+remains difficult to reprocess.
+
+A few projects on the ACC list appeared to be in error
+(e.g., duplicate, one company that sold chemically recycled
+plastic but did not produce it). We raise this caution to
+ensure that the ACC is not inflating investment claims for
+“advanced” recycling by including any recycling upgrades.
+Seven of the 51 projects on the ACC’s list were sorting or
+non-recycling.
+
+Of the total 5142 projects:
+
+	| Almost half are expansion of or upgrades to
+
+mechanical recycling facilities, including some
+that were sorting facilities or pilot projects.
+
+	| Almost one-quarter are waste-to-fuel/plastic-to-fuel,
+which is not plastics recycling. The ACC’s inclusion
+of waste-to-fuel conflates generation of fuels from
+plastic waste with recycling.
+
+	| Seven were difficult to evaluate and define. We
+were unable to determine whether these could
+be classified as mechanical recycling, waste-to-fuel/
+plastic-to-fuel, or plastic-to-plastic, due to lack of
+available public data of the specific processes.
+
+	| We considered only four to be plastic-to-plastic
+
+chemical recycling. It is important to note
+that none of these four is considered viable
+(see Criterion 2) nor do we consider this an
+environmentally or economically sound solution
+to plastic waste, for reasons listed above.
+
+Criterion 2: Are These Investments
+Viable?
+
+Announcements about projects are free and easy to make,
+but obtaining the necessary financing or permits to complete
+those projects may be much more difficult. The ACC may
+be publicizing these numbers to lend credibility to these
+companies to gain more private investments, public funds, or
+tax breaks, or more favorable regulatory environments for
+“chemical recycling.” We reviewed public information about
+each project to determine if the announced investments are
+viable—that is, the projects are likely to be built and successfully
+reprocess plastic—or whether they appear to be in the concept
+phase or otherwise stalled or likely to become stalled.
+
+Operational: Many facilities appear to be operational, or
+seem likely to be operational by the end of this year. We
+found that 16 of the 51 projects are or appear to be already
+operational; however, this finding may not take into
+account COVID-19–related closures or idling.
+
+Likely or potentially likely to progress: Facilities seem to
+be progressing through construction, and appear to have
+adequate funding and permits for completion.
+
+Questionable: We identified many projects as “questionable”
+that may be an investment risk—for example, previous
+failed investments by the company, significant changes in
+the operating environment, or public opposition.
+
+Unlikely to progress: Projects are unlikely to progress if
+they have had a number of delays, or if completion was
+necessary on permits or additional funding that may be
+difficult to obtain.
+
+Difficult to evaluate—concept/announcement phase:
+Some projects on this list were difficult to evaluate, as they
+are currently in their concept or announcement phase.
+
+For projects we determined “unlikely to progress” or
+“questionable,” we do not believe they are guaranteed to
+fail. Rather, questions must be raised as to the viability of the
+investments, particularly for projects that received public
+funding, like tax abatements or state/county development
+funds. At least one company that appears on the ACC project
+list, Fulcrum Biofuels, has had a project in its announcement
+phase for almost 10 years.
+
+Many “chemical recycling” companies (including those not
+featured on this list) are start-ups, often with proprietary, non-
+transparent technology. We note that many of these projects
+seem to be led by serial entrepreneurs who raise endless
+rounds of capital, while failing to deliver products to market.
+Pyrolysis and gasification in particular have been promoted
+as alternatives to waste incineration for decades; however,
+
+DECEPTION BY THE N UM BERS  |  8
+
+they have a failed track record due to inefficiency, emissions
+pollution, and environmental impact.43 44
+
+Of the 12 waste-to-fuel/plastic-to-fuel projects on the ACC
+list, only 3 are operational, with 7 considered questionable
+or in the announcement/concept phase. Of the four projects
+we determined to be plastic-to-plastic—BP (Naperville, IL),
+Eastman (location TBD), Loop Industries/Indorama
+(Spartanburg, SC), and PureCycle (Ironton, OH)—we found
+that all were either announcement only, and thus difficult
+to evaluate, or questionable. Thus, we determined that no
+plastic-to-plastic projects on this list are likely to actually
+recycle plastic.
+
+Investment Breakdown
+
+To include project cost estimates, we looked at a range of
+public information. We did not find any financial or investment
+information for 15 of the 51 projects,45 and where found, we
+reported the project cost, often without knowing if this money
+has already been spent, or is an estimated or actual project
+price tag. This would be particularly concerning for projects
+with high price tags that have not demonstrated viability.
+
+The 36 projects for which we found announced costs totaled
+$2.176 billion.46 Of this amount, we found that $1.25 billion
+(57%) was associated with waste-to-fuel/plastic-to-fuel
+projects, and $145 million was associated with plastic-to-
+plastic; the remainder ($542 million) was associated with
+mechanical recycling or sorting. Of the waste-to-fuel/plastic-
+to-fuel projects, $600 million was announced for projects
+we determined to be unlikely to be built and viably recycle
+plastic.
+
+We also searched for publicly available information on the
+amount of public funds spent on these projects; however,
+note that this information is incomplete and the amount
+may be higher. Among the 51 projects, we found that at
+least $506 million had been awarded via public funds since
+2017, including bonds, loans, grants, tax credits, and other
+incentives; this number is likely much higher. The ACC
+typically refers to the wave of investments as private-sector
+investments, meaning that these funds are likely to be in
+addition to the $4.6 billion of announced investments.
+
+Of the identified $506 million of taxpayer funds spent on
+projects on this list, 89% was spent on waste-to-fuel/
+plastic-to-fuel projects, meaning that taxpayer money was
+directed toward generating fuels for the petrochemical
+industry, not toward recycling plastic. We acknowledge
+that not all of this money is to ultimately be derived from
+taxpayers, as it includes bonds or loans; however, given the
+track record of some companies on this project list, and the
+
+questionable viability of many of these projects, there is a risk
+that these companies could fail to or struggle to repay their
+financial obligations. At least one company, Aemerge RedPak,
+has already defaulted on some of those funds; this company
+appears to only produce energy from its combusted waste
+(see findings in 4. Project and Company Profiles).
+
+We also note that several companies that received taxpayer
+dollars are owned by large waste management companies
+with existing revenue streams. For example, North Gateway
+Transfer Station in Phoenix, Arizona, is a subsidiary of
+Republic Services, one of the largest waste management
+companies in the country; with approximately $10 billion in
+revenue in 2019, it is not clear why this company needed to
+seek taxpayer funds.47
+
+Overall, we found that $270,312,564 in taxpayer funds was spent
+on projects considered questionable or unlikely to be built.
+
+Processing Capacity
+
+To include processing capacity, we reviewed a range of
+publicly available information, mainly through announced
+projects as well as databases, such as CalRecycle grants.
+We are unable to verify whether this processing capacity is
+accurate for the projects now open, or whether the stated
+projects will achieve announced projections. For most of
+the projects, we were able to use stated processing capacity;
+we made a few estimates where we felt we had enough
+information to do so (e.g., size of facility, similar facility/
+technology announced by company).48
+
+We found these 51 projects would add a total of 1,391,937
+tons per year of additional processing capacity, which would
+be 4.02% of 2017’s generation of plastic waste (34.5 million
+tons).49 However, the waste-to-fuel projects—461,750 tons per
+year of announced additional processing capacity, or 0.1%
+of the plastic waste generated in 2017—are not recycling at
+all, so while this amount may be theoretically diverted from
+a landfill, it is transformed into inefficient fuels or (typically
+combusted) or petrochemicals. It is also difficult to ascertain
+how much new fuel and chemical inputs these projects would
+“offset” from existing petrochemical and plastic production.
+
+It should also be noted that at least two companies—Roy
+Tech Environ and Yunnan Zintongi Plastics Engineering—are
+Chinese-owned and exporting reprocessed plastic to China, as
+a workaround to the legal limitations on the export of plastic
+waste. It is not clear how much, if any, of these companies’
+recycled plastic is being used in domestic U.S. manufacturing,
+as opposed to being sent to China. We did not find evidence
+of exporting of reprocessed plastic from the remaining 49
+companies on this list, though it could be possible.
+
+DECEPTION BY THE N UM BERS  |  9
+
+3. Evaluation of the
+ACC’s Projects List
+
+The following table describes our findings. Details and references for these findings follow in 4: Project and Company Profiles.
+
+Name/
+Location
+
+Agilyx / Ineos
+Styrolution
+Channahon, IL
+
+Technology Type
+
+Questionable. Agilyx plans to
+do plastic-to-plastic styrene
+processing, but issues at its Tigard,
+OR, plant raise questions as to
+whether this is actually plastic-to-
+fuel.
+
+?
+
+Likelihood of Progressing (Viability)
+1 bar:  difficult to evaluate/announcement phase
+2 bars:  unlikely
+3 bars:  questionable
+4 bars: potentially likely
+5 bars:  likely to progress
+6 bars:  operational
+
+Difficult to evaluate: announcement phase.
+Partnership with INEOS announced in Dec.
+2019. A June 2020 update notes that the
+facility (to be added onto INEOS’’ existing
+facility) is still in the design phase.
+I I I I I I
+
+Plastic
+reprocessing
+capacity
+(tons/year)
+
+Financial
+Information
+
+None found
+
+3,650
+
+Aemerge RedPak
+Hesperia, CA
+
+Waste-to-energy. Facility performs
+thermal destruction of medical
+waste, generating syngas and char
+for energy.
+
+Operational.
+I I I I I I
+
+Agilyx
+Trainer, PA
+
+Plastic-to-fuel. This facility as
+announced would convert plastic
+waste to synthetic crude oil to be
+used by Delta’s jet fuel subsidiary,
+Monroe Energy.
+
+Aquafil Carpet
+Recycling
+Phoenix, AZ
+
+Plastic-to-fuel. This facility collects
+and prepares plastic for global
+export to a plastic-to-fuel facility.
+
+Avangard
+Innovative
+TBD, NV
+
+Avangard
+Innovative
+Houston, TX
+
+ Mechanical recycling /downcycling
+
+Mechanical recycling /downcycling
+
+AZEK
+Wilmington, OH
+
+Mechanical recycling /downcycling
+
+Questionable. It is not clear if there has
+been any progress on the Agilyx facility at
+Monroe Energy’s refinery since the Nov.
+2018 announcement, and several analysts
+have raised questions about this refinery’s
+profitability, including the recent COVID-19–
+related economic downturn.
+I I I I I I
+Operational, since late Dec. 2017.
+I I I I I I
+
+Potentially likely. Announcements as of Sept.
+2019 indicated that the Nevada plant was
+planned for a 4th-quarter 2020 opening.
+However, there is no information as to the
+site’s location or if the project has progressed.
+I I I I I I
+Likely to progress. A Feb. 2020 report noted
+that this facility was set to open in Apr. 2020,
+though no reports of the opening have been
+found.
+I I I I I I
+Operational. TimberTech mechanical
+recycling plant opened in April 2019.
+I I I I I I
+
+$55 million
+
+None found
+
+None found
+
+None found
+
+$10 million
+
+None found
+
+$30 million
+
+50,000
+
+$30 million
+
+50,000
+
+$25 million
+
+50,000
+
+DECEPTION BY THE N UMB ERS  |  10
+
+Name/
+Location
+
+Balcones
+Dallas, TX
+
+Berry Global and
+Georgia-Pacific
+Recycling
+TBD
+
+BP Infinia
+Naperville, IL
+
+Technology Type
+
+Sorting. This materials recovery
+facility (MRF) performs separation
+and baling of collected curbside
+materials, including paper, metal,
+glass, and plastic.
+
+Mechanical recycling /downcycling
+
+Plastic-to-plastic
+
+Brightmark
+TBD
+
+Questionable. Specific details have
+not been fully announced. However,
+Brightmark’s plant in Ashley, IN, is
+waste-to-fuel.
+
+?
+
+Waste-to-fuel
+
+Mechanical recycling /downcycling
+
+Mechanical recycling /downcycling
+
+Mechanical recycling /downcycling
+
+Brightmark
+Energy/
+ResPolyflow
+Ashley, IN
+
+CarbonLite
+Reading, PA
+
+CarbonLite
+Dallas, TX
+
+East-Terra
+Plastics
+Connorsville, IN
+
+Eastman
+TBD
+
+Plastic-to-plastic
+(methanolysis)
+
+Eastman
+Kingsport, TN
+
+Plastic-to-fuel. Eastman’s “carbon
+renewal” technology is gasification,
+which produces syngas.
+
+ Ecomelida
+Orangeburg, SC
+
+Mechanical recycling /downcycling
+
+Likelihood of Progressing (Viability)
+1 bar:  difficult to evaluate/announcement phase
+2 bars:  unlikely
+3 bars:  questionable
+4 bars: potentially likely
+5 bars:  likely to progress
+6 bars:  operational
+
+Operational.
+I I I I I I
+
+Plastic
+reprocessing
+capacity
+(tons/year)
+
+Financial
+Information
+
+$6 million
+
+None found
+
+Potentially likely. Partnership announced in
+Jan. 2020.
+I I I I I I
+
+Difficult to evaluate: announcement phase.
+In Oct. 2019, BP announced development
+of a pilot project at its research center, to be
+completed by mid-year 2020.
+I I I I I I
+Questionable. The company announced in
+Nov. 2019 that it would invest $500 million
+to $1 billion to build each of potentially up to
+10 new facilities. However, this is a very early
+announcement, with no further news as to
+cities, sites, agreements, etc.
+I I I I I I
+Likely. Project was announced to have begun
+operation in late May 2020.
+I I I I I I
+
+Likely. The facility was wrapping up
+construction in Jan. 2020.
+I I I I I I
+Operational since late 2017.
+I I I I I I
+
+Operational. Moved to expanded facility in
+2018.
+I I I I I I
+Difficult to evaluate at time of writing/
+announcement phase. Eastman estimates
+this would be at scale by 2021 or 2022.
+I I I I I I
+Questionable. Eastman claims to have
+reached a commercially operational stage,
+but no publicly available data substantiate
+such claims.
+I I I I I I
+Questionable. Project appears delayed.
+I I I I I I
+
+None found
+
+None found
+
+$25 million
+
+$500 million to
+$1 billion
+
+Pilot project
+capacity
+assumed to
+be 365 tons/yr
+(10 tons/day).
+
+None found
+
+$262 million,
+including
+$187.5 million
+in taxpayer
+funding
+
+$80 million
+
+None found
+
+42,500 to
+75,000.
+
+$62 million
+
+50,000
+
+$5 million
+
+ 1,000
+
+None found
+
+None found
+
+None found
+
+None found
+
+ $52 million
+
+None found
+
+DECEPTION BY THE N UMB ERS  |  11
+
+Technology Type
+
+Mechanical recycling /downcycling
+
+Mechanical recycling /downcycling
+
+Mechanical recycling /downcycling
+
+Likelihood of Progressing (Viability)
+1 bar:  difficult to evaluate/announcement phase
+2 bars:  unlikely
+3 bars:  questionable
+4 bars: potentially likely
+5 bars:  likely to progress
+6 bars:  operational
+
+Operational since 2018. Current expansion
+underway. EFS notes that it lost orders in
+Spring 2020.
+I I I I I I
+Difficult to evaluate /announcement phase
+only.
+I I I I I I
+Likely. Expansion of an existing project.
+I I I I I I
+
+Sorting. This was a temporary
+60-day demonstration project of
+sorting and collection, run by Titus
+MRF.
+
+No—pilot completed.
+I I I I I I
+
+Sorting. This MRF performs
+separation and baling of collected
+curbside materials (paper, metal,
+glass, and plastic), but does not
+recycle/reprocess them.
+
+Operational.
+I I I I I I
+
+Financial
+Information
+
+None found
+
+Plastic
+reprocessing
+capacity
+(tons/year)
+
+Estimated
+15,000
+
+None found
+
+2,000
+
+$2.94 million
+
+3,480
+
+None found
+
+None found
+
+$23 million
+
+None found
+
+Name/
+Location
+
+EFS Plastics
+Hazleton, PA
+
+EFS Plastics
+TBD, West Coast
+
+Envision Plastics
+Chino, CA
+
+Far West
+Recycling
+Portland, Oregon
+
+FCC
+Houston, TX
+
+FDS
+Manufacturing
+Pomona, CA
+
+Fulcrum
+BioEnergy
+Gary, IN
+
+Fulcrum
+BioEnergy
+Reno, NV
+
+Questionable. Project received a
+Cal Recycle grant for mechanical
+recycling of /downcycling of
+plastic—however, at a different
+location. At least one outlet
+describes the Pomona project as
+processing of agricultural waste
+(nut shells, etc.) into plastic.
+
+?
+
+Waste-to-fuels. The facility would
+turn municipal solid waste into jet
+fuel.
+
+Waste-to-fuels plant. The facility
+would turn household waste (MSW)
+into synthetic crude oil.
+
+GBD International
+New Brunswick,
+NJ
+
+Mechanical recycling /downcycling;
+expansion of existing facilities
+
+Difficult to evaluate, as the exact project is
+not clear.
+I I I I I I
+
+$2.96 million
+
+2,000
+
+Unlikely. Project was announced in Dec. 2018,
+and does not appear to have progressed past
+announcements.
+I I I I I I
+
+Unlikely. This facility was originally
+announced as early as 2011, and though
+some constructions appear to have been
+initiated, this project seems stalled.
+I I I I I I
+Likely. At least one report suggests this
+expansion may have been completed in 2019.
+I I I I I I
+
+$600 million
+
+None found
+
+None found
+
+None found
+
+$1 million
+
+13,200
+
+DECEPTION BY THE N UMB ERS  |  12
+
+Likelihood of Progressing (Viability)
+1 bar:  difficult to evaluate/announcement phase
+2 bars:  unlikely
+3 bars:  questionable
+4 bars: potentially likely
+5 bars:  likely to progress
+6 bars:  operational
+
+Unlikely: The project was expected to come
+online by 2019, but the property is currently
+listed as available for lease, and no further
+announcements have been made.
+I I I I I I
+
+Difficult to evaluate: announcement phase.
+No information found for development of a
+plant in the U.S., though the existing facility
+in Canada has been under expansion.
+I I I I I I
+
+Plastic
+reprocessing
+capacity
+(tons/year)
+
+Financial
+Information
+
+$75 million
+
+None found
+
+$300 million
+
+None found
+
+Did not evaluate: not recycling.
+I I I I I I
+
+None found
+
+None found
+
+Questionable. This MRF invested in a pilot
+project to evaluate film separation, but the
+pilot did not meet its goals, suggesting that
+the improvements may not be successful.
+I I I I I I
+Questionable. There is a site, but facility
+construction has been delayed past expected
+2020 opening and has not yet started. The
+company says it needs additional investment
+to complete the project.
+I I I I I I
+Unlikely. Construction of this project is
+contingent upon a number of permits and
+resolution of ownership and tax history of
+the site, which has been ongoing for several
+years.
+I I I I I I
+
+$2.6 million
+
+None found
+
+None found
+
+44,000
+
+Potentially
+$150 million
+
+None found
+
+Name/
+Location
+
+Green Tech
+Solution Inc.
+Blacksburg, SC
+
+GreenMantra
+TBD
+
+Inline Plastics
+Shelton, CT
+
+J.P. Mascaro
+& Sons/
+TotalRecycle
+Exeter Township,
+PA
+
+Loop Industries/
+Indorama
+Spartanburg, SC
+
+Millville Plastics
+Millville, NJ
+
+Technology Type
+
+Questionable. While initial PR
+announcements about this facility
+mention plastics recycling, the
+company’s website currently
+indicates it only accepts electronics
+and ferrous metals for recycling.
+
+?
+
+Questionable. We did not find a
+specific project. The company
+states: “Synthetic waxes are
+GreenMantra’s primary commercial
+product.”
+
+?
+
+Not recycling. Inline purchases
+chemically recycled plastic and
+touts the recycled packaging it
+sells but does not actually perform
+recycling
+
+Sorting. This municipal waste MRF
+separates plastic, but does not
+recycle it.
+
+Plastic-to-plastic
+
+Questionable. Project
+announcements indicate
+the proposed facility would
+mechanically process various
+plastic scrap. However, Millville
+Plastics investor Green EnviroTech
+Holdings appears to only license
+pyrolysis (waste-to-fuel) technology
+for processing rubber tires.
+
+?
+
+Netafim
+Fresno, CA
+
+Mechanical/ downcycling.
+Expansion of existing facility.
+
+New Hope Energy
+Tyler, TX
+
+Plastic-to-fuel (pyrolysis)
+
+Likely. Netafim affirmed its profitability in a
+May 2020 investor call.
+I I I I I I
+
+Questionable. Operational as of 2019;
+however, there was a fire at the facility in May
+2020. Current status is not known.
+I I I I I I
+
+$2.0 million
+
+Additional
+9,612
+
+$150 million
+
+340,000
+
+DECEPTION BY THE N UMB ERS  |  13
+
+Name/
+Location
+
+Nexus Fuels
+TBD, GA
+
+Technology Type
+
+Plastic-to-fuel (pyrolysis)
+
+North Gateway
+Transfer Station
+Phoenix, AZ
+
+Sorting. Project is a municipal waste
+transfer station for preliminary
+separation of collected curbside
+recyclable materials, including
+paper, metal, glass, and plastic.
+
+Likelihood of Progressing (Viability)
+1 bar:  difficult to evaluate/announcement phase
+2 bars:  unlikely
+3 bars:  questionable
+4 bars: potentially likely
+5 bars:  likely to progress
+6 bars:  operational
+
+Questionable. The prototype is operational
+at small scale, but no further information has
+been found as to further commercial-scale
+operations.
+I I I I I I
+Operational.
+I I I I I I
+
+Plastic
+reprocessing
+capacity
+(tons/year)
+
+Financial
+Information
+
+None found
+
+18,250
+
+$4.5 million
+
+None found
+
+Peninsula
+Plastics
+Recycling
+Turlock, CA
+
+PreZero US
+Riverside, CA
+
+PreZero US
+Westminster, SC
+
+PureCycle
+Technologies
+Ironton, OH
+
+Mechanical recycling /downcycling
+
+Operational as of 2019.
+I I I I I I
+
+Mechanical recycling /downcycling
+
+Mechanical recycling /downcycling
+
+Operational.
+I I I I I I
+
+Operational.
+I I I I I I
+
+Plastic-to-plastic
+
+$4 million
+
+Additional
+17,000
+
+$90 million
+
+Additional
+13,000
+
+$13 million
+
+30,000
+
+$120 million
+
+50,000
+
+ $60 million
+
+100,000
+
+$120 million
+
+None found
+
+None found
+
+None found
+
+Questionable. Feedstock evaluation unit
+completed in 2015. Construction was planned
+later in 2020, but has been postponed again
+to 2022.
+I I I I I I
+Difficult to evaluate: announcement/concept
+phase.
+I I I I I I
+Difficult to evaluate. Project appears to be
+still in announcement/concept phase.
+I I I I I I
+
+Difficult to evaluate. Project appears to be in
+concept phase only.
+I I I I I I
+
+Quad City
+Innovations
+Livonia, MI
+
+Waste-to-fuel
+
+Refined Plastics
+Berks County, PA
+
+Waste-to-fuel
+(pyrolysis)
+
+Regenyx, LLC
+TBD, West Coast
+
+Renewlogy
+Phoenix, AZ
+
+Roplast
+Oroville, CA
+
+Questionable. Regenyx is a joint
+venture that controls an Agilyx
+plant (plastic-to-plastic), though
+current plant outputs have thus
+far been incinerated). It is not clear
+what technology the company
+proposes for future locations.
+
+?
+
+Waste-to-fuel
+
+Mechanical recycling /downcycling.
+Equipment upgrade to existing
+facility.
+
+Questionable. Renewlogy’s other project has
+been shut down due to process issues.
+I I I I I I
+Potentially likely
+I I I I I I
+
+$5 million
+
+3,000 to 4,000
+
+$2.5 million
+
+Additional
+2,500/year
+
+DECEPTION BY THE N UMB ERS  |  14
+
+Technology Type
+
+Mechanical recycling /downcycling
+
+Likelihood of Progressing (Viability)
+1 bar:  difficult to evaluate/announcement phase
+2 bars:  unlikely
+3 bars:  questionable
+4 bars: potentially likely
+5 bars:  likely to progress
+6 bars:  operational
+
+Operational as of 2018
+I I I I I I
+
+Mechanical recycling /downcycling  Operational as of 2018
+
+Name/
+Location
+
+Roy Tech Environ
+Grant, AL
+
+rPlanet Earth
+Vernon, CA
+
+Shark Glass
+Recycling West
+Victorville, CA
+
+ Sirmax SA
+ Anderson, IN
+
+Mechanical recycling /downcycling
+
+Mechanical recycling /downcycling
+
+I I I I I I
+
+Likely
+I I I I I I
+
+Potentially likely. Addition to existing facility,
+announced in 2019. The site has been
+purchased and construction appears to be
+progressing; start-up planned by end of 2022.
+I I I I I I
+Duplicate of now-completed pilot (Far West
+Recycling).
+I I I I I I
+
+Titus MRF
+Portland, OR
+
+Not recycling. This MRF is likely a
+duplicate of the entry for Far West
+Recycling.
+
+Mechanical recycling /downcycling
+
+Operational.
+I I I I I I
+
+Yunnan Zintongi
+Plastics
+Engineering
+(UPT Group)
+Montezuma, GA
+
+Plastic
+reprocessing
+capacity
+(tons/year)
+
+Financial
+Information
+
+$1.6 million
+
+22,000
+
+40,000
+
+$100 million,
+with $37.5
+million in
+taxpayer funds
+
+$1.3 million
+
+Estimated 430
+
+$18 million
+
+20,000
+
+None found
+
+None found
+
+None found
+
+None found
+
+DECEPTION BY THE N UMB ERS  |  15
+
+4. Project and Company Profiles
+
+Aemerge RedPak, Hesperia, CA
+This waste-to-energy facility performs thermal destruction of
+medical waste, generating syngas and char for energy. There
+is no actual on-site plastic reprocessing, though the facility
+processes metal and glass waste, which can then be recycled.
+The company recently undertook a $50 million investment
+in 2017.50 It appears to have received $40 million in various
+taxpayer bonds, and to have defaulted on these in 2019 due
+to regulatory issues with the procurement of medical waste.51
+The company applied for funding from CalRecycle in 2019 for
+components of its waste-to-gas system, but did not receive
+the funding.52
+
+Agilyx
+Agilyx is a thermal conversion technology provider that has
+developed a mixed plastic-to-crude thermal process, and is
+attempting to prove a plastic-to-plastic method.53 Its proprietary
+pyrolysis technology is billed as a “plastic-to-plastic,” producing
+styrene oil from plastic waste. However, a recent investigation
+by GAIA reveals that styrene oil produced at Agiylx’s Tigard,
+Oregon, facility was later burned, rather than converted into
+new polystyrene.54 This raises questions as to whether Agilyx’s
+other facilities would be considered plastic-to-fuel. Either
+way, pyrolysis is problematic. Agilyx is a member of the ACC’s
+Advanced Recycling Alliance for Plastics.55
+
+Two Agilyx projects are on the ACC list. The ACC list also
+includes, Regenyx, a joint venture between Agilyx and Americas
+Styrenics (AmSty) that includes Agilyx’s flagship Tigard plant;
+we included this third project as a separate entry.
+
+Channahon, IL
+This project was announced between INEOS and Agilyx
+in December 2019.56 INEOS has since purchased the
+petrochemical business of BP, including Infinia. The
+INEOS Styrolution site in Channahon is directly adjacent
+to a facility operated by Americas Styrenics, the company
+whose St. James facility accepted styrene oil from Agilyx’s
+Tigard plant.57 A June 2020 update notes that the facility
+(to be added onto INEOS’ existing facility) is still in the
+design phase.58 No financial investment cost has been
+found. Expected capacity is 36,500 tons/year.59
+
+Trainer, PA
+This facility as announced would be waste-to-fuel,
+converting plastic waste to synthetic crude oil to be
+used by Delta’s jet fuel subsidiary, Monroe Energy.60
+
+It is not clear if there has been any progress at the Agilyx
+facility at Monroe Energy’s refinery since the November
+2018 announcement, and several analysts have raised
+questions about Delta’s ability to make a profit with its
+refinery, including the recent COVID-19–related economic
+downturn.61 We did not find an investment or project cost,
+or the expected capacity at this facility.
+
+Aquafil Carpet Recycling, Phoenix, AZ
+Aquafil is an Italian nylon manufacturer that recently
+incorporated a chemical recycling process to turn nylon into
+its monomer (caprolactam), which it then uses it to make
+nylon and yarn for the textile and carpet industries,62 for
+customers including Adidas and Volcom.63 Aquafil opened
+its Phoenix location in late December 2017.64 This facility
+recovers and pelletizes carpet, and sends the pellets to
+Aquafil’s Slovenia facility for the depolymerization.65 66
+67 Closed Loop Partners classifies this as plastic-to-fuel
+technology, not plastic-to-plastic.68
+
+This Phoenix facility benefits from incentives related to
+California’s carpet recycling regulations. Aquafil announced
+$10 million in investment for its Phoenix location.69 The
+company notes a “favorable” business environment and
+support of the city, but we did not find evidence of public
+funds put toward this project. 70
+
+Avangard Innovative
+This recycling company is planning to build three facilities—
+estimated at $30 million each—in the next few years to
+mechanically process commercial plastic film waste, including
+linear low-density polyethylene (LLDPE) and low-density
+polyethylene (LDPE) bags, shrink-wrap. and protective films.71
+It is not clear why the ACC list only includes two facilities.
+
+TBD, NV
+Announcements as of September 2019 indicated that
+the Nevada plant was planned for a fourth-quarter
+2020 opening. In 2020, Dow has recently signed an
+agreement to purchase post-consumer recycled LDPE
+from Avangard Innovative; this announcement noted that
+the Nevada plant is now planned for 2021.72 However, no
+announcement of site selection or construction progress
+has been found, or progress on the project. Another article
+indicates further progress on Avangard Innovative’s Mexico
+plant.73 The project’s cost is $30 million,74 and its expected
+processing capacity is 50,000 tons/year75 76
+
+DECEPTION BY THE N UMB ERS  |  16
+
+Houston, TX
+A February 2020 article noted that this facility was set to
+open in April 2020,77 but we have found no news reports
+about that opening. Like the Nevada plant, this plant is
+expected to cost $30 million,78 and its expected annual
+capacity is 50,000 tons.79 80 Unlike the Nevada plant, a
+facility exists.81
+
+AZEK, Wilmington, OH
+This recycling company’s Wilmington facility processes post-
+consumer plastic waste like high-density polyethylene (HDPE)
+jugs into outdoor decking and lumber, sold under the brand
+name TimberTech. The TimberTech mechanical recycling
+plant opened in April 2019,82 and AZEK went public in June
+2020.83 The project was a $25 million investment,84 with a
+50,000-ton/year production goal.85
+
+Balcones, Dallas, TX
+This MRF separates and bails collected curbside materials,
+including paper, metal, glass, and plastic.86 It completed $6
+million in expansion in 2019,87 and was acquired by Closed
+Loop Partners in late 2019, with $2 million in improvements
+planned.88 Closed Loop Partners notes that Balcones is the
+largest privately held recycler in Texas.89 Its current processing
+capacity is 200,000 tons of material annually, 4% of which is
+plastic (the vast majority is paper).90
+
+Berry Global and Georgia-Pacific
+Recycling, Location TBD
+Berry Global is a large plastic packaging manufacturer and
+recycler. Berry announced in January 202091 that it would
+be adding capacity at its existing facility in Victoria, TX;92
+however, the ACC list partnership may have another (or
+several locations).93 Georgia-Pacific intends to procure the
+post-consumer material (apparently polyethylene films),
+and Berry will reprocess it into recycled polyethylene. Costs
+were not disclosed in the partnership announcement.94 No
+production capacity was found.
+
+BP Infinia, Naperville, IL
+British oil major BP has developed a chemical recycling
+technology called Infinia. In October 2019, BP announced
+development of a $25 million pilot project at its research
+center and development hub95 in Naperville, which is scheduled
+to be completed in 2020.96 The process appears to be
+depolymerization that will break down PET into its precursors
+terephthalic acid (TPA) and monoethylene glycol (MEG).97
+
+In June 2020, BP announced the sale of its petrochemical
+business, including the Infinia chemical recycling technology,
+to gas and plastic giant INEOS. There is no indication yet that
+this sale will impact the development of the Infinia facility.
+The company did not announce planned capacity; we estimated
+pilot project capacity of 3,650 tons/year (10 tons/day).98
+
+A recently announced consortium led by BP involving Infinia
+technology includes consumer goods producers Danone and
+Unilever, and packaging manufacturer ALPLA,99 who has
+supplied Unilever with plastic packaging for products such
+as Dove body wash containers.100 Unilever’s chairman of the
+board is also on the board of BP.101
+
+Brightmark
+Formerly RESPolyFlow, Brightmark is a plastic-to-fuel company
+headquartered in San Francisco. Brightmark is a member of
+the ACC’s Advanced Recycling Alliance for Plastics.102
+
+Ashley, IN
+This facility is waste-to-fuel. The pyrolysis process will
+ turn plastic waste into diesel naphtha and waxes,103
+with no on-site plastics reprocessing. The company
+has received a number of public funds. The initial
+project as announced referred to a $260 million
+investment, including $185 million in Indiana green
+bonds;104 105 a recent investigation by GAIA showed
+the total investment now at $262 million, with
+$187.5 million in total taxpayer funds.106 In April 2020,
+the town of Ashley received a grant from the U.S.
+Department of Commerce’s Economic Development
+Administration for $1.2 million to extend water and
+sewer access for “a major plastics recycling company
+and to provide opportunities for further industrial
+and commercial development” (assumed to be
+Brightmark).107 BP has agreed to purchase fuel products
+from Brightmark Energy’s Ashley plastics-to-fuel plant,
+and AmWax will purchase waxes produced at the Ashley
+plant. This plant is now operational, though many
+delays were noted.108
+
+Location TBD
+The company announced in November that it would
+invest $500 million to $1 billion to build each of up
+to 10 new facilities;109 however, this is a very early
+announcement with no further news as to the cities,
+sites, agreements, etc. The specific projects have not
+been fully announced, but it is assumed that they
+would be waste-to-fuel, like Brightmark’s Ashley plant.
+
+DECEPTION BY THE N UMB ERS  |  17
+
+CarbonLite
+This mechanical recycling PET company lists Nestlé among its
+customers.110 Two expansion facilities are planned.
+
+Reading, PA
+This PET recycling project was wrapping up construction in
+January 2020.111 This was a $80 million investment,112 and
+will add processing capacity of 42,500–75,000 tons/year.113
+
+Dallas, TX
+This PET recycling facility opened in late 2017.114
+CarbonLite’s $62 million investment115 added 50,000116
+tons/year of processing capacity.
+
+East-Terra Plastics, Connorsville, IN
+This project is an expansion of a post-industrial plastic
+mechanical recycling plant, which opened in 2018.117 118 The
+company recycles used child car seats collected from retailer
+take-back programs, like Walmart’s incentive-based program,
+and Walmart in turn uses the plastic from the seats to make
+shipping pallets.119 A $5 million investment appears to have
+been made by East-Terra in 2016.120
+
+Ecomelida, Orangeburg, SC
+Plans for a $52 million investment in a carton recycling
+facility were announced by Ecomelida, the U.S. subsidiary
+of Chinese company Zhangzhou Sanlida Environmental
+Technology Corporation.121 122 The process described in
+initial announcements was mechanical recycling of food
+and beverage cartons; later documents suggest this is to
+be LDPE film reprocessing as well.123
+
+Though it appears that the project may start reprocessing
+plastic by the fourth quarter of 2020,124 125 it is not clear why
+it has been delayed; the governor’s office had announced
+in early 2018 that the project would be operational by the
+fourth quarter of 2018, though U.S.–China tariffs may weigh
+on business decisions.126 127 It is also not clear if Ecomelida has
+the necessary permits,128 and it does not have a U.S.-facing
+web or business presence. The company received a $750,000
+Rural Infrastructure Fund grant from the state.129
+
+mixed plastics. Eastman signed a deal to receive carpet
+waste fibers processed in California by Circular Polymer,
+which are then shipped to Tennessee.131 It is not known if
+the process is operational or productive yet. It is possible
+that plans to expand production in 2020 may be threatened
+by the end of California’s carpet recycling subsidy.132
+
+Location TBD
+Eastman has announced it is looking into a plastic-to-plastic
+technique called methanolysis, which uses methanol to
+depolymerize plastic into plastic precursors dimethyl
+terephthalate (DMT) and ethyl glycol. The company would
+then use those precursors in the production of its plastic.133
+The likelihood that this project will progress is difficult to
+evaluate at the time of writing. Eastman estimates its
+methanolysis will be “at scale” by 2021 or 2022.134 No
+investment announcement or other information is
+currently available.
+
+EFS Plastic
+EFS is a mechanical recycling company with one recent
+expansion and another potentially planned.
+
+Hazelton, PA
+This facility features mechanical recycling of post-
+consumer plastics, including rigid packaging and film.
+The facility opened in 2018, with current expansion
+underway.135 EFS notes that it lost orders in the spring of
+2020.136 No investment announcement was found.
+
+Location TBD, West Coast
+In February 2019, EFS announced a new facility for
+mechanical recycling of post-consumer plastics,
+including rigid packaging and film.137 Though a January
+2020 report from the Northeast Recycling Council does
+mention Pomona, there are no announcements about site
+placement or progress.138 EFS Plastics’ existing facilities
+suffered a loss of orders in April 2020 when the California
+requirement for recycled content in bags was paused by
+Governor Newsom,139 though that pause has expired.140 No
+investment announcement was found. The two facilities
+have an estimated capacity of 30,000 tons/year.141 142
+
+Eastman
+Chemical manufacturer Eastman has two projects on the
+ACC list.
+
+Kingsport,TN
+Eastman’s “carbon renewal” technology is gasification, a
+plastic-to-fuel process that produces syngas.130 In November
+2019, Eastman announced modifications to the front end
+of the existing large-scale system to allow it to accept
+
+Envision Plastics, Chino, CA
+This mechanical recycling company is expanding its existing
+facility in Chino, California. Envision Plastics uses a patented
+technology it obtained from The Dow Chemical Company
+subsidiary Union Carbide. This facility will mechanically
+recycle HDPE containers collected curbside, as well as
+agricultural film.143 The project was funded by a $2.94 million
+CalRecycle state grant in 2018/2019.144 Expected additional
+capacity is 3,480 tons/year.145
+
+DECEPTION BY THE N UMB ERS  |  18
+
+Far West Recycling, Portland, OR
+Far West was a temporary 60-day demonstration project of
+sorting and collection, run by Titus MRF. It was funded by
+plastics trade industry associations (the ACC, PLASTICS), and
+manufacturers (AmSty, Berry Global, the Carton Council,
+LyondellBasell, Millikin), as well as Metro (Portland Metro
+Regional Government).146
+
+FCC, Houston, TX
+FCC is a municipal waste material recovery facility (MRF in
+Houston that separates and bales collected curbside materials
+(paper, metal, glass, and plastic), but does not recycle/
+reprocess them.147 The $23 million facility was financed by FCC
+(a waste hauling company) in 2018, and began operations in
+2019.148 Houston residents pay for the recycling services.149
+
+FDS Manufacturing, Pomona, CA
+FDS manufactures industrial and agricultural packaging. The
+recycling techniques of this project are not fully clear. One
+article mentions a grant from CalRecycle in 2018/2019 to
+develop the process to turn agricultural waste (nut shells,
+etc.) into plastic at FDS’s Pomona location; however, the
+CalRecycle grant only mentions recycling polypropylene
+(PP) and polyethylene (PE) plastic waste at FDS’s Fresno
+and Riverside locations.150 FDS received a U.S. Department
+of Agriculture grant (amount undisclosed) to research the
+pelletization process, as well as a $2.96 million grant from the
+state of California.151 The CalRecyle grant lists a capacity of
+2,000 tons/year152
+
+Fulcrum Biofuels
+This thermal waste-to-energy company had originally made
+an initial public offering (IPO) in 2011 to build a municipal
+solid waste (MSW)-to-ethanol plant in Nevada (see below).
+The company cancelled the IPO in 2012, citing “market
+conditions.” A cursory review of the company’s history reveals
+many municipal bonds for biofuels projects over the years. In
+2016, BP (which has an 8% interest in Fulcrum) invested $30
+million in Fulcrum,153 as did United Airlines and Cathay Pacific
+Airways, and in October 2018, BP and chemicals firm Johnson
+Matthey signed an agreement with Fulcrum BioEnergy to
+license Fulcrum’s Fischer-Tropsch technology.154
+
+Two projects are on the ACC list for Fulcrum.
+
+Gary, IN
+This project as proposed is a waste-to-fuel plant, not a
+recycling plant. The facility would turn household waste
+(MSW) into jet fuel. Announced in December 2018,155
+
+the project does not appear to have progressed past
+announcements,156 though the company’s major investors
+include United Airlines, BP, Waste Management (WM),
+and the U.S. military.157 Fulcrum promised to invest $600
+million in this plant.158 The company has received at least
+$2.1 million from the Indiana Economic Development Corp.
+for this project 159
+
+Reno, NV
+Fulcrum Biofuels had originally made an IPO in 2011 to
+build an MSW-to-ethanol plant in Nevada, but shifting
+market conditions appear to have stalled this project. In
+2017, Fulcrum announced it had secured financing for the
+Nevada plant and construction had started again, though a
+company representative noted the plant would need to be
+operational for the company to receive cellulosic biofuels
+credits from the U.S. government.160 The company secured
+at least $200 municipal green bonds from the state of
+Nevada in 2019.161
+
+The plant appears to now be intended to convert MSW to
+synthetic crude oil (“syncrude”), which would be purchased
+by Marathon Petroleum for its refinery in Martinez,
+California;162 the Martinez refinery, idled since April 2020,
+is now set to be decommissioned.163WM and Waste
+Connections have long-term agreements to provide MSW
+to Fulcrum. Waste Dive notes this is an opportunity to
+“extend the life of the Lockwood Regional Landfill” and
+“could be a business opportunity for additional waste
+industry partners,”164 suggesting that Fulcrum is not in the
+recycling business but is rather a manufacturer for the
+petroleum industry, as well as a company that resolves the
+issues of the waste management industry.
+
+The plant appears to still be under the initial construction
+stages. Announcements that it could be operational by 2020
+have not been substantiated, and given Fulcrum’s track
+record, it would not be surprising if challenging market
+conditions again disrupt necessary financing.
+
+GBD International, New Brunswick, NJ
+A 2018 announcement indicated the New Jersey company
+was undertaking a $1 million expansion of post-industrial
+film recycling in 2018;165 166 at least one report suggests this
+expansion may have been completed in 2019.167 This was
+reported as an increase in capacity of 13,200 tons/year.168
+This recycler had been threatened by the pause in California’s
+recycled content law,169 which has since expired. Shipments of
+various scrap and some reprocessed plastic pellets have been
+observed in export records from the U.S. overseas.
+
+DECEPTION BY THE N UMB ERS  |  19
+
+Green Tech Solution Inc., Blacksburg, SC
+Green Tech Solution is a U.S. subsidiary of Chinese investment
+firm Tianjin Sheng Xin Non-Financing Guarantee Co.170
+Headed by the chairman of the Carolinas Chinese Chamber
+of Commerce,171 Green Tech announced a $75 million project
+investment in 2018, with appreciation from local and state
+government officials.172 However, since then, there have been
+no further announcements on progress, and the proposed site
+is currently listed for lease.173
+
+While initial PR announcements about this project mention
+plastics recycling,174 Green Tech Solution’s website
+currently indicates the company only accepts electronics
+and ferrous metals for recycling.175 It is possible that this
+project was intended to accept mixed plastic waste but has
+not progressed. As scrap from Green Tech Solutions’ other
+sites are sent to Malaysia for processing, it is likely that any
+pellets or scrap that would be generated from this site would
+be intended solely for export, not retained for domestic
+reprocessing or manufacturing.176
+
+GreenMantra Technologies,
+Brantford, Ontario
+GreenMantra is a Canadian chemical recycling company.
+Closed Loop Partners classifies this work as both plastic-
+to-plastic and plastic-to-fuel. However, GreenMantra’s
+technology appears to primarily produce polymers that can
+be added to other polymers for applications like roofing
+or asphalt: “Synthetic waxes are GreenMantra’s primary
+commercial product.”177 One of GreenMantra’s offtake
+partners is Sun Chemical;178 INEOS Styrolution is also
+evaluating whether it will offtake GreenMantra’s sytrene
+liquid.179 GreenMantra is a member of the ACC’s Advanced
+Recycling Alliance for Plastics.180
+
+It is not clear if this project is the expansion of the Ontario
+plant, or a new facility within the U.S. Closed Loop Fund
+invested $3 million for expansion of the company’s Bradford
+plant.181 The ACC list seems to indicate a different plant, as it is
+listed as TBD; however, we used the $3 million to estimate the
+investment.
+
+Inline Plastics, Shelton, CT
+This packaging producer manufactures Safe-T-Fresh brand
+food containers for the food service/retail sector. It purchases
+“chemically recycled” plastic from Octal Extrusion Corp.,
+an Oman-based PET sheet supplier.182 Inline advertises the
+recycled packaging it sells,183 but does not actually recycle
+plastic. The method that Octal uses to chemically recycle its
+
+plastic is also not disclosed.184 There is no indication of Inline
+Plastics’ investment in Octal Extrusion or other facilities.
+
+J.P. Mascaro & Sons/Total Recycle,
+Exeter Township, PA
+This facility was a year-long project to assess the viability
+of flexible plastic packaging. The facility itself was a sorting
+facility with no site processing capacity.185 Upon completion
+of the initial yearlong pilot, the project did not ultimately
+demonstrate the intended 99% capture rate (74% at the end
+of the project).186 This project received a $2.6 million grant
+from Materials
+
+Recovery for the Future, an ACC project that also includes
+consumer goods companies, and other trade associations. 187
+
+Loop Industries/Indorama,
+Spartanburg, SC
+This Canadian thermal decomposition company has
+formed a joint venture with global PET and polyester
+producer Indorama, using carpet as feedstock188 for its
+depolymerization chemical recycling. Announcements dating
+back to 2018 indicated that the Spartanburg facility would be
+up and running by the second half of 2020;189 however, the
+project is still in the engineering phases, with the company
+still trying to finalize a fixed-price construction contract.190
+
+Initial capacity was announced to be fully subscribed by
+fast-moving consumer goods company customers PepsiCo,
+Nestlé, Danone, and Coca-Cola, but interest from other
+customers led the company to decide to expand the facility.191
+The company is also looking for other joint venture partners
+and financing for the Spartanburg location. Indorama remains
+committed, but the project clearly needs additional investors
+to continue, which could be challenging amidst COVID-19–
+related economic downturns.192
+
+In a 2018 press release, PepsiCo touted its intentions to
+incorporate Loop’s PET into its packaging by 2020.193 Delays
+put PepsiCo’s self-imposed 2025 deadline of increasing
+recycled content at risk—a point that is beside the fact that
+chemical recycling is a false solution that companies should
+not be using to meet their plastic reduction commitments.
+
+The total cost of the facility retrofit and expansion is not clear;
+however, Loop and Indorama jointly invested $1 million in
+2018.194 A 2019 investment infusion into Loop totaled $45
+million, intended to cover the costs of construction as well as
+other costs.195
+
+DECEPTION BY THE N UMB ERS  |  20
+
+Millville Plastics, Millville, NJ
+Millville Plastics is a project formed by several investors,
+attempting to retrofit an old glass factory in Millville into
+a plastics recycling plant. While initial descriptions of the
+project suggest this would be mechanical recycling of
+plastic, Millville Plastics’ principal investor, Green EnviroTech
+Holdings,196 appears to only license pyrolysis technology for
+processing a singular feedstock, rubber tires.197 In its 2019
+filings to the U.S. Securities and Exchange Commission, Green
+EnviroTech notes that it is “currently not profitable and may
+never become profitable.”198
+
+Construction of the Millville Plastics project is contingent
+upon a number of permits and resolution of the ownership
+and tax history of the site. There is local opposition to the
+project, and a solar company has also made a bid to develop
+the site.199 The project cost was estimated to be $150 million,
+and moving ahead is contingent on getting Grow New Jersey
+program tax credits to complete its financing. To date, it has
+not gotten those credits.200 This project seems unlikely to
+move forward. No processing capacity has been announced.
+
+Netafim, Fresno, CA
+This irrigation company is a subsidiary of Orbia, formerly
+Mexichem chemical company, which has a partnership with
+Occidental Chemical (Oxy). Orbia appears to source Oxy’s raw
+materials, including ethylene and polyvinyl chloride (PVC)
+materials.201 The company launched a recycling company,
+and received a $2 million grant from CalRecycle to install
+new equipment at an existing facility to process agricultural
+plastic irrigation tubing into new plastic tubing.202 The project
+seems likely to proceed or be operational,203 and the company
+affirmed Netafim’s profitability in a May 2020 investor call.204
+
+New Hope Energy, Tyler, TX
+New Hope Energy, is a provider of pyrolysis technology. In
+2019, it opened a $150 million commercial-scale plastic-to-
+fuel facility in Tyler, Texas.205 The company accepts mostly
+bulk post-industrial and post-consumer plastic, which it
+converts to fuels, naphtha, asphalt, and paraffin. New Hope
+Energy does not make new plastic; rather, it produces and
+markets petrochemical products, particularly marine fuel.206
+The company also sells the patented technology to bolt onto
+existing MRFs, which it describes as “micro-refineries.”207
+
+At full capacity, New Hope Energy estimates 340,000 tons/
+year,208 but it is not clear how the company will collect
+feedstock. At least one load of plastic waste was shipped
+from the Omaha recycling center initially responsible for
+“recycling” the “difficult to process” waste from the Hefty
+
+Energy Bag pyrolysis program.209 A Hawaiian beach cleanup
+nonprofit sent New Hope Energy a donated shipping
+container full of plastic bottle caps gathered and cleaned by
+children.210 There was a fire at the facility in May 2020.211
+
+New Hope Energy is a member of the ACC’s Advanced
+Recycling Alliance for Plastics,212 and the ACC’s Plastics-to-
+Fuel and Petrochemistry Alliance.
+
+Nexus Fuels, Atlanta, GA
+Nexus Fuels is a “waste management and energy production
+company”213 operating a recently opened plastic-to-fuel
+plant in Atlanta. The 50-ton/day pyrolysis plant (18,250 tons/
+year) began commercial production in 2019, using thermal
+decomposition to turn polyethylene (PE) into produce diesel
+and other fuels. Nexus said in January 2020 that it only takes
+post-industrial waste due to “contamination levels” of post-
+consumer waste.214
+
+Shell has received and used Nexus Fuels’ liquid fuel in its
+Norco, Louisiana, refinery, where it manufactures a range
+of fuel products as well as ethylene and propylene.215 Nexus
+Fuels says it has other customers who use its products
+either as repurposed fuel or as feedstock to make plastic;216
+however, it does not disclose those customers. ACC director
+Kieth Christman pointed to Nexus Fuels as one of a few
+plastic-to-fuel companies mentioned in a March 2020
+Congressional hearing on recycling, noting that it sells its fuel
+to Shell.217
+
+North Gateway Transfer Station,
+Phoenix, AZ
+North Gateway Transfer Station is owned by the City of
+Phoenix, and it houses an MRF where recyclables are sorted
+and baled, though not reprocessed on-site. The total cost
+of this was $4.5 million; $3 million was invested by Closed
+Loop Partners, and the City of Phoenix and the City of
+Peoria invested $1.5 million.218 The MRF is operated by a
+subsidiary, Republic Services (ReCommunity).219 Republic
+is one of the largest waste management companies in the
+country, controlling about 20% of landfill capacity,220 with
+approximately $10 billion in revenue in 2019.221
+
+Peninsula Plastics Recycling,
+Turlock, CA
+A subsidiary of Merlin Plastics of Canada, Peninsula Plastics
+Recycling added a 17,000-ton/year expansion to its existing
+PET reprocessing facility, intended to process plastics #1-7
+and improve the existing PET recycling system.222
+
+DECEPTION BY THE N UMB ERS  |  21
+
+PreZero US
+PreZero US is a recycling company which has just opened
+two mechanical recycling facilities in the US in 2020 - in
+California and South Carolina. They are a subsidiary of
+German supermarket chain Schwarz Group. Schwarz owns
+Lidl grocery store which has been expanding in the US, and
+Schwarz acquired California’s Resource Management Group
+(RMG) recycler.223 PreZero US has an operational partnership
+with ACI plastics
+
+The ACC has two PreZero projects on its list.
+
+Riverside, CA
+This new $90 million facility will process plastic film to
+meet California’s SB270 plastic bag recycled content
+requirement. It began operation in June 2020 with
+commissioning, and is likely to be fully operational at the
+time of writing.224 The company will mainly process film
+from retail distribution centers and other large-volume
+suppliers, though not store drop-off.225
+
+Westminster, SC
+PreZero is expanding onto an existing ACI Plastics facility
+to reprocess mixed rigid plastics.226 Initial announcements
+said the facility would be open by mid-year 2020, but the
+company says progress has been delayed by COVID-19–
+related issues.227
+
+PureCycle, Ironton, OH
+PureCycle is constructing a gas solvent chemical recycling
+plant in Ohio. The technology was invented and licensed
+to PureCycle by Procter & Gamble, and is intended to use
+polypropylene (PP) material to make PP polymer. PureCycle’s
+Ohio plant has an expected investment total of $120 million;228
+Closed Loop Partners provided a $3 million loan for the plant.229
+
+PureCycle has received state bond money for the facility.
+For example, the Lawrence County Economic Development
+Corporation and the Southern Ohio Port Authority coordinated
+on $300 million bonds for construction of PureCycle, though
+the Lawrence County Commissioners suggest that bonds will
+be paid by the company, not the taxpayers.230
+
+Several news reports state that this plant is at “the old” or
+“former” Dow site, suggesting perhaps that a former chemical
+plant is being retrofitted into a “recycling” facility; however
+the PureCycle facility appears to be adjacent to or located
+at an existing Americas Styrenics (AmSty) Sty polystyrene
+(PS) plant.231 AmSty is a 50–50 joint venture between
+ChevronPhillips and Trinseo (a former Dow subsidiary, now its
+own company). When the joint venture was formed in 2007,
+Dow allotted the PS plant to AmSty;232 The Dow facility was
+
+announced as decommissioned in 2016,233 at which time Dow
+gave a 101,000-square-foot building to the Lawrence County
+Economic Development Corporation.234 AmSty identifies this
+as an existing (not closed) plant,235 so it appears that Dow
+may have closed part of this parcel, while the existing AmSty
+PS plant continues producing virgin PS. No promotional
+or business materials identify a link between AmSty and
+PureCycle. AmSty does have a chemical recycling joint
+venture with Agilyx, called Regenyx (see below).
+
+Fast-moving consumer goods companies that have already
+signed offtake agreements for PureCycle PP include Nestlé
+and L’Oréal, as well as packaging company Aptar, which
+supplies major FMCGs, and petrochemical giant Total. 236 237 238
+
+The facility is estimated to produce 50,000 tons/year of
+PP.239 Pilot production produced the first PP in September
+2019, and PureCycle estimates commercial scale phase-up
+will start in mid-2021.240 241 PureCycle could expand into
+Europe with agreements from Total and L’Oréal.242 A May
+2020 announcement from investment firm Graf Industrial
+suggested that it may be aiming to acquire PureCycle.243
+
+Quad City Innovations, Livonia, MI
+Quad City Innovations (QCI) has proposed a waste-to-fuel
+facility in Livonia, Michigan. The QCI website markets a range
+of fuels, and a replacement for carbon black.244 In late 2019,
+the Michigan Strategic Fund board gave $60 million in state-
+funded bonds to finance the project—apparently the entire
+amount needed for the project.245 While a site appears to have
+been selected,246 it is not known how far construction has
+progressed or how successful the technology may be. QCI has
+also entered into negotiations for other locations.247
+
+ReFined Plastics, Berks County, PA
+ReFined Plastics was formed in 2015. In 2020, the company
+announced its intention to buy and develop the former Titus
+coal-fired power plant facility to open a pyrolysis plant,
+potentially using waste from an adjacent landfill.248 The
+president and chief technology officer of ReFined Plastics has
+estimated the project will cost $120 million and is seeking
+investors.249 The company received a U.S. Department of
+Commerce grant, with Secretary Wilbur Ross noting that this
+would “invigorate” the area following the 2013 closure of the
+coal-fired power plant.250 ReFined Plastics notes that revenues
+would at least initially come from leasing parcels on the
+facility to industrial tenants.251 It is not clear if the company
+has relevant permits for the project.252 This project seems to
+be in the concept phase only for now, despite public funds;
+however, “pre-order” of processed pellets are available on the
+ReFined Plastics website.253
+
+DECEPTION BY THE N UMB ERS  |  22
+
+Regenyx, Location TBD
+Regenyx is the joint venture between Agilyx and Americas
+Styrenics (AmSty), itself a JV between AmySty plastic
+manufacturer Trinseo (a former Dow subsidiary) and
+ChevronPhillips. Regnyx controls the Tigard, Oregon, facility
+(Agilyx’s only operational plant), though this is often referred
+to in industry news as simply Agilyx’s plant, rather than
+Regenyx. A “west coast” project was mentioned in the initial
+announcement, but this specific project appears to be in the
+concept/announcement stage only.
+
+Agilyx’s proprietary pyrolysis technology is billed as “plastic-
+to-plastic,” producing styrene oil from plastic waste. However,
+recent investigation by GAIA reveals that styrene oil produced
+at Agiylx’s Tigard facility was later burned, rather than
+converted to new polystyrene.254 This raises questions as to
+whether Agiklx’s other facilities would be considered plastic-
+to-fuel. Either way, pyrolysis is problematic.
+
+This project is referenced in the initial October 2019
+announcement about the formation of the joint venture.255
+With no project cost or specific site, this JV appears to be still
+in the concept stage only.
+
+Renewlogy, Phoenix, AZ
+Renew Phoenix is a joint venture between Generated
+Materials Recovery and Renewlogy, the Salt Lake City
+waste-to-fuel company that used pyrolysis to process
+mixed plastic waste collected through the Hefty Energy Bag
+program.256 Renewlogy’s own website states that its thermal
+depolymerization process produces fuel, including naptha,
+noting that the infrastructure (reformer and recracker) emits
+non-condensate gas (10–25%) and char (5%). This facility is
+assumed to be plastic-to-fuel.
+
+The Phoenix project was announced in April 2019, and
+there have been no further announcements. However, the
+Renewlogy facility in Salt Lake City has been shut down since
+January 2019 due to process issues.257
+
+The initial project announcement in early 2019 specified a
+cost of $5 million, and a city-estimated capacity of 3,000–
+4,000 tons/year.258 Renewlogy received a grant from the
+Arizona Commerce Authority in 2017 to study the Phoenix
+project, and is part of a venture partnership with the City of
+Phoenix. 259 Renewlogy is a member of the ACC’s Advanced
+Recycling Alliance for Plastics.260 It also has projects in Asia
+with the Alliance to End Plastic Waste,261 an organization
+promoted by the ACC and composed of ACC petrochemical
+and plastic company members.262 263
+
+Roplast Industries, Oroville, CA
+Roplast Industries manufactures plastic bags. An equipment
+upgrade and expansion (including de-inking) at its existing
+facility will provide an additional 2,500 tons/year of LDPE.264
+The company received a $2.5 million grant from CalRecycle in
+2018/2019.265
+
+Roy Tech Environ, Grant, AL
+Roy Tech Environ is a U.S. subsidiary of Chinese firm Shanghai
+Roylai Metal Products Co. The company was formed in 2015,
+but had previously bought scrap in the U.S. for reprocessing
+in China. Roy Tech announced it would open a $1.6 million
+facility in Grant, Alabama. The U.S. recycling facility appears
+to have begun operations at least as early as 2019. Exports
+of plastic to Singapore and Hong Kong regularly have been
+observed through 2020.266
+
+rPlanet Earth, Vernon, CA
+This new PET bottle mechanical recycling facility began
+operation in 2018. The facility and its equipment had a $100
+million price tag, and the company received at least $37.5
+million in government tax breaks, grants, and loans: $20.5
+million in low-cost debt financing through the U.S. Treasury
+Department’s New Market Tax Credit program, $10 million
+in sales tax breaks via the California Alternative Energy and
+Advanced Transportation Financing Authority, $4 million in
+loans, a $3 million grant from CalRecycle, and a $1.5 million
+loan from Closed Loop Fund.267 The announced capacity is
+40,000 tons/year.268
+
+Sirmax North America, Anderson, IN
+This Italian company, with U.S. headquarters in Indiana,
+produces primarily automotive plastic. This project involves
+a mechanical process to pelletize and process plastic scrap
+and make some recycled-content resin.269 The new facility for
+processing industrial plastic scrap was announced in 2019.
+The site has been purchased, with a start-up planned by the
+end of 2022.270 Construction appeared to be progressing as of
+February 2020.271
+
+The company will spend approximately $18 million, and will
+receive $2 million in public funding, including $1.5 million
+for development of a brownfield site and $650,000 for
+infrastructure, such as a rail spur and utility expansion.272
+
+DECEPTION BY THE N UMB ERS  |  23
+
+Shark Glass Recycling, Victorville, CA
+This Danish-owned company recovers both plastic
+and glass from windshields, sending the polyvinyl butyral
+(PVB) film from the windshields to a facility in Georgia
+to be used as a PVC replacement in carpets and other
+applications. The company (which has existing facilities
+in Los Angeles and Georgia), received a $1.28 million
+grant from CalRecycle in 2018/2019 to build a new facility
+in Victorville, California. The facility is estimated to process
+5,329 tons/year.273 About 8% of an average windshield
+consists of PVB, yielding approximately 430 tons of
+recycled plastic.274
+
+Titus MRF, Portland, OR
+This is a duplicate from the Far West entry (the ACC appears
+to have counted this twice).
+
+Yunnan Zintongi Plastics Engineering
+(UPT Group)
+Yunnan Zintongi Plastics Engineering is a subsidiary of
+Chinese UPT Group. This project was announced in
+September 2018275 to reprocess plastic waste for export
+to Chinese manufacturing firms.276 Since then, there have
+been no further news articles, and the company does not
+
+appear to have a U.S.-facing web presence.
+U.S.–China tariffs have also cancelled
+other planned investments by Chinese
+firms in the southeastern United States.277
+
+A search for state air permits yielded none
+obtained by Yunnan Zintongi.278 The site
+was previously a frozen foods canning
+plant. However, between October 2019
+and June 2020, as observed in customs
+records, there have been three shipments
+from UPT Group in Montezuma, Georgia,
+to Mexico (via truck), and three maritime
+exports of PET pellets to Malaysia. This
+project also appears on a Northeast
+Recycling Council list of recycling projects
+as of February 2020, with a “projected”
+open date of 2019.279
+
+Dow Chemical facility in Freeport, Texas, Dow’s largest integrated site.
+
+© Bob Pearson / Greenpeace
+
+DECEPTION BY THE N UMB ERS  |  24
+
+5. Recommendations
+
+We believe that mechanical recycling is environmentally
+preferable to any of the “chemical recycling” methods.
+However, current U.S. reprocessing capability is so low that
+only PET and HDPE are functionally recyclable, so the role
+of mechanical recycling for plastic waste is very limited.280
+Investments in mechanical recycling should not substitute
+or outpace investments into infrastructure, innovations,
+and alternative business models that ultimately reduce
+plastic production.
+
+American Chemistry Council
+
+The ACC should cease using “advanced recycling” as a
+synonym for “chemical recycling,” and stop promoting
+“chemical” recycling as a solution to the plastic pollution
+issue. The ACC and its plastics and packaging manufacturer
+members should cease distracting and confusing legislators
+and the public with false solutions and bait-and-switch PR
+tactics, and should instead focus on fostering investments in
+reducing the harmful impacts of plastic on Americans’ health
+and environment.
+
+Elected Officials
+
+Elected officials, such as state and federal legislators, who
+take policy action to respond to plastic pollution issues
+should not get distracted by the promises of “advanced” or
+“chemical recycling” technologies. Particularly amidst the
+need for a green and just recovery, federal, state, and local
+governments should not spend limited resources funding
+these technologies without thorough environmental, safety,
+and economic reviews.
+
+Public officials should not consider waste-to-energy, waste-to-
+fuel or plastic-to-fuel projects as energy recycling, and instead
+clarify that this is petrochemical manufacturing (and subject
+to appropriate manufacturing permitting and classification),
+and should consider this part of the fossil fuel industry. They
+should seriously examine the viability of the companies
+and their ability to develop the requisite technology before
+approving taxpayer funds under the guise of “recycling,”
+“sustainability,” or “job creation.”
+
+Public officials should reject demands from petrochemical
+trade associations such as the ACC, or companies associated
+with it or its various umbrella groups, for public subsidies,
+relaxed regulatory consideration, or other special privileges.
+Regulatory clarity should be developed and enforced
+regarding safety and economic considerations for the storage,
+marketing, and disposal of feedstock, marketable products,
+and by-products of these processes, and “closed loop” claims
+by companies promoting their technology should not be
+accepted in lieu of regulation and disclosure.
+
+Local Decision-makers
+
+Public officials responsible for permitting chemical recycling
+projects or allocating economic development funds for
+chemical recycling projects should interrogate “advanced”
+or “chemical recycling” technologies vigorously to determine
+their methods, their environmental impacts, and whether
+they are proven to reduce plastic production (not just divert
+plastic from landfills). Officials should require transparency
+on these technologies’ processes and emissions, and the
+chemicals used and stored for projects seeking public
+financing, tax abatements, or relevant permits, and they must
+make this information available to other decision-makers
+and the public at large. Local decision-makers, like all public
+officials, should require companies seeking public funds or a
+relaxed permitting process to provide evidence of the viability
+of these projects, and the potential for these technologies to
+reduce plastic pollution.
+
+Investors
+
+Investors should support due diligence in ensuring that
+new technologies and facilities do not pose health and
+environmental risks, by driving disclosures and transparency
+of these technologies. Investors should not fund waste-to-
+energy, waste-to-fuel or plastic-to-fuel projects, particularly
+not if portraying them as investments in plastics recycling.
+Investors in the fast-moving consumer goods sector could
+consider giving preference to investment opportunities for
+companies that avoid false solutions in their commitments to
+reduce plastic and instead urgently reduce their use of plastic
+packaging in favor of reuse and refill.
+
+DECEPTION BY THE N UMB ERS  |  25
+
+Fast-Moving Consumer
+Goods Companies
+
+Fast-moving consumer goods companies adopting and
+aiming to meet goals related to reducing plastic packaging
+should not consider “chemical recycling”—and especially
+not waste-to-energy, waste-to-fuel or plastic-to-fuel—as
+valid pathways to meet commitments to plastic reduction.
+FMCGs should not invest in, agree to offtake plastic from, or
+join development consortiums with “chemical recycling”
+
+and petrochemical companies. Companies like Coca-Cola,
+Danone, Mars, Mondeléz, PepsiCo, Procter & Gamble, Nestlé,
+and Unilever need to drop these false solutions entirely and
+focus their investments and efforts on reducing plastic and
+urgently accelerating innovation into reuse. Stakeholders
+such as the Ellen MacArthur Foundation could help to clarify
+how companies should be considered validly meeting
+voluntary agreements like the New Plastics Economy to
+deter use of “chemical recycling” to meet any virgin plastic
+reduction commitments.
+
+Activists hold up letters spelling out the words Break Free From Plastic near the US Capitol in Washington, D.C. U.S. Senator Tom Udall (D-N.M.) and U.S. Representative Alan Lowenthal
+(D-Calif.), have introduced their landmark legislation, the Break Free from Plastic Pollution Act.
+
+© Tim Aubry / Greenpeace
+
+DECEPTION BY THE N UMB ERS  |  26
+
+Endnotes
+
+1
+
+2
+
+3
+
+4
+
+In this report, we attempt to be as specific as possible when describing
+the technologies. “Waste-to-energy” refers to mixed waste treated with
+a variety of methods of energy recovery (e.g., biomass incineration,
+co-incineration in cement kilns, landfill gas recovery). “Waste-to-fuel”
+or “plastic-to-fuel” primarily  generates hydrocarbons, with “plastic-
+to-fuel” describing methods where the feedstock is exclusively plastic.
+However, given the lack of publicly available information on many of the
+technologies associated with specific projects, we at times either use the
+terms together or, when referring to specific projects, use the broader
+“waste-to-fuel” inclusive of all potential feedstocks. Some waste-to-fuel
+or plastic-to-fuel projects may have energy recovery associated with
+them.
+
+See, for example, American Chemistry Council (ACC), “What Are
+Advanced Recycling Technologies and How Should They Be Regulated?”
+https://plastics.americanchemistry.com/advanced-recycling-regulatory-
+guidance.pdf. Accessed August 5, 2020. Also ACC, “What Is Advanced
+Recycling?” https://plastics.americanchemistry.com/what-is-advanced-
+recycling/. Accessed August 5, 2020
+
+ACC. “Innovation and Partnership at the Core of Solving the Plastic
+Waste Problem.” April 21, 2020. https://www.americanchemistry.com/
+Media/PressReleasesTranscripts/ACC-news-releases/Innovation-and-
+Partnership-at-the-Core-of-Solving-the-Plastic-Waste-Problem.html.
+Accessed August 5, 2020.
+
+ACC. “New Investments in Advanced Plastics Recycling in the U.S.’” 2020.
+https://plastics.americanchemistry.com/advanced-recycling-resources/
+investments-in-advanced-recycling-us.pdf. Accessed August 20, 2020.
+
+5  Geyer, R., J. Jambeck, and Kara Lavender Law. “Production, Use, and
+Fate of All Plastics Ever Made.” Science Advances, vol. 3 (2017), no. 7.
+https://advances.sciencemag.org/content/3/7/e1700782.
+
+6
+
+Ellen MacArthur Foundation. ‘The New Plastic Economy:
+Rethinking the Future of Plastics,” page 26. Jan. 19, 2016.
+https://www.ellenmacarthurfoundation.org/assets/downloads/
+EllenMacArthurFoundation_TheNewPlasticsEconomy_Pages.pdf.
+
+7  U.S. Environmental Protection Agency (EPA). “National Overview: Facts
+
+and Figures about Materials, Wastes and Recycling.” https://www.epa.
+gov/facts-and-figures-about-materials-waste-and-recycling/national-
+overview-facts-and-figures-materials#Recycling/Composting. Accessed
+July 13, 2020. Note that the most recent data available are generated
+from 2017 ACC data.
+
+13
+
+‘Commercial scale’ is generally accepted to be 300-400 tons per day,
+while demonstration plants are generally 100-150 tons per day. See, for
+example, SloanVazquez LLC and Clements Environmental “Waste Stream
+Study & Waste Conversion Technologies Review.” Prepared for the City
+of Fort Collins, January 2012  https://www.fcgov.com/recycling/pdf/fort-
+collins-wsa-ct-report-final-draft-with-appx.pdf?1340300350
+
+14  Global Initiative for Incinerator Alternatives (GAIA). All Talk and No
+
+Recycling: An Investigation of the U.S, “Chemical Recycling” Industry.
+July 2020. https://www.no-burn.org/wp-content/uploads/All-Talk-and-
+No-Recycling_July-28.pdfbriefing.
+
+15  Rollinson and Oladejo. Chemical Recycling: Status, Sustainability, and
+
+Environmental Impacts.
+
+16  GAIA. “Chemical Recycling: Distraction, Not Solution.” June 2020. https://
+www.no-burn.org/wp-content/uploads/CR-Briefing_June-2020.pdf.
+
+17
+
+Ibid.
+
+18  Rollinson and Oladejo. Chemical Recycling: Status, Sustainability,and
+
+Environmental Impacts.
+
+19  ACC. “U.S. Chemicals Trade by the Numbers.” June 2020. https://www.
+americanchemistry.com/Policy/Trade/US-Chemicals-Trade-by-the-
+Numbers.pdf. Accessed July 13, 2020.
+
+20  Greenpeace US. “Carbon Capture and Storage: A Corporate Boondoggle
+That Shortchanges Environment, Consumers, Says New Greenpeace
+Report.” July 6, 2010. https://www.greenpeace.org/usa/news/carbon-
+capture-and-storage-a/.
+
+21  Staub, Colin. “Federal Effort Supports Energy-Efficient Recycling Tech.”
+Resource Recycling. December 4, 2019. https://resource-recycling.com/
+plastics/2019/12/04/federal-effort-supports-energy-efficient-recycling-
+tech/.
+
+22  U.S. Department of Energy (DOE). “Department of Energy Announces
+
+$25 Million for Plastics Recycling R&D, Launches Upcycling Consortium.”
+March 16, 2020. https://www.energy.gov/articles/department-energy-
+announces-25-million-plastics-recycling-rd-launches-upcycling-
+consortium.
+
+23  “Closing the Loop: Emerging Technologies in Plastics Recycling.”
+
+Hearing before the House Subcommittee on Research and Technology
+(Committee on Science, Space, and Technology). Apr. 30, 2019. https://
+science.house.gov/hearings/closing-the-loop-emerging-technologies-in-
+plastics-recycling.
+
+8  Greenpeace US. “Circular Claims Fall Flat.” Jan. 2020. https://www.
+
+24  U.S. Congress. “Realizing the Economic Opportunities and Value of
+
+greenpeace.org/usa/wp-content/uploads/2020/02/Greenpeace-Report-
+Circular-Claims-Fall-Flat.pdf.
+
+9
+
+Ellen MacArthur Foundation. The New Plastics Economy Global
+Commitment 2019 Progress Report. Oct. 2019. https://www.
+newplasticseconomy.org/assets/doc/Global-Commitment-2019-
+Progress-Report.pdf.
+
+10  Rollinson, A. and J. Oladejo. Chemical Recycling: Status, Sustainability,
+and Environmental Impacts. Global Alliance for Incinerator Alternatives.
+2020. https://www.no-burn.org/wp-content/uploads/CR-Technical-
+Assessment_June-2020.pdf.
+
+11  Tullo, A.H. “Should Plastics Be a Source of Energy?” Chemical
+
+Engineering News. Sept. 24, 2018, vol. 96, no. 38. https://cen.acs.org/
+environment/sustainability/Should-plastics-source-energy/96/i38.
+
+12  ACC. “What Are Advanced Recycling Technologies and How Should They
+
+Be Regulated?”
+
+Expanding Recycling Act” (“RECOVER Act”). H.R. 5115, 116th Congress
+(2019–2020). https://www.congress.gov/116/bills/hr5115/BILLS-
+116hr5115ih.pdf.
+
+25  Letter submitted to Nancy Pelso et al. from American Chemistry Council
+et al. Apr. 16, 2020. Retrieved from https://www.documentcloud.org/
+documents/6877535-RECOVER-Coalition-Letter.html.
+
+26  U.S. Congress. “Plastic Waste Reduction and Recycling Act.” H.R.7228,
+116th Congress. June 15, 2020. https://www.congress.gov/bill/116th-
+congress/house-bill/7228?s=1&r=3.
+
+27
+
+ Stevens, Haley. “Stevens Introduces Bipartisan Legislation to Reduce
+Plastic Waste.” June 16, 2020. https://stevens.house.gov/media/press-
+releases/stevens-introduces-bipartisan-legislation-reduce-plastic-waste.
+Accessed August 5, 2020.
+
+DECEPTION BY THE N UMB ERS  |  27
+
+28  Straub, Colin. “Federal Lawmakers Launch Plastics Recycling Task Force.”
+Plastics Recycling Update. Dec. 11, 2019. https://resource-recycling.com/
+plastics/2019/12/11/federal-lawmakers-launch-plastics-recycling-task-
+force/.
+
+29  Lemonick, Sam. “Chemistry May Have Solutions to Our Plastic Trash
+
+Problem.” Chemical & Engineering News. June 15, 2018, vol. 96, no. 25.
+https://cen.acs.org/environment/pollution/Chemistry-solutions-plastic-
+trash-problem/96/i25.
+
+30  See, for example, PureCycleTechnologies, “PureCycle Technologies
+Partners with Millikin, Nestlé to Accelerate Revolutionary Plastics
+Recycling,” Mar. 13, 2019. https://purecycletech.com/2019/03/
+purecycle-technologies-partners-with-milliken-nestle-to-accelerate-
+revolutionary-plastics-recycling/. Also Nestlé, “Nestlé Accelerates Action
+to Tackle Plastic Waste,” Jan. 15, 2019. https://www.nestle.com/media/
+pressreleases/allpressreleases/nestle-action-tackle-plastic-waste.
+
+46  We do note that Brightmark’s announced projects had a range of $500
+
+million to $1 billion each for up to 10 plants. Unable to determine which
+range or number of plants the ACC estimated for this list, we estimated
+only one Brightmark plant in our analysis. We acknowledge this is a
+conservative estimate, though it is unclear if even the ACC views these
+projects as viable, given that Brightmark’s potential investment figures
+do not seem to be fully incorporated into the ACC’s total investment
+claims.
+
+47  Republic Services. 2019 Summary Annual Report. 2020. https://
+
+investor.republicservices.com/static-files/032aa1b1-81cc-4bb8-b5c1-
+000d6e8e361e.
+
+48  We noted in each company profile whether we derived this from an
+
+announcement or estimate. For CarbonLite in Reading, PA, the company
+had an estimated range for capacity; while we noted the range in the
+table, for the purposes of totaling, we used a midpoint.
+
+31  Closed Loop Partners. Accelerating Circular Supply Chains for Plastics:
+
+49  EPA. “Plastics: Material-Specific Data.” https://www.epa.gov/facts-and-
+
+A Landscape of Transformational Technologies That Stop Plastic Waste,
+Keep Materials in Play and Grow Markets, page 16. 2019. http://www.
+closedlooppartners.com/wp-content/uploads/2019/04/CLP_Circular_
+Supply_Chains_for_Plastics.pdf.
+
+32
+
+Ibid.
+
+33  Unilever. “Unilever to Pioneer Breakthrough Food Packaging Technology
+
+Together with Ioniqa & Indorama Ventures.” Apr. 4 2018. https://
+www.unilever.com/news/press-releases/2018/unilever-to-pioneer-
+breakthrough-food-packaging-technology-together-with-ioniqa-and-
+indorama-ventures.html.
+
+figures-about-materials-waste-and-recycling/plastics-material-specific-
+data.
+
+50  Aemerge RedPak. “Aemerge RedPak Opens First-of-Its-Kind Medical
+
+Waste Treatment Center, in Hesperia, California.” Dec. 6, 2017. https://
+www.prnewswire.com/news-releases/aemerge-redpak-opens-first-of-its-
+kind-medical-waste-treatment-center-in-hesperia-california-300567293.
+html.
+
+51  California Pollution Control Financing Authority. “Minutes.” July 23, 2019.
+https://www.treasurer.ca.gov/cpcfa/meeting/2019/20190723/minutes.
+pdf.
+
+34  Plastics News Europe. “Cross-Industry Consortium to Study Plastic
+
+52  Staub, Colin. “Plastics Recovery Efforts Receive Millions in State Funding.”
+
+Chemical Recycling in France.” Dec. 10, 2019 https://www.plasticsnews.
+com/news/cross-industry-consortium-study-plastic-chemical-recycling-
+france.
+
+Resource Recycling. May 21, 2019. https://resource-recycling.com/
+recycling/2019/05/21/plastics-recovery-efforts-receive-millions-in-state-
+funding/.
+
+35  Closed Loop Partners. Accelerating Circular Supply Chains for Plastics.
+
+53  Closed Loop Partners. Accelerating Circular Supply Chains for Plastics.
+
+36  Closed Loop Partners “Fortune 500 Brands & Corporate Foundations
+
+54  GAIA. All Talk and No Recycling, page 16.
+
+Extend Over $54 Million in Capital Commitments with Closed Loop
+Partners.” June 30, 2020. https://www.closedlooppartners.com/fortune-
+500-brands-corporate-foundations-extend-over-54-million-in-capital-
+commitments-with-closed-loop-partners/.
+
+37  Paben, Jared. “Recycling Startups Ink Deals with Virgin Plastics Makers.”
+Plastics Recycling Update. May 4, 2018. https://resource-recycling.com/
+plastics/2018/05/04/recycling-startups-ink-deals-with-virgin-plastics-
+makers/.
+
+38  ACC. “Advanced Recycling Alliance for Plastics.” https://plastics.
+
+americanchemistry.com/Advanced-Recycling-Alliance-for-Plastics.html.
+
+39  Jambeck, J.R., et a.l. “Plastic Waste Inputs from Land into the Ocean.’
+
+Science. Feb. 3 2015, vol 347, no. 6223. https://science.sciencemag.org/
+content/347/6223/768.full.
+
+40  PlasticsEurope. Plastics—The Facts 2018. 2018. https://www.
+
+plasticseurope.org/application/files/6315/4510/9658/Plastics_the_
+facts_2018_AF_web.pdf.
+
+41  Ellen MacArthur Foundation. “The New Plastics Economy: Rethinking the
+
+Future of Plastics,” page 18.
+
+42  The ACC had one project listed twice under different names; we removed
+
+the duplicate, yielding a total of 51 projects.
+
+43  Zero Waste Europe. El Dorado of Chemical Recycling: State of Play and
+Policy Challenges. Aug. 2019. https://zerowasteeurope.eu/wp-content/
+uploads/edd/2019/08/2019_08_29_zwe_study_chemical_recycling.pdf.
+
+44  GAIA. “Waste Gasification & Pyrolysis: High Risk, Low Yield Processes
+for Waste Management.” Mar. 2017. https://www.no-burn.org/report-
+reveals-billions-wasted-on-gasification-over-30-years-of-failures/.
+
+45  We acknowledge that this information may be publicly available and just
+
+not found via our search methods.
+
+55  ACC. “Advanced Recycling Alliance for Plastics.”
+
+56  Agilyx. “INEOS Styrolution and Agilyx Advance Polystyrene Chemical
+Recycling Plant in Channahon, Illinois.” Dec. 9, 2019. https://www.
+prnewswire.com/news-releases/ineos-styrolution-and-agilyx-advance-
+polystyrene-chemical-recycling-plant-in-channahon-illinois-300971066.
+html.
+
+57  GAIA. All Talk and No Recycling, page 16.
+
+58  Smalley, Marge. “A Partnership Centered on Polystyrene Recycling.”
+
+Recycling Today. June 22, 2020. https://www.recyclingtoday.com/article/
+ineos-agilyx-partnership-polystyrene-recycling-facility-chicago/.
+
+59  Agilyx. “INEOS Styrolution and Agilyx Advance Polystyrene Chemical
+
+Recycling Plant in Channahon, Illinois.”
+
+60  Agilyx. “Agilyx Enters into Collaboration with Monroe Energy to Produce
+Lower-Carbon Crude Oil for Jet Fuel Production.” PR Newswire. Nov. 15,
+2018. https://www.agilyx.com/newsroom/agilyx-enters-collaboration-
+monroe-energy-produce-lower-carbon-crude-oil-jet-fuel-production.
+
+61  See, for example, Sanicola, Laura. “Delta Airlines Exploring ‘All Options’
+
+for Trainer Refinery.” Reuters. July 14, 2020. https://www.reuters.com/
+article/us-delta-airlines-trainer/delta-airlines-exploring-all-options-for-
+trainer-refinery-idUSKCN24F24V.
+
+62  Aquafil Global. “Who We Are.” http://www.aquafil.com. Accessed July 28,
+
+2020.
+
+63  Closed Loop Partners. Accelerating Circular Supply Chains for Plastics,
+
+page 22.
+
+64  Wiles, Russ. “This Phoenix Recycling Plant Is Where Old Carpet Goes to
+Get New Life.” Dec. 19, 2018. https://www.aquafil.com/localnews/this-
+phoenix-recycling-plant-is-where-old-carpet-goes-to-get-new-life/.
+
+DECEPTION BY THE N UMB ERS  |  28
+
+65  Paben, Jared. “Q&A: How Facility Will Recover Nylon 6 from Carpet.”
+Plastics Recycling Update. Sept. 29, 2017. https://resource-recycling.
+com/plastics/2017/09/29/qa-facility-will-recover-nylon-6-carpet/.
+
+66  Goldsberry, Clare. “Italian Company Opens First U.S. Carpet Recycling
+
+Recycling Facility in Phoenix.” Plastics Today. Nov. 15, 2017. https://www.
+plasticstoday.com/recycling/italian-company-opens-first-us-carpet-
+recycling-facility-phoenix.
+
+67  Aquafil Global. “Where We Are.” https://www.aquafil.com/where-we-are/
+
+usa/. Accessed July 28, 2020
+
+68  Closed Loop Partners. Accelerating Circular Supply Chains for Plastics.
+
+69  Goldsberry. “Italian Company Opens First U.S. Carpet Recycling Facility
+
+in Phoenix.”.
+
+70  Paben, Jared. “Q&A: How Facility Will Recover Nylon 6 from Carpet.”
+Plastics Recycling Update. Sept. 29, 2017. https://resource-recycling.
+com/plastics/2017/09/29/qa-facility-will-recover-nylon-6-carpet/.
+
+71  Staub, Colin. “Avangard to Build Three $30 Million Film Facilities Next
+Year.” Plastics Recycling Update. Sept. 11, 2019. https://resource-
+recycling.com/plastics/2019/09/11/avangard-to-build-three-30-million-
+film-facilities-next-year/.
+
+72  Waste 360. “Dow, Avangard Innovative to Advance Plastic Circularity.”
+Feb. 10, 2020. https://www.waste360.com/plastics/dow-avangard-
+innovative-advance-plastic-circularity.
+
+73  Paben, Jared. “Avangard Details Its Upcoming PCR Projects.” Plastics
+Recycling Update. Feb. 5, 2020. https://resource-recycling.com/
+plastics/2020/02/05/avangard-details-its-upcoming-pcr-projects/.
+
+74  Staub. “Avangard to Build Three $30 Million Film Facilities Next Year.”
+
+75  Staub, Colin. “US and Canada to Add Major Processing Capacity.”
+
+Plastics Recycling Update. Jan. 29, 2020. https://resource-recycling.
+com/plastics/2020/01/29/us-and-canada-to-add-major-processing-
+capacity/#:~:text=The%20North%20American%20plastics%20
+recycling%20sector%20is%20poised,America%2C%20including%20
+both%20new%20facilities%20and%20plant%20expansions.
+
+76  Staub. “Avangard to Build Three $30 Million Film Facilities Next Year.”
+
+77  Paben. “Avangard Details Its Upcoming PCR Projects.”
+
+88  Staub, Colin. “The Plan to Strengthen Recycling on the Ground in Texas.”
+Resource Recycling. Jan. 28, 2020. https://resource-recycling.com/
+recycling/2020/01/28/the-plan-to-strengthen-recycling-on-the-ground-
+in-texas/.
+
+89  Closed Loop Partners. Building the Circular Economy: Closed
+Loop Partners 2019 Impact Report. 2020. https://www.
+closedlooppartners.com/wp-content/uploads/2020/02/Closed-
+Loop-Partners-2019-Impact-Report-1.pdf?utm_campaign=June%20
+Newsletter&utm_medium=email&_hsmi=90503138&_hsenc=p2ANqtz-
+87Xi9bJQH6bppQfhgsPlR_jezn5alW1naEEkdbp3nDDWRj4Xc7BmbB
+VN9tE65mjqgLFMlmhJMLdE0DMPNwnjXF223MSiGI6SIm-1cXSbzzm-
+ECn4c&utm_content=90503138&utm_source=hs_email.
+
+90
+
+Ibid., page 30.
+
+91  Berry Global Group, Inc. “Berry Global and Georgia Pacific Team Up to
+Facilitate the Collection and Repurpose of Post-Consumer Materials.”
+Businesswire. Jan. 30, 2020. http://ir.berryglobal.com/news-releases/
+news-release-details/berry-global-and-georgia-pacific-team-facilitate-
+collection-and.
+
+92  Paben, Jared. “Berry Global to Process Film Bales at Texas Plant.”
+
+Plastics Recycling Update. Feb. 5, 2020. https://resource-recycling.com/
+plastics/2020/02/05/berry-global-to-process-film-bales-at-texas-plant/.
+
+93  Solid Waste Recycling. “Berry Global and Georgia-Pacific Collaborating
+on Resin Lifecycle.” Feb. 13, 2020. https://www.solidwastemag.com/
+circular-economy/berry-global-and-georgia-pacific-collaborating-on-
+resin-lifecycle/1003283351/.
+
+94  Berry Global Group, Inc. “Berry Global and Georgia Pacific Team Up to
+
+Facilitate the Collection and Repurpose of Post-Consumer Materials.”
+
+95  Note that this campus was the site of a mysterious brain cancer cluster
+
+in the late 1980s and early 1990s among researchers in BP’s chemical
+business. The building has since been demolished, and some acres of the
+campus have been sold.
+
+96  BP. “BP’s New Technology to Enable Circularity for Unrecyclable PET
+
+Plastic Waste.” Oct. 24, 2019. https://www.bp.com/en/global/corporate/
+news-and-insights/press-releases/bp-new-technology-to-enable-
+circularity-for-unrecyclable-pet-plastic-waste.html.
+
+78  Staub. “Avangard to Build Three $30 Million Film Facilities Next Year.”
+
+97
+
+Ibid.
+
+79  Staub. “US and Canada to Add Major Processing Capacity.”
+
+80  Staub. “Avangard to Build Three $30 Million Film Facilities Next Year.”
+
+81  The facility is identifiable on Google maps. Search performed July 2020.
+
+82  Huffenberger, Gary. “TimberTech Recycling Plant in Wilmington to
+
+Help Turn Waste into a Thing of Beauty.” News Journal. Apr. 24, 2019.
+https://www.wnewsj.com/news/103360/timbertech-recycling-plant-in-
+wilmington-to-help-turn-waste-into-a-thing-of-beauty.
+
+83  Paben, Jared. “AZEK Discloses Plastics Recycling Details.” Plastics
+Recycling Update. June 17, 2020. https://resource-recycling.com/
+plastics/2020/06/17/azek-discloses-plastics-recycling-details/.
+
+84  Kavanaugh, Catherine, “Azek Opens $25 Million Recycling Plant,” Plastics
+News, Apr. 24, 2019, https://www.plasticsnews.com/article/20190424/
+NEWS/190429964/azek-opens-25m-recycling-plant. Also Huffenberger,
+“TimberTech Recycling Plant in Wilmington to Help Turn Waste into a
+Thing of Beauty.”
+
+85  Kavanaugh. “Azek Opens $25 Million Recycling Plant.”
+
+86  Paben, Jared. “What New Ownership Means for Balcones Resources.”
+Resource Recycling. Oct. 8, 2019. https://resource-recycling.com/
+recycling/2019/10/08/what-new-ownership-means-for-balcones-
+resources/.
+
+87  Paben, Jared. “Facility Focus: Balcones Resources. Resource Recycling.
+Feb. 14, 2020. https://resource-recycling.com/recycling/2020/02/14/
+facility-focus-balcones-resources/.
+
+98  Estimated using a typical range of pilot plants, as well as the pilot plant
+capacity for Agilyx. See Plastics Technology, “Plastics-to-Oil Recycler
+Finds New Niche in Polystyrene,” Apr. 27, 2018, https://www.ptonline.
+com/articles/plastics-to-oil-recycler-finds-new-niche-in-polystyrene.
+
+99  Qureshi, Waqas. “Unilever, Britvic and Danone Work with BP on rPET.”
+
+Packaging News. Dec. 19, 2019. https://www.packagingnews.co.uk/top-
+story/unilever-drinks-giants-bp-pet-recycle-19-12-2019.
+
+100  Based on previous supply chain research, as of 2016.
+
+101  Unilever. “Unilever Chairman Announcement.” Nov. 13, 2019. https://
+www.unilever.com/news/press-releases/2019/unilever-chairman-
+announcement.html.
+
+102  ACC. “Advanced Recycling Alliance for Plastics.”
+
+103  Business Wire. “Brightmark Closes $260M in Financing for Nation’s First
+Commercial-Scale Plastics-to-Fuel Plant.” Apr. 11, 2019. https://www.
+businesswire.com/news/home/20190411005170/en/Brightmark-Energy-
+Closes-260M-Financing-Nation%E2%80%99s-Commercial-Scale.
+
+104  Ibid.
+
+105  GAIA. All Talk and No Recycling, page 20.
+
+106  Ibid., page 21.
+
+107  U.S. Economic Development Administration. “U.S. Department of
+Commerce Invests $1.2 Million to Provide Critical Water and Sewer
+Infrastructure to Serve Businesses in Ashley, Indiana.” Apr. 7, 2020.
+https://www.eda.gov/news/press-releases/2020/04/07/ashley-in.htm.
+
+DECEPTION BY THE N UMB ERS  |  29
+
+108  GAIA. All Talk and No Recycling, page 20.
+
+123  South Carolina Department of Commerce. “SC Recycling Market
+
+109  Rinker, Brian. “HQ2 for Recycling? S.F. Company Invites Cities to Apply for
+Up to $1B Recycling Plants.” San Francisco Business Times. Nov. 7, 2019.
+https://www.bizjournals.com/sanfrancisco/news/2019/11/07/hq2-for-
+recycling-s-f-company-invites-cities-to.html.
+
+Development.” https://cdn.ymaws.com/www.ameripen.org/resource/
+resmgr/2019annualmeeting/State_Perspectives_Panel_-_R.pdf.
+
+124  Staub. “US and Canada to Add Major Processing Capacity.”
+
+125  South Carolina Department of Commerce. “SC Recycling Market
+
+110  Nestlé Waters. “Nestlé Waters North America Signs Agreement with
+
+Development.”
+
+Recycled PET Supplier CarbonLITE.” Nov. 15, 2018. https://www.nestle-
+watersna.com/en/nestle-water-news/pressreleases/nestle-waters-
+carbonlite-rpet-agreement.
+
+111  Vasil, Jim. “CarbonLITE to Add 130 Jobs; 2nd Facility Also Possible.”
+
+WFMZ-TV 69 News. Jan. 16, 2020. https://www.wfmz.com/news/area/
+berks/carbonlite-to-add-130-jobs-2nd-facility-also-possible/article_
+bfad1e88-38a9-11ea-a091-ef9ee6174117.html.
+
+112  CarbonLITE Recycling. “CarbonLITR Opens New Facility & rings 100+
+
+Jobs.” http://www.carbonliterecycling.com/carbonlite-opens-new-
+facility-brings-100-jobs/.
+
+113  A January 2020 list published by Northeast Recycling Council (NERC)
+
+and Northeast Waste Management Officials Association (NEWMOA)
+Regional Recycling Markets Committee estimated 75,000 tons/year,
+but an October 2019 announcement suggested capacity would be
+42,500. For calculations of processing capacity, we used a midpoint.
+See NERC and NEWMOA, “North American Recycled Plastic Processing
+Capacity Increases—New Report Published,” Feb. 2020, https://nerc.
+org/documents/North%20American%20Recycled%20Plastic%20
+Processing%20Capacity%20Increases%20-%20January%202020.pdf.
+And Staub, Colin, “Upcoming CarbonLite Operation Is Company’s Largest
+Yet,” Plastics Recycling Update, Oct. 20, 2019, https://resource-recycling.
+com/plastics/2019/10/30/upcoming-carbonlite-operation-is-companys-
+largest-yet/.
+
+114  Toto, DeAnne. “CarbonLite to Build PET Recycling Plant in Dallas.”
+
+Recycling Today. Jan. 11, 2018. https://www.recyclingtoday.com/article/
+carbonlite-dallas-pet-recycling-plant-feature-amut-equipment/.
+
+115  Ibid.
+
+116  Ibid.
+
+117  East-Terra Plastics. http://east-terra.com/index.html. Accessed July 13,
+
+2020.
+
+118  Smalley, Megan. “East-Terra Plastics Expands to New Site.”Recycling
+Today. Sept. 20, 2018. https://www.recyclingtoday.com/article/east-
+terra-plastics-expands-operations/.
+
+119  Hansen, Bob. “Connersville-based East-Terra Plastics Is Receiving
+
+40 Semi Loads of Child Safety Seats Six Days a Week for
+Recycling.” Connorsville News-Examiner. Oct. 23, 2019. https://
+indianaeconomicdigest.com/Content/Most-Recent/Fayette/Article/
+Connersville-based-East-Terra-Plastics-is-receiving-40-semi-loads-of-
+child-safety-seats-six-days-a-week-for-recycling/31/174/97782.
+
+120  East-Terra Plastics. “About Us.” http://east-terra.com/. Accessed July 13,
+
+2020.
+
+121  Wren, David. “Trade Concerns, While Unspoken, Still Weigh Heavily on
+
+SC-China Relationship.” The Post and Courier. Sept. 20, 2018. https://
+www.postandcourier.com/business/trade-concerns-while-unspoken-
+still-weigh-heavily-on-sc-china/article_b38241e2-bb4b-11e8-a417-
+afb40a3bc89a.html.
+
+122  The Central SC Alliance (CSCA). “Ecomelida Launching Its First North
+
+American Operations in Orangeburg County.” Mar. 8, 2019. https://www.
+centralsc.org/news/ecomelida-launching-its-first-north-american-
+operations-in-orangeburg-county#:~:text=Ecomelida%20launching%20
+its%20first%20North%20American%20operations%20in,its%20first%20
+North%20American%20operations%20in%20Orangeburg%20County.
+
+126  CSCA. “Ecomelida Launching Its First North American Operations in
+
+Orangeburg County.”
+
+127  Wren. “Trade Concerns, While Unspoken, Still Weigh Heavily on SC-China
+
+Relationship.”
+
+128  South Carolina Department of Health and Environmental Control (DHEC).
+https://epermweb.dhec.sc.gov/ncore/external/publicnotice/search.
+Search performed July 13, 2020. No permit information found.
+
+129  Boteler, Cody. “Chinese-Owned Firm to OpenCarton Recycling
+
+Facility in South Carolina.” WasteDive. Mar. 21, 2018. https://www.
+wastedive.com/news/Ecomelida-open-carton-recycling-facility-south-
+carolina/519501855/.
+
+130  Siegel, R.P. “Eastman Advances Two Chemical Recycling Options.”
+
+GreenBiz. Aug. 7, 2019. https://www.greenbiz.com/article/eastman-
+advances-two-chemical-recycling-option.
+
+131  Eastman. “Eastman to Recycle Discarded Carpet into New Materials.“
+
+Nov. 5, 2019. https://www.eastman.com/Company/News_Center/2019/
+Pages/Eastman-to-recycle-discarded-carpet-into-new-materials.aspx.
+
+132  Paben, Jared. “Carpet Producers to End Voluntary Recycling Subsidies.”
+
+Resource Recycling. May 5, 2020. https://resource-recycling.com/
+recycling/2020/05/05/carpet-producers-to-end-voluntary-recycling-
+subsidies/.
+
+133  Siegel. “Eastman Advances Two Chemical Recycling Options.”
+
+134  Nexstar Broadcasting. “Eastman’s Chemical Recycling Technology Begins
+Commercial Operation.” Oct. 23, 2019. https://www.wjhl.com/news/
+local/eastmans-chemical-recycling-technology-begins-commercial-
+operation/.
+
+135  Staub, Colin. “Here’s a Domestic Outlet Hungry for 3-7 Plastics.”
+
+Resource Recycling. Feb. 12, 2019. https://resource-recycling.com/
+recycling/2019/02/12/heres-a-domestic-outlet-hungry-for-3-7-plastics/.
+
+136  Denne, Luke. “Coronavirus Pandemic Threatens to Undo Progress on
+
+Plastic Pollution.” NBC News. May 5, 2020. https://www.nbcnews.com/
+science/environment/coronavirus-pandemic-threatens-undo-progress-
+plastic-pollution-n1207231.
+
+137  Staub. “Here’s a Domestic Outlet Hungry for 3-7 Plastics.”
+
+138  NERC and NEWMOA Regional Recycling Markets Committee. “North
+American Recycled Plastic Processing Capacity Increases—New
+Report Published.” Feb. 2020. https://nerc.org/documents/North%20
+American%20Recycled%20Plastic%20Processing%20Capacity%20
+Increases%20-%20January%202020.pdf.
+
+139  Staub, Colin. “Pause on Bag Law Is a Hit to Some Recyclers.” Plastics
+Recycling Update. Apr. 29, 2020. https://resource-recycling.com/
+plastics/2020/04/29/pause-on-bag-law-is-a-hit-to-some-recyclers/.
+
+140  Staub, Colin. “California Reinstates Bag Ban and PCR Requirements.”
+Plastics Recycling Update. June. 24, 2020. https://resource-recycling.
+com/plastics/2020/06/24/california-reinstates-bag-ban-and-pcr-
+requirements/.
+
+141  In our table, for ease of reading, we attributed 15,000 tons/year to each of
+
+EFS’s facilities. However, we do not know the actual capacity per facility,
+though the distribution is unrelated to our tabulation of processing
+capacity.
+
+DECEPTION BY THE N UMB ERS  |  30
+
+142  NERC and NEWMOA. “North American Recycled Plastic Processing
+
+161  MorganStanley.”Using Green Bonds to Turn Garbage into Jet Fuel.”
+
+Capacity Increases.”
+
+143  CalRecycle. “California Boosts Recycling Infrastructure to Curb
+
+Plastic and Glass Waste.” May 7, 2019. https://www.calrecycle.ca.gov/
+NewsRoom/2019/05may/13/.
+
+144  Ibid.
+
+145  Ibid.
+
+146  Plastics Industry Association. “Pacific Northwest Recycling Project
+Releases Results from 60-Day Pilot.” Nov. 21, 2019. https://www.
+plasticsindustry.org/article/pacific-northwest-recycling-project-releases-
+results-60-day-pilot.
+
+147   FCC. Type V Municipal Solid Waste Processing Facility Registration with
+
+the Texas Commision on Environmental Quality, http://fccenvironmental.
+com/files/TCEQ/Part_I_with_check.pdf. Accessed July 15, 2020.
+
+148  Rosengren, Cole. “FCC Environmental Officially Kicks Off Houston
+
+Recycling Contract.” WasteDive. Apr. 8, 2019. https://www.wastedive.
+com/news/fcc-environmental-houston-recycling-contract/552207/.
+
+149  Rosengren, Cole. “FCC Environmental Moving to Houston after Long-
+Awaited $37M Contract Win.” WasteDive. Jan. 11, 2019. https://www.
+wastedive.com/news/fcc-environmental-moving-to-houston-after-long-
+awaited-37m-contract-win/514546/.
+
+150  CalRecycle. “California Boosts Recycling Infrastructure to Curb Plastic
+
+and Glass Waste.”
+
+151  McCaffrey, Zach, Leonard Torres, Delliah Wood, and William Orts.
+
+https://www.morganstanley.com/ideas/fixed-income-finances-fulcrum-
+bioenergy.
+
+162  Fulcrum Bioenergy. “Sierra Biofuels Plant Bright Future.” http://fulcrum-
+
+bioenergy.com/facilities/.
+
+163  Goldberg, Tec. “Shutdown of Marathon’s Martinez Refinery Prompts Calls
+for ‘Just Transition’ for Oil Workers.” KQED. Aug. 3, 2020. https://www.
+kqed.org/news/11831607/shutdown-of-marathons-martinez-refinery-
+prompts-calls-for-just-transition-for-oil-workers.
+
+164  Rosengren. “BP Invests $30M in Company Making Jet Biofuel from
+
+Waste.”
+
+165  Toto, DeAnne. “Taking the Next Step.” Recycling Today. Apr. 10, 2018.
+https://www.recyclingtoday.com/article/gdb-international-plastic-
+recycling-profile/.
+
+166  Johnson, Jim. “Recyclers Invest in US Processing in Wake of National
+Sword.” Plastics News. Mar. 14, 2019. https://www.plasticsnews.com/
+article/20190314/NEWS/190312228/recyclers-invest-in-us-processing-in-
+wake-of-national-sword.
+
+167  NERC. “‘North American Recycled Plastic Processing Capacity Increases.”
+
+168  Toto. “Taking the Next Step.”
+
+169  Toloken, Steve. “Plastic Recyclers Say Suspending California Bag Ban
+‘Evaporated’ Film Market.” Plastics News. June 11, 2020. https://www.
+plasticsnews.com/news/plastic-recyclers-say-suspending-california-bag-
+ban-evaporated-film-market.
+
+“Sustainable Plastics from Agricultural Coproducts: Seven Things to
+Know.” Plastics Today. Oct. 24, 2019. https://www.plasticstoday.com/
+packaging/sustainable-plastics-agricultural-coproducts-seven-things-
+know.
+
+170  Staub, Colin. “Chinese Company to Open South Carolina Recycling
+Facility.” Plastics Recycling Update. Sept. 12, 2018. https://resource-
+recycling.com/e-scrap/2018/09/13/chinese-company-to-open-south-
+carolina-recycling-facility/.
+
+152  CalRecycle. “California Boosts Recycling Infrastructure to Curb Plastic
+
+171  Ibid.
+
+and Glass Waste.”
+
+153  Rosengren, Cole. “BP Invests $30M in Company Making Jet Biofuel from
+Waste.” WasteDive. Nov. 9, 2016. https://www.wastedive.com/news/bp-
+invests-30m-in-company-making-jet-biofuel-from-waste/430005/.
+
+154  BP. Growing the Business and Advancing the Energy Transition. BP
+Annual Report and Form 20-F, page 46. 2018. https://www.bp.com/
+content/dam/bp/business-sites/en/global/corporate/pdfs/investors/bp-
+annual-report-and-form-20f-2018.pdf.
+
+155  Fulcrum Bioenergy. “Fulcrum Targets Northwest Indiana for the Location
+of Its Nest Waste-to-Fuel Plant.” Dec. 13, 2018. http://fulcrum-bioenergy.
+com/wp-content/uploads/2018/12/2018-12-13-Fulcrum-Centerpoint-
+Announcement-FINAL.pdf.
+
+156  McAdams, Michael. “One Person’s Trash Is the Biofuel Industry’s
+
+Treasure.” RealClear Energy. May 11, 2020. https://www.realclearenergy.
+org/articles/2020/05/11/one_persons_trash_is_the_biofuel_industrys_
+treasure_491324.html.
+
+157  Hertzberg, Richie. “How to Turn Household Trash into Jet Fuel.” The
+
+Hill. Dec. 3, 2019. https://thehill.com/changing-america/sustainability/
+energy/472588-how-to-turn-household-trash-into-jet-fuel.
+
+158  Pete, Joseph S., and Lauren Cross. “Latest Trash-to-Fuel Project Promises
+to Invest $600 Million and Hire 160 in Gary.” nwi.com. Dec. 20, 2019.
+https://www.nwitimes.com/business/local/latest-trash-to-fuel-project-
+promises-to-invest-600-million-and-hire-160-in-gary/article_26de4afc-
+b71d-529e-ae25-f34797a509d8.html.
+
+159  Brown, Alex. “$600M Waste-to-Fuel Plant Coming to Gary.” Inside Indiana
+
+Business. Dec. 13, 2018. https://www.insideindianabusiness.com/
+story/39636900/600m-waste-to-fuel-plant-coming-to-gary.
+
+160  Levinthal, Dave. “Congress Packed Budget with Special Breaks for
+
+Washington Insiders.” The Center for Public Integrity. Mar. 13, 2018.
+https://apps.publicintegrity.org/tax-breaks-the-favored-few/.
+
+172  South Carolina Department of Commerce. “Green Tech Solution, Inc
+
+Launching New Cherokee County Operations. Recycling Plant to Create
+Approximately 200 Jobs.” Sept. 6, 2018. https://www.sccommerce.
+com/news/green-tech-solution-inc-launching-new-cherokee-county-
+operations.
+
+173  LoopNet. “210 Henson Rd.: 150,000 SF of Industrial Space Available in
+Blacksburg, SC.” https://www.loopnet.com/Listing/210-Henson-Rd-
+Blacksburg-SC/19090044/.
+
+174  South Carolina Department of Commerce. “Green Tech Solution, Inc
+
+Launching New Cherokee County Operations.”
+
+175  Green Tech Solution. “About Us.” https://greentechsolutioninc.com/.
+
+Accessed July 13, 2020.
+
+176  NERC and NEWMOA. “North American Recycled Plastic Processing
+
+Capacity Increases.”
+
+177  Karadis, Arlene. “GreenMantra Forges New Plastics Market via Chemical
+Recycling.” Waste 360. Aug. 24, 2020. https://www.waste360.com/
+recycling/greenmantra-forges-new-plastics-markets-chemical-recycling.
+
+178  Closed Loop Partners. Accelerating Circular Supply Chains for Plastics.
+
+179  Karadis. “GreenMantra Forges New Plastics Market via Chemical
+
+Recycling.”
+
+180  ACC. “Advanced Recycling Alliance for Plastics.”
+
+181  GreenMantra Technologies. “Closed Loop to Invest up to $3 Million in
+
+GreenMantraTM Technologies.” June 26, 2017. https://www.prnewswire.
+com/news-releases/closed-loop-fund-to-invest-up-to-3-million-in-
+greenmantra-technologies-300494427.html.
+
+182  Sloan, Erin. “Thermoformer Inline Plastics Turns to Chemical Recycling.”
+Plastics News. Mar. 12, 2020. https://www.plasticsnews.com/news/
+thermoformer-inline-plastics-turns-chemical-recycling.
+
+DECEPTION BY THE N UMB ERS  |  31
+
+183  Inline Plastics. “Inline Plastics—First USA Manufacturer to Infuse
+All Produces with Post Consumer Content Derived from Chemical
+Recycling.” Mar. 12, 2020. https://www.perishablenews.com/produce/
+inline-plastics-first-usa-manufacturer-to-infuse-all-products-with-post-
+consumer-content-derived-from-chemical-recycling/.
+
+184  Park, Emily. “Inline Plastics to Infuse All Packaging with Chemically
+Recycled Material.” Bake. Mar. 5, 2020. https://www.bakemag.com/
+articles/13147-inline-plastics-to-infuse-all-packaging-with-chemically-
+recycled-material.
+
+185  Smalley, Megan. “J.P. Mascaro & Sons Adds Township to Flexible
+
+Packaging Recycling Program.” Waste Today. Dec. 30, 2019. https://www.
+wastetodaymagazine.com/article/jp-mascaro-fpp-recycling-pottstown/.
+
+186  Staub, Colin. “The Takeaways from Over a Year of Flexible Film Sortation.”
+Plastics Recycling Update. June 17, 2020. https://resource-recycling.
+com/plastics/2020/06/17/the-takeaways-from-over-a-year-of-flexible-
+film-sortation/.
+
+187  Smalley. “J.P. Mascaro & Sons Adds Township to Flexible Packaging
+
+Recycling Program.”
+
+188  Helm, Darius. “Recycling Update: Despite Long Odds, Carpet Recycling
+Is on the Brink of Viability.” Floor Daily. Aug. 30, 2020. https://www.
+floordaily.net/floorfocus/recycling-update-despite-long-odds-carpet-
+recycling-is-on-the-brink-of-viability-augsep-.
+
+189  Loop Industries, Inc. “Securities and Exchange Commission
+
+Edgar Filing.” July 8, 2019. http://filings.irdirect.net/
+data/1504678/000165495419008030/lp_10q.pdf.
+
+190  Loop Industries, Inc. “Loop Industries Reports Third Quarter
+
+Consolidated Financial Results of Fiscal 2020 and Provides Updates on
+Business Developments.” Jan. 9, 2020. https://www.sec.gov/Archives/
+edgar/data/1504678/000165495420007693/loop_ex991.htm.
+
+191  Loop Industries, Inc. “Securities and Exchange Commission Edgar Filing.”
+
+192  Loop Industries, Inc. “Loop Industries Reports Third Quarter
+
+Consolidated Financial Results of Fiscal 2020 and Provides Updates on
+Business Developments.”
+
+193  Loop Industries, Inc. “Pepsico and Loop Industries Sign Multi-Year Supply
+Agreement for Boop Branded 100% Sustainable Plastic.” Oct. 10, 2018.
+https://www.loopindustries.com/en/article/pepsico.
+
+194  Paben, Jared. “Facility to Depolymerize up to 88M Pounds of PET
+
+Annually.” Plastics Recycling Update. Oct. 16, 2019. https://resource-
+recycling.com/plastics/2019/10/16/facility-to-depolymerize-up-to-88m-
+pounds-of-pet-annually/.
+
+201  Orbia Advanced Corporation. Quarterly Earning Transcript. May 18,
+
+2020. https://finance.yahoo.com/news/edited-transcript-mexchem-mx-
+earnings-042803982.html.
+
+202  CalRecycle. “California Boosts Recycling Infrastructure to Curb Plastic
+
+and Glass Waste.”
+
+203  Netafim USA. “ReGen Recycling Program Available to California
+
+Agricultural Growers and Dealers Only.” https://www.netafimusa.com/
+recycling/program-guidelines/.
+
+204  Orbia Advanced Corporation. “Quarterly Earnings Transcript.” May 18,
+
+2020. https://finance.yahoo.com/news/edited-transcript-mexchem-mx-
+earnings-042803982.html.
+
+205  New Hope Energy. “Trinity Oaks Tyler Plant Operational.” July 16, 2019.
+
+https://newhopeenergy.com/news/f/trinity-oaks-tyler-plant-operational.
+
+206  New Hope Energy. “About Us.” https://newhopeenergy.com/about-us.
+
+Accessed July 13, 2020.
+
+207  Sustainable Packaging Coalition. “Johnny Combs.” https://
+
+sustainablepackaging.org/people/johnny-combs/. Accessed July 13,
+2020.
+
+208  New Hope Energy. “Trinity Oaks Tyler Plant Operational.”
+
+209  Lerner, Sharon. “Waste Only: How the Plastic Industry Is Fighting to Keep
+Polluting the World.” The Intercept. July 20, 2019. https://theintercept.
+com/2019/07/20/plastics-industry-plastic-recycling/.
+
+210  Caulfield, Claire. “Are We Doomed? What Can We Do with All Our
+
+Unrecyclable Plastic?” Civil Beat. Apr. 6, 2020. https://www.civilbeat.
+org/2020/04/what-can-we-do-with-all-our-unrecyclable-plastic/.
+
+211  Roy, Reagan. “Officials Investigating after Fire Breaks Out at Tyler Plastics
+Plant.” CBS19. May 12, 2020. https://www.cbs19.tv/article/news/local/
+officials-investigating-after-fire-breaks-out-at-tyler-plastics-plant/501-
+1ef6227f-d020-43cb-a6fe-37c0540de298.
+
+212  ACC. “Advanced Recycling Alliance for Plastics.”
+
+213  Nexus Fuels. “About Us.” https://www.nexusfuels.com/. Accessed July 13,
+
+2020.
+
+214  Moore, Stephen. “Shell Uses Plastic Waste to Produce Resin Feedstocks.”
+
+Plastics Today. Jan. 21, 2020. https://www.plasticstoday.com/
+sustainability/shell-uses-plastic-waste-produce-resin-feedstocks.
+
+215  Shell. “Shell Uses Plastic Waste to Produce Chemicals.” Nov. 21,
+
+2019. https://www.shell.com/business-customers/chemicals/media-
+releases/2019-media-releases/shell-uses-plastic-waste-to-produce-
+chemicals.html.
+
+195  Loop Industries. “Loop Industries Announces Capital Infusion to Finance
+
+216  Nexus Fuels. “Accomplishments.” https://www.nexusfuels.com/.
+
+Next Phase of Growth Strategy.” May 29, 2019. https://www.bloomberg.
+com/press-releases/2019-05-29/loop-industries-announces-capital-
+infusion-to-finance-next-phase-of-growth-strategy.
+
+196  Brandt, Mickey. “Millville Plastics Plan Divides Commission.” SNJ Today.
+
+Oct. 23, 2019. https://snjtoday.com/2019/10/23/millville-plastics-plan-
+divides-commission/.
+
+Accessed August 3, 2020.
+
+217  House of Representatives, Subcommittee on Environment and Climate
+Change, Committee on Energy and Commerce. “Hearing on ‘Reduce,
+Recycle, Reform: Addressing America’s Plastic Waste Crisis.’” Mar. 4, 2020.
+https://www.congress.gov/116/meeting/house/110639/documents/
+HHRG-116-IF18-Transcript-20200304.pdf.
+
+197  Green EnviroTech Holdings. http://greenenvirotech.com/. Accessed July
+
+218  Staub, Colin. “More MRFs Upgrade to Survive Market Shifts.”
+
+13, 2020.
+
+198  Green EnviroTech Holdings. Form 10-K. Apr. 18, 2019.
+Retrieved from https://www.sec.gov/Archives/edgar/
+data/1428765/000149315219005576/form10-k.htm.
+
+199  Brandt, “Millville Plastics Plan Divides Commission.” Also, Smith, Joseph,
+“Millville Offered $100,000 to Sell Former Wheaton Glass Property,”
+Daily Journal, Mar. 22, 2019, https://www.thedailyjournal.com/story/
+news/2019/03/22/new-jersey-millville-synergy-plastics-wheaton-glass-
+durst-trumbo-commission-memorandum/3245941002/.
+
+200  Ibid.
+
+Resource Recycling. Feb. 26, 2019. https://resource-recycling.com/
+recycling/2019/02/26/more-mrfs-upgrade-to-survive-market-shifts/.
+
+219  Ibid.
+
+220  Rosengren, Cole. “Public Companies Increased Control of $74B US Waste
+Industry in 2018.” WasteDive. June 4, 2019. https://www.wastedive.com/
+news/public-companies-increased-control-of-74b-us-waste-industry-
+in-2018/556079/.
+
+221  MarketWatch. “Annual Financials for Republic Services Inc.”
+
+222  CalRecycle. “Local Economies Get Green Boost.” Jan. 25, 2019. https://
+
+www.calrecycle.ca.gov/NewsRoom/2019/01jan/04.
+
+DECEPTION BY THE N UMB ERS  |  32
+
+223  Toloken, Steve. “PreZero, ACI Have $90M Vision for Hard-to-Recycle
+
+Plastics.” Plastics News. May 20, 2020. https://www.plasticsnews.com/
+news/prezero-aci-have-90m-vision-hard-recycle-plastics.
+
+243  Toloken, Steve. “Total, PureCycle Explore European Factory.” Plastics
+News. May 19, 2020. https://www.plasticsnews.com/news/total-
+purecycle-explore-european-factory.
+
+224  Staub, Colin. “PreZero Starts Up California Film Recycling Operation.”
+Plastics Recycling Update. July 1, 2020. https://resource-recycling.
+com/plastics/2020/07/01/prezero-starts-up-california-film-recycling-
+operation/.
+
+225  Staub, Colin. “Mixed Rigids and Film Recycling Sites to Open Next Year.”
+Plastics Recycling Update. Nov.13, 2019. https://resource-recycling.com/
+plastics/2019/11/13/mixed-rigids-and-film-recycling-sites-to-open-next-
+year/.  Sourcing was clarified via correspondence with company.
+
+226  Toloken. “PreZero, ACI Have $90M Vision for Hard-to-Recycle Plastics.”
+
+227  Ibid.
+
+228  Staub. “Mixed Rigids and Film Recycling Sites to Open Next Year.”
+
+229  Paben, Jared. “PureCycle PP Recycling Project Gets $3 Million Boost.”
+
+Plastics Recycling Update. June 13, 2018. https://resource-recycling.
+com/plastics/2018/06/13/purecycle-pp-recycling-project-gets-3-million-
+boost/.
+
+230  Harrison, Heath. “SOPA to Issue Bonds to Build PureCycle Factories.
+
+Ironton Tribune. June 28, 2020. https://www.irontontribune.
+com/2020/06/28/sopa-to-issue-bonds-to-build-purecycle-factory/.
+
+231  Based on Google Street view search of PureCycle address. Search
+
+performed Aug. 2020.
+
+232  Chevron Phillips Chemical. “Americas Styrenics LLC Began Operations
+May 1, 2008.” May 2, 2008. https://www.cpchem.com/media-events/
+news/news-release/americas-styrenics-llc-began-operations-
+may-1-2008.
+
+233  Lewis, Frank. “Dow Chemical Haverhill Closing.” Portsmouth Daily Times.
+
+Aug. 4, 2016. https://www.portsmouth-dailytimes.com/news/9667/dow-
+chemical-haverhill-closing.
+
+234  PureCycle Technologies. “PureCycle Cuts Ribbon on New Development.”
+July 21, 2017. https://purecycletech.com/2017/07/purecycle-cuts-
+ribbon-on-new-development/.
+
+244  QCI. “Our Products.” https://www.qcillc.com/products. Accessed August
+
+6, 2020.
+
+245  Nagl, Kurt. “Plastic Waste Processor Plans $60 Million Plant, 150 Jobs
+in Livonia.” Crain’s Detroit Business. Sept. 24, 2019. https://www.
+crainsdetroit.com/economic-development/plastic-waste-processor-
+plans-60-million-plant-150-jobs-livonia.
+
+246  Ibid. A Google Maps location search shows a warehouse facility with
+
+signage associated with QCI. Retrieved August 6, 2020.
+
+247  Shannon, Chris. “Proposed Cape Breton Container Terminal Logistics
+
+Park Has First ‘Green’ Tenant.” The Chronicle Herald. Oct. 7, 2019. https://
+www.thechronicleherald.ca/business/regional-business/proposed-cape-
+breton-container-terminal-logistics-park-has-first-green-tenant-360941/.
+
+248  Scheid, Lisa. “King of Prussia Inventor Envisions New Life for Former
+
+Berks Coal Generating Plant.” Reading Eagle. June 27, 2020. https://www.
+readingeagle.com/news/local/king-of-prussia-inventor-envisions-new-
+life-for-former-berks-coal-generating-plant/article_6b3c7b82-acb7-11ea-
+b5d6-8b43900849e3.html.
+
+249  Ibid.
+
+250  Barrett, Axel. “Movement in US Chemical Recycling.” Bioplastics News.
+Mar. 31, 2020. https://bioplasticsnews.com/2020/03/31/movement-us-
+chemical-recycling/.
+
+251  DigiMax Global Solutions. “DigiMax Adds Titus Station as Active Client.”
+Mar. 30, 2020. https://finance.yahoo.com/news/digimax-adds-titus-
+station-active-134500991.html.
+
+252  Pennsylvania Government EFacts portal: https://www.ahs.dep.pa.gov/
+eFACTSWeb/criteria_facility.aspx. Search performed July 13, 2020. No
+permit information found.
+
+253  Refined Plastics LLC. http://www.refinedplastics.com/. Accessed July 15,
+
+2020.
+
+254  GAIA. All Talk and No Recycling.
+
+235  AmSty. “List of Manufacturing Sites.” https://amsty.com/amsty/contact.
+
+255  AmSty and Agilyx. “AmSty and Agilyx Launch Joint Venture,
+
+Accessed Aug. 6, 2020.
+
+236  PureCycle Technologies. “News.” https://purecycletech.com/news/.
+
+237  PureCycle Technologies. “PureCycle Technologies Signed an Agreement
+
+with L’Oréal for the Supply of Ultra-Pure Recycled Polypropylene.” July
+18, 2019. https://purecycletech.com/2019/07/purecycle-technologies-
+signed-agreement-with-loreal-for-the-supply-of-ultra-pure-recycled-
+polypropylene/.
+
+238  Total. “Plastic Recycling: Total and PureCycle Technologies Form a
+Strategic Partnership.” May 19, 2020. https://www.total.com/media/
+news/actualites/plastic-recycling-total-and-purecycle-technologies-
+form-strategic-partnership.
+
+239  Closed Loop Partners. Building the Circular Economy. Closed
+
+Loop Partners 2019 Impact Report. 2020, page 44. https://www.
+closedlooppartners.com/impact/.
+
+240  PureCycle Technologies. “Plastics Recycler to Lease Former Dow Site
+
+in Lawrence Co.” July 21, 2017. https://purecycletech.com/2017/07/
+plastics-recycler-to-lease-former-dow-site-in-lawrence-co/.
+
+241  Shaffer, Mark. “Port Authority Approves Bond for PureCycle: Company to
+Use Funds to Build Recycling Unit.” Ironton Tribune. Aug. 9, 2019. https://
+www.irontontribune.com/2019/08/09/port-authority-approves-bond-for-
+purecycle-company-to-use-funds-to-build-recycling-unit/.
+
+Regenyx LLC.” Apr. 30, 2019. https://www.businesswire.com/news/
+home/20190430005768/en/AmSty-Agilyx-Launch-Joint-Venture-Regenyx-
+LLC.
+
+256  Toto, DeAnne. “Phoenix Announces Partnership to Convert Nos.
+
+3-7 Plastics into Fuel.” Recycling Today. Apr. 4, 2019. https://www.
+recyclingtoday.com/article/renew-phoenix-3-7-plastics-to-fuel/.
+
+257  Pyzyk, Katie. “Boise, Idaho Temporarily Sending EnergyBag Plastics
+to Cement Manufacturing Facility.” WasteDive. May 27, 2020. https://
+www.wastedive.com/news/boise-plastics-recycling-renewlogy-
+energybag/574256/.
+
+258  Pyzyk, Katie. “Phoenix Awards Contract to Renewlogy for Chemical
+
+Recycling Project.” WasteDive. Apr. 5, 2019. https://www.wastedive.com/
+news/phoenix-awards-contract-to-renewlogy-for-chemical-recycling-
+project/552055/.
+
+259  Staub, Colin. “Renewlogy Gets Nod for Phoenix Mixed-Plastics Program.”
+Plastics Recycling Update. Feb. 13, 2019. https://resource-recycling.com/
+plastics/2019/02/13/renewlogy-gets-nod-for-phoenix-mixed-plastics-
+program/.
+
+260  ACC. “Advanced Recycling Alliance for Plastics.”
+
+261  CLosed Loop Partners. Accelerating Circular Supply Chains for Plastics,
+
+page 78.
+
+242  PureCycle Technologies. “PureCycle Technologies Signed an Agreement
+with L’Oréal for the Supply of Ultra-Pure Recycled Polypropylene.”
+
+262  ACC. “ACC Members Contributions to Vibrant Oceans.” https://www.
+americanchemistry.com/Sustainability/Vibrant-Oceans-Study.html.
+
+DECEPTION BY THE N UMB ERS  |  33
+
+263  Russell, Steve. “Ocean Plastics: Industry-led Initiatives to End Plastic
+Waste.” 2019 SPE International Polyolefins Conference. https://
+na.eventscloud.com/eselectv2/backendfileapi/download/358894?id=db6
+1c96c654174acc32219ff1f9a62af-MjAxOS0wMiM1YzVjNGM1NTY5MDI0.
+
+264  Staub, Colin. “Recycling Efforts Receive Millions in State Funding.”
+
+Plastics Recycling Update. May 15, 2019. https://resource-recycling.com/
+plastics/2019/05/15/recycling-efforts-receive-millions-in-state-funding/.
+
+265  CalRecycle. “California Boosts Recycling Infrastructure to Curb Plastic
+
+and Glass Waste.”
+
+266  Based on exports records search in Panjiva.com, performed on July 16,
+
+2020.
+
+267  Paben, Jared. “Facility Focus: rPlanet Earth.” Resource Recycling. Aug.
+23, 2019. https://resource-recycling.com/recycling/2019/08/23/facility-
+focus-rplanet-earth/.
+
+272  Esposito. “Sirmax to Build US Recycling Plant in Indiana.”
+
+273  CalRecycle. “California Boosts Recycling Infrastructure to Curb Plastic
+
+and Glass Waste.”
+
+274  De La Cruz, Rene Ray. “Shark Solutions Moves Into High Desert.” Daily
+Press. June 15, 2019. https://www.vvdailypress.com/news/20190615/
+shark-solutions-moves-into-high-desert.
+
+275  Sandoval, Dan. “Chinese Plastics Company to Open Recycling Facility in
+Georgia.” Recycling Today. Oct. 10, 2018. https://www.recyclingtoday.
+com/article/upt-group-plastic-recycling-macon-georgia-china/.
+
+276  DPL Surveillance Equipment. “Chinese Firms Snap Up U.S. Sites to
+Process Scrap (#GotBitcoin?).” https://dpl-surveillance-equipment.
+com/miscellaneous/chinese-firms-snap-up-u-s-sites-to-process-scrap-
+gotbitcoin.
+
+277  Wren Dwren. “Trade Concerns, While Unspoken, Still Weigh Heavily on
+
+268  Ibid.
+
+SC-China Relationship.”
+
+269  Esposito, Frank. “Sirmax to Build US Recycling Plant in Indiana.” Plastics
+News. July 30, 2019. https://www.plasticsnews.com/news/sirmax-build-
+us-recycling-plant-indiana.
+
+270  Ibid.
+
+271  de la Bastide, Ken. “Bid Date Set for Rail Spurs to New Factory.” The
+
+Herald Bulletin. Feb. 25, 2020. https://www.heraldbulletin.com/business/
+bid-date-set-for-rail-spurs-to-new-factory/article_54f356be-5804-11ea-
+b388-03a24a92ffd2.html.
+
+278  Search was performed for air permits in the state of Georgia database on
+July 13, 2020. Georgia Department of Natural Resources, Environmental
+Protection Division, https://geos.epd.georgia.gov/GA/GEOS/Public/
+GovEnt/Shared/Pages/Main/Login.aspx.
+
+279  NERC. “‘North American Recycled Plastic Processing Capacity Increases.”
+
+280  Greenpeace US. “Circular Claims Fall Flat.”
+
+DECEPTION BY THE NUMBERS
+
+SEPTEMBER 9, 2020
+
+© Julie Dermansky / Greenpeace
+

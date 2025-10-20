@@ -1,0 +1,160 @@
+Fukushima nuclear crisis timeline
+
+February 2012
+
+_____________________________________________________________________
+
+March 2011
+
+11 March a magnitude 9.0 earthquake strikes off the east coast of Japan. A large tsunami follows. External power is lost
+at the Fukushima Daiichi nuclear power plant; back-up generators also go down. Without power, cooling systems fail.
+Within days, three of the plant’s reactors experience meltdown, and hydrogen explosions destroy the reactor buildings.
+
+12 March Japan declares a 20km evacuation zone around the Fukushima Daiichi plant, displacing tens of thousands of
+residents. The government later expands the zone to other highly contaminated areas, leading to the eventual evacuation
+of 150,000 people.
+
+23 March new analysis prepared for Greenpeace by a nuclear safety expert shows that enough radioactivity was released
+into the atmosphere to rank at Level 7 on the International Nuclear Event Scale (INES). This is the scale’s highest level,
+and equal to the 1986 Chernobyl nuclear disaster. Despite clear facts and INES criteria, TEPCO – the operator of the
+Fukushima nuclear plant –  only upgrades its ranking at this time from Level 4 to Level 5 scale of accident.
+
+26 March Greenpeace specialists begin independent measurements of radiation in the contaminated region and
+immediately find radiation levels high enough to require evacuation in several locations to the northwest of the crisis-
+stricken Fukushima Daiichi nuclear plant, including Iitate village, 40km from the plant and 20km beyond the official
+evacuation zone. Although the Japanese government rejects these findings, experts of IAEA confirm the need for
+evacuation two days later.
+
+April 2011
+
+TEPCO admits that radioactive water from Fukushima reactor #2 is leaking into the ocean from a crack in the
+maintenance pit near the reactor. In addition, TEPCO intentionally dumps 11,500 tonnes of radioactive water into the sea,
+ignoring protests from other nations and its own fisheries industry. Measurements show levels of radioactive iodine-131in
+seawater at 7.5 million times the legal limit.
+
+4 April Greenpeace expands its radiation team operating in Fukushima prefecture. Based on more detailed findings,
+Greenpeace calls for an expanded evacuation zone, and urges the evacuation of pregnant women and children from high-
+risk areas.
+
+6 April Greenpeace radiation experts begin food testing and find radiation levels above official limits in vegetables
+collected from gardens near Fukushima City, Koriyama and Minamisoma, and from a supermarket in Fukushima City.
+In the meantime, Japan announces it will raise the allowable radiation levels for children to 20 times higher than the
+internationally recognised and legal limit of 1 millisievert a year.
+
+12 April Japan finally and officially rates the disaster at Level 7 on the INES scale, a decision Greenpeace calls ‘woefully late’.
+
+22 April the government finally concedes that radiation levels remain too high in Iitate and other contaminated areas, and
+urges residents to evacuate – one month after Greenpeace’s demand to widen the evacuation zone.
+
+May 2011
+
+TEPCO finally admits that the meltdown began in reactor #1 within five hours after loss of power, and also occurred in
+reactors #2 and #3.
+
+Greenpeace’s flagship Rainbow Warrior arrives in Japan. Greenpeace urges the Japanese authorities to undertake
+comprehensive radiation testing of seaweed along the Fukushima coast, after it carries out the first marine radiation
+monitoring. Initial tests by Greenpeace register significantly high levels of radioactive contamination, far beyond allowable
+limits for food consumption.
+
+June 2011
+
+NISA, Japan’s nuclear regulator, announces that radiation releases of radioactive isotopes of iodine and caesium from the
+accident are more than double what they originally stated: 770,000 terabecquerels, up from 370,000 terabecquerels if
+iodine-131 equivalent.
+
+Greenpeace radiation experts find very high levels of contamination in the backyards of Fukushima City schools and
+kindergartens, as well as on access roads that children use. Radiation levels at a public playground actively used by
+families and kids reach 9.5 microsieverts an hour, and a hotspot next to a public school reads 45 microsieverts an hour,
+even after decontamination efforts.
+
+Greenpeace again calls the government to secure better monitoring, to provide better information and protection of
+people, and to give support to highly vulnerable members of the community – such as children and pregnant women –
+to allow them to voluntarily evacuate from highly contaminated places.
+
+July 2011
+
+Over the course of this month, numerous scandals reveal which power companies tried to directly influence the outcome
+of town hall meetings designed to determine public support for nuclear power. Later, revelations show that local and
+national government figures were involved in the scandals.
+
+Prime Minister Kan calls for a nuclear-free Japan. Under pressure, he later says this is his personal view and not government policy. Kan is
+eventually pushed out and replaced by Yoshihiko Noda, who is considerably more pro-nuclear.
+
+Reports surface that the Nuclear Safety Commission noted the possibility of a power loss to nuclear plants, including Fukushima Daiichi, as far
+back as the 1990s, but downplayed the risk.
+
+Japan bans cattle shipments from Fukushima after cows eat contaminated straw. Over the next month, this affects thousands of cattle from
+prefectures around the nation. The beef industry is decimated, affecting farmers nationwide.
+
+Nuclear Minister Goshi Hosono says that the government will move to lift some of the evacuation zones. Greenpeace responds, arguing that the
+situation at the Fukushima nuclear plant is not under control and supplies of uncontaminated food remain in jeopardy.
+
+August 2011
+
+Japan’s Foreign Minister announces that, as a result of the beef crisis, Japan can no longer vouch for the safety of the food it exports. In a
+related discovery, radioactive rice – a staple of the Japanese diet – is found.
+
+The outgoing NISA chief says that nuclear regulation in Japan is inadequate and admits that he knew that a meltdown was possible on 11 March.
+
+Greenpeace calls on the Prime Minister to delay the opening of schools in Fukushima City after finding radiation dose rates again exceeding
+international safety standards at several schools and many public areas in the city.
+The findings, released shortly before schools were to restart, indicate that schools should not re-open until properly decontaminated.
+
+September 2011
+
+Scientists at the Japan Atomic Energy Agency (JAEA) report that the disaster may have released more than three times as much radiation into
+nearby ocean waters as initially reported by TEPCO: up to 15,000 terabecquerels of iodine-131 and cesium-137. TEPCO only reported 4,720
+terabecquerels.
+
+Hydrogen is discovered in pipes at reactor #1, but TEPCO insists that there is no risk of explosion ‘in the immediate future.’
+
+October 2011
+
+The Japan Nuclear Energy Safety Organisation (JNES) reveals that NISA officials secretly acknowledged the possibility of full nuclear meltdown
+on 25 March – at the same time that both NISA and TEPCO were only saying that the reactors were ‘slightly damaged’.
+
+For the first time, Japan admits that decommissioning the Fukushima reactors will take more than 30 years, a figure later amended to 40 years.
+In May, TEPCO said the plant would only be shut down for six to nine months.
+
+TEPCO announces the discovery of xenon-133 and -135 in reactor #2, a sign that criticality and possible nuclear fission are occurring. The utility
+later retracts its statement and blames the discovery on spontaneous fission. The incident highlights the instability of the reactors, as well as
+TEPCO’s lack of information about their current state.
+
+November 2011
+
+Japan’s largest retailer, AEON, announces that it is moving to zero radiation contamination of its food products after Greenpeace’s campaign
+focusing, in particular, on seafood.
+
+December 2011
+
+TEPCO releases an interim report, saying that its employees made no errors in the handling of the nuclear disaster. Meanwhile, a government
+panel publishes a highly critical report, charging that both TEPCO and NISA directly contributed to the nuclear crisis.
+
+Prime Minister Noda announces that ‘cold shutdown’ of the Fukushima reactors has been achieved. The milestone is symbolic and political,
+designed to adhere to a schedule announced in September by Nuclear Crisis Minister Goshi Hosono and to allay public fears. Members of
+Noda’s own party call the declaration ‘a fiction’.
+
+Nine months after the triple meltdown at the Fukushima Daiichi nuclear plant, Greenpeace finds radioactive hotspots and signs that the official
+decontamination programme is both uncoordinated and thoroughly inadequate.
+
+January 2012
+
+Japan announces it is considering nationalising TEPCO.
+
+In spite of the increased risk of earthquakes, Japan’s nuclear industry continues to push nuclear power. Meanwhile, scientists from the
+University of Tokyo report that there is a 70% chance that a magnitude 7.0 earthquake will hit the Tokyo region, home to 12.9 million people, in
+the next four years. The chance of a similar quake hitting the same area within the next 30 years is 98%.
+
+Over 90% of Japan’s reactors are offline. Only three of 54 reactors are operating and no significant problems with the electricity supply are evident.
+
+For more information, contact:
+enquiries@greenpeace.org
+
+Greenpeace International
+Ottho Heldringstraat 5
+1066 AZ  Amsterdam
+The Netherlands
+Tel: +31 20 7182000
+
+greenpeace.org
+

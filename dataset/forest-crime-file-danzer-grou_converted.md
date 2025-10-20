@@ -1,0 +1,1044 @@
+Forest Crime File
+
+January 2005
+
+Danzer Group involved in bribery,
+illegal logging, dealings with
+blacklisted arms trafficker and
+suspected of forgery
+
+2nd Edition
+updated
+
+Western lowland gorillas occur in Danzer’s IFO concession in Congo-Brazzaville. Industrial logging increases the illegal
+bush meat trade which is driving the Great Apes such as the gorilla towards extinction. © Daniel Beltra / Greenpeace
+
+Danzer Group still under investigation
+In 2004, Swiss Attorney General began a formal investigation into companies of the
+Danzer Group, as well as individuals, based on two complaints filed by Greenpeace
+Switzerland. The cases were previously documented in earlier versions of this report:
+1) bribery of foreign public officials, and; 2) suspected forgery.
+
+On 21 December 2004, the Attorney General ordered the closure of the preliminary
+investigation into the alleged bribery of foreign public officials. All official documents,
+including the aforementioned decision, were handed over to the public prosecutor’s office
+in the Canton District of Zug, Switzerland. The suspected forgery complaint still remains
+to be investigated by the competent authorities in the Canton of Zug. The documents
+submitted support the suspicion that employees of a Danzer Group company were
+involved in the forgery of official government certificates.
+
+Greenpeace has not yet been given the grounds upon which the Attorney General
+closed the preliminary investigation into the alleged bribery of foreign public officials.
+Greenpeace only filed the complaint and therefore does not enjoy the rights of a party
+in the legal proceedings. Danzer Group has so far refused to provide Greenpeace with a
+copy of the Attorney General’s decision. Furthermore, the Danzer Group has not given
+a satisfactory explanation of the evidence put forward by Greenpeace in its reports. The
+complaints to the Attorney General by Greenpeace, in particular with regards to the
+activities as described in the travel report written by one of the directors of the Danzer
+Group, remains unexplained.
+
+“If there is any threat
+of a fine, so-called
+conditioned cases, he is
+prepared to take care of
+this by giving a gift.”
+
+R. Giger, one of the two
+
+executive directors of
+
+Interholco AG, on bribery in
+
+relation to IFO, Republic of
+
+Congo, April 2003
+
+1
+
+Greenpeace International
+
+Ottho Heldringstraat 5, 1066 AZ Amsterdam, The Netherlands
+) +31 20 523 62 22
+
+www.greenpeace.org
+
+Forest Crime File
+
+January 2005
+
+Danzer Group involved in bribery, illegal logging, dealings with blacklisted arms trafficker and suspected of forgery
+
+Greenpeace will continue to closely scrutinise the activities of the Danzer Group. As a
+leading timber company Danzer Group should only be involved in the supply of legal and
+sustainable timber, as it claims to be in its reports.1
+
+What is the Danzer Group?
+The Danzer Group has its origins in 1932, when Karl Danzer founded his first veneer
+trading company in Paris. After the Second World War, Danzer started to build an
+industrial veneer empire, opening his own veneer mill in Reutlingen, Germany in 1947.2
+From these early years, Danzer combined the production of tropical veneers with the
+operation of his own logging concessions in Africa.
+
+The Group has since developed into one of the world’s biggest producers of hardwood
+veneers, with annual sales of over € 500 million,3 as well as one of the biggest
+international traders in tropical roundwood, sliced wood and veneers. Today the
+Danzer Group operates thirteen veneer mills and five sawmills around the world and a
+number of large timber concessions. In the Democratic Republic of Congo (DRC) and
+neighbouring Republic of Congo (RC), Danzer Group’s concessions cover more than 4
+million hectares of rainforest, an area larger than Switzerland.
+
+Partial overview on Danzer Group inter-company relationships
+
+"Private German Shareholders" Germany
+
+DANZER AG (Switzerland) 100%
+
+LCC
+(Cameroon)
+100%
+Logistics
+
+IFO
+(Republic of
+Congo)
+100%
+Logging, Milling
+
+Interholco AG
+(Switzerland)
+100%
+Trading
+(tropical species)
+
+Kadelma AG
+(Switzerland)
+100%
+Trading
+(temperate
+species)
+
+Danzer
+Anlagen &
+Beteiligungsges.
+(Germany)
+100%
+Holding
+
+?
+
+SIFORCO
+(Democratic
+Republic of
+Congo) Logging,
+Milling
+
+CCIB
+(Cameroon)
+100%
+Logistics
+
+ILC
+(Liberia) financial
+partnership
+with Danzer
+(dormant)
+Logging
+
+MMG
+(Cameroon)
+financial
+partnership with
+Danzer Logging,
+Milling
+
+“There are huge rents
+to be earned from
+activities such as
+logging in tropical rain
+forests, where permits
+can be obtained
+corruptly or where
+inspectors can be
+bribed.”
+
+World Bank 1997
+
+Group Companies
+
+Related Companies
+
+2
+
+Greenpeace International
+
+Ottho Heldringstraat 5, 1066 AZ Amsterdam, The Netherlands
+) +31 20 523 62 22
+
+1  http://www.danzer.de/en/02/02.html
+2  http://www.danzer.de
+3  http://www.danzer.de
+4  http://www.danzer.de/en/02/02.html
+
+www.greenpeace.org
+
+Forest Crime File
+
+January 2005
+
+Danzer Group involved in bribery, illegal logging, dealings with blacklisted arms trafficker and suspected of forgery
+
+Since its foundation, the Danzer Group has always been led by a member of the German
+Danzer family. From 2002 the Chief Executive Officer has been Hans-Joachim Danzer,
+a third generation Danzer.4 Up until July 2004 the Group’s management holding was
+however, ANBE AG,5 headquartered in Switzerland, which described its owners as
+“private German shareholders.”6 The company has since been renamed to Danzer AG to
+associate itself with the Danzer Group at large.
+
+Since 1962, Danzer Group’s international trade in tropical timber has also been based in
+Switzerland, through Interholco AG. From there, Danzer Group’s global trading in tropical
+roundwood, lumber and veneer is organised.
+
+Interholco’s main procurement area is Africa, and it buys from other group companies
+SIFORCO (in DRC) and IFO (in RC), as well as from numerous third party suppliers.
+Interholco procures wood not only from the last rainforests being destroyed in West
+and Central Africa, but in many cases from companies that have been documented to be
+involved in illegal logging or, until very recently, associated with arms trafficking activities.7
+Moreover, as this case study demonstrates, Danzer Group companies do not hesitate to
+bribe officials in Africa, thus violating national as well as international laws and regulations.
+
+Africa’s remaining rainforests
+The remaining rainforests in Central and West Africa are the last refuge for threatened
+species such as lowland gorillas, chimpanzees, forest elephants and also bonobos, man’s
+closest relative. These rainforests safeguard the survival of thousands of species of animals
+and plants and are home to many millions of indigenous people. According to the most
+recent calculations, only one-third of the original forests in Africa still remain, and less
+than one-tenth are still big enough to permanently maintain the biodiversity of a large
+intact rainforest.8
+
+Destructive logging nonetheless continues largely unabated in Africa. Experts consider
+over three-quarters of all remaining frontier forests in Africa are threatened, mostly
+by the timber industry.9 These forests have been at the epicentre of violent conflicts
+for the past decades in several African countries, from Sierra Leone to the Democratic
+Republic of Congo, from Liberia and the Ivory Coast to Central Africa Republic. Local
+populations have been held hostage, either to militias and armies, or to all-powerful
+industrial groups seeking profits at any cost.
+
+The problem of corruption
+The World Bank has identified corruption as “the single greatest obstacle to economic and
+social development” and regards its harmful effects to be especially severe on the poor.
+Particularly concerned about timber exploitation, the Bank states: “There are huge rents to
+be earned from activities such as logging in tropical rain forests, where permits can be obtained
+corruptly or where inspectors can be bribed.”10 In recent years, therefore, the Bank has
+supported over 600 anti-corruption programmes.
+
+Also aiming to combat corruption, the member states of the Organisation for Economic
+Co-operation and Development (OECD) agreed to a Convention on Combating Bribery of
+Foreign Public Officials in International Business Transactions, which went into effect on 15
+February, 1999. This Convention makes it a crime “to offer, promise or give a bribe to a
+foreign public official in order to obtain or retain international business deals.”11 The signatory
+states agreed to apply “effective, proportionate and dissuasive criminal penalties” to those
+who bribe foreign public officials. The Convention further requires that countries are able
+to seize or confiscate the bribe and the profits gained thereof.12 All OECD members
+have ratified this convention, including Switzerland (in 2000) and Germany (1999), and
+are thus obliged to take action against companies within their jurisdiction that are known
+to be involved in corruption.
+
+3
+
+Greenpeace International
+
+Ottho Heldringstraat 5, 1066 AZ Amsterdam, The Netherlands
+) +31 20 523 62 22
+
+"The tax office is
+demanding a “fiscal
+control” and is making
+a link to LCC ..... Mr F...
+is trying to resolve the
+matter with FRF 20-
+30,000.  Although we
+actually have nothing
+to fear at CCIB, there
+is always the question
+of the then undeclared
+exports of IHC via
+Alima F., which we
+want to avoid under
+any circumstances.”
+
+R. Giger, one of the two
+
+executive directors of
+
+Interholco AG, April 2003
+
+5  ANBE Aktiengesellschaft
+(shareholder company)
+
+6  Schweiz. Verband Creditreform,
+
+April 2004
+
+7  UNSC (2000), Global Witness
+
+(2001), Greenpeace investigations
+
+8  World Resources Institute 1997
+9  World Resources Institute 1997
+10  World Bank (1997)
+11  OECD, web-page
+12  U.S. Department of Commerce
+
+(http://www.osec.doc.gov/ogc/occic/
+oecdsum.html)
+
+www.greenpeace.org
+
+Forest Crime File
+
+January 2005
+
+Danzer Group involved in bribery, illegal logging, dealings with blacklisted arms trafficker and suspected of forgery
+
+Danzer Group dealing in baksheesh and gifts
+Some of the African countries in which the Danzer Group operates are considered to be
+among the most corrupt and violent in the world. The international NGO Transparency
+International places the Republic of Congo, Ivory Coast and Cameroon among the 30
+worst out of 130 countries surveyed.13 Instead of complying with national laws and the
+OECD Convention, and setting standards for sustainable development it purports to
+uphold,14 The Danzer Group continues to support a logging sector that is fuelling rampant
+corruption in the region.
+
+In a confidential report about Danzer Group’s business activities in Africa, written by René
+Giger, one of the two executive directors of Interholco AG, in April 2003 and obtained by
+Greenpeace, Giger summarises:
+
+“With regards to gifts/frais de mission (baksheesh), three philosophies occur to me in Africa. In
+Douala15 one is blackmailed into having to pay baksheesh amounting to hundreds of thousands
+of FF16, and this is also paid out liberally. In Congo (Kinshasa),17 Mr. H… tries to be more
+restrained but nevertheless is prepared to pay where necessary. At IFO both Mr S.... and Mr D....,
+are absolutely against such gifts and are also about to rigorously eliminate the old sinecures.
+Mr S....’s philosophy is not to give any gifts in advance in order to avoid any possible difficulties.
+If there is any threat of a fine, so-called conditioned cases, he is, however prepared to take care
+of this by giving a gift.”
+
+The scale of bribery practices by Danzer Group's employees in Africa is not fully known and
+requires further investigation. However, for IFO (RC) - the subsidiary with seemingly the most
+stringent approach to bribery – an attachment to the travel report by Mr. Giger estimates
+possible annual savings of around €50,000 from cutting back on “frais de mission which up to
+now have been mostly paid from force of habit.”
+
+The way “gifts” are used is explained by Giger’s report in a reference to one of Danzer
+Group’s Cameroon subsidiaries, CCIB. According to Giger, the tax authority in Cameroon
+insists on a “fiscal control”, which he urgently tries to avoid, as there apparently have
+been “undeclared exports of IHC [Interholco] via Alima F.”18 Giger casually notes: “Mr. F….
+is trying to resolve this matter with FRF 20-30,000 [around €3000-4500].”
+
+“In Douala, one is
+blackmailed into having
+to pay baksheesh
+amounting to hundreds
+of thousands of FF, and
+this is also paid out
+liberally.”
+
+R. Giger, one of the two
+
+executive directors of
+
+Interholco AG, April 2003
+
+Extract from "Travel report of 03.04.-14.04.03 to Cotraco, Siforco, IFO, LCC", by René Giger, one of the executive
+directors of the Danzer Group subsidiary Interholco AG, Switzerland.
+
+4
+
+Greenpeace International
+
+Ottho Heldringstraat 5, 1066 AZ Amsterdam, The Netherlands
+) +31 20 523 62 22
+
+13  Transparency International,
+
+Corruption Perceptions Index 2003
+14  eg www.danzer.com/en/03/03.html
+15  Cameroon
+16  likely to mean French Francs
+17  Democratic Republic of Congo
+18  Exploitation Forestière Alima
+
+Ferdinand (A.F.) is a Cameroonian
+logging company, based in
+Yaoundé.
+
+www.greenpeace.org
+
+Forest Crime File
+
+January 2005
+
+Danzer Group involved in bribery and illegal logging in Africa
+Danzer Group involved in bribery, illegal logging, dealings with blacklisted arms trafficker and suspected of forgery
+
+In another section, Giger discusses a tax demand, including fines, for €360 million against
+SIFORCO in DRC. Whilst the Danzer Group declared timber deliveries from IFO, in
+neighbouring Republic of Congo, to SIFORCO as tax-free transit business, the state of DRC
+now claims this to be a taxable import/export activity. On the advice of a local tax advisor,
+Giger suggests that the demand is due to “rivalry between the authorities“ and claims that the
+“whole matter was instigated by a dismissed employee“. To solve this problem Giger states “It is
+calculated that a maximum of US$ 50,000 will be needed to get this whole thing off the table”.
+
+SIFORCO was founded in 1976 as a joint venture between the Danzer Group and
+the German governmental development agency DEG (Deutsche Investitions- und
+Entwicklungsgesellschaft). Although today it is fully owned by the Danzer Group,
+it is still financially supported by DEG.19
+
+In its July 2004 public response to the Greenpeace report,20 the Danzer Group tried
+to explain that their “gift“ and “baksheesh“ payments to officials in Africa are necessary
+as a legal requirement under a “Frais de Mission (daily allowance).” However, they do not
+explain, for example, how being “blackmailed [in the port of Douala] into having to pay
+baksheesh amounting to hundreds of thousands of FF“ (as stated in Giger’s travel report) is
+required by law.
+
+In the attachment to Giger‘s travel report (under Section 10) the full text sheds some
+further light on what the Danzer Group really mean by “Gifts and Frais de Mission“. It
+states, refering to the Republic of Congo: “On account of the increase in taxes IFO can not
+afford giving any gratuities which do not bring in services directly in return. Frais de mission
+which up to now have been mostly paid from force of habit will from now on be paid only in
+accordance with the current legislation.” This is revealing. Danzer Group has confirmed that
+to pay Frais de Mission only as required by law, not as conditioned by habit, represents a
+change of practice, in the Republic of Congo at least. Giger estimated that savings for the
+company, as detailed in the same attachment, would amount to €50,000.
+
+Furthermore, in a recent letter to a customer they make the remarkable claim
+that so-called “gifts” are something that the Danzer Group gives to “support various
+charitable organisations” and they reject what they consider to be “allegations of bribery
+and corruption”. Whilst the Danzer Group does undoubtedly give money to charitable
+organisations, Giger’s travel report highlights that they also make payments for other
+purposes (ie “If there is any threat of a fine, so-called conditioned cases, he [Mr S... at IFO] is,
+however prepared to take care of this by giving a gift.”
+
+Danzer Group finances illegal loggers
+In Cameroon, Interholco purchases logs and timber from the logging company Mba Mba
+Georges (MMG), with which it has a close financial partnership. Through loans to MMG,
+Interholco seems to have secured exclusive marketing rights for all MMG products. MMG
+has only recently become active in Cameroon, and has a sawmill in the south west of the
+country, near the port of Kribi. In 2000, MMG was involved in illegal logging on a massive
+scale. It was documented as being active outside the limits of one of its authorised logging
+areas. Indeed, MMG logged 1,000 hectares of an area planned for a community forest, with
+the local population incurring enormous damage. It used the marking “ARB-288”, assigned
+for another logging permit, on the trees felled, and in the same year, Greenpeace detected
+these very same logs at the German port of Nordenham – imported by Interholco.
+
+While this case of illegal logging by MMG has been well documented in several reports,21
+the company has never been fined for these infractions. On the contrary, despite the
+Cameroonian Ministry of Environment and Forestry (MINEF) 2000 criteria for new
+concession awards, which define such infractions as “grounds for disqualification”22
+
+5
+
+Greenpeace International
+
+Ottho Heldringstraat 5, 1066 AZ Amsterdam, The Netherlands
+) +31 20 523 62 22
+
+MMG logs marked "ARB-288"
+imported into Germany by
+Interholco, Nordenham, 2000
+© Greenpeace
+
+19  Forests Monitor 2001; DEG 2003
+20  http://www.danzer.de/en/04/04.html
+21  Auzel et.al. (2002a); MINEF (200a);
+MINEF (2000c); Global Witness
+(2001b)
+
+22  MINEF (2000a)
+
+www.greenpeace.org
+
+Forest Crime File
+
+January 2005
+
+Danzer Group involved in bribery and illegal logging in Africa
+Danzer Group involved in bribery, illegal logging, dealings with blacklisted arms trafficker and suspected of forgery
+
+[from auctions], MMG won the 125,568 hectare concession UFA 00-003 in July 2000, only
+a month after its illegal logging was documented by officials of MINEF. The value of the
+timber stolen by MMG is estimated to be almost FCFA 700 million (over €1 million).23
+
+In a letter dated 29 September, 2003 to Greenpeace, Switzerland, IHC (part of Danzer Group)
+stated: “Interholco of course rejects any business with companies involved in illegal logging. Such
+activities, however, have to be proven or there must at least be clear indications.
+To our knowledge, this is not the case for MMG.”
+
+Illegally logged timber from MMG,
+traded by Interholco (IHC) with
+marking “ARB-288” partially
+erased to hide true origin, Port
+of Kribi, 2000. From Auzel et al
+(2002a).
+
+The letter is signed by Ulrich Grauert, one of the two executive directors of Interholco AG.
+Grauert seems to have a poor memory as in April 2003 he was directly informed by René
+Giger (his co-director at Interholco) about MMG’s ongoing illegal logging in the newly obtained
+concession UFA 00-003. In his confidential travel report, referring to MMG, Giger states:
+“Logging volumes are not being achieved. Yield is not being achieved because the diameters are
+too small. MMG is already felling illegally in the next coupe [cut block];24 as a result, next year the
+same coupe will be worthless again.”
+
+Just as Giger’s remark indicates ongoing illegal logging activities by MMG beyond the 2000
+incident, the company also continues to evade its financial obligations. The concession
+gained in 2000 came with a management plan financed with over FCFA 200 million (about
+€300,000) from the “Canadian Co-operation”, to be paid back by whoever obtained the
+concession. MMG, four years later, has still to pay more than FCFA 170 million (about
+€255,000). It was recently formally notified of its failure to pay back the management plan
+in a public communiqué by the Ministry of Forestry. 25
+
+23  Auzel et.al. (2002a)
+24  Assiette de coupe
+25  MINEF (2004)
+
+6
+
+Greenpeace International
+
+Ottho Heldringstraat 5, 1066 AZ Amsterdam, The Netherlands
+) +31 20 523 62 22
+
+www.greenpeace.org
+
+Forest Crime File
+
+January 2005
+
+Danzer Group involved in bribery and illegal logging in Africa
+Danzer Group involved in bribery, illegal logging, dealings with blacklisted arms trafficker and suspected of forgery
+
+In its July 2004 public response to the Greenpeace report, the Danzer Group26 claimed
+that it is “absurd“ to link them with illegal logging, saying that they agree with Greenpeace,
+that “view ecologically non-compliant forest usage and trade in wood from illegal sources as a
+danger to large-scale ecosystems“. Yet they never refuted this financial link with MMG, nor
+the illegal logging documented by MINEF officials in 2000 (which estimated the stolen
+timber to be worth over €1 million). They also did not comment on the evidence of
+illegal logging inside MMG’s concession UFA 00-003, as highlighted in Giger‘s travel report.
+
+In a recent letter to a customer Danzer Group concluded, following what is described as
+an internal assessment, that the “concerns expressed by Mr Giger [in his travel report] were
+unjustified and that MMG had all the necessary permits for the felling.” The letter does not
+explain how Giger could have been so wrong on this issue given that he did not reach
+his views in isolation; his report of the current activities of MMG was based on face-to-
+face discussions with Mr Tillmann, the Danzer Group's contact and representative at the
+company, during a visit on 14th April 2003.
+
+MMG's history of illegal logging means an independent investigations of their logging
+activities is long overdue.
+
+Danzer Group, war and arms trafficking
+Following years of debate, on 7 July 2003, the UN Security Council (UNSC) imposed
+sanctions on the import of Liberian timbers. The UNSC was forced to take this drastic,
+unprecedented measure because international dealers such as Interholco had been
+unwilling to voluntarily stop trading with an industry that financed Liberian president and
+warlord Charles Taylor.
+
+The UNSC regarded Taylor as a major destabilizing factor in the region, for instance
+through his orchestration of the activities of the RUF rebels in neighbouring Sierra
+Leone. The RUF controlled Sierra Leone’s27 diamond fields and moved diamonds illegally
+out of the country via Liberia. For this reason, in March 200128 the UNSC had imposed
+sanctions on trade in diamonds from Liberia, as well as banning 130 members of Taylor’s
+entourage from travelling.These included Maurice Cooper, co-owner of the Inland
+Logging Company (ILC).29
+
+Danzer Group’s Interholco AG had a very close partnership with ILC. It was the
+company’s exclusive agent for the export of timber.30 The company reported that it had
+officially exported 19,815 m3 of logs in 2000, but the UNSC Panel Experts estimated
+that this figure was closer to 50,000 m3. The ILC also maintained a private militia in
+Sinoe County and managed the port of Greenville.31 The militia have been reported as
+harassing local people.32
+
+Besides exporting Liberian wood supplied by the ILC, Interholco also procured from the
+Oriental Timber Company (OTC) and the Maryland Wood Processing Industry (MWPI).
+The OTC’s manager, Dutchman Gus van Kouwenhouven, was regarded by the UNSC as
+a key figure in the logistics of illegal arms movements to Liberia.33 The MWPI controlled
+Port Harper in the south of the country and has also been accused of involvement in
+illegal arms shipments entering Liberia through this port.34 Only increased rebel activities
+and finally the UNSC sanctions stopped Interholco trading with OTC, MWPI and other
+Liberian suppliers.
+
+Trading in Liberian logs and with the OTC in particular did not, however, prevent the
+Danzer Group stating, in a letter (10 January, 2002) sent to a German citizen: “The
+Danzer Group and all its subsidiary companies will do absolutely no business with companies
+which trade arms ... In our business-to-business relations we make decisions solely in accordance
+with our standards and in no event do we wish our business relationships to be misused for
+financing weapons or civil wars.”
+
+7
+
+Greenpeace International
+
+Ottho Heldringstraat 5, 1066 AZ Amsterdam, The Netherlands
+) +31 20 523 62 22
+
+MMG timber sold by Interholco
+to the largest wooden flooring
+manufacturer in Switzerland,
+Bauwerk Parkett. January 2002
+© Greenpeace
+
+OTC logs traded by Interholco
+(IHC), Greece, December, 2001
+© Greenpeace
+
+26  http://www.danzer.de/en/04/04.html
+27  UNSC (2001)
+28  UNSC (2001)
+29  UNSC (2001)
+30  UNSC (2001b); Greenpeace
+
+investigations
+31  UNSC (2001b)
+32  Global Witness (2001)
+33  UNSC (2000); Global Witness
+
+(2001)
+
+34  Global Witness (2003)
+
+www.greenpeace.org
+
+Forest Crime File
+
+January 2005
+
+Danzer Group involved in bribery and illegal logging in Africa
+Danzer Group involved in bribery, illegal logging, dealings with blacklisted arms trafficker and suspected of forgery
+
+The Danzer Group has remarkably claimed, in its July 2004 public response to the
+Greenpeace report,35 that it “provided clarification on this [issue] long ago. Litigious questions
+and accusations were pursued and have been dispelled as unsubstantiated.” Yet, despite their con-
+tinual denials, new evidence has been made available to Greenpeace that further document
+the Group’s trade activities with companies and individuals linked to arms trafficking.
+
+Recent investigations carried out by the Concession Review Commission, established by
+the National Transitional Government of Liberia (NTGL), uncovered a close business link
+between OTC and the Danzer Group’s partner ILC.36 The Commission was set up to
+determine the legitimacy of existing logging concessions and provide recommendations to
+the NTGL.  They requested that every logging company with concession agreements file
+all relevant documentation, complete questionnaires, and appear before the Commission
+to provide further information. Many complied with one or all of these requests and the
+Commission immediately cleared 24 companies. ILC was amongst those that failed to
+conform and hence were not cleared by the Commission, along with LFDC/OTC, Royal
+Timber Company (RTC), LEC/Natura, MWPI and BIN.
+
+In their report dated May 13th 2004,37 the Commission highlighted that ILC was operating
+as a contracting company to OTC, amongst other companies. Additionally, it accused ILC of
+engaging in practices that “occasioned economic sabotage“ and for “not paying taxes to [the]
+government directly but were seemingly doing so directly to the President or his authorized accounts.”
+
+OTC was the largest timber company operating in Liberia in part due to a special rela-
+tionship between Kouwenhoven and Taylor.38 Upon obtaining presidency, Taylor rewarded
+Kouwenhoven by assigning him the largest timber concession agreement in Liberian his-
+tory, totalling 1.24 million hectares.39 In return for these concessions OTC promised
+jobs and other social benefits. The NGO Global Witness reported that Taylor personally
+received between US$3-5 million for these massive concession allocations.40 However, this
+only helped Taylor finance his war and continue subjecting the people of Liberia to further
+social conflict and human rights abuses.
+
+Between 2000 and 2003, Liberia accounted for up to one-third of Interholco’s total
+tropical timber supplies, with ILC and OTC being their largest Liberian suppliers. During
+this period these companies plundered, abused and devastated the forest and the forest
+resources of Liberia at the expense of it's people. The Commission recommended that the
+individuals behind these companies should be “investigated and punished where appropriate.”
+
+One of these individuals is Kouwenhoven, who acted as the manager of both OTC and
+RTC. Since 2000, Kouwenhoven has been listed on a UNSC travel ban for his role in arms
+and diamond dealing on behalf of former President Taylor. These funds supported Taylor's
+efforts to destabilize Sierra Leone.41 The UNSC also listed Kouwenhoven as an individual
+whose financial assets should be frozen to prohibit him from “using misappropriated funds
+and property to interfere in the restoration of peace and stability in Liberia.”42
+
+Although Kouwenhoven’s involvement with OTC seemed to have come to an end
+when the UNSC placed sanctions on Liberian timber, Greenpeace has obtained clear
+evidence that he is still active in the African timber business. Despite the travel ban on
+Kouwenhoven, during 2004 he has been working in the Republic of Congo, directly
+involved with the logistical and financial operations of a logging company based in
+Pointe Noire, Afribois SA.  Based on documents obtained by Greenpeace, it is clear that
+Kouwenhoven has been shipping logs from Afribois to Interholco (Danzer Group) during
+2004; this is despite the UNSC travel ban and asset sanctions on Kouwenhoven still being
+in place. However, the Danzer Group once again does not seem to have any moral prob-
+lems with maintaining a business relationship with this sanctioned arms trafficker.
+
+8
+
+Greenpeace International
+
+Ottho Heldringstraat 5, 1066 AZ Amsterdam, The Netherlands
+) +31 20 523 62 22
+
+Gus Kouwenhoven
+
+ILC logs imported into Germany
+by Interholco (IHC), Nordenham,
+June 2002. © Greenpeace
+
+35  http://www.danzer.de/en/04/04.html
+36  Concession Review Committee
+
+(2004)
+
+37  Concession Review Committee
+
+(2004)
+
+38  Kouwenhoven ran TIMCO logging
+company during Taylor’s days
+with the National Patriotic Front
+of Liberia (NPFL). Global Witness
+(2001b)
+
+39  UNSC (2001b).
+40  Global Witness (2002)
+41  Global Witness (2002)
+42  UNSC (2004)
+
+www.greenpeace.org
+
+Forest Crime File
+
+January 2005
+
+Danzer Group involved in bribery and illegal logging in Africa
+Danzer Group involved in bribery, illegal logging, dealings with blacklisted arms trafficker and suspected of forgery
+
+Danzer Group employees and suspected forgery
+Greenpeace has obtained several Phytosanitary Certificates and Certificates of Origin
+that are suspected of been forged by Danzer Group staff. A Phytosanitary Certificate
+is an official document issued by an exporting country, which a certifies that the
+phytosanitary status of a shipment meets the phytosanitary regulations of the importing
+country.43
+
+Phytosanitary (anti-pest) treatment of timber is required in order to protect importing
+countries from the introduction of harmful pests. Copies of Phytosanitary Certificates
+appear to have been forged with the help of a pair of scissors, white tape and a colour
+photocopier, enabling official stamps and signatures to be cut and pasted on certificates
+for timber exports from a number of African countries, including Liberia, Cameroon
+and Equatorial Guinea. These certificates are hard to distinguish from the official ones,
+normally issued by the federal authorities or Chamber of Commerce of the respective
+export countries.
+
+"Copies of
+Phytosanitary
+Certificates appear to
+have been forged with
+the help of a pair of
+scissors, white tape and
+a colour photocopier,
+enabling official stamps
+and signatures to be
+cut and pasted on
+certificates for timber
+exports..."
+
+Blank phytosanitary document without original text (stamps and signature only).
+
+Written corrections to an original phytosanitary document(without stamps and
+signature), with proposed new wording and new date.
+
+Corrected phytosanitary template: This new document appears to include the
+proposed changes in document 2.
+
+Finished phytosanitary certificate:This new certificate appears to be the integration
+of the corrected template (document 3) with the blank certificate (document 1).
+
+9
+
+Greenpeace International
+
+Ottho Heldringstraat 5, 1066 AZ Amsterdam, The Netherlands
+) +31 20 523 62 22
+
+43  http://www.aphis.usda.gov/lpa/
+
+pubs/fsheet_faq_notice/faq_phphto.
+html
+
+www.greenpeace.org
+
+Forest Crime File
+
+January 2005
+
+Danzer Group involved in bribery and illegal logging in Africa
+Danzer Group involved in bribery, illegal logging, dealings with blacklisted arms trafficker and suspected of forgery
+
+In the case of Certificates of Origin,44 required to attest the country of origin of the
+timber, Greenpeace has obtained blank copies already complete with the necessary
+official stamps and, in some cases, signatures. These blank copies would facilitate the
+forging of certificates of origin, making them appear to be genuine.
+
+Shipping documents obtained by Greenpeace provide further evidence on how these
+prepared certificates have been used. In August 2000, Interholco couriered copies of
+Phytosanitary Certificates and Certificates of Origin to their agent in Turkey, Aziz Atasoy.
+
+Habitat loss or degradation are
+major threats to gorilla populations
+in West and Central Africa. Where
+new areas of forest are opened up
+for logging, the bushmeat trade
+often rises in order to support
+the incoming labour force and
+to export bushmeat to urban
+markets. © Greenpeace
+
+The above four Phytosanitary Certificates all bear identical stamps and signatures, even
+though they have supposedly been issued months apart by the Head of the Phytosanitary
+Police Post in Douala port, Cameroon.45
+
+10  Greenpeace International
+
+Ottho Heldringstraat 5, 1066 AZ Amsterdam, The Netherlands
+) +31 20 523 62 22
+
+44  A Certificate of Origin is a
+
+document attesting that goods in a
+particular shipment are of a certain
+origin.
+
+45  “Le chef de Poste de Police
+
+Phytosanitaire de Douala-port”
+
+www.greenpeace.org
+
+Forest Crime File
+
+January 2005
+
+Danzer Group involved in bribery and illegal logging in Africa
+Danzer Group involved in bribery, illegal logging, dealings with blacklisted arms trafficker and suspected of forgery
+
+The illegal ivory trade is now
+mainly targeting elephants
+populations in forest areas of
+Southeast Cameroon, Southwest
+Central Africa Republic, North
+Congo and North Gabon. These
+areas have been opened up to
+industrial logging companies,
+which includes the Danzer
+Group.46
+© Greenpeace
+
+Call to action
+
+This report represents nothing more than one case study. The practices and behaviour
+outlined here, though illegal and unethical, are very widespread among companies
+operating in the international timber trade.
+
+Bribery and other illegal activities continue unmonitored and in almost all cases with
+complete impunity. Without decisive and credible action by governments, international
+agencies and consumers to control the practices of the international timber trade, the
+world’s remaining ancient forests will continue to be a natural “resource”, nonchalantly,
+yet ruthlessly and unethically, exploited and destroyed. The local communities dependent
+upon them will continue to suffer directly and indirectly from the fierce battles to
+control, extract and appropriate these resources.
+
+Yet there is hope for Africa’s rainforests, if key players commit to taking action.
+Specifically:
+
+•  African countries where Danzer Group timber originates must open an inquiry into
+
+the evidence uncovered in this investigation, and prosecute companies and individuals
+found to be involved in bribery, corruption and illegal logging. Initiatives such as the
+Cameroonian Anti-Corruption Commission should be utilised in these inquiries.
+
+•  European countries, including Switzerland, must amend their legislation on bribery
+and money laundering to include illegal logging and associated trade. EU companies
+found guilty overseas should be prosecuted under EU legislation. Swiss companies
+found guilty overseas should be prosecuted under Swiss legislation.
+
+•  European countries must act swiftly to adopt new legislation through the FLEGT
+
+(Forest Law Enforcement, Governance and Trade) process aimed at halting the import
+and trade of illegally sourced timber and timber products in Europe. Switzerland
+should also adopt similar legislation. Such legislation should impose penalties against
+companies found guilty and give the relevant authorities the legal means to prosecute
+and dismantle the organized criminal networks.
+
+•  Companies must immediately stop buying timber products derived from companies
+
+involved in illegal activities (such as illegal logging, bribery, forced labour, arms
+trafficking, etc.) until the producers can demonstrate, through independent third-party
+verification, that they comply with all legislation.
+
+11  Greenpeace International
+
+Ottho Heldringstraat 5, 1066 AZ Amsterdam, The Netherlands
+) +31 20 523 62 22
+
+46  Nigel Hunter, Director of MIKE
+
+(Monitoring the Illegal Killing
+of Elephants). Presentation given
+at CITES COP13, Thailand.
+October 20.04
+
+www.greenpeace.org
+
+Forest Crime File
+
+January 2005
+
+Danzer Group involved in bribery and illegal logging in Africa
+Danzer Group involved in bribery, illegal logging, dealings with blacklisted arms trafficker and suspected of forgery
+
+Abbreviations
+
+DEG
+
+Deutsche Investitions- und Ent-wick-lungs-ge-sell-schaft
+
+DRC
+
+Democratic Republic of Congo (DRC)
+
+€
+
+Euros
+
+FCFA
+
+Franc de la Communauté Financière d’Afrique
+
+IHC
+
+Interholco (part of the Danzer Group)
+
+ILC
+
+Inland Logging Company (Liberia)
+
+MINEF  Ministère de l’Environnement et des Forêts
+
+MMG  Mba Mba Georges (Cameroon)
+
+MWPI  Maryland Wood Processing Industry (Liberia)
+
+NGO
+
+Non Governmental Organisation
+
+RC
+
+Republic of Congo
+
+RTC
+
+Republic of Congo
+
+RUF
+
+Royal Timber Company (Liberia)
+
+OECD  Organisation for Economic Co-operation and Development
+
+OTC
+
+Oriental Timber Company (Liberia)
+
+UFA
+
+Unites Forestière d’Aménagement
+
+UNSC  United Nations Security Council
+
+12  Greenpeace International
+
+Ottho Heldringstraat 5, 1066 AZ Amsterdam, The Netherlands
+) +31 20 523 62 22
+
+www.greenpeace.org
+
+Forest Crime File
+
+January 2005
+
+Danzer Group involved in bribery and illegal logging in Africa
+Danzer Group involved in bribery, illegal logging, dealings with blacklisted arms trafficker and suspected of forgery
+
+References
+•  Auzel, P., Akoa Akoa, R., Fétéké, F., Fomété, T. & Nguiffo, S. (2002a). Impact de
+
+l’exploitation forestière illégale sur la fiscalité, l’aménagement et le développement
+local : cas de la forêt communautaire du RAPDO /SKS dans l’arrondissement de Kribi,
+Province du Sud, Cameroun. 50 pages; Nature+/FUSAGx, Université de Dschang, CED,
+Yaoundé, Cameroun.
+
+•  Concession Review Committee (2004). Forestry Development Authority, Paynesville,
+
+Liberia. May 13, 2004.
+
+•  Danzer Group (2004). Solving Problems in Africa’s Forestry and Lumber Industry Requires
+
+Prudent Action. July 2004. http://www.danzer.de/en/02/02.html
+
+•  DEG (2003). Deutsche Investitions- und Entwicklungsgesellschaft (DEG),
+
+Geschäftsbericht 2003.
+
+•  Forests Monitor (2001). Sold down the river. March 2001.
+
+•  Global Witness (2001a). Independent report N° 3, mission carried out on 9 July 2001.
+
+•  Global Witness (2001b). Taylor-made, Global Witness, September 2001.
+
+•   Global Witness (2002). Logging Off, Global Witness, September 2002.
+
+•  Global Witness (2003). The Usual Suspects, Global Witness, March 2003.
+
+•  MINEF (2000a). Arrêté no. 0276/MINEF du 13 mars 2000 fixant les critères de
+
+sélection et les procédures de choix des soumissionnaires des titres d’exploitation
+forestière, Article 10.2. “...constituent chacune un motif de disqualification du postulant
+pour seuil minimum non rempli.“
+
+•  MINEF (2000b). Délégation proviciale du Sud. Rapport de Mission. 17 June 2000.
+
+1,5 pages.
+
+•  MINEF (2000c). Délégation provinciale du Sud. Rapport de Mission. 1 July. 6 pages.
+
+•  MINEF (2004). Communiqué No. 000147, 2004-04-19.
+
+•  UNSC (2000). Report of the Panel of Experts Appointed Pursuant to Security Council
+
+Resolution 1306 (2000), Paragraph 19, in Relation to Sierra Leone S/2000/1195.
+
+•  UNSC (2001). Security Council Committee issues list of persons affected by
+
+Resolution 1343 (2001) on Liberia, UNSC/7068.
+
+•  UNSC (2001b). Report of the Panel of Experts pursuant to Security Council
+Resolution 1343 (2001), paragraph 19, concerning Liberia, UNSC S/2001/1015.
+
+•  UNSC (2004). List of individuals and entities subject to the measures contained in
+paragraph 1 of Security Council Resolution 1532 (2004) concerning Liberia. UNSC
+S/2004/1532.
+
+•  World Bank (1997). Helping Countries Combat Corruption. The Role of the World
+
+Bank.Washington, D.C.
+
+•  World Resources Institute (1997) Bryant, Nielsen & Tangley, The Last Frontier Forests,
+
+World Resources Institute, 1997.
+
+13  Greenpeace International
+
+Ottho Heldringstraat 5, 1066 AZ Amsterdam, The Netherlands
+) +31 20 523 62 22
+
+www.greenpeace.org
+

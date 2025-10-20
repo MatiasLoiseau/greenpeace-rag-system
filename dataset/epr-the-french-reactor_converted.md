@@ -1,0 +1,603 @@
+greenpeace.org
+
+EPR:
+The French
+Reactor
+A costly and hazardous
+obstacle to climate protection
+
+Briefing November 2008
+
+n
+o
+i
+t
+u
+o
+v
+e
+r
+
+l
+
+y
+g
+r
+e
+n
+e
+n
+a
+g
+n
+s
+y
+a
+t
+a
+C
+Greenpeace International 1
+
+l
+
+i
+
+EPR: The French Reactor
+a costly and hazardous obstacle to climate protection
+
+The French EPR* Reactor is a new reactor design developed by the French
+company Areva in co-operation with the German firm Siemens. Serious doubts
+have been raised about the safety and cost of the EPR. A study of the EPR’s
+blueprints and experience at the two sites where EPRs are under construction,
+in Finland (Olkiluoto 3) and France (Flamanville 3), has revealed weaknesses in
+design, problems during construction phases and soaring costs.
+
+Despite this, the EPR is enthusiastically marketed as the world’s largest reactor,
+with a power generation capacity of 1600 MW. The EPR is promoted as a
+nuclear power plant that is safer, cheaper, more mature and more reliable than
+any other. It has been presented as the only example of an advanced “third
+generation” reactor; a flagship of the nuclear ‘renaissance’. Promotional
+materials promise, for example:
+
+“The EPR is the direct descendant of the well proven N4 and KONVOI reactors,
+guaranteeing a fully mastered technology. As a result, risks linked to design,
+licensing, construction and operation of the EPR are minimised, providing a
+unique certainty to EPR customers.” ¹
+
+The only certainty with current EPR projects is that they are not delivering on
+these promises in four key areas.
+
+* EPR: European Pressurised Reactor, sometimes marketed as
+  an Evolutionary Power Reactor
+
+2 Greenpeace International  EPR: The French Reactor
+
+image Greenpeace activists
+occupy cranes above the
+Olkiluoto 3 EPR construction
+for one week. As of August
+2008, the Finnish Nuclear
+Safety Authority (STUK)
+reported 2,100 safety
+and quality defects in the
+construction
+
+I
+
+G
+N
+B
+B
+O
+C
+K
+C
+N
+
+I
+
+The European Pressurised Reactor
+Key Issues
+
+1. Safety
+
+The EPR is a pressurised water reactor that, in many respects,
+actually differs little from the majority of existing “second generation”
+reactors. Its concept is based on developments dating from the
+1970s. It includes some claimed improvements, but the attempts to
+make the reactor more competitive also have their downsides when
+time and budget pressure lead to rush and the hiring of incompetent
+workers.
+Information in August 2008 has revealed that the safety culture in
+Olkiluoto 3 is in disarray. Employees were prevented from speaking
+about the ongoing construction, including issues such as safety
+problems, or workers rights.
+
+Large volumes of radioactivity
+
+The EPR is the most powerful reactor ever built, with a core that
+contains more radioactive elements than any other. In addition,
+for reasons of economy, it is designed to burn fuel longer. However,
+this leads to increased radioactivity and more dangerous nuclear
+isotopes. The mixed-oxide (MOX) fuel used by the EPR is a mix of
+uranium and plutonium, which also results in a higher output of
+hazardous materials.
+In the event of a serious accident the impacts could be vast,
+releasing large quantities of radioactivity into the environment.
+A study conducted in 2007 by Large Associates, a British nuclear
+engineering consulting company, showed that, were a serious
+accident to occur involving the EPR in France, it could require the
+evacuation of hundreds of thousands of people, would involve the
+serious contamination of many thousands of square kilometres and
+might result in thousands of human fatalities.²
+
+Terrorism
+
+Having been designed prior to 2001, the EPR does not reflect the
+changed security situation following the 9/11 attacks in the United
+States. While it has robust containment, pathways and vulnerabilities
+have been identified that could lead to radioactivity bypassing the
+containment unit under certain scenarios.³ The ability of the
+containment unit to withstand the impact of a large aircraft was
+placed in doubt according to official French documents leaked in
+2003. One of the reasons for delays and complications with EPR
+construction in Finland has been the need to reinforce the
+containment unit when the original design did not meet the safety
+criteria required in Finland.
+
+/
+E
+C
+A
+E
+P
+N
+E
+E
+R
+G
+©
+
+Rush and incompetence
+
+According to articles published in the industrial periodical many
+problems with the EPR project in Finland can be attributed to a
+combination of a tight time schedule and considerable cost pressure.
+Similar circumstances are likely to apply to other future nuclear
+projects. The unrealistic price and construction timetable of Olkiluoto
+3 have been a strong incentive for Areva NP (a daughter company
+of Areva, formerly known as Framatome ANP) to cut costs and to
+refuse to perform time-consuming corrections when problems
+arose.4 According to articles published in industrial periodical
+Nucleonics Week, Areva’s attempts to reduce costs led the company
+to select cheap, incompetent subcontractors and overlook
+safety-related problems. In addition, nuclear safety training was not
+provided to workers.5
+Because of fast-track licensing, Olkiluoto 3 subcontractors have
+used outdated blueprints, and Finnish authorities have at times been
+unable to supervise work as they have not had the necessary design
+documents. New reactor designs are inherently harder to build and
+control because of their larger size and fuel burn-up, which places
+high demands on construction.
+The stagnation of nuclear construction over the last decade has
+resulted in a shortage of competent personnel and companies.6
+In France, reports from ASN inspections repeatedly mentioned that
+the problems arise from “haste without any quality assurance
+process”.7
+
+ EPR: The French Reactor  Greenpeace International
+
+3
+
+Weaknesses in construction
+
+Apart from problems with the EPR design blueprint,
+there is growing evidence from construction sites in
+Finland and France that in reality the reactor has more
+safety and reliability weaknesses. Several problems
+have been made public to date…
+
+Pressuriser
+Failure can lead to loss of coolant or pressure,
+with reactor meltdown as a result.
+Olkiluoto 3: Four out of five pieces had to be
+recast because of malfunction. Problems were
+not detected by regular inspections.
+Flamanville 3: Following the problem of non-
+conformity in quality control, the French Nuclear
+Safety Authority asked Areva to prove the good
+quality of components of the pressuriser that
+were manufactured in Italy.
+
+Steam generator
+Rupture can lead to loss of coolant
+and reactor meltdown.
+Olkiluoto 3: Failed to meet quality
+requirement, repairs had to be made.
+
+Primary cooling pipes
+Rupture can lead to loss of coolant
+and meltdown.
+Olkiluoto 3:  All eight huge pipe
+circuits failed to meet required safety
+criteria and had to be recast. The
+steel of the refabricated pipes was
+also found to be of inferior quality.
+
+Spent fuel pool
+Located outside of the
+containment. Damage due to
+airplane crash or other
+external event can lead to
+massive leakage and
+contamination.
+
+Reactor base-slab
+Failure can affect power plant’s stability and lead to leakage of
+contamination from molten reactor.
+Olkiluoto 3: Concrete mixture was improper, with too-high water
+content, leading to high chemical vulnerability and danger of
+cracking.
+Flamanville 3: Concrete mixture did not meet required standards,
+and base-slab has already developed cracks. Reinforcement steel
+bars were arranged and welded improperly. Repeated failure to
+improve quality forced state inspectors to order suspension of the
+works for one month in May 2008.
+
+4 Greenpeace International  EPR: The French Reactor
+
+Reactor
+The world’s largest
+reactor, with the
+largest amount of
+radioactive materials
+inside. Potentially
+running on “MOX”
+fuel with increased
+content of plutonium.
+
+Reactor vessel
+Failure can lead to outburst
+under high pressure, loss of
+coolant and meltdown.
+Olkiluoto 3: Five out of six
+components failed to meet
+French safety criteria and
+had to be remanufactured.
+Problems with welding
+occurred.
+
+image Greenpeace activists
+scale 100 metre high crane
+in protest occupation at
+the construction site of
+Olkiluoto 3. With operation
+already postponed to 2012,
+Olkiluoto will not be ready
+in time to contribute
+to Finland’s Kyoto target
+
+I
+
+G
+N
+B
+B
+O
+C
+K
+C
+N
+
+I
+
+/
+E
+C
+A
+E
+P
+N
+E
+E
+R
+G
+©
+
+Containment inner steel liner
+Failure leads to loss of airtightness of the containment and can
+cause leakage of radiation to the outside.
+Olkiluoto 3: Manually welded in a Polish machine yard with no
+experience of nuclear construction. Welds were defective. Dozen
+holes cut in wrong places. Badly stored and damaged in storm.
+Defects in welding continued in assembly of the liner in Olkiluoto.
+Flamanville 3: Quarter of welds identified as deficient. Welding
+done by company without required qualification.
+
+Containment
+Failure can lead to massive leakage of radiation and contaminate
+environment. Ability to withstand airliner impact doubtful.
+Olkiluoto 3: Steel framework of the containment was welded for
+at least half a year without mandatory tests, oversight and
+guidelines. Problems with quality of concrete.
+
+Turbine island base-slab
+Olkiluoto 3: Designed by an Indian subcontractor who
+had not taken Finland’s winters into account. Thermal
+expansion of concrete not taken into account and the
+blueprints had to be redone.
+
+ EPR: The French Reactor  Greenpeace International
+
+5
+
+image Greenpeace activists
+welcoming French Prime Minister
+Dominic De Villepin to Finland.
+Supplied by French Company
+Areva, Olkiuloto 3 is already
+50% over budget
+
+©
+G
+R
+E
+E
+N
+P
+E
+A
+C
+E
+/
+
+M
+A
+T
+T
+
+I
+
+S
+N
+E
+L
+L
+M
+A
+N
+
+2. Nuclear Waste
+
+Areva claims that one of the advantages of the EPR is that it will
+produce less waste than other reactors. But the EPR does not solve
+the nuclear waste problem. While the promise is that the volume of
+waste will be reduced by 15 percent, the waste that is produced will
+be more dangerous because it will be more radioactive. With regard
+to radioactivity, the EPR will not be a step forward: improved fuel
+combustion rates simply lead to more dangerous waste. In addition,
+by being able to function with 100 percent MOX fuel (a mixture of
+uranium and plutonium oxides) the EPR will be a major link in the
+nuclear reprocessing scheme that is highly contaminating.
+
+3. Costs
+
+The EPR has been promoted as a technology that makes nuclear
+energy cheaper and more competitive. When the decision was made
+to build an EPR in Finland, in 2002, the government promised that it
+would cost Euro 2.5 billion and take only four years to build. The final
+contract, three years later, put the price at Euro 3.2 billion and
+construction time was set at 4.5 years. Since construction began in
+summer 2005, a variety of technical problems have led to a three-
+year delay, extending the construction period to at least 7 years.
+The currently estimated additional cost is Euro 1.5 billion, raising the
+current price tag to Euro 4.7 billion, almost double the initial estimate.
+More problems, delays and cost overruns are likely to occur before
+the project is completed.
+In September 2008, Nucleonics Week quoted an Areva official,
+saying that Euro 4.5 billion will be a minimum price for any new
+EPR.8
+The construction contract was signed as a fixed-price, turnkey
+delivery arrangement from Areva and Siemens. Extra costs will most
+likely be borne by the two companies. Nonetheless, Areva is seeking
+to claim some of the additional costs from the investor, the Finnish
+utility TVO.
+Financing for the Finnish EPR has benefited from state support in the
+shape of a Euro 570 million loan guarantee provided by the French
+export agency COFACE. The low interest rates offered by French and
+German State-controlled banks may be in violation of EU legislation
+and are the subject of a pending complaint with the European
+Commission and the European Court.
+
+6 Greenpeace International  EPR: The French Reactor
+
+4.  Nuclear Power: an obstacle to
+
+tackling climate change
+
+Nuclear power could at best make only a negligible contribution to
+CO² reduction, coming many years too late. It would also deprive real
+climate solutions of funding. Currently, 439 commercial nuclear
+reactors supply around 15 percent of global electricity providing only
+6.5 percent of overall energy consumption. Even if today’s installed
+nuclear capacity was doubled it would only lead to reductions in
+global greenhouse gas emissions of less than five percent and would
+require one new large reactor to come online every two weeks until
+2030. An impossible task: even in countries with established nuclear
+programmes, planning, licensing and connecting a new reactor to
+the grid typically takes more than a decade.
+Regarding experience with the Finnish EPR, the International Energy
+Agency (IEA) warned against the risk of relying on the new reactor for
+emission cuts, saying in 2004 that any delays would inhibit Finland’s
+ability to meet its greenhouse gas reduction targets under the Kyoto
+Protocol. That risk has become a reality.
+In August 2008, after 27 months of construction, the project was
+officially declared to be between 24 and 30 months behind schedule
+and at least Euro 1,500 million (US$2,000 million) over budget.
+In October 2008, it was revealed that the delay is already three years.
+Unlikely to be operational before 2012, Olkiluoto 3 will not be ready in
+time to contribute to Finland’s Kyoto target.
+Similarly in November 2008, not learning anything about the
+construction problems and delays in Finland, it was revealed that the
+EPR in Flamanville has been delayed for a year.
+For more information about nuclear power and climate change, read
+the Greenpeace briefing, “Nuclear Power – Undermining Action on
+Climate Change” (2008).9
+
+There is a clear scientific consensus that global greenhouse gas
+emissions must peak and decline by 2015, and must be more
+than halved by 2050, or the global climate will suffer changes with
+catastrophic consequences. The nuclear industry, which has
+been in decline in Europe, has seized upon the climate crisis as a
+revival opportunity, claiming to offer a carbon-free contribution to
+our future energy mix.
+
+Nuclear power is an expensive and dangerous distraction from
+the real solutions to climate change. Greenhouse gas reduction
+targets can only be met through using the proven alternatives of
+renewable energy technologies and energy efficiency. Every Euro
+spent on nuclear power is a Euro stolen from the real solutions to
+climate change.
+
+Avoiding the most severe impacts of climate change requires
+governments, individuals and businesses worldwide to take
+immediate action. The world must get on a course to stay as far
+below a 2° Celsius temperature rise as possible. That course can
+only be reached by employing sustainable and renewable energy
+and energy-efficiency. Binding commitments are needed for
+industrialised countries to cut emissions by 30% in 2020 and
+80% in 2050, with domestic measures, and to direct massive
+funds for decarbonisation in developing countries.
+
+Greenpeace Recommendations
+
+An end to the nuclear age:
+
+•  Phase out existing reactors
+•  No new construction of commercial nuclear reactors
+•  Stop international trade in nuclear technologies and materials
+•  Phase out all direct and indirect subsidies for nuclear energy
+
+A renewable energy future:
+
+•   Divert state funding for energy research into nuclear and fossil
+fuel energy technologies towards clean, renewable energy and
+energy efficiency.
+
+•  Set legally-binding targets for renewable energy.
+•   Adopt legislation to provide investors in renewable energy with
+
+stable, predictable returns.
+
+•  Guarantee priority access to the grid for renewable generators.
+•   Adopt strict efficiency standards for all electricity-consuming
+
+appliances.
+
+1 Framatome ANP: EPR; brochure, March 2005
+2  Assessments of the Radiological Consequences of Releases from Proposed EPR/PWR
+
+Nuclear Power Plants in France, Large Associates, February 2007
+
+3  Démarche de dimensionnement des ouvrages epr vis-à-vis du risque lié aux chutes
+
+d’avions civils, DGSNR/SD2/033-2003
+
+4  Management of safety requirements in subcontracting during the Olkiluoto 3 nuclear
+power plant construction phase, Investigation report 1/06, STUK (Finland’s Radiation
+and Nuclear Safety Authority), 10 July 2006
+
+5 Ibid., at 23
+6  Greenpeace Finland’s briefing on Olkiluoto 3, March 2008
+
+http://www.greenpeace.org/international/press/reports/fact-sheet-olkiluoto-3
+
+7 ASN letter from Flamanville-3 inspection dated 25 January, 2008
+8 Nucleonics Week, Platts, 4 September 2008
+9  Nuclear Power – Undermining Action on Climate Change, Greenpeace International,
+March 2008. http://www.greenpeace.org/international/press/reports/nuclear-power-
+undermining-ac
+
+ EPR: The French Reactor  Greenpeace International
+
+7
+
+I
+
+G
+N
+B
+B
+O
+C
+K
+C
+N
+
+I
+
+/
+E
+C
+A
+E
+P
+N
+E
+E
+R
+G
+©
+
+Greenpeace is an independent global
+campaigning organisation that acts
+to change attitudes and behaviour,
+to protect and conserve the
+environment and to
+promote peace.
+
+For more information contact
+enquiries@int.greenpeace.org
+
+JN 180
+
+Cover image: @Greenpeace/Nick Cobbing
+
+Published in May 2008
+by Greenpeace International
+Otto Heldringstraat 5
+1066 AZ Amsterdam
+The Netherlands
+Tel: +31 20 7182000
+Fax: +31 20 5148151
+
+greenpeace.org
+8 Greenpeace International
+
+O
+D
+N
+O
+D
+E
+R
+L
+E
+K
+R
+A
+M
+
+/
+E
+C
+A
+E
+P
+N
+E
+E
+R
+G
+©
+

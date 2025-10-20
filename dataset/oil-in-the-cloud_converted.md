@@ -1,0 +1,1269 @@
+# Greenpeace Report: Oil in the Cloud
+
+Published: 05-19-2020
+
+Greenpeace is calling on cloud companies to make a public commitment to end
+problematic contracts with the oil and gas sector—those that explicitly aid in
+exploration or increased production of fossil fuels.
+
+![oil-in-the-cloud-hero-desktop](https://storage.googleapis.com/planet4-usa-
+stateless/2024/11/a6a8a74d-oil-in-the-cloud-hero-desktop.jpg)
+
+## Executive Summary
+
+As the oil and gas industry confronts the end of the oil age and deteriorating
+earnings, major oil corporations such as Shell, BP, Chevron, ExxonMobil and
+others have turned to the cloud giants and their high powered computing
+capabilities to find and extract more oil and gas and reduce production costs.
+Despite the biggest cloud companies’ commitments to address climate change,
+Microsoft, Google, and Amazon all have connections to some of the world’s
+dirtiest oil companies for the explicit purpose of getting more oil and gas
+out of the ground and onto the market faster and cheaper.
+
+Contracts between tech firms and oil and gas companies are now found in every
+phase of the oil and gas production chain and are significantly undermining
+the climate commitments that Microsoft, Google, and Amazon have made.
+
+### Weathering the oil downturn
+
+The outbreak of the coronavirus pandemic has dramatically reduced global
+demand for oil and gas. At the same moment, Saudi Arabia and Russia have
+increased production in an attempt to grab more market share. As a result, oil
+markets are currently experiencing a major supply glut and price crash. These
+twin crises have brought an abrupt halt to the surge in U.S. oil production
+that’s been playing out over the past several years, with analysts now
+predicting a steep decline in production over the rest of 2020.[1]
+
+While the near-term outlook for the oil and gas industry is bleak, the AI
+partnerships outlined in this report represent a critical toolkit that fossil
+fuel companies will use to bounce back from this downturn. Looking beyond the
+near term, the science is clear that the continued expansion of oil and gas
+production is placing our climate goals out of reach.[2],[3] To put the planet
+on a pathway to limit global warming to 1.5°C and avoid locking us into future
+carbon emissions, we must instead implement a managed decline for the fossil
+fuel industry, while rapidly deploying clean energy solutions. Such a plan
+must be centered around strong, just transition policies to ensure that
+workers and communities are left better off through the energy transition,[4]
+in contrast to the wave of layoffs happening now as a result of the global
+downturn in oil prices.
+
+### A devastating partnership for the climate
+
+Cloud computing and AI software aid the discovery, extraction, distribution,
+refining, and marketing of oil and gas. Technological innovations from
+hydraulic fracturing to horizontal drilling have helped drive the U.S. shale
+boom, and as a result, oil and gas deposits that were once considered too
+risky or expensive are now being opened for extraction. Cloud companies are
+facilitating data-driven innovations to build on these advances by identifying
+efficiencies and boosting oil and gas production.
+
+**This report exposes how the three largest cloud companies—Amazon (33% market
+share), Microsoft (18%), and Google (8%)[5]—are partnering with oil companies
+to use artificial intelligence technologies to unlock oil and gas deposits in
+the U.S. and around the world.** This report does not offer an exhaustive list
+of all machine learning contracts between cloud and oil companies, but
+showcases 14 relationships that explicitly aim to optimize oil production.
+
+### Key Findings:
+
+  * Although it is difficult to isolate the specific impact of cloud computing and AI on production levels, it is clear that these new information technologies will play a key role in returning the industry to expansion. Accenture has estimated that advanced analytics and modeling could generate at much as $425 billion in value for the oil and gas sector by 2025.[6] In one case, we found AI technologies could boost production levels by as much as 5%.
+  * Despite the crash in the price of oil, BloombergNEF predicts oil company spending on cloud computing and advanced analytics to increase from $2.5 billion in 2020 to $15.7 billion by 2030, mostly for the purposes of exploration and production. Capabilities which make it easier for oil companies to find and produce oil are a loss for the climate, yet none of the carbon emitted thanks to these advanced technologies are reflected in the tech companies’ published footprint data.
+  * All three tech companies appear to be aware of the disconnect between their stated climate goals and the real world climate impact of aiding the fossil fuel sector in becoming more productive and efficient. Indeed, since public awareness about these contracts has increased, all three companies have updated their websites to target the Energy Sector, rather than Oil & Gas explicitly.
+  * Microsoft appears to have the most contracts with oil and gas companies, offering AI capabilities in all phases of oil production. Microsoft can never truly achieve its recently announced “Carbon Negative” goal while continuing to aid the oil and gas sector with exploration and production. Microsoft’s contract with ExxonMobil alone could lead to emissions greater than 20% of Microsoft’s annual carbon footprint.
+  * Amazon has contracts in the mid and downstream phases of oil production, focusing on pipelines, shipping, and storage for oil and gas companies. The Amazon Web Services (AWS) cloud is the largest in the world, the virtual home to millions of websites, and is now being used by oil and gas firms to get oil to market more efficiently. Amazon CEO Jeff Bezos recently stepped up his company’s ambition on climate, announcing the Climate Pledge and his $10 billion Earth Fund. These efforts unfortunately ignore Amazon’s ongoing support of the fossil fuel sector with AI technologies.
+  * Google has undergone personnel and structural changes that seem to show Google is deprioritizing these contracts, stating recently it will no longer develop custom AI/ML solutions to facilitate upstream extraction for oil and gas companies. While this is a good first step, Google still needs to account for its existing involvement with oil and gas companies, and publicly commit to wind down these contracts.
+  * Much of this work is happening in the Permian Basin located in Texas and New Mexico, which has become the epicenter of the U.S. shale boom. The area contains vast oil and gas resources and enough potential carbon emissions to exhaust a significant share of our remaining carbon budget. Other regions where AI technologies are being deployed include the Atlantic Offshore, North Sea, Arctic, Gulf of Mexico, and the Tar Sands in Canada.
+
+### Tech companies can lead in the energy transition
+
+Corporate leadership is a key part of addressing the climate crisis. Google,
+Microsoft, and Amazon are often held up as climate leaders for the sizable
+financial and organizational investments they have dedicated to sustainability
+issues. However, the work is not done. **To realize the climate commitments
+they have set, Google, Microsoft, and Amazon must continue to reduce carbon
+emissions throughout their own operations and publicly distance themselves
+from customers that are making the climate crisis worse**. Greenpeace is
+calling on cloud companies to make a public commitment to end problematic
+contracts with the oil and gas sector—those that explicitly aid in exploration
+or increased production of fossil fuels.
+
+![](https://www.greenpeace.org/static/planet4-usa-
+stateless/2024/11/48481ef3-commitments-comparison.png)
+
+## Oil in the Cloud
+
+_**How Advanced Computing is Being Used throughout Oil Production**_
+
+Cloud companies provide their clients with data storage, but also with
+sophisticated tools for analyzing, modeling, and understanding the vast data
+sets found in the cloud. The sheer size of modern data sets has sparked an
+explosion of new techniques for extracting information from them. These new
+techniques are made possible by ongoing advances in computer processing power
+and speed, as well as aggregating computer power to improve performance (known
+as High-Performance Computing, or HPC).
+
+Many of these techniques are described as “data mining,” “machine learning,”
+or even “artificial intelligence.”[8] In general, data mining refers to the
+process of extracting information or knowledge from raw data. Machine learning
+(ML) is a sub-field of the larger field of artificial intelligence (AI)[9] and
+refers to the use of specific algorithms to identify patterns in raw data and
+represent the data as a model. Such models can then be used to make inferences
+about new data sets or guide decision-making.[10] The term “Internet of
+Things” (IoT) usually refers to a network of connected computing and physical
+devices that can automatically generate and transmit data about physical
+systems (e.g. automated monitoring of pipeline pressure and flow).
+
+![](https://www.greenpeace.org/static/planet4-usa-
+stateless/2024/11/fa666ab8-three-phases-of-oil-and-gas-operations.png)
+
+Oil and gas companies generate and utilize large data sets at every stage of
+operations and have turned to cloud companies to manage and understand that
+data in order to maximize both production and profits. The oil and gas
+industry can be defined by three broad areas of operation that describe each
+phase of the lifecycle of oil and gas: upstream, midstream, and downstream.
+This report exposes and details cloud computing contracts in each of these
+three phases of oil and gas activity.
+
+### Upstream: Finding and Extracting Oil and Gas
+
+![](https://www.greenpeace.org/static/planet4-usa-
+stateless/2024/12/7237688b-brent-oil-field-north-sea.jpg)
+
+Determining where best to drill an oil well is an uncertain process, and
+occasionally oil and gas exploration will result in a “dry well.” Oil and gas
+companies acquire and generate large data sets in order to reduce these
+uncertainties and maximize their return on capital investments. This can
+involve compiling known geological data as well as conducting seismic testing
+to gather information about what lies below the surface—and where the most
+likely places are to find oil or gas.
+
+Google and Microsoft appear to be the two cloud companies providing the most
+machine learning and high performance computing capability to upstream oil and
+gas operations—to optimize data analysis and accelerate the time from
+exploration to first oil production. Here are two ways they’re doing this:
+
+  * Enhancing incomplete datasets by predicting missing data. Machine learning can be used to estimate missing or incomplete data, by training an ML algorithm on known data sets and then applying that model to the new data.
+  * Using 3D modeling to reduce the time required for seismic data processing.
+
+In addition to specific machine learning contracts for managing upstream
+datasets, all three cloud companies are part of the Open Group Open Subsurface
+Data Universe™ (OSDU) Forum, an international group of oil and gas operators,
+including Shell, Chevron, Schlumberger, ExxonMobil, Total, BP, ConocoPhillips
+and Devon Energy, that aims to build an open data platform for the oil and gas
+industry.[11] The oil majors believe that this open data platform will enable
+them all to be more efficient and effective in finding oil deposits previously
+not recognized and unlocking those deposits with methods previously thought to
+be too risky or expensive. All of this is made possible by the machine
+learning and high-performance computing technologies provided by Google Cloud,
+Microsoft Azure, and Amazon Web Services.
+
+### Midstream: Transporting and Storing Oil and Gas
+
+![](https://www.greenpeace.org/static/planet4-usa-
+stateless/2024/12/2c04d60d-petro-canada-sag-d-pipelines.jpg)
+
+Upstream oil and gas fields are often very removed from refineries,
+petrochemical complexes, and export terminals, so a network of pipelines and
+storage facilities is needed to get the product to market. The U.S. midstream
+industry has been engaged in a massive buildout of pipeline capacity in recent
+years in order to accomodate the boom in shale production. In many places, the
+lack of pipeline takeaway capacity has been a key factor limiting production
+itself.[12]
+
+Microsoft, Amazon, and other companies are offering their services to help
+fossil fuel enterprises transport and store more oil and gas, from platform,
+to pipeline, to port, for example:
+
+  * Providing predictive maintenance and automated “smart” pipeline monitoring to reduce downtime.
+  * Ingesting and analyzing very large data sets to manage and optimize pipelines, inventory, and workforce.
+
+The pipeline industry has long pointed to leak detection and automation
+technology as the solution to pipeline leaks and spills. However, pipeline
+spills remain a threat.[13] Even when such technology functions correctly, the
+results can be catastrophic.[14] Apart from the health and ecological dangers
+they pose, many pipeline projects lack the consent of Indigenous communities
+whose lands could be impacted. For all these reasons and more, new pipeline
+projects have sparked resistance movements from Indigenous groups, water
+protectors, landowners, and frontline communities, from Canada to Mexico.
+
+### Downstream: Refining, Marketing, and Selling Oil and Gas
+
+![](https://www.greenpeace.org/static/planet4-usa-
+stateless/2024/12/66c72d54-exxonmobil-fire-in-baytown-texas.jpg)
+
+Lastly, cloud companies including Microsoft and Amazon are helping the fossil
+fuel industry refine, market, and sell more oil, gas, and petrochemicals on
+the global market in order to improve the industry’s overall profitability.
+The downstream sector is comprised of: refineries to process crude oil into
+petroleum products such as gasoline, diesel, and jet fuel; networks to
+distribute natural gas to power plants and buildings; and petrochemical plants
+which process natural gas liquids (NGLs) into plastics. Cloud companies are
+playing a role in downstream operations by:
+
+  * Facilitating crude refining, raw gas processing, and marketing and distribution of refined products for further processing into plastics and petrochemicals.
+  * Developing new technologies such as 3D printing, which are being used by the petrochemical industry to make the production of chemicals even faster and cheaper.[15]
+
+## Big Tech and Big Oil
+
+_**A Devastating Partnership for Climate**_
+
+![](https://www.greenpeace.org/static/planet4-usa-
+stateless/2024/11/685174d9-gp03zae_web_size_with_credit_line.jpg)
+
+Each of the three major cloud companies have cloud computing contracts with
+the oil and gas industry that specifically aid in the exploration or
+production of oil, and some are actively marketing their services in pursuit
+of more business. These contracts work directly against the commitments made
+by these companies to reduce carbon emissions. Here we reveal the stark
+disconnect between Google, Microsoft, and Amazon’s public climate goals and
+their ongoing business with oil and gas firms.
+
+### Google
+
+Google has been one of the most aggressive corporate buyers of renewable
+energy in the world, with projects now totaling over 5.5 GW of renewable
+energy capacity.[16] The company has also supported public policy initiatives
+to increase access to renewable energy. For example, Google helped to amend
+Taiwan’s Electricity Act to allow non-utility companies to directly buy
+renewable energy.[17] Google was one of the first tech companies to commit to
+going 100% renewable, and since 2017 has met its goal to purchase enough
+renewable energy to match its electricity consumption globally each year.
+Additionally, Google is fairly transparent in reporting its overall energy
+use, which shows the company’s approach to renewable energy procurement has
+been effective in shrinking its carbon footprint from an estimated 4.9 million
+tons CO2e (business as usual) to 1.2 million tons CO2e.[18] Google is now
+taking the next step to phase out fossil fuels from its data centers worldwide
+by pursuing 24/7 renewable energy solutions.[19]
+
+Not reflected in Google’s careful tally of carbon emissions are the additional
+emissions that result from the use of its technology by oil and gas companies
+to find and extract more oil—an endeavor that significantly undermines
+Google’s climate ambition. In 2018, Google attracted former President and
+General Manager of BP, Darryl Willis, as VP of Oil, Gas, and Energy at Google
+Cloud, where he was tasked with developing new products and solutions and
+building trusted relationships with key leaders and companies in the oil and
+gas sector.[20] In August 2019, Willis left Google to become VP of the Energy
+Industry at Microsoft. Perhaps precipitated by Willis’s departure, the Google
+Cloud Platform restructured its verticals to no longer include a specific
+business unit for oil and gas companies. Google’s most recent public contract
+was announced in May 2019 with Schlumberger. Schlumberger, in turn, sells this
+software to other oil and gas companies. Google is also a member of the Open
+Subsurface Data Universe Forum.[21]
+
+In addition to restructuring its Cloud verticals, Google recently removed oil
+and gas case studies from its website.[22] Compared to Microsoft and Amazon,
+Google appears to have reduced its active pursuit of oil and gas business. In
+a recent [interview with theCUBE](https://youtu.be/f14xGesaz9o?t=1425), Google
+Cloud managing director Will Grannis stated Google will not “develop custom
+AI/ML solutions to facilitate upstream extraction” for the oil and gas
+industry and instead focus on solutions for the renewables sector. This is a
+good step, however, Google still needs to account for its existing involvement
+with oil and gas companies and publicly commit to wind down these contracts.
+Like Pandora’s box, capabilities piloted on Google’s Cloud, even if brought to
+scale elsewhere, still have devastating climate impacts—when those
+capabilities are helping the oil majors find more oil.
+
+Finally, Google has been at the forefront in developing principles for
+responsible use of artificial intelligence.[23] Its number one objective in
+assessing AI applications is whether a project is socially beneficial. With
+just 10 years to halve global emissions and stabilize the climate, it’s hard
+to imagine how any use of AI by the oil and gas industry to boost production
+could be considered socially beneficial. Google should revise its AI guidance
+to explicitly exclude the use of AI for fossil fuel exploration and
+production, setting an example for its peers to follow.
+
+![](https://www.greenpeace.org/static/planet4-usa-
+stateless/2024/11/8b55c665-google-contracts.png)
+
+### Microsoft
+
+Earlier this year, Microsoft increased its climate ambition with a plan to
+become “carbon negative” by 2030, with a long-term ambition to offset all of
+its historical emissions by 2050.[24] Microsoft also announced a deadline of
+2025 for 100% renewable energy use and committed to end its long-time reliance
+on renewable energy credits, which have little impact toward phasing out
+fossil fuel use.[25] Noteworthy in Microsoft’s announcement was its plan to
+account for ongoing and historical scope 3 emissions, which includes its
+supply chain and the energy used to manufacture devices. With the exception of
+Apple, which has committed to power its supply chain with renewable energy,
+few other tech companies have gone as far as Microsoft to account for indirect
+carbon emissions. Unfortunately, there is a gaping hole in Microsoft’s carbon
+math equation—its ongoing support of the fossil fuel industry. Greenpeace and
+journalists are far from the only ones to notice this inconsistency. Under the
+pseudonym Zero Cool, a Microsoft engineer published an exposé of their
+employer’s problematic contracts in Kazakhstan and elsewhere,[26] and the
+Microsoft Workers 4 Good coalition has consistently brought attention to the
+need to terminate contracts.[27]
+
+![](https://www.greenpeace.org/static/planet4-usa-
+stateless/2024/11/dc6f98e5-added-carbon-microsoft-1.png)
+
+Microsoft appears to be the biggest tech partner to the oil and gas industry,
+lending its Azure cloud technology to help companies including ExxonMobil and
+VolgaGas find, export, and sell more fossil fuels, from shale in the Permian
+Basin to tar sands in Alberta. The emissions associated with these contracts
+are excluded from Microsoft’s carbon footprint and the company has explicitly
+stated its carbon negative plans will not include cancelling these
+contracts.[28] This exclusion is not insignificant—in one case, Microsoft
+noted that its technologies could support Permian production growth by “as
+much as 50,000 oil-equivalent barrels per day in the year 2025.”[29] This
+represents approximately 5% of ExxonMobil’s anticipated Permian oil production
+in that year and could add as much as 3.4 million metric tons of carbon into
+the atmosphere by 2025. To put it into perspective, this extra carbon is as
+much as 21% of Microsoft’s 2020 projected annual carbon footprint (scopes 1-3)
+of 16 million metric tons of CO2e. And this is just one of the contracts
+Microsoft presently holds with oil and gas companies. Further details on this
+calculation can be found in Appendix A.
+
+###### Microsoft’s Energy Website Caters its AI Solutions to the Oil & Gas
+Industry
+
+![](https://www.greenpeace.org/static/planet4-usa-
+stateless/2024/11/025b9018-image9.png)
+
+Signs that Microsoft is actively pursuing oil and gas business are easily
+found. Jason Zander, executive vice president of Azure, headlined at CERAWeek
+in 2019, the oil and gas industry’s premier annual conference.[30] Microsoft
+announced the “AI Center of Excellence,”[31] focused on accelerating the
+energy industry’s digital transformation, with partners including Schlumberger
+and Baker Hughes.[32] Perhaps most shockingly, the same week that Microsoft
+announced its new carbon negative plans, it was simultaneously sponsoring the
+International Petroleum Technology conference in Saudi Arabia.[33] Like
+Google, Microsoft has updated its website to target the Energy sector more
+broadly, however, one need not scroll down far to see the site is catering to
+Oil & Gas specifically with solutions such as “increased drilling hit
+rates.”[34]
+
+![](https://www.greenpeace.org/static/planet4-usa-
+stateless/2024/11/4d65358d-microsoft-contracts-1-1.png)
+
+### Amazon
+
+Amazon Web Services (AWS), a subsidiary of Amazon, is the largest provider of
+cloud hosting services in the world, creating the “virtual” homes of more than
+one million customers. These customers include well-known video streaming
+sites such as Netflix, Hulu, Slack, Pinterest, and Airbnb, as well as hundreds
+of educational institutions and government agencies, such as the State
+Department, NOAA, and the CDC.
+
+Amazon Web Services has been deliberate in its efforts to attract oil and gas
+industry cloud customers, including its headlining of the oil industry
+conference CERAWeek in 2019, alongside Microsoft.[39] Until April 2020, AWS
+had a dedicated website to attract oil and gas businesses, promising to
+“accelerate digital transformation, unleash innovation to optimize production
+and profitability, and improve cost and operational efficiencies necessary to
+compete under the pressures of today’s global energy market.”[40] The site has
+since been made over to cater (and redirect) to the more palatable Energy
+sector; however, most of the resources and case studies still point to oil and
+gas.[41]
+
+**_As of April 2020,[aws.amazon.com/oil-and-gas/](https://aws.amazon.com/oil-
+and-gas/) redirects to
+[aws.amazon.com/energy](https://aws.amazon.com/energy/)._**
+
+![](https://www.greenpeace.org/static/planet4-usa-
+stateless/2024/11/bfd0219f-aws-oil.png)
+
+![](https://www.greenpeace.org/static/planet4-usa-stateless/2024/11/946236ba-
+aws-energy.png)
+
+Amazon has also issued a policy on its contracts with oil and gas, stating it
+will provide cloud services to the energy industry to help them accelerate the
+development of their renewable energy business.[42] However, this does not
+line up with the nature of many of the machine-learning contracts we examined
+(see table below.) Indeed, AWS appears to have only one example in which its
+capabilities are advancing renewable energy.[43]
+
+These contracts stand out in stark contrast to recent commitments Amazon has
+made on climate. In September 2019—in response to mounting employee pressure
+and public outcry—Amazon CEO Jeff Bezos unveiled a new corporate “Climate
+Pledge.” With this pledge, Amazon set a goal to reach 100% renewable energy by
+2030 and become carbon neutral by 2040. Then in February, Bezos announced a
+$10 billion fund to address climate change, but shared little detail on the
+types of projects he will fund. Lack of details and transparency is an ongoing
+problem with Amazon. Among major tech companies, Amazon remains the least
+transparent in reporting data about its energy use, and unlike Microsoft,
+Amazon has shared scant details about how it will pursue its recently updated
+climate goals. To reduce its massive carbon footprint of 44.6 million metric
+tons, Amazon must aggressively remove emissions from its operations wherever
+it can, rather than simply offsetting them. Almost certainly left out of
+Amazon’s reported footprint are the emissions generated from its AI
+partnerships with oil and gas companies. Ending these contracts would be an
+obvious and immediate step for Amazon to reduce its ongoing contribution to
+the climate crisis.
+
+![](https://www.greenpeace.org/static/planet4-usa-
+stateless/2024/11/7d557fa2-amazon-contracts.png)
+
+## Big Tech and the Projects Driving Fossil Fuel Expansion
+
+The world has discovered more fossil fuels than we can safely use. Any new oil
+and gas projects or infrastructure are very likely inconsistent with the Paris
+Climate goals. The best available science from the Intergovernmental Panel on
+Climate Change clearly shows that the remaining carbon budget—the total amount
+of carbon emissions that we can emit before our planet warms beyond 1.5°C or
+2°C—is rapidly being exhausted.[45]
+
+Known fossil fuel reserves (i.e. deposits that fossil fuel companies have
+discovered but not yet extracted) are roughly five times larger than the 1.5°C
+carbon budget. What’s more, the carbon content from fossil fuel projects
+already moving forward (known as developed reserves) is enough to push us past
+1.5°C and exhaust the 2°C budget.[46] Producing nations are planning on levels
+of production in the coming decades that would put our climate goals out of
+reach.[47]
+
+The message is clear: We need to leave fossil fuels in the ground and start a
+managed decline of the industry, complete with strong protections for workers
+and communities.[48] Despite the writing on the wall, oil and gas companies
+are planning to invest billions in new extraction projects and are already
+breaking ground on projects that are inconsistent with the Paris goals.[49] By
+helping deploy AI tools to facilitate new oil and gas extraction and
+infrastructure projects, tech companies are putting our climate goals in
+jeopardy.
+
+In this section we highlight several examples of places and techniques where
+AI technology is being deployed to drive oil and gas expansion. These examples
+include the Permian Basin (site of the largest boom in shale production in
+recent years), the Atlantic Offshore (a region that has not previously seen
+oil production), the Canadian Tar Sands (where some of the dirtiest, most
+carbon-intensive oil in the world is produced), and others.
+
+### Permian Basin
+
+![](https://www.greenpeace.org/static/planet4-usa-
+stateless/2024/12/957aca44-texas-oil-well-development.jpg)
+
+Amazon, Microsoft, and Google’s fossil fuel partnerships have the potential to
+unlock carbon in numerous controversial oil and gas projects around the world.
+Perhaps nowhere is this better demonstrated than in the Permian Basin, the
+country’s most prolific oil basin, located in western Texas and southeastern
+New Mexico. Oil production in the Permian could exhaust close to 10% of the
+entire world’s carbon budget for staying within 1.5°C of warming.[50] By
+increasing production and growth in the Permian, these tech contracts are
+helping to make the Permian an even bigger source of carbon emissions, pushing
+us toward the edge of emissions limits for sustaining a liveable planet, as
+laid out by the Paris Agreement.
+
+Currently, all three tech companies have connections to the Permian, helping
+companies including ExxonMobil, Shell, Chevron, and others overcome the
+challenges of large and potentially incomplete data sets, technically
+difficult drilling methods, and overland distribution through active drilling
+zones. While production in these regions has already increased thanks to
+technological advances such as fracking and horizontal drilling, the oil
+companies have also credited the use of AI and other information technology
+with greater capital efficiency and at least some production increases above
+and beyond what would have otherwise occurred.
+
+In this section we discuss contracts between each cloud company and oil and
+gas companies operating in the Permian.
+
+#### Microsoft helping XTO and ExxonMobil
+
+In 2019, ExxonMobil and its subsidiary XTO, one of the largest acreage holders
+in the Permian, announced a major initiative with Microsoft to substantially
+increase its daily production in the next five years, using iAzure, Machine
+Learning, and other technologies.
+
+ExxonMobil, which covers a 9.5-billion oil-equivalent barrel resource base and
+more than 1.6 million acres in the Permian, may be the region’s biggest player
+using cloud technology.[51]
+
+According to a Microsoft case study, leveraging cloud technologies allowed XTO
+to capture and aggregate well completion data in order to gain valuable
+business insights.[52] By collecting real-time data from an area spanning
+hundreds of miles, ExxonMobil is able to “to make faster and better decisions”
+on drilling and well completion.
+
+Although it is not always possible to isolate the impact of these cloud
+technologies on production levels, Microsoft noted that its technologies could
+support Permian production growth by “as much as 50,000 oil-equivalent barrels
+per day by 2025.”[53] As discussed above, this represents approximately 5% of
+ExxonMobil’s anticipated Permian oil production in that year and could add as
+much as 3.4 million metric tons of carbon into the atmosphere by 2025 (see
+Appendix A). To put it into perspective, this extra carbon is as much as 21%
+of Microsoft’s projected annual carbon footprint of 16 million metric tons of
+CO2.[54] It’s worth noting that these emissions would occur throughout the
+time period in which the company is aiming to become carbon negative.
+
+> “The Permian Basin spans 86,000 square miles, two states, and has thousands
+> of leases and operators… By using cloud computing, edge computing, and
+> Artificial Intelligence (AI) operators can ingest, process, and analyze the
+> vast amounts of data generated by these technologies.”[55] – Bill Barna,
+> principal architect for Microsoft
+
+* * *
+
+> “Over the coming decade, we plan to drill thousands of new wells and build
+> dozens of new facilities. It’s challenging to keep up with that pace, but
+> with Azure, we have the digital technology to help support our growth in a
+> manageable and sustainable way.” – Staale Gjervik, President of XTO Energy
+
+####
+
+#### Microsoft and Google helping Chevron and Schlumberger
+
+As climate risks make oil and gas investments a riskier prospect, some of the
+world’s supermajor oil companies, including Chevron, are hedging their bets
+with the Permian Basin oil field. These companies hope to automate the whole
+enterprise—using artificial intelligence and cloud computing from the oil well
+to the refinery—in order to make it as efficient and profitable as
+possible.[56]
+
+Indeed, in 2019, Chevron announced plans to double production in the Permian
+in three years.[57] Chevron claims it will meet these goals by employing AI,
+cloud computing, and new drilling technology. “We always knew that there was
+more to give from the Permian, but we didn’t quite know how,” said Liz
+Schwarze, Chevron’s vice president of global exploration. Enter, Google and
+Microsoft.
+
+Google’s ties to the Permian Basin can be seen in its partnership with
+Schlumbeger, who provides oil and gas exploration and production software
+technology to Chevron. In September 2019, Chevron, Microsoft, and Schlumberger
+announced “the industry’s first three-party collaboration to accelerate
+creation of innovative petrotechnical and digital technologies.”[58]
+Schlumberberg worked closely with Google, as well as Microsoft, to get its
+DELFI cloud-based software to new clients, including Chevron.
+
+Google also is linked to the Permian through Schlumberger’s WesternGeco Omega
+geophysical data processing platform, which harnesses the power of Google’s
+cloud infrastructure and artificial intelligence (AI) capabilities[59] to
+uncover unconventional Permian resources.[60] In May 2019, Schlumberger
+announced that it significantly expanded its agreement with Google Cloud to
+develop cloud-native exploration and production (E&P) applications, including
+WesternGeco Omega.[61]
+
+> “Through this collaboration, we are combining Schlumberger’s petrotechnical
+> domain knowledge and expertise in high-performance computing, and 3-D data
+> visualization with Google Cloud’s proven experience in data analytics, AI
+> and infrastructure. Together, we will provide E&P customers with the
+> insights, efficiencies and technologies they need to drive innovation.” –
+> Robert Enslin, President of Global Customer Operations, Google Cloud.[62]
+
+* * *
+
+> “Combining the expertise of these three global enterprises [Schlumberger,
+> Chevron and Microsoft] creates vastly improved and digitally enabled
+> petrotechnical workflows. Never before has our industry seen a collaboration
+> of this kind, and of this scale. Working together will accelerate faster
+> innovation with better results, marking the beginning of a new era in our
+> industry that will enable us to elevate performance across our industry’s
+> value chain.” – Olivier Le Peuch, chief executive officer, Schlumberger
+
+#### Amazon Web Services helping NoviLabs and Shell
+
+Amazon currently hosts a prominent player in the Permian on its AWS Cloud
+client: Novilabs, who was hired by Shell to trial its machine learning and
+artificial intelligence well planning software in the Permian Basin.[63]
+
+> “We are collaborating with our strategic partners to progress a
+> technological step change in Shell’s shale assets and develop a shale field
+> of the future.” – Fred Wasden, Asset of the Future Manager, Shell
+
+### Atlantic Offshore
+
+![](https://www.greenpeace.org/static/planet4-usa-
+stateless/2024/12/f59b121a-kayaktivist-training-during-arctic-sunrise-tour-in-
+virginia.jpg)
+
+The prospect of opening up the Atlantic coast to offshore oil drilling, and
+the seismic blasting that would proceed it, has sparked a bipartisan backlash
+from Virginia to Florida.
+
+Coastal communities in the region are heavily dependent on tourism, all of
+which would be threatened by opening it up to the oil industry. Offshore
+seismic testing can be extremely harmful to marine wildlife, and scientists
+have warned that seismic blasting off the Atlantic Coast could be a “tipping
+point” for the North Atlantic right whale—one of the most critically
+endangered whales on the planet, with only 450 individuals
+remaining—potentially putting it on a path toward extinction.
+
+President Trump has proposed expanding drilling into the Atlantic, although
+his new offshore plan remains on hold after legal setbacks. The National
+Marine Fisheries Service (NMFS) approved incidental harassment authorizations
+for five seismic companies looking to collect data in the Atlantic, although a
+final permit from the Bureau of Ocean Energy Management is still pending.
+
+Here we highlight one contract between a seismic company and a cloud company.
+It’s worth noting that the data-intensive seismic sector extends beyond the
+Atlantic coast and is a key frontier for adopting AI techniques. See more
+details on seismic testing in the Glossary.
+
+#### Microsoft helping CGG
+
+In 2019, CGG was one of five companies granted incidental harassment
+authorization by the National Marine Fisheries Service (NMFS) to disturb sea
+life while performing seismic blasting between Delaware and Florida.[64] That
+same year, CGG announced a new collaboration with Microsoft, to deliver its
+geoscience products, data, and services on Microsoft Azure.[65] CGG feeds
+seismic blast data into its modeling software powered by Microsoft Azure.
+
+> “CGG was an early innovator in seismic inversion, the technique of
+> converting seismic survey reflection data into a quantitative description of
+> the rock properties in an oil and gas reservoir… These images are invaluable
+> in oil and gas exploration.”[66] – Microsoft
+
+### North Sea and the Arctic
+
+![](https://www.greenpeace.org/static/planet4-usa-
+stateless/2024/12/48191e95-protest-in-norway-on-oil-rig-bound-for-arctic-
+drilling.jpg)
+
+#### Google Cloud supporting Cognite, Aker BP, and Baker Hughes GE
+
+Aker BP is one of the largest owner-operators of offshore drilling rigs
+focused on the Norwegian Continental Shelf and is using Cognite’s Data
+Platform—built on the Google Cloud Platform— to minimize drilling downtime,
+which can result in hundreds of thousands of dollars of lost production per
+hour. Cognite is a software as a service company based in Oslo.
+
+Baker Hughes GE is another company with operations in the North Sea that has
+turned to predictive data analytics to enhance its operations. Baker Hughes GE
+is using Cognite products built on Google Cloud to run gas turbines that power
+actual production platforms.[67]
+
+> “The key advantages to working with Google are the raw technology and the
+> access to the Google team. For the first time you can access data in
+> seconds. Being able to correlate all this historical and live data is a big
+> ‘wow’ for everyone involved.” – Dr. John Markus Lervik, CEO, Cognite[68]
+
+### Tar Sands and Canadian Oil
+
+![](https://www.greenpeace.org/static/planet4-usa-stateless/2024/12/9e6f8fbd-
+rainbow-pipeline-oil-spill-in-alberta.jpg)
+
+Alberta’s tar sands produce some of the most carbon-intensive and
+environmentally destructive oil in the world. A lack of pipeline takeaway
+capacity has constrained the growth of new tar sands investment and
+production, although pipelines such as the Keystone XL, the Trans Mountain
+Expansion Project, and the Line 3 Expansion have been proposed to remove this
+bottleneck. Multiple analyses have found that any new growth in tar sands
+extraction (and hence any new pipeline capacity[69]) is flatly inconsistent
+with the Paris Climate goals.[70]
+
+####
+
+#### Microsoft and Plains Midstream Canada
+
+Microsoft and Plains Midstream Canada (PMC)—a subsidiary of Plains All
+American Pipeline that specializes in crude oil and gas transportation,
+storage, processing, and marketing—have a deep working relationship. With the
+help of Microsoft’s Digital Advisory Services, PMC has created a five-year
+digital transformation roadmap for harnessing big data, predictive analytics
+and machine learning, cognitive computing, and other technologies in order to
+connect oil and gas producers with refiners and customers throughout Canada
+and the United States. This contract could expand PMC’s already large
+footprint of approximately 7,100 kilometers of pipeline, seven billion cubic
+feet per day of gas processing capacity, five million barrels of crude oil
+storage, and 31 million barrels of natural gas liquids storage capacity.[71]
+
+> “We also took advantage of the fact that Microsoft’s experience isn’t just
+> global, it runs across industries. For example, while we might be classed as
+> an oil and gas company, we’re much like a transportation or logistics
+> company since we get energy from the drilling site to the processing site.
+> Microsoft’s experience in those other industries critically informed our
+> Digital Roadmap and was key to our success in creating it.”[72] – Dan
+> Reinbold, Vice President of Information Services at Plains Midstream Canada
+> (PMC).
+
+#### Microsoft and Suncor
+
+In late 2019, Microsoft and Suncor announced a multiyear strategic
+partnership. Suncor is the first company to develop the Tar Sands and still
+one of the largest players in Alberta. This action by Suncor counters a move
+by its largest competitor, Imperial Oil (an ExxonMobil subsidiary), which in
+September of 2019 announced a two-year agreement with the Alberta Machine
+Intelligence Institute (Amii). Amii will help Imperial Oil to develop its in-
+house machine learning capabilities.
+
+The government of Alberta recently lamented that the oil and gas industry
+operating in the Tar Sands is behind in using AI to maximize their output.
+Recent large investments have enabled the creation of an “AI Hub” in Alberta,
+and Microsoft and Google have both opened AI offices in the province.
+Unfortunately for the climate, no new tar sands projects are compliant with
+the Paris Climate accord.
+
+> “If you think into the future—and wherever that future is—there isn’t an
+> environment where any company survives without becoming digital. So we view
+> this as a competitive advantage to be digital before our competition… We
+> have to go to the next level, because we have to continue to improve our
+> reliability and cost structure.”[73] – Sandy Martin, Senior Vice President,
+> Digital and Enterprise Technology, Suncor
+
+![](https://www.greenpeace.org/static/planet4-usa-
+stateless/2024/12/bd3167b7-suncor-oil-refinery.jpg)
+
+## Conclusion
+
+While Microsoft, Google, and Amazon each have commitments to reduce their own
+carbon emissions and invest in renewable energy, they’re undermining these
+goals by facilitating the expansion of new oil and gas extraction, which locks
+the world into greater global carbon emissions and delays the necessary
+transition to renewable energy.
+
+With less than ten years to dramatically cut emissions in order to avoid the
+worst consequences of climate change, tech companies that court oil firms or
+support them with high-powered computation capabilities are putting their feet
+on the accelerator to catastrophic warming. If Microsoft, Amazon, and Google
+are serious about their roles in addressing the climate crisis, they must stop
+pursuing business deals that fuel the expansion of the fossil fuel industry,
+create fossil fuel lock-in, and further jeopardize the future of the planet.
+They must start planning now to end their most destructive contracts,
+including enabling oil and gas expansion in the Permian Basin, and phase out
+all upstream, midstream, and downstream AI and cloud services contracts with
+the fossil fuel industry.
+
+### Road Map to Ending Contracts with Big Oil
+
+  * Immediate moratorium on all new machine learning and high-performance computing contracts for oil and gas companies, so that internal considerations can be made about the climate impacts of these projects and whether or not they contradict any preexisting corporate principles for AI application.
+  * Assessment of the most problematic contracts from an environmental perspective, i.e., any contracts that facilitate higher levels of oil and gas production, identify new extraction projects, open up new areas to drilling, or are otherwise inconsistent with the Paris Climate goals.
+  * Winding down of existing contracts, prioritized by climate impacts.
+  * Public commitment to no longer offer machine learning or high performance computing capabilities for the oil and gas sector for the purpose of new exploration or increased production, and to not renew existing contracts. End membership with the Open Subsurface Data Universe Forum.
+  * Public commitment to pivot AI contracts for the energy sector to scale up renewable energy and other sustainable solutions.
+
+Corporate leadership is a key part of addressing the climate crisis. Google,
+Microsoft, and Amazon are good examples of companies that have devoted
+organizational capital to reducing their carbon footprints for many years now.
+However, their work is not done. To realize the climate commitments they have
+set, Google, Microsoft, and Amazon must publicly distance themselves from
+fossil fuel companies and ensure their clouds are not being used to enhance
+extraction, production, or distribution of oil and gas.
+
+### Scaling Up Green Ambition
+
+In addition to ending problematic contracts with the oil and gas sector, tech
+companies must continue to reduce their own operational emissions as quickly
+as possible.
+
+In 2020, corporate climate leadership must be redefined to match the urgency
+of the climate crisis. Only companies that align their whole business behind
+the global 1.5°C ambition can claim to be true climate leaders. Companies can
+show their leadership by setting ambitious near-term targets that reflect the
+urgency of the climate crisis and inspire increased ambition from peers and
+governments alike. In the appendix we detail ways for companies to set high-
+impact renewable energy commitments.
+
+[Click here to add your name to tell Microsoft, Amazon, and Google CEOs to
+stop fueling the climate crisis and drop AI contracts with Big
+Oil!](https://engage.us.greenpeace.org/onlineactions/KLwzfosW_E-
+VQl0I3UBKSg2?utm_source=website&utm_medium=report&sourceid=1007817)
+
+## Glossary
+
+**Artificial Intelligence (AI):** a branch of computer science dealing with
+the simulation of intelligent behavior in computers
+
+**High-Performance Computing (HPC):** techniques used to aggregate computer
+power to improve performance
+
+**“Internet of Things” (IoT):** a network of connected computing and physical
+devices that can automatically generate and transmit data about physical
+systems (e.g. automated monitoring of pipeline pressure and flow).
+
+**Machine Learning (ML):** a sub-field of the larger field of artificial
+intelligence (AI)[74] referring to the use of specific algorithms to identify
+patterns in raw data and represent the data as a model. Such models can then
+be used to make inferences about new datasets or guide decision-making.[75]
+
+**Seismic Testing:** Involves sending intense sound waves into rock formations
+and measuring the characteristics of the reflected sound that bounces back.
+This information is then used to create a model of where oil and gas deposits
+might be located under the surface. Offshore seismic testing is typically
+conducted by airguns and an array of hydrophones towed behind ships. Onshore
+seismic testing is sometimes carried out by “thumper trucks” that generate
+sound waves by raising and dropping a heavy weight on the ground.
+
+## Appendix
+
+### A. Attribution of Carbon Emissions to Microsoft AI Contracts
+
+We estimate the carbon emissions due to additional oil and gas production
+facilitated by Microsoft’s partnership with ExxonMobil in the Permian Basin.
+We find that this contract could reasonably lead to downstream emissions of
+**7.6 million metric tons CO2-eq per year** (MtCO2-eq/y) in 2025. Considering
+global oil market response, this could increase global emissions from oil
+consumption by roughly**3.4 MtCO2-eq/y**. By comparison, Microsoft has
+reported annual emissions from its operations of 16 MtCO2-eq.[76]
+
+If ExxonMobil is utilizing Microsoft technology across its entire operations —
+or considering Microsoft contracts with other oil and gas operators — then
+**the emissions attributed to Microsoft technology could be significantly
+higher**.
+
+#### Additional Production due to Cloud Contracts
+
+For any given contract between a cloud company and an upstream oil and gas
+producer, it can be difficult to estimate how much oil and gas production is
+directly due to the technology provided. That is, how much production is
+additional beyond what would have been produced in the absence of the
+contract.
+
+In the case of Microsoft’s partnership with ExxonMobil in the Permian Basin,
+Microsoft claimed in a press release that its technologies could expand
+Permian production by “as much as 50,000 oil-equivalent barrels per day by
+2025.”[77] In a separate press release, ExxonMobil predicted that its Permian
+output could rise to as much as “1 million oil-equivalent barrels per day” in
+2024.[78] So very roughly, Microsoft’s technology would increase oil and gas
+production by 5% by year 2025, for the specific case of ExxonMobil in the
+Permian.
+
+#### Oil vs Gas Mixture
+
+Neither Microsoft nor ExxonMobil provide the breakdown between oil and gas in
+the 50,000 boe/d production estimate. However, in 2019 ExxonMobil’s operations
+in the Permian region were roughly 86% liquids production (crude + condensate
++ NGLs) and 14% dry gas.[79] Assuming this same split in 2025, we find that
+Microsoft’s contract would lead to an additional 43,000 bbl/d liquids
+production and 7,000 boe/d gas production. On an annual basis, this
+corresponds to 15.7 million barrels and 15.3 billion cubic feet of natural gas
+per year.[80]
+
+#### Downstream vs Lifecycle Emission Factors
+
+To first approximation we assume 100% of these liquids are combusted[81] with
+a downstream emissions factor of 0.43 metric tons CO2 per bbl.[82] We also
+assume 100% of the dry gas production is combusted with a downstream emissions
+factor of 55.1 metric tons CO2 per million cubic feet (tCO2/MMcf).
+
+Under these assumptions, 50,000 boe/d of Permian production will result in 7.6
+MtCO2-eq/y of downstream emissions when that oil and gas is combusted.
+
+These factors do not include emissions from extraction (which can include both
+fugitive methane emissions as well as CO2 emissions from flaring),
+transportation or refining. The Oil Climate Index from the Carnegie
+Institution gives full lifecycle emissions for a selection of global crude
+oils. That analysis does not specifically profile Permian crude oils, but does
+find that the median U.S. crude oil will lead to 0.51 metric tons of CO2-eq
+over its lifecycle.[83]
+
+The Permian basin currently exhibits high levels of both flaring and venting.
+In particular, a 2019 Greenpeace investigation found that ExxonMobil was the
+largest flaring operator in the Permian between April 2018 and March 2019.[84]
+This indicates that the downstream emissions factors used here are
+underestimating the true carbon impact of any additional Permian production.
+Venting or fugitive methane emissions are especially damaging to the climate,
+as uncombusted methane is roughly 86 times more powerful a greenhouse gas than
+CO2 over a 20 year timeframe.
+
+#### Global Market Response
+
+The above figure estimates the CO2 emissions due to downstream combustion of
+the oil and gas, but a more conservative estimate of the emissions impact will
+also incorporate the response of global markets to such a shift in supply.
+
+Because crude oil is a commodity that is traded globally and responds to
+global prices, an increase in oil supply in the U.S. can lead to displacement
+of oil production elsewhere in the world. The impact of an increase in
+production on global oil consumption (and hence net emissions from oil) can be
+estimated.[85] In contrast, the market response for natural gas is less well
+understood and more regional, although given the global increase in liquefied
+natural gas trade, that could be changing.
+
+An increase in the supply of oil of 43,000 bbl/day due to technological
+advances can be expected to lower global oil prices and increase global oil
+consumption. This increase in supply will displace some oil production
+elsewhere in the world, but 100% displacement is unlikely in most
+circumstances. A review of the literature on oil market elasticities has
+concluded that a one barrel increase in oil supply leads to a roughly half-
+barrel increase in global oil consumption (with broad uncertainties).[86] A
+reasonable range for this “displacement factor” runs from 0.2 to 0.8 barrels
+consumed for each additional barrel produced.[87]
+
+Applying this very conservative assumption to the additional liquids
+production, we find that this increase in liquids production alone would lead
+to an increase in global carbon emissions from oil consumption of roughly
+**3.4 MtCO2-eq/y**.
+
+This brief represents a rough estimate of emissions due to cloud computing
+contracts and could be refined through further research.
+
+### B. High-Impact Corporate Renewable Energy Plan Checklist
+
+  1. Set clear, ambitious, and absolute near-term targets (samples below)
+  2. Complement ambitious targets with high levels of transparency to chart progress
+  3. State clear procurement principles that maximize renewable energy uptake, to include the prioritization of renewables that are local, additional, and displacing fossil fuel demand (see below)
+  4. Support policies that will drive renewable energy deployment linked to corporate footprint
+
+#### Sample High-Impact Corporate Commitments
+
+  * 100% renewable energy for own operations before 2025
+  * Fossil fuel phase out from direct energy consumption before 2030
+  * 100% renewable energy including supply chain before 2035
+  * Net Zero operations and supply chains between 2025-2035
+  * Strong and consistent policy advocacy in favour of 1.5°C consistent policies
+
+#### Renewable Energy Procurement Principles
+
+To ensure corporate renewable energy (RE) purchases will result in the
+reduction of CO2 and other pollutants from fossil fuels, the following core
+principles should be used to shape and guide strategies for achieving 100%
+renewable energy goals:
+
+  * **Local:** Renewable energy supply is located on the same grid as the company’s demand.
+  * **Additional:** Renewable energy is new and additional, going beyond what would have occurred with existing policy targets or mandatory requirements for utilities.
+  * **Displace dirty energy demand:** New renewables supply displaces demand for existing dirty electricity generation.
+  * **Avoid Shortcuts:** Taking harmful shortcuts to reaching 100% renewable energy dramatically reduces the real world impact of corporate RE purchasing and undermines the credibility of companies sustainability claims. Shortcuts to avoid include using unbundled renewable energy credits and overstating progress by signing one large power purchase agreement in one region and claiming it accounts for energy use everywhere.
+  * **Renewables advocacy:** Pursue strong policy advocacy to change the regulatory and policy framework to rapidly increase the supply of renewable energy on the grids where companies have operations and major suppliers.
+
+## Endnotes
+
+a. <https://www.youtube.com/watch?v=4gQ2NqNazgs>
+
+b.
+<https://www.rigzone.com/news/total_google_cloud_team_up_to_develop_oil_gas_ai_solutions-25-apr-2018-154392-article/>
+
+c. <https://www.slb.com/newsroom/press-release/2019/pr-2019-0513-slb-google-
+cloud>
+
+d.
+<https://web.archive.org/web/20191112022558/https://cloud.google.com/customers/cognite/>
+
+e. <https://news.microsoft.com/2019/09/17/schlumberger-chevron-and-microsoft-
+announce-collaboration-to-accelerate-digital-transformation/>
+
+f. <https://customers.microsoft.com/en-in/story/735156-cgg-speeds-geoscience-
+insights-on-azure-hpc>
+
+g. <https://customers.microsoft.com/en-in/story/seadrill>
+
+h. <https://customers.microsoft.com/en-us/story/exxonmobil-mining-oil-gas-
+azure>
+
+i. <https://customers.microsoft.com/en-us/story/plains-midstream-canada>
+
+j. <https://news.microsoft.com/transform/chevron-fuels-digital-transformation-
+with-new-microsoft-partnership/>
+
+k. <https://aws.amazon.com/solutions/case-studies/ge-oil-gas/>
+
+l. <https://aws.amazon.com/solutions/case-studies/willbros/>
+
+m. <https://aws.amazon.com/solutions/case-studies/seaoil/>
+
+n. <https://aws.amazon.com/solutions/case-studies/bp/>
+
+1\. Rystad Energy. 2020. Shale bloodbath accelerates as 650,000 bpd growth
+turns into equivalent drop. March 19.
+
+2\. Muttitt, G. 2016. The Sky’s Limit: Why The Paris Climate Goals Require a
+Managed Decline of Fossil Fuel Production. Oil Change International.
+September.
+<http://priceofoil.org/content/uploads/2016/09/OCI_the_skys_limit_2016_FINAL_2.pdf>
+
+3\. SEI, IISD, ODI, Climate Analytics, CICERO, & UNEP. 2019. The Production
+Gap: The discrepancy between countries’ planned fossil fuel production and
+global production levels consistent with limiting warming to 1.5°C or 2°C.
+<http://productiongap.org/>
+
+4\. Brecher, J. 2019. No Worker Left Behind: Protecting Workers and
+Communities in the Green New Deal. Labor Network for Sustainability.
+<https://www.labor4sustainability.org/articles/no-worker-left-behind-in-the-
+green-new-deal/>
+
+5\. <https://www.statista.com/chart/18819/worldwide-market-share-of-leading-
+cloud-infrastructure-service-providers/>
+
+6\. <http://reports.weforum.org/digital-transformation/wp-
+content/blogs.dir/94/mp/files/pages/files/white-paper-2017-dti-oil-gas.pdf>
+
+7\. <https://about.bnef.com/blog/oil-sector-to-spend-16b-by-2030-on-cloud-
+analytics/>
+
+8\. See Glossary for further explanation of these terms
+
+9\. Russell, S. & P. Norvig. 2010. Artificial Intelligence: A Modern Approach,
+3rd Edition. Pearson.
+
+10\. See discussion in Patterson, A. & J. Gibson. 2017. Deep Learning: A
+Practitioner’s Approach. O’Reilly Media: Sebastopol, CA.
+
+11\. <https://www.opengroup.org/sites/default/files/pdf/osduforummembers.pdf>
+
+12\. <https://www.oilandgas360.com/canada-needs-more-pipeline-takeaway-
+capacity/>
+
+13\. <https://www.greenpeace.org/usa/reports/dangerous-pipelines/>
+
+14\. Following detection of a spill on the Keystone Pipeline in 2017,
+operators shut down the pipe within 15 minutes, however that relatively rapid
+shutdown still resulted in a spill of more than 400,000 gallons;
+<https://thehill.com/policy/energy-environment/360777-keystone-pipeline-shut-
+down-after-spilling-5000-barrels-of-oil-in> ; The same pipeline spilled again
+in 2019, and the company is in preparations to build the controversial
+Keystone XL pipeline <https://www.washingtonpost.com/climate-
+environment/2019/10/31/keystone-pipeline-leaks-gallons-oil-second-big-spill-
+two-years/>
+
+15\. EY <https://assets.ey.com/content/dam/ey-sites/ey-
+com/en_gl/topics/manufacturing/ey-chemicals-and-3D-printing-ey-and-
+SAP-1-June-2018.pdf?download>
+
+16\. <https://www.blog.google/outreach-initiatives/sustainability/our-biggest-
+renewable-energy-purchase-ever/>
+
+17\. <https://www.blog.google/outreach-initiatives/sustainability/let-
+sunshine-opening-market-more-renewable-energy-asia/>
+
+18\. <https://services.google.com/fh/files/misc/google_2019-environmental-
+report.pdf>
+
+19\.
+[https://sustainability.google/projects/24×7/](https://sustainability.google/projects/24x7/)
+
+20\. <https://www.linkedin.com/in/darryl-willis/>
+
+21\. <https://www.opengroup.org/sites/default/files/pdf/osduforummembers.pdf>
+
+22\. <https://cloud.google.com/customers#/industries=Energy_%26_Utilities>
+
+23\. <https://ai.google/principles/>
+
+24\. <https://blogs.microsoft.com/blog/2020/01/16/microsoft-will-be-carbon-
+negative-by-2030/>
+
+25\. See Clicking Clean 2017 for details on Microsoft’s past reliance on
+unbundled RECs and why this strategy does little toward increasing renewable
+energy investment.
+
+26\. <https://logicmag.io/nature/oil-is-the-new-data/>
+
+27\. <https://github.com/MSworkers/for.ClimateAction> and
+<https://twitter.com/MsWorkers4/status/1217887749342035968>
+
+28\. <https://blogs.microsoft.com/blog/2020/01/16/microsoft-will-be-carbon-
+negative-by-2030/>, see Empowering customers around the world section.
+
+29\. Microsoft. 2019. ExxonMobil to increase Permian profitability through
+digital partnership with Microsoft. February 22.
+
+<https://news.microsoft.com/2019/02/22/exxonmobil-to-increase-permian-
+profitability-through-digital-partnership-with-microsoft/>
+
+30\.
+<https://news.ihsmarkit.com/prviewer/release_only/slug/ceraweek-2019-amazon-
+web-services-ceo-and-head-microsoft-azure-headline-technology-pro>
+
+31\. <https://news.microsoft.com/en-xm/2019/11/12/microsoft-announces-ai-
+centre-of-excellence-at-adipec-2019-to-accelerate-innovation-across-energy-
+sector/>
+
+32\. Additional partners include: ABB, Accenture, AVEVA, C3.ai, Emerson,
+Honeywell, Maana, Rockwell Automation, and Sensia
+
+33\. <https://www.vice.com/en_us/article/xgqypn/while-microsoft-was-making-
+its-climate-pledge-it-was-sponsoring-an-oil-conference>
+
+34\. <https://azure.microsoft.com/en-us/industries/energy/>
+
+35\. “CGG Speeds Geoscience Insights on Azure HPC.” Microsoft. Accessed
+February 28, 2020. <https://customers.microsoft.com/en-in/story/735156-cgg-
+speeds-geoscience-insights-on-azure-hpc>.
+
+36\. “Future Decoded 2018: How Seadrill uses IoT 3km undersea.” Computer
+Weekly, November 5, 2018.
+<https://www.computerweekly.com/news/252451904/Future-Decoded-2018-How-
+Seadrill-uses-IoT-3km-undersea>
+
+37\. “Dallas/ Fort Worth Data Management Q4 Luncheon 2019,” Professional Data
+Management Association, December 11, 2019.
+[https://ppdm.org/PPDM/PPDM/Event_Display.aspx?EventKey=LDFWQ42019&WebsiteKey=927055e8-ec5d-4b51-96ef-5dbe0a133439](https://ppdm.org/PPDM/PPDM/Event_Display.aspx?EventKey=LDFWQ42019&WebsiteKey=927055e8-ec5d-4b51-96ef-5dbe0a133439)
+.
+
+38\. Microsoft. 2019. ExxonMobil to increase Permian profitability through
+digital partnership with Microsoft. February 22.
+<https://news.microsoft.com/2019/02/22/exxonmobil-to-increase-permian-
+profitability-through-digital-partnership-with-microsoft/>
+
+39\.
+<https://news.ihsmarkit.com/prviewer/release_only/slug/ceraweek-2019-amazon-
+web-services-ceo-and-head-microsoft-azure-headline-technology-pro>
+
+40\. <https://web.archive.org/web/20200304010614/https://aws.amazon.com/oil-
+and-gas/>
+
+41\.
+[https://aws.amazon.com/energy/resources/?nc=sn&loc=4](https://aws.amazon.com/energy/resources/?nc=sn&loc=4)
+
+42\. <https://www.aboutamazon.com/our-company/our-positions>
+
+43\. <https://aws.amazon.com/partners/success/edf-renewables-47lining/>
+
+44\. <https://aws.amazon.com/solutions/case-studies/ge-oil-gas/>
+
+45\. Trout, K. 2018. The Sky’s Limit and the IPCC Report on 1.5 Degrees of
+Warming. Oil Change International. <http://priceofoil.org/2018/10/17/the-skys-
+limit-ipcc-report-15-degrees-of-warming/>
+
+46\. Muttitt 2016.
+
+47\. SEI et al. 2019.
+
+48\. Donaghy. 2019. Real Climate Leadership: Why The Next President Must
+Prioritize A Fossil Fuel Phase Out. Greenpeace, June.
+<https://www.greenpeace.org/usa/reports/fossil-fuel-phaseout/>
+
+49\. Grant, A. & M. Coffin. 2019. Breaking the Habit – Why none of the large
+oil companies are “Paris-aligned”, and what they need to do to get there.
+Carbon Tracker, September. <https://carbontracker.org/reports/breaking-the-
+habit/>
+
+50\. Trout, K. & L. Stockman. 2019. Drilling Toward Disaster: Why U.S. Oil and
+Gas Expansion is Incompatible With Climate Limits. Oil Change International.
+<http://priceofoil.org/content/uploads/2019/01/Drilling-Towards-Disaster-
+Web-v2.pdf>
+
+51\. “ExxonMobil Streamlining Upstream Organization to Support Growth Plans.”
+ExxonMobil, February 22, 2019.
+<https://corporate.exxonmobil.com:443/News/Newsroom/News-
+releases/2019/0222_ExxonMobil-to-increase-Permian-profitability-through-
+digital-partnership-with-Microsoft>.
+
+52\. <https://customers.microsoft.com/en-gb/story/exxonmobil-mining-oil-gas-
+azure>
+
+53\. Microsoft. 2019. ExxonMobil to increase Permian profitability through
+digital partnership with Microsoft. February 22.
+<https://news.microsoft.com/2019/02/22/exxonmobil-to-increase-permian-
+profitability-through-digital-partnership-with-microsoft/>
+
+54\. Jardim, Elizabeth. Microsoft, Google, Amazon – “Who’s the Biggest Climate
+Hypocrite?”
+
+, Greenpeace USA, January 27, 2020, <https://www.greenpeace.org/usa/microsoft-
+google-amazon-energy-oil-ai-climate-hypocrite/>
+
+55\. “Dallas/ Fort Worth Data Management Q4 Luncheon 2019,” Professional Data
+Management Association, December 11, 2019.
+[https://ppdm.org/PPDM/PPDM/Event_Display.aspx?EventKey=LDFWQ42019&WebsiteKey=927055e8-ec5d-4b51-96ef-5dbe0a133439](https://ppdm.org/PPDM/PPDM/Event_Display.aspx?EventKey=LDFWQ42019&WebsiteKey=927055e8-ec5d-4b51-96ef-5dbe0a133439)
+.
+
+56\. Lee, Mike, “OIL AND GAS: Robots in the Permian? Climate Concerns Drive
+Innovation.” EE News, April 23, 2019.
+<https://www.eenews.net/stories/1060201281> .
+
+57\. Chevron plans to produce 650,000 barrels of oil equivalent per day,
+although production in 2020 may be closer to about 500,000 barrels per day of
+oil due to a reduction in Chevron’s capital expenditures in response to the
+recent collapse in global oil prices.
+
+Paraskova, Tsvetana. “Chevron Looks To Double Permian Production By 2022.”
+OilPrice.com, January 30, 2019.
+
+<https://www.ft.com/content/eecea550-6dde-11ea-9bca-bf503995cd6f>
+
+58\. “Schlumberger, Chevron and Microsoft Announce Collaboration to Accelerate
+Digital Transformation.” Microsoft press release, September 17, 2019.
+<https://news.microsoft.com/2019/09/17/schlumberger-chevron-and-microsoft-
+announce-collaboration-to-accelerate-digital-transformation/>.
+
+59\. “Schlumberger Selects Google Cloud as a Preferred Cloud Provider,”
+Schlumberger press release, May 13, 2019. <https://www.slb.com/newsroom/press-
+release/2019/pr-2019-0513-slb-google-cloud>.
+
+60\. “Data Proc & Acqui SIG: Uncovering Permian Unconventional Resources With
+High Density Seismic,” Geophysical Society (Houston, December 10, 2019).
+[https://www.gshtx.org/SharedContent/Events/Event_Display.aspx?EventKey=a6ed6e52-099f-4081-b015-614b226a2f2c&WebsiteKey=955f17e6-46ad-4401-acbd-2af6c393752b](https://www.gshtx.org/SharedContent/Events/Event_Display.aspx?EventKey=a6ed6e52-099f-4081-b015-614b226a2f2c&WebsiteKey=955f17e6-46ad-4401-acbd-2af6c393752b).
+
+61\. “Schlumberger Selects Google Cloud as a Preferred Cloud Provider,”
+Schlumberger press release, May 13, 2019. <https://www.slb.com/newsroom/press-
+release/2019/pr-2019-0513-slb-google-cloud>.
+
+62\. <https://www.slb.com/newsroom/press-release/2019/pr-2019-0513-slb-google-
+cloud>
+
+63\. “SHELL ISHALE® COLLABORATES WITH NOVI LABS LLC.” Shell US. Accessed
+February 28, 2020. <https://www.shell.us/about-us/features-and-
+highlights/shell-ishale-collaborates-with-novi-labs-llc.html>.
+
+64\. Faulkner, Tim. “Seismic Blasting Permits Move Forward Even as Plans for
+Offshore Drilling Are Paused.” ecoRI News, April 29, 2019.
+<https://www.ecori.org/renewable-energy/2019/4/29/seismic-blasting-permits-
+moving-forward-as-offshore-drilling-pauses>. (Faulkner)
+
+65\. Offshore staff. “EAGE 2019: CGG Reassessing Prospectivity of western
+Indian Ocean.” Offshore, June 6, 2019. <https://www.offshore-
+mag.com/geosciences/article/14034612/eage-2019-cgg-reassessing-prospectivity-
+of-western-indian-ocean>.
+
+66\. “CGG Speeds Geoscience Insights on Azure HPC.” Microsoft. Accessed
+February 28, 2020. <https://customers.microsoft.com/en-in/story/735156-cgg-
+speeds-geoscience-insights-on-azure-hpc>.
+
+67\. <https://www.youtube.com/watch?v=QbugwQu-SAc>
+
+68\.
+<https://web.archive.org/web/20191112022558/https://cloud.google.com/customers/cognite/>
+
+69\. Scott, A. & G. Muttitt. 2017. Climate on the Line: Why New Tar Sands
+Pipelines Are Incompatible With The Paris Goals. Oil Change International,
+January.
+<http://priceofoil.org/content/uploads/2017/01/climate_on_the_line_FINAL-
+OCI.pdf>
+
+70\. Grant & Coffin 2019.
+
+71\. Plains Midstream, “Plains Midstream Canada Makes Expansion”, Canada
+NewsWire, July 8, 2019. <https://www.newswire.ca/news-releases/plains-
+midstream-canada-announces-rangeland-pipeline-expansion-889088998.html>
+
+72\. “Will Your Digital Transformation Help You Achieve Strategic Business
+Goals?” Microsoft Customers Stories, 19 Jan. 2018,
+<https://customers.microsoft.com/en-us/story/plains-midstream-canada>
+
+73\. Geofrey Morgan, “Suncor deal with Microsoft for digital transformation
+first for the oilsands”, Financial Post, November 12, 2019,
+<https://business.financialpost.com/commodities/energy/suncor-strikes-deal-
+with-microsoft-for-digital-transformation-in-first-for-the-oilsands>
+
+74\. Russell, S. & P. Norvig. 2010. Artificial Intelligence: A Modern
+Approach, 3rd Edition. Pearson.
+
+75\. See discussion in Patterson, A. & J. Gibson. 2017. Deep Learning: A
+Practitioner’s Approach. O’Reilly Media: Sebastopol, CA.
+
+76\. <https://www.greenpeace.org/usa/microsoft-google-amazon-energy-oil-ai-
+climate-hypocrite/>
+
+77\. Microsoft. 2019. ExxonMobil to increase Permian profitability through
+digital partnership with Microsoft. February 22.
+<https://news.microsoft.com/2019/02/22/exxonmobil-to-increase-permian-
+profitability-through-digital-partnership-with-microsoft/>
+
+78\. ExxonMobil. 2019. ExxonMobil to increase, accelerate Permian output to 1
+million barrels per day by 2024. March 5.
+<https://corporate.exxonmobil.com/News/Newsroom/News-
+releases/2019/0305_ExxonMobil-to-increase-accelerate-Permian-output-
+to-1-million-barrels-per-day-by-2024>
+
+79\. Rystad Energy, UCube, accessed 4/13/2020
+
+80\. We assume 6000 cubic feet = 1 boe of gas
+
+81\. Note: this is a first approximation and further research would be needed
+to understand emissions from NGL and condensate production in the Permian
+region.
+
+82\. U.S. EPA. Greenhouse Gases Equivalencies Calculator – Calculations and
+References. <https://www.epa.gov/energy/greenhouse-gases-equivalencies-
+calculator-calculations-and-references>
+
+83\. <https://oci.carnegieendowment.org/#total-emissions>
+
+84\. Carter, L. & T. Donaghy. 2019. Exxon and BP among worst for flaring in US
+oil fields despite green pledges. Unearthed, October 17.
+<https://unearthed.greenpeace.org/2019/10/17/exxon-bp-flaring-united-states-
+climate-change/>
+
+85\. On the assumption that OPEC or other producing nations will not
+coordinate to target production levels
+
+86\. Erickson, P. & M. Lazarus. 2014. Impact of the Keystone XL pipeline on
+global oil markets and greenhouse gas emissions. Nature Climate Change,
+4:778–781. <https://www.nature.com/articles/nclimate2335>
+
+87\. Erickson, P. & M. Lazarus. 2018. Would constraining US fossil fuel
+production affect global CO2 emissions? A case study of US leasing policy.
+Climatic Change, 150:29–42.
+<https://link.springer.com/article/10.1007%2Fs10584-018-2152-z>
+
+Oil drill, truck, and gas pump icons from [icons8](https://icons8.com/).
+

@@ -1,0 +1,49 @@
+# A Deadly Trade-off: IOI’s Palm Oil Supply and Its Human and Environmental Costs
+
+Over the last two decades, the plantation sector has laid waste to Indonesia’s
+forests and peatlands. Millions of hectares have been destroyed for pulp and
+oil palm concessions, at great cost to wildlife, workers, communities, and our
+climate. But who is to blame? And who has the power to deliver change?
+
+This Greenpeace International investigative report looks at the Malaysian palm
+oil company IOI Group and its downstream subsidiary in Europe and North
+America, IOI Loders Croklaan.
+
+Despite policies to ensure that its palm oil supply is free from
+deforestation, peatland destruction, or exploitation, IOI continues to buy
+palm oil from third-party suppliers linked to serious environmental
+destruction and human rights abuses, including:
+
+  * Clearance of forest, including primary forest, in Papua (Austindo Nusantara Jaya, Eagle High, Goodhope, Korindo) and Kalimantan ( Eagle High, Indofood, TH Plantations)
+
+  * Development on peatland ( Eagle High, Goodhope, TH Plantations)
+
+  * Extensive uncontrolled fires (Eagle High, Indofood, Korindo) including evidence of deliberate use of fire in land clearing (Korindo)
+
+  * Exploitation of workers, including evidence of child labour (Eagle High, Indofood)
+
+  * Human rights abuses, including developing land without the proper free, prior and informed consent (FPIC) of the local community (Austindo Nusantara Jaya, Goodhope) and excessive force including by on-site army and paramilitary police (Eagle High, Goodhope)
+
+![A Deadly Trade-off](https://www.greenpeace.org/static/planet4-usa-
+stateless/2024/11/2a478936-a-deadly-e1475183485213.jpg)
+
+© Greenpeace International
+
+The problems identified in this report are not limited to IOI, but include all
+major traders, including Golden Agri Resources, Musim Mas, and Wilmar.
+
+These traders are not only members of the Roundtable of Sustainable Palm Oil
+(RSPO) but have their own sustainable sourcing or no-deforestation policies.
+Many growers profiled in these case studies are also RSPO members.
+
+Our findings show that the problem is systemic and raises concerns for all
+companies downstream of the destruction.
+
+Responsible companies must start working together, to the same standards,
+using the same tools, to identify and exclude rogue players such as those
+identified in this report.
+
+## [**Download the full
+report.**](https://www.greenpeace.org/international/Global/international/publications/forests/2016/Deadly-
+Trade-off-IOI-Report.pdf)
+

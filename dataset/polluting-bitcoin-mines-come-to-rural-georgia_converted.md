@@ -1,0 +1,4320 @@
+Greenpeace is an independent campaigning
+organization that uses peaceful protest and
+creative communication to expose global
+environmental problems and to promote
+solutions that are essential to a green and
+peaceful future.
+
+Published July 2023 by
+Greenpeace USA*
+702 H Street NW Suite 300
+Washington, DC 20001
+Tel: 202.462.1177
+
+Authors: Erik Kojola, Joshua Archer, and
+Pamela Wellner (Amplify Eco)
+
+Contributers: Gujari Singh, Charlie Cray,
+Nathaniel Green, Erik Kojola, Nick Smith, Rolf
+Skar, Tim Aubrey, and Casson Trenor
+
+Copy Editor: James Norton
+
+Design by: Kyle Mckibbin
+
+Greenpeace USA is also grateful for the
+review and contributions of others not listed
+here, including members of the Change
+the Code, Not the Climate coalition and
+colleagues from other Greenpeace NROs.
+greenpeace.org
+
+*Greenpeace Inc. is a registered Internal
+Revenue Service 501(c)(4) nonprofit entity
+that operates in the United States of America.
+
+CONTENTS
+Executive Summary
+Introduction
+Bitcoin Mining’s Environmental and Social Cost
+Big Finance and Bitcoin’s Growing Pollution
+Bitcoin Exposure Scorecards
+Innovating Bitcoin for a Warming World
+Methodology
+Glossary
+Endnotes
+
+4
+5
+7
+11
+14
+31
+33
+36
+38
+
+© Janie Osborne / Greenpeace
+
+EXECUTIVE SUMMARY
+
+Bitcoin has emerged as a new roadblock to progress
+on addressing the climate crisis. The energy con-
+sumption and carbon emissions from Bitcoin, the
+world’s largest cryptocurrency, rival those of some
+small countries, and the global machine that keeps
+it running generates air, water, and noise pollution.
+Bitcoin has also provided a much-needed lifeline to
+fossil fuels, working against progress in efforts to
+phase out coal, oil, and gas. Left unchecked, Bitcoin’s
+climate destruction is likely to accelerate.
+
+Despite these challenges, traditional financial ser-
+vices companies continue to fuel Bitcoin’s expan-
+sion by investing in Bitcoin mining companies and
+offering new investment products and services tied
+to Bitcoin. This report evaluates the role nine large
+
+financial services companies are playing in Bitcoin’s
+climate-wrecking growth and whether they are work-
+ing to address Bitcoin’s pollution. All of these com-
+panies have connections to Bitcoin and have failed to
+take meaningful action to solve the problem despite
+making climate and sustainability pledges.
+
+Our research finds that asset manager BlackRock
+and bank JPMorgan Chase & Co. are leading Bitcoin
+supporters in their respective sectors of the financial
+services industry. These companies provide a range of
+investments and services, and have done nothing to
+address Bitcoin’s impact on communities and climate.
+They have failed to acknowledge the problem and
+take responsibility for cleaning up Bitcoin.
+
+4  INVESTING IN BITCOIN’S CLIMATE POLLUTION: BIG FINANCE IS BETTING ON DIRTY BITCOIN
+
+© Felix Schmitt / Greenpeace
+
+1            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  01001010101010110101010010101001001010101001010101010101010010101001010101010100010110111011010001010011001101001010101010110101010010101101001010101101010101010010111010111010111010110101011010111010011001101001010101010110111011100101010110010101010010100010100101010010101001011010111000101100010110101010000110111010010100010101101101010100110010100100110000001100101101010000010100100101001011100001001101000011011INTRODUCTION
+
+Since Bitcoin (BTC) launched in 2009, the technology
+has dramatically altered the ways we interact with
+technology and finance. Today, Bitcoin poses a threat
+to our future by fueling the climate crisis. The latest
+synthesis report from the Intergovernmental Panel on
+Climate Change (IPCC) warns us that limiting warming
+to 1.5°C is the safest trajectory for society, but that tar-
+get is quickly slipping away and demands fundamental
+transformations of the global economy.1 Numerous
+international agencies and scientific bodies have deter-
+mined that meeting the 1.5°C target will require us to
+rapidly expand renewable energy and keep fossil fuels
+in the ground.2 At this moment, Bitcoin’s large energy
+consumption is completely at odds with the dramatic
+change we need to make.
+
+Bitcoin’s problem lies in its code. As coded today,
+Bitcoin transactions are recorded through an ener-
+gy-intensive process called proof-of-work (PoW) min-
+ing. To feed the machine, Bitcoin consumes as much
+electricity as medium-sized industrialized countries
+like Sweden.3 The vast network of miners that keep
+the wheels turning have also revived decommissioned
+coal-fired and fossil fuel power plants and siphoned
+electricity from the same infrastructure that powers
+our homes. Yet, there are alternative consensus mech-
+anisms that consume a mere fraction of the energy.4
+
+Bitcoin’s energy consumption leads to increased
+greenhouse gas (GHG) emissions at precisely the
+moment we need to reduce them. In 2022, Bitcoin
+was estimated to produce 58 Metric tons (Mt) CO2,
+which is more than all of Chile.5 Tragically, the prob-
+lem is only going to grow more severe if Bitcoin fails
+to evolve beyond PoW. Future growth in the crypto-
+currency’s use and price would send Bitcoin’s energy
+consumption and carbon emissions soaring, create
+incentives for miners to seek cheap energy sources
+like coal, and roll back the hard-won progress made
+on cutting emissions.
+
+Against this background, Bitcoin is at an important
+crossroad. To safeguard against further climate
+destruction, it is critical that we modify Bitcoin’s
+underlying code and eliminate PoW mining. The chal-
+lenge to realizing this critical evolution of Bitcoin is
+precisely the same feature that makes it unique – it is
+a decentralized network. To adopt a new sustainable
+
+system, a diverse coalition of stakeholders, including
+financial companies and Bitcoin developers, need to
+come together, agree on the problem, and shape the
+next iteration.
+
+To encourage this process, Greenpeace USA is focused
+on leaders in the traditional financial services sector
+who facilitate Bitcoin’s growth. The Bitcoin industry–
+including the companies that operate crypto exchanges
+where people can buy, store, and sell bitcoin, and run
+industrial Bitcoin mining facilities–is dependent on
+access to traditional government-backed currencies
+and banking services. Major banks and asset managers
+have poured millions into the mining companies that
+are straining the grid and spewing pollution. Payment
+processors are driving Bitcoin’s accelerating energy
+consumption by enabling further adoption. Despite
+any progress these companies have boasted in recent
+years on reducing the climate impact of their oper-
+ations and portfolios, their Bitcoin investments and
+products fall outside the boundaries of their carbon
+
+© Tracie Williams / Greenpeace
+
+INVESTING IN BITCOIN’S CLIMATE POLLUTION: BIG FINANCE IS BETTING ON DIRTY BITCOIN  5
+
+1            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  0100101010101011010101001010100100101010100101010101010101001010100101010101010001011011101101000101001100110100101010101011010101001010110100101010110101010101001011101011101011101011010101101011101001100110100101010101011011101110010101011001010101001010001010010101001010100101101011100010110001011010101000011011101001010001010110110101011            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  0100101010101011010101001010100100101010100101010101010101001010100101010101010001011011101101000101001100110100101010101011010101001010110100101010110101010101001011101011101011101011010101101011101001100110100101010101011011101110010101011001010101001010001010010101001010100101101011100010110001011010101000011011101001010001010110110101000100101001001100000011001011010100000101001001010010111000010011010000011011accounting and impede progress on environmental
+sustainability goals.
+
+This report investigated nine major financial insti-
+tutions pulling the strings to keep the Bitcoin cli-
+mate wrecking ball swinging. Our research identifies
+BlackRock as the worst contributor among asset man-
+agers, which provide the most direct support to Bitcoin
+miners in the form of bonds and shareholdings as well
+as investment products and services tied to Bitcoin.
+JPMorgan Chase & Co. (Chase) is the biggest Bitcoin
+backer within the banking sector, which provides a mix
+of mining company investment, and Bitcoin products
+and services. Among payment processors, our research
+found that both Visa and Mastercard provide substan-
+tial support for broader Bitcoin adoption.
+
+These companies have a responsibility to engage in
+future-proofing Bitcoin. Namely, they are uniquely
+positioned to resource and support the development
+
+and implementation of an alternative consensus
+mechanism for securely validating transactions and
+maintaining Bitcoin’s digital ledger that is less ener-
+gy-intensive and polluting. There is a broad menu of
+technologies to choose from and examples of other
+digital assets that have evolved beyond PoW mining
+and adopted less energy intensive systems.6 To date,
+the financial services industry has failed to acknowl-
+edge responsibility for the problem. Major asset man-
+agers, banks, and payment processors have put profit
+before people and the planet by turning a blind eye to
+Bitcoin’s climate impact.
+
+The movement to Change the Code offers the finance
+industry an opportunity to lead the way in developing
+a new, cleaner future for Bitcoin. If it successfully
+innovates, Bitcoin can join the other technologies that
+are innovating to respond to the climate crisis. If it
+fails, the technology will remain incompatible with a
+just, habitable planet for all.
+
+6  INVESTING IN BITCOIN’S CLIMATE POLLUTION: BIG FINANCE IS BETTING ON DIRTY BITCOIN
+
+© Paul Langrock / Greenpeace
+
+1            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  01001010101010110101010010101001001010101001010101010101010010101001010101010100010110111011010001010011001101001010101010110101010010101101001010101101010101010010111010111010111010110101011010111010011001101001010101010110111011100101010110010101010010100010100101010010101001011010111000101100010110101010000110111010010100010101101101010100110010100100110000001100101101010000010100100101001011100001001101000011011BITCOIN MINING’S ENVIRONMENTAL
+AND SOCIAL COST
+
+power-hungry and require resource-intensive cooling
+mechanisms. At the time of this report, Bitcoin
+mining is estimated to use more electricity than some
+entire countries, including what the Philippines and
+Sweden consumed in 2019.11 In the United States,
+the seven largest crypto mining companies use the
+same amount of electricity needed to power every
+residence in Houston, which has a population of
+2.3 million people.12
+
+Electronic waste from Bitcoin mining is also notable.
+The thousands of specialized Bitcoin mining computers
+only last a short time, quickly becoming obsolete in
+the competitive race to have the fastest and most
+efficient hardware, and turn into e-waste.13 Data
+is incomplete, but one estimate suggests Bitcoin
+mining generates roughly 45.51 kt of e-waste in a
+year, equivalent to the IT waste generated by the
+Netherlands.14 The comparison to other segments
+of the financial sector is difficult. What can be said
+with certainty is that fixing Bitcoin would nearly
+eliminate this e-waste entirely, reducing the volume
+of e-waste that ends up in landfills, incinerators, and
+disassembly operations that harm the poorest and
+most vulnerable communities.
+
+Pollution and Community Harm
+
+The process of mining Bitcoin comes with a significant
+cost to air, land, water, and community health. While
+Bitcoin proponents argue that PoW mining offers
+benefits to communities, on-the-ground realities
+have yet to deliver on the technology’s promises.7
+So, how does Bitcoin cause pollution and
+community harm?
+
+Bitcoin is the largest and most popular digital
+cryptocurrency which works outside a centralized
+authority like a bank or government. It operates
+through a decentralized and collectively-maintained
+database, or digital ledger, that provides a record of
+all Bitcoin transactions stored on the blockchain. The
+record’s accuracy is protected through cryptography
+to prevent double counting and fraudulent
+transactions. This process requires a mechanism
+for reaching consensus to validate transactions.
+Bitcoin uses a proof-of-work (PoW) mechanism in
+which participants are committed to protecting the
+system’s integrity by putting in work, and thereby
+consuming electricity.8 Many other, and newer,
+cryptocurrencies don’t use this energy-guzzling
+process, thus, Bitcoin is far and away the biggest
+polluting cryptocurrency.9
+
+To prove their work, miners compete to be the first
+to guess the number that completes a complex
+algorithm. The computers act like random number
+generators and those with more computing power
+can guess more numbers in less time, increasing
+their chances of winning. The winner gets to validate
+a new set, or “block,” of Bitcoin transactions that
+are added to the blockchain and is rewarded with
+transaction fees and newly generated bitcoins, or a
+“block subsidy.”10
+
+As Bitcoin mining has evolved, miners have expanded
+their computing power. Mining companies use
+warehouse-sized banks of specialized computers
+called application-specific integrated circuit
+(ASIC) computers designed solely to participate
+in the number guessing game. The machines are
+
+INVESTING IN BITCOIN’S CLIMATE POLLUTION: BIG FINANCE IS BETTING ON DIRTY BITCOIN  7
+
+© Tim Aubry / Greenpeace
+
+1            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  0100101010101011010101001010100100101010100101010101010101001010100101010101010001011011101101000101001100110100101010101011010101001010110100101010110101010101001011101011101011101011010101101011101001100110100101010101011011101110010101011001010101001010001010010101001010100101101011100010110001011010101000011011101001010001010110110101011            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  0100101010101011010101001010100100101010100101010101010101001010100101010101010001011011101101000101001100110100101010101011010101001010110100101010110101010101001011101011101011101011010101101011101001100110100101010101011011101110010101011001010101001010001010010101001010100101101011100010110001011010101000011011101001010001010110110101000100101001001100000011001011010100000101001001010010111000010011010000011011Bitcoin is a Carbon Timebomb
+
+A substantial body of research has documented
+Bitcoin’s large and growing energy consumption. In
+2014, the electricity needed to mine a single bitcoin
+was equal to the amount an average U.S. household
+used in 275 days. By 2022, that figure had skyrocketed
+to around nine years.15 From 2016 to 2018, researchers
+estimate that mining digital assets consumed more
+energy than the physical mining of copper, nickel, and
+gold to produce the same market value.16
+
+Bitcoin’s energy-hungry technology has caused
+substantial environmental and social damage. Much
+of the electricity powering Bitcoin mines comes from
+fossil fuels, especially dirty coal. Researchers at
+Cambridge University’s Centre for Alternative Finance
+estimate that 62% of the electricity used for Bitcoin
+mining globally in 2022 came from fossil fuels and
+coal was the largest single source. Only 26% of the
+electricity was from renewables.17 Bitcoin mining
+companies have even reopened mothballed coal-
+fired power plants while others are using waste coal,
+one of the dirtiest sources of energy.18 Analysis by
+researchers at the nonprofit WattTime for a New York
+Times investigation found that 34 large crypto mines
+in the U.S. cause nearly 16.4 million tons of carbon
+pollution each year.19
+
+Bitcoin’s energy consumption has kept more coal
+and gas power in our energy mix, in parallel with an
+
+increasingly urgent need to hasten our transition away
+from fossil fuels.20 Bitcoin’s fossil fuel lifeline even
+extends to companies like ExxonMobil, which is exploring
+how to do Bitcoin mining at fracked oil and gas wells.21
+
+The connection to climate change is real. By creating
+new demand for dirty energy, Bitcoin mining is accel-
+erating climate change and producing GHG emissions.
+In 2022, the global Bitcoin industry produced around
+58 Mt of CO2 annually, more than country-level
+emissions from Chile.22 And Bitcoin’s carbon footprint
+has only grown over time. Researchers estimate that
+in 2021 mining a single bitcoin emitted 126 times the
+CO2 as a bitcoin mined in 2016.23
+
+Much of Bitcoin’s GHG emissions originate in the
+United States, which was estimated to have almost
+40% of global Bitcoin mining computer power.24 In 2021,
+when China cracked down on Bitcoin mining, partially
+due to environmental concerns, miners relocated to
+other parts of the world.25 Places with cheap fossil
+fuels took on a greater share of global mining opera-
+tions, including Kazakhstan, parts of the former Soviet
+Republic, and the United States. The net impact seems
+to be that Bitcoin’s carbon intensity increased.26 In the
+United States alone, the CO2 emissions from Bitcoin
+mining facilities is equivalent to adding 7.5 million
+vehicles to American roadways.27 Yet, information on
+the location and energy sources of Bitcoin mining facil-
+ities is hard to find, pointing to the need for increased
+disclosures and transparency in the industry.
+
+Scrubgrass Generating Power Plant in Pennsylvania
+
+8  INVESTING IN BITCOIN’S CLIMATE POLLUTION: BIG FINANCE IS BETTING ON DIRTY BITCOIN
+
+© Scott Goldsmith / Greenpeace
+
+1            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  01001010101010110101010010101001001010101001010101010101010010101001010101010100010110111011010001010011001101001010101010110101010010101101001010101101010101010010111010111010111010110101011010111010011001101001010101010110111011100101010110010101010010100010100101010010101001011010111000101100010110101010000110111010010100010101101101010100110010100100110000001100101101010000010100100101001011100001001101000011011Riot Platforms: The Biggest Carbon Emitter
+Of the Bitcoin mining companies in this report,
+Riot Platforms is a leading recipient of invest-
+ment dollars from banks and asset managers
+— over $700 million from Vanguard, BlackRock,
+Fidelity, JPMorgan Chase, Goldman Sachs
+Group, and Citigroup. Vanguard and BlackRock
+are the company’s two largest shareholders, with
+combined holdings of about one third of shares.
+
+These investments support an energy and subsidy-
+guzzling facility. Riot’s facility in Rockdale, Texas
+is the largest carbon emitter and energy user
+among U.S.-based Bitcoin mines, according to a
+New York Times investigation.28 The mine is esti-
+mated to consume as much electricity as 300,000
+surrounding homes. Analysis by the nonprofit
+WattTime found that the facility emitted 1.918
+million tons of CO2 per year and 96% of its
+energy demand was met by fossil fuels.
+
+Riot has even found a way to get paid by Texas
+ratepayers through a program called Responsive
+Reserve Service that pays large energy users
+to use less energy or shut-off during periods of
+peak demand. Through this program, it can be
+more profitable for Riot to turn-off its computers
+than mine Bitcoin.29 In 2022, Riot made nearly
+$9.3 million from the program.30
+
+Residents in Navarro County, TX, have organized
+against Riot Platforms to stop the miner from
+consuming massive amounts of electricity,
+increasing rates for water and electricity for
+residents, increasing air pollution, and causing
+excessive noise pollution.31
+
+s
+n
+o
+i
+l
+l
+i
+
+M
+
+350
+
+300
+
+250
+
+200
+
+150
+
+100
+
+50
+
+0
+
+Value of Shareholdings in Riot Platforms
+
+$326,138,253
+
+$309,938,961
+
+$38,207,486
+
+$19,971,697
+
+Vanguard
+
+BlackRock
+
+Citigroup
+
+Fidelity
+
+$6,038,512
+
+JPMorgan
+Chase
+
+$53,122
+Goldman
+Sachs
+
+Based on shareholdings and prices as of 4/25/202332
+
+© Aaron M. Sprecher / Greenpeace
+
+If we fail to fix Bitcoin, its energy consumption will
+continue to grow, particularly as large financial com-
+panies further enable its wider adoption and push
+more miners into this lucrative guessing game. The
+industry’s emissions will continue to take us in the
+wrong direction and further complicate efforts to
+avert the worst consequences of the climate crisis.
+Given the magnitude of Bitcoin’s energy consumption
+and the potential for it to grow rapidly as Bitcoin
+adoption scales, simply converting the Bitcoin mining
+industry to renewable energy will not suffice. We need
+to reduce energy demand to defuse this carbon time
+bomb before it detonates by changing Bitcoin’s con-
+sensus mechanism.
+
+Bitcoin Losing Its
+Social License
+
+Because of Bitcoin mining’s excessive energy con-
+sumption, some countries have banned mining and
+several U.S. states are considering stricter regulations.
+Before implementing a ban on Bitcoin mining in 2021,
+China hosted the largest crypto mining industry in
+the world.33 Iceland, where geothermal energy had
+initially attracted miners, placed a moratorium on new
+facilities.34 Sweden and Norway recently increased tax
+rates for Bitcoin miners making it largely unprofitable
+to mine.35 In the United States, the New York state
+government passed a two-year moratorium on new
+crypto mining facilities operating behind-the-meter
+with fossil fuels.36
+
+At the local level, communities are resisting Bitcoin
+mining companies that try to hang a shingle in their
+backyards. Air, water, and noise pollution drive a
+wedge between the miners and their communities
+and feed local resistance.37 Communities across the
+
+INVESTING IN BITCOIN’S CLIMATE POLLUTION: BIG FINANCE IS BETTING ON DIRTY BITCOIN  9
+
+1            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  0100101010101011010101001010100100101010100101010101010101001010100101010101010001011011101101000101001100110100101010101011010101001010110100101010110101010101001011101011101011101011010101101011101001100110100101010101011011101110010101011001010101001010001010010101001010100101101011100010110001011010101000011011101001010001010110110101011            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  0100101010101011010101001010100100101010100101010101010101001010100101010101010001011011101101000101001100110100101010101011010101001010110100101010110101010101001011101011101011101011010101101011101001100110100101010101011011101110010101011001010101001010001010010101001010100101101011100010110001011010101000011011101001010001010110110101000100101001001100000011001011010100000101001001010010111000010011010000011011United States living near Bitcoin mines have com-
+plained about the constant noise from the 24-hour
+operations.38 Other damages include water pollution
+from water withdrawal and discharge for power plant
+operations and cooling mining facilities, solid waste
+from burning fossil fuels, and land use changes from
+the construction of these industrial operations.39
+
+The problem is especially dire where mines are pow-
+ered by coal-fired and fossil gas power plants. Coal
+combustion produces fine particles of sulfur dioxide,
+nitrogen oxides, and other air toxins. These local
+impacts can also worsen existing environmental injus-
+tices burdening neighboring communities.40
+
+Stronghold Digital Mining, a company in which Fidelity,
+Goldman Sachs, BlackRock, and Vanguard hold shares,
+purchased two waste coal-fired power plants in
+Pennsylvania that had been operating inconsistently
+but are now running regularly to power Bitcoin min-
+ing.41 Waste coal is one of the dirtiest forms of energy.
+According to U.S. Energy Information Administration
+data from 2021, Pennsylvania’s waste-coal-fired power
+plants had average CO2 emissions of over 2,760
+
+pounds per megawatt-hour (MWh), one of the most
+carbon intensive fuel sources.42 Nearby residents are
+also exposed to hazardous air pollutants, including
+sulfur dioxide and nitrogen, and safety risks from large
+trucks carrying waste coal on small country roads
+to the plant.43 U.S. Environmental Protection Agency
+(EPA) data shows that the company’s operations have
+increased sulfur dioxide emissions by 351% and nitro-
+gen oxides by 1,224% in 2022 compared to 2020 levels.
+The waste coal-fueled operations released over 1.4
+million tons of carbon dioxide in 2022.44
+
+Shareholdings in Stronghold Digital Mining
+
+Company
+
+% Shares Market Value
+
+Vanguard
+BlackRock
+Fidelity
+Goldman Sachs
+Note: Based on shareholdings and prices as of
+4/25/2023.45
+
+$1,119,091
+$318,000
+$136,375
+$12,281
+
+2.92
+0.84
+0.03
+0.36
+
+Scrubgrass Generating Power Plant in Pennsylvania
+
+10  INVESTING IN BITCOIN’S CLIMATE POLLUTION: BIG FINANCE IS BETTING ON DIRTY BITCOIN
+
+© Scott Goldsmith / Greenpeace
+
+1            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  01001010101010110101010010101001001010101001010101010101010010101001010101010100010110111011010001010011001101001010101010110101010010101101001010101101010101010010111010111010111010110101011010111010011001101001010101010110111011100101010110010101010010100010100101010010101001011010111000101100010110101010000110111010010100010101101101010100110010100100110000001100101101010000010100100101001011100001001101000011011BIG FINANCE AND BITCOIN’S
+GROWING POLLUTION
+
+The growth of Bitcoin and the recent boom of U.S.
+Bitcoin mining relies on the money and support of
+major financial services companies. Energy-intensive
+and volatile Bitcoin is adding to the climate crisis and
+putting everyday Americans’ financial security at risk
+while big investors and corporations reap the rewards
+of Bitcoin’s expansion.46 Researchers have found that
+increased demand for Bitcoin leads to environmental
+degradation.47 Yet these same financial companies
+have pledges to reduce GHG emissions and the
+environmental impacts of business operations. Bitcoin
+investments are a barrier to achieving these goals and
+need to be addressed as part of companies’ sustain-
+ability plans.
+
+Cryptocurrencies like Bitcoin were created as alterna-
+tives to the traditional economic system but are now
+intertwined with large, mainstream financial com-
+panies in many different ways. Asset managers and
+banks are investing and providing financial services
+for Bitcoin mining companies – supporting the facil-
+ities that drive Bitcoin’s fossil fuel consumption and
+contribute to its carbon footprint. Bitcoin mining has
+become big business, with large publicly-traded com-
+panies dominating the sector. According to JP Morgan
+Chase & Co. (Chase) analysts, U.S.-listed Bitcoin min-
+ers had a total market cap of $7.3 billion as of April
+14, 2023, and were dominant players in Bitcoin mining,
+collecting an estimated 73% of the annual rewards
+from adding blocks to the blockchain and represent-
+ing 21% of the global network hashrate (a measure of
+computing power deployed for Bitcoin mining).48
+
+Large financial services companies are also creating
+more ways for individual and institutional investors
+to put their money into Bitcoin. This includes funds
+tracking the crypto industry, crypto exchanges that
+let customers buy, sell, and store bitcoin, and tools
+for trading bitcoin futures and derivatives. Payment
+processing companies like Visa and Mastercard are
+also making it possible for people to buy things with
+bitcoin, and developing software and services to help
+banks support cryptocurrencies including Bitcoin (see
+section on payment processors for more details).
+However, unlike companies such as Tesla, which
+
+owns $184 million worth of bitcoin, these mainstream
+financial corporations appear to have no direct bitcoin
+holdings.49
+
+While these companies invest in carbon-intensive
+Bitcoin, they have made pledges to reduce carbon
+emissions and plans to increase corporate sustain-
+ability. With the exception of Fidelity and Vanguard,
+the companies Greenpeace USA surveyed for this
+report have net zero emissions pledges and claim to
+support the goals of the Paris Climate Agreement.
+Many have joined global initiatives like the Glasgow
+Financial Alliance for Net Zero (GFANZ), and the sec-
+tor-specific United Nations Net Zero Banking or Asset
+Owner Alliance.50 Financial companies are beginning
+to disclose GHG emissions from business operations
+and even from investments. Yet, the leaders of these
+companies continue to expand into Bitcoin without
+acknowledging Bitcoin’s pollution and contribution to
+the climate crisis.
+
+Companies have known about this problem for
+years. In 2017, Mastercard stated in its Corporate
+Sustainability Report that “new research shows that
+cryptocurrencies like Bitcoin are inherently more ener-
+gy-intensive than Mastercard’s payment network.”51
+Analysts from Citigroup published a report document-
+ing Bitcoin’s high energy use and warned that the
+carbon emissions could spark regulatory scrutiny.52
+
+With increased scrutiny from regulators and custom-
+ers, the head-in-the-sand approach will not work for
+long. Major financial services companies expanding
+into Bitcoin will have to deal with the growing climate
+risk on corporate balance sheets. Extreme weather,
+which is getting more frequent and intense with
+climate change, is a material risk to Bitcoin mining
+operations. For example, ice storms in Texas and
+increasingly severe hurricanes in the Gulf Coast can
+disrupt energy supplies and directly damage mining
+facilities.53 Heat waves and cold snaps can increase
+energy costs, leading miners to curtail and shutdown
+their operations.54 The massive 750-megawatt capac-
+ity Riot Platforms mine in Rockdale, Texas had to shut
+down for weeks following damage to equipment from
+a series of extreme winter weather events.55
+
+INVESTING IN BITCOIN’S CLIMATE POLLUTION: BIG FINANCE IS BETTING ON DIRTY BITCOIN  11
+
+1            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  0100101010101011010101001010100100101010100101010101010101001010100101010101010001011011101101000101001100110100101010101011010101001010110100101010110101010101001011101011101011101011010101101011101001100110100101010101011011101110010101011001010101001010001010010101001010100101101011100010110001011010101000011011101001010001010110110101011            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  0100101010101011010101001010100100101010100101010101010101001010100101010101010001011011101101000101001100110100101010101011010101001010110100101010110101010101001011101011101011101011010101101011101001100110100101010101011011101110010101011001010101001010001010010101001010100101101011100010110001011010101000011011101001010001010110110101000100101001001100000011001011010100000101001001010010111000010011010000011011Policymakers are starting to take notice and have
+proposed a range of laws, taxes, and regulations that
+would require the industry to report its carbon emis-
+sions and pay for its energy appetite. For example,
+the Biden administration proposed an excise tax on
+electricity used by crypto miners.56 Considering their
+already razor-thin margins, the 30% increase to min-
+ers’ major operating expense would be a significant
+blow, concluded analysts with crypto-intelligence
+firm Coin Metrics.57 In 2023, U.S. Senator Edward
+Markey re-introduced the Crypto-Asset Environmental
+Transparency Act, which would require Bitcoin mining
+companies to disclose GHG emissions and direct the
+EPA to study the impacts of Bitcoin mining.58
+
+Evaluating Corporate Bitcoin
+Connections
+
+To hold the financial sector to account on its climate
+pledges and to encourage greater responsibility for
+Bitcoin’s pollution, this report evaluates companies’
+ties to Bitcoin and the extent to which those compa-
+nies are acknowledging and addressing the problem
+in line with sustainability initiatives. We examined
+companies in three sectors that play a critical role in
+Bitcoin’s expansion: banks (Citigroup, Goldman Sachs,
+and JP Morgan Chase), asset managers (BlackRock,
+Fidelity, and Vanguard)59, and payment processors
+(American Express, Mastercard, and Visa). Within each
+sector we selected the three largest U.S.-based com-
+panies that are the most active in Bitcoin and assess
+the Bitcoin-related investments and services offered,
+contrasted with corporate climate and sustainabil-
+ity pledges. We evaluated companies on the extent
+of Bitcoin investment and services, the strength
+of climate commitments and emissions reduction
+pledges, and the level of acknowledgment and action
+to address Bitcoin’s climate and community impacts.
+
+We collected data on the following types of invest-
+ments and exposure to Bitcoin:
+
+ ◼ Providing and supporting investment prod-
+
+ucts tied to Bitcoin
+
+ ◼ Investing in Bitcoin mining companies through
+shareholding, bondholding, lending, and un-
+derwriting
+
+ ◼ Partnering with and investing in crypto com-
+panies that provide vital services for Bitcoin
+like wallets, exchanges, and data analytics
+
+ ◼ Supporting payments and transactions
+
+using bitcoin
+
+ ◼ Providing consulting, data, and research
+
+services related to Bitcoin
+
+ ◼ Corporate ownership of bitcoin
+
+We also reviewed company ESG (environmental,
+social, and governance) efforts and actions on climate
+change, including:
+
+ ◼ Company sustainability and climate reports,
+
+including net zero pledges
+
+ ◼ ESG and sustainability scores from indus-
+try-leading measures including MSCI and
+Standard and Poor’s (S&P)
+
+ ◼ Membership in national and international
+
+groups and alliances on climate change and
+sustainability
+
+We assessed the strength of corporate climate and
+sustainability plans, primarily if the company has
+a net zero pledge and is a member of the Glasgow
+Financial Alliance for Net Zero (GFANZ), and the asso-
+ciated groups for banks and asset managers. GFANZ
+was formed to ensure the financial industry worked
+to meet the goals of the UN Paris Climate agree-
+ment, particularly limiting global warming to 1.5 C. We
+find that the stronger corporate climate pledges are
+aligned with reducing emissions to meet a 1.5 C target
+and have a deadline of reaching net zero company
+emissions by 2050 or earlier. 60
+
+Finally, we evaluated companies based on their
+acknowledgement and action to solve Bitcoin’s cli-
+mate problem. GPUS reached out to representatives
+of the nine companies and asked about their Bitcoin
+investments and awareness of the climate impacts.
+We requested companies make a statement about
+Bitcoin’s pollution and support action to decarbonize
+Bitcoin. We also reviewed company websites, press
+releases, and documents related to Bitcoin and
+crypto to see if they discussed environmental and
+energy issues.
+
+12  INVESTING IN BITCOIN’S CLIMATE POLLUTION: BIG FINANCE IS BETTING ON DIRTY BITCOIN
+
+1            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  01001010101010110101010010101001001010101001010101010101010010101001010101010100010110111011010001010011001101001010101010110101010010101101001010101101010101010010111010111010111010110101011010111010011001101001010101010110111011100101010110010101010010100010100101010010101001011010111000101100010110101010000110111010010100010101101101010100110010100100110000001100101101010000010100100101001011100001001101000011011All of these companies are failing to address Bitcoin’s
+pollution. Financial companies’ Bitcoin exposure
+demonstrates disregard for the harm to the planet and
+communities caused by Bitcoin’s further expansion.
+None of the companies have adequately acknowledged
+Bitcoin’s climate problem or supported meaningful
+solutions. Some companies appear to be aware of
+Bitcoin’s problematic energy use but have not clearly
+stated the problem to the public or taken any respon-
+sibility. However, in an important initial step, several
+companies, including Visa, Mastercard, and Citi, have
+started engaging with GPUS on the issue. Mastercard
+has expressed support for  “energy-efficient solutions
+that consider climate and community impacts.”62
+
+Investments in Bitcoin Mining Companies
+
+Financial
+Company
+
+Vanguard
+
+BlackRock
+
+Fidelity
+
+Total
+Investments
+$615,593,590
+
+$595,579,704
+
+$86,707,485
+
+Goldman Sachs
+
+$28,087,684
+
+JPMorgan
+
+Citigroup
+
+Total
+
+$26,068,266
+
+$125,317
+
+$1,352,162,046
+
+# of mining
+companies
+17
+
+18
+
+22
+
+9
+
+17
+
+10
+
+24
+
+Based on combined holdings of shares and bonds
+as of 4/25/202363
+
+Failing on Climate
+
+We find that these stalwarts of the mainstream finan-
+cial industry are expanding into Bitcoin by investing
+in Bitcoin mining companies, and creating new ser-
+vices and partnerships to enable investments and
+transactions in bitcoin. All nine companies have ties
+to Bitcoin and are involved in various activities that
+help grow and mainstream Bitcoin which will mean
+more energy use and GHG emissions. BlackRock and
+Chase stand out within the asset manager and banks
+categories, respectively, for Bitcoin exposure in sharp
+contradiction to corporate climate pledges.
+
+As a class, asset managers are the Bitcoin mining
+industry’s largest backers, mainly in the form of signif-
+icant shareholdings in mining companies. BlackRock
+stands out as a laggard given its mining industry
+investments combined with a range of services and
+investment products related to Bitcoin. Vanguard and
+Fidelity are also betting big on Bitcoin and offer myr-
+iad investment and trading services linked to Bitcoin
+alongside their shareholdings in mining companies.
+
+Among the banks, our research identifies Chase as a
+key laggard. Its Bitcoin mining company investments
+total more than $25 million and it offers a range of
+investment products and services tied to Bitcoin.
+Although Chase CEO Jamie Dimon has been critical
+of Bitcoin publicly,61 the bank has yet to comment on
+Bitcoin’s environmental impact and Dimon’s critical
+remarks belie the tangible
+support Chase is providing to
+Bitcoin. Goldman Sachs has a
+comparable investment inter-
+est, but is found to perform
+slightly better in our assess-
+ment given a smaller breadth of
+Bitcoin products and services.
+
+Finally, the research finds
+payment processing companies
+primarily support Bitcoin by
+offering credit and debit cards
+that facilitate bitcoin trans-
+actions. Visa and Mastercard
+are found to be expanding
+crypto-related services and
+partnerships that likely have
+connections to Bitcoin.
+
+INVESTING IN BITCOIN’S CLIMATE POLLUTION: BIG FINANCE IS BETTING ON DIRTY BITCOIN  13
+
+© Mitja Kobal / Greenpeace
+
+1            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  0100101010101011010101001010100100101010100101010101010101001010100101010101010001011011101101000101001100110100101010101011010101001010110100101010110101010101001011101011101011101011010101101011101001100110100101010101011011101110010101011001010101001010001010010101001010100101101011100010110001011010101000011011101001010001010110110101011            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  0100101010101011010101001010100100101010100101010101010101001010100101010101010001011011101101000101001100110100101010101011010101001010110100101010110101010101001011101011101011101011010101101011101001100110100101010101011011101110010101011001010101001010001010010101001010100101101011100010110001011010101000011011101001010001010110110101000100101001001100000011001011010100000101001001010010111000010011010000011011BITCOIN EXPOSURE SCORECARDS
+Bitcoin Exposure Scorecards
+
+Very Large
+
+Large
+
+Large
+
+Large investments in mining
+companies and offers BTC
+investment services and products
+
+Investments in mining companies
+and offers BTC investment services
+and products
+
+Large investments in mining
+companies and offers many BTC
+investment services and products
+
+Large
+
+Large
+
+Moderate
+
+Largest investments in
+mining companies offers BTC
+investment services and products
+
+Investments in mining companies
+and offers BTC investment services
+and products
+
+Offers some BTC investment
+services and products, and small
+investments in mining companies
+
+Moderate
+
+Moderate
+
+Small
+
+Offers BTC debit cards, supports
+crypto start-ups, and provides
+crypto consulting
+
+Offers many BTC debit cards and
+provides crypto consulting
+
+Invests in crypto start-ups and
+offers debit card with rewards
+in BTC
+
+Companies’ exposure to Bitcoin was evaluated based on the extent of investments in Bitcoin mining companies, Bitcoin investment products and
+services, and payment enabling services like debit cards that spend Bitcoin. We assess companies’ exposure levels from very large, large, moderate,
+small, very small, to none.
+
+14  INVESTING IN BITCOIN’S CLIMATE POLLUTION: BIG FINANCE IS BETTING ON DIRTY BITCOIN
+
+1            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  01001010101010110101010010101001001010101001010101010101010010101001010101010100010110111011010001010011001101001010101010110101010010101101001010101101010101010010111010111010111010110101011010111010011001101001010101010110111011100101010110010101010010100010100101010010101001011010111000101100010110101010000110111010010100010101101101010100110010100100110000001100101101010000010100100101001011100001001101000011011Section 1: Asset Managers
+
+Asset management companies provide essential
+funding to Bitcoin mining companies and create
+investment products that enable customers to bet on
+the price of bitcoin. The trillions of dollars controlled
+by asset managers play a huge role in how people and
+companies invest and save money, and can shape the
+direction of the economy. Therefore, these companies
+hold a critical responsibility for Bitcoin’s expansion
+and its climate impacts.
+
+Publicly-traded Bitcoin mining companies rely on equity
+offerings to raise capital, which depends on getting
+large investors and mutual funds to invest. Without
+support from these big money managers, the compa-
+nies that mine, sell, and trade bitcoin would struggle to
+operate. Plus, it would be riskier and more challenging
+for individuals to invest in bitcoin without trusted and
+reputable companies moving into the industry.
+
+Our research examined Bitcoin ties among the three
+largest U.S. asset managers, BlackRock, Vanguard,
+
+and Fidelity. In 2021, financial news outlets noticed
+that large asset managers like BlackRock, Fidelity, and
+Vanguard were buying stocks in crypto mining com-
+panies.64 BlackRock stands out for having the second
+largest shareholdings in Bitcoin mining among the
+three asset managers and breadth of Bitcoin-related
+investment services. Fidelity has smaller sharehold-
+ings in mining companies, but was an early Bitcoin
+adopter and now offers a wide-range of investment
+services and products tied to bitcoin that are helping
+it become more mainstream. Vanguard is the most
+cautious about crypto investment services, but none-
+theless, is the largest shareholder in Bitcoin mining
+companies among the companies we researched.
+On climate, Fidelity and Vanguard are laggards. They
+do not have concrete net zero pledges and have
+backtracked on their own climate commitments.
+BlackRock, on the other hand, seeks to be a leader
+on climate.65 Yet none have directly acknowledged
+Bitcoin’s pollution or been willing to engage with
+GPUS to solve the problem.
+
+Asset Managers
+Mining Investments
+Share and bond holdings in
+mining companies fuels
+industry expansion
+
+Support BTC Investing
+Investment and trading services
+contribute to growth in BTC
+price and the incentive to mine
+and consume energy
+
+Solving the Problem
+Acknowledgement of the
+problem and support for a
+code change to reduce BTC's
+pollution
+
+$598 million
+
+Moderate
+
+No Action
+
+$615 million
+
+Small
+
+No Action
+
+$87 million
+
+Large
+
+No Action
+
+Bitcoin (BTC)
+
+INVESTING IN BITCOIN’S CLIMATE POLLUTION: BIG FINANCE IS BETTING ON DIRTY BITCOIN  15
+
+1            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  0100101010101011010101001010100100101010100101010101010101001010100101010101010001011011101101000101001100110100101010101011010101001010110100101010110101010101001011101011101011101011010101101011101001100110100101010101011011101110010101011001010101001010001010010101001010100101101011100010110001011010101000011011101001010001010110110101011            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  0100101010101011010101001010100100101010100101010101010101001010100101010101010001011011101101000101001100110100101010101011010101001010110100101010110101010101001011101011101011101011010101101011101001100110100101010101011011101110010101011001010101001010001010010101001010100101101011100010110001011010101000011011101001010001010110110101000100101001001100000011001011010100000101001001010010111000010011010000011011BlackRock
+
+BlackRock is one of the largest asset managers in the
+world, with $8.6 trillion in assets under management
+serving retail and institutional clients.66 The company
+is rolling out various Bitcoin-related products and
+services that enable clients to buy and sell bitcoin.
+The company also has investments in Bitcoin mining
+and crypto industry companies.
+
+BlackRock is expanding into Bitcoin despite the 2022
+crypto winter and high-profile collapses and fraudu-
+lent activities in the sector. In his 2023 annual letter
+to shareholders, BlackRock CEO Larry Fink highlighted
+his optimism for crypto while also pointing out that
+it carries risk. “At BlackRock we continue to explore
+the digital assets ecosystem, especially areas most
+relevant to our clients such as permissioned block-
+chains and tokenization of stocks and bonds. While
+the industry is maturing, there are clearly elevated
+risks and a need or regulation in this market.”67 While
+Fink recognizes the need for regulation, the company
+is still expanding into the sector while not addressing
+Bitcoin’s pollution.
+
+BlackRock offers numerous ways for clients to invest
+in Bitcoin. In August 2022, the company made a sig-
+nificant move into crypto by offering its first direct
+bitcoin investment product – a private bitcoin trust
+for institutional investors tied to the price of Bitcoin.68
+BlackRock’s new partnership with Coinbase, the larg-
+est crypto-trading platform in the United States, will
+make it easier for institutional investors to manage
+and trade bitcoin.69 The service will allow clients to
+manage their bitcoin alongside their other public and
+private investments.70 In 2021, BlackRock filed docu-
+ments with the Securities and Exchange Commission
+(SEC) to include bitcoin futures as eligible investments
+for two funds, the BlackRock Global Allocation Fund,
+and the BlackRock Strategic Income Opportunities
+Portfolio.71 A subsequent SEC filing showed that the
+BlackRock Global Allocation Fund held 37 bitcoin
+futures contracts with the CME. BlackRock also offers
+investment funds that track the broader crypto and
+web3 sectors including the iShares Future Metaverse
+Tech and Communications ETF (MTAV) that tracks
+companies related to the metaverse,72 and the iShares
+Blockchain and Tech ETF (IBLC) that tracks compa-
+nies connected to blockchain technologies – the fund
+had a $6.5 million market value as of Q2 2023.73 In
+June 2023, shortly before this report’s publication,
+
+BlackRock requested approval for a spot Bitcoin ETF
+from the SEC which contibuted to a spike in Bitcoin’s
+price.74
+
+The company has investments in Bitcoin miners and
+crypto-related companies through its institutional
+investments and various investment funds. BlackRock
+invests in publicly-traded Bitcoin mining companies
+through direct ownership of shares and the holdings
+of ETFs, mutual funds, and other types of funds. Our
+research finds that BlackRock has shareholdings in
+18 Bitcoin mining companies that are valued at over
+$595 million, the second largest among the compa-
+nies we studied.75 For example, the BlackRock Small
+Cap Index VI Fund holds TeraWulf stock.
+
+We can draw a direct line from BlackRock’s Bitcoin
+mining investments to the revival of fossil fuel infra-
+structure. BlackRock controls nearly 6% of Greenidge
+Generation Holdings’ stock and is the largest institu-
+tional shareholder. Greenidge converted a closed coal
+power plant to fossil gas in upstate New York to directly
+power a Bitcoin mine that has faced scrutiny from reg-
+ulators and the public for its pollution.76 BlackRock also
+holds $2.8 million worth of bonds in Marathon Digital.77
+After the Bitcoin mining company Core Scientific Inc.
+filed for bankruptcy in 2022, BlackRock was among
+a group of creditors that lent the company about
+$500 million by purchasing secured convertible notes.
+BlackRock accounted for $38 million and contributed
+another $17 million to a loan enabling the company to
+operate during bankruptcy.78 Arcane Research found
+that BlackRock held 15.2% of shares in MicroStrategy,
+a company with large bitcoin holdings, which indirectly
+exposes BlackRock to Bitcoin.79 BlackRock also had
+extensive holdings in Silvergate, the crypto-focused
+bank that collapsed in April 2023.80
+
+Climate
+
+BlackRock’s Bitcoin offerings are in sharp contra-
+diction with the company’s efforts to be a financial
+sector leader on climate and ESG. The company
+publicly supports action on climate change, and
+environmentally and socially-conscious investments,
+especially funding energy transitions. BlackRock has
+an A ESG rating from MSCI and the S&P Global ESG
+ranking places the company at 93, higher than the
+banks we examined. BlackRock is a signatory to the
+Net Zero Asset Managers initiative, which includes
+
+16  INVESTING IN BITCOIN’S CLIMATE POLLUTION: BIG FINANCE IS BETTING ON DIRTY BITCOIN
+
+1            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  01001010101010110101010010101001001010101001010101010101010010101001010101010100010110111011010001010011001101001010101010110101010010101101001010101101010101010010111010111010111010110101011010111010011001101001010101010110111011100101010110010101010010100010100101010010101001011010111000101100010110101010000110111010010100010101101101010100110010100100110000001100101101010000010100100101001011100001001101000011011pledging to support net zero emissions by 2050 in
+line with efforts to limit warming to 1.5°C. BlackRock
+is purportedly committed to investing in line with net
+zero emissions by 2050 and developing science based
+emissions reductions targets.81 However, the com-
+pany’s net zero plan has not been validated by the
+Science Based Targets initiative (SBTi).
+
+BlackRock also promotes reporting of emissions
+as a member of the Task Force on Climate-related
+Financial Disclosures (TCFD), and a signatory to the
+UN’s Principles for Responsible Investment. The com-
+pany joined Climate Action 100+, a group of investors
+that engages with companies to improve climate
+disclosure and align business strategy with the goals
+
+of the Paris Agreement.82 Yet, those disclosures have
+not incorporated emissions from Bitcoin.
+
+BlackRock’s executives have not made a public state-
+ment about Bitcoin’s pollution and have not been
+willing to engage in conversation with GPUS. Yet, there
+is evidence that the company is aware that Bitcoin
+and PoW cryptocurrencies have a climate problem.
+BlackRock expressed support for efforts by the non-
+profits RMI and Energy Web to create more transpar-
+ency about sustainable energy use in Bitcoin mining.83
+Thus, BlackRock has signaled support for at least
+some solutions to clean up Bitcoin, despite failing to
+acknowledge responsibility and take more meaningful
+action toward a code change.
+
+INVESTING IN BITCOIN’S CLIMATE POLLUTION: BIG FINANCE IS BETTING ON DIRTY BITCOIN  17
+
+© Tracie Williams / Greenpeace
+
+1            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  0100101010101011010101001010100100101010100101010101010101001010100101010101010001011011101101000101001100110100101010101011010101001010110100101010110101010101001011101011101011101011010101101011101001100110100101010101011011101110010101011001010101001010001010010101001010100101101011100010110001011010101000011011101001010001010110110101011            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  0100101010101011010101001010100100101010100101010101010101001010100101010101010001011011101101000101001100110100101010101011010101001010110100101010110101010101001011101011101011101011010101101011101001100110100101010101011011101110010101011001010101001010001010010101001010100101101011100010110001011010101000011011101001010001010110110101000100101001001100000011001011010100000101001001010010111000010011010000011011Fidelity Investments
+
+Fidelity Investments is one of the largest asset man-
+agers in the world, with over $10 trillion in assets
+under management and around 40 million custom-
+ers.84 The company has extensive mutual fund and
+401(k) retirement plan offerings, and many Americans
+rely on Fidelity for their retirement savings. Fidelity
+was one of the first traditional finance companies to
+dive into the crypto sector and now offers many ways
+for institutional, private, and retail investors to invest
+in Bitcoin. Fidelity lends crypto a sense of trust and
+reputability while making it easier for casual investors
+to bet on Bitcoin, which is critical for its growth.
+
+In 2014, Abigail Johnson took the helm of the private
+company founded by her grandfather and pushed the
+company into crypto. Johnson had been involved with
+Bitcoin mining for some time. “I really wanted to do
+mining because I wanted us to understand the whole
+ecosystem, I wanted us to have a seat at the table
+with people who were really driving things and under-
+stand the full stack,” Johnson said in a 2022 interview
+with Forbes.85 She now speaks at crypto conferences
+and advocates for integrating cryptocurrencies like
+Bitcoin into the mainstream financial sector. Despite
+its fluctuations, instability, and scandals, Johnson
+continues to position crypto as part of Fidelity’s long-
+term strategy.86
+
+In 2018, the company launched its Fidelity Digital
+Assets unit, which focuses on institutional crypto
+investments and services. By 2022, the unit had
+scaled to around 500 employees.87 Initially, it offered
+crypto trading and custody for institutions – securely
+storing investors’ assets like bitcoin.88 It has since
+expanded its service offerings.89 Bloomberg describes
+it as one of the most visible institutional advocates
+for crypto investing.90
+
+In a move that could bring Bitcoin investing to mil-
+lions of Americans, Fidelity is letting employers with
+401(k) plans give employees the option to direct
+some of their savings into Bitcoin, up to a 20% cap.91
+This is a big move toward integrating Bitcoin into the
+retirement savings of people who otherwise would
+not have ventured into crypto investments. This move
+sparked concern from regulators and several U.S. sen-
+ators wrote letters of concern to the company.92 The
+
+Department of Labor (DOL) issued guidance suggest-
+ing 401(k) retirement plans stay away from speculative
+and volatile crypto investments.93
+
+In March 2023, the company launched its own Bitcoin
+trading and custody program for retail customers
+called “Fidelity Crypto.”94 This launch marks the first
+time a major financial institution got involved in
+directly trading cryptocurrencies, including Bitcoin,
+and could compete with exchanges run by crypto-
+focused companies like Coinbase.95
+
+Fidelity also offers ways for clients to invest in Bitcoin
+and Bitcoin-related companies through various funds.
+The company is the first large asset manager to issue
+a Bitcoin exchange traded fund (ETF) linked to the
+price of Bitcoin, the Fidelity Advantage Bitcoin ETF
+(FBTC) that is listed on the Toronto Stock Exchange.96
+Fidelity applied to the SEC for a similar Bitcoin ETF in
+the United States but it was rejected due to concerns
+about fraud and manipulation.97 FBTC currently holds
+1590.19 bitcoin which was valued at around $44.8 mil-
+lion in April 2023.98 Fidelity’s All-in-One Balanced ETF
+also held $1.7 million worth of bitcoin as of December
+31, 2022.99 Fidelity also manages funds that invest
+in the broader crypto industry, including the Fidelity
+Crypto Industry and Digital Payments ETF (FDIG).
+
+Fidelity holds substantial stock in publicly-traded
+Bitcoin mining companies through ETFs, mutual
+funds, and direct investments, although less than
+fellow asset managers BlackRock and Vanguard. Our
+research found that Fidelity has shareholdings in 22
+Bitcoin mining companies, valued at over $86.7 million,
+including Hut 8 and Marathon Digital.100 Through several
+funds, Fidelity also holds about $500,000 of bonds in
+Greenidge Generation whose Bitcoin mine powered by
+a fossil gas plant in upstate New York has been subject
+to multiple lawsuits over environmental violations.101
+
+Fidelity also invests in companies that provide ser-
+vices, like software and analytics, for the crypto
+sector. For example, in May 2021, Fidelity invested in
+Talos, a firm that provides companies with software
+for crypto trading.102 In 2021, Fidelity was an investor
+in a $600 million funding round for Stripe, the pay-
+ment and transaction software company active in
+supporting crypto.103
+
+18  INVESTING IN BITCOIN’S CLIMATE POLLUTION: BIG FINANCE IS BETTING ON DIRTY BITCOIN
+
+1            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  01001010101010110101010010101001001010101001010101010101010010101001010101010100010110111011010001010011001101001010101010110101010010101101001010101101010101010010111010111010111010110101011010111010011001101001010101010110111011100101010110010101010010100010100101010010101001011010111000101100010110101010000110111010010100010101101101010100110010100100110000001100101101010000010100100101001011100001001101000011011While Fidelity does not appear to own bitcoin directly,
+the company does have Bitcoin exposure through
+its 7.3% stake in MicroStrategy, which is the largest
+corporate holder of bitcoin and led by a vocal Bitcoin
+proponent, CEO Michael Saylor. Microstrategy was
+one of the first large companies to state it would
+offer Bitcoin investments to employees through their
+Fidelity 401(k) plan.
+
+Climate
+
+Fidelity is a laggard on climate and ESG within the
+financial sector. The company has not joined the
+Glasgow Financial Alliance for Net Zero (GFANZ), and
+executives have said they do not want to commit
+to the net zero by 2050 targets.104 Still, Fidelity has
+sustainability goals and reports on environmental and
+climate issues. Fidelity is a signatory to the United
+Nations Principles for Responsible Investment and
+claims to support the Task Force on Climate-Related
+Financial Disclosures’ recommendations.
+
+Fidelity’s statement of sustainability intent emphasizes
+how the company will address energy consumption
+and other sustainability issues in corporate-owned
+buildings. The company claims to be in the early stages
+of adopting sustainability approaches throughout their
+business, including fund operations, products, risk
+management, and procurement.105 In Fidelity’s 2021
+Environmental Report, company climate change goals
+are described as continuing “to reduce our green-
+house gas emissions by expanding use of renewable
+energy, with a dedicated focus on reducing carbon.
+At the same time, to build climate resilience, we are
+proactively planning for the increasing unpredictability
+of climate variability and long-term climate change.”
+Yet, Fidelity has not set transparent and accountable
+emissions reduction targets or net zero pledges.
+
+Fidelity has not acknowledged Bitcoin’s pollution or its
+exposure to Bitcoin-related emissions. Company rep-
+resentatives have declined GPUS requests to meet and
+discuss the issue, and the company shows no signs of
+working to create a solution to Bitcoin’s climate problem.
+
+INVESTING IN BITCOIN’S CLIMATE POLLUTION: BIG FINANCE IS BETTING ON DIRTY BITCOIN  19
+
+© Tracie Williams / Greenpeace
+
+1            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  0100101010101011010101001010100100101010100101010101010101001010100101010101010001011011101101000101001100110100101010101011010101001010110100101010110101010101001011101011101011101011010101101011101001100110100101010101011011101110010101011001010101001010001010010101001010100101101011100010110001011010101000011011101001010001010110110101011            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  0100101010101011010101001010100100101010100101010101010101001010100101010101010001011011101101000101001100110100101010101011010101001010110100101010110101010101001011101011101011101011010101101011101001100110100101010101011011101110010101011001010101001010001010010101001010100101101011100010110001011010101000011011101001010001010110110101000100101001001100000011001011010100000101001001010010111000010011010000011011Vanguard
+
+Vanguard is one of the world’s largest asset man-
+agement companies. It provides investment and
+advisory services, and serves a range of clients,
+including institutions, individuals, and mutual funds.
+The company has around $8.5 trillion in assets under
+management and offers 215 U.S.-based funds and 205
+funds outside the United States.106 Vanguard’s lead-
+ers have publicly expressed hesitancy about crypto
+as an investment, and the company has not created
+investment products directly tied to Bitcoin or other
+cryptocurrencies. However, Vanguard and its many
+investment funds have extensive shareholdings in
+Bitcoin mining companies, helping finance the facil-
+ities that consume large amounts of electricity and
+have large carbon emissions.
+
+In 2017, Vanguard founder, Jack Bogle, commented
+that investors should “avoid Bitcoin like the plague”
+during a presentation at the Council on Foreign
+Relations.107 In 2018, Vanguard chairman Will McNabb
+expressed skepticism about cryptocurrency, partic-
+ularly due to speculation and “idiosyncratic risk.”108
+Unlike other asset managers, Vanguard does not offer
+ETFs focused on the crypto sector. In 2022 the com-
+pany stopped letting clients purchase shares of the
+Grayscale Bitcoin Trust, one of the first securities tied
+to the price of Bitcoin and a popular way to indirectly
+invest in Bitcoin.109
+
+Yet, Vanguard does have exposure to Bitcoin. The
+company holds shares in many of the large publicly
+traded Bitcoin mining companies through its invest-
+ment advising, institutional holdings, and mutual funds.
+According to our research, Vanguard holds stock in 17
+Bitcoin mining companies, with shares representing
+over $615 million – making Vanguard the largest inves-
+tor in public mining companies among the large asset
+managers and banks we analyzed.110
+
+Vanguard also has investments in other compa-
+nies tied to the Bitcoin industry. The company had
+invested in Silvergate, the crypto-friendly bank that
+collapsed in early 2023.111 In December 2022, Vanguard
+had indirect exposure to bitcoin through its 8.43%
+stake in leading bitcoin holder MicroStrategy.112
+
+Vanguard also uses blockchain technology, which
+means the company has a stake in ensuring its prod-
+ucts and services rely on a consensus mechanism that
+does not pollute and contribute to the climate crisis,
+unlike Bitcoin’s. In 2017, Vanguard said it was develop-
+ing the use of blockchain technology to update data for
+mutual funds, including some of the company’s largest
+funds.113 By 2019, this system was in operation, making
+Vanguard one of the first major financial institutions to
+use blockchain for a core business service.
+
+Climate
+
+Vanguard is a laggard on climate action within the
+finance sector and has not made the net zero pledges
+necessary to avert the worst of the climate crisis. In
+December 2022, the company dropped out of the UN
+Net Zero Asset Managers initiative.114 Instead of mak-
+ing firm commitments to reduce emissions, Vanguard
+claims to be working on climate disclosures and get-
+ting companies they invest in to report GHG emissions.
+While Vanguard has some ESG focused funds, they
+offer fewer than other asset managers like BlackRock.
+According to research and analytics firm Morningstar,
+Vanguard has only 28 sustainable funds with assets of
+$33.9 billion compared to BlackRock with 282 sustain-
+able funds with assets of $270 billion.115
+
+Vanguard has not acknowledged Bitcoin’s climate
+problem or the company’s role in the issue, and has
+not applied GHG reporting and disclosure require-
+ments to Bitcoin mining companies. Leaders from
+Vanguard have declined requests to meet with
+GPUS and have not expressed an interest in working
+towards a solution to clean up Bitcoin.
+
+20  INVESTING IN BITCOIN’S CLIMATE POLLUTION: BIG FINANCE IS BETTING ON DIRTY BITCOIN
+
+1            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  01001010101010110101010010101001001010101001010101010101010010101001010101010100010110111011010001010011001101001010101010110101010010101101001010101101010101010010111010111010111010110101011010111010011001101001010101010110111011100101010110010101010010100010100101010010101001011010111000101100010110101010000110111010010100010101101101010100110010100100110000001100101101010000010100100101001011100001001101000011011Section 2: Banks
+
+By facilitating bitcoin investments and transac-
+tions, banks play a vital role in the functioning of the
+Bitcoin industry and its expansion. Banks also pro-
+vide the funding and financial services necessary for
+Bitcoin mining companies to operate.
+
+Many of the largest banks are expanding their Bitcoin
+interests. Our research focused on three of the largest
+U.S. banks (Citigroup, Goldman Sachs, and Chase) that
+are also the most active in offering Bitcoin products,
+services, and investments.
+
+Retail and investment banks are creating programs
+and services that let institutional and individual
+clients buy and store bitcoin, helping mainstream the
+cryptocurrency. Commercial and investment banks
+are also vital for crypto companies that need access
+to capital to grow and a way to move bitcoin to and
+from US Dollars. Crypto exchange companies and
+Bitcoin miners need to pay employees and rent in US
+Dollars, and move clients’ crypto holdings to and from
+US Dollars to facilitate transitions and payments.
+Thus, Bitcoin would struggle without access to the
+mainstream banking system.116
+
+All three banks offer some type of Bitcoin investment
+product, and have invested in Bitcoin mining and crypto
+companies. Chase offers Bitcoin trading services to
+clients and, like Goldman, has over $25 million worth of
+shareholdings in Bitcoin mining companies.117 Goldman
+Sachs created a dedicated crypto trading desk and is
+creating new ways to integrate Bitcoin into investing.118
+While Citi has the least shareholdings in mining com-
+panies, the bank has helped several mining companies
+raise capital and offers some Bitcoin-related trading
+services.119 At the same time, these companies all have
+net zero pledges but have not reconciled those with
+Bitcoin’s emissions. Citi has taken an initial step of
+engaging with GPUS to discuss the issue.
+
+Banks
+Mining Investments
+Share and bond holdings in
+mining companies fuels
+industry expansion
+
+Support BTC Investing
+Investment and trading services
+contribute to growth in BTC
+price and the incentive to mine
+and consume energy
+
+Solving the Problem
+Acknowledgement of the
+problem and support for a
+code change to reduce BTC's
+pollution
+
+$26,068,266
+
+Large
+
+No Action
+
+$29,317,684
+
+Large
+
+No Action
+
+$125,317
+
+Small
+
+No Action
+
+Bitcoin (BTC)
+
+INVESTING IN BITCOIN’S CLIMATE POLLUTION: BIG FINANCE IS BETTING ON DIRTY BITCOIN  21
+
+1            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  0100101010101011010101001010100100101010100101010101010101001010100101010101010001011011101101000101001100110100101010101011010101001010110100101010110101010101001011101011101011101011010101101011101001100110100101010101011011101110010101011001010101001010001010010101001010100101101011100010110001011010101000011011101001010001010110110101011            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  0100101010101011010101001010100100101010100101010101010101001010100101010101010001011011101101000101001100110100101010101011010101001010110100101010110101010101001011101011101011101011010101101011101001100110100101010101011011101110010101011001010101001010001010010101001010100101101011100010110001011010101000011011101001010001010110110101000100101001001100000011001011010100000101001001010010111000010011010000011011Citigroup
+
+Citigroup is a large banking and financial services
+company with over $2.4 trillion in assets and nearly
+$15 billion of income in 2022.120 Since 2021, Citi has
+been expanding its presence in the crypto sector. The
+company is reportedly developing new services to
+facilitate Bitcoin investment by providing trading and
+other services which could make it easier to buy and
+sell bitcoin.121 Citi also has investments that support
+Bitcoin mining companies.
+
+In 2021, Citi announced that it would offer bitcoin
+futures trading for some institutional clients.122 That
+same year, Citi’s Global Wealth Investments arm
+formed a Digital Assets Group to expand into crypto.123
+News outlets also reported that Citi hired 100 people
+to work in a blockchain and digital assets division.124
+
+Citi is also developing crypto services for markets
+outside of the United States. Citi’s Securities Services
+team is also partnering with Swiss crypto firm Metaco
+to build Citi’s digital asset custody capabilities, basi-
+cally secure accounts to store digital assets that
+could include cryptocurrencies like bitcoin. Eventually
+clients might be able to keep their bitcoin in a Citi
+account rather than a wallet run by a crypto-specific
+company.125
+
+Citi has helped several Bitcoin mining companies raise
+capital through underwriting. Citi was an advisor for
+an initial public offering (IPO) by Canaan Inc., a pro-
+ducer of ASICS for Bitcoin mining that is expanding
+into the operation of mining facilities.126 In October
+2019, the IPO raised $90 million.127 Citi controlled
+54.35% of the deal with 5.43 million shares priced at
+$9 per share and earned an estimated $3.91 million
+in fees.128 Citi was also the sole manager of a private
+placement of $500 million in notes for Galaxy Digital
+Holdings, a crypto investment and Bitcoin min-
+ing company, on November 29, 2021. Galaxy Digital
+intended to use the capital to fund growth initia-
+tives.129 Later in 2022, the company bought a mining
+facility in Texas.130 While Citi is not a large shareholder
+in Bitcoin mining companies, the company does hold
+shares of ten miners worth about $125,000 including
+Marathon Digital and Riot Blockchain.131
+
+Climate
+
+Citi has pledged to act on climate change and to
+align its business with environmental sustainability
+and social responsibility. Citi is a founding member
+of the UN’s Net Zero Banking Alliance and has joined
+the RMI Center for Climate Aligned Finance and the
+Partnership for Carbon Accounting Financials (PCAF).
+The bank has committed to reaching net zero in com-
+pany financing by 2050 and in operations by 2030.132
+Citi has an A (out of a possible AAA) ESG rating from
+MSCI, a company that provides industry-leading ESG
+assessments, and has an 81 ranking by the S&P Global
+ESG ranking, another commonly used assessment,
+which is below the global median for peer companies
+but similar to other large U.S. banks. Citi has issued
+reports following recommendations by the Task Force
+on Climate-related Financial Disclosures (TCFD), a
+global organization that sets guidelines for volun-
+tary climate-related financial risk disclosures, since
+2018. Citi is also a signatory to the U.N. Environment
+Program’s Principles for Responsible Banking.133
+Citi releases data on the company’s investments
+in carbon-intensive sectors and scope 1, 2, and 3
+emissions.134 However, the company is not following
+science-based emissions targets, as defined by the
+SBTi, which are necessary for creating rigorous and
+verifiable pathways to net zero.
+
+While Citi appears to know Bitcoin has an energy
+problem, the company continues to expand its offer-
+ings while remaining silent about its responsibility.
+Citi’s climate disclosures and emissions reduction
+plans have not included Bitcoin. Yet, in 2021, Citi ana-
+lysts published a report documenting Bitcoin’s grow-
+ing energy use and warned that the carbon emissions
+would likely meet public and regulatory scrutiny. The
+report highlighted how Bitcoin’s energy consumption
+would accelerate alongside its price.135 While com-
+pany leaders have met with GPUS and expressed a
+willingness to engage the issue, Citi has not publicly
+acknowledged the emissions from Bitcoin-related
+investments and services nor taken action to address
+the problem.
+
+22  INVESTING IN BITCOIN’S CLIMATE POLLUTION: BIG FINANCE IS BETTING ON DIRTY BITCOIN
+
+1            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  01001010101010110101010010101001001010101001010101010101010010101001010101010100010110111011010001010011001101001010101010110101010010101101001010101101010101010010111010111010111010110101011010111010011001101001010101010110111011100101010110010101010010100010100101010010101001011010111000101100010110101010000110111010010100010101101101010100110010100100110000001100101101010000010100100101001011100001001101000011011Goldman Sachs
+
+Goldman Sachs is the second largest investment bank
+in the world, with a market cap of around $115 billion.136
+Goldman’s embrace of crypto is a powerful signal of
+Wall Street’s acceptance. The company is investing
+in Bitcoin related companies, offering new Bitcoin
+investment services and products, and taking steps
+towards integrating Bitcoin and cryptocurrencies into
+the mainstream financial industry. The crypto winter
+and upheaval following the collapse of FTX have not
+turned Goldman away. Instead, Goldman’s head of
+digital assets, Mathew McDermott, described this as an
+opportunity to acquire crypto firms for cheap and to
+take a larger role in the industry.137
+
+Since 2021, Goldman has been busy growing its
+crypto business which means more exposure to
+Bitcoin. The bank re-opened a crypto trading desk
+that serves clients like hedge funds, endowments,
+and other institutional money managers.138 Goldman
+also started trading in derivatives tied to Bitcoin and
+was among the first Wall Street investment banks to
+buy and sell Bitcoin options and futures.139 In March
+2021, Goldman was the first major U.S. bank to trade
+crypto over-the-counter, rather than through a stock
+exchange, in a bitcoin-backed deal with crypto-bank
+Galaxy Digital.140 Then in April 2021, Goldman offered
+its first bitcoin-backed loan in which the borrower
+uses bitcoin as collateral. Bloomberg heralded this as
+a major step in Wall Street’s Bitcoin offerings.141 In May
+2021, the company started trading a derivative tied
+to bitcoin that lets clients bet on the price of bitcoin
+without actually having to buy bitcoin.
+
+Reports suggest that Goldman is looking to increase
+crypto investment offerings which are sure to include
+Bitcoin since it is the largest and most valuable cryp-
+tocurrency. Goldman’s global head of crypto trading,
+Andrei Kazantsev, said the bank is exploring new
+crypto markets and derivative products.142 For exam-
+ple, Bloomberg reports that Goldman is considering
+ways to offer hedge fund clients exchange-traded
+notes based on Bitcoin.143 The bank is also exploring
+other services and products including crypto custody
+services, which could provide safekeeping of custom-
+ers’ Bitcoin.144 Goldman was reportedly exploring an
+ETF based on Bitcoin’s price in 2021, but thus far the
+SEC has rejected all applications for similar funds due
+to concerns about fraud and manipulation.145
+
+Goldman also has shareholdings in Bitcoin mining
+companies through funds the company manages
+and institutional holdings. Our research finds that
+Goldman controls shares in nine different mining
+companies with a total market value of around $28
+million.146 The firm also has director holdings of stock
+in CleanSpark and Riot Platforms – a company oper-
+ating the most power-intensive mining operation in
+the U.S.147 Goldman holds another $1.23 million of
+bonds in Marathon Digital, the company that had kept
+a coal-fired power plant in Hardin, MT operating to
+supply electricity for mining Bitcoin.148
+
+Goldman is the largest institutional holder, 3.13%,
+of the Fidelity Crypto Industry and Digital Payments
+Fund, which tracks companies related to cryptocur-
+rency, blockchain, and digital payments.149
+
+Another crypto growth area for Goldman is research,
+analysis, and data services. In November 2022,
+Goldman launched Datonomy, a new classification
+system for the cryptocurrency market in collaboration
+with global index provider MSCI and crypto data firm
+Coin Metrics.150
+
+Climate
+
+Goldman touts itself as a leader on climate and envi-
+ronmental sustainability within the financial services
+industry. The bank has active climate and ESG initia-
+tives with various pledges about reducing emissions
+and conducting environmentally responsible invest-
+ments. Goldman has an A ESG rating from MSCI and
+an 81 from the S&P Global ESG ranking, similiar to
+peer companies.151 In March 2021, the bank joined the
+UN Net Zero Banking Alliance, the UN Net Zero Asset
+Owner Alliance, and the OS-Climate Initiative as its
+founding U.S. banking member.152 Goldman supports
+the United States returning to the Paris Climate
+Agreement and has pledged to align investments with
+a net zero by 2050 pathway. The company claims to
+have reached net zero in operations and seeks to
+reach net zero in company supply chains by 2030.153
+Goldman says the company will also address climate
+risks in its portfolio and investment strategies.154
+However, the company is not using targets validated
+by the Science Based Targets initiative (SBTi), a lead-
+ing evaluator of company net zero plans.
+
+INVESTING IN BITCOIN’S CLIMATE POLLUTION: BIG FINANCE IS BETTING ON DIRTY BITCOIN  23
+
+1            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  0100101010101011010101001010100100101010100101010101010101001010100101010101010001011011101101000101001100110100101010101011010101001010110100101010110101010101001011101011101011101011010101101011101001100110100101010101011011101110010101011001010101001010001010010101001010100101101011100010110001011010101000011011101001010001010110110101011            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  0100101010101011010101001010100100101010100101010101010101001010100101010101010001011011101101000101001100110100101010101011010101001010110100101010110101010101001011101011101011101011010101101011101001100110100101010101011011101110010101011001010101001010001010010101001010100101101011100010110001011010101000011011101001010001010110110101000100101001001100000011001011010100000101001001010010111000010011010000011011Goldman discloses emissions using the Sustainability
+Accounting Standards Board (SASB) standards and
+in 2021 issued their inaugural Taskforce on Climate-
+related Financial Disclosure (TCFD) report.155 Goldman
+also signed onto the UN Environment Program’s
+Principles for Responsible Banking.156 Goldman has
+pledged to conduct a carbon footprint analysis across
+their Fundamental Equity business within their Asset
+Management division which does not appear to include
+Bitcoin investments. While the company claims to apply
+rigorous environmental and social risk management,
+including a review of investments in carbon-intensive
+sectors, the company has not disclosed the climate
+impacts of Bitcoin-related investments.157
+
+Goldman Executives have not publicly acknowledged
+Bitcoin’s climate impact or the company’s role
+in the problem. They have not responded to
+
+GPUS’s communications and have not expressed
+a willingness to participate in conversations and
+collaborations to solve Bitcoin’s climate problem.
+Yet, it appears that some people in the company
+are aware of the issue. Goldman has invested in
+Sustainable Bitcoin Protocol (SBP), a new company
+backed by major Bitcoin miners creating market-
+based solutions to incentivize renewable energy use
+for Bitcoin mining.158 SBP plans to offer certificates
+for “green” Bitcoin mined with renewables which
+can then be bought and sold like a renewable
+energy credit.159 However, there is little evidence for
+the effectiveness of this approach, and it does not
+address the underlying problem with Bitcoin’s energy-
+intensive code unlike switching away from PoW.
+Still, this investment signals that Goldman knows
+there is a problem and could be part of funding and
+supporting more transformative solutions.
+
+24  INVESTING IN BITCOIN’S CLIMATE POLLUTION: BIG FINANCE IS BETTING ON DIRTY BITCOIN
+
+© Janie Osborne / Greenpeace
+
+1            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  01001010101010110101010010101001001010101001010101010101010010101001010101010100010110111011010001010011001101001010101010110101010010101101001010101101010101010010111010111010111010110101011010111010011001101001010101010110111011100101010110010101010010100010100101010010101001011010111000101100010110101010000110111010010100010101101101010100110010100100110000001100101101010000010100100101001011100001001101000011011as “the first global bank to offer a blockchain-based
+platform for wholesale payments transactions, helping
+to re-architect the way that money, information and
+assets are moving around the world.”168 The bank
+completed a cross-border transaction using blockchain
+technologies which was called “a massive step for the
+crypto space.”169 Chase must live up to its commitment
+to “promote long-term, innovative solutions for a
+more sustainable future” by ensuring new blockchain
+technologies are built on a clean and sustainable
+system that does not use an energy-intensive
+consensus mechanism like PoW mining.170
+
+Climate
+
+Chase is actively addressing climate change and says
+it is committed to increasing sustainability across the
+company’s operations and investments. Chase has an
+A rating on ESG from MSCI and the S&P Global ESG
+ranking puts the company at 73, lower than many
+peer companies. The bank has been a member of the
+UN’s Net Zero Banking Alliance since 2021 and has
+pledged to reach net zero by 2050.171 The bank claims
+it will align key sectors of its financing portfolio with
+the goals of the Paris Agreement and will set portfolio
+emissions reduction targets, including for carbon-
+intensive sectors. Chase says it will report Scope 3
+emissions from the company’s value chain. However,
+the company’s net zero targets are not validated by
+the Science Based Targets initiative (SBTi).172
+
+Chase has not indicated that Bitcoin-related invest-
+ments are part of the company’s emissions reduc-
+tion targets and reporting plans. The company has
+not made public statements or actions addressing
+Bitcion’s climate problem, nor has it responded to
+GPUS’s requests to meet.
+
+JPMorgan Chase & Co.
+
+JPMorgan Chase & Co. (Chase) is one of the largest
+banks in the world with $3.7 trillion in assets and
+$121.6 million in revenue in 2021 and is a leader in
+retail, commercial, and investment banking.160 While
+Chase executives have been publicly critical of crypto,
+the company has started to expand into Bitcoin and
+other major cryptocurrencies. The company offers
+several bitcoin investment products and holds shares
+in Bitcoin mining companies.
+
+CEO Jamie Dimon has been an outspoken critic of
+crypto. At the World Economic Forum in January
+2023, Dimon famously mocked cryptocurrency as a
+“waste of time” and Bitcoin as a “decentralized Ponzi
+scheme” and a “hyped-up fraud.”161
+
+Despite Dimon’s brash public statements, Chase
+started offering products and services tied to Bitcoin.
+In 2021, the bank launched an actively managed
+Bitcoin fund for private banking clients which is a
+partnership with NYDIG, the Bitcoin arm of asset man-
+agement firm Stone Ridge. Chase advertises the fund
+as a cheap and safe way to invest in bitcoin.162 In July
+2021, the company expanded access to bitcoin invest-
+ments for more clients by allowing financial advisors
+to give wealth management clients access to Bitcoin
+funds through Chase brokerage accounts.163 An internal
+memo told advisors that they could take orders to buy
+and sell five cryptocurrency products, including funds
+offered by Grayscale Investments that are tied to the
+price of bitcoin.164 At the time, this put Chase ahead of
+competitors like Goldman, Morgan Stanley, and Bank
+of America, which had not given retail wealth clients
+direct access to crypto products. Chase analysts also
+issue research and reports on the Bitcoin market,
+which clients and industry watchers use.165
+
+Research also reveals Chase investments in Bitcoin
+mining companies. Through institutional holdings and
+managed funds, Chase controls shares in 17 mining
+companies with a total market value of over $26 mil-
+lion.166 It has also invested in other crypto companies,
+including its February 2022 acquisition of a minority
+stake in TRM Labs, which provides crypto compliance
+and risk management services.167
+
+Chase also uses blockchain technologies and is involved
+in decentralized finance (DeFi). The company created
+its own blockchain platform, Onyx, which it describes
+
+INVESTING IN BITCOIN’S CLIMATE POLLUTION: BIG FINANCE IS BETTING ON DIRTY BITCOIN  25
+
+© Michael Nagle / Greenpeace
+
+1            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  0100101010101011010101001010100100101010100101010101010101001010100101010101010001011011101101000101001100110100101010101011010101001010110100101010110101010101001011101011101011101011010101101011101001100110100101010101011011101110010101011001010101001010001010010101001010100101101011100010110001011010101000011011101001010001010110110101011            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  0100101010101011010101001010100100101010100101010101010101001010100101010101010001011011101101000101001100110100101010101011010101001010110100101010110101010101001011101011101011101011010101101011101001100110100101010101011011101110010101011001010101001010001010010101001010100101101011100010110001011010101000011011101001010001010110110101000100101001001100000011001011010100000101001001010010111000010011010000011011Section 3: Payment Processors
+
+Payment processing companies provide the credit
+and debit cards fundamental to the modern economy
+and can play a pivotal role in turning Bitcoin from a
+speculative investment asset into an actual medium
+of exchange. Currently, it’s difficult to use Bitcoin for
+everyday purchases and transactions. However, Visa,
+Mastercard, and American Express are beginning to
+transform Bitcoin, making it easier to pay for everyday
+goods and services with bitcoin.
+
+Research also revealed that payment processors are
+creating new services that let customers buy and sell
+bitcoin. Further, this investigation uncovered technical
+assistance to banks and other companies to support
+adoption of cryptocurrencies.
+
+We examined the three largest payment processors
+based on revenue, which are among the biggest global
+brand names in credit and debit cards. Smaller digital
+payment companies like Block (formerly Square) and
+PayPal are very active in adopting Bitcoin into their
+
+services, and are vocal boosters of crypto. However,
+we did not include them in this report given our focus
+on traditional finance companies.
+
+Our research shows that Visa and Mastercard are
+the most active in crypto and are creating a range of
+services that have ties to Bitcoin. Both companies
+have partnered with crypto exchanges to offer debit
+cards that facilitate payments using cryptocurrencies,
+including Bitcoin, though Visa appears to be expand-
+ing these offerings more rapidly. Both offer consulting
+and data services related to crypto but Mastercard
+also has a start-up incubator dedicated to crypto.
+American Express is less active, but has invested in
+several crypto start-ups and is starting to create part-
+nerships with crypto exchange companies that deal
+with Bitcoin. On the other hand, all three companies
+strive to be leaders on climate and sustainability, and
+have the strongest net zero pledges among the com-
+panies we examined. Thus, Bitcoin presents a contra-
+diction for these companies as well as an opportunity
+to lead innovation on cleaning up Bitcoin.
+
+$
+
+Payment Processors
+Enable BTC Payments
+Services enabling purchases with
+BTC that make it more usable
+and mainstream which increases
+the price and energy use
+
+BTC Support Services
+Consulting services and
+investments in companies
+that facilitate wider adoption
+of BTC
+
+Moderate
+
+Large
+
+Solving the Problem
+Acknowledgement of the
+problem and support for a
+code change to reduce
+BTC's pollution
+
+Initial Steps
+
+Large
+
+Moderate
+
+No Action
+
+Small
+
+Small
+
+No Action
+
+Bitcoin (BTC)
+
+26  INVESTING IN BITCOIN’S CLIMATE POLLUTION: BIG FINANCE IS BETTING ON DIRTY BITCOIN
+
+1            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  01001010101010110101010010101001001010101001010101010101010010101001010101010100010110111011010001010011001101001010101010110101010010101101001010101101010101010010111010111010111010110101011010111010011001101001010101010110111011100101010110010101010010100010100101010010101001011010111000101100010110101010000110111010010100010101101101010100110010100100110000001100101101010000010100100101001011100001001101000011011of the payments ecosystem, and we are pleased to
+support FalconX as it continues to drive innovation in
+the digital asset space, including digital currencies.”181
+
+Climate
+
+Amex is a leader among peer companies on climate
+action and has active sustainability initiatives. The
+company has an AA MSCI ESG rating and is ranked
+85 by the S&P Global ESG ranking, lower than the
+other payment processing companies in this report.182
+The company has made an ambitious pledge to
+reach net zero emissions by 2035, in alignment
+with the SBTi.183 Amex claims to be carbon neutral
+in corporate operations since 2018 and powered
+by 100% renewable electricity. Amex participates
+in numerous global initiatives to address climate
+change, including the World Economic Forum’s
+Clean Skies for Tomorrow Coalition and the Global
+Future Council on Sustainable Tourism. Amex also
+says it incorporates ESG considerations into its
+risk management approach, including climate risks.
+The company supports the Task Force on Climate-
+Related Financial Disclosures (TCFD) and is evaluating
+physical and transition risks in line with the TCFD
+recommendations.184
+
+Yet, Amex has not addressed how Bitcoin-related
+services align with company emissions disclosures,
+climate risk assessments, and net zero pledges. Amex
+staff did not reply to GPUS’s requests to meet and
+discuss the issue.
+
+American Express
+
+American Express (Amex) is a global payments and
+travel services company that provides credit and
+debit cards for consumers and companies world-
+wide. As of 2021, the company had 71.4 million cards
+issued and $24.4 billion in revenue.173 Amex has been
+slower and more hesitant to move into crypto than
+Visa and Mastercard. Yet, Amex has recently launched
+new crypto programs and invested in several crypto
+startup companies, creating some exposure to
+Bitcoin.
+
+Chairman and CEO Stephen Squeri has taken a cau-
+tious stance towards crypto, stating that crypto is a
+low priority for the company, and that cryptocurren-
+cies are more like an asset such as gold or silver than
+a usable currency.174 Still, Amex is getting involved in
+crypto and using blockchain technologies. In 2017,
+Amex announced a service for U.S. corporate custom-
+ers to send instant blockchain-based payments using
+Ripple to U.K. businesses that bank with Santander.175
+In 2022, Amex issued its first crypto rewards card
+through a partnership with crypto wealth manager
+Abra. The card provides rewards in Bitcoin along with
+other cryptocurrencies but makes transactions in
+U.S. Dollars, unlike some cards offered by Visa and
+Mastercard that facilitate payments in Bitcoin.176
+
+Amex has a strategic investments and venture cap-
+ital wing called American Express Ventures that has
+backed several crypto-related companies which has
+pushed Amex into the crypto sector. In 2015, Amex
+Ventures made one of its first investments in a crypto
+startup during a Series A funding round for Abra, a
+company that operates a crypto wallet and exchange
+where individuals and institutions can buy and sell
+bitcoin.177 The Amex fund was also an early investor
+in Stripe which created the technology underlying
+many payment systems. Stripe provides services to
+many crypto wallet and exchange companies, allowing
+them to move bitcoin to and from U.S. Dollars, and
+process payments.178 In 2021, Amex Ventures invested
+in a blockchain intelligence startup, TRM Labs.179 The
+company also invested in FalconX, a platform that
+supports institutions trading crypto, which Bloomberg
+described as a sign that large financial companies
+were moving into crypto.180 Amex Ventures global head
+Harshul Sanghi said, “Amex Ventures invests in start-
+ups as a way to better understand emerging areas
+
+INVESTING IN BITCOIN’S CLIMATE POLLUTION: BIG FINANCE IS BETTING ON DIRTY BITCOIN  27
+
+© Tracie Williams / Greenpeace
+
+1            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  0100101010101011010101001010100100101010100101010101010101001010100101010101010001011011101101000101001100110100101010101011010101001010110100101010110101010101001011101011101011101011010101101011101001100110100101010101011011101110010101011001010101001010001010010101001010100101101011100010110001011010101000011011101001010001010110110101011            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  0100101010101011010101001010100100101010100101010101010101001010100101010101010001011011101101000101001100110100101010101011010101001010110100101010110101010101001011101011101011101011010101101011101001100110100101010101011011101110010101011001010101001010001010010101001010100101101011100010110001011010101000011011101001010001010110110101000100101001001100000011001011010100000101001001010010111000010011010000011011Mastercard
+
+Mastercard is one of the largest payment and finan-
+cial transaction processing companies in the world,
+with $22.2 billion in revenue and a net income of
+$9.93 billion in 2022.185 Billions of people and retailers
+rely on Mastercard’s debit and credit cards to make
+daily transactions. Mastercard is working to make it
+easier and safer for banks to adopt cryptocurrencies
+like Bitcoin and for merchants to support Bitcoin and
+other crypto payments. Mastercard could significantly
+impact the sector and dramatically scale up Bitcoin
+by enabling people to use it for regular transactions.
+Mastercard executives have extolled crypto includ-
+ing Chief Executive Michael Miebach who wrote in a
+LinkedIn post about his vision for “bringing crypto to
+everyday purchases.”186
+
+In 2021, Mastercard began partnerships that enable
+customers to use cryptocurrencies, including Bitcoin,
+at more retailers.187 To do this, Mastercard announced
+a partnership with Bakkt, a firm that provides crypto
+custodial services, to allow millions of merchants on
+Mastercard’s payment network and banks to integrate
+cryptocurrencies like Bitcoin.188 Institutions, including
+big banks, that issue Mastercard credit and debit
+cards will be able to offer cards that convert bitcoin
+to fiat, facilitating payments with Bitcoin, and give
+customers reward points in Bitcoin.189 Although the
+program’s rollout is ongoing, this move could enable
+a major expansion in how people buy and spend
+Bitcoin. In 2022, Mastercard announced a partnership
+with one of the biggest crypto exchanges, Binance,
+to launch a card that lets users spend Bitcoin from
+their Binance accounts by converting crypto into U.S.
+Dollars, or other traditional currency, at the point of
+sale.190 The card was launched in Argentina with plans
+to expand and could eventually support the 90 mil-
+lion online and physical stores across Mastercard’s
+network.191 In January 2023, Mastercard announced
+the launch of the Binance Card in Brazil which will be
+issued by Dock, a payment institution regulated by
+Brazil’s central bank.192 Mastercard is now expanding
+its crypto offerings in Europe with a partnership with
+Unbanked, which offers crypto supporting cards and
+other services for Web3 companies.193
+
+Mastercard launched a program called Crypto Source
+in October 2022 that enables financial institutions
+to offer crypto trading to their clients.194 Mastercard
+will serve as a bridge between Paxos, a crypto trading
+
+platform, and banks, handling security issues that are
+barriers to financial institutions participating in crypto
+trading. The service could help banks compete with
+existing crypto exchanges like Coinbase by creating the
+ability for customers to buy and sell Bitcoin through
+their existing banks. This would build trust that could
+help mainstream Bitcoin investing. In another move
+to help banks manage risks and security threats from
+crypto, Mastercard launched a service called Crypto
+Secure to help find and prevent fraud on crypto mer-
+chant platforms.195
+
+Mastercard has also invested in startup companies
+developing crypto-related services and products. In
+2015 Mastercard invested in Digital Currency Group
+(DCG) a company that invests in crypto startups
+and operates wholly-owned subsidiaries Genesis
+Global Trading, a Bitcoin trading firm, and Grayscale
+Investments, the firm managing the publicly traded
+Bitcoin Trust (GBTC) that lets people bet on the price
+of Bitcoin.196 DCG and its subsidiaries have become a
+major player in the Bitcoin and broader crypto indus-
+try. Mastercard also has a fintech accelerator called
+the Start Path program that supports web3 startups
+and in 2021 launched a crypto-focused branch called
+Start Path Crypto. As of November 2022, the pro-
+gram had invested in 25 crypto companies.197 Thus,
+Mastercard could direct its investments towards
+companies that use clean blockchain technology and
+provide financial support to groups working on innova-
+tive solutions to change Bitcoin’s code.
+
+Mastercard is also increasing staff to support expan-
+sion into the crypto sector. Reports from early 2022
+indicate the company’s plans to hire 500 people were
+aimed in part at growing a data and services unit that
+includes consulting on crypto and helping banks with
+issues around crypto and ESG.198 However, this con-
+sulting does not appear to address the ESG concerns
+related to Bitcoin.
+
+Climate
+
+Mastercard is trying to be a leader on corporate sus-
+tainability and climate action. The company has a AA
+score from MSCI’s ESG rating, higher than the other
+companies in this report, and the S&P Global ESG
+ranking places them in the 91st percentile. Mastercard
+is active in numerous business coalitions supporting
+carbon reductions including the 1.5°C Supply Chain
+
+28  INVESTING IN BITCOIN’S CLIMATE POLLUTION: BIG FINANCE IS BETTING ON DIRTY BITCOIN
+
+1            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  01001010101010110101010010101001001010101001010101010101010010101001010101010100010110111011010001010011001101001010101010110101010010101101001010101101010101010010111010111010111010110101011010111010011001101001010101010110111011100101010110010101010010100010100101010010101001011010111000101100010110101010000110111010010100010101101101010100110010100100110000001100101101010000010100100101001011100001001101000011011Leaders Initiative and the United Nations’ Race to
+Zero which supports small and medium suppliers
+to half emissions by 2030 and achieve net zero by
+2050.199 Mastercard is also a member of RE100, a
+coalition of businesses dedicated to sourcing 100%
+renewable electricity.200 In 2021, the company said
+executive compensation was tied to ESG goals,
+including carbon neutrality.201
+
+Mastercard has strong climate commitments. The
+company has pledged to meet net zero goals by 2040,
+up from 2050. Mastercard also says its operations have
+been powered by 100% renewable energy since 2018,
+although much of that depends on renewable energy
+credits.202 The Science-Based Targets Initiative (SBTi)
+has approved the company’s 1.5°C target, something
+Mastercard claims is a first among payment processing
+companies.203 Mastercard also reports GHG emissions
+and sets reduction targets aligned with the United
+Nations Business Ambition for a 1.5°C future using
+standards set by SBTi. Mastercard’s reduction strategy
+is focused on decarbonization across its value chain,
+including Scope 1, 2, and 3 emissions.204
+
+As part of emissions disclosures, Mastercard reports
+the energy used at data centers they own and mon-
+itors energy use at data centers they rent but do not
+manage.205 However, Mastercard’s leaders have not
+
+addressed how Bitcoin-related investments and ser-
+vices align with emissions reduction goals.
+
+Mastercard is also working to increase carbon trans-
+parency and accounting. The company has a carbon
+calculator that allows customers to estimate the car-
+bon footprint of card purchases.206 In partnership with
+Doconomy, Mastercard offers a free mobile banking
+program that lets users track and reduce their CO2
+footprint.207 Yet, this transparency and emissions
+reporting is missing when it comes to Bitcoin pur-
+chases and investments enabled by Mastercard.
+
+Mastercard has engaged with GPUS about Bitcoin’s
+pollution and participated in discussions about the
+issue. Mastercard’s 2022 Sustainability Report states
+that the company has a preference for working with
+“energy efficient solutions that consider climate and
+community impacts” and supports research by the
+Cambridge Digital Assets Programme that examines
+the energy use and carbon emissions of cryptocurren-
+cies, including Bitcoin.208 This is an important step in
+recognizing the need for sustainable digital assets and
+directing resources to technologies based on clean
+blockchains. Yet, Mastercard’s services still can include
+Bitcoin and the company has not issued a public state-
+ment calling out Bitcoin’s climate pollution or taken
+action supporting solutions for cleaning up Bitcoin.
+
+INVESTING IN BITCOIN’S CLIMATE POLLUTION: BIG FINANCE IS BETTING ON DIRTY BITCOIN  29
+
+© Tracie Williams / Greenpeace
+
+1            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  0100101010101011010101001010100100101010100101010101010101001010100101010101010001011011101101000101001100110100101010101011010101001010110100101010110101010101001011101011101011101011010101101011101001100110100101010101011011101110010101011001010101001010001010010101001010100101101011100010110001011010101000011011101001010001010110110101011            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  0100101010101011010101001010100100101010100101010101010101001010100101010101010001011011101101000101001100110100101010101011010101001010110100101010110101010101001011101011101011101011010101101011101001100110100101010101011011101110010101011001010101001010001010010101001010100101101011100010110001011010101000011011101001010001010110110101000100101001001100000011001011010100000101001001010010111000010011010000011011Visa
+
+Visa is the world’s largest payment processor and pro-
+vides credit and debit cards that are used by billions of
+people and accepted by millions of merchants.209 The
+company is expanding into crypto and exploring new
+ways for customers and businesses to use digital assets
+like Bitcoin. Visa could play a critical role in mainstream-
+ing and growing Bitcoin by enabling people to spend and
+trade bitcoin more easily. In February 2023, a Reuters
+report claimed Visa was pausing new crypto partnerships
+and services.210 Visa leaders denied it and reaffirmed that
+the company was still moving forward in the sector.211
+
+Visa has multiple crypto-linked credit and debit cards
+that enable customers to spend and earn rewards
+in bitcoin.212 Visa offers a card in partnership with
+Coinbase, a large crypto exchange company, that lets
+customers spend bitcoin in their Coinbase wallet at
+any retailer in Visa’s network and earn bitcoin rewards
+points.213 Visa has also partnered with Crypto.com to
+issue a prepaid card that lets customers add Bitcoin
+and U.S. Dollars while also earning rewards in Cronos
+(CRO), Crypto.com’s  cryptocurrency that is cleaner than
+Bitcoin since its based on a different consensus mech-
+anism that does not use energy-intensive mining.214 Visa
+also offers the Upgrade Bitcoin Rewards credit card
+that is a collaboration with startup company Upgrade
+and issued by Sutton Bank that gives customers
+rewards in bitcoin. When customers make payments
+with the card, bitcoin will be purchased for them and
+held in a wallet with NYDIG, a financial services com-
+pany dedicated to Bitcoin.215 Visa had offered a debit
+card with FTX, but it was canceled in November 2022
+as the company imploded due to widespread fraud.216
+
+Partnerships with crypto companies have created a
+growing Bitcoin business for Visa. In the first quarter of
+2022, Visa reported that customers made $2.5 billion
+worth of purchases on their Visa crypto cards.217 The
+company said its network of crypto wallet partners
+grew to 65 in early 2022, including Coinbase, Circle, and
+BlockFi, and that almost 100 million merchants now
+accept crypto, including Bitcoin, on the Visa network.218
+
+Visa is also expanding its crypto offerings in the United
+Kingdom, Asia-Pacific, and Latin America. The company
+created a long-term strategic partnership with Wirex, a
+crypto platform, to expand in those regions and offer
+crypto debit and prepaid cards that support Bitcoin.219
+Visa also partnered with Binance to offer a crypto
+
+debit card to customers in select European countries
+that would facilitate bitcoin payments.220
+
+Visa also operates a Digital Currency Innovation Hub
+that helps clients understand crypto and other emerg-
+ing technologies to create new opportunities. The
+group publishes educational materials on crypto and
+claims to work with software engineers on new con-
+cepts.221 Visa also offers crypto consulting and advisory
+services to help clients, including financial institutions
+and retailers, understand and navigate cryptocurren-
+cies.222  In 2021, Visa invested in a blockchain intelli-
+gence startup, TRM Labs.223 Bitcoin, as the largest and
+most valuable cryptocurrency, is likely a part of these
+services. Yet, Visa does not appear to be using these
+resources and expertise to address Bitcoin’s pollution
+and climate impacts.
+
+Climate
+
+Visa is active in efforts to address climate change and
+has a range of corporate sustainability initiatives. The
+company has an A score from MSCI’s ESG rating and
+placed at 93 on the S&P Global ESG rank. Visa joined
+The Climate Pledge, a group of companies pledging to
+reach net zero by 2040, the Climate Business Network,
+a World Wildlife Fund initiative to accelerate efforts
+to net zero, and the UN Race to Zero.224 Thus, Visa
+has pledged to reach net zero by 2040 in line with
+the goals set by the Paris Climate Agreement. To do
+so, Visa has set science based emissions reductions
+targets that would meet 1.5C pathways which have
+been validated by SBTi.225 Visa claims to have achieved
+carbon neutrality in its operations and to use 100%
+renewable energy.226 Visa also claims to embed sus-
+tainability into its partnerships and initiatives, but the
+company does not appear to be applying those princi-
+ples in Bitcoin-related partnerships.
+
+Visa also offers a CO2 calculator for customers to track
+the emissions from their purchases. Yet, Visa does not
+offer specific calculations for Bitcoin purchases on
+their crypto cards, which have a much larger carbon
+footprint than U.S. Dollar and other traditional currency
+purchases.227
+
+Despite Visa’s strong climate pledges, the company has
+not addressed Bitcoin’s large carbon footprint and, as
+of publication, has not taken concrete actions to solve
+the problem despite the company’s growing role in the
+Bitcoin space. Leaders from the company have taken an
+initial step in responding to GPUS to discuss the issue.
+
+30  INVESTING IN BITCOIN’S CLIMATE POLLUTION: BIG FINANCE IS BETTING ON DIRTY BITCOIN
+
+1            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  01001010101010110101010010101001001010101001010101010101010010101001010101010100010110111011010001010011001101001010101010110101010010101101001010101101010101010010111010111010111010110101011010111010011001101001010101010110111011100101010110010101010010100010100101010010101001011010111000101100010110101010000110111010010100010101101101010100110010100100110000001100101101010000010100100101001011100001001101000011011INNOVATING BITCOIN
+FOR A WARMING WORLD
+
+Financial services companies need to reckon with
+Bitcoin’s climate impact and step up to address the
+problem. All of the nine companies we evaluated have
+exposure to Bitcoin but no concrete plans to reconcile
+that with corporate climate pledges and sustainability
+programs. Many stakeholders are passing the buck and
+trying to avoid responsibility for Bitcoin’s climate and
+community impacts. Yet, big financial services compa-
+nies both play a vital role in the industry and have the
+expertise and resources to drive innovative solutions.
+Financial institutions cannot claim to be cutting-edge
+while maintaining their support for Bitcoin in its cur-
+rent form, which relies on growing amounts of electric-
+ity powered largely by outdated fossil fuels.
+
+At the time of this report, the crypto industry is
+largely unregulated and there is a lack of transpar-
+ency about the location, energy use, and emissions
+of Bitcoin mining sites. An important first step is
+increased reporting of GHG emissions from Bitcoin
+mining and disclosure of financial institutions’
+Bitcoin-related investments and emissions.
+
+Yet more fundamental and transformative solutions
+are possible. A shift away from PoW mining toward
+a new, less energy-intensive consensus mechanism
+could slash Bitcoin’s carbon and environmental foot-
+print. Creating a new clean blockchain for Bitcoin can
+make it less risky and future-proof it for the impacts
+of climate change and energy transitions. And finan-
+cial services companies should lead the way in chang-
+ing Bitcoin’s code.
+
+Cleaning up Bitcoin will be a substantial social and
+technical undertaking. We will need leaders from the
+financial services sector and Bitcoin industry to take
+responsibility for drastically reducing their carbon
+footprint by coordinating to develop and implement
+a new consensus mechanism and building support
+among Bitcoin stakeholders to support a code change.
+
+Failure to innovate Bitcoin is simply not an option. To
+avert the worst consequences of climate change, we
+need to transform the ways we produce and consume
+energy. That includes finding a sustainable solution to
+Bitcoin’s energy-intensive mining process.
+
+INVESTING IN BITCOIN’S CLIMATE POLLUTION: BIG FINANCE IS BETTING ON DIRTY BITCOIN  31
+
+© Scott Goldsmith / Greenpeace
+
+1            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  0100101010101011010101001010100100101010100101010101010101001010100101010101010001011011101101000101001100110100101010101011010101001010110100101010110101010101001011101011101011101011010101101011101001100110100101010101011011101110010101011001010101001010001010010101001010100101101011100010110001011010101000011011101001010001010110110101011            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  0100101010101011010101001010100100101010100101010101010101001010100101010101010001011011101101000101001100110100101010101011010101001010110100101010110101010101001011101011101011101011010101101011101001100110100101010101011011101110010101011001010101001010001010010101001010100101101011100010110001011010101000011011101001010001010110110101000100101001001100000011001011010100000101001001010010111000010011010000011011© Christian Mang / Greenpeace
+
+The best way to create a sustainable solution is for
+all stakeholders to work collaboratively. With Bitcoin
+miners, developers, and crypto companies at the
+table with financial institutions and climate experts,
+we can generate creative and innovative solutions
+that ensure the needs of the Bitcoin community and
+the planet are met.
+
+Greenpeace USA is calling on large financial compa-
+nies to initiate the conversations and collaborations
+necessary to develop and implement Bitcoin’s evolu-
+tion toward a carbon-free system. Companies could
+fund startups and developers creating new clean
+consensus mechanisms and blockchain technologies,
+and support working groups and alliances with indus-
+try organizations and nonprofits developing solutions.
+
+Specifically, we are demanding the financial institu-
+tions covered in this report do the following:
+
+ ◼ Publicly acknowledge Bitcoin’s pollution and its
+
+negative impacts to the climate and communities
+
+ ◼ Publicly support a code change that switches
+
+Bitcoin to a cleaner protocol that does not rely on
+energy and carbon-intensive digital mining
+
+ ◼ Participate in convening experts, industry, and
+
+policymakers to create a new consensus mech-
+anism that uses dramatically less energy and
+ushers in a clean-future for Bitcoin
+
+ ◼ Fund startups, nonprofits, academics, and other
+developers that are working on sustainable
+blockchain technologies and ways to change
+Bitcoin’s code
+
+ ◼ Until a new consensus mechanism is developed
+and meaningful progress is made toward its
+implementation, pause further Bitcoin expansion,
+including:
+
+ ⚫ New partnerships and investments with
+
+exchanges and mining companies
+
+ ⚫ New services that facilitate bitcoin
+
+transactions and investing
+
+ ⚫ New products that support Bitcoin
+
+Bitcoin revolutionized cryptocurrencies when it
+launched in 2009. It now has the opportunity to show
+the strength of its community by creating a new
+secure, decentralized consensus mechanism that is
+aligned with a livable planet.
+
+32  INVESTING IN BITCOIN’S CLIMATE POLLUTION: BIG FINANCE IS BETTING ON DIRTY BITCOIN
+
+1            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  01001010101010110101010010101001001010101001010101010101010010101001010101010100010110111011010001010011001101001010101010110101010010101101001010101101010101010010111010111010111010110101011010111010011001101001010101010110111011100101010110010101010010100010100101010010101001011010111000101100010110101010000110111010010100010101101101010100110010100100110000001100101101010000010100100101001011100001001101000011011METHODOLOGY
+Company Selection
+
+Financial companies were selected from three differ-
+ent categories: banks, asset managers, and payment
+processors. Each of these sectors are essential to
+maintaining the Bitcoin system and enabling Bitcoin’s
+wider adoption. Banks and asset managers provide
+investments and financial services that Bitcoin min-
+ing, software, hardware, and services companies
+need. Banks and asset managers also support trading
+in Bitcoin and Bitcoin-related products like futures
+contracts and derivatives. Payment processors enable
+transactions with Bitcoin and provide vital software
+and data services that let other financial institu-
+tions use cryptocurrencies. Within each category,
+we reviewed the largest U.S.-based companies and
+
+selected those most active in Bitcoin based on com-
+pany statements and media coverage. The three asset
+managers (BlackRock, Fidelity, and Vanguard) are
+the largest by assets under management and all had
+ties to Bitcoin. The payment processing companies
+(American Express, Mastercard, and Visa) are the larg-
+est based on number of cardholders and number of
+transactions. Companies focused on digital payments,
+like PayPal and Block, that are actively involved with
+Bitcoin were excluded since they are smaller compa-
+nies with less impact on the global financial system.
+For the banking sector, we examined the ten largest
+U.S.-based commercial and investment banks and
+through our preliminary research identified JP Morgan,
+Citigroup, and Goldman Sachs as the most involved
+with Bitcoin.
+
+INVESTING IN BITCOIN’S CLIMATE POLLUTION: BIG FINANCE IS BETTING ON DIRTY BITCOIN  33
+
+© Aaron M. Sprecher / Greenpeace
+
+1            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  0100101010101011010101001010100100101010100101010101010101001010100101010101010001011011101101000101001100110100101010101011010101001010110100101010110101010101001011101011101011101011010101101011101001100110100101010101011011101110010101011001010101001010001010010101001010100101101011100010110001011010101000011011101001010001010110110101011            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  0100101010101011010101001010100100101010100101010101010101001010100101010101010001011011101101000101001100110100101010101011010101001010110100101010110101010101001011101011101011101011010101101011101001100110100101010101011011101110010101011001010101001010001010010101001010100101101011100010110001011010101000011011101001010001010110110101000100101001001100000011001011010100000101001001010010111000010011010000011011Bitcoin Investments
+and Exposure
+
+Tracing investments in Bitcoin is challenging and dif-
+ferent to examining investments in traditional indus-
+tries such as oil and gas. Bitcoin is unique because it
+is an investment asset as well as a form of payment
+that relies on software, hardware, and financial ser-
+vices companies. Bitcoin, and cryptocurrency more
+broadly, also lacks critical regulatory frameworks
+to provide transparency, predictability, and sound
+governance.
+
+The most direct way companies can have exposure to
+Bitcoin is through corporate holdings, but these can
+be hard to track because the Bitcoin blockchain is
+anonymous. Although publicly traded companies typ-
+ically disclose cryptocurrency holdings in SEC filings.
+Another way financial companies can have exposure
+to the Bitcoin system is through connections to
+companies that do mining, create Bitcoin-related
+software, and provide services that support Bitcoin.
+Thus, there are many ways for financial companies
+to have ties to Bitcoin which are not clearly quantifi-
+able or comparable. In addition, many Bitcoin related
+programs and services offered by financial services
+companies are new, and the size and impact of them
+remain unclear.
+
+Share Holdings in Publicly Traded
+Bitcoin Mining Companies
+
+Our research assessed investments in Bitcoin mining
+companies since they are directly involved in creating
+Bitcoin’s pollution. They depend on financial institu-
+tions to raise capital and one way is to sell shares
+in the company to the public. To assess financial
+companies’ shareholdings, we first identified publicly
+traded Bitcoin mining companies. Since there is no
+standardized industry classification for Bitcoin mining,
+we created our own list of companies through news
+reports, industry group membership, and other public
+information sources. We identified 27 publicly traded
+companies that are involved in Bitcoin mining. Using
+Bloomberg Terminal, an industry-leading financial
+database, we collected data on the shareholdings
+of all 27 companies and identified shares controlled
+
+by the nine financial companies. We found that our
+target companies had holdings in 24 of the miners.
+Our shareholding calculations include direct institu-
+tional holdings as well as subsidiaries, mutual and
+index funds, and ETFs. Thus, shares are not necessar-
+ily owned by the financial company but the company
+does control the assets. The value of shareholdings
+was based on the number of shares and the current
+share price when the data was collected on April
+25, 2023. Since shares are bought and sold on stock
+exchanges, companies’ holdings and share prices
+change regularly. Thus, the data is a snapshot in time.
+
+Bond Holdings in Bitcoin Mining Companies
+
+Another way for Bitcoin miners to raise capital is
+through corporate bonds. Banks and asset man-
+agers can invest in these companies by holding
+bonds – portions of corporate loans that are bought
+and sold by investors. Buying a bond means the
+investor becomes a creditor to the company and
+gets paid back over a set period along with interest.
+Bondholders are creditors to the company, unlike
+shareholders who are a partial owner of the issuing
+company. Most of the Bitcoin mining companies we
+identified are relatively small and new, thus few have
+issued corporate bonds. In the Bloomberg Terminal
+we used the SECF command to find bond corporate
+data and identified two Bitcoin miners’ bonds held by
+the companies in our study. We report this data in the
+company profiles.
+
+Lending and Underwriting
+
+Banks also provide important services and invest-
+ments for companies by managing the issuance of
+shares and bonds. For example, if a Bitcoin mining
+company wants to go public, they need a bank to lead
+an initial public offering (IPO) to issue and then sell
+the shares. Banks provide similar underwriting ser-
+vices for the issuance of bonds, essentially breaking a
+loan into smaller pieces that can be bought and sold.
+Banks can also provide direct loans to companies. We
+searched the Bloomberg Terminal for data on banks
+involved with lending and underwriting for Bitcoin
+mining companies. We did not find any deals involving
+our nine target companies via Bloomberg’s League
+tables - an industry-leading methodology to assign
+
+34  INVESTING IN BITCOIN’S CLIMATE POLLUTION: BIG FINANCE IS BETTING ON DIRTY BITCOIN
+
+1            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  01001010101010110101010010101001001010101001010101010101010010101001010101010100010110111011010001010011001101001010101010110101010010101101001010101101010101010010111010111010111010110101011010111010011001101001010101010110111011100101010110010101010010100010100101010010101001011010111000101100010110101010000110111010010100010101101101010100110010100100110000001100101101010000010100100101001011100001001101000011011banks a share of value in underwriting deals. We also
+searched for other loans with the Bloomberg LSRC
+function and searched individual mining companies’
+corporate action history to identify banks involved
+with equity offerings like IPOs.
+
+Bitcoin Investment Products and Services
+
+Financial services companies have just started
+launching cryptocurrency-related products, services,
+and partnerships in the past few years. Many are also
+outside of traditional financial markets and regulatory
+reporting requirements and offered for private wealth
+clients. Thus, there is limited data on the scope and
+size of these products. We relied on news coverage,
+press releases, company websites, and other public
+information sources to identify how financial compa-
+nies are getting involved in Bitcoin. The value, size and
+scope of these products and services is often hard
+to determine and quantify. Creating tools for clients
+to buy and sell Bitcoin, or partnering with a crypto
+
+exchange company to offer Bitcoin debit cards are
+not quantifiable like shareholdings in a Bitcoin mining
+company.
+
+While we did identify some investment products that
+are focused on Bitcoin, like Fidelity’s Bitcoin ETF,
+many others are not Bitcoin specific. Many of the ser-
+vices, programs, and departments companies are cre-
+ating support a range of cryptocurrencies. However,
+since Bitcoin is by far the largest and most valuable
+cryptocurrency, these services are most likely sup-
+porting Bitcoin unless Bitcoin is explicitly excluded.
+
+Financial companies are also developing block-
+chain-based products and technologies that do not
+involve Bitcoin. However, we include some of that
+information because we think financial services
+companies have a stake in ensuring that the broader
+digital asset and cryptocurrency space is not polluting
+and contributing to the climate crisis.
+
+INVESTING IN BITCOIN’S CLIMATE POLLUTION: BIG FINANCE IS BETTING ON DIRTY BITCOIN  35
+
+© Aaron M. Sprecher / Greenpeace
+
+1            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  0100101010101011010101001010100100101010100101010101010101001010100101010101010001011011101101000101001100110100101010101011010101001010110100101010110101010101001011101011101011101011010101101011101001100110100101010101011011101110010101011001010101001010001010010101001010100101101011100010110001011010101000011011101001010001010110110101011            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  0100101010101011010101001010100100101010100101010101010101001010100101010101010001011011101101000101001100110100101010101011010101001010110100101010110101010101001011101011101011101011010101101011101001100110100101010101011011101110010101011001010101001010001010010101001010100101101011100010110001011010101000011011101001010001010110110101000100101001001100000011001011010100000101001001010010111000010011010000011011GLOSSARY
+
+Application Specific Integrated Circuits (ASICs):
+Specialized computers used by Bitcoin miners to
+calculate guesses, called hashes, for solving algorithms
+in the Proof of Work process. To be profitable, miners
+need large amounts of the fastest and most efficient
+ASICs which creates pressure to regularly update
+equipment, producing e-waste.228 ASICs are also highly
+specialized and have limited use beyond Bitcoin mining
+so there is limited potential for repurposing them.
+
+Blockchain: A collectively managed and decentralized
+digital ledger that is used to track and record trans-
+actions in an open yet secure way without a central
+authority like a bank or government. In the Bitcoin sys-
+tem, thousands of computers, or nodes, run software
+to store copies of the entire Bitcoin blockchain. Bitcoin
+was an early innovator in blockchain technologies in
+2009, but the use of blockchains has grown rapidly in
+recent years and has applications well beyond cryp-
+tocurrencies. For example, groups are exploring how
+blockchain technologies could be used for carbon
+accounting and tracking, and in international develop-
+ment programs and micro-loans.229
+
+Block Subsidy: Amount of new coins (e.g., bitcoins)
+produced and added to a block, awarded to the miner
+that successfully records that block.
+
+Consensus mechanism: The process used by block-
+chain technologies to verify transactions and secure
+the digital ledger. Participants in a blockchain network,
+like Bitcoin or other cryptocurrencies, need a mecha-
+nism for reaching agreement that a set of transactions
+are valid and preventing double-counting – spending
+the same Bitcoin twice. This mechanism is the back-
+bone of a cryptocurrency’s blockchain and how cryp-
+tocurrencies can operate without a central authority
+like a government. There are many different types of
+consensus mechanisms including Proof of Space, Proof
+of Authority, and Proof of Burn. Currently, the most
+widely used cryptocurrency consensus mechanisms
+are Proof of Work and Proof of Stake.230 However, this
+is a dynamic field with new mechanisms and protocols
+being developed and tested.
+
+Custodianship: Cryptocurrencies, like other valuable
+assets including stocks, gold, and money, need to be
+stored safely and securely which is often done through
+a third party, a custodian. For crypto, custodians safely
+store customers’ private keys – the passwords – to
+their crypto holdings, not the crypto coins themselves
+that exist on the public ledger called the blockchain.
+Institutions that manage people’s money and other
+assets, like asset managers and investment banks, are
+required to have a custodian store a client’s assets
+and keep it separated from the company’s finances.
+This protects clients’ assets in case of a bankruptcy.
+Yet in the largely unregulated crypto industry, many
+companies that offer crypto exchange and wallet
+services have not securely stored client holdings with a
+custodian. This contributes to risky business practices
+where company and client crypto assets are mixed,
+and customers potentially losing their investments
+when companies have gone bankrupt such as FTX.231
+
+Cryptocurrency: A digital form of currency that relies
+on a decentralized blockchain and cryptography to
+ensure transparency and security. Currently cryptocur-
+rencies are primarily used as investments and a way
+to store value, although value that is quite volatile,
+and less frequently used as a medium of exchange.
+However, payment processing companies are start-
+ing to integrate cryptocurrencies, making it easier for
+casual users to spend crypto and make transactions.
+Cryptocurrencies are one type of digital asset which
+include a range of different virtual products like non-
+fungible tokens (NFTs) and tokenized assets - turning
+physical assets like stock or even land into a digital
+asset.
+
+Crypto exchange: An online trading platform used to
+buy, sell, or trade cryptocurrencies, like Bitcoin, and
+convert cryptocurrencies to and from government-is-
+sued money like US Dollars. Popular exchanges include
+those run by Coinbase and Binance.
+
+Crypto wallet: Cryptocurrencies need to be stored
+somewhere and owners need to make sure the private
+keys, or password, to their cryptocurrency is kept
+safe and secure. Thus, wallets are used which can
+be physical devices similar to a hard drive, software
+programs, or online services like those operated by
+Coinbase and Binance.
+
+36  INVESTING IN BITCOIN’S CLIMATE POLLUTION: BIG FINANCE IS BETTING ON DIRTY BITCOIN
+
+© Aaron M. Sprecher / Greenpeace
+
+1            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  01001010101010110101010010101001001010101001010101010101010010101001010101010100010110111011010001010011001101001010101010110101010010101101001010101101010101010010111010111010111010110101011010111010011001101001010101010110111011100101010110010101010010100010100101010010101001011010111000101100010110101010000110111010010100010101101101010100110010100100110000001100101101010000010100100101001011100001001101000011011De-centralized Finance (DeFi): A broad term for an
+emerging field of finance that works outside of tra-
+ditional financial institutions and companies using
+public blockchains to facilitate direct transactions
+between users without intermediaries. An important
+tool is smart contracts that are code on a blockchain
+which can automatically execute the terms of an
+agreement once a set of criteria are met, eliminating
+the need for parties to meet. Ethereum is used for
+many DeFi services. Bitcoin, however, is not a cen-
+tral component to the broader DeFi industry in part
+because its code and PoW mechanism have fewer
+uses and do not support services like smart contracts.
+
+Exchange traded fund (ETF): An investment security
+that typically tracks a certain index, sector, or commod-
+ity which is similar to a mutual fund but is traded on a
+stock exchange. There are ETFs that track the crypto
+industry and the price of Bitcoin, although the U.S. has
+not approved an ETF tied to Bitcoin’s spot price yet due
+to concerns about risk and lack of regulatory oversight.
+
+Net zero: The goal of companies, institutions, and
+countries to reduce greenhouse gas (GHG) or carbon
+dioxide emissions to net zero, usually involving a mix of
+approaches designed to reduce or  eliminate emissions
+and offsetting all remaining emissions with removal
+of GHGs from the atmosphere. Many companies have
+pledges to reach net zero often by 2050 or earlier, and
+to create pathways to net zero that are aligned with
+the Paris Climate agreement and goals to keep global
+warming to 1.5 degrees Celsius.
+
+Non-fungible Tokens (NFTs): A physical or virtual item,
+like a painting or a song, that has been tokenized to
+become a digital asset by using a blockchain. Each NFT
+is assigned a unique identification code and metadata
+which reduces the likelihood of fraud while enabling
+buying, selling, and trading – often in cryptocurrencies.
+NFTs have been popular in the art world but can also
+include other physical objects, people’s identities, and
+property rights. NFTs are like a digital form of a collec-
+tor’s item. Most NFTs have been created on Ethereum
+which provides a way to track their ownership. Bitcoin
+was originally not used for NFTs but in the past year an
+update to the Bitcoin code made it possible to create
+NFTs on the Bitcoin network. This is controversial and
+contested in the Bitcoin community. Yet, other platforms,
+like Ethereum, remain the most popular and useful for
+NFTs, which also means they have a very small carbon
+footprint since they do not rely on Proof of Work.
+
+Proof of Work (PoW): A consensus mechanism used
+by some cryptocurrencies, including Bitcoin, to vali-
+date and secure transactions that involves “miners”
+competing to solve algorithms – doing work – and
+the chance to verify and add a new set of transitions,
+a block, to the blockchain. In return, the winner gets
+newly created coins and fees. This system is used to
+provide security for the blockchain and prevent mali-
+cious actors from disrupting the system
+
+Proof of Stake (PoS): A consensus mechanism used by
+many cryptocurrencies, such as Ethereum, to validate
+transactions and add new blocks to a blockchain. The
+process involves owners of a cryptocurrency placing
+coins as collateral, “staking,” in order to get the chance
+to validate a new set of transactions in return for fees
+and/or new coins. Validators are chosen at random,
+but the more coins a participant puts in, or stakes,
+the greater the chance they have at winning. If a par-
+ticipant tampers with or adds faulty transactions, they
+lose the coins they staked. Thus, participants have an
+interest in maintaining the security and integrity of the
+system. PoS does not require large computing power
+as participants can validate transactions and update
+the blockchain on their personal computers.
+
+Scope 1 emissions: Direct GHG emissions from sources
+that are directly owned or controlled by the company
+such as the emissions from a coal fired power plant
+that a company owns.
+
+Scope 2 emissions: GHG emissions caused indirectly by
+a company through the production of energy it pur-
+chases and uses, such as the electricity purchased to
+run a factory or data center.
+
+Scope 3 emissions: GHG emissions that the company
+is indirectly responsible for along its value chain,
+including the impact of goods purchased and sold, and
+all the emissions not included in Scope 1 or 2. For the
+financial sector this includes investments, and lending
+and advisory services. For example, a bank that pro-
+vides a loan to a coal mining company.
+
+Stablecoin: A type of cryptocurrency that is supposed
+to be backed by fiat money, like the U.S. Dollar, or
+some physical asset.  The price of a stablecoin is
+supposed to be more stable and follow that of the fiat
+money it’s tied to, unlike cryptocurrencies like Bitcoin
+for which the price is set by the market and typically
+highly volatile.
+
+INVESTING IN BITCOIN’S CLIMATE POLLUTION: BIG FINANCE IS BETTING ON DIRTY BITCOIN  37
+
+1            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  0100101010101011010101001010100100101010100101010101010101001010100101010101010001011011101101000101001100110100101010101011010101001010110100101010110101010101001011101011101011101011010101101011101001100110100101010101011011101110010101011001010101001010001010010101001010100101101011100010110001011010101000011011101001010001010110110101011            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  0100101010101011010101001010100100101010100101010101010101001010100101010101010001011011101101000101001100110100101010101011010101001010110100101010110101010101001011101011101011101011010101101011101001100110100101010101011011101110010101011001010101001010001010010101001010100101101011100010110001011010101000011011101001010001010110110101000100101001001100000011001011010100000101001001010010111000010011010000011011ENDNOTES
+
+Disclaimer: Greenpeace is not an investment or financial advisor, and does not make any representation regarding the advisability of investing
+in any particular company or investment fund, asset, or vehicle. A decision to invest in any such investment fund or entity should not be made
+in reliance on any of the statements set forth in this briefing. While the authors have obtained information believed to be reliable, none of the
+authors shall be liable for any claims or losses of any nature in connection with information contained in this document, including but not lim-
+ited to, lost profits or punitive or consequential damages. The opinions expressed in this briefing are based on the documents referenced in the
+endnotes. We encourage readers to read those documents. The information in this report, or on which this report is based, has been obtained
+from sources that the authors believe to be reliable and accurate. However, no representation or warranty, express or implied, is made as to the
+accuracy or completeness of any information obtained from third parties.
+
+1
+
+2
+
+Intergovernmental Panel on Climate Change. 2023.
+“Climate Change 2023 Synthesis Report: Summary
+for Policymakers.” Contribution of Working Groups
+I, II and III to the Sixth Assessment Report of the
+Intergovernmental Panel on Climate Change. [Core
+Writing Team, H. Lee and J. Romero (eds.)]. Geneva,
+Switzerland. https://www.ipcc.ch/report/ar6/syr/
+downloads/report/IPCC_AR6_SYR_SPM.pdf
+Ibid; International Energy Agency. 2022. “World
+Energy Outlook 2022: An updated roadmap to Net
+Zero Emissions by 2050.” Paris. https://www.iea.org/
+reports/world-energy-outlook-2022/an-updated-
+roadmap-to-net zero-emissions-by-2050
+3  Cambridge Digital Assets Programme (CDAP) at
+the Cambridge Centre for Alternative Finance.
+“Comparisons - Country Ranking.” The Cambridge
+Bitcoin Electricity Consumption Index (CBECI). https://
+ccaf.io/cbnsi/cbeci/comparisons
+ Cambridge Digital Assets Programme (CDAP) at the
+Cambridge Centre for Alternative Finance. “Ethereum
+Merge.” Cambridge Blockchain Network Sustinability
+Index. https://ccaf.io/cbnsi/ethereum/ethereum_merge
+
+4
+
+7  Dance, Gabriel J.X. April 9, 2023. “The Real-World
+
+Costs of the Digital Race for Bitcoin.” New York Times.
+https://www.nytimes.com/2023/04/09/business/
+bitcoin-mining-electricity-pollution.html; Dent, Mark.
+July 11, 2019. “The Hard-Luck Texas Town That Bet on
+Bitcoin—and Lost.” Wired. https://www.wired.com/
+story/hard-luck-texas-town-bet-bitcoin-lost/;  Lacey,
+Anthony and Jessica Hernandez. April 5, 2023. “Proof
+of problems: Bitcoin mining’s pollution toll on U.S.
+communities.” Environmental Working Group. https://
+www.ewg.org/research/proof-problems-bitcoin-
+minings-pollution-toll-us-communities?auHash=2mM
+i07eKQdYd5YyKQ9Asq5X1upgbwx8LpwFfGP2bEUc
+
+8  Whittaker, Matt and Farran Powell. July 22, 2022.
+“How Does Bitcoin Mining Work?” Forbes. https://
+www.forbes.com/advisor/investing/cryptocurrency/
+Bitcoin-mining/; Huang, Jon, Claire O’Neill and
+Hiroko Tabuchi. September 3, 2021. “Bitcoin Uses
+More Electricity Than Many Countries. How Is That
+Possible?” New York Times. https://www.nytimes.
+com/interactive/2021/09/03/climate/bitcoin-carbon-
+footprint-electricity.html
+
+5  Cambridge Digital Assets Programme (CDAP) at the
+
+9  Calma, Justine. December 21, 2022. “2022 was the
+
+Cambridge Centre for Alternative Finance. “Greenhouse
+Gas Emissions Comparisons - Country Comparisons.”
+The Cambridge Bitcoin Electricity Consumption Index
+(CBECI). https://ccaf.io/cbeci/ghg/comparisons
+6  There are many types of consensus mechanisms for
+
+blockchain technologies that are being explored by
+academic researchers and companies like Proof of
+useful Work and Proof of Space. For assessment of
+energy used by different processes see: Lei, Nuoa,
+Eric Masanet, and Jonathan Koomey. 2021. “Best
+Practices for Analyzing the Direct Energy Use of
+Blockchain Technology Systems: Review and Policy
+Recommendations.” Energy Policy 156:112422. doi:
+10.1016/j.enpol.2021.112422.
+Ethereum, the second largest cryptocurrency, switched
+to a Proof of Stake consensus mechanism in 2022
+which was estimated to reduce energy consumption
+by 99.9%. For more information see: de Vries, Alex.
+2023. “Cryptocurrencies on the Road to Sustainability:
+Ethereum Paving the Way for Bitcoin.” Patterns 4(1).
+doi: 10.1016/j.patter.2022.100633; Yaffe-Bellany, David.
+September 15, 2022. “Crypto’s Long-Awaited ‘Merge’
+Reaches the Finish Line.” New York Times. https://
+www.nytimes.com/2022/09/15/technology/ethereum-
+merge-crypto.html
+
+year of crypto’s climate reckoning.” The Verge. https://
+www.theverge.com/23519473/cryptocurrency-2022-
+climate-change-energy-emissions-reckoning
+10  Huang, Jon, Claire O’Neill and Hiroko Tabuchi.
+
+11
+
+September 3, 2021. “Bitcoin Uses More Electricity
+Than Many Countries. How Is That Possible?”
+New York Times. https://www.nytimes.com/
+interactive/2021/09/03/climate/Bitcoin-carbon-
+footprint-electricity.html
+ Data was collected from The Cambridge Centre for
+Alternative Finance (CCAF) on May 24, 2023 which
+estimated that Bitcoin was using 143.9 TWh/yr of
+electricity. Bitcoin electricity use data is available at:
+https://ccaf.io/cbeci/index/comparisons. Country data
+is from U.S. Energy Information Administration country
+data available at: https://www.eia.gov/international/
+data/world/electricity/electricity-consumption
+
+12  Huang, Jon, Claire O’Neill and Hiroko Tabuchi.
+
+September 3, 2021. “Bitcoin Uses More Electricity
+Than Many Countries. How Is That Possible?”
+New York Times. https://www.nytimes.com/
+interactive/2021/09/03/climate/Bitcoin-carbon-
+footprint-electricity.html
+
+38  INVESTING IN BITCOIN’S CLIMATE POLLUTION: BIG FINANCE IS BETTING ON DIRTY BITCOIN
+
+1            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  0100101010101011010101001010100100101010100101010101010101001010100101010101010001011011101101000101001100110100101010101011010101001010110100101010110101010101001011101011101011101011010101101011101001100110100101010101011011101110010101011001010101001010001010010101001010100101101011100010110001011010101000011011101001010001010110110101010011001010010011000000110010110101000001010010010100101110000100110100001101113  The main operating costs for Bitcoin mining companies
+are electricity and computing hardware, thus there
+is pressure to have the most efficient equipment
+and get rid of slower and less efficient ASICS which
+become unprofitable to operate. ASICS are also
+highly-specialized and few other functions beyond
+mining Bitcoin, thus they are often thrown away rather
+than reused for other purposes. For more explanation
+of this dynamic and an assessment of Bitcoin’s
+e-waste generation, see: Vries, Alex de, and Christian
+Stoll. December 1, 2021. “Bitcoin’s Growing e-Waste
+Problem.” Resources, Conservation and Recycling 175:
+105901. https://doi.org/10.1016/j.resconrec.2021.105901
+
+14  Vries, Alex de, and Christian Stoll. December 1, 2021.
+“Bitcoin’s Growing e-Waste Problem.” Resources,
+Conservation and Recycling 175: 105901. https://doi.
+org/10.1016/j.resconrec.2021.105901
+
+15  Data from Energy Information Agency and Blockchain.
+
+com; Huang, Jon, Claire O’Neill and Hiroko Tabuchi.
+Sept. 3, 2021.  “Bitcoin Uses More Electricity Than Many
+Countries. How Is That Possible?” New York Times.
+https://www.nytimes.com/interactive/2021/09/03/
+climate/bitcoin-carbon-footprint-electricity.html
+
+16  Krause, Max J. and Thabet Tolaymat. 2018.
+
+“Quantification of energy and carbon costs for mining
+cryptocurrencies.” Nature Sustainability 1, 711–718.
+https://doi.org/10.1038/s41893-018-0152-7
+
+17  Cambridge Digital Assets Programme (CDAP) at the
+Cambridge Centre for Alternative Finance. 2023.
+“Bitcoin Electricity Consumption by Source (yearly).”
+The Cambridge Bitcoin Electricity Consumption Index
+(CBECI). https://ccaf.io/cbeci/ghg/index
+
+18  Spegele, Brian and Caitlin Ostroff. May 21, 2021.
+
+“Bitcoin Miners Are Giving New Life to Old Fossil-Fuel
+Power Plants.” Wall Street Journal.   https://www.wsj.
+com/articles/bitcoin-miners-are-giving-new-life-
+to-old-fossil-fuel-power-plants-11621594803; Wang,
+Boen. November 7, 2022. “How One Pennsylvania
+Company is Using Waste Coal to Mine Bitcoin.”
+Allegheny Front. https://www.alleghenyfront.org/
+stronghold-digital-mining-bitcoin-waste-coal-power-
+plant-pennsylvania/
+
+19  Dance, Gabriel J.X. April 9, 2023. “The Real-World
+
+Costs of the Digital Race for Bitcoin.” New York Times.
+https://www.nytimes.com/2023/04/09/business/
+bitcoin-mining-electricity-pollution.html
+
+20  Gambhir, Ajay. February 2023.“Powering Past Coal Is
+
+Not Enough.” Nature Climate Change 13, no. 2: 117–18.
+https://doi.org/10.1038/s41558-022-01574-4
+21  Calma, Justine. May 4, 2022. “Why fossil fuel
+
+companies see green in Bitcoin mining projects: And
+what its risky business.” The Verge. https://www.
+theverge.com/2022/5/4/23055761/exxonmobil-
+cryptomining-bitcoin-methane-gas
+
+22  Cambridge Digital Assets Programme (CDAP) at the
+
+Cambridge Centre for Alternative Finance. “Greenhouse
+Gas Emissions Comparisons - Country Comparisons.”
+The Cambridge Bitcoin Electricity Consumption Index
+(CBECI). https://ccaf.io/cbeci/ghg/comparisons
+
+23  Jones, Benjamin A., Andrew L. Goodkind, and Robert
+
+P. Berrens. September 29, 2022. “Economic Estimation
+of Bitcoin Mining’s Climate Damages Demonstrates
+Closer Resemblance to Digital Crude than Digital
+Gold.” Scientific Reports 12, no. 1 14512. https://doi.
+org/10.1038/s41598-022-18686-8
+
+24  Cambridge Digital Assets Programme (CDAP) at the
+Cambridge Centre for Alternative Finance. 2023.
+“Bitcoin Mining Map.” https://ccaf.io/cbnsi/cbeci/
+mining_map
+
+25  CNBC. June 15, 2021. “China is kicking out more than
+
+half the world’s bitcoin miners – and a whole lot of
+them could be headed to Texas.” https://www.cnbc.
+com/2021/06/15/chinas-bitcoin-miner-exodus-.html
+26  Vries, Alex de, Ulrich Gallersdörfer, Lena Klaaßen, and
+Christian Stoll. March 16, 2022. “Revisiting Bitcoin’s
+Carbon Footprint.” Joule 6, no. 3: 498–502. https://doi.
+org/10.1016/j.joule.2022.02.005
+
+27  The 7.5 million car figure is based on the OSTP’s
+estimate of 35 Mt CO2 per year from U.S.-based
+Bitcoin mining (available at: https://www.whitehouse.
+gov/wp-content/uploads/2022/09/09-2022-Crypto-
+Assets-and-Climate-Report.pdf) and the EPA’s
+estimate that a typical passenger vehicle in the U.S.
+emits 4.6 tons CO2 per year (available at: https://www.
+epa.gov/greenvehicles/greenhouse-gas-emissions-
+typical-passenger-vehicle#typical-passenger
+28  Dance, Gabriel J.X. April 9, 2023. “The Real-World
+
+Costs of the Digital Race for Bitcoin.” New York Times.
+https://www.nytimes.com/2023/04/09/business/
+bitcoin-mining-electricity-pollution.html
+
+29  Tully, Shawn. August 13, 2022. “How Riot Blockchain
+
+capitalized on a hot Texas summer to make more
+money selling power than mining crypto.” Fortune.
+https://fortune.com/2022/08/13/riot-blockchain-
+bitcoin-mining-texas-electric-grid-subsidy/
+30  Dance, Gabriel J.X. April 9, 2023. “The Real-World
+
+Costs of the Digital Race for Bitcoin.” New York Times.
+https://www.nytimes.com/2023/04/09/business/
+bitcoin-mining-electricity-pollution.html
+
+31  Vanguard controls 18.2% of shares while BlackRock
+controls 17.3% and Citi controls 2.1%. Data from
+Bloomberg Terminal, Bloomberg Finance L.P.
+
+32  Data from Bloomberg Terminal, Bloomberg Finance L.P.
+33  Qin, Amy and Ephrat Livni. September 24, 2021
+
+“China Cracks Down Harder on Cryptocurrency With
+New Ban.” New York Times. https://www.nytimes.
+com/2021/09/24/business/china-cryptocurrency-
+bitcoin.html; Tully, Shawn. January 5, 2022. “Bitcoin
+mining is being banned in countries across the globe—
+and threatening the future of crypto.” Fortune. https://
+fortune.com/2022/01/05/crypto-blackouts-bitcoin-
+mining-bans-kosovo-iran-kazakhstan-iceland/
+34  Tully, Shawn. January 5, 2022. “Bitcoin mining is being
+banned in countries across the globe—and threatening
+the future of crypto.” Fortune. https://fortune.
+com/2022/01/05/crypto-blackouts-bitcoin-mining-
+bans-kosovo-iran-kazakhstan-iceland/
+
+INVESTING IN BITCOIN’S CLIMATE POLLUTION: BIG FINANCE IS BETTING ON DIRTY BITCOIN  39
+
+1            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  0100101010101011010101001010100100101010100101010101010101001010100101010101010001011011101101000101001100110100101010101011010101001010110100101010110101010101001011101011101011101011010101101011101001100110100101010101011011101110010101011001010101001010001010010101001010100101101011100010110001011010101000011011101001010001010110110101011            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  010010101010101101010100101010010010101010010101010101010100101010010101010101000101101110110100010100110011010010101010101101010100101011010010101011010101010100101110101110101110101101010110101110100110011010010101010101101110111001010101100101010100101000101001010100101010010110101110001011000101101010100001101110100101000101011011010100010010100100110000001100101101010000010100100101001011100001001101000001101135  Gkritsi, Eliza. April 14, 2023. “Sweden Drives
+
+Final Nail Into Its Bitcoin Mining Industry With
+Tax Hike.” Coindesk. https://www.coindesk.com/
+policy/2023/04/14/sweden-drives-final-nail-into-its-
+bitcoin-mining-industry-with-tax-hike/
+
+36  Senate Bill S6486. 2021-2022 Regular Sessions. (New
+York 2021). https://legislation.nysenate.gov/pdf/
+bills/2021/S6486D
+
+37  Lacey, Anthony and Jessica Hernandez. April 5, 2023.
+“Proof of problems: Bitcoin mining’s pollution toll
+on U.S. communities.” Environmental Working Group.
+https://www.ewg.org/research/proof-problems-
+bitcoin-minings-pollution-toll-us-communities?auHa
+sh=2mMi07eKQdYd5YyKQ9Asq5X1upgbwx8LpwFfGP2b
+EUc
+
+38  Monga, Vipal. November 12, 2021. “Bitcoin Mining Noise
+Drives Neighbors Nuts—a Giant Dentist Drill That Won’t
+Stop.” Wall Street Journal. https://www.wsj.com/
+articles/Bitcoin-mining-noise-drives-neighbors-nuts-
+giant-dentist-drill-that-wont-stop-y11636730904
+39  White House Office of Science and Technology Policy.
+September 8, 2022. “Climate and Energy Implications
+of Crypto-Assets in the United States.” Washington,
+DC. https://www.whitehouse.gov/wp-content/
+uploads/2022/09/09-2022-Crypto-Assets-and-
+Climate-Report.pdf
+
+40  Donaghy, Timothy Q., Noel Healy, Charles Y. Jiang, and
+Colette Pichon Battle. 2023. “Fossil Fuel Racism in
+the United States: How Phasing out Coal, Oil, and Gas
+Can Protect Communities.” Energy Research & Social
+Science 100:103104. doi: 10.1016/j.erss.2023.103104;
+Wilson, Adrian, et al. Coal Blooded: Putting Profits
+Before People.  NAACP, Little Village Environmental
+Justice Organization (LVEJO), and the Indigenous
+Environmental Network. https://naacp.org/resources/
+coal-blooded-putting-profits-people
+
+41  Based on data from Bloomberg Terminal, Bloomberg
+Finance L.P., and shareholdings as of 4/25/23;
+DeRoche, Mandy, Jeremy Fisher, Nick Thorpe, and
+Megan Wachspress. September 2022. “The Energy
+Bomb: How Proof-of-Work Cryptocurrency Mining
+Worsens the Climate Crisis and Harms Communities
+Now.” Earthjustice and The Sierra Club. https://
+earthjustice.org/wp-content/uploads/energy_bomb_
+bitcoin_white_paper_101322.pdf ; Endres, Evan D.
+November 18, 2015. “Waste Coal: Time to finish what
+we started.” PennFuture. https://www.pennfuture.
+org/Blog-Item-Waste-Coal-Time-to-finish-what-we-
+started
+
+42  U.S. Energy Information Administration. “Emissions by
+
+plant and by region: Annual data 2021.” https://www.
+eia.gov/electricity/data/emissions/
+
+43  DeRoche, Mandy, Jeremy Fisher, Nick Thorpe, and
+Megan Wachspress. September 2022. “The Energy
+Bomb: How Proof-of-Work Cryptocurrency Mining
+Worsens the Climate Crisis and Harms Communities
+Now.” Earthjustice and The Sierra Club. https://
+earthjustice.org/wp-content/uploads/energy_bomb_
+Bitcoin_white_paper_101322.pdf
+
+44  Lacey, Anthony and Jessica Hernandez. April 5, 2023.
+“Proof of problems: Bitcoin mining’s pollution toll on
+U.S. communities.” Environmental Working Group.
+https://www.ewg.org/research/proof-problems-
+bitcoin-minings-pollution-toll-us-communities/
+pennsylvania
+
+45  Data from Bloomberg Terminal, Bloomberg Finance L.P.
+46  Austin, Algernon, Julia Tache, and Timi Iwayemi.
+
+January 10, 2023. Stock Market Index Funds Can Beat
+Crypto: On Cryptocurrency Investing and Building Black
+Wealth. Center for Economic and Policy Research.
+https://cepr.net/crypto-and-building-black-wealth/;
+Carmona, Tonantzin. October 26, 2022. Debunking the
+narratives about cryptocurrency and financial inclusion.
+The Brookings Institute. Washington, DC. https://www.
+brookings.edu/research/debunking-the-narratives-
+about-cryptocurrency-and-financial-inclusion/;
+Flitter, Emily. July 5, 2022. “How Wall Street Escaped
+the Crypto Meltdown.” New York Times. https://www.
+nytimes.com/2022/07/05/business/economy/wall-st-
+cryptocurrency-prices.html
+
+47  Erdogan, S., Ahmed, M.Y. and Sarkodie, S.A. 2022.
+“Analyzing asymmetric effects of cryptocurrency
+demand on environmental sustainability.”
+Environmental Science and Pollution Research. 29,
+31723–31733. https://doi.org/10.1007/s11356-021-
+17998-y
+
+48  Smirth, Reginald L. and Charles Pearce. April 17, 2023.
+“Cryptocurrency Markets: Bitcoin Mining April Halftime
+Report.” JP Morgan Chase & Co. North America Equity
+Research.
+
+49  Fidelity does have bitcoin holdings in the Fidelity
+
+Advantage Bitcoin ETF (FBTC), but does not appear
+to own bitcoin as a company asset. Data on Tesla’s
+holdings from the company’s 2023 Q1 Earning
+Report accessed at: https://tesla-cdn.thron.com/
+static/ZXSBN8_TSLA_Q1_2023_Update_ABMJPG.
+pdf?xseo=&response-content-disposition=inline
+%3Bfilename%3D%22e826b065-cc14-467c-8c9c-
+e1feb7189ba8.pdf%22
+
+50  UN Environmental Program. “net zero Banking Alliance.”
+
+https://www.unepfi.org/net zero-banking/; Alderman,
+Liz and Eshe Nelson. November 3, 2021. “Global
+finance industry says it has $130 trillion to invest in
+efforts to tackle climate change.” New York Times.
+https://www.nytimes.com/2021/11/03/world/europe/
+cop26-climate-change-finance-industry.html
+
+51  Mastercard. 2017. “Mastercard Corporate Sustainability
+Report - 2017.” https://www.mastercard.us/content/
+dam/mccom/global/aboutus/Sustainability/
+mastercard-sustainability-report-2017.pdf
+
+52  Saul, Josh. April 13, 2021.“Bitcoin Power Consumption
+Jumped 66-Fold Since 2015, Citi Says.” Bloomberg
+News. https://www.bloomberg.com/news/
+articles/2021-04-13/bitcoin-power-consumption-
+jumped-66-fold-since-2015-citi-says
+
+53  Ning Lin, 2019. “Tropical cyclones and heatwaves,”
+
+Nature Climate Change, Nature,9 no. 8, 579-580.
+https://doi.org/10.1038/s41558-019-0537-2
+
+40  INVESTING IN BITCOIN’S CLIMATE POLLUTION: BIG FINANCE IS BETTING ON DIRTY BITCOIN
+
+1            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  0100101010101011010101001010100100101010100101010101010101001010100101010101010001011011101101000101001100110100101010101011010101001010110100101010110101010101001011101011101011101011010101101011101001100110100101010101011011101110010101011001010101001010001010010101001010100101101011100010110001011010101000011011101001010001010110110101010011001010010011000000110010110101000001010010010100101110000100110100001101154  Santillana Linares, Maria Gracia. July 12, 2022.
+
+“Texas Bitcoin Miners Bail As Record Heat Alters
+Economics.” Forbes. https://www.forbes.com/
+sites/mariagraciasantillanalinares/2022/07/12/
+texas-bitcoin-miners-bail-as-record-heat-alters-
+economics/?sh=741c16763515
+
+55  Pan, David. February 6, 2023. “Riot’s Bitcoin
+
+Mining Still Crimped by December Storm in Texas.”
+Bloomberg News. https://www.bloomberg.com/
+news/articles/2023-02-06/riot-riot-bitcoin-mining-
+machines-are-offline-after-texas-winter-storm
+56  Whitehouse Council of Economic Advisors (CEA). May
+2, 2023. “The DAME Tax: Making Cryptominers Pay for
+Costs They Impose on Others.” CEA Blog. https://www.
+whitehouse.gov/cea/written-materials/2023/05/02/
+cost-of-cryptomining-dame-tax/
+
+57  Denton, Jack. March 29, 2023. “Bitcoin Is Consuming
+More Energy Than Ever. Rising Crypto Prices Aren’t All
+Good.” Barron’s. https://www.barrons.com/articles/
+bitcoin-energy-crypto-prices-1eb8f97f
+
+58  S.661 – Crypto-Asset Environmental Transparency
+Act of 2023. 118th Congress. (2023). https://www.
+markey.senate.gov/imo/media/doc/crypto-asset_
+environmental_transparency_act_-_march_2023pdf.pdf
+
+59  Fidelity is the provider of Greenpeace USA’s employee
+401(k) plan. GPUS employees are not able to invest
+401(k) funds into cryptocurrencies.
+
+60  Additional criteria we used to assess the strength of
+company climate pledges are incorporating Scope 3
+and financed emissions, and using targets developed
+from science with validation by the Science Based
+Targeting Initiative (SBTi) - a group that developed
+the leading international standards for setting and
+tracking science-based emissions reductions. For more
+information about net zero and climate emissions see
+the glossary. Science Based Targets Initiative. https://
+sciencebasedtargets.org/
+
+61  “JPMorgan CEO Jamie Dimon says Bitcoin is a ‘hyped-
+up fraud’ and cryptocurrencies are a ‘waste of time’—
+but blockchain is a ‘deployable’ technology” Fortune.
+January 19, 2023. https://fortune.com/2023/01/19/
+jpmorgan-ceo-jamie-dimon-bitcoin-hyped-up-fraud-
+cryptocurrencies-waste-of-time-but-blockchain-
+deployable-technology/
+
+66  BlackRock. December 31, 2022. “Form 10-K.”
+https://d18rn0p25nwr6d.cloudfront.net/CIK-
+0001364742/24d3fb11-2c9c-432f-8301-843234c14f1b.
+pdf
+
+67  Bambrough, Billy. March 21, 2023. “$14 Trillion
+
+Earthquake: Fidelity And BlackRock Are Quietly Laying
+The Groundwork For The Next Bitcoin, Ethereum
+And Crypto Price Bull Run.” Forbes. https://www.
+forbes.com/sites/digital-assets/2023/03/21/14-
+trillion-earthquake-fidelity-and-blackrock-
+are-quietly-laying-the-groundwork-for-the-
+next-bitcoin-ethereum-and-crypto-price-bull-
+run/?sh=403ae2756759
+
+68  BlackRock. “BlackRock bitcoin private trust.” https://
+www.blackrock.com/institutions/en-us/insights/
+bitcoin-private-trust
+
+69  Brush, Silla. August 4, 2022. “BlackRock Teams
+Up With Coinbase in Crypto Market Expansion.”
+Bloomberg News. https://www.bloomberg.com/news/
+articles/2022-08-04/blackrock-teams-up-with-
+coinbase-in-crypto-market-expansion
+
+70  BlackRock. “BlackRock bitcoin private trust.” https://
+www.blackrock.com/institutions/en-us/insights/
+bitcoin-private-trust
+
+71  Tellez, Anthony. August 19, 2021. “BlackRock
+
+Joins Fidelity And Vanguard As A Bitcoin Mining
+Investor.” Forbes. https://www.forbes.com/sites/
+anthonytellez/2021/08/19/blackrock-joins-
+fidelity-and-vanguard-as-a-bitcoin-mining-
+investor/?sh=ad1dd1a2738d
+
+72  Hajric, Vildana and Katherine Greifeld. September 29,
+
+2022. “BlackRock Plans Another Crypto ETF After Weak
+Debut of Its First One.” Bloomberg News. https://www.
+bloomberg.com/news/articles/2022-09-29/blackrock-
+plans-another-crypto-etf-after-feeble-iblc-debut
+73  Data from Bloomberg Terminal, Bloomberg Finance
+
+L.P. More info at: https://www.bloomberg.com/quote/
+IBLC:US
+
+74  Kharif, Olga and Katherine Greifeld. June 20,
+
+2023. “Bitcoin Jumps on Speculation BlackRock
+‘May Know Something.’” Bloomberg News. https://
+www.bloomberg.com/news/articles/2023-06-20/
+wisdomtree-files-for-us-spot-bitcoin-etf-on-heels-
+of-application-by-blackrock
+
+62  Mastercard.”Crypto and Blockchain.” 2023. https://
+
+75  Data collected from Bloomberg Terminal and based on
+
+www.mastercard.us/en-us/business/issuers/grow-
+your-business/crypto.html
+
+63  Shareholding data collected from Bloomberg Terminal,
+
+Bloomberg Finance L.P.
+
+64  Tellez, Anthony. August 19, 2021. “BlackRock
+
+Joins Fidelity And Vanguard As A Bitcoin Mining
+Investor.” Forbes. https://www.forbes.com/sites/
+anthonytellez/2021/08/19/blackrock-joins-
+fidelity-and-vanguard-as-a-bitcoin-mining-
+investor/?sh=ad1dd1a2738d
+
+65  Simpson, Cam and Saijel Kishan. December 31, 2021.
+
+“How BlackRock Made ESG the Hottest Ticket on Wall
+Street.” Bloomberg News. https://www.bloomberg.
+com/news/articles/2021-12-31/how-blackrock-s-
+invisible-hand-helped-make-esg-a-hot-ticket
+
+holdings and share prices as of 4/25/2023.
+
+76  French, Marie J. June 30, 2022. “Hochul administration
+moves to shut gas powered cryptocurrency plant.”
+Politico. https://www.politico.com/news/2022/06/30/
+hochul-administration-moves-to-shut-gas-powered-
+cryptocurrency-plant-00043497
+
+77  Data from Bloomberg terminal, Bloomberg Finance L.P.
+78  Pan, David. January 24, 2023. “BlackRock, Apollo
+
+Among Bondholders of Bankrupt Crypto Miner.”
+Bloomberg News. https://www.bloomberg.com/
+news/articles/2023-01-24/blackrock-apollo-among-
+bondholders-of-bankrupt-crypto-miner
+
+INVESTING IN BITCOIN’S CLIMATE POLLUTION: BIG FINANCE IS BETTING ON DIRTY BITCOIN  41
+
+1            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  0100101010101011010101001010100100101010100101010101010101001010100101010101010001011011101101000101001100110100101010101011010101001010110100101010110101010101001011101011101011101011010101101011101001100110100101010101011011101110010101011001010101001010001010010101001010100101101011100010110001011010101000011011101001010001010110110101011            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  010010101010101101010100101010010010101010010101010101010100101010010101010101000101101110110100010100110011010010101010101101010100101011010010101011010101010100101110101110101110101101010110101110100110011010010101010101101110111001010101100101010100101000101001010100101010010110101110001011000101101010100001101110100101000101011011010100010010100100110000001100101101010000010100100101001011100001001101000001101179  Bambrough, Billy. September 24, 2020. “Norway’s $1
+
+Trillion Oil Fund, BlackRock’s And Vanguard’s Indirect
+Bitcoin Holdings Revealed.” Forbes. https://www.
+forbes.com/sites/billybambrough/2020/09/24/
+norways-1-trillion-oil-fund-blackrock-and-
+vanguard-now-indirectly-hold-100-million-in-
+bitcoin/?sh=5b83394e55b3
+
+80  As of December 2022, BlackRock controlled 7.2% of
+
+Silvergate’s shares. Macheel, Tanaya. January 21, 2023.
+“Silvergate Capital shares jump after BlackRock reports
+increased stake in the crypto bank.” CNBC. https://
+www.cnbc.com/2023/01/31/silvergate-capital-shares-
+jump-after-blackrock-reports-increased-stake-in-
+the-crypto-bank.html
+
+81  The Net Zero Asset Managers. “The Net Zero
+Asset Managers Commitment.” https://www.
+netzeroassetmanagers.org/commitment/
+
+82  BlackRock. “Climate Action 100+ Sign-on Statement.”
+https://www.blackrock.com/corporate/literature/
+publication/our-participation-in-climate-action-100.
+pdf
+
+83  BlackRock. “BlackRock bitcoin private trust.” https://
+www.blackrock.com/institutions/en-us/insights/
+bitcoin-private-trust
+
+92  U.S. Senators Richard J. Durbin, Elizabeth Warren, and
+Tina Smith. “Letter to Abigail Johnson, CEO of Fidelity
+Investments.” July 26, 2022. https://www.durbin.
+senate.gov/imo/media/doc/durbin_bitcoin_72622.pdf
+
+93  U.S. Department of Labor. March 10, 2022.
+
+Compliance Assistance Release No. 2022-01: 401(k)
+Plan Investments in “Cryptocurrencies” Employee
+Benefits Security Administration. https://www.
+dol.gov/agencies/ebsa/employers-and-advisers/
+plan-administration-and-compliance/compliance-
+assistance-releases/2022-01
+
+94  Bambysheva, Nina. March 16, 2023. “Amid Crypto Bank
+Crisis, Fidelity Expands Bitcoin, Ether Trading To Most
+Retail Accounts.” Forbes. https://www.forbes.com/
+sites/digital-assets/2023/03/16/amid-crypto-bank-
+crisis-fidelity-opens-bitcoin-ether-trading-for-retail-
+-accounts/?sh=2cd153761670
+
+95  Bambysheva, Nina. November 4, 2022. “Fidelity Readies
+
+Retail Bitcoin, Ether Trades Without Commissions But
+With A Fee.” Forbes. https://www.forbes.com/sites/
+ninabambysheva/2022/11/04/fidelity-readies-retail-
+Bitcoin-ether-trades-without-commissions-but-with-
+a-fee/?sh=107a192374c0
+
+96  “Fidelity Advantage Bitcoin ETF.” Bloomberg. https://
+
+84  Fidelity Investments. “Our Company.” https://www.
+
+www.bloomberg.com/quote/FBTC:CN
+
+fidelity.com/about-fidelity/our-company
+
+85  Allison, Ian. June 10, 2022. “Fidelity CEO says she isn’t
+giving up on crypto in bear market.” Fortune. https://
+fortune.com/2022/06/10/fidelity-ceo-crypto-winter-
+bear-market/
+
+86  Kail, Benjamin. May 18, 2022. “Crypto key in Fidelity’s
+future, but ‘still a lot of uncertainty,’ CEO Abby
+Johnson says.” Biz Women. https://www.bizjournals.
+com/bizwomen/news/latest-news/2022/05/crypto-
+abby-johnson.html?page=all
+
+87  English, Carleton. January 2, 2023. “What Crash? Why
+Fidelity Sees a Future in Crypto --- The brokerage
+giant hasn’t backed off plans to offer Bitcoin to its 40
+million customers or retirement plans. What’s behind
+its crypto push.” Barrons. https://www.barrons.com/
+articles/crypto-bitcoin-fidelity-51672381803
+
+88  English, Carleton. January 2, 2023. “What Crash? Why
+Fidelity Sees a Future in Crypto --- The brokerage
+giant hasn’t backed off plans to offer Bitcoin to its 40
+million customers or retirement plans. What’s behind
+its crypto push.” Barrons. https://www.barrons.com/
+articles/crypto-bitcoin-fidelity-51672381803
+
+89  Ibid.
+90  Nicolle, Emily. October 21, 2022 “Fidelity Deepens
+
+Crypto Push With 100 More Hires for Unit.” Bloomberg
+News. https://www.bloomberg.com/news/
+articles/2022-10-21/fidelity-investments-crypto-unit-
+to-add-another-100-employees
+
+91  The program was initially launched for Bitcoin with
+
+plans to support other cryptocurrencies. Woolley,
+Suzanne. April 26, 2022. “Fidelity Investments
+Unveils a Crypto Option for 401(k) Plans.” Bloomberg
+News. https://www.bloomberg.com/news/
+articles/2022-04-26/fidelity-launches-product-for-
+401-k-plan-crypto-investments
+
+97  Fidelity Digital Assets. The Wise Origin Bitcoin Trust.
+“Form S-1.” Accessed at: https://www.sec.gov/
+Archives/edgar/data/1852317/000119312521092598/
+d133565ds1.htm#rom133565_28. For more information
+about the SEC’s rejection of multiple applications
+for ETF’s tied to bitcoin’s spot price and subsequent
+lawsuits, see: Schwartz, Leo. March 7, 2023.
+“Grayscale’s GBTC shares soar more than 10% after
+judges show skepticism of SEC’s denial of Bitcoin
+ETF.” Fortune. https://fortune.com/crypto/2023/03/07/
+grayscale-gbtc-sec-court-bitcoin/; Banerji, Gunjan.
+June 30, 2022. ”SEC Rejects Grayscale Attempt to
+Turn Bitcoin Fund Into ETF.” Wall Street Journal.
+https://www.wsj.com/articles/sec-rejects-grayscale-
+attempt-to-turn-bitcoin-fund-into-etf-11656617147
+
+98  Holdings and value based on data from Fidelity on
+FBTC ETF, available at https://www.fidelity.ca/en/
+products/etfs/fbtc/, and the price of BTC on May 3,
+2023.
+
+99  Based on data from Bloomberg Terminal, Bloomberg
+
+Finance L.P. Used the HDS function for the Bitcoin
+ticker (XBTUSD)
+
+100  Based on data from Bloomberg Terminal, Bloomberg
+
+Finance L.P. Share prices on 4/25/23.
+
+101  Arnold, Ben. November 28, 2022. “Crypto Miners
+
+Bought Their Own Power Plant. It’s a Climate Disaster.”
+Earthjustice. https://earthjustice.org/article/cleaning-
+up-crypto
+
+102  Talos. May 27, 2021. “Talos closes $40 million funding
+round led by Andreessen Horowitz.” Press Release.
+https://talos.com/2021/05/27/talos-closes-40m-
+funding-round/
+
+103  Tong, Sebastian. March 14, 2021. “Stripe Raises
+$600 Million, Valuing Company at $95 Billion.”
+Bloomberg News. https://www.bloomberg.com/
+news/articles/2021-03-14/stripe-raises-600-million-
+valuing-company-at-95-billion
+
+42  INVESTING IN BITCOIN’S CLIMATE POLLUTION: BIG FINANCE IS BETTING ON DIRTY BITCOIN
+
+1            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  01001010101010110101010010101001001010101001010101010101010010101001010101010100010110111011010001010011001101001010101010110101010010101101001010101101010101010010111010111010111010110101011010111010011001101001010101010110111011100101010110010101010010100010100101010010101001011010111000101100010110101010000110111010010100010101101101010100110010100100110000001100101101010000010100100101001011100001001101000011011104  Marsh, Alastair and Silla Brush. December 14, 2021.
+
+116  Osipovich, Alexander, Rachel Louise Ensign, and Vicky
+
+“Pimco, Fidelity Shun Net-Zero Alliance Embraced by
+BlackRock.” Bloomberg News. https://www.bloomberg.
+com/news/articles/2021-12-14/pimco-fidelity-shun-
+net-zero-alliance-embraced-by-blackrock
+
+105  Fidelity Investments. “Environmental Sustainability
+Statement of Intent.” https://www.fidelity.com/
+bin-public/060_www_fidelity_com/documents/
+about-fidelity/2021_Environmental_Sustainability_
+Statement_of_Intent.pdf
+
+106  Data from Bloomberg Terminal, Bloomberg Finance L.P.
+107  Grant, Nico. November 28, 2017. “Vanguard Founder
+
+Bogle Says ‘Avoid Bitcoin like the Plague.’” Bloomberg
+News. https://www.bloomberg.com/news/
+articles/2017-11-28/vanguard-founder-jack-bogle-
+says-avoid-bitcoin-like-the-plague
+
+108  Rapier, Graham. January 28, 2018. “Vanguard’s
+chairman says cryptocurrencies pose an
+‘idiosyncratic risk.’” The Business Insider. https://
+markets.businessinsider.com/currencies/news/
+vanguard-cryptocurrencies-pose-an-idiosyncratic-
+risk-2018-1-1013228731
+
+109  Butler, Brooks. April 18, 2022. “Vanguard to End
+
+Support for Grayscale Bitcoin and Ethereum Products.”
+Crypto Briefing. https://cryptobriefing.com/vanguard-
+to-end-support-for-grayscale-bitcoin-and-ethereum-
+products
+
+110  Data collected from Bloomberg Terminal, Bloomberg
+
+Finance L.P. Based on holdings and share prices as of
+4/25/2023.
+
+111  Braun, Helene. February 2, 2023. “Fund Management
+Giant State Street Increases Stake in Silvergate
+to 9.3%.” Coindesk. https://www.coindesk.com/
+business/2023/02/02/investment-firm-state-street-
+global-increases-stake-in-silvergate-to-932/
+
+112  Based on data from Bloomberg Terminal; Bambrough,
+Billy. September 24, 2020. “Norway’s $1 Trillion Oil
+Fund, BlackRock’s And Vanguard’s Indirect Bitcoin
+Holdings Revealed.” Forbes. https://www.forbes.com/
+sites/billybambrough/2020/09/24/norways-1-trillion-
+oil-fund-blackrock-and-vanguard-now-indirectly-
+hold-100-million-in-bitcoin/?sh=6079142355b3
+113  Kauflin, Jeff. May 30, 2019. “Vanguard Is Now Using
+Blockchain Technology To Help Manage $1.3 Trillion
+In Index Funds.” Forbes. https://www.forbes.com/
+sites/jeffkauflin/2019/05/30/vanguard-is-now-using-
+blockchain-technology-to-help-manage-13-trillion-
+in-index-funds/?sh=b9432a8dfe6c
+
+114  Flood, Chris, Harriet Agnew and Patrick Jenkins.
+
+February 21 2023. “Vanguard chief defends decision to
+pull asset manager out of climate alliance.” Financial
+Times. https://www.ft.com/content/9dab65dd-64c8-
+40c0-ae6e-fac4689dcc77
+
+115  Flood, Chris, Harriet Agnew and Patrick Jenkins.
+
+February 21 2023. “Vanguard chief defends decision to
+pull asset manager out of climate alliance.” Financial
+Times. https://www.ft.com/content/9dab65dd-64c8-
+40c0-ae6e-fac4689dcc77
+
+Ge Huang. March 27, 2023. “Banks Step Up to Serve
+Crypto Firms After Signature, Silvergate Blowups.”
+Wall Street Journal. https://www.wsj.com/articles/
+banks-step-up-to-serve-crypto-firms-after-
+signature-silvergate-blowups-5e7b4074?mod=itp_
+wsj&ru=yahoo&utm_source=Sailthru&utm_
+medium=email&utm_campaign=State%20of%20
+Crypto%20-%203/29/23&utm_term=State%20of%20
+Crypto
+
+117   Mason, Emily. July 22, 2021. “Bitcoin About-
+Face: JPMorgan Opens Crypto Trading To All
+Clients.” Forbes. https://www.forbes.com/
+sites/emilymason/2021/07/22/bitcoin-about-
+face-jpmorgan-opens-crypto-trading-to-all-
+clients/?sh=14b0e95644a5
+
+118  Nelson, Danny. March 1, 2021. “Goldman Sachs
+
+Relaunching Crypto Trading Desk After 3-Year
+Pause.” Coindesk. https://www.coindesk.com/
+markets/2021/03/01/goldman-sachs-relaunching-
+crypto-trading-desk-after-3-year-pause/
+119  Akhtar, Tanzeel. June 24, 2021. “Citi Launches
+
+‘Digital Assets Group’ Within Wealth Management
+Division.” Coindesk. https://www.coindesk.com/
+business/2021/06/24/citi-launches-digital-assets-
+group-within-wealth-management-division/
+120  Citigroup. “Form 10-K, 2022.” U.S. Securities and
+
+Exchange Commissions. https://www.citigroup.com/
+rcs/citigpa/storage/public/10k20221231.pdf
+
+121  Crawley, Jamie. May 7, 202. “Citi Considering Crypto
+
+Services Amid Surge in Interest.” Coindesk. https://
+www.coindesk.com/business/2021/05/07/citi-
+considering-crypto-services-amid-surge-in-interest-
+report/
+
+122  Reuters. August 24, 202. “Citi considering bitcoin
+
+futures trading for some institutional clients.”.. https://
+www.reuters.com/business/finance/citi-considering-
+bitcoin-futures-trading-some-institutional-
+clients-2021-08-24/
+
+123  Akhtar, Tanzeel. June 24, 2021. “Citi Launches
+
+‘Digital Assets Group’ Within Wealth Management
+Division.” Coindesk. https://www.coindesk.com/
+business/2021/06/24/citi-launches-digital-assets-
+group-within-wealth-management-division/
+124   Allison, Ian. November 22, 2021. “Citi Plans to Hire
+
+100 Staffers for Beefed-Up Crypto Division.” Coindesk.
+https://www.coindesk.com/business/2021/11/22/citi-
+plans-to-hire-100-staffers-for-beefed-up-crypto-
+division/
+
+125  Allison, Ian. June 22, 2022. “Citibank Chooses Swiss
+Firm Metaco for Digital Asset Custody.” Coindesk.
+https://www.coindesk.com/business/2022/06/22/
+citibank-chooses-swiss-firm-metaco-for-digital-
+asset-custody/?utm_source=Sailthru&utm_
+medium=email&utm_campaign=NODE%20JAN%20
+31%202023&utm_term=The%20Node
+
+126  Based on data from Bloomberg Terminal on corporate
+
+actions.
+
+127  Ibid.
+128  Ibid.
+
+INVESTING IN BITCOIN’S CLIMATE POLLUTION: BIG FINANCE IS BETTING ON DIRTY BITCOIN  43
+
+1            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  0100101010101011010101001010100100101010100101010101010101001010100101010101010001011011101101000101001100110100101010101011010101001010110100101010110101010101001011101011101011101011010101101011101001100110100101010101011011101110010101011001010101001010001010010101001010100101101011100010110001011010101000011011101001010001010110110101011            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  0100101010101011010101001010100100101010100101010101010101001010100101010101010001011011101101000101001100110100101010101011010101001010110100101010110101010101001011101011101011101011010101101011101001100110100101010101011011101110010101011001010101001010001010010101001010100101101011100010110001011010101000011011101001010001010110110101000100101001001100000011001011010100000101001001010010111000010011010000011011129  Data from Bloomberg league tables. Additional
+
+information from: Crawley, Jamie. November 29,
+2021. “Galaxy Digital to Sell $500M of Notes in Private
+Placement.” Coindesk. https://www.coindesk.com/
+business/2021/11/29/galaxy-digital-to-sell-500m-of-
+notes-in-private-placement/
+
+130  Ashraf, Aoyon. December 28, 2022 “Finance Bitcoin
+
+Miner Argo Blockchain Will Avoid Bankruptcy
+With $100M Bailout From Novogratz’s Galaxy
+Digital.” Coindesk. https://www.coindesk.com/
+business/2022/12/28/bitcoin-miner-argo-will-avoid-
+bankruptcy-with-100m-bailout-from-novogratzs-
+galaxy/
+
+131  Based on shareholding data from Bloomberg terminal
+
+for the 28 publicly-traded companies engaged
+in Bitcoin mining that we identified. There is no
+standardized industry classification for crypto and
+crypto mining companies, so our list is based on news
+searches and membership in crypto trade associations.
+
+132  Citigroup. 2022. “Taskforce on Climate-Related
+
+Financial Disclosures Report 2022.” https://www.
+citigroup.com/rcs/citigpa/storage/public/taskforce-
+on-climate-related-financial-disclosures-report-2022.
+pdf
+
+133  UN Environment Program. “Latest Signatories.”
+
+Principles for Responsible Banking. https://www.
+unepfi.org/banking/prbsignatories/
+
+141  Yang, Yueqi. April 28, 2022. “Goldman Offers Its First
+Bitcoin-Backed Loan in Crypto Push.” Bloomberg
+News. https://www.bloomberg.com/news/
+articles/2022-04-28/goldman-offers-its-first-bitcoin-
+backed-loan-in-crypto-push
+
+142  Leising, Matthew. May 6, 2021. “Goldman Offers
+
+New Bitcoin Derivatives to Wall Street Investors.”
+Bloomberg News. https://www.bloomberg.com/news/
+articles/2021-05-06/goldman-offers-new-bitcoin-
+derivatives-to-wall-street-investors
+
+143  Ibid.
+144  Allison, Ian. January 15, 2021. “Goldman Sachs to Enter
+Crypto Market ‘Soon’ With Custody Play.” Coindesk.
+https://www.coindesk.com/business/2021/01/15/
+goldman-sachs-to-enter-crypto-market-soon-with-
+custody-play-source/
+
+145  The SEC has rejected multiple applications to create
+
+an ETF linked to the spot price of bitcoin. One
+company, Greyscale, is suing the SEC over this decision
+and that case is ongoing as of June 2023. Nelson,
+Danny. March 1, 2021. “Goldman Sachs Relaunching
+Crypto Trading Desk After 3-Year Pause.” Coindesk.
+https://www.coindesk.com/markets/2021/03/01/
+goldman-sachs-relaunching-crypto-trading-desk-
+after-3-year-pause/
+
+146  Based on shareholding data from Bloomberg Terminal,
+
+Bloomberg Finance L.P.
+
+134  See glossary for explanation of Scope 1, 2, and 3
+
+147  Dance, Gabriel J.X. April 9, 2023. “The Real-World
+
+emissions. Citigroup. 2022. “Taskforce on Climate-
+Related Financial Disclosures Report 2022.” https://
+www.citigroup.com/rcs/citigpa/storage/public/
+taskforce-on-climate-related-financial-disclosures-
+report-2022.pdf
+
+135  Saul, Josh. April 13, 2021. “Bitcoin Power Consumption
+Jumped 66-Fold Since 2015, Citi Says.” Bloomberg
+News. https://www.bloomberg.com/news/
+articles/2021-04-13/bitcoin-power-consumption-
+jumped-66-fold-since-2015-citi-says
+
+Costs of the Digital Race for Bitcoin.” New York Times.
+https://www.nytimes.com/2023/04/09/business/
+bitcoin-mining-electricity-pollution.html
+
+148  Lacey, Anthony and Jessica Hernandez. April 5, 2023.
+“Proof of problems: Bitcoin mining’s pollution toll on
+U.S. communities.” Environmental Working Group.
+https://www.ewg.org/research/proof-problems-
+bitcoin-minings-pollution-toll-us-communities/
+pennsylvania
+
+149  Based on Bloomberg Terminal data from February 1,
+
+136  “The Goldman Sachs Group, Inc.” Yahoo Finance.
+
+2023.
+
+https://finance.yahoo.com/quote/GS/
+
+150  Son, Hugh. November 3 2022. “Goldman Sachs seeks
+
+137  Reguera, Ezra. December 6 2022. “Goldman Sachs
+reportedly looking to buy crypto firms after FTX
+collapse.” CoinTelegraph. https://cointelegraph.com/
+news/goldman-sachs-reportedly-looking-to-buy-
+crypto-firms-after-ftx-collapse
+
+to impose order on expanding crypto universe with
+classification system. CNBC. https://www.cnbc.
+com/2022/11/03/goldman-sachs-unveils-crypto-
+classification-system-aimed-at-institutional-
+investors.html
+
+138  Nelson, Danny. March 1, 2021. “Goldman Sachs
+
+151  Based on ESG score data reported in Bloomberg
+
+Relaunching Crypto Trading Desk After 3-Year
+Pause.” Coindesk. https://www.coindesk.com/
+markets/2021/03/01/goldman-sachs-relaunching-
+crypto-trading-desk-after-3-year-pause/
+139  Leising, Matthew. May 6, 2021. “Goldman Offers
+
+New Bitcoin Derivatives to Wall Street Investors.”
+Bloomberg News. https://www.bloomberg.com/news/
+articles/2021-05-06/goldman-offers-new-bitcoin-
+derivatives-to-wall-street-investors
+
+Terminal, Bloomberg Finance L.P.
+
+152  United Nations Environment Program Finance Initiative.
+“Members - The Goldman Sachs Group, Inc.” https://
+www.unepfi.org/member/the-goldman-sachs-group-
+inc/
+
+153  Goldman Sachs. “2025 ESG and Net Zero
+
+Commitments.” https://www.goldmansachs.com/our-
+commitments/sustainability/sustainable-finance/our-
+operational-impact/2025-operational-commitments/
+
+140  Son, Hugh. March 21 2022. “Goldman Sachs, Galaxy
+
+154  Goldman Sachs. “2025 ESG and Net Zero
+
+Digital announce milestone over-the-counter crypto
+trade.” CNBC. https://www.cnbc.com/2022/03/21/
+bitcoin-options-goldman-sachs-announces-otc-
+crypto-trade-with-galaxy-digital.html
+
+Commitments.” https://www.goldmansachs.com/our-
+commitments/sustainability/sustainable-finance/our-
+operational-impact/2025-operational-commitments/
+
+155  Goldman Sachs. 2021. Accelerating Transition: Task
+Force on Climate-Related Financial Disclosures
+Report 2021. https://www.goldmansachs.com/tcfd-
+report-2021/accelerating-transition-report.pdf
+
+44  INVESTING IN BITCOIN’S CLIMATE POLLUTION: BIG FINANCE IS BETTING ON DIRTY BITCOIN
+
+1            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  01001010101010110101010010101001001010101001010101010101010010101001010101010100010110111011010001010011001101001010101010110101010010101101001010101101010101010010111010111010111010110101011010111010011001101001010101010110111011100101010110010101010010100010100101010010101001011010111000101100010110101010000110111010010100010101101101010100110010100100110000001100101101010000010100100101001011100001001101000011011156  UN Environment Program. “Latest Signatories.”
+
+169  Bambrough, Billy. November 6, 2022.“‘A Massive Step’—
+
+Principles for Responsible Banking. https://www.
+unepfi.org/banking/prbsignatories/
+
+157  Goldman Sachs. 2021. Accelerating Transition: Task
+Force on Climate-Related Financial Disclosures
+Report 2021. https://www.goldmansachs.com/tcfd-
+report-2021/accelerating-transition-report.pdf
+158  Plautz, Jason. February 16, 2023  “Crypto is here to
+save the grid. Or crash.” Energy Wire - E&E News.
+https://politicopro.com/article/eenews/2023/02/16/
+crypto-is-here-to-save-the-grid-or-crash-
+it-00080778
+
+159  Ibid.
+160  Data from Bloomberg terminal.
+161  Daniel, Will. January 19, 2023. “JPMorgan CEO
+
+Jamie Dimon says Bitcoin is a ‘hyped-up fraud’
+and cryptocurrencies are a ‘waste of time’—but
+blockchain is a ‘deployable’ technology.” Fortune.
+https://fortune.com/2023/01/19/jpmorgan-ceo-jamie-
+dimon-bitcoin-hyped-up-fraud-cryptocurrencies-
+waste-of-time-but-blockchain-deployable-
+technology/?showAdminBar=true
+
+162  Nelson, Danny. August 4, 2021. “JPMorgan Launches In-
+House Bitcoin Fund for Private Bank Clients.” Coindesk.
+https://www.coindesk.com/markets/2021/08/05/
+jpmorgan-launches-in-house-bitcoin-fund-for-
+private-bank-clients/; Nelson, Danny. April 26, 2021.
+“JPMorgan to Let Clients Invest in Bitcoin Fund for
+First Time.” Coindesk. https://www.coindesk.com/
+business/2021/04/26/jpmorgan-to-let-clients-invest-
+in-bitcoin-fund-for-first-time-sources/
+163  Mason, Emily. July 22, 2021. “Bitcoin About-
+Face: JPMorgan Opens Crypto Trading To All
+Clients.” Forbes. https://www.forbes.com/
+sites/emilymason/2021/07/22/bitcoin-about-
+face-jpmorgan-opens-crypto-trading-to-all-
+clients/?sh=14b0e95644a5
+
+164  Mason, Emily. July 22, 2021. “Bitcoin About-
+Face: JPMorgan Opens Crypto Trading To All
+Clients.” Forbes. https://www.forbes.com/
+sites/emilymason/2021/07/22/bitcoin-about-
+face-jpmorgan-opens-crypto-trading-to-all-
+clients/?sh=14b0e95644a5
+
+165  Godbole, Omkar. February 17, 2021. “Bitcoin’s Price
+Volatility May Hamper Its Progress Above $50K,
+JPMorgan Says.” Coindesk. https://www.coindesk.com/
+markets/2021/02/17/bitcoins-price-volatility-may-
+hamper-its-progress-above-50k-jpmorgan-says/;
+Godbole, Omkar. February 10, 2021. “Tesla’s Bitcoin
+Buy May Not Trigger Wave of Corporate Demand, Says
+JPMorgan.” Coindesk. https://www.coindesk.com/
+markets/2021/02/10/teslas-bitcoin-buy-may-not-
+trigger-wave-of-corporate-demand-says-jpmorgan/
+
+166  Data collected from Bloomberg Terminal and based on
+
+holdings and share prices as of 4/25/2023.
+
+167  According to corporate action data on Bloomberg
+Terminal, Bloomberg Finance L.P. The amount was
+undisclosed.
+
+168  J.P. Morgan & Co. “Onyx - About.”  https://www.
+
+jpmorgan.com/onyx/about.htm
+
+JPMorgan Just Made A Surprise, Game-Changing Bet
+On Crypto Despite $2 Trillion Bitcoin, Ethereum And
+Crypto Price Crash.” Forbes. https://www.forbes.com/
+sites/billybambrough/2022/11/06/a-massive-step-
+jpmorgan-just-made-a-surprize-game-changing-bet-
+on-crypto-despite-2-trillion-bitcoin-ethereum-and-
+crypto-price-crash/?sh=3fb174ff652d
+
+170  J.P. Morgan Chase & Co. “Sustainability - Our
+
+Commitments.” https://www.jpmorganchase.com/
+impact/sustainability/es-commitments
+
+171  J.P. Morgan. “Carbon Compass Methodology.” https://
+www.jpmorgan.com/solutions/cib/investment-
+banking/center-for-carbon-transition/carbon-
+compass
+
+172  Based on ESG data from Bloomberg Terminal.
+173  Data from Bloomberg Terminal.
+174  Sozzi, Brian. January 25, 2022. “American Express
+
+CEO: Cryptocurrencies aren’t a currency.” Yahoo News.
+https://news.yahoo.com/american-express-ceo-
+cryptocurrencies-arent-a-currency-180155548.html
+175  Browne, Ryan. November 16, 2017. “American Express,
+Santander team up with Ripple for cross-border
+payments via blockchain.” CNBC. https://www.cnbc.
+com/2017/11/16/american-express-santander-team-
+up-with-ripple-on-blockchain-platform.html
+
+176  Bambysheva, Nina. June 10, 2022. “American Express
+
+Announces First Crypto Rewards Credit Card On Its
+Network.” Forbes. https://www.forbes.com/sites/
+ninabambysheva/2022/06/10/american-express-
+announces-first-crypto-rewards-credit-card-on-its-
+network/?sh=7fd6a64448d5
+
+177  Shin, Laura. October 22, 2015. “American Express
+
+Invests In Bitcoin Venture, Abra, Which Announces
+U.S., Philippines Launch.” Forbes. https://www.forbes.
+com/sites/laurashin/2015/10/22/american-express-
+invests-in-bitcoin-venture-abra-which-announces-u-
+s-philippines-launch/?naturalID=&sh=24176cc05eec&s
+ource=applenews
+
+178  Matthews, Jessica. February 25, 2022. “How Fortune
+
+500 behemoth American Express quietly became a
+venture capital powerhouse.” Forbes. https://fortune.
+com/2022/02/25/american-express-venture-capital-
+investments-outlook/; Stripe. “Use Cases.” https://
+stripe.com/use-cases/crypto
+
+179  Bambysheva, Nina. December 7, 2021.”Tiger
+
+Global, Amex Ventures, Visa And PayPal Ventures
+Invest In Blockchain Intelligence Firm TRM
+Labs.” Forbes. https://www.forbes.com/sites/
+ninabambysheva/2021/12/07/tiger-global-
+amex-ventures-visa-and-paypal-ventures-
+invest-in-blockchain-intelligence-firm-trm-
+labs/?sh=332f0ede1284
+
+180  Kharif, Olga. December 16, 2020. “American Express
+Dives Deeper Into Crypto With Trading Platform
+Investment.” Bloomberg News. https://www.
+bloomberg.com/news/articles/2020-12-16/amex-
+dives-deeper-into-crypto-with-trading-platform-
+investment
+
+181  FalconX. December 16, 2020. “American Express invests
+in crypto trading startup FalconX.” Press Release.
+https://falconx.io/media-news/american-express-
+invests-in-crypto-trading-startup-falconx
+
+INVESTING IN BITCOIN’S CLIMATE POLLUTION: BIG FINANCE IS BETTING ON DIRTY BITCOIN  45
+
+1            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  0100101010101011010101001010100100101010100101010101010101001010100101010101010001011011101101000101001100110100101010101011010101001010110100101010110101010101001011101011101011101011010101101011101001100110100101010101011011101110010101011001010101001010001010010101001010100101101011100010110001011010101000011011101001010001010110110101011            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  0100101010101011010101001010100100101010100101010101010101001010100101010101010001011011101101000101001100110100101010101011010101001010110100101010110101010101001011101011101011101011010101101011101001100110100101010101011011101110010101011001010101001010001010010101001010100101101011100010110001011010101000011011101001010001010110110101000100101001001100000011001011010100000101001001010010111000010011010000011011182  Data from Bloomberg terminal, Bloomberg Finance L.P.
+183  American Express. 2022. “2021–2022 Environmental,
+
+Social, and Governance Report.” https://s29.
+q4cdn.com/330828691/files/doc_downloads/esg_
+resources/2022/AXP-2021-2022-ESG-Report.pdf
+184   American Express. 2022. “2021–2022 Environmental,
+
+192  Alves, Paulo. January 30, 2023. “Binance Partners
+
+With Mastercard to Launch Prepaid Crypto Card
+in Brazil.” Coindesk. https://www.coindesk.com/
+business/2023/01/30/binance-partners-with-
+mastercard-to-launch-prepaid-crypto-card-in-brazil/
+
+193  Unbanked. January 30, 2023. “Unbanked and
+
+Social, and Governance Report.” https://s29.
+q4cdn.com/330828691/files/doc_downloads/esg_
+resources/2022/AXP-2021-2022-ESG-Report.pdf
+
+185  Mastercard. 2022 “Form 10-K Annual Report.” Accessed
+
+at: https://s25.q4cdn.com/479285134/files/doc_
+financials/2022/AR/MA.12.31.2022-10-K-as-filed.pdf
+
+186  Bambrough, Billy. August 5, 2022. “‘The Future
+Is Here’—Visa, Mastercard And Binance Are
+Suddenly Making Bitcoin, Ethereum, XRP,
+Solana, Cardano And Tether Payments A Reality
+Despite Price Crash.“ Forbes. https://www.
+forbes.com/sites/billybambrough/2022/08/25/
+the-future-is-here-visa-mastercard-and-
+binance-are-suddenly-making-bitcoin-
+ethereum-xrp-solana-cardano-and-tether-payments-
+a-reality-despite-price-crash/?sh=2b4770721ae0
+187   Hugh, Son.October 25, 2021. “Mastercard says any
+bank or merchant on its vast network can soon
+offer crypto services.” CNBC. https://www.cnbc.
+com/2021/10/25/mastercard-says-any-bank-or-
+merchant-on-its-vast-network-can-soon-offer-
+crypto-services.html
+
+188  Hugh, Son.October 25, 2021. “Mastercard says any bank
+or merchant on its vast network can soon offer crypto
+services.” CNBC. https://www.cnbc.com/2021/10/25/
+mastercard-says-any-bank-or-merchant-on-its-vast-
+network-can-soon-offer-crypto-services.html
+189   Andriotis, Anna Maria. October 25, 2021. “Mastercard
+
+Partners With Bakkt to Bring Cryptocurrency Payments
+to the Masses.” Wall Street Journal. https://www.
+wsj.com/articles/mastercard-partners-with-
+bakkt-to-bring-cryptocurrency-services-to-the-
+masses-11635181655
+
+190  Bambrough, Billy. August 25, 2022. “‘The
+
+Future Is Here’—Visa, Mastercard And Binance
+Are Suddenly Making Bitcoin, Ethereum, XRP,
+Solana, Cardano And Tether Payments A Reality
+Despite Price Crash.” Forbes. https://www.
+forbes.com/sites/billybambrough/2022/08/25/
+the-future-is-here-visa-mastercard-and-
+binance-are-suddenly-making-bitcoin-
+ethereum-xrp-solana-cardano-and-tether-payments-
+a-reality-despite-price-crash/?sh=2b4770721ae0
+
+191  Bambrough, Billy. August 25, 2022. “‘The
+
+Future Is Here’—Visa, Mastercard And Binance
+Are Suddenly Making Bitcoin, Ethereum, XRP,
+Solana, Cardano And Tether Payments A Reality
+Despite Price Crash.” Forbes. https://www.
+forbes.com/sites/billybambrough/2022/08/25/
+the-future-is-here-visa-mastercard-and-
+binance-are-suddenly-making-bitcoin-
+ethereum-xrp-solana-cardano-and-tether-payments-
+a-reality-despite-price-crash/?sh=2b4770721ae0
+
+Mastercard Team Up to Accelerate Crypto Card
+Adoption Within Web3 Organizations in Europe.” Press
+Release. https://news.bitcoin.com/unbanked-and-
+mastercard-team-up-to-accelerate-crypto-card-
+adoption-within-web3-organizations-in-europe/
+
+194  Mastercard. October 17, 2022. “Mastercard to bring
+crypto trading capabilities to banks.” Press Release.
+https://www.mastercard.com/news/press/2022/
+october/mastercard-to-bring-crypto-trading-
+capabilities-to-banks/
+
+195  Fortis, Savannah. October 4, 2022. “ Mastercard
+launches new crypto fraud protection tool.”
+Cointelegraph. https://cointelegraph.com/news/
+mastercard-launches-new-crypto-fraud-protection-
+tool
+
+196  Tepper, Fitz. October 27, 2015. “Barry Silbert
+
+Launches Digital Currency Group With Funding From
+MasterCard, Others.” TechCrunch. https://techcrunch.
+com/2015/10/27/barry-silbert-launches-digital-
+currency-group-with-funding-from-mastercard-
+others/
+
+197  Partz, Helen. November 3, 2022. “Mastercard adds
+7 blockchain startups to its crypto accelerator.”
+Cointelegraph. https://cointelegraph.com/news/
+mastercard-adds-7-blockchain-startups-to-its-
+crypto-accelerator
+
+198  Surane, Jennifer. February 15, 2022. ‘Mastercard Is
+
+Going on a Hiring Spree in Crypto and Services Push.”
+Bloomberg News. https://www.bloomberg.com/news/
+articles/2022-02-15/mastercard-to-hire-500-in-
+crypto-open-banking-consulting-push
+
+199  Mastercard. November 1, 2021. “Mastercard and
+
+partners advance the future of sustainable commerce.”
+Press Release. https://www.mastercard.com/news/
+press/2021/november/advancing-the-future-of-
+sustainable-commerce/
+
+200 Mastercard. “Corporate Responsibility - Sustainability.”
+
+https://www.mastercard.com/global/en/vision/corp-
+responsibility/sustainability.html
+
+201  Mastercard. 2021. Doing well by doing good: Corporate
+
+Sustainability Report, 2021. https://www.mastercard.
+com/content/dam/public/mastercardcom/na/
+global-site/documents/mastercard-sustainability-
+report-2021.pdf
+
+202 Mastercard. 2021. Doing well by doing good: Corporate
+
+Sustainability Report, 2021. https://www.mastercard.
+com/content/dam/public/mastercardcom/na/
+global-site/documents/mastercard-sustainability-
+report-2021.pdf
+
+203 Mastercard. “Corporate Responsibility - Sustainability.”
+
+https://www.mastercard.com/global/en/vision/corp-
+responsibility/sustainability.html
+
+204 Mastercard. November 1, 2021. “Mastercard and
+
+partners advance the future of sustainable commerce.”
+Press Release. https://www.mastercard.com/news/
+press/2021/november/advancing-the-future-of-
+sustainable-commerce/
+
+46  INVESTING IN BITCOIN’S CLIMATE POLLUTION: BIG FINANCE IS BETTING ON DIRTY BITCOIN
+
+1            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  01001010101010110101010010101001001010101001010101010101010010101001010101010100010110111011010001010011001101001010101010110101010010101101001010101101010101010010111010111010111010110101011010111010011001101001010101010110111011100101010110010101010010100010100101010010101001011010111000101100010110101010000110111010010100010101101101010100110010100100110000001100101101010000010100100101001011100001001101000011011205 Mastercard. 2021. Doing well by doing good: Corporate
+
+Sustainability Report, 2021. https://www.mastercard.
+com/content/dam/public/mastercardcom/na/
+global-site/documents/mastercard-sustainability-
+report-2021.pdf
+
+206 Mastercard. 2022. “Mastercard Environmental
+
+Statement.” https://www.mastercard.us/en-us/
+vision/our-impact/planet.html#:~:text=At%20
+Mastercard%2C%20we%20are%20reducing,and%20
+consumers%20in%20climate%20action
+
+207 Mastercard. “Mastercard Carbon Calculator.” https://
+
+www.mastercard.us/en-us/vision/corp-responsibility/
+priceless-planet/carbon-calculator.html
+208 Mastercard. 2023. Doing well by doing good:
+
+Mastercard 2022 Environmental, Social and Governance
+Report. P. 69. https://www.mastercard.com/news/
+media/skzpm1nz/mastercard-esg-report-2022.pdf
+
+222 Browne, Ryan. December 8 2021.“Visa launches crypto
+consulting services in push for mainstream adoption.”
+CNBC. https://www.cnbc.com/2021/12/08/visa-
+launches-crypto-consulting-services.html
+223 Bambysheva, Nina. December 7, 2021.”Tiger
+
+Global, Amex Ventures, Visa And PayPal Ventures
+Invest In Blockchain Intelligence Firm TRM
+Labs.” Forbes. https://www.forbes.com/sites/
+ninabambysheva/2021/12/07/tiger-global-
+amex-ventures-visa-and-paypal-ventures-
+invest-in-blockchain-intelligence-firm-trm-
+labs/?sh=332f0ede1284
+
+224 Sabo, Douglas. April 21, 2021. “A sustainable future: Visa
+pledges net-zero emissions by 2040.” Visa blog. https://
+usa.visa.com/visa-everywhere/blog/bdp/2021/04/15/
+sustainable-commerce-and-1618453815474.html
+
+225 Visa. 2023. “Protecting the Planet.” https://usa.visa.
+
+209 Visa. “Visa Fact Sheet.” https://usa.visa.com/
+
+com/about-visa/esg/planet.html
+
+dam/VCOM/global/about-visa/documents/
+aboutvisafactsheet.pdf
+
+210  Salvo, Mat Di.  February 28, 2023. “Visa Says It’s Not
+
+Slowing Down Plans for Crypto Products.” Decrypt.
+https://decrypt.co/122407/visa-not-slowing-down-
+crypto-plans
+
+211  Ibid.
+212  CE Noticias Financieras. December 20, 2022. “What
+VISA has in store to drive cryptocurrency adoption.”
+
+213  Coinbase. “Coinbase Card.” https://www.coinbase.
+
+com/card
+
+214  Crypto.com. “U.S. Cards.” https://crypto.com/us/cards
+215  Upgrade, Inc. July 21 2021. “Upgrade Card Becomes
+
+First Generally Available U.S. Credit Card to Offer
+Bitcoin Rewards.” Press Release. https://apnews.
+com/article/technology-business-bitcoin-
+1d6f33a2a1e6c3eeb5c6e78cd7be3bbc
+
+216  “Visa Has Terminated Global Debit Card Agreements
+with FTX.”  November 1, 2022. Reuters. https://www.
+reuters.com/technology/visa-has-terminated-global-
+debit-card-agreements-with-ftx-2022-11-14/
+217  Holland, Frank. January 28, 2022. “Visa says crypto-
+linked card usage hit $2.5 billion in its first quarter.”
+CNBC. https://www.cnbc.com/2022/01/28/visa-says-
+crypto-linked-card-usage-hit-2point5-billion-in-its-
+first-quarter.html
+
+218  Holland, Frank. January 28, 2022. “Visa says crypto-
+linked card usage hit $2.5 billion in its first quarter.”
+CNBC. https://www.cnbc.com/2022/01/28/visa-says-
+crypto-linked-card-usage-hit-2point5-billion-in-its-
+first-quarter.html
+
+219  Luvaga, Paul. February 13, 2023. “VISA to launch Bitcoin
+and crypto cards in the UK and 40 APAC countries.”
+Finbold. https://finbold.com/visa-to-launch-bitcoin-
+and-crypto-cards-in-the-uk-and-40-apac-countries/
+220 Binance. “Welcome to the Binance Card.” https://www.
+
+binance.com/en/cards/?ref=10162209
+
+221  Visa. “Digital Currency Innovation Hub.” https://
+
+usa.visa.com/solutions/crypto/digital-currency-
+innovation-hub.html
+
+226 Sabo, Douglas. April 21, 2021. “A sustainable future: Visa
+pledges net-zero emissions by 2040.” Visa blog. https://
+usa.visa.com/visa-everywhere/blog/bdp/2021/04/15/
+sustainable-commerce-and-1618453815474.html
+227 Tully, Shawn. October 26, 2021. “Every single Bitcoin
+transaction—even buying a latte—consumes over
+$100 in electricity, says a new report.” Fortune.
+https://fortune.com/2021/10/26/bitcoin-electricity-
+consumption-carbon-footprin/
+
+228 Vries, Alex de, and Christian Stoll. December 1, 2021.
+“Bitcoin’s Growing e-Waste Problem.” Resources,
+Conservation and Recycling 175: 105901. https://doi.
+org/10.1016/j.resconrec.2021.105901
+
+229 Sahay, Apoorva, Shannon Hughes, and Josh Henretig.
+November 11, 2022. “Beyond the Buzz: What Can
+Blockchain Do for Carbon Markets?” RMI. https://rmi.
+org/what-can-blockchain-do-for-carbon-markets/;
+Zwitter, Andrej, and Mathilde Boisse-Despiaux. 2018.
+“Blockchain for Humanitarian Action and Development
+Aid.” Journal of International Humanitarian Action
+3(1):16. doi: 10.1186/s41018-018-0044-5.; Winn, Zach.
+June 24, 2022. “Building a decentralized bank for micro
+businesses in Latin America.” MIT News. https://news.
+mit.edu/2022/quipu-market-business-loans-0624
+230 Bains, Parma. January 2022. Blockchain Consensus
+
+Mechanisms: A Primer For Supervisors. Fintech Note.
+International Monetary Fund. https://www.imf.org/-/
+media/Files/Publications/FTN063/2022/English/
+FTNEA2022003.ashx; Xie, Mingyue, Jun Liu, Shuyu
+Chen, and Mingwei Lin. 2022. “A Survey on Blockchain
+Consensus Mechanism: Research Overview, Current
+Advances and Future Directions.” International Journal
+of Intelligent Computing and Cybernetics 16(2):314–40.
+doi: 10.1108/IJICC-05-2022-0126
+
+231  Weinberger, Evan. February 16, 2023. “SEC’s Proposed
+Crypto Custody Rule Faces Pushback from States.”
+Bloomberg Law. https://news.bloomberglaw.com/
+banking-law/secs-proposed-crypto-custody-rule-
+faces-pushback-from-states
+
+INVESTING IN BITCOIN’S CLIMATE POLLUTION: BIG FINANCE IS BETTING ON DIRTY BITCOIN  47
+
+1            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  0100101010101011010101001010100100101010100101010101010101001010100101010101010001011011101101000101001100110100101010101011010101001010110100101010110101010101001011101011101011101011010101101011101001100110100101010101011011101110010101011001010101001010001010010101001010100101101011100010110001011010101000011011101001010001010110110101011            0                1                     0                          0                                 1               0                        0                 0              1               0            1                                            1                            1                    0                       1  0                          1        1       0                    1                              1         0         1             0   1     0              1            1                                         1                     1                 1      1            1                          1                         1             0        0     1    0  1     1    0                       1      0          1      1            1       0   1           0       0  0         1             1           1     1      1              1            1            0               0       0                 1         0              1                 1      1            1       1                      0         1                 1     1         1               1           1     1      1            1           0     1     1           1     1      1            1  0   1     0       1                                 1                   1        1               1                 1        1        0       1               1   1  1     1      1               1       0     0     1 0    0     0    1       0   1      1     0        0     1     1    1       0     0     0   1       1         0     0   1        1           0      0     0   1        1           0      0     0   1     0          0   0   0      1            0   1    0      0     0   1    0   1   0   10   1    0   1  0     0    0   1  0     0   1    0   1          1  0     0     1    1    1  1   0 1  0     0  1  1    1    1  1  0 1     1  0   1     1    1  1  0  1 0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1  0   1  0   1 0   1    0   1   1     0   1  0   1   0   1    0   1   1   0   1        1    0  0    1      1      0   1  0   1  0   1    0    0 1   1   1 1  1 0   1     1   1   1    1 0   1     0 1   1   1 1  1 0  1     0  1 1   1  0   1  0 1  1 0    0 1   1   1 1  1 0   1    0 1   1   1 1    0   1     0 1   1   1 1    0   1     0 1   1   1 1  1 0   1    1 0 1   1   1 1  1 0   1     0 1   1   1 1  1  0   1   0 1 1  1 0 1   1   1 1  1  0   1       0   1    1 0  1 1  1 0 1   1   1 1  1 0   1     0 0  1 1   1 1  1 0 1 1  1 0  1  0   1 1 1 1 1 0 0 0 0  0 0 0 1 1  1 1  0 0  1 0 0  1  1 1 1 1 0 1 0 1  10 0 0  1 1 1 0 0  1  1 1  0   0 1  1  1 0   1 1  1 0   1  1 0  1 1 10 0 0  10   1 1 0  1   0 1 0  0 0 1 1 1 1  0 1 1 01 0 0  1 1   0  0  1  1 1  0 0 11 0 1 1  1 0 1 1  1 0   1 11 1  1 0 1 1  1 0   0 0 0 1    1 1  1 0  0 0 1 0 0  0 01  0 01 0 1 1 1 1 1 10 1 1 0 0 0 1   1 1 1 0 1 0 1 1 0 0 0  1 1 1 0 0 0 0  0 0 0 10 1 1 1 1 0 010 010  0 1 1 1 1 010 0 1 1 0 0 0 0  10 1 10 10  01 0 0 1  1 0 1 11 1 1 0 1 1 1 0 0 0 0 1  0 0 10 10 1 1 0 1 0 0  1 0 0 1 1 1 1 1 1 0 1 1 0 0 0  0 0 0 0 10 1 0 1  0100101010101011010101001010100100101010100101010101010101001010100101010101010001011011101101000101001100110100101010101011010101001010110100101010110101010101001011101011101011101011010101101011101001100110100101010101011011101110010101011001010101001010001010010101001010100101101011100010110001011010101000011011101001010001010110110101000100101001001100000011001011010100000101001001010010111000010011010000011011© Jung Taekyong / Greenpeace
+

@@ -1,0 +1,2673 @@
+Cut &
+Run
+
+Kimberly-Clark’s legacy of
+environmental devastation
+and social conflict in the
+Kenogami Forest
+
+.
+
+a
+c
+e
+c
+a
+e
+p
+n
+e
+e
+r
+g
+w
+w
+w
+
+.
+
+PUBLISHED BY GREENPEACE CANADA
+April 2008
+ISBN : 978-0-9732337-7-3
+
+AUTHOR
+Christy Ferguson
+
+DESIGN AND LAYOUT
+Brigitte Binet
+
+ACKNOWLEDGEMENTS
+Thank you to Richard Brooks, Rolf Skar, and others
+for providing valuable feedback and contributions
+throughout the preparation of this report, and to
+Global Forest Watch Canada for providing maps
+and analysis.
+
+Photos credits: J Henry Fair, Andrew Male, Taylor Daniel J. Cox/NaturalExposures.com
+
+Printed on 100 per cent post-consumer recycled, chlorine-free
+paper that is manufactured with wind-generated energy.
+
+TABLE OF CONTENTS
+
+  2  Executive Summary
+
+  4  Introduction
+
+  6  The Kenogami Forest
+
+  8  Kimberly-Clark and Kenogami
+
+ 12  Environmental Devastation
+
+ 26  Social Conflict
+
+30  Conclusion
+
+EXECUTIVE SUMMARY
+
+Kimberly-Clark holds itself up as an exemplary corporate citizen, a company doing its utmost to
+protect the environment and benefit communities. But Cut and Run reveals that the company’s
+policies and practices have caused severe environmental damage and social conflict in Canada’s
+Boreal Forest.
+
+Based on government documents, independent audits, satellite mapping, and public records, this
+case study looks at the past, present, and future of the Kenogami Forest, a 2,000,000 hectare
+(4,940,000 acre) expanse in northern Ontario. Kenogami is a forest that Kimberly-Clark directly
+managed for decades, and a forest that remains one of its primary sources of tree pulp today.
+
+Years of excessive clearcut logging, bad planning, failed regeneration, weak compliance with
+regulations, and lack of meaningful consultation with First Nations and workers have taken a serious
+toll on the Kenogami Forest. Since Kimberly-Clark started logging there in 1937, intact and old-
+growth forests have been lost, threatened species have disappeared, and local communities have
+become embroiled in conflict with industry, frustrated after years of being shut out of the planning,
+management, and economic benefits of the logging happening on their land.
+
+If current plans are followed through, this situation will only get worse: clearcuts will degrade what
+remains of the forest’s intact areas, logging will target what remains of its old-growth, and the
+threatened woodland caribou will die-off in the area, unable to survive in Kenogami’s fragmented
+landscape.
+
+The case of the Kenogami Forest sheds light on the stark contrast between Kimberly-Clark’s claims
+to sustainability and the reality of its operations on the ground. It shows that Kimberly-Clark has
+violated its long-held policy commitment not to use “environmentally significant” old-growth fibre
+in any of its consumer products. It shows that the company’s executives have made repeated,
+misleading statements by claiming, for example, that the Boreal Forest fibre used in Kimberly-Clark’s
+products comes primarily from “waste.” And it shows that the company’s current fibre procurement
+policy permits the purchase of fibre from intact and old-growth forests, including threatened species
+habitat and areas logged without the prior and informed consent of the Aboriginal communities
+whose territories are affected.
+
+Because Kimberly-Clark continues to purchase the majority of the pulp produced at the Terrace
+Bay pulp mill—the mill that acts as the primary driver of logging in the Kenogami Forest—the
+company retains significant influence over the forest’s management. By increasing the amount of
+recycled content across its full line of products, the company could reduce the pressure on forests
+like Kenogami. And by adopting a policy that prohibits the use of fibre from endangered forests;
+that makes meaningful commitments to fibre certified by the Forest Stewardship Council; and that
+prohibits the use of fibre from areas logged without the prior and informed consent of local First
+Nations, it could ensure that the forestry operations it sourced from were truly sustainable ones.
+
+Y
+R
+A
+M
+M
+U
+S
+E
+V
+T
+U
+C
+E
+X
+E
+
+I
+
+N
+U
+R
+&
+T
+U
+C
+
+
+
+KEY FINDINGS
+
+  Kimberly-Clark uses hundreds of thousands of tonnes of tree fibre from the Kenogami
+
+Forest every year to produce disposable tissue products, including Kleenex.
+
+  Kimberly-Clark directly managed and logged the Kenogami Forest for 71 years, from 1937
+
+to 2004.
+
+  Since Kimberly-Clark started logging there, 71 per cent of the Kenogami Forest has been
+
+fragmented. Woodland caribou have been driven out of 67 per cent of the forest, and
+wolverines have completely disappeared from within its boundaries.
+
+  Individual clearcuts stretch across as many as 10,807 hectares (26,693 acres).
+
+  Between 2001 and 2006 alone, 220,500 hectares (544,635 acres) of intact forest was
+
+fragmented—an area more than twice the size of Dallas.
+
+  Caribou are predicted to die-off in 95 per cent of the forest within the next 20 years, due
+
+to the logging that has already been done. Eighty per cent of the monitored species in the
+forest are predicted to decline substantially within the next 100 years.
+
+  Many of the remaining intact and old-growth forest areas in Kenogami, including critical
+threatened species habitat, are slated to be cut under the 2005–2010 and draft 2010–
+2011 plans.
+
+  Old-growth is projected to decline by as much as 50 per cent in the next eighty years.
+
+  Ninety-seven per cent of the stands scheduled to cut between 2005 and 2010 are 80
+
+years old or older; 83 per cent are 100 years old or older; 61 per cent are 120 years old or
+older; 34 per cent are 140 years old or older; and 12 per cent are 160 years old or older.
+8,457 hectares (20,888 acres) of 160-200 year-old trees are scheduled to be cut in this
+five year period alone. Draft plans for 2010–2011 show a similar trend.
+
+  Only 3.2 per cent of Kenogami’s landbase is protected by legislation, compared to a
+
+provincial average of 12 per cent.
+
+  Eighty-two per cent of the Kenogami Forest has been classified as inadequately
+
+protected, and 78 per cent as high priority for conservation.
+
+  Workers from the Terrace Bay pulp mill and the logging operations that feed it have been
+on strike since 2006. None of the companies involved will agree to talks with the workers.
+
+  Nine First Nations have an outstanding legal case against the Ontario government and the
+companies managing the Kenogami Forest. These Aboriginal communities have been left
+out of the forest’s planning, management, and economic benefits, despite treaty rights.
+
+e
+c
+a
+e
+p
+n
+e
+e
+r
+G
+
+
+
+Introduction
+
+I
+
+N
+O
+T
+C
+U
+D
+O
+R
+T
+N
+
+I
+
+N
+U
+R
+&
+T
+U
+C
+
+
+
+“We have an ever-increasing responsibility to our customers—and to the people who use
+our products—to source the materials and services for the products we manufacture in an
+environmentally and socially responsible manner.” — Thomas Falk, Chief Executive Officer and
+Chairman of the Board, in Kimberly-Clark’s Guide for Suppliers (2007)
+
+Kimberly-Clark is the world’s largest producer of tissue products. A multinational company valued
+at US$26 billion, it manufactures facial tissue, toilet paper, napkins, and other disposable products
+sold around the world under brand names such as Kleenex, Viva, Scott, Cottonelle, Andrex,
+Scottex, and Hakle.
+
+Year after year, the company’s public statements and sustainability reports paint a picture of
+environmental responsibility: careful stewardship of natural resources, strict standards for the people
+and lands involved in production, positive programs to ensure the health and viability of forests and
+communities. But a closer look at Kimberly-Clark’s actual operations tells a different story.
+
+In 2006, a Greenpeace report revealed that Kimberly-Clark had been lying for years by buying fibre
+from coastal temperate rainforests while assuring its customers, its shareholders, and the public that no
+Kimberly-Clark product contained virgin rainforest fibre1. This new case study casts further doubt on the
+integrity of the company’s claims.
+
+Based on government documents, independent audits, satellite mapping, and public records, this
+report looks at the past, present, and future of the Kenogami Forest—an area that the company directly
+managed for decades and that remains one of its primary sources of pulp—and in so doing details the
+devastating on-the-ground impacts of Kimberly-Clark’s products and policies.
+
+KIMBERLY-CLARK’S FIBRE PROCUREMENT POLICY:
+FAILING FORESTS, FAILING COMMUNITIES
+
+It is the intent of this policy to promote:
+Sustainable forest management practices by
+the Corporation’s wood fibre suppliers that are
+economically viable, environmentally responsible
+and socially beneficial by considering supplier
+performance in the selection process.”
+
+— Kimberly-Clark Fibre Procurement Policy (2007)
+
+Kimberly-Clark executives speak proudly of the
+company’s fibre procurement policy, holding it up as
+evidence of the company’s unwavering commitment
+to communities and the environment. Unfortunately,
+as this report shows, what happens on the ground is
+very different from what happens on paper.
+
+Kimberly-Clark’s fibre sourcing policy talks about
+environmental responsibility—yet the company
+continues to source massive amounts of pulp
+from intact and old-growth forest areas essential
+for conserving biodiversity and mitigating global
+warming. The policy talks about endangered
+species—yet the company continues to source
+from the habitat of the threatened woodland
+caribou, a species known to be highly sensitive to
+
+logging and roads. The policy talks about forest
+areas requiring protection—yet the company
+continues to source from an area that has been
+identified by a government-initiated taskforce as
+inadequately protected. The policy talks about social
+responsibility—yet the company continues to source
+from a mill that is the focal point of multiple ongoing
+conflicts with local Aboriginal communities and
+forestry workers.
+
+For all its broad claims about people, wildlife,
+and forests, the details of Kimberly-Clark’s fibre
+procurement policy allow for incredibly destructive
+practices. If the company increased its use of
+recycled fibre across its entire range of products, it
+could dramatically reduce its reliance on virgin tree
+pulp. And if it adopted a more rigorous and credible
+policy, one that prohibited the use of fibre from
+Endangered Forests 2 (including intact forests and
+threatened species habitat) and made a meaningful
+commitment to wood certified by the Forest
+Stewardship Council 3, Kimberly-Clark could ensure
+that virgin fibre it did use in its products came from
+well-managed forests.
+
+e
+c
+a
+e
+p
+n
+e
+e
+r
+G
+
+
+
+The
+Kenogami
+Forest
+
+T
+S
+E
+R
+O
+F
+
+I
+
+M
+A
+G
+O
+N
+E
+K
+E
+H
+T
+
+N
+U
+R
+&
+T
+U
+C
+
+
+
+The Kenogami Forest is the largest forest management unit4 in Ontario, covering nearly 20,000
+square kilometers (km2), or 2,000,000 hectares (4,940,000 acres)—an area nearly twice the size of
+Jamaica. Located approximately 200 km northeast of Thunder Bay, it borders Lake Superior to the
+south, and a vast area of undeveloped intact forest to the north.
+
+Kenogami is home to a number of communities. The towns of Terrace Bay, Schreiber, Rossport,
+Longlac, Geraldton, and Nakina are all located within the forest’s boundaries, as are the Long Lake #58
+First Nation, Ginoogaming First Nation, Aroland First Nation, and Pays Plat First Nation. In addition, the
+Eabametoong, Constance Lake, Neskantaga, Marten Falls, Webequie and Nibbinamik First Nations all
+have reserves adjacent to the forest. All the First Nations either in or adjacent to the forest have treaty
+rights, including rights to harvest, hunt, fish, and trap in the Kenogami Forest and beyond.
+
+Kenogami provides habitat to numerous species, including moose, snowshoe hare, white-tailed deer,
+and great grey owl. Species at risk including the woodland caribou, the marten, the eastern cougar,
+the bald eagle, and the American white pelican all depend on the Kenogami Forest for their survival.
+
+The Kenogami Forest forms part of Canada’s immense Boreal Forest, which stretches from the
+Yukon to Labrador and covers 53 per cent of Canada’s total landmass. The Boreal has evolved for
+over 10,000 years into a diverse and awe-inspiring landscape of pine, spruce, fir, aspen, and poplar
+forests interspersed with granite outcrops, lakes, rivers, and marshes. Numerous wildlife species
+live in its vast expanses, and at least three billion birds, including eagles, hawks, owls, and geese
+and accounting for 30 per cent of North America’s songbirds and 40 per cent of its waterfowl, nest
+in its forested areas and wetlands. Canada’s Boreal Forest also plays an essential role in regulating
+the global climate, storing an estimated 186 billion tonnes of carbon in its trees and soils5.
+
+The Kenogami Forest
+
+e
+c
+a
+e
+p
+n
+e
+e
+r
+G
+
+
+
+015030045060075075kmData Sources:Global Forest Watch Canada; Government of Canada,Natural Resources Canada / Earth Sciences Sector /Canada Centre for Remote Sensing; Global LandCover Facility (2000), www.landcover.org; CanadianBoreal Inititive (CBI), Canada's Boreal Region(2003). www.borealcanada.ca.Projection:Lambert Conformal ConicFalse Easting: 0.0False Northing: 0.0Note: Large Intact Boreal Forests Landscapesrepresents a contiguous mosaic of natural ecosystemsgreater than 50,000 hectares in the Boreal Forestlandscape, essentially undisturbed by humaninfluence. This map was generated through the use ofLandsat imagery acquired during the approximateepochs of 1990 and 2000.Central Meridian: -95.0Standard Parallel 1: 49.0Standard Parallel 2: 77.0Latitude of Origin: 49.0Produced by Global Forest Watch Canada, November, 2007.The Kenogami ForestLarge Intact Forest LandscapesFragmented Forest LandTree Cover < 10% Provinces and TerritoriesLegend015030045060075075kmData Sources:Global Forest Watch Canada; Government of Canada,Natural Resources Canada / Earth Sciences Sector /Canada Centre for Remote Sensing; Global LandCover Facility (2000), www.landcover.org; CanadianBoreal Inititive (CBI), Canada's Boreal Region(2003). www.borealcanada.ca.Projection:Lambert Conformal ConicFalse Easting: 0.0False Northing: 0.0Note: Large Intact Boreal Forests Landscapesrepresents a contiguous mosaic of natural ecosystemsgreater than 50,000 hectares in the Boreal Forestlandscape, essentially undisturbed by humaninfluence. This map was generated through the use ofLandsat imagery acquired during the approximateepochs of 1990 and 2000.Central Meridian: -95.0Standard Parallel 1: 49.0Standard Parallel 2: 77.0Latitude of Origin: 49.0Produced by Global Forest Watch Canada, November, 2007.The Kenogami ForestLarge Intact Forest LandscapesFragmented Forest LandTree Cover < 10% Provinces and TerritoriesLegend
+
+Kimberly-Clark
+and
+Kenogami
+
+I
+
+M
+A
+G
+O
+N
+E
+K
+D
+N
+A
+K
+C
+R
+A
+L
+C
+-
+Y
+L
+R
+E
+B
+M
+K
+
+I
+
+N
+U
+R
+&
+T
+U
+C
+
+
+
+“We’ve been responsibly managing the economic, environmental and social aspects of
+our business for decades.”  — Thomas Falk, Chief Executive Officer and Chairman of the Board, in
+Kimberly-Clark’s Sustainability Report (2003)
+
+Kimberly-Clark has a 71-year-long history in the Kenogami Forest. Soon after establishing the
+first industrial logging operations in the area in 1937, the company extended its presence there
+by building a large pulp mill at Terrace Bay, and a town by the same name to service it 6. For
+the decades that followed, Kimberly-Clark ran the forestry operations on Kenogami and held
+the license for its management 7.
+
+As the license holder for the forest, Kimberly-Clark was directly responsible for drafting
+and implementing the plans that dictated how much of the forest would be cut, how fast it
+would be cut, what kind of logging practices would be used, and how the forest would be
+regenerated 8. While almost all of Kenogami is publicly owned and falls under the jurisdiction
+of Ontario’s Ministry of Natural Resources, it is Kimberly-Clark that has managed the area
+for almost all of its time under industrial influence. For this reason, the company bears direct
+responsibility for the state of the forest today.
+
+In 2004, Kimberly-Clark spun off the Terrace Bay mill and its associated forestry operations
+to an independent company called Neenah Paper. Two years later, Neenah Paper sold the
+mill to Buchanan Forest Products Ltd., which established it as a subsidiary called Terrace
+Bay Pulp Inc.
+
+While the forest license and the mill have changed hands multiple times between 2004 and
+2008, Kimberly-Clark’s ties with the Kenogami Forest and the Terrace Bay pulp mill remain
+strong: the company continues to buy more than half of the pulp produced at Terrace Bay.
+And because the Terrace Bay pulp mill is the central driver of logging in the Kenogami Forest,
+Kimberly-Clark retains significant influence over the forest through its purchasing contracts.
+According to Kenogami’s current management plan, “the forest resources harvested on the
+[Kenogami] License Area are mainly intended to provide a supply of fibre to [the] processing
+mill located in Terrace Bay, Ontario”9.
+
+As of 2008, Kimberly-Clark purchases 55 per cent of the 420,000 metric tonnes (462,970 tons)
+of pulp produced at Terrace Bay each year10—an amount equal to the weight of over 1150
+jumbo jets—using it to produce Kleenex brand tissue products. This one mill provides the
+company with approximately seven per cent of its massive 3.1 million tonnes-per-year
+(3.4 million tons) global supply of virgin pulp. In the recent past, these numbers have been
+even higher. Until it spun off the Terrace Bay mill in 2004, Kimberly-Clark was using up to
+95 per cent of the pulp the mill produced for its own products. At that time, Terrace Bay
+accounted for an extraordinary 20 per cent of the company’s entire global supply of virgin fibre.
+
+“KIMBERLY-CLARK HAS DIRECTLY
+MANAGED THE KENOGAMI FOREST
+FOR ALMOST ALL OF ITS TIME
+UNDER INDUSTRIAL INFLUENCE.”
+
+e
+c
+a
+e
+p
+n
+e
+e
+r
+G
+
+
+
+KIMBERLY-CLARK PRODUCTS ARE NOT MADE FROM “WASTE”
+
+“The vast majority of the fibre we purchase comes
+from residual waste—the sawdust and chips. The
+trees were not cut down for fibre”.  — Kimberly-Clark
+spokesperson Dave Dickson (2005)11
+
+In recent years, Kimberly-Clark has attempted to deflect
+criticism by claiming that the virgin Boreal Forest fibre
+in its products comes from waste wood—chips and
+sawdust left over by the lumber industry—and not from
+forests logged for the purpose of producing pulp and
+paper. As the company’s 2004 sustainability report
+states, for example, “The vast majority of fibre we
+purchase from the Canadian Boreal Forest comes from
+residual waste, sawdust and chips from the lumber-
+production process”12. The company and its executives
+have made this type of claim repeatedly, both in public
+documents and in media interviews.
+
+The claim that the “vast majority” of Kimberly-Clark’s
+Boreal fibre supply comes from lumber waste flies in the
+face of the facts, as does Dave Dickson’s claim that the
+trees in its products “were not cut down for fibre.” As this
+report details, Kimberly-Clark itself logged the Kenogami
+Forest to produce pulp for its own products until 2004.
+Today, the company continues to buy nearly 50 per
+cent of its Boreal Forest fibre from the Terrace Bay pulp
+
+mill—the mill that acts as the main driver of logging in the
+Kenogami Forest. The forest’s official management plan
+states this in clear terms: “The forest resources harvested
+on the [Kenogami] License Area are mainly intended to
+provide a supply of fibre to [the] processing mill located in
+Terrace Bay, Ontario”13.
+
+Further, Kenogami’s 2005–2010 management plan
+documents that 48 per cent of the softwood fibre supplied
+to the mill arrives in the form of whole logs14. These logs are
+turned directly into pulp for Kleenex and other disposable
+products. The remaining 52 per cent of the fibre arrives
+in the form of chips, purchased from sawmills in the
+area15. But even these chips are not a “waste product,”
+as Kimberly-Clark claims. Wood chips are a valuable
+commodity produced and sold by sawmills. In fact, the
+revenue from the sale of these chips is so important to the
+economy of area sawmills that without it, many of these
+mills would be forced to shut down.
+
+While Kimberly-Clark continues to imply that its purchase
+of pulp from the Boreal Forest plays little or no role in
+driving destructive logging, government documents make it
+clear that the pulp it purchases from Terrace Bay has driven
+and continues to drive logging in the Kenogami Forest.
+
+I
+
+M
+A
+G
+O
+N
+E
+K
+D
+N
+A
+K
+C
+R
+A
+L
+C
+-
+Y
+L
+R
+E
+B
+M
+K
+
+I
+
+N
+U
+R
+&
+T
+U
+C
+
+0
+1
+
+“KIMBERLY-CLARK CLAIMS THAT
+ITS PRODUCTS ARE MADE FROM
+SAWDUST AND CHIPS. BUT THE
+SPRAWLING LOG PILES OUTSIDE
+THE TERRACE BAY PULP MILL
+SHOW OTHERWISE.”
+
+e
+c
+a
+e
+p
+n
+e
+e
+r
+G
+
+1
+1
+
+Environmental
+Devastation
+
+I
+
+N
+O
+T
+A
+T
+S
+A
+V
+E
+D
+L
+A
+T
+N
+E
+M
+N
+O
+R
+V
+N
+E
+
+I
+
+N
+U
+R
+&
+T
+U
+C
+
+
+1
+
+Seventy years of industrial logging has taken a severe toll on the Kenogami Forest. Most of
+its landbase has been severely fragmented, and much of its old-growth has been seriously
+compromised. At least one threatened species has already been driven out of the area, and
+others are in rapid decline. If current plans are followed through, the situation will only get
+worse: what remains of intact and old-growth forests will be lost, and more species will be
+driven out of the region.
+
+While the causes of Kenogami’s decline are multiple and complex, they all relate back to
+several key problems: a lack of protected areas, excessive clearcut logging, unsuccessful
+regeneration of forests, bad planning, and weak compliance with regulations.
+
+LOSS OF INTACT FORESTS
+
+“Kimberly-Clark has practiced sustainable forestry on its own forestlands for more than
+60 years and, although it no longer owns or manages any forestlands in North America,
+it remains committed to the promotion of sustainable forestry and only sources from
+suppliers that practice sustainable forestry management.”  — Kimberly-Clark Proxy
+Statement (2006)
+
+When Kimberly-Clark started logging Kenogami in 1937, most of the landbase of nearly two
+million hectares (4,940,000 acres) was intact. Today, only 27.6 per cent remains so—the
+rest has been degraded by large-scale clearcutting16. And still, the destruction of Kenogami’s
+remaining intact areas continues apace. Satellite imagery shows that between 2001 and
+2006, 28.9 per cent of the large intact forest landscapes left in the Kenogami Forest were lost,
+mainly due to clearcut and salvage logging and associated road building17 (see maps). In other
+words, 220,500 hectares (544,635 acres) of intact forest in the Kenogami Forest alone was
+fragmented by logging in just five years. That’s an area more than twice the size of Dallas.
+
+And because only 3.2 per cent of the landbase is protected from development, those last
+remaining intact areas of the Kenogami Forest are at risk of being destroyed in the coming
+years. In fact, under the 2005–2010 Kenogami forest management plan and the draft
+2010–2011 plan, many of these areas are slated to be cut 18, 19.
+
+This is important because large intact forest areas—areas that remain in their natural
+states—are crucial to maintaining biodiversity and mitigating global warming. In general, only
+forest areas of 500 km2 (123,552 acres) and greater that are unfragmented by roads, logging
+operations, powerlines, or other imposed infrastructure are large enough to maintain the
+ecological integrity of an area, and to sustain healthy animal and bird populations 20. These
+areas help to mitigate global warming and its impacts by storing massive amounts of carbon
+and giving trees, plants, and animals the best chances of surviving in a changing climate 21,22.
+For these reasons, intactness is designated as a high conservation value needing special
+management and protection under the Forest Stewardship Council Boreal Forest standard,
+and classifies a forest as ‘endangered’ under the internationally-recognized Endangered
+Forests definition 23.
+
+Unfortunately, as logging in Canada’s Boreal Forest continues to push north, intact areas are
+becoming more and more rare: 41 per cent of the treed area of the Boreal Forest has already
+been fragmented by logging and other industrial development, and 45 per cent has been
+allocated for logging 24. This fragmentation not only threatens species survival and reduces
+biodiversity, but it exacerbates global warming as well. Research shows that logging in intact
+areas of Canada’s Boreal Forest causes greenhouse gas emissions, eliminates carbon
+storage, and makes the forest more vulnerable to global warming impacts like insect outbreaks
+and forest fires—impacts which themselves cause further greenhouse gas emissions 25.
+
+e
+c
+a
+e
+p
+n
+e
+e
+r
+G
+
+
+1
+
+Public records and satellite imagery prove that Kimberly-Clark logged over a million hectares
+of intact forest in Kenogami over its seventy years there—forest that was critical species
+habitat, forest that was helping to mitigate global warming, and forest that was classifiable as
+both high conservation value and endangered under internationally-recognized definitions.
+
+Large intact areas in the Kenogami Forest, 2001
+
+Kenogami Forest Management Unit
+
+Kenogami Forest Management Unit
+
+Large Intact Forest Landscapes (2001)
+
+Large Intact Forest Landscapes (2001)
+
+Water
+
+Water
+
+Kenogami Forest Management Unit
+
+Large Intact Forest Landscapes (2001)
+
+Water
+
+0
+
+5
+
+10
+
+20
+
+30
+
+40
+
+50
+
+km
+
+Projection:
+Lambert Conformal Conic
+False Easting: 0.0
+False Northing: 0.0
+
+Central Meridian: -95.0
+Standard Parallel 1: 49.0
+Standard Parallel 2: 77.0
+Latitude of Origin: 49.0
+
+0
+
+5
+
+10
+0
+
+20
+10
+
+5
+
+30
+20
+
+40
+
+30
+
+50
+
+40
+
+50
+
+km
+
+km
+
+Projection:
+Projection:
+Lambert Conformal Conic
+Lambert Conformal Conic
+False Easting: 0.0
+False Easting: 0.0
+False Northing: 0.0
+False Northing: 0.0
+
+Central Meridian: -95.0
+Standard Parallel 1: 49.0
+Standard Parallel 2: 77.0
+Latitude of Origin: 49.0
+
+Central Meridian: -95.0
+Standard Parallel 1: 49.0
+Standard Parallel 2: 77.0
+Latitude of Origin: 49.0
+
+I
+
+N
+O
+T
+A
+T
+S
+A
+V
+E
+D
+L
+A
+T
+N
+E
+M
+N
+O
+R
+V
+N
+E
+
+I
+
+N
+U
+R
+&
+T
+U
+C
+
+
+1
+
+Large intact areas in the Kenogami Forest, 2006
+
+Kenogami Forest Management Unit
+
+Kenogami Forest Management Unit
+
+Large Intact Forest Landscapes (2006)
+
+Large Intact Forest Landscapes (2006)
+
+Water
+
+Kenogami Forest Management Unit
+
+Large Intact Forest Landscapes (2006)
+
+Water
+
+0
+
+5
+
+10
+
+20
+
+30
+
+40
+
+50
+
+km
+
+Water
+
+km
+
+0
+
+5
+
+10
+0
+
+20
+10
+
+5
+
+30
+20
+
+40
+
+30
+
+50
+
+40
+
+50
+
+km
+
+Projection:
+Projection:
+Lambert Conformal Conic
+Lambert Conformal Conic
+False Easting: 0.0
+False Easting: 0.0
+False Northing: 0.0
+False Northing: 0.0
+
+Central Meridian: -95.0
+Standard Parallel 1: 49.0
+Standard Parallel 2: 77.0
+Latitude of Origin: 49.0
+
+Central Meridian: -95.0
+Standard Parallel 1: 49.0
+Standard Parallel 2: 77.0
+Latitude of Origin: 49.0
+
+Projection:
+Lambert Conformal Conic
+False Easting: 0.0
+False Northing: 0.0
+
+Central Meridian: -95.0
+Standard Parallel 1: 49.0
+Standard Parallel 2: 77.0
+Latitude of Origin: 49.0
+
+e
+c
+a
+e
+p
+n
+e
+e
+r
+G
+
+
+1
+
+I
+
+N
+O
+T
+A
+T
+S
+A
+V
+E
+D
+L
+A
+T
+N
+E
+M
+N
+O
+R
+V
+N
+E
+
+I
+
+N
+U
+R
+&
+T
+U
+C
+
+
+1
+
+ “PUBLIC RECORDS AND
+SATELLITE IMAGERY PROVE
+THAT KIMBERLY-CLARK LOGGED
+OVER A MILLION HECTARES OF
+INTACT FOREST IN KENOGAMI.”
+
+e
+c
+a
+e
+p
+n
+e
+e
+r
+G
+
+
+1
+
+LOSS OF OLD-GROWTH FORESTS
+
+“[Kimberly-Clark’s environmental] policy prohibits the use of fibre from any rainforest or
+from environmentally significant, old-growth forest areas in any Kimberly-Clark consumer
+product.”  — Kimberly-Clark Environmental Report (2002)
+
+Like intact forests, old-growth forests are critical for the survival of many species, including the
+threatened woodland caribou and marten. Unfortunately, the Kenogami Forest is experiencing
+a significant decline in old-growth as the result of past management decisions that have
+taken years to manifest themselves on the forest. This holds true even when “old-growth” is
+assessed using a generous definition of any stand 90 years old or older 26.
+
+Even if no further cutting takes place, the amount of old-growth in Kenogami is predicted to
+drop by 32 per cent over the next 80 years. If current logging plans are followed through,
+this drop will be even steeper: 49.6 per cent over the same time period 27. While it’s natural
+for the amount of older forest in any one local area to rise and fall due to forest fires and
+other disturbances, the loss of old-growth forest on a larger scale happens as the result of
+human activity.
+
+The fact that old-growth in Kenogami is on a trajectory toward collapse suggests that during its
+long tenure in Kenogami, Kimberly-Clark logged significant amounts of old-growth, did not set-
+aside old-growth areas for protection, and did not adequately regenerate the forest to provide
+for future old-growth. Further, according to the 2005–2010 management plan, 97 per cent of
+the stands scheduled to be cut over the five year period are 80 years old or older; 83 per cent
+are 100 years old or older; 61 per cent are 120 years old or older; 34 per cent are 140 years
+old or older; and 12 per cent are 160 years old or older. 8,457 hectares (20,888 acres) of
+160-200 year-old trees are scheduled to be cut in this five year period alone.
+
+Since the trees logged in the Kenogami Forest are used to make Kleenex products, this
+suggests that Kimberly-Clark violated the environmental policy it adopted in 1992 and applied
+until 2007. The policy prohibited the use of  “environmentally significant” 28 old-growth fibre in
+any Kimberly-Clark consumer product. This breach is especially egregious because until very
+recently, Kimberly-Clark’s commitment not to source old-growth has been a centerpiece of
+its commitment to sustainability. Statements like the one quoted above appear in customer
+and shareholder communications, public statements, proxy materials, sustainability reports,
+and submissions to the United States Securities and Exchange Commission. While the
+caveat “environmentally significant” or “ecologically significant” almost always appears in these
+statements, the fact that the old-growth stands in Kenogami serve as critical, threatened
+species habitat (see “Wildlife at risk,” below) certainly qualifies them as environmentally or
+ecologically significant. Interestingly, the updated fibre procurement policy adopted by the
+company in 2007 makes no mention of old-growth forests. It appears, then, that Kimberly-
+Clark violated its own policy over a number of years by sourcing old-growth, and then
+weakened its policy to allow this practice to continue.
+
+A few large swaths of older forest do remain in Kenogami, mainly in areas that have
+been difficult for loggers to access. But while this presents an excellent opportunity for
+conservation, Kenogami’s 2005–2010 management plan includes building roads into these
+pockets of old-growth in order to facilitate their logging over the next ten years29. According
+to the draft forest management plan for 2010–2011, 95 per cent of the stands scheduled
+to be cut are 80 years old or older; 76 per cent are 100 years or older; and 57 per cent are
+120 years old or older. Thousands of hectares of 160-180 year-old trees are scheduled to
+be cut in this one year alone.
+
+I
+
+N
+O
+T
+A
+T
+S
+A
+V
+E
+D
+L
+A
+T
+N
+E
+M
+N
+O
+R
+V
+N
+E
+
+I
+
+N
+U
+R
+&
+T
+U
+C
+
+
+1
+
+ “IT APPEARS THAT KIMBERLY-CLARK
+VIOLATED ITS POLICY FOR YEARS BY
+USING OLD-GROWTH FIBRE, THEN
+WEAKENED ITS POLICY TO ALLOW
+THIS PRACTICE TO CONTINUE.”
+
+e
+c
+a
+e
+p
+n
+e
+e
+r
+G
+
+
+1
+
+WILDLIFE AT RISK
+
+“We make it our business to care for the air, land, water and all living beings that come into contact
+with our manufacturing facilities.” — Kimberly-Clark Environmental Report (2001)
+
+Research and surveys show that human development, including logging, has already caused the threatened
+wolverine to vanish from the Kenogami Forest, is driving the rapid decline of the threatened woodland
+caribou, and is having negative impacts on multiple other wildlife species as well.
+
+Historically, the wolverine ranged across all of Ontario. By 1955, its range had receded substantially to the
+north, but wolverines still occupied a significant portion of the upper Kenogami Forest 30. Today wolverines
+have largely disappeared from Kenogami 31, with only occasional individuals wandering into the area32.
+This dramatic drop-off can be traced back to the forest’s fragmentation. Wolverines, provincially listed as a
+threatened species, have an extremely low tolerance for human activity and require a large range of intact
+forest in order to survive.
+
+Woodland caribou remain in the area, but are in rapid decline. As late as 1950, woodland caribou ranged
+across the entire Kenogami Forest. Today, the threatened species inhabits only 33–49 per cent of the
+area 33. In just 58 years, woodland caribou have been wiped out of up to 67 per cent of the Kenogami
+Forest. And the damage already sustained is likely even more severe than these numbers indicate: recent
+research shows that there is a lag time of up to two decades between when caribou habitat is disturbed
+and when caribou populations die off in the affected area34. An analysis of satellite imagery that applied this
+research to the Kenogami Forest found that the damage that has already been done to Kenogami has the
+potential to cause caribou to be extirpated from 95 per cent of the forest35 (see map).
+
+Potential caribou range recession
+
+Woodland caribou are projected to
+die off in 95 per cent of the Kenogami
+Forest within the next 20 years, as a
+consequence of the damage that has
+already been done.
+
+I
+
+N
+O
+T
+A
+T
+S
+A
+V
+E
+D
+L
+A
+T
+N
+E
+M
+N
+O
+R
+V
+N
+E
+
+I
+
+e
+
+c
+
+a
+
+e
+
+p
+
+n
+
+e
+
+e
+
+r
+
+G
+
+0
+
+
+
+N
+U
+R
+&
+T
+U
+C
+
+0
+
+
+Kenogami Forest Management Unit
+
+Potential Woodland Caribou Recession (2006)
+
+Water
+
+Kenogami Forest Management Unit
+
+5
+Potential Woodland Caribou Recession (2006)
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+km
+
+Projection:
+Lambert Conformal Conic
+False Easting: 0.0
+False Northing: 0.0
+
+Central Meridian: -95.0
+Standard Parallel 1: 49.0
+Standard Parallel 2: 77.0
+Latitude of Origin: 49.0
+
+Water
+
+0
+
+5
+
+10
+
+20
+
+30
+
+40
+
+50
+
+km
+
+Projection:
+Lambert Conformal Conic
+False Easting: 0.0
+False Northing: 0.0
+
+Central Meridian: -95.0
+Standard Parallel 1: 49.0
+Standard Parallel 2: 77.0
+Latitude of Origin: 49.0
+
+The steep decline of this iconic species is largely attributable to the clearcut logging that has wiped out the
+large areas of mature conifer forest that caribou need in order to survive. While the woodland caribou is in
+decline across Ontario, its extirpation from the Kenogami Forest is particularly bad for the species. This is
+because of the forest’s particular location: it overlaps four of the five caribou recovery zones identified by the
+Ontario government, and has an influence on the fifth, as caribou that calve in the fifth recovery zone winter in
+the Kenogami Forest 36.
+
+The critical importance of the Kenogami Forest for species survival extends to numerous other species as well.
+Because the forest sits adjacent to the cut line—the parallel above which industrial logging is not permitted—
+its northern-most intact areas form part of a large, contiguous stretch of forest that is critical habitat for caribou,
+wolverine, marten, and numerous other species. Unfortunately, under the 2005–2010 forest management plan
+and the draft 2010–2011 management plan, many of these areas are slated to be cut.
+
+Sadly, the outlook does not look bright for many of the species living in the Kenogami Forest. The 2005
+independent forest audit for Kenogami37 predicts that 80 per cent of the area’s 17 monitored species,
+including the threatened marten, will decline substantially in the next 100 years38. The current forest
+management plan, written by Kimberly-Clark spin-off Neenah Paper, forecasts a similar trend, predicting that
+14 of 20 species habitat types will decline over the same time period39.
+
+The health and diversity of wildlife species are critical measures of the health of a forest. Research shows
+that the logging that Kimberly-Clark carried out for almost seventy years, and the logging that it continues to
+support today, have severely depleted Kenogami’s animal populations.
+
+Kenogami Forest Management Unit
+
+Potential Woodland Caribou Recession (2006)
+
+Water
+
+0
+
+5
+
+10
+
+20
+
+30
+
+40
+
+50
+
+km
+
+Projection:
+
+Lambert Conformal Conic
+
+False Easting: 0.0
+
+False Northing: 0.0
+
+Central Meridian: -95.0
+Standard Parallel 1: 49.0
+Standard Parallel 2: 77.0
+Latitude of Origin: 49.0
+
+e
+c
+a
+e
+p
+n
+e
+e
+r
+G
+
+1
+
+
+INADEQUATE PROTECTION
+
+“Kimberly-Clark will not knowingly use wood fibre sourced from Forest Areas Requiring
+Protection.”  — Kimberly-Clark Fibre Procurement Policy (2007)
+
+Only 3.2 per cent of Kenogami’s landbase is protected by legislation, compared to a provincial average
+of 12 per cent40. And the protected areas that have been established within the unit are small: the
+smallest is only 0.02 km2 (4.9 acres), while the largest is only 182 km2 (44,973 acres)—substantially
+smaller than the 500 km2 (123,552 acre) area of intactness necessary to maintain ecological integrity,
+maximize carbon storage, and mitigate global warming impacts. What’s worse, these small protected
+areas often do not overlap the ecologically valuable intact areas left within the unit (see map).
+
+Because of this, the Kenogami Forest has been identified as a high priority for additional protected
+areas in northern Ontario 41. In December 2001, a government-appointed task force, which included
+representatives from the Ontario Ministry of Natural Resources, the forest industry, and environmental
+organizations, evaluated the current status of protected areas in Kenogami. It classified 82 per cent of
+the Kenogami Forest as inadequately protected, and 78 per cent as high priority for conservation 42.
+
+Despite this assessment, Kimberly-Clark continues purchase fibre from the Kenogami Forest, even while
+its fibre procurement policy explicitly prohibits the use of fibre from “Forest Areas Requiring Protection.”
+It is able to do this because in drafting the policy, the company defined the term “Forest Areas Requiring
+Protection” in extremely narrow terms that amount to little, if anything, on the ground. Intact forest areas,
+old-growth forest areas, and critical endangered species habitat, for example, do not qualify as forest
+areas requiring protection under Kimberly-Clark’s definition. By drafting its policy this way, Kimberly-Clark
+set itself up to tell customers, shareholders, and the public that it was not sourcing from forest areas
+requiring protection, while continuing to source massive amounts of fibre from intact forests, old-growth
+forests, and threatened species habitats.
+
+Protected areas within the Kenogami Forest
+
+The protected areas in
+Kenogami are small, and often
+do not overlap the intact areas
+left within the forest.
+
+I
+
+N
+O
+T
+A
+T
+S
+A
+V
+E
+D
+L
+A
+T
+N
+E
+M
+N
+O
+R
+V
+N
+E
+
+I
+
+N
+U
+R
+&
+T
+U
+C
+
+
+
+
+Kenogami Forest Management Unit
+
+Large Intact Forest Landscapes (2006)
+
+Protected Areas
+
+Kenogami Forest Management Unit
+
+Water
+
+Large Intact Forest Landscapes (2006)
+
+km
+
+0
+
+5
+
+10
+
+20
+
+30
+
+40
+
+50
+
+Projection:
+Lambert Conformal Conic
+False Easting: 0.0
+False Northing: 0.0
+
+Central Meridian: -95.0
+Standard Parallel 1: 49.0
+Standard Parallel 2: 77.0
+Latitude of Origin: 49.0
+
+Protected Areas
+
+Water
+
+0
+
+5
+
+10
+
+20
+
+30
+
+40
+
+50
+
+km
+
+Projection:
+Lambert Conformal Conic
+False Easting: 0.0
+False Northing: 0.0
+
+Central Meridian: -95.0
+Standard Parallel 1: 49.0
+Standard Parallel 2: 77.0
+Latitude of Origin: 49.0
+
+EXCESSIVE CLEARCUT LOGGING
+
+“The failure of pulp suppliers to follow sustainable forestry practices will result in the
+cancellation of purchasing agreements.”  — Ken Strassner, Kimberly-Clark Vice President
+of Global Environment in a letter to Greenpeace dated June 6, 2003.
+
+While the protected areas in Kenogami are small, the cuts are massive. Over the last 15
+years, an average of 2,320 hectares (5,730 acres) has been logged each year43, mainly in
+large clearcuts. In the last five years, that average rose to 2,492 hectares (6,155 acres) per
+year44. In some areas, sites cut over a number of years have resulted in massive individual
+clearcuts stretching across as many as 10,807 hectares (26,693 acres)45.
+
+The rate of logging in the Kenogami Forest, combined with a lack of adequate protection,
+explains the rapid loss of intact and old-growth forest areas described above, and
+the decline of the numerous species that depend upon those areas for their survival.
+In Kenogami’s 2005–2010 management plans, the size and rate of cuts remain high.
+Planned clearcuts average 483 hectares (1193 acres) in size—substantially larger than the
+maximum size of 260 hectares (642 acres) laid out in government forestry guidelines46, and
+substantially larger than many of the protected areas within the unit.
+
+The rapid and destructive clearcutting that has dominated logging in the Kenogami Forest
+runs starkly counter to Kimberly-Clark’s public commitments to sustainability—all the more
+so since Kimberly-Clark itself planned and carried out this cutting for decades.
+
+THE KENOGAMI FOREST: THEN AND NOW
+
+1937
+
+2008
+
+With the exception of two rail lines, the forest was
+almost entirely intact.
+
+Seventy-one per cent of the forest is fragmented.
+
+The forest had a natural level of old-growth stands.
+
+Woodland caribou ranged across the entire forest.
+
+The amount of old-growth in the forest is projected to decline by as much
+as 50 per cent in coming years, due to logging that has already been
+done.
+
+Woodland caribou range across only 33-49 per cent of the forest.
+Scientists project that they will disappear from 95 per cent of the forest
+within the next 20 years, due to the damage that has already been done.
+
+Wolverines inhabited a significant portion of the
+forest’s northern reaches.
+
+Wolverines have disappeared from the Kenogami Forest.
+
+e
+c
+a
+e
+p
+n
+e
+e
+r
+G
+
+
+
+
+Kenogami Forest Management Unit
+
+Large Intact Forest Landscapes (2006)
+
+Protected Areas
+
+Water
+
+0
+
+5
+
+10
+
+20
+
+30
+
+40
+
+50
+
+km
+
+Projection:
+
+Central Meridian: -95.0
+
+Lambert Conformal Conic
+
+Standard Parallel 1: 49.0
+
+False Easting: 0.0
+
+False Northing: 0.0
+
+Standard Parallel 2: 77.0
+
+Latitude of Origin: 49.0
+
+UNSUCCESSFUL REGENERATION
+
+“The small percentage of Boreal fibre we use is harvested responsibly and promptly reforested...”
+— Kimberly-Clark Sustainable Forestry Practices Fact Sheet (2008)
+
+Once a forest is logged, no amount of replanting or restoration can bring it back to its natural state: research
+shows that second-growth forests have significantly lower levels of biodiversity than intact forests, and that
+they are less resilient in the face of global warming impacts like fires and insect outbreaks 47,48,49. Because
+of this, Kimberly-Clark’s oft-stated claim that the areas of Boreal Forest it purchases from are “promptly
+reforested” is a dubious one. But in the case of the Kenogami Forest, Kimberly-Clark and its successors
+have failed even to restore the land they logged to viable second-growth conifer forest.
+
+Logging companies operating in Ontario are legally required to regenerate the forests they cut. But a 2005
+independent forest audit classified 17 per cent of the productive landbase in the Kenogami Forest as “barren
+and scattered” and “not satisfactorily regenerated”50—an increase of 460 per cent above 1990 levels51.
+
+One of the consequences of this failed regeneration is an imbalance in the age class structure of the forest.
+Because of past problems, there is an unusually low number of young conifer trees within the forest. Not only
+does this weaken the health and resilience of the forest, but it also threatens the long-term fibre supply of the
+pulp mill. With a shortage of younger trees ready to mature to a commercially valuable age, there will be less
+wood available to supply the forest industry in the area over the next 70 years. Companies will either face a
+fibre supply shortage, or move further and further north, fragmenting more and more pristine forests to feed
+their mills.
+
+BAD PLANNING
+
+“The Corporation shall practice sustainable forestry on its own and managed lands through
+establishment of a land stewardship ethic that integrates the ongoing management of these lands as a
+continuing source of fibre for Corporate products with appropriate consideration of soil, air and water
+quality, biological diversity, wildlife and aquatic habitat, recreation and aesthetics.” — Kimberly-Clark
+Environmental Policy (1992)
+
+Many of the problems existing on the Kenogami Forest can be traced back to bad planning. An
+independent audit, for example, found that Kenogami’s 2000–2005 management plans made inaccurately
+high assumptions about how fast the forest would grow, and therefore overestimated how much forest
+would be available to be cut 52. As a result, the plans assigned more area to be logged than they would
+have given more accurate inputs. This mistake led to at least five years during which the area logged
+exceeded what would otherwise have been allowed.
+
+This and other problems with Kenogami’s forest management plans are underpinned by the  planners’ reliance
+on a flawed model called the Strategic Forest Management Model (SFMM). The SFMM’s heavy reliance on
+assumptions can lead to inappropriate and sometimes damaging management prescriptions53. Planners using
+the SFMM believe they can estimate, for example, how fast the forest would grow under natural conditions
+and how often it would be affected by fires. They use these estimates to create a hypothetical picture of how
+the forest would have worked in the absence of human intervention, and then make plans on that basis.
+Because this hypothetical picture reflects only one possible state of the forest without any variation to account
+for a range of possible local conditions, it can produce very inaccurate results. The five-year over-cutting
+documented above is just one example of the problems this model can produce.
+
+Higher standards such as those set by the Forest Stewardship Council, by comparison, require intensive
+analyses of pre-industrial conditions. These take into account historical records, fire surveys, pollen
+analyses, and other information that allows planners to determine what the forest composition actually was
+historically—rather than what it might have been, theoretically—and to project forward accordingly. If these
+types of analysis were combined with ecosystem-based management54, the planning regime applied to the
+Kenogami Forest could ensure true sustainability. If instead the forest continues to be managed the way it
+has been in the past, intact forest areas, old-growth forest areas, and species will continue to be lost.
+
+I
+
+N
+O
+T
+A
+T
+S
+A
+V
+E
+D
+L
+A
+T
+N
+E
+M
+N
+O
+R
+V
+N
+E
+
+I
+
+e
+
+e
+
+c
+
+c
+
+a
+
+a
+
+e
+
+e
+
+p
+
+p
+
+n
+
+n
+
+e
+
+e
+
+e
+
+e
+
+r
+
+r
+
+G
+
+G
+
+
+
+
+
+
+
+
+
+N
+U
+R
+&
+T
+U
+C
+
+
+
+
+LACK OF COMPLIANCE WITH REGULATIONS
+
+“At the very least, we expect our suppliers to comply with all applicable environmental laws and
+regulations where they operate.” — Kimberly-Clark Guide for Suppliers (2007)
+
+In addition to years of poor planning, close examination of Kenogami’s plans and audits reveals a lack of
+compliance with government-imposed regulations. During field visits in 2005, for example, the Ministry
+of Natural Resources found that Neenah Paper had failed to complete 50 per cent of its inspection
+reports 55. Completion of these inspection reports is mandatory under provincial compliance guidelines.
+
+When a company fails to comply with reporting requirements, it is impossible for the government or the
+public to know if the logging happening in an area is being carried out as planned, or if any problems
+have arisen. In this particular case, one of the problems revealed in Kenogami’s 2005 audit was that
+significant amounts of wood had been cut and then left unused on the side of the road: “There were five
+field sites on the audit where greater than 100 pieces of merchantable conifer tree lengths or processed
+logs in 2.5 metre or 5.1 metre [8.2 or 16.7 foot] lengths were noted. As well, poplar butts, large tops, or
+tree lengths were found at four field sites”56. None of this was ever documented by Neenah Paper. Both
+this incredibly wasteful practice and the company’s failure to report it are breaches of legal requirements
+and compliance guidelines in the province of Ontario.
+
+Further, the audit revealed that Neenah Paper had followed through on only 15 of the 23
+recommendations made in the independent forest audit performed five years earlier 57. The
+recommendations that had not been implemented included collecting better information about the
+winter habitat of caribou, improving water crossings, and reducing the amount of area lost to slash.
+
+This lack of compliance with government regulations contravenes Ontario provincial law and breaches
+Kimberly-Clark’s stated commitment to source only from suppliers that comply fully with local laws
+and regulations.
+
+“ONCE A FOREST IS LOGGED,
+NO AMOUNT OF REPLANTING
+OR RESTORATION CAN BRING IT
+BACK TO ITS NATURAL STATE.”
+
+e
+c
+a
+e
+p
+n
+e
+e
+r
+G
+
+
+
+
+Social Conflict
+
+I
+
+T
+C
+L
+F
+N
+O
+C
+L
+A
+C
+O
+S
+
+I
+
+e
+
+e
+
+e
+
+c
+
+c
+
+c
+
+a
+
+a
+
+a
+
+e
+
+e
+
+e
+
+p
+
+p
+
+p
+
+n
+
+n
+
+n
+
+e
+
+e
+
+e
+
+e
+
+e
+
+e
+
+r
+
+r
+
+r
+
+G
+
+G
+
+G
+
+
+
+
+
+
+
+
+
+
+
+
+
+N
+U
+R
+&
+T
+U
+C
+
+
+
+
+For years, First Nations in Kenogami have been struggling to assert their rights over the
+land, and workers have been pushing for more job security. These communities’ frustration
+over their lack of consultation and control reached a head in 2006, when Neenah Paper’s
+relinquishment of ownership and control in the area created an opportunity for change:
+workers and First Nations could have been integral to the decision-making process about
+what the future of the Kenogami Forest would look like. But instead, Neenah Paper,
+Buchanan Forest Products, and the Ontario government struck a deal behind closed doors,
+and communities were left out once again. Blockade threats, legal action, and labour
+pickets ensued—all of which continue today amidst unresolved problems.
+
+FIRST NATIONS CHALLENGES
+
+“It is the intent of this policy to: Recognize human rights on a global basis and
+encourage the abolition of discriminatory laws and practices.” — Kimberly-Clark
+Human Rights Policy (2008)
+
+“The lands of the Kenogami Forest have been used by our Aboriginal people for
+generations and are recognized in both the 1850 Robinson Superior Treaty and
+Treaty 9. These Aboriginal rights are not being respected today within the
+Kenogami Forest.” — Veronica Waboose, Chief of Long Lake #58 First Nation (May 2006)
+
+The Kenogami Forest lies within the treaty lands of a number of First Nations. But these
+First Nations have largely been left out of the planning and management of the land, and
+deprived of the economic benefits of the industrial activity happening there. While these
+problems are longstanding and deeply rooted, recent changes to the forest’s management
+have prompted these communities to assert their rights and jurisdiction more strongly.
+Since 2006 when the Kenogami forest management license was last flipped, two separate
+actions have been launched by First Nations against the Ontario government and the
+companies operating in Kenogami.
+
+On December 13, 2006, Chief Sam Kashkeesh of Aroland First Nation issued a petition
+to the Ontario government to cease and desist all cutting in the Kenogami Forest, and
+announced that his community was prepared to stop all operations in Kenogami if its
+concerns were not addressed. According to Kashkeesh, Aroland’s continued requests
+to be included in Kenogami’s forestry planning have been ignored, culminating in the
+community’s exclusion from the discussions between the Ministry of Natural Resources
+and industry over the transfer of the Kenogami management license from Neenah Paper
+to Terrace Bay Pulp (Buchanan) and exacerbated by Buchanan’s employment of out-
+of-province workers rather than Aroland members. “This is not just a matter of respect,
+mutual prosperity and regional collaboration, but also an issue of legal duty and equality
+for Aboriginal people in forestry management,” said Kashkeesh in a December 2006 press
+release 58. “The non-cooperation from the government and industry is insulting and in very,
+very bad taste.”
+
+Then, in March 2007, Aroland and the eight other communities that make up the Matawa
+First Nations filed a legal case against the Ontario government, Neenah Paper, and
+Buchanan over the way the Kenogami Forest was being managed. The Matawa First
+Nations (Aroland, Eabametoong, Constance Lake, Neskantaga, Ginoogaming, Marten
+Falls, Nibinamik, Longlake #58, and Webequie) all have reserves either in or adjacent to the
+Kenogami Forest and therefore have treaty rights, including rights to harvest, hunt, fish, and
+trap in the Kenogami Forest and beyond.
+
+e
+c
+a
+e
+p
+n
+e
+e
+r
+G
+
+
+
+
+Matawa’s law case seeks two ends: first, to nullify the Ministry of Natural Resources’ amendment of
+the management license and its transfer from Neenah to Terrace Bay Pulp/Buchanan on the basis that
+the people of Matawa were consulted neither about either the transfer nor the terms of the transferred
+license; and second, to obtain orders from the court requiring the Minister of Natural Resources to fulfill
+the ministry’s obligations under Term and Condition 34 of the Class Environmental Assessment Order,
+and to ensure that the forestry company fulfils its obligations to the First Nations under the terms of
+the license59. Term and Condition 34 requires the ministry to undertake measures to provide Aboriginal
+people with a more equal share of the benefits provided by forest management planning, including more
+equal management and decision-making capacity, as well as employment, and business, economic,
+or financial benefits. The lawsuit also names Terrace Bay Pulp Inc. and the Neenah Paper Company of
+Canada as respondents. “So far, little has been done to honour or implement these legal requirements,”
+said Chief Veronica Waboose in the press release announcing Matawa’s legal action. According to the
+press release, “the non-cooperation and disregard for regional collaboration from both government and
+industry has left the Matawa First Nations with no other options to be heard”60.
+
+Kimberly-Clark continues to purchase from the Kenogami Forest despite the multiple ongoing conflicts
+between the companies operating there and the local First Nations. And no matter what claims it makes to
+social responsibility, no company that sources from areas logged without the prior and informed consent
+of local Aboriginal communities is a socially responsible one. As Tara Scurr of Amnesty International said
+recently, “the province of Ontario and private companies can’t hide behind out-dated forest management
+laws that fail to respect and uphold the rights of consultation, accommodation and consent”61.
+
+LABOUR CONFLICTS
+
+“Social responsibility—Kimberly-Clark’s duty to our employees, customers, consumers, and the
+communities in which we operate, and the global community in general—is a fundamental value
+of our company.” — Kimberly-Clark Sustainability Report (2003)
+
+“We have seen this government, in an attempt to help the forest industry, transfer a license to a
+company that does not care about how the forest is harvested. They do not care about providing
+stable, year-round, long-term employment that ensures a future for the forest workers and the
+communities that depend on the forest industry jobs… The government is supportive of the
+destruction being allowed on our crown forest, at the price of the communities.” — Joe Hanlon,
+President, United Steelworkers Union Local 2693
+
+At the same time as First Nations were more actively starting to oppose their exclusion, the Steelworkers
+Union was challenging the treatment of workers in the Kenogami Forest. In January 2006, the woodlands
+workers employed by Neenah Paper (then holder of the Kenogami management license and owner of the
+Terrace Bay pulp mill) went on strike. The strike was a reaction to several concessions sought by Neenah,
+including a 6.4–per cent wage cut, elimination of the defined pension plan, and other cuts
+to benefits.
+
+The 240 striking workers were mainly loggers and truck drivers, some of whom had been working for
+Kimberly-Clark or Neenah Paper for almost 40 years. Instead of resolving the dispute, Neenah Paper
+closed the Terrace Bay mill and its associated woodlands operations and sold them to Buchanan, leaving
+hundreds of workers still out on strike, and now without jobs. “Put yourselves in the workers’ shoes,”
+said Steelworkers local president Joe Hanlon before a government committee. “Just imagine what these
+workers and their families are thinking each and every day. Imagine the stress they must feel. If it’s not job
+losses, then maybe it’s major concessions or drastic changes to the way the work is performed”62.
+Newly in charge, Buchanan sought the same concessions as Neenah, plus additional ones including as
+much as a 50–per cent wage rollback. When the workers continued to resist by staying out on strike,
+Buchanan reacted by denying any obligation to Neenah’s former workers, and contracting workers from
+outside the region—a move opposed by both the Steelworkers and the Matawa First Nations.
+
+I
+
+T
+C
+L
+F
+N
+O
+C
+L
+A
+C
+O
+S
+
+I
+
+N
+U
+R
+&
+T
+U
+C
+
+
+
+
+With the dispute still unresolved a year later, workers demonstrated in front of Buchanan Forest
+Products’ Thunder Bay office, with the aim of bringing attention to their issues and pressuring
+Buchanan to sit down with them to negotiate a collective agreement. The workers asserted that
+their strike was a legal one, and that Buchanan Forest Products, as the new owner of the Terrace
+Bay mill, had a legal duty to negotiate an agreement with them. But instead of sitting down to talk,
+Buchanan stated bluntly that it had no obligation to the workers whatsoever. Still on the picket
+line another year later, 75 workers gathered outside of the Ministry of Natural Resources office in
+Thunder Bay in January 2008. Once again, they decried the companies for shutting them out, and
+denounced the government for allowing them to do so. With the strike now stretching on beyond
+two years, none of the companies involved has agreed to sit down with the workers.
+
+Because Kimberly-Clark built the Terrace Bay pulp mill and established the town of Terrace Bay
+to staff it, the company bears a special responsibility toward the workers there. But the company
+has washed its hands of any responsibility for their well-being whatsoever. Today, Kimberly-Clark
+continues to buy hundreds of thousands of tonnes of pulp from the Terrace Bay mill every year,
+even as workers who served the company for decades are forced into unemployment and protests
+on the picket line. This is not consistent with the image of community care the company promotes.
+
+KIMBERLY-CLARK AT A GLANCE
+
+Annual revenue: US $16.7 billion
+Annual profit: US $5.7 billion
+Market capitalization: US $27.5 billion
+
+Major brands: Kleenex, Viva, Scott, Cottonelle, Andrex, Scottex, Hakle
+Number of countries where Kimberly-Clark has operations: 37
+Numbers of countries where Kimberly-Clark products are sold: over 150
+Number of employees: 55,000
+Number of employees laid off since 2005: 6000
+
+Amount of virgin tree pulp used annually: 3.1 million metric tonnes (3.4 million tons)
+Per cent of total fibre used in Kimberly-Clark products sold in North America that comes from recycled sources: 18
+Per cent of total fibre used in Kimberly-Clark consumer brands sold in North America that comes from
+recycled sources:  Less than 1
+
+Amount of virgin tree pulp purchased from the Terrace Bay pulp mill annually: 210,000 tonnes (231,485 tons)
+Per cent of Kimberly-Clark’s global virgin fibre supply purchased from the Terrace Bay pulp mill: 7
+Per cent of the Terrace Bay pulp mill’s total output purchased by Kimberly-Clark: 55
+
+Chief Executive Officer and President of the Board:
+Thomas Falk
+972-281-1308
+thomas.falk@kcc.com
+
+Vice President, Global Environment:
+Ken Strassner
+770-587-8634
+ken.stassner@kcc.com
+
+Kimberly-Clark customer service:
+1-888-525-8388
+
+e
+c
+a
+e
+p
+n
+e
+e
+r
+G
+
+
+
+
+Conclusion
+
+I
+
+N
+O
+S
+U
+L
+C
+N
+O
+C
+
+N
+U
+R
+&
+T
+U
+C
+
+0
+
+
+e
+
+e
+
+e
+
+c
+
+c
+
+c
+
+a
+
+a
+
+a
+
+e
+
+e
+
+e
+
+p
+
+p
+
+p
+
+n
+
+n
+
+n
+
+e
+
+e
+
+e
+
+e
+
+e
+
+e
+
+r
+
+r
+
+r
+
+G
+
+G
+
+G
+
+0
+
+0
+
+0
+
+
+
+
+
+
+
+In just 70 years, the Kenogami Forest has been turned from a vast expanse of healthy, near-
+pristine forest, to a severely damaged landscape rife with social and environmental problems.
+The fact that Kimberly-Clark planned and implemented the destructive logging that caused
+these problems while at the same assuring its customers, its shareholders, and the public
+that all its operations were environmentally sustainable and socially beneficial speaks to the
+company’s lack of integrity—a lack of integrity that appears to be endemic within the company.
+
+In 2006, a reporter confronted Kimberly-Clark spokesperson Dave Dickson about his company’s
+broken promise not to purchase fibre from virgin rainforests. He responded, simply, that “some
+of our recent public statements have reflected a higher standard than this policy requires and
+have overstated our actual practices”63. In light of the findings of this report, it seems that
+Kimberly-Clark’s policies and public statements overstate the company’s actual practices with
+alarming consistency.
+
+There is no way for Kimberly-Clark to undo what it has already done to the Kenogami Forest—
+sadly, most of the damage is irreversible. But it can use its purchasing power to ensure that
+Kenogami’s future is brighter than its past. By adopting a policy that prohibits the use of
+fibre from Endangered Forests, including intact forests and threatened species habitat; that
+makes a meaningful commitment to fibre certified by the Forest Stewardship Council; and that
+prohibits the use of fibre from areas logged without the prior and informed consent of local First
+Nations, Kimberly-Clark can ensure that it is supporting only the best types of forestry. And
+by setting time-bound targets for increasing the amount of recycled content across its full line
+of products, the company can dramatically reduce its reliance on virgin fibre over the coming
+years. Given Kimberly-Clark’s poor record on compliance, it must also enact clear rules for
+policy implementation, including regular third-party auditing and appropriate mechanisms for
+monitoring, reporting, and enforcement.
+
+These new policies and practices are crucial for the future of all the forests across Canada
+and around the world from which Kimberly-Clark purchases fibre: the Kenogami Forest is
+just one example of the damage being wrought for the production of Kleenex and other
+disposable tissue products. For the sake of communities and ecosystems across the
+globe, Kimberly-Clark needs to stop hiding behind ineffective policies and deceptive public
+statements, and start working with First Nations, workers, and environmental groups to
+implement practices that make a difference for people and for the environment.
+
+“THERE IS NO WAY FOR KIMBERLY-
+CLARK TO UNDO WHAT IT HAS
+ALREADY DONE TO THE KENOGAMI
+FOREST—SADLY, MOST OF THE
+DAMAGE IS IRREVERSIBLE.”
+
+e
+c
+a
+e
+p
+n
+e
+e
+r
+G
+
+1
+
+
+ENDNOTES
+
+1  Greenpeace. 2006. Chain of Lies: The Truth About Kimberly-Clark’s Use of Ancient
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+Rainforests for Tissue Products.
+As defined by Ecological Components of Endangered Forests. Forest Ethics, Greenpeace,
+Natural Resources Defense Council, and Rainforest Action Network, April 2006.
+The Forest Stewardship Council (FSC) is an independent body that certifies forests that
+are being managed according to standards of responsible management. The standards
+set by the FSC are the strictest and most credible currently available and include a
+robust chain of custody that allows companies to properly track the source of their pulp,
+paper and lumber. It is the only body of standards supported by most conservation
+organizations, and the only one that recognizes cultural values and indigenous rights.
+A forest management unit (FMU) is a parcel of forest land that is harvested, regenerated,
+and managed as a single entity. In Ontario, the location, shape, and management of FMUs
+are determined by the provincial government.
+Apps, MJ, WA Kurz, RJ Luxmoore, LO Nilsson, RA Sedjo, R Schmidt, LG Simpson, and
+TS Vinson. 1993. Boreal forests and tundra. Water, Air, and Soil Pollution 70, 39-53.
+Through the years, the Terrace Bay pulp mill and its associated forestry operations were
+held by various Kimberly-Clark subsidiaries and by the Kimberly-Clark Corporation itself.
+The Kenogami forest management unit is an amalgamation of three former management
+units: the Longlac forest management unit, the Nakina forest management unit, and the
+Geraldton company management unit. At the time of their amalgamation in 1997, all these
+units were licensed to Kimberly-Clark.
+
+8  Between 1952 and 1997, the responsibility for forest regeneration shifted a number of
+times between the forest industry and the Ontario Ministry of Natural Resources. Until
+1963, license holders were responsible for the regeneration of Crown forest lands. From
+1963 to 1984, the government took over, in part because companies were not fulfilling
+their responsibilities. Starting in 1985, companies implemented reforestation using
+government funds, and then, in 1997, responsibility for all reforestation and regeneration
+shifted back to industry through the Sustainable Forest License system.
+2005–2010 Forest Management Plan for the Kenogami Forest. Ontario Ministry of Natural
+Resources, Nipigon District, Northwest Region and Neenah Paper Company of Canada,
+SFL No.542256.
+
+9
+
+30  Dawson, FN. 2000. Report on the status of the wolverine (Gulo gulo) in Ontario.
+Species status report for the Committee on the Status of Species at Risk in
+Ontario (COSSARO). Ontario Ministry of Natural Resources, Thunder Bay,
+Ontario, Canada. 39 pp.
+Ibid.
+
+31
+32  Ontario Wolverine Project, unpublished data.
+33  Kenogami’s forest management plan (based on the Strategic Forest Management
+Model—see section “Bad planning”) only considers caribou in 33 per cent of
+the unit, which indicates that managers conclude that caribou are not a factor in
+the rest of the unit. An analysis by Ontario Nature indicates that they may still be
+present in 49 per cent of the unit. (Conservation Priorities on the Kenogami Forest.
+Prepared by Julee Boan, Ontario Nature, June 2006.)
+
+34  Vors, LS, JA Schaefer, BA Pond, AR Rodgers, and BR Patterson. 2007. Woodland
+caribou extirpation and anthropogenic landscape disturbance in Ontario. Journal of
+Wildlife Management 71(4).
+
+35  Lee, P. 2007. Recent Anthropogenic Changes within the Boreal Forests of Ontario
+and Their Potential Impacts on Woodland Caribou. (A Global Forest Watch Canada
+Report.) Edmonton, Alberta: Global Forest Watch Canada.
+
+36  Ontario woodland caribou recovery team. 2005. Recovery strategy for forest
+
+dwelling woodland caribou (Rangifer tarandus caribou) in Ontario (Draft). Species at
+Risk Unit, Biodiversity Section, Fish and Wildlife Branch, Ontario Ministry of Natural
+Resources, Peterborough, Ontario.
+
+37  Regular independent, third-party audits are required under Ontario forest
+
+management planning regulations. Once these audits are submitted to the
+provincial legislature, they become part of the public record.
+
+38  Kenogami Forest Independent Forest Audit 2000–2005. Prepared by KBM Forestry
+
+Consultants Inc, Thunder Bay, Ontario.
+
+39  2005–2010 Forest Management Plan for the Kenogami Forest. Ontario Ministry
+of Natural Resources, Nipigon District, Northwest Region and Neenah Paper
+Company of Canada, SFL No.542256.
+
+40  Twelve per cent of the landbase allocated for logging within Ontario is protected by
+
+10  2010–2011 Contingency Plan for the Kenogami Forest. Ontario Ministry of Natural
+
+legislation.
+
+Resources, Nipigon District, Northwest Region and Terrace Bay Pulp Inc., SFL No.542256.
+
+41  Room to Grow Task Group. December 2001. Methodology for identifying and
+
+11  Quoted in Briony Smith. 2005. Battle for the Boreal. The Martlet. November 3, 2005.
+12  Kimberly-Clark. 2004. Sustaining Our World: Health, Hygiene and Kimberly-Clark.
+
+Kimberly-Clark’s 2004 Sustainability Report.
+
+13  2005–2010 Forest Management Plan for the Kenogami Forest. Ontario Ministry of Natural
+Resources, Nipigon District, Northwest Region and Neenah Paper Company of Canada,
+SFL No.542256.
+Ibid.
+
+14
+15  The Terrace Bay pulp mill is set up to produce both softwood and hardwood high quality
+bleached kraft pulp. Currently, however, the mill is producing 100 per cent softwood pulp.
+For this reason, only softwood is accounted for in this analysis of fibre sources.
+
+16  Lee, P. 2007. Recent Anthropogenic Changes within the Boreal Forests of Ontario and
+Their Potential Impacts on Woodland Caribou. (A Global Forest Watch Canada Report).
+Edmonton, Alberta: Global Forest Watch Canada. 51 pp.
+Ibid.
+
+17
+18  2005–2010 Forest Management Plan for the Kenogami Forest. Ontario Ministry of Natural
+Resources, Nipigon District, Northwest Region and Neenah Paper Company of Canada,
+SFL No.542256.
+
+19  2010–2011 Contingency Plan for the Kenogami Forest. Ontario Ministry of Natural
+Resources, Nipigon District, Northwest Region and Terrace Bay Pulp Inc., SFL
+No.542256.
+
+20  Greenpeace. 2006. Roadmap to Recovery: The World’s Last Intact Forest Landscapes.
+21  Noss RF. 2001. Beyond Kyoto: Forest management in a time of rapid climate change.
+
+Conservation Biology 15, 578-590.
+
+assessing candidate sites for completing the system of representation in the Ontario
+Living Legacy planning area. Ontario Ministry of Natural Resources.
+Ibid.
+
+42
+43  2005–2010 Forest Management Plan for the Kenogami Forest. Ontario Ministry
+of Natural Resources, Nipigon District, Northwest Region and Neenah Paper
+Company of Canada, SFL No.542256.
+Ibid.
+
+44
+45  2005–2010 Forest Management Plan for the Kenogami Forest. Ontario Ministry
+of Natural Resources, Nipigon District, Northwest Region and Neenah Paper
+Company of Canada, SFL No.542256.
+
+46  While the guidelines do allow cuts larger than 260 hectares, each one needs
+to be reported and validated as an exception. (Ontario Ministry of Natural
+Resources. 2002. Forest Management Guide for Natural Disturbance Pattern
+Emulation Guidelines. Ontario Ministry of Natural Resources Toronto: Queen’s
+Printer for Ontario.)
+
+47  Noss, RF. 2001. Beyond Kyoto: Forest management in a time of rapid climate
+
+change. Conservation Biology 15, 578-590.
+
+48  Frelich LE, and PB Reich. 2003. Perspectives on development of definitions and
+
+values related to old-growth forests. Environmental Reviews 11, S9–S22.
+49  Jump AS, and J Penuelas. 2005. Running to stand still: Adaptation and the
+response of plants to rapid climate change. Ecology Letters 8, 1010–1020.
+
+50  Kenogami Forest Independent Forest Audit 2000–2005. Prepared by KBM Forestry
+
+Consultants Inc, Thunder Bay, Ontario. 2006.
+
+S
+E
+T
+O
+N
+D
+N
+E
+
+N
+U
+R
+&
+T
+U
+C
+
+
+
+
+22  Jump AS, and J Penuelas. 2005. Running to stand still: Adaptation and the response of
+
+51  While the audit noted that upcoming regeneration surveys were expected to
+
+plants to rapid climate change. Ecology Letters 8, 1010-1020.
+
+23  Forest Ethics, Greenpeace, Natural Resources Defense Council, and Rainforest Action
+
+Network. 2006. Ecological Components of Endangered Forests.
+
+24  Analysis produced by Global Forest Watch Canada, 2008.
+25  Ferguson C, EA Nelson, and GG Sherman. 2008. Turning Up the Heat: Global Warming
+
+and the Degradation of Canada’s Boreal Forest. Toronto: Greenpeace Canada.
+26  According to the document “Old Growth Definitions for Ontario”, 90 years is the youngest
+age at which old-growth characteristics occur for dominant tree species in the eastern
+Boreal Forest like poplar, birch, and jack pine. For other tree species, the age of onset for
+old-growth characteristics is significantly higher—up to 160 years for the lowland black
+spruce, for example. For other species less common to the region, the age of onset can
+be lower—balsam fir and red maple start to exhibit old-growth characteristics at 70 and 80
+years, respectively. For the purposes of this analysis, we have defined “old-growth” as stands
+90 years and older, across all tree species. Given that many species will not exhibit old-
+growth traits until they are significantly older than 90 years, this definition is a generous one
+that likely over-estimates the amount of old-growth forest in Kenogami. (P Uhlig, A Harris, G
+Craig, C Bowling, B Chambers, B Naylor, and G Beemer. 2001. “Old growth forest definitions
+for Ontario.” Ontario Ministry of Natural Resources. Toronto: Queen’s Printer for Ontario.)
+27  2005–2010 Forest Management Plan for the Kenogami Forest. Ontario Ministry of Natural
+Resources, Nipigon District, Northwest Region and Neenah Paper Company of Canada,
+SFL No.542256.
+
+28  Some iterations of this policy have referred to “ecologically significant” rather than
+
+“environmentally significant” old-growth forests.
+
+29  2005–2010 Forest Management Plan for the Kenogami Forest. Ontario Ministry of Natural
+Resources, Nipigon District, Northwest Region and Neenah Paper Company of Canada,
+SFL No.542256.
+
+reduce the amount of land labeled as “barren and scattered” and “not satisfactorily
+regenerated,” but also acknowledged that these surveys needed to be improved.
+52  Kenogami Forest Independent Forest Audit 2000–2005. Prepared by KBM Forestry
+
+Consultants Inc, Thunder Bay, Ontario. 2006.
+
+53  See, e.g., Wildlands League. 2007. “Ontario’s Timber Harvesting Levels: Science or
+
+Wishful Thinking?”
+
+54  Ecosystem-based management is a type of forest management which determines
+how much of a forest can be logged only after ecological values are preserved and
+protected.
+
+55  Kenogami Forest Independent Forest Audit 2000–2005. Prepared by KBM Forestry
+
+Consultants Inc, Thunder Bay, Ontario. 2006.
+Ibid.
+Ibid.
+
+56
+57
+58  Press release, December 13, 2006. “Aroland First Nation prepares to stop access
+
+and operations in Kenogami Forest.”
+
+59  Press release, March 13, 2007. “First Nations file to protect rights in Kenogami
+
+Forest.” Released by Matawa First Nations tribal council.
+Ibid.
+
+60
+61  Press release, February 29, 2008. “Grassy Narrows: Paper company sets an
+
+example for the Province of Ontario to follow.”
+
+62  Legislative Assembly of Ontario. Committee Transcripts: Standing Committee on
+Finance and Economic Affairs, January 23, 2007—Pre-budget consultations.
+63  Quoted in Marc Gunther. 2006. “Are Kleenex tissues wiping out forests?” Fortune.
+
+September 27, 2006.
+
+P
+r
+i
+n
+t
+e
+d
+o
+n
+1
+0
+0
+p
+e
+r
+
+c
+e
+n
+t
+p
+o
+s
+t
+-
+c
+o
+n
+s
+u
+m
+e
+r
+
+r
+e
+c
+y
+c
+e
+d
+
+l
+
+,
+
+l
+
+c
+h
+o
+r
+i
+n
+e
+-
+f
+r
+e
+e
+p
+a
+p
+e
+r
+
+t
+h
+a
+t
+
+i
+
+f
+
+s
+m
+a
+n
+u
+a
+c
+t
+u
+r
+e
+d
+w
+
+i
+
+i
+t
+h
+w
+n
+d
+-
+g
+e
+n
+e
+r
+a
+t
+e
+d
+e
+n
+e
+r
+g
+y
+.
+
+www.greenpeace.ca
+
+Greenpeace Canada
+
+250 Dundas Street West, Suite 605, Toronto, Ontario, M5T 2Z5
+454, avenue Laurier Est, 3e étage, Montréal (Québec),  H2J 1E7
+1726 Commercial Drive, Vancouver, British Columbia, V5N 4A3
+6238 - 104 Street NW, Edmonton, Alberta, T6H 2K9
+
+1 800 320-7183
+

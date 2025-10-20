@@ -1,0 +1,4178 @@
+The High Cost
+of Cheap Tuna
+
+US Supermarkets, Sustainability,
+and Human Rights at Sea
+2 n d EDI T ION
+
+Greenpeace is an independent campaigning
+organization that uses peaceful protest and creative
+communication to expose global environmental
+problems and to promote solutions that are
+essential to a green and peaceful future.
+
+Published February 2023 by
+Greenpeace USA*
+702 H Street NW Suite 300
+Washington, DC 20001
+Tel: 202.462.1177
+
+Written by: Mallika Talwar and Kieran Mulvaney
+
+Edited by: Sari Heidenreich and
+Marilu Cristina Flores
+
+Design by: Kyle Mckibbin
+
+Cover © Paul Hilton / Greenpeace
+
+Acknowledgement & Special thanks to:
+John Hocevar, Asia Arminio, Josh Stride,
+Tegan Gregory, Tanya Brooks
+
+greenpeace.org
+
+* Greenpeace Inc. is a registered Internal Revenue
+Service 501(c)(4) nonprofit entity that operates in
+the United States of America.
+
+2  HIGH COST OF CHEAP TUNA 2ND EDITION
+
+Table of Contents
+
+4  2022 Tuna Retailer Scorecard
+5  Introduction
+8  Results & Findings
+
+ 17  Conclusion
+ 18  Retailer Profiles
+ 35  References
+ 37  Appendix: 2022 Retailer Survey
+
+HIGH COST OF CHEAP TUNA 2ND EDITION
+
+3
+
+© Gavin Newman / Greenpeace
+
+2022 Tuna Retailer Scorecard
+
+1
+
+62%
+
+D
+
+ALDI US
+2nd
+70%
+
+TOTAL
+
+ENVIRO
+
+56%
+
+1st
+
+HR
+
+9
+
+31%
+
+F
+
+GIANT EAGLE
+11th
+
+8th
+
+46%
+
+20%
+
+TOTAL
+
+ENVIRO
+
+HR
+
+2
+
+55%
+
+F
+
+AHOLD
+DELHAIZE
+57%
+5th
+
+2nd
+
+46%
+
+10
+
+27%
+
+F
+
+KROGER
+12th
+
+34%
+
+8th
+
+26%
+
+TOTAL
+
+ENVIRO
+
+HR
+
+TOTAL
+
+ENVIRO
+
+HR
+
+3
+
+50%
+
+F
+
+WHOLE FOODS
+MARKET
+
+75%
+
+1st
+
+6th
+
+31%
+
+11
+
+27%
+
+F
+
+COSTCO
+32%
+15th
+
+7th
+
+26%
+
+TOTAL
+
+ENVIRO
+
+HR
+
+TOTAL
+
+ENVIRO
+
+HR
+
+4
+
+50%
+
+F
+
+HY-VEE
+60%
+3rd
+
+4th
+
+41%
+
+12
+
+24%
+
+F
+
+H-E-B
+10th
+
+41%
+
+13th
+
+10%
+
+TOTAL
+
+ENVIRO
+
+HR
+
+TOTAL
+
+ENVIRO
+
+HR
+
+5
+
+48%
+
+F
+
+TARGET
+47%
+7th
+
+4th
+
+41%
+
+13
+
+19%
+
+F
+
+PUBLIX
+33%
+13th
+
+14th
+
+8%
+
+TOTAL
+
+ENVIRO
+
+HR
+
+TOTAL
+
+ENVIRO
+
+HR
+
+6
+
+44%
+
+F
+
+WALMART
+45%
+9th
+
+3rd
+
+42%
+
+14
+
+18%
+
+F
+
+SE GROCERS
+35%
+11th
+
+16th
+
+2%
+
+TOTAL
+
+ENVIRO
+
+HR
+
+TOTAL
+
+ENVIRO
+
+HR
+
+7
+
+40%
+
+F
+
+SPROUTS
+4th
+
+58%
+
+9th
+
+25%
+
+15
+
+17%
+
+F
+
+WEGMANS
+33%
+14th
+
+15th
+
+6%
+
+TOTAL
+
+ENVIRO
+
+HR
+
+TOTAL
+
+ENVIRO
+
+HR
+
+8
+
+36%
+
+F
+
+ALBERTSONS
+51%
+10th
+6th
+
+24%
+
+16
+
+16%
+
+F
+
+MEIJER
+20%
+16th
+
+12th
+
+16%
+
+TOTAL
+
+ENVIRO
+
+HR
+
+TOTAL
+
+ENVIRO
+
+HR
+
+NOTE: Percentage is rounded oﬀ to the nearest whole number.
+ENVIRO: Total score for all questions in the survey related to environmental issues.
+HR: Total score for all questions in the survey related to human rights & labor issues.
+
+4  HIGH COST OF CHEAP TUNA 2ND EDITION
+
+Introduction
+
+In Greenpeace USA’s second scorecard measuring the human rights and sustainability practices of
+
+major US supermarkets in tuna supply chains, all but one retailer received a failing score. Overall,
+
+we saw only marginal improvements in scores since last year.
+
+That said, this report shows some early signs of movement in the right direction — a handful of retailers,
+
+while not nearly doing enough to get them across the line of a passing grade, have still recorded
+
+healthy improvements in their scores. And one — Aldi — has even managed to pass by a whisker.
+
+In 2021, Greenpeace USA released the first edition of the
+High  Cost  of  Cheap  Tuna  —  a  report  that  assessed  16
+major  US  tuna  retailers  and  ranked  them  based  on  their
+environmental and human rights policies pertaining to their
+tuna supply chains. All 16 retailers surveyed in that report
+received failing scores, demonstrating a disturbing lack of
+focus from the industry towards growing human rights and
+forced labor concerns in global tuna supply chains.
+
+Since  the  release  of  the  first  edition  of  the  High  Cost  of
+Cheap  Tuna,  sustainability  and  human  rights  concerns
+in the tuna industry persist. According to the latest stock
+assessments, among the 23 major commercial stocks of
+tuna, five are either subject to overfishing or are already
+overfished[1]. At the same time, reports of serious human
+rights  violations  and  forced  labor  in  global  seafood
+supply chains continue to surface. A recent report found
+that  100,000  fishing-related  deaths  occur  each  year  —
+three  to  four  times  previous  estimates[2].  These  deaths
+and  human  rights  abuses  are  most  prevalent  on  fishing
+vessels associated with Illegal, Unreported, Unregulated
+(IUU)  fishing  practices.  Together,
+labor  abuse  and
+Illegal,  Unreported,  and  Unregulated  (IUU)  fishing  are
+undermining the social and environmental sustainability
+of fisheries, with wide-ranging impacts, including the loss
+of individual human rights and nutritional and economic
+benefits to fishing communities and governments[3].
+
+The  US  is  one  of  the  largest  importers  of  tuna  in  the
+world  and  US  grocery  retailers  make  a  lion’s  share  of
+the revenue in the tuna industry — in 2018, tuna vessels
+worldwide  netted  $11  billion.  Yet  grocery  stores  earned
+almost  four  times  that  amount  from  their  sales  of
+tuna  products  in  the  same  year[4].  US  retailers  have  the
+economic  power  to  influence  change  in  the  global  tuna
+industry,  mainly  through  their  sourcing  decisions  and
+business  practices.  The  goal  of  the  first  edition  of  this
+
+The US is one of the largest importers of
+
+tuna in the world and US grocery retailers
+
+make a lion’s share of the revenue in
+
+the tuna industry - in 2018, tuna vessels
+
+worldwide netted $11 billion. Yet grocery
+
+stores earned almost four times that
+
+amount from their sales of tuna products
+in the same year[4].
+
+report  was  to  measure  the  extent  to  which  US  retailers
+are  rising  to  this  opportunity  and  provide  a  benchmark
+against which to measure future progress. Since the first
+edition revealed retailers have a long way to go towards
+adequately  addressing  these  issues  in  their  supply
+chain,  it  became  clear  that  there  was  a  strong  need  to
+continuously track progress and to keep the pressure up
+to lead to meaningful and lasting change. That is the goal
+of this and all subsequent editions of this report.
+
+As was the case with the first edition, the results this year
+are  poor  across  the  board.  Of  the  16  retailers  surveyed,
+15  received  failing  scores,  and  overall  there  were  only
+marginal  improvements  in  scores  since  last  year.  That
+said,  this  report  shows  some  early  signs  of  movement
+in  the  right  direction  —  a  handful  of  retailers,  while  not
+nearly  doing  enough  to  get  them  across  the  line  of  a
+passing grade, have still recorded improvements in their
+scores. And one — Aldi — has even managed to pass by
+a  whisker.  As  a  result,  while  this  report  illuminates  a
+disappointing  state  of  affairs,  it  ultimately  provides  an
+optimistic outlook that the industry as a whole will more
+fully  embrace  policies  and  practices  that  ensure  tuna
+sold  in  the  US  is  caught  in  a  manner  that  is  sustainable
+
+HIGH COST OF CHEAP TUNA 2ND EDITION
+
+5
+
+and  ensures  that  those  responsible  for  its  catching  and
+processing  are  treated  justly,  remunerated  fairly,  and
+meaningfully engaged in social responsibility initiatives.
+
+However,  given  the  results  so  far,  it  seems  certain
+that  such  change  will  require  consistent  pressure  on
+retailers.  This  report,  and  future  editions,  are  a  part  of
+that pressure, highlighting those retailers that are falling
+far  short  of  what  is  required  and  recognizing  those  that
+take progressive actions. Ultimately, however, consumers
+must also contribute to this pressure by demanding that
+their grocery chains take swift and meaningful action. The
+power of individual and collective action is the best hope
+of bringing about a sustainable and equitable future.
+
+METHODOLOGY
+Since  2008,  Greenpeace  USA  has  periodically  invited
+retailers to complete a survey on their policies regarding
+the  sourcing  and  marketing  of  tuna  and  tuna  products
+sold in their stores; we have then graded those responses
+and compiled them in a report. Prior to 2021, the survey’s
+questions focused exclusively on retailers’ environmental
+and  sustainability  policies;  last  year,  the  questionnaire
+expanded  to  incorporate  policies  on  human  rights  and
+labor protections. For 2022, the survey expanded slightly
+once  more,  with  the  addition  of  a  question  on  whether
+retailers  have  “a  standalone  human  rights/labor  policy
+that  covers  tuna  procurement  in  your  fresh,  frozen,  and
+shelf-stable categories.”
+
+With that addition, this year’s survey contains 39 questions
+in six categories:
+
+1.  Tuna Procurement Policy
+
+2.  Traceability
+
+3.  Advocacy & Initiatives
+
+4.  Human Rights & Labor Protections
+
+5.  Current Sourcing
+
+6.  Customer Education & Labeling
+
+The questions in these categories addressed the following
+areas:
+
+1.  Tuna Procurement Policy (20%)
+
+Do  retailers  have  official  policies  governing  the
+procurement of their tuna that cover environmental
+and  human  rights  issues?  For  example,  do  they
+only  buy  tuna  from  suppliers  that  recruit  workers
+through formal channels that do not charge them
+recruiting  fees?  Are  those  workers  guaranteed
+a  local  living  wage?  What  policies  do  they  have
+in  place  to  ensure  the  safety  and  well-being  of
+workers  on  their  suppliers’  tuna  vessels?  What  is
+
+6  HIGH COST OF CHEAP TUNA 2ND EDITION
+
+their  policy  on  procuring  tuna  from  vessels  that
+engage  in  transshipment  at  sea?  Do  they  buy  any
+tuna  from  “red”  or  “yellow”-listed  fisheries?  Is  all
+their tuna Marine Stewardship Council certified or
+from a Fishery Improvement Program?
+
+This  section  does  not  address  the  practical  steps
+being  made  to  enforce  these  policies,  merely
+whether such policies in fact exist.
+
+2.  Traceability (20%)
+
+Are  they  able  to  trace  all  their  tuna  back  to  the
+individual  vessel  that  caught  them?  Will  they
+commit to making lists of those vessels public? How
+are retailers able to guarantee that their suppliers
+are providing the tuna they say they are, and that
+that  tuna  is  caught  in  the  manner  and  under  the
+conditions their suppliers claim? If so, how?
+
+3.  Advocacy and Initiatives (10%)
+
+Do retailers publicly advocate for fisheries reform,
+improved  management,  and  stronger  guarantees
+of workers’ human and labor rights? If so, how? Do
+they add their name to group letters sent to fisheries
+organizations  or  do  they  involve  themselves  in
+discussions with individual governments or relevant
+United Nations agencies? Do they source their tuna
+from  vessels  with  democratic  and  independent
+trade unions?
+
+4.  Human Rights and Labor Protections (25%)
+
+What  due  diligence  do  retailers  pursue  to  ensure
+that  suppliers  are  meeting  their  commitments  to
+human rights and labor protections? Do they have
+senior staff assigned to follow these issues? Do they
+have systems in place to regularly identify human
+rights  risks  and  impacts?  What  kind  of  grievance
+and  remediation  mechanisms  are  available  to
+workers?  How  do  they  deal  with  suppliers  when
+and if abuses are discovered?
+
+5.  Current Sourcing (20%)
+
+Do  retailers  stock  any  tuna  of  threatened  species,
+from  problematic  fisheries,  or  from  brands  that
+have a history of using either of the above? What is
+the percentage of their tuna that is caught by various
+sustainable and less sustainable methods? To what
+extent  do  they  consider  how  their  purchasing
+practices might affect the human and labor rights
+of workers in the supply chain?
+
+6.  Customer Education and Labeling (5%)
+
+information  do  they  provide  to  enable
+
+What
+consumers to make informed choices?
+
+Each question was assigned a maximum point value, and
+responses were scored accordingly. The score totals were
+aggregated, and each section was weighted to provide a
+final percentage score.
+
+Category
+
+points Weighting
+
+Max
+raw
+
+Tuna procurement policy
+
+Traceability
+
+Advocacy and initiatives
+
+Human rights and
+labor protections
+
+Current sourcing
+
+Customer education/labeling
+
+89
+
+27
+
+29
+
+51
+
+53
+
+14
+
+20%
+
+20%
+
+10%
+
+25%
+
+20%
+
+5%
+
+In  addition,  every  question  (across  all  categories)  was
+also  classified  as  pertaining  either  to  environmental
+issues, human rights issues, or both. For instance, some
+questions  in  the  tuna  procurement  policy  category
+related  to  environmental  sustainability  policies,  others
+to  human  rights  policies,  and  some,  such  as  those
+pertaining  to  companies’  stands  on  transhipment,  were
+classified  as  pertaining  to  both.  As  a  result,  in  addition
+to  the  final  percentage  score,  each  retailer  received  an
+overall environmental score (marked as “ENVIRO” in the
+scorecard), and an overall human rights score (marked as
+“HR”  in  the  scorecard).  The  full  survey  that  was  sent  to
+retailers can be found in Appendix.
+
+We  recognize  that  human  and
+labor  rights  and
+environmental  policy  are  complex  and  evolving  fields
+that  encompass  a  broad  range  of  issues  —  including
+domestic and global politics, socioeconomics, migration,
+climate change, and resource management — and impact
+a  wide  spectrum  of  actors,  from  small  business  owners
+and corporations to migrant fishers, seafood processors
+and western consumers. We recognize also that there is
+always  subjectivity  involved  in  policy  decisions  and  the
+assessment  of  those  decisions.  With  this  in  mind,  we
+have  striven  to  be  fair  and,  where  appropriate,  to  give
+companies  the  benefit  of  the  doubt,  particularly  where
+clear  effort  and  engagement  has  been  made  and  signs
+of  progress  are  evident.  To  this  end,  Greenpeace  USA’s
+goal is not to expose and shame; rather, it remains, as it
+has  been  since  Day  One,  to  highlight,  for  both  retailers
+and customers, the problems with existing supply chain
+policies, as well as the solutions to correct them.
+
+When  it  comes  to  the  responsiveness  of  companies,
+there is reason for optimism. Last year, 9 of 16 companies
+responded to our questions. This year, of the 16 companies
+that  we  approached,  11  —  Ahold  Delhaize,  Albertsons,
+Aldi,  Giant  Eagle,  Hy-Vee,  The  Kroger  Company,  Meijer,
+Southeastern  Grocers,  Sprouts  Farmers  Market,  Target,
+and  Whole  Foods  —  provided  detailed  responses  to
+our  questionnaire.  We  have  taken  the  answers  of  these
+responsive  companies  in  good  faith  and  not  sought  to
+rigorously verify statements or claims made in response.
+Policies and their contents were verified — but verifying
+detailed, supply chain information is beyond the scope of
+this report.
+
+The  five  “non-responsive  companies”  —  Costco,  HEB,
+Publix, Walmart, and Wegmans — elected not to complete
+a survey. We therefore scored them on publicly available
+policies and statements, online inventory searches, working
+group membership, and other factors. The accuracy and
+detail of those assessments can best be refined in future
+versions  of  this  report  through  greater  cooperation  and
+responsiveness on the part of those retailers.
+
+© Jurnasyanto Sukarno / Greenpeace
+
+HIGH COST OF CHEAP TUNA 2ND EDITION
+
+7
+
+Results & Findings
+
+© Jiri Rezac / Greenpeace
+
+SCORES OVERVIEW
+
+Results At A Glance
+TOTAL SCORES:
+	| All but one retailer — Aldi — received failing scores.
+
+	| Aldi topped the rankings with an overall score of
+61.51% or a D when converted to a letter grade
+
+	| Meijer came dead last with a disappointing
+
+15.82%, followed closely by Wegmans (17.43%),
+Southeastern Grocers (17.73%), and Publix (18.53%).
+
+ENVIRONMENTAL SCORES:
+	| All but two retailers — Aldi (69.96%) &
+
+Whole Foods (75.44%) — received failing
+Environmental scores.
+
+HUMAN RIGHTS:
+	| All retailers received failing Human Rights scores
+
+	| All retailers scored worse on Human Rights than
+
+Environment
+
+One Retailer Received Passing Scores
+For  the  second  year  in  a  row,  Aldi  topped  our  retailer
+rankings,  this  time  reaching  an  overall  score  of  61.51
+percent,  or  a  D  when  converted  to  a  letter  grade.  While
+this  is  an  improvement  over  last  year’s  table-topping
+score  of  59.77  percent,  and  means  that  Aldi  is  the  first
+retailer  to  achieve  an  overall  passing  grade,  alas,  it  is
+just barely a passing grade and certainly not a grade that
+one  should  be  proud  of  in  their  report  card.  Along  with
+every other retailer surveyed, Aldi scored an F on Human
+Rights but a 70 percent score in the Environment section
+carried it over the line overall. The only other retailer to
+score  a  passing  grade  in  any  section  was  Whole  Foods,
+which topped Environment with a score of 75 percent but
+was dragged down to an overall failing grade by its much
+poorer performance on Human Rights. All other retailers
+failed  on  both  sections.  Every  retailer  scored  worse  on
+Human Rights than on Environment.
+
+Growth Since Last Year
+There are nonetheless reasons to be positive. No retailer’s
+overall score declined, even as some retailers saw small
+decreases in one section or the other. Some showed solid
+overall  increases:  Giant  Eagle  and  Southeastern  Grocers
+by  more  than  five  percent,  Kroger  and  Hy-Vee  by  more
+than  seven,  and  Sprouts  by  a  welcome  14.91  percent.
+More retailers responded to questions this year than last
+year, and several of those who did respond provided more
+detailed information than with past surveys.
+
+The Worst Performers
+Even  amid  a  largely  disappointing  set  of  results,  some
+retailers  are  notable  for  performing  particularly  poorly.
+Meijer  came  last  overall  with  a  score  of  16  percent:  its
+score  on  the  Environment  was  11.5  percentage  points
+less  than  the  next-worst-performing  company  in  that
+segment,  Costco.  While  few  Human  Rights  scores  could
+even  be  considered  acceptable,  Southeastern  Grocers
+came last in that segment with an execrable 2.27 percent,
+which dragged the company down to 14th place overall
+despite  a  middle-of-the-pack  ranking  on  Environment.
+Other notably poor performers included Wegmans, which
+finished 14th on Environment and 15th on Human Rights
+for 15th place overall; and Publix, which finished 13th in
+Environment rankings and 14th on Human Rights, for an
+overall 13th place.
+
+When Greenpeace USA first started surveying companies
+on  their  sustainable  sourcing  policies  over  a  decade
+ago,  talk  of  Fisheries  Improvement  Projects  (FIPs),  bans
+on transshipment at sea and reduced bycatch was fairly
+new, and a long way from inclusion in seafood sourcing
+policies,  assuming  such  policies  existed  at  all.  But,  over
+the years these principles have moved to the mainstream
+and an increasing number of retailers have policies and
+commitments in place.
+
+Despite years of guidance from international
+
+bodies, academic and NGO research and
+
+reports, shocking media exposés, and
+
+increasing consumer awareness, many
+
+companies have continued to ignore their
+
+responsibilities, while others have opted
+
+for surface-level changes without the deep
+
+engagement and understanding required to
+
+address these serious issues.
+
+The  similarities  between  where  the  industry  was  on
+environmental  sustainability  10  years  ago  and  where
+it  currently  is  on  human  rights  issues  are  hard  to  miss.
+Many  companies  appear  not  to  have  given  it  a  thought,
+while  even  those  who  are  leading  the  way  still  fall  short
+in  a  number  of  areas.  Despite  years  of  guidance  from
+international  bodies,  academic  and  NGO  research
+and  reports,  shocking  media  exposés,  and  increasing
+consumer awareness, many companies have continued to
+ignore  their  responsibilities,  while  others  have  opted  for
+surface-level changes without the deep engagement and
+understanding required to address these serious issues.
+
+HIGH COST OF CHEAP TUNA 2ND EDITION  9
+
+FINDINGS
+The Good
+
+Every Retailer Has Some Kind of Policy in Place
+
+Many Retailers Are Able to Trace Tuna
+
+tuna  procurement
+
+In  response  to  questions  on  whether  they  had  policies
+that  consider  both
+governing
+sustainability  and  labor/human  rights  concerns  and
+whether those policies covered all tuna they sold, almost
+every retailer answered in the affirmative (or, if they did not
+respond to the survey, were judged from public records
+to  have  such  policies).  In  fact,  ten  —  Ahold,  Albertsons,
+Aldi, Giant Eagle, HEB, Hy-Vee, Sprouts, Target, Walmart
+and  Whole  Foods  —  scored  maximum  points  on  these
+fundamental questions.
+
+Most  others  lost  points  for  having  policies  that  covered
+less than 100% of tuna sold by them. For instance, while
+Meijer  appeared  to  have  a  seafood  sustainability  policy,
+it was vague and didn’t appear to apply to all tuna sold
+by  them.  Among  all  retailers,  Southeastern  Grocers  was
+the only one that did not appear to have any labor/human
+rights policy at all.
+
+All  but  two  retailers  profess  an  ability  to  trace  every
+shop  keeping  unit  (SKU)  of  tuna  —  fresh,  frozen,  and
+shelf-stable — down to the individual vessel that caught
+it,  a  positive  development,  given  that  traceability  is
+fundamental  to
+improving  both  environmental  and
+human rights impacts associated with the tuna industry.
+Ahold, Aldi, Giant Eagle, HEB, Publix, SE Grocers, Sprouts,
+Wegmans  and  Whole  Foods  all  scored  maximum  points
+on this question; only Costco, Kroger, and Meijer scored
+zero. However, when we asked all retailers whether they
+would commit to publishing a full list of the vessels from
+which  they  procure  their  tuna,  all  but  one  demurred;  in
+contrast,  Hy-Vee  not  only  published  its  list  in  2022  but
+has committed to doing so again. The question arises of
+just how valuable a traceability program can be if it is not
+also  transparent  and  made  available  to  the  consumer;
+the fact that Hy-vee has done so, and continues to do so,
+demonstrates that it is clearly feasible.
+
+Our Asks: We ask that supermarkets have a
+sustainable/responsible seafood sourcing policy
+and a standalone human rights/labor policy that
+covers 100% of tuna procured across all categories
+(fresh, frozen and shelf-stable) and sold in all stores.
+For more information, see Q1-4 in the Appendix.
+
+Our Asks: We ask that supermarkets are able to
+trace 100% of tuna (fresh, frozen and shelf-stable)
+down to the individual vessel that caught the fish
+and that they commit to publicly publish a list of
+those vessels. For more information, see Q15-16 in
+the Appendix.
+
+© Tim Aubry / Greenpeace
+
+10  HIGH COST OF CHEAP TUNA 2ND EDITION
+
+© Paul Hilton / Greenpeace
+
+Most Retailers Are Avoiding the Most Problematic
+Tuna Products
+
+Following more than a decade of campaigning by NGOs,
+every retailer scored at least some points in response to
+the question of whether they avoid stocking some of the
+shelf-stable  (or  canned/tinned)  tuna  products  that  are
+known to be especially problematic, for example because
+of high levels of catch of non-target species. Ahold, Aldi,
+Hy-Vee,  Sprouts,  and  Whole  Foods  scored  maximum
+points  here.  Giant  Eagle,  HEB,  and  Kroger  all  saw
+improvement  since  last  year.  Whole  Foods  and  Sprouts
+also scored highly on the question of how they sourced all
+their tuna products, and the extent to which they favored
+more  sustainable  fisheries  practices  such  as  pole-and-
+line. Meanwhile, Albertsons, Costco, Kroger, and Walmart
+showed positive progress in this area.
+
+Our Asks: We ask that supermarkets don’t sell tuna
+species caught using the methods most commonly
+linked to environmental harm and that they do
+not source certain at-risk species and/or stocks of
+tuna. For more information, see Q34 and Q36 in the
+Appendix.
+
+HIGH COST OF CHEAP TUNA 2ND EDITION  11
+
+The Promising
+
+Progress on Policy Commitment to International
+Human Rights Frameworks & Principles
+
+Several Suppliers Are Showing Progress on
+Policies Related to Worker Recruitment
+
+Most  retailers  expressed  some  level  of  commitment  to
+respecting  all  internationally  recognized  human  rights
+and  fundamental  rights  at  work  across  all  activities
+throughout  their  supply  chain.  Points  were  awarded  to
+those retailers who explicitly expressed adherence to, or
+guidance from, the United Nations Declaration on Human
+Rights, the UN Guiding Principles on Business and Human
+Rights, the International Labor Organization’s Declaration
+on  Fundamental  Principles  and  Rights  at  Work,  and  the
+ILO Work in Fishing Convention of 2007, all of which set
+out  fundamental  rights  for  workers  generally  and/or
+fishworkers  specifically.  Although  most  scored  at  least
+some points, few acknowledged the ILO Work in Fishing
+Convention,  which  we  strongly  encourage  retailers  to
+incorporate into their seafood policies as it provides very
+specific guidance on issues fishworkers face. Four retailers
+— HEB, Publix, SE Grocers, and Wegmans — scored zero
+points here; only Aldi scored the maximum.
+
+Our Asks: We ask retailers to commit to upholding
+all internationally-recognized human rights and
+fundamental rights at work and to explicitly link that
+commitment to a slate of UN and ILO conventions,
+declarations, and guidance listed in Q6 of Appendix.
+Retailers must not cherry pick from among these
+standards or selectively apply elements of these
+standards. These standards must also be applied
+across all activities in their supply chain. For more
+information, see Q6 of the Appendix.
+
+Several  retailers  declared  that  they  require  suppliers  to
+recruit  workers  only  through  formalized  avenues  and
+agencies  that  are  not  on  any  government  or  NGO  red
+lists,  and  forbid  suppliers  from  charging  those  workers
+recruitment fees or subjecting them to wage deductions.
+In the past, few, if any retailers have paid attention to this
+important area. Because of this, we scored this question
+generously, wanting to acknowledge and encourage the
+few companies that showed some progress in this area,
+even when they could not provide guarantees that their
+suppliers  abided  by  such  policies.  Six  out  of  sixteen
+companies — Aldi, Costco, Hy-Vee, Target, Walmart, and
+Whole  Foods  —  scored  relatively  well;  all  the  others,
+however, fell short.
+
+Our Asks: We ask that retailers have a policy of only
+working with suppliers who recruit workers through
+formalized venues and don’t work with agencies
+that are on red lists. They must also comply with the
+Employer Pays Principle as set out in UN principles
+and explicitly prohibit the collection of any
+recruitment fees or wage deductions from workers.
+For more information, see Q9-11 of the Appendix.
+
+© Jurnasyanto Sukarno / Greenpeace
+
+12  HIGH COST OF CHEAP TUNA 2ND EDITION
+
+The Bad
+
+Little Human Rights Due Diligence to Ensure
+Policies Are Adhered To
+
+Even though there has been some progress in establishing
+human rights policies and conducting risk assessments,
+there is very little sign of retailers making efforts towards
+comprehensive  human  rights  due  diligence.  We  asked
+several  questions  in  this  regard,  related  to  the  extent
+to  which  they  go  beyond  an  audit-based  approach  (an
+approach  which  has  been  shown  to  be  ineffective  at
+addressing  human  and  labor  rights  risks[5])  to  establish
+and implement a human rights due diligence framework,
+and assign senior level staff to track and respond to human
+rights risks and impacts in their tuna supply chains. Very
+few  performed  well:  Not  a  single  company  received  full
+points.  In  fact,  the  worst  performers  seemed  to  have
+barely considered the issue at all. SE Grocers scored just
+one point out of a possible 56, HEB zero, and Wegmans
+and Publix contrived to achieve negative scores.
+
+Special  mention,  however,  to  Ahold,  Aldi,  Target,
+and  Walmart,  which  have  demonstrated  progress  in
+establishing  some  sort  of  system  to  track  human  rights
+risks. However, by themselves, these efforts fall short in
+
+that  they  lack  meaningful  engagement  with  workers  in
+their  design,  implementation,  and  governance;  do  not
+have effective and accessible grievance mechanisms, and
+continue to fall short in terms of remediation processes.
+
+Our Asks: We ask that retailers move beyond third-
+party audits and instead institute comprehensive
+human rights due diligence processes that cover
+100% of their supply chain and that align with
+the UN Guiding Principles on Business & Human
+Rights to identify, prevent, mitigate and account
+for how they address their negative impacts on
+human or labor rights. These processes must
+involve meaningful engagement with workers in
+their design, implementation, and governance. In
+addition, retailers must have processes in place
+for workers in their supply chains to lodge human
+or labor rights grievances directly with them and
+for those grievances to be remediated. For more
+information, see Q22-33 of the Appendix.
+
+© Paul Hilton / Greenpeace
+
+HIGH COST OF CHEAP TUNA 2ND EDITION  13
+
+Policy Commitments Are Not Translating Into
+Changes in Sourcing & Purchasing Practices
+
+Not  one  single  retailer  responded  affirmatively  to  the
+question  of  whether  they  preferentially  source  tuna
+from  vessels  that  use  Port  States  that  have  ratified  and
+implemented  the  ILO  Work  in  Fishing  Convention  and
+that  effectively  conduct  labor  inspections  under  the
+provisions of the convention; and/or from companies with
+independent,  democratic  trade  unions  and  that  respect
+their  workers’  rights  to  collectively  bargain  and  engage
+in  union  activities.  To  be  fair,  this  question  was  an
+ambitious one, not least because only 20 countries have
+ratified  this  ILO  convention.  However,  the  principles
+enshrined in the convention should be a cornerstone for
+any  procurement  policy  —  and  preferentially  sourcing
+from  companies  that  allow  fundamental  workers’  rights
+should  also  be  non-controversial.  Retailers  have  shown
+they  are  prepared  to  draw  red  lines  in  their  sourcing
+for  fisheries  that  do  not  meet  certain  environmental
+standards,  and  we  applaud  them  for  that.  But,  the  fact
+that  they  do  not  presently  offer  the  same  weight  to
+workers’ rights is a major failing.
+
+Our Asks: Retailers must preferentially source
+tuna from vessels that use Port States that have
+ratified and implemented the ILO Work in Fishing
+Convention and that effectively conduct labor
+inspections under the provisions of the convention;
+and/or from companies with independent,
+democratic trade unions and that respect their
+workers’ rights to collectively bargain and engage
+in union activities. For more information, see Q7 of
+the Appendix.
+
+Few Limits on Transshipment at Sea …
+
+Transshipment  at  sea  —  in  which  fish  or  marine  wildlife
+is  transferred  from  one  vessel  to  another,  allowing  the
+fishing vessel to stay out at sea longer — is a major issue
+in global commercial fisheries. It often takes place on the
+High Seas, out of sight and beyond enforcement, and can
+lead to Illegal, Unreported and Unregulated (IUU) fishing.
+Because it enables ships to remain at sea for months or
+even years at a time (the vessels to which they transship
+fish generally provide fuel and supplies), it is also a means
+of  exploiting  workers,  keeping  them  away  from  their
+homes and, often, from access to internet or cell service
+to communicate with anyone beyond their vessel.
+
+Ahold, Aldi, Albertsons, Giant Eagle, Hy-Vee, Sprouts and
+Target claim to allow transshipment at sea only when there
+is  100  percent  observer  coverage.  However,  in  practice,
+the  rates  of  observer  coverage  are  extremely  low.  For
+instance, observers are present on only approximately five
+percent of tuna longliners in the Pacific Ocean[6]. Further,
+observers  are  usually  deployed  on  the  carrier  vessel,
+meaning  fishing  methods,  locations,  and  conditions
+aboard catching vessels are largely unmonitored. Observer
+coverage  also  does  not  address  the  human  rights  risks
+associated  with  transshipment,  as  observers  currently
+do  not  have  a  mandate  to  report  on  working  conditions
+of vessel crew. This policy, especially when coupled with
+concrete  reporting  requirements  from  suppliers  about
+transshipment  events,  is,  nonetheless,  to  some  extent,
+better  than  having  no  policy  on  transshipment  at  all,
+which is the case for virtually every other retailer.
+
+Our Asks: We ask that retailers commit to completely
+phasing out buying fish from companies that allow
+transshipment. By doing this, retailers can send a
+strong upstream signal in the industry against this
+practice. For more information, see Q8 of the Appendix.
+
+© Will Rose / Greenpeace
+
+14  HIGH COST OF CHEAP TUNA 2ND EDITION
+
+© Jiri Rezac / Greenpeace
+
+… And Little Advocacy for Protection of
+Observers
+
+There are other problems with using observer coverage as
+a pretext for allowing transshipment at sea — namely the
+lack  of  observer  safety.  Being  an  independent  observer
+on a fishing vessel that is at sea for weeks or months at
+a  time  is  a  perilous  undertaking:  a  2020  report  by  the
+NGO Human Rights at Sea listed 10 recommendations for
+improving observer safety, citing the unexplained deaths
+of  observers  onboard  two  tuna  purse  seine  vessels[7].
+However,  when  retailers  were  asked  what  steps  they
+took  to  advocate  for  observer  protection,  only  Ahold
+and Aldi were able to provide somewhat comprehensive
+responses; Costco, HEB, Hy-Vee, Kroger, Meijer, Publix, SE
+Grocers, Sprouts and Wegmans were not able to provide
+any response at all.
+
+Our Asks: We ask that retailers advocate on
+international and regional levels for the adoption
+of policies and practices that heighten observer
+protection, including measures that ensure
+observer deaths are properly investigated. We
+also ask that retailers ensure observers receive
+heightened protections as human rights defenders
+and include them in their human rights due
+diligence process. For more information, see Q20 of
+the Appendix.
+
+HIGH COST OF CHEAP TUNA 2ND EDITION  15
+
+Lack of Commitment to Workers’ Safety
+and Well-Being
+
+We  asked  retailers  what  steps  they  took  to  ensure  the
+safety and well-being of the workers on the tuna vessels
+that  supply  them.  Specifically,  we  asked  if  they  require
+vessels to 1) comply with international safety standards,
+2) provide vessel crews with adequate rest, nutrition and
+potable water at no cost and 3) spend a maximum of three
+consecutive months at sea.
+
+Albertson’s  and  Hy-Vee  answered  yes  regarding  vessel
+safety,  rest,  nutrition  and  potable  water;  Whole  Foods
+answered yes to a maximum of three months at sea. Aldi
+did not answer yes to any but expressed its commitment
+to “ensuring safety and health at sea and … supporting
+several  efforts  to  raise  standards  for  employment  at
+sea.” No other retailers scored any points at all on what
+we consider to be a basic and fundamental requirement
+to protect the safety and well-being of workers who are
+catching tuna in dangerous and often difficult conditions.
+This area must improve.
+
+Lack of Traceability & Transparency
+
+As previously mentioned, although most retailers claim an
+ability to track every SKU of tuna, only Hy-Vee expressed a
+willingness to publish a full list of their supplying vessels.
+Similarly,  when  asked  what  steps  they  are  taking  to
+combat  fish  fraud  —  the  intentional  mislabeling  of  fish
+and fish products, leading consumers to believe they are
+buying  something  that  they  are  not  —  few  were  able  to
+provide  a  detailed  response.  Only  Albertsons,  Aldi,  Hy-
+Vee, Target, and Whole Foods were able to score maximum
+points  on  this  question.  The  importance  of  these  two
+intertwined  issues  is  clear:  consumers  need  to  be  able
+to make informed choices about the tuna that they buy
+and  to  selectively  support  those  suppliers  and  retailers
+that are taking the necessary steps to provide products of
+the standard that those consumers desire. Retailers need
+to provide customers with the information they need to
+make the decisions they want, and customers in turn are
+entitled to feel confident that the fish they are eating is
+the fish they believe they have bought.
+
+Our Asks: We ask that retailers require vessels in
+their supply chains to comply with international
+safety standards and provide crew with adequate
+rest (no less than 10 hours in a 24 hour period and
+77 hours in any-seven day period), and free and
+adequate nutrition and potable water. Furthermore,
+the vessels that catch their tuna should spend a
+maximum of three consecutive months at sea and
+allow their crew unfettered access to port services
+for a minimum of 10 days when they dock. We
+also ask that they only source from suppliers that
+require a fishing crew manifest for each vessel. For
+more information, see Q12 of the Appendix.
+
+Our Asks: We ask that retailers commit to
+publishing the full list of their supplier’s fishing
+vessels covering 100% of their tuna products. In
+addition, retailers must also take proactive actions
+to combat potential fraud by instituting chain of
+custody mechanisms for product verification, and
+implementing periodic monitoring and traceability
+audits. For more information, see Q15-18 of the
+Appendix.
+
+16  HIGH COST OF CHEAP TUNA 2ND EDITION
+
+© Pierre Baelen / Greenpeace
+
+Conclusion
+
+© Alex Hofford / Greenpeace
+
+Overall,  this  year’s  report  does  provide  some  reasons
+to  be  optimistic  that  retailers  are  regarding  their
+responsibilities  on  sustainability  and  human  rights  with
+increasing  seriousness.  More  retailers  responded  to
+our  surveys  than  before,  and  some  who  had  previously
+been  sparse  in  their  responses,  provided  more  detailed
+answers,  suggesting  they  were  giving  the  issues  greater
+thought and consideration.
+
+No  retailer’s  score  declined  from  last  year,  several
+increased and one — Sprouts — saw its total score grow
+by almost 15 percent. For the first time, one retailer, Aldi,
+achieved an overall passing grade.
+
+However,  that  one  passing  grade  was  only  a  D.  Of  32
+total grades on Environment and Human Rights, 29 were
+Fs.  Even  the  better-performing  retailers  frequently  fell
+far  short  of  minimum  requirements  and  expectations,
+whether  it  be  refusing  to  stock  problematic  species  or
+brands of tuna, showing transparency in supply lines, or
+adopting proactive measures to ensure the well-being of
+the workers who catch the tuna they sell.
+
+It is encouraging that the majority of retailers now have
+some policies in place requiring them to consider human
+rights and environmental concerns as an integral element
+of their tuna procurement. However, for far too many, their
+involvement in those issues does not extend far enough
+beyond that. Too many are too passive and reliant on their
+
+suppliers  or  third  parties  to  ensure  that  standards  are
+met, particularly when it comes to ensuring that workers
+are  treated  justly  and  appropriately  compensated.  In
+addition,  the  complete  lack  of  meaningful  engagement
+with workers themselves in the design, implementation,
+and governance of the few social responsibility processes
+that are being implemented is particularly concerning.
+
+Greenpeace  USA  believes  that  among  the  US  retailers,
+some  of  the  largest  players  such  as  Kroger,  Walmart,
+Albertsons, and Costco have an enhanced opportunity to
+influence  change  in  this  industry.  With  Kroger  poised  to
+capture an even higher market share due to its upcoming
+merger  with  Albertsons,  its  poor  performance  on  the
+survey is especially notable and the industry-wide change
+it  could  make  with  increased  engagement  particularly
+marked.
+
+It is our hope that with consistent monitoring and pressure,
+the  industry  will  move  in  the  right  direction,  taking
+decisive  action  to  prevent  environmental  and  human
+rights abuse in tuna supply chains. This is the goal of this
+and all subsequent editions of this report — to consistently
+track  performance  and  inspire  action.  Armed  with  this
+information,  consumers  are  ideally  better  equipped  to
+demand swift change from their grocery retailer.
+
+Progress is evident, but far too incremental. Far more can,
+and should, be done.
+
+Retailer Profiles
+
+18  HIGH COST OF CHEAP TUNA 2ND EDITION
+
+© Abbie Trayler-Smith / Greenpeace
+
+Ahold Delhaize
+
+(cid:26)(cid:22)(cid:30)(cid:23)(cid:21)(cid:20)(cid:20)(cid:24)(cid:31)(cid:29)(cid:26)(cid:23)(cid:30)(cid:31)
+
+2nd
+
+F
+54.66%
+
+Total
+
+5th
+
+F
+
+Enviro
+
+63.86/112
+
+F
+
+2nd
+
+HR
+
+71/154
+
+(cid:31)(cid:30)(cid:29)(cid:28)(cid:27)(cid:26)(cid:25)(cid:24)(cid:31)(cid:29)(cid:26)(cid:23)(cid:30)(cid:31)
+
+Tuna Procurement Policy
+
+Traceability
+
+38%F
+
+D
+
+63%
+
+Human Rights & labor
+
+Current Sourcing
+
+Advocacy & Initiatives B
+
+83%
+
+Customer Education/
+Labelling
+
+63%D
+
+F
+
+48%
+
+F
+
+18%
+
+Ahold answered the questionnaire and provided additional resources. It finished fifth on the Environment, second on Human Rights and
+second overall. Its total score increased by just under 2%, from 52.8% last year to 54.66% this year, primarily the result of a slight increase
+in scores on the Human Rights & Labor Protections and Advocacy sections.
+
+Last year, we noted Ahold’s inaugural Human Rights Report[8] as strong, noting that it stood out for its detailed understanding of the issues,
+its reference to international human rights instruments, and commitment to safeguarding migrants. The company followed that up in June
+2022 with a second report that detailed actions taken towards further operationalizing its Human Rights Due Diligence plans[9]. As a result,
+Ahold continues to boast a more developed due diligence framework than any other retailer.
+
+The company also scored highly in the Traceability section for its auditing work, a section that covers both environmental and human
+rights issues[10].
+
+However, Ahold’s scores on catch methods employed in tuna sourcing (Current Sourcing section) declined marginally as compared to
+last  year:  their  sourcing  from  pole  and  line,  troll,  and  handline  has  decreased  markedly  while  sourcing  from  purse  seine  has  gone  up
+dramatically.
+
+Positive:  As  mentioned  last  year,  Ahold’s  initial  Human  Rights
+Report  was  a  comprehensive  and  well-considered  document,
+and  the  company  has  continued  to  show  commitment  toward
+human  rights  with  the  second  edition  of  that  report.  On  the
+Tuna  Procurement  Policy  section,  Ahold  remains  one  of  the
+only  companies  to  express  an  explicit  commitment  to  collective
+bargaining[11],  an  issue  that  is  gaining  prominence  as  work  to
+unionize fishers accelerates.
+
+In the Human Rights & Labor Protections section, Ahold’s human
+rights  due  diligence  framework[11]  remains  considerably  more
+advanced  than  many  other  retailers,  many  of  whom  had  none  at
+all. Ahold’s work goes beyond surface level social audits and lays
+out a framework for dealing with a range of human rights impacts.
+
+Ahold  also  scores  highly  for  its  Traceability  work,  a  section
+that  covers  both  environmental  and  human  rights  issues.  And  it
+topped  the  class  with  its  work  on  Advocacy,  having  sent  letters
+to  governments,  Regional  Fisheries  Management  Organizations
+(RFMOs)  and  the  UN  on  a  number  of  issues  related  to  the  tuna
+industry  —  although  we  should  note  that  this  section  inevitably
+favors larger companies with greater reach and resources.
+
+Poor/Needs  Improvement:  Although  it  cites  its  whistleblower
+line[9] as an example of the grievance mechanisms it provides, such
+lines are — given limitations in accessibility and opportunity, as well
+as  language  barriers  and  other  issues  —  of  limited  effectiveness,
+particularly for those aboard distant water fishing vessels.
+
+Relatedly,  the  company  does  not  appear  to  have  policies  or
+programs  in  place  that  provides  access  to  remedy  for  workers
+who  are  harmed;  while  it  has  piloted  a  program  in  the  chocolate
+sector[9], it has yet to consider this in the seafood space.
+
+Although Ahold scores points in the Current Sourcing section for
+sourcing some shelf-stable tuna from more sustainable fisheries, its
+overall percentage of tuna caught using more destructive methods
+such  as  longlining  and  purse-seining  remains  far  too  high  (77.6
+percent and 15.2 percent respectively). In fact, its score in this area
+has declined from last year. Selling brands that do not meet Ahold’s
+own  standards  undermines  the  improvements  their  policies  are
+driving. Refusing to stock brands associated with IUU fishing and
+other  damaging  environmental  practices  or  human  rights  abuse
+would  promote  their  own  efforts  further  and  provide  clarity  for
+their customers.
+
+HIGH COST OF CHEAP TUNA 2ND EDITION  19
+
+Albertsons
+
+(cid:26)(cid:22)(cid:30)(cid:23)(cid:21)(cid:20)(cid:20)(cid:24)(cid:31)(cid:29)(cid:26)(cid:23)(cid:30)(cid:31)
+
+8th
+
+Total
+
+6th
+
+F
+36.09%
+
+F
+
+10th
+
+F
+
+(cid:31)(cid:30)(cid:29)(cid:28)(cid:27)(cid:26)(cid:25)(cid:24)(cid:31)(cid:29)(cid:26)(cid:23)(cid:30)(cid:31)
+
+Tuna Procurement Policy
+
+Traceability
+
+36%F
+
+F
+
+52%
+
+Human Rights & labor
+
+Current Sourcing
+
+Enviro
+
+56.92/112
+
+HR
+
+36.5/154
+
+Advocacy & Initiatives F
+
+31%
+
+Customer Education/
+Labelling
+
+18%F
+
+F
+
+47%
+
+F
+
+32%
+
+Albertsons answered the questionnaire and provided additional resources[12][13][14][15][16]. It finished sixth on Environment and 10th on Human
+Rights, for a position of eighth overall. Its overall score improved slightly due to a better performance in the sourcing category, specifically
+an increase in tuna caught from pole and line, troll and handline, and Fish Aggregating Device (FAD)-free purse seine methods. It is also
+commendable that Albertsons made improvements in data collection and was able to provide data on shelf-stable tuna in addition to fresh
+and frozen; last year they provided data only on the latter.
+
+It scores points on Traceability and efforts to combat fish fraud, boasting a traceability and verification system that includes implementation
+of technology to gather chain-of-custody information.
+
+Positive:  Albertsons  has  a  public  position  on  transshipment-at-
+sea of tuna[14] that includes a requirement for suppliers to provide
+detailed  reporting  of  transshipment  events.  Their  position  on
+transshipment  also  references  robust  national  and  international
+regulations related to vessel and crew safety and worker protections,
+including the Cape Town Agreement and the ILO’s Work in Fishing
+Convention — C.188. However, the policy stops short of signaling a
+move toward phasing out transshipment.
+
+Albertsons’  work  on  Traceability  was  also  commendable  —
+including  tackling  fish  fraud  —  despite  not  being  able  to  trace
+100  percent  of  their  tuna  back  to  the  catching  vessel.  Albertsons
+appears  to  have  developed  a  thoughtful  approach  that  involves
+internal  audits  in  partnership  with  a  third-party  organization,
+while not relying entirely on third parties. The implementation of
+technology  to  gather  chain  of  custody  data  and  assess  risks  also
+helps to improve oversight of supply chain risks
+
+Poor/Needs  Improvement:  In  line  with  many  other  retailers  in
+the middle of the ranking, Albertsons scored well for having Tuna
+Procurement Policies policies in place, but missed out on points
+for lack of reference to specific instruments, particularly in relation
+to the UN Guiding Principles on Business & Human Rights (UNGP)
+and ILO Core Conventions.
+
+Despite  completing  the  survey,  Albertsons  skipped  a  number  of
+questions  in  the  Human  Rights  &  Labor  Protections  section
+related to more specific aspects of their human rights due diligence
+work, including tracking & monitoring, grievance mechanisms and
+remediation.  The  importance  of  these  elements  in  underpinning
+the  effectiveness  and  real-world  impact  of  a  company’s  ethical
+policies meant leaving them blank hurt Albertsons’s score. Finally,
+Albertsons  cited  its  use  of  two  widely  available  third-party  audit
+certifications as evidence of its work to engage migrant workers in
+auditing and assessment processes; however, we had hoped to see
+a deeper and more deliberate approach to this important area that
+goes beyond third-party audits.
+
+20  HIGH COST OF CHEAP TUNA 2ND EDITION
+
+Aldi
+
+(cid:26)(cid:22)(cid:30)(cid:23)(cid:21)(cid:20)(cid:20)(cid:24)(cid:31)(cid:29)(cid:26)(cid:23)(cid:30)(cid:31)
+
+1st
+
+Total
+
+2nd
+
+D
+61.51%
+
+D
+
+1st
+
+F
+
+(cid:31)(cid:30)(cid:29)(cid:28)(cid:27)(cid:26)(cid:25)(cid:24)(cid:31)(cid:29)(cid:26)(cid:23)(cid:30)(cid:31)
+
+Tuna Procurement Policy
+
+Traceability
+
+58%F
+
+F
+
+52%
+
+Human Rights & labor
+
+Current Sourcing
+
+Enviro
+
+78.36/112
+
+HR
+
+85.5/154
+
+Advocacy & Initiatives C
+
+76%
+
+Customer Education/
+Labelling
+
+59%F
+
+C
+
+73%
+
+F
+
+50%
+
+For the second year in a row, Aldi — which responded to the questionnaire and provided additional resources — came first overall. Indeed,
+this year, it outpaced the competition comfortably. Although it only placed first in one category — Tuna Procurement Policy — it scored
+strongly across the board (second in Advocacy, Sourcing, and Customer Education; fourth in Human Rights & Labor Protections, and
+Traceability). Aldi’s comprehensive, stand-alone forced labor policy[17] — which draws on a number of internationally recognized standards,
+including the UN Guiding Principles on Business and Human Rights (UNGP) — is especially notable. Its overall score improved by just under
+two percent (from 59.77% to 61.51%), thanks to slight increases in their Traceability and Human Rights and Labor Protection scores. As
+one of the only retailers to achieve a passing score for any section, they in fact managed two.
+
+On  Traceability,  Aldi’s  enhanced  efforts  to  address  fish  fraud  through  traceability  exercises  at  production  facilities,  random  product
+checks, as well as supplementing third-party traceability audits with their own on-site visits, contributed to their improved performance.
+
+On Human Rights and Labor Protections, their slightly improved score reflected efforts to develop and expand their human rights due
+diligence  program  —  their  Corporate  Responsibility  Supplier  Evaluation  (CRSE)  program  —  as  well  as  their  efforts  to  improve  worker
+engagement in their human rights impact assessments.
+
+Positive:  In  the  Tuna  Procurement  Policy  section,  Aldi  scored
+well  for  having  comprehensive,  publicly  available  seafood  and
+human  rights  policies[17]  [18]  [19].  One  of  the  purposes  of  this  survey
+is  to  encourage  and  reward  specific  commitments  in  line  with
+internationally  recognized  instruments  and  initiatives,  and  Aldi
+scored  higher  than  most  as  a  result  of  reference  to  these  in  their
+policies. Aldi’s International Forced Labor Policy[17], which explicitly
+covers  all  stages  of  its  supply  chain,  is  guided  by  a  number  of
+international standards, including the UNGPs.
+
+Aldi  should  also  be  commended  for  being  the  only  retailer  to
+explicitly  advocate  for  a  living  wage  for  workers  in  its  supply
+chain[20],  for  having  explicit  requirements  for  documentation  of
+worker payments, and for a clear and well considered process for
+dealing with cases of abuse.
+
+Poor/Needs  Improvement:  Although  Aldi’s  Traceability  score
+improved  marginally  because  of  improved  efforts  to  combat  fish
+fraud, there is still some way to go. That said, there are promising
+signs,  and  although  Aldi  is  unable  to  secure  maximum  points
+while  its  CRSE  program  is  in  development,  we  look  forward  to
+reporting positive results in the future when it is fully implemented
+across the supply chain.
+
+While  Aldi’s  understanding  and  development  of  grievance
+mechanisms  is  more  advanced  than  many  others,  points  were
+unfortunately  lost  due  to  those  mechanisms’  limited  scopes.
+Greenpeace  USA  commends  Aldi’s  work  with  the  Issara  Institute
+(an  NGO  based  in  Southeast  Asia  that  tackles  issues  of  human
+trafficking  and  forced  labor  through  worker  voice),  to  promote
+worker  voices  in  Thailand  and  we  hope  they  will  support
+implementation  of  this  type  of  work  across  a  wider  section  of
+their supply chain, including catching vessels.
+
+HIGH COST OF CHEAP TUNA 2ND EDITION  21
+
+Costco
+
+(cid:26)(cid:22)(cid:30)(cid:23)(cid:21)(cid:20)(cid:20)(cid:24)(cid:31)(cid:29)(cid:26)(cid:23)(cid:30)(cid:31)
+
+11th
+
+F
+27.02%
+
+Total
+
+15th
+
+F
+
+Enviro
+
+35.93/112
+
+F
+
+7th
+
+HR
+
+40/154
+
+(cid:31)(cid:30)(cid:29)(cid:28)(cid:27)(cid:26)(cid:25)(cid:24)(cid:31)(cid:29)(cid:26)(cid:23)(cid:30)(cid:31)
+
+Tuna Procurement Policy
+
+Traceability
+
+Advocacy & Initiatives
+
+34%F
+
+F
+
+15%
+
+F
+
+14%
+
+Human Rights & labor
+
+Current Sourcing
+
+Customer Education/
+Labelling
+
+29%F
+
+F
+
+37%
+
+F
+
+25%
+
+Costco did not complete a survey or provide materials again this year; last year’s scores were updated with publicly available information.
+That was sufficient to result in a score increase of nearly three percent (from 24.29% to 27.02%), owing to a small improvement in scores in
+Tuna Procurement Policy, Traceability, and Human Rights & Labor Protections. Costco was 10th on Environment and a disappointing
+13th on Human Rights, for an overall place of 11th.
+
+One change that contributed to this slightly elevated score is Costco’s work with the Seafood Task Force on suppliers’ worker contracts,
+particularly around ensuring contracts are communicated clearly to workers in a language they can understand[21]. Another is the company’s
+work on enhancing traceability[22] through an annual seafood survey and expanding this survey to suppliers for all their global locations.
+
+In general, however, Costco’s performance remains poor; despite its size and influence, it is solidly in the bottom half of our rankings and
+its environmental and sustainability scores are especially disappointing.
+
+Positive: Costco deserves recognition as a founding member of the
+Seafood Task Force, a coalition of businesses and NGOs working to
+improve  sustainability  in  the  Thai  seafood  supply  chain.  Though
+the amount of specific information about the Seafood Task Force
+is limited, the Task Force has done some positive work, including in
+the area of recruitment. Though currently limited to Thailand, this
+engaged approach to supply chain oversight should be expanded
+to cover all aspects of seafood sourcing, particularly work aboard
+distant-water vessels.
+
+Costco also scores points in the Human Rights & Labor Protections
+section  for  monitoring  and  addressing  issues  with  suppliers,  as
+well as its work with third parties to analyze risk across its entire
+supply chain.
+
+last  year  remain  concerning.
+
+issues  that  dragged
+Poor/Needs  Improvement:  The  same
+down  Costco’s  score
+In  the
+Tuna  Procurement  Policy  section,  its  sourcing  and  seafood
+sustainability policies remain vague, as does its policy on human
+rights[23] [24]. Costco’s human rights policy would be much improved
+if  it  was  more  clearly  guided  by  specific  international  principles,
+such as the UNGPs, ILO Core Conventions and the ILO C188 — Work
+in Fishing Convention.
+
+Costco  also  does  not  have  a  public  transshipment  policy,
+which  is  disappointing  considering  Costco’s  buying  power,  the
+exposure the issue has had in recent years, and its importance to
+sustainable fishing.
+
+And for a retailer with such global reach, it is highly disappointing
+that Costco scores extremely poorly on Advocacy.
+
+In  the  Human  Rights  &  Labor  Protections  section,  Costco  lacks
+specific  consideration  of  grievance  mechanisms,  due  diligence
+frameworks  or  engagement  with  vulnerable  groups,  such  as
+migrant  workers,  in  their  supply  chains.  In  order  to  help  embed
+these practices across the sector, all companies should make use
+of the UN Guiding Principles on Business & Human Rights to guide
+their policies.
+
+22  HIGH COST OF CHEAP TUNA 2ND EDITION
+
+Giant Eagle
+
+(cid:26)(cid:22)(cid:30)(cid:23)(cid:21)(cid:20)(cid:20)(cid:24)(cid:31)(cid:29)(cid:26)(cid:23)(cid:30)(cid:31)
+
+9th
+
+Total
+
+8th
+
+F
+31.12%
+
+F
+
+11th
+
+F
+
+(cid:31)(cid:30)(cid:29)(cid:28)(cid:27)(cid:26)(cid:25)(cid:24)(cid:31)(cid:29)(cid:26)(cid:23)(cid:30)(cid:31)
+
+Tuna Procurement Policy
+
+Traceability
+
+36%F
+
+F
+
+44%
+
+Human Rights & labor
+
+Current Sourcing
+
+Enviro
+
+51.68/112
+
+HR
+
+31.5/154
+
+Advocacy & Initiatives F
+
+28%
+
+Customer Education/
+Labelling
+
+10%F
+
+F
+
+45%
+
+F
+
+18%
+
+Having  not  completed  a  survey  last  year,  Giant  Eagle  did  so  this  year  and  provided  additional  resources;  we  commend  them  for  their
+engagement.  This  engagement,  and  the  additional  information  the  company  shared,  played  a  significant  role  in  Giant  Eagle’s  score
+increasing from 25.93% to 31.12%. For instance, its score in the Human Rights & Labor Protections section increased from -2 last year to
++5 as a direct result of its ability to share information that supported its survey response.
+
+Similarly, improved performance on the human rights-related questions in the Tuna Procurement Policy section can be attributed to
+Giant Eagle’s recently updated Supplier Code of Conduct, which highlighted several of their positions on human rights in their supply
+chain[25]. That said, the Supplier Code of Conduct does not go far enough in terms of alignment with international standards and treaties,
+and Giant Eagle’s overall performance was mediocre at best.
+
+Positive:  Giant  Eagle  continued  their  mediocre  performance  on
+environmental  issues.  Many  of  Giant  Eagle’s  responses  related  to
+environmental  issues  were  positive:  on  Traceability,  they  claim
+to  be  able  to  trace  every  SKU  of  tuna  down  to  the  fishing  vessel,
+they have two dedicated sustainability officers, and they explicitly
+commit  to  only  allow  transshipment-at-sea  with  100  percent
+observer  coverage[26].  The  company  also  included  language  in
+support  of  Marine  Protected  Areas  (MPAs),  and  requirements
+around Fisheries Improvement Project (FIPs)[27], and was the only
+retailer to mention the importance of sustainable bait fisheries for
+pole and line tuna.
+
+Poor/Needs  Improvement:  While  it  is  good  to  see  that  Giant
+Eagle  recently  updated  its  Supplier  Code  of  Conduct  and  now
+has  a  basic  Human  Rights  Statement  in  place[28],  they  still  have
+a  long  way  to  go.  Their  Supplier  Code  of  Conduct  and  Human
+Rights Statement would benefit from alignment with and explicit
+reference  to  internationally  recognized  instruments  such  as  the
+UN  Declaration  of  Human  Rights,  ILO  Core  Conventions,  and  the
+ILO’s Work in Fisheries Convention, C188.
+
+In  addition,  in  the  Human  Rights  &  Labor  Protections  section,
+while  they  cite  their  work  with  the  Sustainable  Fisheries
+Partnership’s  Human  Rights  Risk  indicator  for  identifying  human
+rights  risks  in  their  supply  chain,  this  work  is  not  supported  by
+a  comprehensive  human  rights  due  diligence  process,  worker
+engagement, or grievance mechanisms. Instead, they continue to
+rely on third-party audits, an approach that has been shown to be
+inadequate  and  ineffective  when  it  comes  to  addressing  human
+rights issues in supply chains.
+
+Giant  Eagle  puts  considerable  emphasis  on  educating  customers
+informed  purchasing  decisions”
+to  make  “responsible  and
+including educating staff to assist with this information. However,
+improvements  to  sourcing  policies  and  inventory  could  assist
+those customers by ensuring that all seafood on the shelves meets
+rigorous  sustainability  and  human  rights  standards.  Stocking
+anything that doesn’t meet these standards undermines retailers’
+sustainability efforts and creates uncertainty for customers.
+
+HIGH COST OF CHEAP TUNA 2ND EDITION  23
+
+H-E-B
+
+(cid:26)(cid:22)(cid:30)(cid:23)(cid:21)(cid:20)(cid:20)(cid:24)(cid:31)(cid:29)(cid:26)(cid:23)(cid:30)(cid:31)
+
+12th
+
+F
+24.33%
+
+Total
+
+10th
+
+F
+
+13th
+
+F
+
+Enviro
+
+45.76/112
+
+HR
+
+15.5/154
+
+(cid:31)(cid:30)(cid:29)(cid:28)(cid:27)(cid:26)(cid:25)(cid:24)(cid:31)(cid:29)(cid:26)(cid:23)(cid:30)(cid:31)
+
+Tuna Procurement Policy
+
+Traceability
+
+Advocacy & Initiatives
+
+25%F
+
+F
+
+48%
+
+F
+
+7%
+
+Human Rights & labor
+
+Current Sourcing
+
+Customer Education/
+Labelling
+
+0%F
+
+F
+
+37%
+
+F
+
+32%
+
+H-E-B did not complete a survey; as a result, only publicly available information — including their Seafood Policy[29] and Supplier Code of
+Conduct[30] — was reviewed and used to score them. Based on this information, H-E-B finished 12th overall.
+
+Like most other retailers, H-E-B scored points in the Tuna Procurement Policy section for at least having sustainability and human rights
+policies in place; it also did reasonably well in terms of Traceability, and for efforts to source only sustainable fish (Current Sourcing).
+However, the bright spots were few and far between; of 39 questions in the survey, H-E-B scored zero or negative points in 19. The slight
+increase in its score from last year was solely the result of this year’s survey including one more question.
+
+Positive:  In  the  Tuna  Procurement  Policy  section,  H-E-B  scored
+well for having policies in place and did have a good amount of detail
+regarding  environmental  specifics,  including  not  sourcing  from
+“red” fisheries and only sourcing tuna that is either MSC certified
+or making progress in a FIP[29]. However, they could improve their
+score  with  some  specific  wording  on  Marine  Protected  Areas  and
+sourcing only from “green” fisheries.
+
+H-E-B  also  scored  reasonably  well  for  their  work  to  improve
+Traceability,  including  commitments  to  not  selling  IUU  fish  and
+working with Trace Register to provide third party verification. One
+impressive  and  stand-out  feature  of  this  work  was  their  product
+sourcing  grid  —  essentially  a  publicly-available  table  of  all  the
+species  they  stock,  country  of  origin,  source,  catch  method,  and
+sustainability rating, which is updated twice a year[30]. Greenpeace
+USA would love to see other companies disclosing similar informa-
+tion in an easily understood format.
+
+Poor/Needs  Improvement:  H-E-B’s  scores  on  human  rights
+questions  suffered,  like  many  others,  from  a  lack  of  specificity.
+Despite  recognizing  that  there  are  human  rights  concerns
+associated  with  the  seafood  industry,  their  statements  are  vague
+and  are  either  not  grounded  in  a  policy  framework  provided  by
+international  instruments,  such  as  the  UN  Guiding  Principles
+on  Business  &  Human  Rights,  or  they  fail  to  provide  a  practical
+explanation  for  how  these  requirements  will  be  monitored  or
+enforced. Discussions and understanding around the human rights
+impacts of global supply chains are well-advanced, but that fact is
+not reflected in much of H-E-B’s human rights work.
+
+With  more  than  half  of  the  questions  in  the  survey  focused  on
+human rights, H-E-B’s lack of a human rights policy played a major
+role in their poor performance.
+
+24  HIGH COST OF CHEAP TUNA 2ND EDITION
+
+Hy-Vee
+
+(cid:26)(cid:22)(cid:30)(cid:23)(cid:21)(cid:20)(cid:20)(cid:24)(cid:31)(cid:29)(cid:26)(cid:23)(cid:30)(cid:31)
+
+4th
+
+F
+50.08%
+
+Total
+
+3rd
+
+F
+
+Enviro
+
+66.93/112
+
+F
+
+4th
+
+HR
+
+63/154
+
+(cid:31)(cid:30)(cid:29)(cid:28)(cid:27)(cid:26)(cid:25)(cid:24)(cid:31)(cid:29)(cid:26)(cid:23)(cid:30)(cid:31)
+
+Tuna Procurement Policy
+
+Traceability
+
+58%F
+
+B
+
+81%
+
+Human Rights & labor
+
+Current Sourcing
+
+Advocacy & Initiatives F
+
+28%
+
+Customer Education/
+Labelling
+
+24%F
+
+F
+
+58%
+
+F
+
+36%
+
+Hy-Vee answered the survey, provided additional materials, and was one of the strongest performers; together with Ahold and Whole Foods,
+it comprised a small group challenging for second behind Aldi. It finished joint first on Tuna Procurement Policy, first on Traceability, and
+fourth on Current Sourcing. Its overall score increased by just over 7%, from 42.92% to 50.08%, the second highest growth after Sprouts.
+Its Environmental score increased from 63.9 to 66.93 and its rating on Human Rights leaped from 48.5 to 66.
+
+Last  year,  Hy-Vee  was  alone  in  committing  to  share  its  private  label  tuna  supplier  vessel  list;  in  2022  it  not  only  followed  through  on
+that pledge[31], but it also committed to updating the list again this year, leading to bonus points in the Tuna Procurement Policy and
+Traceability sections.
+
+The growth in Hy-Vee’s Human Rights score is attributable to the company conducting social responsibility risk assessments to inform
+human rights risks and prioritize action. In 2021, it conducted a social responsibility deep dive, the results of which it is presently using to
+inform mitigation actions.
+
+Overall, Hy-Vee has engaged positively on environmental issues but still has some way to go in fully addressing these issues. Its improved
+Human Rights score reflects the increased seriousness with which it is also beginning to address those issues, although this is still at a
+nascent stage.
+
+joint  first  with  Aldi
+
+Positive:  Hy-Vee  ranked
+in  the  Tuna
+Procurement Policy section, standing out for having significantly
+more  detail  and  reference  to  international  standards  than  most
+others[32]. They had strong, internationally recognized requirements
+of their suppliers, including mandated rest times, crew conditions,
+and health and safety[32].
+
+Poor/Needs Improvement: Although Hy-Vee saw an improvement
+in its Human Rights score, it left blank a whole series of questions
+regarding  specific  details  of  human  rights  due  diligence  as
+articulated  in  the  UN  Guiding  Principles  on  Business  &  Human
+Rights  (UNGP),  such  as  remediation,  worker  engagement,  and
+worker voice , and its score suffered as a result.
+
+Significantly, they were one of only two companies who explicitly
+referenced  migrant  workers  in  their  supplier  Code  of  Conduct.  In
+particular, Hy-Vee expressly requires its suppliers to treat migrant
+workers the same as nationals, an extremely important provision
+when  local  laws  often  fail  to  grant  migrant  workers  the  same
+protections.
+
+Hy-Vee’s Traceability work is strong and rooted in internationally
+recognized  best  practice[33].  Their  traceability  work  —  including
+risk assessments and audits — in partnership with FishWise looks
+robust  and  well-considered,  providing  a  strong  framework  on
+which to add an increased focus on human rights.
+
+Finally,  Hy-Vee  was  the  only  company  who  agreed  to  publish
+supplier  vessel  lists,  and  followed  through  on  this  agreement,
+demonstrating  a  commitment  to  transparency  that  no  other
+company was willing to match[31].
+
+While  it  has  made  efforts  to  familiarize  itself  with  its  suppliers’
+grievance  mechanisms,  it  has  yet  to  establish  its  own  grievance
+mechanism  and/or  aligning  existing  mechanisms  within  the
+supply chain with the characteristics of an effective mechanism as
+highlighted in the UNGPs.
+
+For a company that has made a number of positive improvements
+in  sustainable  seafood  sourcing,  Hy-Vee  continues  to  source  the
+majority of its tuna from damaging fishing methods, sourcing well
+over  90  percent  from  purse  seine  or  longline;  in  fact,  its  score  on
+Current Sourcing has marginally declined since last year.
+
+HIGH COST OF CHEAP TUNA 2ND EDITION  25
+
+Kroger
+
+(cid:26)(cid:22)(cid:30)(cid:23)(cid:21)(cid:20)(cid:20)(cid:24)(cid:31)(cid:29)(cid:26)(cid:23)(cid:30)(cid:31)
+
+F
+27.31%
+
+10th
+
+Total
+
+12th
+
+Enviro
+
+F
+
+8th
+
+F
+
+38/112
+
+HR
+
+39.5/154
+
+(cid:31)(cid:30)(cid:29)(cid:28)(cid:27)(cid:26)(cid:25)(cid:24)(cid:31)(cid:29)(cid:26)(cid:23)(cid:30)(cid:31)
+
+Tuna Procurement Policy
+
+Traceability
+
+Advocacy & Initiatives
+
+31%F
+
+F
+
+7%
+
+F
+
+21%
+
+Human Rights & labor
+
+Current Sourcing
+
+Customer Education/
+Labelling
+
+33%F
+
+F
+
+36%
+
+F
+
+39%
+
+Kroger  submitted  a  survey  and  provided  additional  resources;  it  finished  a  disappointing  12th  on  Environment  and  eighth  on  Human
+Rights, for an overall position of 10th. Kroger’s score increased by a little over 7% this year, from 20.01% last year to 27.31% this year, with
+its Environment score jumping from 31.9 to 38, and its Human Rights total from 33.5 to 39.5.
+
+These increases are attributable primarily to improved scores in Current Sourcing, and marginal improvements in Tuna Procurement
+Policy, Traceability, and Advocacy and initiatives. The improvement in Current Sourcing was the result of dramatically increasing their
+offerings of tuna from less environmentally damaging catch methods such as pole and line and FAD-free purse seine.
+
+Their improved score in Tuna Procurement Policy stems from an updated human rights policy that explicitly commits them to upholding
+international instruments such as UN Guiding Principles on Business & Human Rights (UNGP), ILO, and the International Bill of Human
+Rights[34] .
+
+Positive: While they didn’t have an improvement of their score
+in  the  Human  Rights  and  Labor  Protections  section  (since
+this  section  relates  to  systems  for  identifying,  mitigating,  and
+remediating human rights risks, not a stated human rights policy.
+Human  Rights  policies  are  covered  in  the  Tuna  Procurement
+Policy  section),  their  commitment  towards  developing  and
+operationalizing  a  more  comprehensive  human  rights  due
+diligence  process  and  their  commitments  towards  conducting
+human  rights  impact  assessments  are  commendable[35].  We  look
+forward  to  seeing  how  these  develop  and  translate  into  larger
+improvements in scores.
+
+Poor/Needs  Improvement:  Despite  a  slight  improvement  in  its
+Traceability score, Kroger finished second from last in this section,
+as it did last year. Its tracing program remains poorly developed and
+continues to rely heavily on the International Seafood Sustainability
+Foundation (ISSF)[36], which cannot substitute for robust and well-
+considered in-house policies. Monitoring also relies too heavily on
+third parties, with audits only taking place annually.
+
+On  the  issue  of  transshipment-at-sea,  Kroger  answered  that,
+despite its centrality to a range of environmental and human rights
+issues in the tuna industry, they do not have a stance on it. This is
+extremely disappointing for a company of Kroger’s size and reach.
+Kroger’s voice can be a powerful driver of change on this issue.
+
+While the company has made some efforts toward developing risk
+assessments  and  committing  to  conducting  impact  assessments,
+it  is  still  lagging  when  it  comes  to  grievance  mechanisms,
+remediation,  and  worker  voice.  Kroger  continues  to  cite  their
+ethics  helpline  as  a  grievance  mechanism[34];  however,  there
+are  significant  questions  as  to  the  suitability  of  such  helplines
+for  addressing  potential  issues  in  supply  chains,  particularly
+aboard  distant  water  fishing  vessels.  In  addition  to  this  hotline,
+Kroger launched a Worker Voice Survey in 2019, through its social
+compliance  auditing  firm,  ELEVATE,  which  “allows  workers  to
+share  sentiment  and  feedback  anonymously.”  Such  audits-based
+approaches have been found to be ineffective at addressing social
+or human rights issues. There is a need to go beyond this and adopt
+well-defined grievance mechanisms that align with the UNGPs.
+
+26  HIGH COST OF CHEAP TUNA 2ND EDITION
+
+Meijer
+
+(cid:26)(cid:22)(cid:30)(cid:23)(cid:21)(cid:20)(cid:20)(cid:24)(cid:31)(cid:29)(cid:26)(cid:23)(cid:30)(cid:31)
+
+16th
+
+F
+15.82%
+
+Total
+
+16th
+
+F
+
+Enviro
+
+22.94/112
+
+F
+
+12th
+
+HR
+
+24/154
+
+(cid:31)(cid:30)(cid:29)(cid:28)(cid:27)(cid:26)(cid:25)(cid:24)(cid:31)(cid:29)(cid:26)(cid:23)(cid:30)(cid:31)
+
+Tuna Procurement Policy
+
+Traceability
+
+Advocacy & Initiatives
+
+21%F
+
+F
+
+4%
+
+F
+
+0%
+
+Human Rights & labor
+
+Current Sourcing
+
+Customer Education/
+Labelling
+
+8%F
+
+F
+
+38%
+
+F
+
+21%
+
+Meijer completed the survey and indicated no change in its policies or actions from last year. Although its total score increased from 14.63%
+to 15.82%, this was solely the result of the addition of an extra question in 2022. Meijer scored poorly across the board and finished in 16th
+and last place overall.
+
+It was one of very few retailers not to score maximum points from the first few questions, which merely asked respondents to describe their
+Tuna Procurement Policies; it also scored just one point out of a possible 27 on Traceability, zero on Advocacy, and just four on Human
+Rights & Labor Protections. Meijer’s failings are numerous but include: the lack of a policy on shelf-stable tuna, which accounts for most
+of the tuna sold in the US; an over-reliance on suppliers to self-report problems from chain of supply to human rights shortcomings; selling
+at-risk species such as bluefin tuna; and selling predominantly tuna caught by longlining and FAD-assisted purse seines, the two least
+selective methods.
+
+Positive:  Outside  of  having  at  least  some  tuna  procurement
+policies[37]  and  expressing  commendable  support  for  collective
+bargaining, there is little positive to be said. A lot of improvement
+needs to be made across a range of categories — from Traceability,
+to Advocacy, and Human Rights & Labor protections.
+
+Poor/Needs  Improvement:  Meijer’s  scores  were  greatly  harmed
+by the lack of a shelf-stable tuna policy. As a result, they could not
+score points on questions in the Tuna Procurement Policy section
+and came last in the Traceability section.
+
+One  of  the  weaknesses  of  Meijer’s  Traceability  work  was  its
+inability to independently verify traceability requirements, relying
+instead  on  ad  hoc  document  requests  to  suppliers.  Instead,
+supplier  documentation,  including  monitoring  and  oversight,
+should  be  embedded  into  policy  and  practice.  Supplier  auditing
+was also weak, with an annual review of Tier 1 Own Brand suppliers
+leaving significant opportunity for abusive or exploitative practices
+to develop. Supplier auditing was also weak, with an annual review
+limited  to  Tier  1  Own  Brand  suppliers,  that  leaves  significant
+opportunity for abusive or exploitative practices to develop.
+
+Similarly,  Meijer  did  not  have  a  human  rights  due  diligence
+framework in place, again relying entirely on suppliers to provide
+information. Though they completed their own survey, like many
+others, Meijer chose to leave large sections blank, in particular, the
+Human Rights & Labor Protections section.
+
+Finally,  Meijer  had  one  of  the  lowest  Current  Sourcing  scores,
+particularly  among  companies  that  completed  their  own  survey.
+This  came  down  to  including  at-risk  species  such  as  bluefin  tuna
+in  its  product  offering,  as  well  as  using  damaging  catch  methods
+in already overfished areas. In addition, over 90 percent of Meijer’s
+tuna  offering  came  from  tuna  caught  using  longlines  or  FAD-
+assisted purse seines, the two least selective methods.
+
+HIGH COST OF CHEAP TUNA 2ND EDITION  27
+
+Publix
+
+(cid:26)(cid:22)(cid:30)(cid:23)(cid:21)(cid:20)(cid:20)(cid:24)(cid:31)(cid:29)(cid:26)(cid:23)(cid:30)(cid:31)
+
+13th
+
+F
+18.53%
+
+Total
+
+13th
+
+F
+
+Enviro
+
+37.29/112
+
+F
+
+14th
+
+HR
+
+12/154
+
+(cid:31)(cid:30)(cid:29)(cid:28)(cid:27)(cid:26)(cid:25)(cid:24)(cid:31)(cid:29)(cid:26)(cid:23)(cid:30)(cid:31)
+
+Tuna Procurement Policy
+
+Traceability
+
+Advocacy & Initiatives
+
+25%F
+
+F
+
+37%
+
+F
+
+7%
+
+Human Rights & labor
+
+Current Sourcing
+
+Customer Education/
+Labelling
+
+-4%F
+
+F
+
+28%
+
+F
+
+18%
+
+Publix did not respond to the questionnaire, and its positions had to be largely inferred from publicly available information, primarily
+drawn from its “virtual store” website[37]. When no information was available to answer a question definitively, no points could be awarded,
+contributing to Publix’s very low scores in all areas. There was a slight increase in its score, from 16.95% to 18.53% — the result of an
+additional two points picked up in the Advocacy section for the company endorsing the NGO Tuna Forum’s advocacy letters to RFMOs.
+However, Publix placed 13th on Environment, 14th on Human Rights, and 13th overall.
+
+Positive:  Publix  scored  well  on  initial  questions  about  having
+policies  in  the  Tuna  Procurement  Policy  section,  but  fell  down
+on the detail. It is at least encouraging that Publix recognizes the
+importance of making public commitments to sourcing sustainable
+seafood.  Publix  does  acknowledge  the  importance  of  making
+public commitments to sourcing sustainable seafood. It also works
+with  a  number  of  important  sustainability-focused  organizations,
+including  the  Sustainable  Fisheries  Partnership  and  the  Global
+Sustainable  Seafood  Initiative  (GSSI).  While  engagement  with
+outside  organizations  and  initiatives  is  important,  it  does  not
+substitute  the  need  for  a  robust  policy  with  clear  steps  towards
+implementation  and  ongoing  monitoring.  However,  based  on  the
+available information, rapid improvements could be made through
+the process of codifying many of the things Publix already does or
+claim they want to do into a coherent policy.
+
+Further,  on  Traceability,  Publix  requires  suppliers  to  maintain
+documentation  on  the  products  they  provide  to  ensure  full
+traceability, conducting “mock recalls” to verify their effectiveness,
+although there is no specific indication that this includes seafood
+—  a  supply  chain  with  unique  challenges  and  risks.  This  is  a
+positive practice that could be improved and developed to include
+sustainability standards as well as human rights due diligence.
+
+Poor/Needs Improvement: Publix published a new sustainability
+report  in  2022[38],  but  it  suffered  from  the  same  problems  as
+previous  versions,  including  the  fact  that  there  is  no  mention  of
+human rights and very little specific information on the company’s
+sustainable  seafood  sourcing.  Companies  that  did  not  complete
+a  survey  nor  have  publicly  available  information  on  their  human
+rights policy were unable to score any points for questions in the
+Tuna Procurement Policy section and Publix’s scores reflect that.
+
+Not  only  did  Publix  finish  last  in  the  Human  Rights  and  Labor
+Protections section, it scored negative points in this section owing
+to  a  complete  lack  of  any  sort  of  human  rights  or  forced  labor
+policies, besides a passing mention of zero tolerance against forced
+labor in their “Supplier Policies & Guidelines”[39].
+
+Publix also scored very poorly on Advocacy — managing to score
+only  2  points  from  a  possible  29  for  this  section,  as  a  result  of
+limited public evidence that they use their position to advocate for
+positive change.
+
+28  HIGH COST OF CHEAP TUNA 2ND EDITION
+
+Southeastern Grocers
+
+(cid:26)(cid:22)(cid:30)(cid:23)(cid:21)(cid:20)(cid:20)(cid:24)(cid:31)(cid:29)(cid:26)(cid:23)(cid:30)(cid:31)
+
+14th
+
+F
+17.73%
+
+Total
+
+11th
+
+F
+
+16th
+
+F
+
+Enviro
+
+38.72/112
+
+HR
+
+3.5/154
+
+(cid:31)(cid:30)(cid:29)(cid:28)(cid:27)(cid:26)(cid:25)(cid:24)(cid:31)(cid:29)(cid:26)(cid:23)(cid:30)(cid:31)
+
+Tuna Procurement Policy
+
+Traceability
+
+Advocacy & Initiatives
+
+11%F
+
+F
+
+33%
+
+F
+
+0%
+
+Human Rights & labor
+
+Current Sourcing
+
+Customer Education/
+Labelling
+
+2%F
+
+F
+
+36%
+
+F
+
+21%
+
+Southeastern Grocers did not answer the survey in 2021 but did so in 2022, for which it must be commended. However, most responses
+were lacking in detail, and many questions went completely unanswered — including all of the Advocacy section and large chunks of
+Human Rights & Labor Protections and Current Sourcing — requiring us to draw on publicly available information — mostly from their
+2021 Corporate and Social Responsibility Report[40], to score those sections.
+
+The company’s score did improve from a dismal 12.35% to a marginally less terrible 17.73%, owing largely to improved scores for traceability
+(from  2  points  last  year  to  9  this  year)  and  to  a  small  improvement  in  the  human  rights  section  (from  -4  to  +1).  This  was  because,  by
+answering the survey, they were able to provide more information than is available publicly to support their responses. Overall, however,
+their performance remains abysmal; the company did not receive passing scores in any section and scored points on only nine out of 39
+questions.
+
+As with the 2020 version, its 2021 Corporate and Social Responsibility report did not include even one mention of human rights, and the
+company continues to have no discernible policy on at-sea-transshipment, human rights due diligence, migrant workers, or grievance
+mechanisms.
+
+On the plus side, however, SE Grocers claims to be able to trace 100 percent of its tuna back to the source vessel.
+
+Positive: Southeastern Grocers are at least aware of many of the
+environmental  issues  linked  to  seafood  supply  chains  and  have
+made  commitments  to  working  with  the  Global  Aquaculture
+Alliance (GAA), Sustainable Fisheries Partnership (SFP), the World
+Wildlife Fund (WWF), and the International Seafood Sustainability
+Foundation  (ISSF).  However,  while  committing  to  working  with
+these organizations represents a positive step, it is not a substitute
+for  robust  tuna  procurement  policies  guided  by  international
+instruments with clear plans for implementation.
+
+Southeast  Grocers  appear  to  take  the  trust  of  their  customers
+seriously, as well as considering their commitment to sustainable
+seafood to be part of this trust. Southeast Grocers should build on
+this  premise  by  providing  their  customers  with  a  thoughtful  and
+robust seafood policy that ensures customers that their seafood is
+not damaging the environment or abusing the rights of those who
+produce it.
+
+Poor/Needs Improvement: Southeastern Grocers’ seafood policy
+needs significantly more detail on environmental issues, including
+policies on transshipment at sea, improved traceability, regular
+supplier audits and ongoing monitoring. There is much mention of
+“promises”  and  commitments  to  sourcing  sustainable  seafood,
+but without detail it is difficult to know what steps are being taken
+to assure this.
+
+On  human  rights,  Southeastern  Grocers  must  first  establish  a
+human rights policy covering their entire supply chain, with specific
+considerations  given  to  high-risk  activities  such  as  fishing.  This
+policy  should  be  rooted  in  internationally  recognized  principles
+and standards and guided by the UN Guiding Principles on Business
+and Human Rights.
+
+HIGH COST OF CHEAP TUNA 2ND EDITION  29
+
+Sprouts
+
+(cid:26)(cid:22)(cid:30)(cid:23)(cid:21)(cid:20)(cid:20)(cid:24)(cid:31)(cid:29)(cid:26)(cid:23)(cid:30)(cid:31)
+
+7th
+
+F
+40.41%
+
+Total
+
+4th
+
+F
+
+Enviro
+
+65.26/112
+
+F
+
+9th
+
+HR
+
+39/154
+
+(cid:31)(cid:30)(cid:29)(cid:28)(cid:27)(cid:26)(cid:25)(cid:24)(cid:31)(cid:29)(cid:26)(cid:23)(cid:30)(cid:31)
+
+Tuna Procurement Policy
+
+Traceability
+
+37%F
+
+F
+
+48%
+
+Human Rights & labor
+
+Current Sourcing
+
+Advocacy & Initiatives F
+
+0%
+
+Customer Education/
+Labelling
+
+25%F
+
+C
+
+77%
+
+F
+
+32%
+
+Sprouts answered the survey and provided additional resources[41] [42]. It produced a fourth-place finish in Environment, but was only ninth
+on Human Rights, for an overall position of seventh. However, its score saw by far the largest increase of any retailer from 2021 to 2022,
+leaping from 25.5% to 40.41%.
+
+One important reason for this increase was the publication in April 2022 of a new commitment to human rights which led to an increase in
+their scores on Tuna Procurement Policy. Their new commitment included explicit alignment with international instruments such as the
+UN Declaration on Human Rights and ILO guidelines[43].
+
+The company also instituted ongoing internal traceability audits and expanded the traceability of all tuna products down to individual
+fishing vessels — steps that resulted in its scores in the Traceability section jumping from an abysmal two points last year to 13 this year.
+Additionally, Sprouts has enhanced its supply chain monitoring.
+
+It has also begun refining its human rights due diligence framework, and, although we could not award points for this in the Human
+Rights & Labor Protections section because the process is incomplete, we look forward to tracking its development.
+
+That said, while Sprouts has made important strides in advancing human rights, its scores are still short of passing, indicating much more
+work to be done.
+
+Positive:  Sprouts  achieved  its  highest  scores  and  ranking  for  the
+Current  Sourcing  section,  which  included  questions  on  product
+offering and catch methods, as well as policy. Perhaps in a reflection
+of  one  of  the  strengths  of  being  a  smaller  company,  Sprouts  got
+one of the highest scores for not stocking problematic species or
+brands. It scored joint highest with Ahold, Aldi, and Whole Foods
+for  the  number  of  risky  tuna  products  they  don’t  stock,  stocking
+only four out of 13 of the riskiest products, and none of the high-
+risk brands. Additionally, just under 97 percent of all tuna it sells are
+caught by pole-and-line, trolls, or hand lines.
+
+Poor/Needs  Improvement:  Despite  commendable  improvement
+to  its  policy  and  its  risk  assessment  protocols,  its  Human  Rights
+scores  continue  to  be  low.  When  it  comes  to  several  practical
+elements of a human rights due diligence process that is aligned
+with  United  Nations  Guiding  principles,  it  continues  to  lag  on
+such areas as remediation, grievance mechanisms, and worker
+engagement. However, it is currently working on developing these
+and Greenpeace USA looks forward to seeing these develop further.
+
+Recognizing that advocacy work favors larger companies with more
+resources,  Sprouts  was  one  of  only  two  companies  to  score  no
+points for the Advocacy section, and we would encourage Sprouts
+to make better use of their voice to drive important improvements.
+
+30  HIGH COST OF CHEAP TUNA 2ND EDITION
+
+Target
+
+(cid:26)(cid:22)(cid:30)(cid:23)(cid:21)(cid:20)(cid:20)(cid:24)(cid:31)(cid:29)(cid:26)(cid:23)(cid:30)(cid:31)
+
+5th
+
+F
+47.86%
+
+Total
+
+7th
+
+F
+
+Enviro
+
+52.59/112
+
+F
+
+4th
+
+HR
+
+63/154
+
+(cid:31)(cid:30)(cid:29)(cid:28)(cid:27)(cid:26)(cid:25)(cid:24)(cid:31)(cid:29)(cid:26)(cid:23)(cid:30)(cid:31)
+
+Tuna Procurement Policy
+
+Traceability
+
+34%F
+
+F
+
+52%
+
+Human Rights & labor
+
+Current Sourcing
+
+Advocacy & Initiatives F
+
+24%
+
+Customer Education/
+Labelling
+
+71%C
+
+F
+
+45%
+
+F
+
+36%
+
+Target completed a survey and provided additional information, offering detailed explanations of many of its responses. It finished seventh
+on Environment and fourth on Human Rights, for an overall position of fifth. Its score of 47% was unchanged from last year, despite the
+addition of an extra question in the survey, as it performed slightly more poorly on Environment. That said, it performed well in several
+areas, especially in the Human Rights and Labor Protections section, where it was the top scorer.
+
+Positive:  Target’s  Supply  Chain  Labor  and  Human  Rights  policy
+was  detailed  and  addressed  a  number  of  systemic  problems,
+such  as  recruitment[44].  The  policy  aims  to  reduce  the  risk  of
+recruitment associated debt by explicitly committing the company
+and its suppliers to abiding by the “Employer Pays Principle”. This
+requirement also forms part of their supplier reviews and audits, an
+essential step in ensuring compliance
+
+that  appears  well-thought  out  and
+
+Target  has  also  implemented  a  human  rights  due  diligence
+framework
+relatively
+comprehensive,  including  gathering  a  range  of  information  all
+the  way  down  to  the  vessels  in  its  supply  chain[45].  Part  of  this
+framework  includes  specific  engagement  with  migrant  workers
+and the recognition that they represent a vulnerable group within
+the supply chain.
+
+Target’s  traceability  system[46]  —  including  its  actions  to  prevent
+fish  fraud[47]  —  appears  robust  and  comprehensive,  including  the
+verification of custody on certification claims of FAD-free products.
+
+Poor/Needs  Improvement:  Like  most  retailers,  Target  declines
+to publish a supplier vessel list, even though it publishes a list of
+supplier factories, which it says “creates meaningful opportunities
+to  enhance  responsible  and  sustainable  production  practices.”  If
+it is true for factories, it is certainly true for fishing vessels, and a
+range of stakeholders — including customers and workers groups
+— can benefit from improved availability of this information.
+
+Target’s  explicit  requirement  of  100%  observer  coverage  for
+tuna that is transshipped at sea is a starting point, but the more
+companies  that  prohibit  this  risky  practice  altogether  —  and
+independently  audit  to  ensure  compliance  —  the  more  quickly  it
+can be eradicated.
+
+Target  has  stated  that  they  are  working  with  their  own  brand
+suppliers  to  ensure  workers  are  paid  digitally  by  2025.  Payment
+documentation is an important aspect of ensuring workers in the
+supply chain are paid fairly, but this requirement can and should
+include all suppliers.
+
+HIGH COST OF CHEAP TUNA 2ND EDITION  31
+
+Walmart
+
+(cid:26)(cid:22)(cid:30)(cid:23)(cid:21)(cid:20)(cid:20)(cid:24)(cid:31)(cid:29)(cid:26)(cid:23)(cid:30)(cid:31)
+
+6th
+
+F
+43.51%
+
+Total
+
+9th
+
+F
+
+Enviro
+
+50.18/112
+
+F
+
+3rd
+
+HR
+
+64/154
+
+(cid:31)(cid:30)(cid:29)(cid:28)(cid:27)(cid:26)(cid:25)(cid:24)(cid:31)(cid:29)(cid:26)(cid:23)(cid:30)(cid:31)
+
+Tuna Procurement Policy
+
+Traceability
+
+36%F
+
+F
+
+22%
+
+Human Rights & labor
+
+Current Sourcing
+
+Advocacy & Initiatives F
+
+55%
+
+Customer Education/
+Labelling
+
+65%D
+
+F
+
+44%
+
+F
+
+29%
+
+Walmart did not complete a survey; as a result, publicly available information — including its Human Rights Statement[48], the Human
+Rights page on its website[48], and its Seafood Policy[49] — was analyzed and used to score the survey. Compared with many other companies,
+Walmart is fairly advanced with both the development of these policies and their communication of them. Despite the relative wealth of
+material available, we were unable to discern much progress since last year’s report, resulting in a marginal score increase that can be
+attributed entirely to the new question in the Tuna Procurement Policy section. Walmart finished ninth on Environment and third on
+Human Rights, for an overall rank of sixth.
+
+Walmart’s size and available resources provide a considerable advantage regarding engagement, involvement in groups and associations,
+advocacy, communication and other initiatives. However, commitment in this area is a matter of culture, and Greenpeace USA recognizes
+Walmart’s engagement and investment in many areas of this work. In some ways, Walmart’s size and influence allow it to set the agenda
+and drive the conversation, presenting an excellent opportunity for positive leadership. However, this is an opportunity Walmart has yet to
+fully embrace — it must do much more than it is currently doing in order to have such an effect on the industry.
+
+Positive:  Walmart  has  publicly  accessible  web  pages
+detailing a range of policies, including Seafood, “Forced
+Labor Prevention” and “Human Rights Statement”.
+
+Walmart  was  one  of  the  only  companies  to  have  a
+standalone section on human rights, which covers all its
+business operations, as well as those of its suppliers and
+other  third  parties[48].  Walmart  also  stands  out  for  being
+explicit  in  its  use  of  international  instruments,  which  it
+says informs its response to human rights issues.
+
+Greenpeace USA recognizes Walmart’s role as a founder and
+instrumental member of the Seafood Taskforce, a coalition
+of businesses and NGOs working to improve sustainability
+in the Thai seafood supply chain. Though currently limited
+to  Thailand,  this  engaged  approach  to  supply  chain
+oversight  should  be  expanded  to  cover  all  aspects  of
+seafood  sourcing,  particularly  work  aboard  distant-water
+vessels.  Walmart’s  significant  philanthropic  activity  also
+funds a considerable amount of work on both sustainability
+and human rights issues in supply chains, including work by
+the Global Fishing Watch and the Issara Institute.
+
+Advocacy  is  a  key  area  where  larger  retailers  with  the
+resources  and  expertise  to  lobby  for  improvements  to
+environmental  and  human  right  protections  in  fisheries
+outperformed smaller companies. In line with this, Walmart
+ranked third for its advocacy work, behind Aldi and Ahold
+Delhaize,  and  just  ahead  of  Whole  Foods.  It  is  vitally
+important that a company of Walmart’s size and influence
+uses  its  position  to  push  for  improvements  at  a  range  of
+policy levels, and this work should be commended.
+
+32  HIGH COST OF CHEAP TUNA 2ND EDITION
+
+Poor/Needs  Improvement:  While  Walmart’s  sustainability  and  human
+rights policies are more detailed and better developed than most, many of
+the commitments detailed under its seafood policy are goals for 2025, and it
+is unclear how much progress has been made towards them[49]. Because this
+survey is interested in what policies are currently in place, Walmart’s score in
+the Tuna Procurement Policy section suffered from a lack of information on
+current work.
+
+Like  other  retailers,  Walmart’s  policies  leave  out  a  number  of  important
+details, particularly with regard to human rights. For example, while Walmart
+does mention the need to ensure migrant workers are recruited responsibly,
+questions in this area sought specific recognition of the increased risks faced by
+migrant workers and the company’s work to mitigate them. Since Walmart did
+not respond to our survey, we were unable to award points for these elements.
+
+Walmart  continues  to  rely  on  third-party  social  audits  when  it  comes  to
+monitoring. It does have a due diligence framework, but unfortunately it is
+based on OECD guidelines, which do not include human rights nor apply to
+seafood supply chains [48]. Similarly, a grievance mechanism is in place, but
+as currently constituted and presented it does not meet the UN’s guidelines.
+Remediation  for  those  negatively  impacted  by  Walmart’s  business  is  also
+developing, though it is currently limited to its work with the Issara Institute
+(an NGO based in Southeast Asia that tackles issues of human trafficking and
+forced labor through worker voice) in Thailand and does not include workers
+on vessels.
+
+Though we recognize Walmart’s role in funding work by the Global Fishing Watch
+on transshipment-at-sea, we were unable to find an explicit company position
+on this important issue. The centrality of transshipment to many environmental
+and human rights issues, as well as the history of focus it has received, warrants
+an explicit stand-alone position. In addition, positive leadership in this area can
+have a positive and much-needed galvanizing effect.
+
+Wegmans
+
+(cid:26)(cid:22)(cid:30)(cid:23)(cid:21)(cid:20)(cid:20)(cid:24)(cid:31)(cid:29)(cid:26)(cid:23)(cid:30)(cid:31)
+
+15th
+
+F
+17.43%
+
+Total
+
+14th
+
+F
+
+15th
+
+F
+
+Enviro
+
+36.92/112
+
+HR
+
+8.5/154
+
+(cid:31)(cid:30)(cid:29)(cid:28)(cid:27)(cid:26)(cid:25)(cid:24)(cid:31)(cid:29)(cid:26)(cid:23)(cid:30)(cid:31)
+
+Tuna Procurement Policy
+
+Traceability
+
+Advocacy & Initiatives
+
+24%F
+
+F
+
+41%
+
+F
+
+0%
+
+Human Rights & labor
+
+Current Sourcing
+
+Customer Education/
+Labelling
+
+-8%F
+
+F
+
+28%
+
+F
+
+18%
+
+As was the case last year, Wegmans did not submit a survey; as a result, publicly available information — mostly drawn from its “Seafood
+Sustainability” website — was analyzed and used to score the survey[50]. Because we could not find any updates or changes, Wegmans
+received the same score as last year, other than two points picked up as a result of this year’s additional question. It performed poorly
+throughout, finishing 14th on Environment, 15th on Human Rights, and 15th out of 16th overall. It fared especially poorly in some areas of the
+survey, scoring zero points for Advocacy and minus 4 on its Human Rights and Labor Protections processes. Wegmans’ policies were
+hard to find, and lacking detail; completing a survey would most likely improve future scores.
+
+Positive: There is some reason for positivity: On Tuna Procurement
+Policy, Wegmans does have a web page dedicated to sustainable
+seafood  policies  and  actions[50].  Though,  as  with  many  retailers,
+Wegmans’  seafood  sustainability  webpage  lacks  both  details
+and  specific  reference  to  international  standards  and  policies.
+However,  much  of  what  is  available  appears  to  be  moving  in  the
+right direction. Greenpeace USA commends their commitment to
+sourcing  from  fisheries  that  are  certified  sustainable  or  involved
+in a Fisheries Improvement Program (FIP). Commitments such as
+these are a positive start but would be improved by explicit bans
+on  sourcing  from  “red”  or  “yellow”  fisheries,  shark  finning,
+and  vessels  known  to  be  involved  in  Illegal,  Unreported,  and
+Unregulated (IUU) fishing.
+
+Wegmans also engages with organizations such as the Sustainable
+Fisheries Partnership (SFP), and is working to improve traceability
+through  companies  such  as  Trace  Register.  However,  these
+initiatives can be further strengthened by creating robust sourcing
+and sustainability policies, and implementing ongoing monitoring
+and oversight.
+
+Poor/Needs  Improvement:  The  lack  of  detail  and  specific
+actions undermines positive commitments to improved sourcing,
+and  makes  it  unclear  how  Wegmans  will  achieve  its  goals  and
+aspirations.  For  example,  one  of  the  Wegmans’  “Best  Practices”
+is for vessels to use “gear chosen to reduce bycatch.” It is unclear
+what this entails and therefore did not receive a full score. However,
+with  more  detail  we  could  have  scored  it  higher.  Without  detail,
+ongoing  engagement  and  public  communication,  commitments,
+and statements is aspirational.
+
+Wegmans appears to lack a human rights policy to cover its supply
+chains; developing one to cover its supply chain could enable it to
+make  rapid  and  important  improvements.  The  human  rights  of
+everyone impacted by any business operation are the responsibility
+of  that  business.  Having  a  policy  based  on  established  human
+rights  instruments  —  such  as  UN  Guiding  Principles  on  Business
+& Human Rights (UNGP) and ILO Core Conventions — would have
+greatly improved Wegmans’s ranking.
+
+Based  on  the  information  available,  Wegmans  relies  entirely  on
+third-party  audits  to  ensure  its  sourcing  policies  and  standards
+are being met. However, while third-party audits do have value, it
+is vitally important for companies to establish some independent
+oversight  and  monitoring  of  their  supply  chains.  Particularly
+with  respect  to  human  rights,  third-party  audits  have  regularly
+been shown to be inadequate, with abuses continuing in audited
+facilities.
+
+HIGH COST OF CHEAP TUNA 2ND EDITION  33
+
+Whole Foods
+
+(cid:26)(cid:22)(cid:30)(cid:23)(cid:21)(cid:20)(cid:20)(cid:24)(cid:31)(cid:29)(cid:26)(cid:23)(cid:30)(cid:31)
+
+3rd
+
+Total
+
+1st
+
+F
+50.48%
+
+C
+
+6th
+
+F
+
+(cid:31)(cid:30)(cid:29)(cid:28)(cid:27)(cid:26)(cid:25)(cid:24)(cid:31)(cid:29)(cid:26)(cid:23)(cid:30)(cid:31)
+
+Tuna Procurement Policy
+
+Traceability
+
+49%F
+
+D
+
+67%
+
+Human Rights & labor
+
+Current Sourcing
+
+Enviro
+
+84.5/112
+
+HR
+
+48.5/154
+
+Advocacy & Initiatives F
+
+41%
+
+Customer Education/
+Labelling
+
+18%F
+
+C
+
+79%
+
+F
+
+57%
+
+Whole Foods answered the survey and submitted a large number of supporting documents[51].[52] [53]. Whereas last year the company directed
+answers to human rights questions to an appendix that included very little relevant information that spoke to the specifics of the questions
+asked in the survey, this time it answered the questions directly and provided much more detail, including sharing relevant sections of its
+Supplier Code of Conduct[54].
+
+Whole Foods came top in Environment and third overall, with a score of 50.48% — an improvement on last year’s 46.45%, largely driven by
+improvements in the Tuna Procurement Policy and Human Rights & Labor Protections sections. Improved scores in the former resulted
+from a new, much more progressive policy to address recruitment-related risks in its supply chain. Improvement in the latter category was
+a consequence of the company expanding a risk-based human rights due diligence process to fresh and frozen tuna suppliers.
+
+Positive:  Whole  Foods  came  top  overall  in  the  Environment
+category,  driven  by  its  high  scores  in  Traceability  and  Current
+Sourcing.  While  nearly  all  retailers  had  policies  in  place,  few  of
+those  policies  contained  such  a  high  level  of  detail  and  robust
+references to international instruments.
+
+Whole  Foods  also  benefited  from  sourcing  its  canned  tuna
+exclusively  from  pole  and  line  vessels,  meaning  a  number  of
+risk  factors  —  including  isolation  and  long  periods  at  sea  —  are
+significantly reduced.
+
+The company has strong traceability requirements and is able to
+trace  100  percent  of  its  tuna  back  to  the  catching  vessel[51].  As  a
+result, it also scored highly for questions related to fish fraud and
+traceability audits.
+
+Whole  Foods  also  ranked  first  on  Current  Sourcing:  out  of  13
+problematic  species  or  catch  methods  surveyed  in  this  report,
+Whole  Foods  stocks  only  four,  and  sells  none  of  the  brands
+identified as problematic. It also received the highest score for its
+catch methods, sourcing 100 percent of its canned tuna from pole
+and line or handline fisheries.
+
+Poor/Needs Improvement: Whole Foods’ Human Rights & Labor
+Protections scores continue to lag: while its initial steps towards
+instituting human rights due diligence for its tuna supply chains
+are  commendable,  the  company  has  not  yet  considered  areas
+such as worker voice, grievance mechanisms, remediation, and
+worker engagement.
+
+One  surprising  blemish  on  its  otherwise  positive  performance
+on  environmental  issues  was  their  lack  of  a  position  or  policy  on
+transshipment-at-sea.  While  we  recognize  that  sourcing  mostly
+from  pole  and  line  vessels  in  many  ways  mitigates  the  risks
+associated  with  transshipment,  Whole  Foods’s  voice  could  be  a
+powerful driver of change on this issue.
+
+34  HIGH COST OF CHEAP TUNA 2ND EDITION
+
+References
+
+[1]  “ISSF REPORT: 86% of Global Tuna Catch Comes from Stocks at Healthy
+Levels; 9% Require Stronger Management,” International Seafood
+Sustainability Foundation, Jul. 27, 2022. https://www.iss-foundation.
+org/blog/2022/07/27/issf-report-86-of-global-tuna-catch-comes-from-
+stocks-at-healthy-levels-9-require-stronger-management/ (accessed
+Jan. 23, 2023).
+
+[2]  R. Wefers, “More Than 100,000 Fishing-Related Deaths Occur Each Year,
+
+Study Finds”.
+
+[3]  E. R. Selig et al., “Revealing global risks of labor abuse and illegal,
+
+unreported, and unregulated fishing,” Nat. Commun., vol. 13, no. 1, Art.
+no. 1, Apr. 2022, doi: 10.1038/s41467-022-28916-2.
+
+[4]  “A Global Tuna Valuation: Netting Billions 2020.” https://pew.
+
+org/33Z5QbO (accessed Jan. 23, 2023).
+
+[16] “AlbertsonsCos_Due_Diligence_Plan.pdf.” Accessed: Jan. 20, 2023.
+[Online]. Available: https://s29.q4cdn.com/239956855/files/our_
+impact/AlbertsonsCos_Due_Diligence_Plan.pdf.
+
+[17] Aldi SOUTH, Aldi NORD, “Aldi SOUTH & Aldi NORD: International Policy on
+Forced Labor.” [Online]. Available: https://cr.aldisouthgroup.com/en/
+downloads/international-policy-forced-labour.
+
+[18] Aldi USA, “Aldi USA - Sustainable Seafood Policy 2021,” 2021. Accessed:
+Jan. 23, 2023. [Online]. Available: https://corporate.aldi.us/fileadmin/
+fm-dam/Corporate_Responsibility/Supply_chain/ALDI_USA_
+Sustainable_Seafood_Policy_2021.pdf.
+
+[19] Aldi, “Aldi - Social Standards in Production.” 2015. Accessed: Jan. 23, 2023.
+
+[Online]. Available: https://cr.aldisouthgroup.com/en/downloads/aldi-
+social-standards-in-production.
+
+[5]  A. Kashyap, “‘Obsessed with Audit Tools, Missing the Goal,’” Hum. Rights
+Watch, Nov. 2022, Accessed: Jan. 25, 2023. [Online]. Available: https://
+www.hrw.org/report/2022/11/15/obsessed-audit-tools-missing-goal/
+why-social-audits-cant-fix-labor-rights-abuses.
+
+[20] Aldi SOUTH Group, “Aldi SOUTH Group - International Position Statement
+on Living Wages & Living Incomes.” Accessed: Jan. 23, 2023. [Online].
+Available: https://cr.aldisouthgroup.com/en/downloads/international-
+position-statement-living-wages-living-incomes.
+
+[6]  “Tuna Fisheries Would Benefit From More Onboard Observers, New
+
+[21] Seafood Task Forced, “Code of Conduct & Auditable Standards, Tuna
+
+Research Shows,” Jun. 14, 2021. https://pew.org/2TVIoeg (accessed Jan.
+25, 2023).
+
+[7]  Human Rights At Sea, “FISHERIES OBSERVER DEATHS AT SEA, HUMAN
+
+RIGHTS & THE ROLE & RESPONSIBILITIES OF FISHERIES ORGANISATIONS,”
+Jul. 2020, Accessed: Jan. 25, 2023. [Online]. Available: https://www.
+humanrightsatsea.org/sites/default/files/media-files/2021-12/HRAS_
+Abuse_of_Fisheries_Observers_REPORT_JULY-2020_SP_LOCKED-1_0.
+pdf
+
+[8]  “ahold-delhaize-human-rights-report_june-2020.pdf.” Accessed: Jan.
+20, 2023. [Online]. Available: https://media.aholddelhaize.com/
+media/sf1j0oup/ahold-delhaize-human-rights-report_june-2020.
+pdf?t=637902262871900000.
+
+[9]  “ahold-delhaize-human-rights-report-2022.pdf.” Accessed: Jan.
+
+20, 2023. [Online]. Available: https://media.aholddelhaize.com/
+media/zprnx2ho/ahold-delhaize-human-rights-report-2022.
+pdf?t=637902991090930000.
+
+[10] Ahold Delahize, “Ahold Delhaize - Our Position on Social and
+
+Environmental Topics - Seafood.” https://www.aholddelhaize.com/
+sustainability/our-position-on-societal-and-environmental-topics/
+seafood/ (accessed Jan. 20, 2023).
+
+[11] “ahold-delhaize-position-on-human-rights-2022.pdf.” Accessed: Jan.
+20, 2023. [Online]. Available: https://media.aholddelhaize.com/
+media/ys4jumuv/ahold-delhaize-position-on-human-rights-2022.
+pdf?t=637903574824100000.
+
+[12] “Albertsons Companies, Inc. - Our Impact - Products - Responsible
+Seafood.” https://www.albertsonscompanies.com/our-impact/
+products/responsible-seafood/default.aspx (accessed Jan. 20, 2023).
+
+[13] Albertsons Cos, “Albertsons Responsible Seafood Policy & Commitments.”
+
+[Online]. Available: https://s29.q4cdn.com/239956855/files/doc_
+downloads/2022/12/2022_AlbertsonsCompaniesSEL_Combined.pdf.
+
+[14] “Albertsons Companies, Inc. - Our Impact - Position Statements.” https://
+www.albertsonscompanies.com/our-impact/position-statements/
+default.aspx (accessed Jan. 20, 2023).
+
+[15] “Albertsons-Companies-FIP-Requirements_2020-Final.pdf.”
+
+Accessed: Jan. 20, 2023. [Online]. Available: https://s29.q4cdn.
+com/239956855/files/our_impact/product/Albertsons-Companies-FIP-
+Requirements_2020-Final.pdf.
+
+Handbook Version 1.” 2020. Accessed: Jan. 23, 2023. [Online]. Available:
+https://www.seafoodtaskforce.global/wp-content/uploads/2021/01/
+STF.G.S.002.EN_STF-Tuna-Handbook-English.pdf.
+
+[22] Costco, “Sustainable Fisheries & Aquaculture,” Costco. https://
+
+mobilecontent.costco.com/staging/resource/img/sustainability-
+proof/sustainability-fisheries.html (accessed Jan. 20, 2023).
+
+[23] “Costco Disclosure.” https://www.costco.com/disclosure-regarding-
+
+human-trafficking-and-anti-slavery.html (accessed Jan. 20, 2023).
+
+[24] Costco Wholesale, “Sustainability Commitment - About Human Rights.”
+Accessed: Jan. 26, 2023. [Online]. Available: https://mobilecontent.
+costco.com/live/resource/img/static-us-landing-pages/2eHuman-
+Rights.pdf.
+
+[25] Giant Eagle, “Supplier Code of Conduct.” Accessed: Jan. 26, 2023. [Online].
+
+Available: https://www.gianteagle.com/-/media/Files/Policies/
+FINAL%20Giant%20Eagle%20Supplier%20Code%20of%20Conduct.
+ashx.
+
+[26] Giant Eagle, “Tuna-Policy.” https://www.gianteagle.com/about-us/
+
+sustainable-seafood/tuna-policy (accessed Jan. 20, 2023).
+
+[27] Giant Eagle, “Seafood-Policy.” https://www.gianteagle.com/about-us/
+
+sustainable-seafood/seafood-policy (accessed Jan. 26, 2023).
+
+[28] “Policies | Giant Eagle.” https://www.gianteagle.com/about-us/policies
+
+(accessed Jan. 20, 2023).
+
+[29] “H-E-B Seafood Policy.” https://www.heb.com/static-page/article-
+
+template/H-E-B-Seafood-Policy (accessed Jan. 20, 2023).
+
+[30] H-E-B, “Seafood Sustainability - Sourcing Grid.” Accessed: Jan. 26, 2023.
+[Online]. Available: https://images.heb.com/is/content/HEBGrocery/
+seafood-sustainability-03-18-update-1.pdf.
+
+[31] Hy-Vee, “Hy-Vee Private Label Tuna Vessel List,” 2022. Accessed:
+
+Jan. 26, 2023. [Online]. Available: https://76c35e76589404e46312-
+6ec6d4c514ba6d410de8bce9cae9c292.ssl.cf2.rackcdn.com/
+Corporate%20Landing%20Pages/2022-04_Greenpeace%20Vessel%20
+Verification%20Activity_HyVee_Public_Final-May.pdf.
+
+[32] Hy-Vee, “Hy-Vee Supplier Code of Conduct.” 2021. [Online]. Available:
+
+https://76c35e76589404e46312-6ec6d4c514ba6d410de8bce9cae
+9c292.ssl.cf2.rackcdn.com/Corporate%20Landing%20Pages/Hy-Vee_
+SupplierCodeofConduct_2021.pdf.
+
+HIGH COST OF CHEAP TUNA 2ND EDITION  35
+
+[33] Hy-Vee, “Seafood Procurement Policy.” 2019. [Online]. Available: https://
+www.hy-vee.com/webres/File/Hy-Vee_SeafoodProcurementPolicy_
+April2019.pdf.
+
+[44] “Supply Chain Labor & Human Rights | Target,” Target Corporate. http://
+
+corporate.target.com/sustainability-esg/social/human-rights/supply-
+chain-policies (accessed Jan. 21, 2023).
+
+[34] Kroger Co., “Human Rights Policy.” 2022. Accessed: Jan. 27, 2023.
+[Online]. Available: https://www.thekrogerco.com/wp-content/
+uploads/2022/02/Kroger-Human-Rights-Policy-Feb-2022.pdf.
+
+[35] Kroger Co., “Commitment to Respect Human Rights - Fiscal 2021 Progress
+Update.” 2022. Accessed: Jan. 27, 2023. [Online]. Available: https://www.
+thekrogerco.com/wp-content/uploads/2022/02/Kroger-Human-
+Rights-Progress-Update-Policy-Feb-2022.pdf.
+
+[36] Kroger Co., “Seafood Sustainability Policy - Updated 2021.” 2018.
+
+Accessed: Jan. 27, 2023. [Online]. Available: https://www.thekrogerco.
+com/wp-content/uploads/2018/12/The-Kroger-Co_Seafood-
+Sustainability-Policy_2018-July.pdf.
+
+[37] Publix, “Storefront | Publix Sustainability.” https://sustainability.publix.
+
+com/storefront (accessed Jan. 21, 2023).
+
+[38] Publix, “Publix Sustainability Report 2022,” 2022. Accessed: Jan. 27, 2023.
+[Online]. Available: https://sustainability.publix.com/wp-content/
+uploads/sustainability-report.pdf.
+
+[39] “Become a Retail Product Supplier,” Publix Super Markets. http://
+
+corporate.publix.com/business/publix-business-connection/retail-
+product-supplier (accessed Jan. 21, 2023).
+
+[40] Southeastern Grocers, “Corporate Social Responsibility 2021 Progress
+
+Report,” 2021. Accessed: Jan. 27, 2023. [Online]. Available: https://www.
+segrocers.com/-/media/SEGrocers/Sustainbility/SEG_2021_CSR_
+Report.
+
+[41] Sprouts Farmers Market, “Responsible Seafood Sourcing Policy,” Sprouts
+
+Corporate: About, Sustainability, Press, Careers, Foundation, Investors.
+https://about.sprouts.com/product-sourcing/responsible-seafood-
+sourcing-policy/ (accessed Jan. 21, 2023).
+
+[42] Sprouts Farmers Market, “Supplier Code of Conduct,” Sprouts Corporate:
+About, Sustainability, Press, Careers, Foundation, Investors. https://
+about.sprouts.com/supplier-code-of-conduct/ (accessed Jan. 21, 2023).
+
+[43] Sprouts Farmers Market, “Sprouts Farmers Market Commitment to
+
+Human Rights,” Sprouts Corporate: About, Sustainability, Press, Careers,
+Foundation, Investors. https://about.sprouts.com/product-sourcing/
+human-rights/ (accessed Jan. 21, 2023).
+
+[45] “Human Rights | Target,” Target Corporate. http://corporate.target.com/
+sustainability-ESG/social/human-rights (accessed Jan. 21, 2023).
+
+[46] “Supply Chain Transparency | Target,” Target Corporate. http://
+
+corporate.target.com/sustainability-ESG/governance-and-reporting/
+responsible-sourcing-sustainability/Supply-Chain-Transparency
+(accessed Jan. 21, 2023).
+
+[47] “Sustainable Seafood | Target,” Target Corporate. http://corporate.target.
+com/sustainability-ESG/environment/materials-and-deforestation/
+seafood (accessed Jan. 21, 2023).
+
+[48] Walmart, “Human Rights,” 2022 ESG. https://corporate.walmart.com/
+
+esgreport/governance/human-rights (accessed Jan. 21, 2023).
+
+[49] “Walmart Policies and Guidelines,” Corporate - US, Nov. 07, 2017. https://
+
+corporate.walmart.com/policies (accessed Jan. 21, 2023).
+
+[50] “Seafood Sustainability - Wegmans.” https://www.wegmans.com/
+
+seafood-sustainability/ (accessed Jan. 27, 2023).
+
+[51] Whole Foods Market, “Whole Foods Market Seafood Department Quality
+StandardsOverview for Wild-Caught Seafood.” 2022. Accessed: Jan.
+27, 2023. [Online]. Available: https://assets.wholefoodsmarket.com/
+Standards/Quality%20Standards%20for%20Wild%20Caught%20
+Species_11.22.22%20wfm.com_.pdf.
+
+[52] “Seafood Standards Like Nowhere Else,” Whole Foods Market. https://
+
+www.wholefoodsmarket.com/quality-standards/seafood-standards
+(accessed Jan. 27, 2023).
+
+[53] “Worker Welfare,” Whole Foods Market. https://www.
+
+wholefoodsmarket.com/mission-in-action/responsible-sourcing/
+worker-welfare (accessed Jan. 27, 2023).
+
+[54] Whole Foods Market, “Whole Foods Market - Supplier Code of Conduct.”
+
+2019. Accessed: Jan. 27, 2023. [Online]. Available: https://assets.
+wholefoodsmarket.com/www/company-info/WFM%20Supplier%20
+Code%20of%20Conduct_12.30.19.pdf.
+
+36  HIGH COST OF CHEAP TUNA 2ND EDITION
+
+Appendix
+
+Greenpeace USA’s Tuna Grocery Retailer Survey 2022
+What follows is a copy of Greenpeace USA's Sustainable and Worker Friendly Tuna Grocery Retailer Survey distributed to
+16 major US retailers in 2022. Retailer answers to this survey form the basis of this report.
+
+1.  Do you have a sustainable/responsible seafood sourcing policy (or a standalone tuna policy) that covers tuna
+
+TUNA PROCUREMENT POLICY (20%)
+
+procurement in your fresh, frozen, and shelf-stable categories?
+
+a.  _____ Yes, all categories across all stores and products (5)
+b.  _____ Partially, fresh and frozen categories only across all stores and products (2)
+c.  _____ Partially, the shelf-stable category only across all stores and products (2)
+d.  _____ Only some categories across some banner stores or some products (please specify) (1)
+e.  _____ No (0)
+
+2.  Environmental Sustainability: What % of the overall tuna (fresh, frozen and shelf-stable) sold by your company is
+
+covered by your sustainable seafood/tuna procurement policy?
+
+a.  _____ Less than 50% (0)
+b.  _____ 51% to 89% (0)
+c.  _____ 90% to 99% (2)
+d.  _____ Applies to all (4)
+
+3.  Do you have a standalone human rights/labor policy that covers tuna procurement in your fresh, frozen, and shelf
+
+stable categories?
+
+a.  _____ Yes (5)
+b.  _____ No (0)
+
+4.  Human Rights: What % of the overall tuna (fresh, frozen and shelf-stable) sold by your company is covered by your
+
+human rights/labor policy?
+
+a.  ____  Less than 50% (0)
+b.  ____  51% to 89% (0)
+c.  ____  90% to 99% (2)
+d.  ____  Applies to all (4)
+
+5.  Does your sustainable seafood/tuna policy explicitly feature any of the following? (choose all that apply)
+
+a.  _____ prohibits sourcing tuna from “red” fisheries according to the Monterey Bay Aquarium Seafood Watch program (2)
+b.  _____ prohibits sourcing tuna from “yellow” fisheries according to the Monterey Bay Aquarium Seafood Watch program (2)
+c.  _____ requires at minimum that all tuna sourced is either MSC-certified or part of a FIP that is making progress according to
+
+FisheryProgress.org, and rated either “A” or “B” (1)
+
+d.  _____ requires that all shelf-stable tuna storewide be pole and line, troll, or handline caught (2)
+e.  _____ prohibits sourcing from any company that engages in shark finning (2)
+f.  _____ has language in support of marine reserves and marine protected areas (2)
+g.  _____ has other environmental sustainability requirements that our suppliers must follow (1) (please specify)
+
+HIGH COST OF CHEAP TUNA 2ND EDITION  37
+
+6.  Do you have a commitment to respect all internationally-recognized human rights AND fundamental rights at work
+across all activities in your supply chain embedded in your seafood/tuna procurement policy or standalone human
+rights policy? To receive full credit, the commitment must explicitly reference the following: (1) the International Bill
+of Human Rights (which encompasses the Universal Declaration of Human Rights (UDHR),1 the International Covenant on
+Civil and Political Rights (ICCPR),2 and the International Covenant on Economic, Social, and Cultural Rights (ICESCR)3), (2) the
+International Labor Organization’s Core Conventions,4 and (3) C188 - Work in Fishing Convention.5 Furthermore, your
+company must adhere to the UN Guiding Principles on Business and Human Rights (UNGP).6
+
+a.  _____ Partially; our policy has some language in support of international human rights and/or labor rights in reference to
+
+our tuna supply chain. (1)
+
+b.  _____ Partially. It explicitly commits our company to uphold two of the sets of instruments referenced above. (2)
+c.  _____ Yes, our commitment explicitly includes all three sets of instruments: the International Bill of Human Rights, the
+
+ILO Core Conventions, and the C188 - Work in Fishing Convention. (4)
+
+d.  _____ Yes to all in (c), and it explicitly commits our company to uphold the UN Guiding Principles on Business and Human
+
+Rights (UNGP). (5)
+
+e.  _____ No. (0)
+
+7.  Our tuna procurement policy has the following commitments on preferential sourcing: (choose all that apply; 3pts each)
+
+a.  _____ a commitment to preferentially source from vessels that go to port States that have ratified and implemented the ILO
+
+Work in Fishing Convention, and effectively conduct labor inspections according to the ILO Guidelines for port State
+inspections under the Convention.
+
+b.  _____ a commitment to preferentially source from companies with independent, democratic trade unions and who respect
+
+their workers’ rights to collectively bargain and engage in union activities.
+
+8.  What is your company’s public stance on sourcing from tuna vessels that engage in transshipment-at-sea?
+
+(Please select one. Note: to receive credit, this stance must be publicly visible, for example, in a tuna procurement policy.)
+
+a.  _____ We forbid sourcing from any tuna vessel that engages in transshipment-at-sea, and our traceability audits verify
+
+compliance with these policies. (7)
+
+b.  _____ We forbid sourcing from any tuna vessel that engages in transshipment-at-sea. (5)
+c.  _____ We allow it only in cases where there is 100% observer coverage, either via an onboard observer or a combination of
+
+onboard observers and onboard cameras. (3)
+
+d.  _____ We allow it, but only where the names of transshipping vessels and the time and location of every transshipment is
+
+recorded. (1)
+
+e.  _____ We do not have a stance on this issue. (0)
+
+Worker Contracts and Recruitment
+
+9.  As stated in our policy, our company only purchases tuna from suppliers that have worker contracts that comply with
+ILO core labor standards and ILO Convention No. 188, are signed by the vessel owner and worker, and are written7 in a
+language that the worker understands. (Please select one.)
+
+a.  _____ Yes, there are clearly written contracts, for which we have provided examples of in our survey response. We are
+
+unaware of whether these terms are also verbally communicated. (2)
+
+b.  _____ Yes, there are clearly written contracts, for which we have provided examples of in our survey response, and we have
+
+evidence that these terms are verbally communicated to workers as part of the onboarding process. (4)
+
+c.  _____ Partially, we have ensured everything in item (a) but only for _______% our suppliers (1)
+d.  _____ No (0)
+
+1  UDHR: https://www.un.org/en/about-us/universal-declaration-of-human-rights
+2
+3
+4
+
+ICCPR: https://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx
+ICESCR: https://www.ohchr.org/EN/ProfessionalInterest/Pages/CESCR.aspx
+ILO Core Conventions: https://www.ilo.org/global/standards/introduction-to-international-labour-standards/conventions-and-recommendations/lang-
+-en/index.htm
+
+5  C188: https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:C188
+6  UNGP: https://www.ohchr.org/documents/publications/guidingprinciplesbusinesshr_en.pdf
+7  To avoid confusion and aid in understanding, all salient terms of the contract must be verbally communicated to each worker as part of the onboarding process.
+
+38  HIGH COST OF CHEAP TUNA 2ND EDITION
+
+10. As stated in our policy, our company only purchases tuna from suppliers who are actively reducing recruitment-related
+risks for their workers by only recruiting via formalized avenues and agencies that are not on government or NGO red
+lists, and prohibiting recruitment fees, guarantee deposits, and wage deductions or withholdings.
+
+a.  _____ Yes, and we have provided examples of these contracts in our survey response. (5)
+b.  _____ No (0)
+
+11. As stated in our policy, our company only purchases tuna from suppliers who provide their workers with a local8 living
+
+wage.9 (Please select one.)
+
+a.  _____ Yes. Furthermore, workers or their intended recipients (e.g. family of workers) are directly receiving the wages due to
+
+them at least once a month via direct deposit to their selected bank accounts. (2)
+
+b.  _____ Yes. All of (a) above, and the workers receive regular pay stubs that itemize and explain any deductions. (3)
+c.  _____ Partially, we have ensured everything in item (a) but only for_______% of our suppliers. (1)
+d.  _____ Not necessarily. Workers or their intended recipients are paid whatever is legally required under law, even if this
+
+results in pay discrimination on distant water tuna fishing fleets. (0)
+
+Safety and Health at Sea
+
+12. Our company does its part to ensure the safety and well-being of the workers in the tuna vessels that supply us by
+
+explicitly requiring the following in our policy: (Check all that apply.)
+
+a.  _____ Only purchase fish from vessels that strictly comply with the safety provisions and standards of the 2012 Cape Town
+
+Agreement on the Implementation of the Torremolinos Protocol for the Safety of Fishing Vessels. (1)
+
+b.  _____ Only purchase from vessels that guarantee that all fishers receive no less than 10 hours rest in any 24-hour period
+
+and 77 hours in any seven-day period. (5)
+
+c.  _____ Require supplying tuna vessels to demonstrate that their fishers receive, at no cost, food of sufficient nutritional
+value, quality, quantity, and variety, and potable water of sufficient quality and quantity, with due regard to the
+duration and nature of the voyage. (1)
+
+d.  _____ Only source from tuna vessels that spend a maximum of three months at sea before going to a port and allow crew
+
+unfettered access to port services for a minimum of 10 days. (5)
+
+Worker Voice
+
+13. Our company respects workers’ freedom of association and collective bargaining by including the following in our
+
+policy: (check all that apply)
+
+a.  _____ affirming our company’s commitment to supporting freedom of association and collective bargaining in its own
+
+facilities (2)
+
+b.  _____ affirming our company’s commitment to supporting freedom of association and collective bargaining throughout our
+
+global tuna supply chains (2)
+
+c.  _____ ensuring that our suppliers respect union rights by investigating and fairly resolving all allegations of union busting
+
+or threats made against unionists (3)
+
+d.  _____ publishing our vessel supplier lists so that trade unions and worker rights organizations know which companies are
+
+in the end-buyer’s supply chain (5) (Note: if your company’s full vessel supplier list is already publicly disclosed and
+kept up to date, you will also receive credit here as well, regardless of your company’s rationale for being transparent.)
+
+14. Is it in your policy, and can your company verify, that all of its tuna suppliers treat migrant fishers equally as national
+
+fishers regardless of the applicable law in the flag State? (This means that migrant fishers are paid at least the national
+minimum wage through regular, full-time employment, and provided with equivalent social protection even if the
+government of the flag State does not require them to be treated the same way.)
+
+a.  _____ Yes (5)
+b.  _____ No (0)
+
+8  “Local” in this context means that, for example, distant water vessels flagged to Taiwan must pay its crew at least a living wage for Taiwan.
+9  “Living wage” should be based on collective bargaining or an independently determined, established methodology. Companies should publicly disclose the
+methodology they use and work with trade unions and other relevant stakeholders to develop living wage benchmarks where they do not already exist.
+
+HIGH COST OF CHEAP TUNA 2ND EDITION  39
+
+15. Are you able to trace every SKU of tuna (fresh, frozen, and shelf-stable) down to the individual vessel that caught the
+
+TRACEABILITY (20%)
+
+fish?
+
+a.  _____ Yes, 100% (5)
+b.  _____ Almost, between 90-99% of the time (3)
+c.  _____ No, or less than 90% of the time (0)
+
+16. Will you publicly commit to publishing a full list of your suppliers’ fishing vessels from which your company sources
+
+tuna?
+
+a.  _____ Yes, we already have this. (5) URL: ___________________________
+b.  _____ Yes, within 3 months (3)
+c.  _____ No (0)
+
+17. What are your seafood supplier requirements? Do you: (choose each that applies; 2 points each, except item (f))
+
+a.  _____ have quarterly monitoring procedures in place to ensure that your suppliers conform to your environmental and
+
+social policy requirements, as tuna vessels should already be reporting to port every 3 months
+
+b.  _____ conduct ongoing internal traceability audits to ensure that all tuna can be traced back to the individual fishing
+
+vessel (this is distinct from social audits)
+
+c.  _____ utilize an external party to provide traceability audits to ensure that all tuna can be traced to the individual fishing
+
+vessel (this is distinct from social audits)
+
+d.  _____ refuse to buy seafood from vessels and/or operators on the TMT Combined IUU Vessel List (https://www.iuu-vessels.
+
+org)
+
+e.  _____ only source from suppliers that require a fishing crew manifest for each vessel that directly or indirectly supplies us
+
+with tuna
+
+f.  _____ other, please describe: (1)
+
+18. Fish fraud is a rampant problem in the seafood industry, and usually manifests itself in the substitution of a premium
+product for a cheaper product. How do you ensure that your suppliers are providing you with the actual product that
+meets your policy’s specifications? (Please choose all that apply and fill in the blank to receive credit; 2pts per question if
+answered satisfactorily)
+
+a.  We are aware that the tuna canneries in our supply chain source many different products. They are able to ensure
+
+separation of brands and products because:
+
+b.  We know that the vessels that we source from are able to guarantee separation of product down to the level of fishing
+
+method (e.g., FAD-free skipjack kept apart from regular purse seine caught skipjack) because:
+
+c.  We conduct our own traceability audits of our tuna supply chain, and the results of these audits provide us with confidence
+
+because:
+
+40  HIGH COST OF CHEAP TUNA 2ND EDITION
+
+ADVOCACY AND INITIATIVES (10%)
+
+19. Do you advocate for fisheries and labor reform in the tuna sector by sending public letters to key policy-makers? (Please
+share letters or URL to receive credit. For each answer option, please choose either the first option to indicate one letter
+(worth 2 points), or the second option to indicate 2 or more letters (worth 4 pts). This question is worth 10 points total,
+so there is an opportunity to secure “bonus” points for greater than five letters across all answer options.)
+
+(Note: Please be aware that this question pertains to direct communications (that are available publicly) from your company to
+the relevant regulatory and/or legislative bodies involved. Examples must be within 3 years of the date of scoring. For purposes of
+the 2021 survey, a letter written in 2019 and a similar one in 2021 would receive credit for each instance.)
+
+a.  Yes, we have sent one letter ____ or 2 or more letters ____ to the Taiwanese government demanding four key reforms in line
+
+with NGO recommendations.
+
+b.  Yes, we have sent one letter ____ or 2 or more letters ____ to a Regional Fishery Management Organization (RFMO) that
+
+manages an area where we source tuna, urging stronger environmental or social safeguards.
+
+c.  Yes, we have sent one letter ____ or 2 or more letters ____ to the United Nations or its agencies advocating for greater
+
+human rights protection in the tuna sector.
+
+d.  Yes, we have sent one letter ____ or 2 or more letters ____ to the United Nations or its agencies advocating for a robust UN
+
+Oceans Treaty.
+
+e.  Yes, we have sent one letter ____ or 2 or more letters ____ to the U.S. Federal Government (e.g., U.S. Congress, an Executive
+branch agency such as NOAA, or a Regional Fishery Management Council (RFMC)), either supporting legislation or calling for
+policy reform to improve environmental sustainability and human rights protections in the tuna sector.
+
+20. Our company advocates for observer protection by: (choose all that apply, except you may select either (b) or (c), but not
+
+both)
+
+a.  _____ encouraging regulatory authorities and their respective observer programs to work together and implement the
+
+International Observer Bill of Rights (IOBR) at the RFMO level. (4)
+
+b.  _____ ensuring that observers on supplying vessels are included alongside crew in our human rights due diligence
+
+processes (3)
+
+c.  _____ ensuring that observers on supplying vessels are included alongside crew in our human rights due diligence
+
+processes and receive heightened protection as human rights defenders (4)
+
+d.  _____ ensuring that observer programs, both regional and national, adopt measures that provide for the highest standards
+in investigations conducted following any observer death, in line with international standards such as the Minnesota
+Protocol on the Investigation of Potentially Unlawful Death.10 (4)
+
+21. How much of your overall tuna (by volume) is sourced from vessels with democratic and independent trade unions?
+
+a.  _____ None (0)
+b.  _____ Less than 5% (0.5)
+c.  _____ Between 5% - 9.9% (1)
+d.  _____ Between 10% - 14.9% (please specify percentage) (2)
+e.  _____ Over 15% (4)
+
+10   https://ohchr.org/Documents/Publications/MinnesotaProtocol.pdf
+
+HIGH COST OF CHEAP TUNA 2ND EDITION  41
+
+HUMAN RIGHTS AND LABOR PROTECTIONS (25%)
+
+Human Rights Due Diligence11
+
+22. To what extent does your company implement a robust human rights due diligence framework that seeks to go beyond
+
+an auditing based approach? (Please select one)
+
+a.  _____ Our company does not have a due diligence framework. We rely on our suppliers providing documentation
+
+demonstrating its compliance with all applicable human rights laws for the region(s) in which it operates. (-1)
+b.  _____ Our company does not have a due diligence framework, and instead relies on third-party audits and on our suppliers
+
+providing documentation demonstrating its compliance with all applicable human rights laws for the region(s) in
+which it operates. (0)
+
+c.  _____ Our company recognizes the limitations of social audits in our tuna fishery supply chains and we have made a
+
+commitment to take action on implementing a due diligence framework within 180 days to move away from an
+exclusive reliance on social audits. (1)
+
+d.  _____ Our company is already implementing our due diligence framework to complement social audits for over 75% of our
+
+tuna suppliers. (3)
+
+e.  _____ Our company implements a human rights due diligence process that applies to ALL tuna suppliers in our supply
+
+chain, and this process is aligned with the UN Guiding Principles on Business and Human Rights. (5)
+
+If you answered (d) or (e), please explain what your due diligence process looks like.
+_________________________________________________________________________________________________________
+_________________________________________________________________________________________________________
+
+23. Does your company have senior level staff12 who are responsible for the day-to-day relevant human rights issues within
+the Company, including those arising from its suppliers? If so, please list the titles of the individuals tasked with this
+responsibility for all tuna sourced by your company. (Please select one.)
+
+a.  _____ Yes, and here are the functions and titles: (2)
+b.  _____ Yes, here are the functions and titles, and we follow best practices to ensure that all relevant departments are
+
+integrally involved in harmonizing our human rights commitments with our procurement strategy (e.g., we
+have a human rights committee that meets regularly and ensure that at least one senior staff from each relevant
+department, including in-house human rights experts, sits on that committee): (3)
+
+c.  _____ Partially (in either scope of issue coverage or tuna category coverage), and here are some of the functions and titles: (1)
+d.  _____ No, we respond to human rights issues with available staff if they come up. (0)
+
+Identifying, Assessing, Integrating and Acting on Human Rights Issues
+
+24. Does your company have a system for regularly identifying human rights risks and impacts in its tuna supply chain, and
+do “key moments” trigger a review? Furthermore, have 75% or more of your suppliers completed human rights impact
+assessments on their vessels?
+
+(Examples of a “key moment” would include a policy change by a relevant country, a high-profile report from civil society experts,
+entry into a new market, a new supplier, or a U.S. Federal Government action that indicates an increased risk of forced labor or
+trafficking in the fleets of certain flag states (e.g., the Department of Labor List of Goods Produced by Child Labor or Forced Labor,
+the State Department Trafficking in Persons report, and Customs and Border Protection withhold release orders).)
+
+a.  _____ Yes, we have a global system in place to identify risks and impacts on a regular basis across our entire tuna supply
+
+chain, and can describe how and when new events trigger a fresh review and we know that 75% or more of our
+suppliers have done impact assessments on their vessels in the last year. (5)
+
+b.  _____ Partially. We have a global system in place to identify risks and impacts on a regular basis across our entire tuna
+
+supply chain, and can describe how and when new events trigger a fresh review and we know that 50% or more of
+our suppliers have done impact assessments on their vessels in the last year. (3)
+
+11  Corporate Human Rights Benchmark (CHRB) defines Human Rights Due Diligence as “an ongoing risk management process that a reasonable and prudent
+
+company needs to follow in order to identify, prevent, mitigate and account for how it addresses its adverse human rights impacts. As set out in the UN Guiding
+Principles 17-21, this includes four key steps: assessing actual and potential human rights impacts; integrating and acting on the findings; tracking responses;
+and communicating about how impacts are addressed.”
+
+12  “Senior level staff” should also include C-suite executives and Board members
+
+42  HIGH COST OF CHEAP TUNA 2ND EDITION
+
+c.  _____ Partially. We have a global system in place to identify risks and impacts on a regular basis across our entire tuna
+
+supply chain, and can describe how and when new events trigger a fresh review and we know that 25% or more of
+our suppliers have done impact assessments on their vessels in the last year. (2)
+
+d.  _____ Partially. We have a global system in place to identify risks and impacts on a regular basis across our entire tuna
+
+supply chain, and can describe how and when new events trigger a fresh review. We are unclear on what percentage
+of our suppliers have done impact assessments on their vessels in the past year. (1)
+
+e.  _____ No (-1)
+
+25. Does your company assess its human rights risks and impacts, prioritize action, and then take action to prevent,
+
+mitigate, or remediate the most salient human rights issues?
+
+a.  _____ Yes, and we can describe this process and can privately share the results of our assessments. (1)
+b.  _____ Yes, and we can describe this process and can publicly share the results of our assessments. (5)
+c.  _____ No (0)
+
+Tracking Effectiveness (M&E) and Communicating Results to the Public
+
+26. Does your company track and evaluate the effectiveness of actions taken in response to its human rights risks and
+
+impacts, and use this information to improve processes moving forward? If so, how?
+
+a.  _____ Yes: (1)
+b.  _____ No (0)
+
+27. Does your company formally communicate how it addresses human rights impacts through its supply chain, in
+
+accordance with the guidance in UNGP Sec. 21 (i.e in a form that is accessible to your intended audiences, in a frequency
+that reflects your or your supply chain’s human rights impacts, that provides sufficient information to evaluate the
+adequacy of your responses, and that does not pose any risks to affected stakeholders)?
+
+a.  _____ Yes, and here is the URL: (5)
+b.  _____ Partially, we have some processes in place for communicating how we address our human rights impacts but they
+are not fully aligned with UNGP Sec. 21. Here is the URL: ____ and here is additional information/context about our
+process:_____ (3)
+
+c.  _____ No (0)
+
+Grievance mechanisms / Access to Remedy
+
+28. Does your company have a safe and anonymous mechanism through which workers in its supply chain or external
+individuals can raise complaints or concerns regarding human rights issues, and is this mechanism accessible by
+itinerant fishers at sea?
+
+a.  _____ We ensure that all of our tuna suppliers publicly disclose online and in all of their labor contracts the procedures
+
+for their employees to file grievances that are secure, anonymous, and confidential, free from threat of retaliation.
+Furthermore, there is a protected avenue for workers to take their complaint to the level of us, the buyer, if not
+resolved by the supplier. (5)
+
+b.  _____ We ensure that all of our tuna suppliers publicly disclose online, in worker contracts, and via direct verbal
+
+communication to workers the procedures for their employees to file grievances that are secure, anonymous, and
+confidential, free from threat of retaliation. (3)
+
+c.  _____ We have ensured everything in item (b), but only for 75% or more of our tuna suppliers. (2)
+d.  _____ We are unfamiliar with the grievance mechanisms employed by our tuna suppliers, but we commit to asking all
+
+suppliers about them within 15 business days. (1)
+
+e.  _____ We are unfamiliar with the grievance mechanisms employed by our tuna suppliers. (0)
+
+HIGH COST OF CHEAP TUNA 2ND EDITION  43
+
+29. Our company has a public-facing, non-judicial grievance mechanism (GM) that is deemed effective according to the UNGP
+Sec. 31, because it is: (Please choose all that apply and briefly explain how your GM meets each of these criteria:) (1 pt each)
+
+a.  _____ Legitimate: enabling trust from the stakeholder groups for whose use they are intended, and being accountable for
+
+the fair conduct of grievance processes;
+
+b.  _____ Accessible: being known to all stakeholder groups for whose use they are intended, and providing adequate
+
+assistance for those who may face particular barriers to access;
+
+c.  _____ Predictable: providing a clear and known procedure with an indicative time frame for each stage, and clarity on the
+
+types of process and outcome available and means of monitoring implementation;
+
+d.  _____ Equitable: seeking to ensure that aggrieved parties have reasonable access to sources of information, advice and
+
+expertise necessary to engage in a grievance process on fair, informed and respectful terms;
+
+e.  _____ Transparent: keeping parties to a grievance informed about its progress, and providing sufficient information about
+the mechanism’s performance to build confidence in its effectiveness and meet any public interest at stake;
+
+f.  _____ Rights-compatible: ensuring that outcomes and remedies accord with internationally recognized human rights;
+g.  _____ A source of continuous learning: drawing on relevant measures to identify lessons for improving the mechanism and
+
+preventing future grievances and harms.
+
+Please add your explanations on how your GM meets each of these criteria either below or immediately following each of the
+checked options above.
+
+30. Does your company provide for or cooperate with other actors in remediation to victims where it has caused (or
+
+contributed to) adverse human rights impacts (e.g., excessive working hours or non-payment of wages), or cooperate
+in remediation to victims where adverse impacts are directly linked to the tuna you sell through your suppliers? If so,
+please provide an example.
+
+a.  _____ Yes. Here is an example of the approach we took when an adverse human rights impact occurred, and how we
+
+changed our policies or procedures to prevent similar adverse impacts in the future: (5)
+
+b.  _____ We have not discovered any adverse human rights impacts in our supply chain, but here is our public policy and
+
+approach that our company would take to provide for or enable a timely remedy for victims: (1)
+
+c.  _____ We do not cooperate with other actors in remediation to victims. (-1)
+
+31. Does your company engage with workers, including migrant fishers, during its risk and impact assessments?
+
+a.  _____ Yes, and this is how we engage with them: (5)
+b.  _____ No (-1)
+
+32. Does your company inform remediation of identified impacts through consultation with affected workers or their
+
+representatives and prioritization of their needs?
+
+a.  _____ Yes, and this is how we engage with them: (5)
+b.  _____ No (-1)
+
+33. How does your company deal with your suppliers when you find abuses?
+
+a.  _____ We immediately sever our business relationship with the supplier regardless of the severity of the abuse (-1)
+b.  _____ We do not sever the business relationship with the supplier even if it is a severe abuse and even when it cannot be
+
+effectively remediated through our leverage. (-1)
+
+c.  _____ We sever our business relationship with the supplier if it is an incredibly severe13 abuse that cannot be effectively
+
+remediated. (1)
+
+d.  _____ We sever our business relationship with the supplier if it is a repeat abuse that demonstrates we lack the leverage to
+
+ensure our supplier complies with our policies. (3)
+
+e.  _____ We exercise our leverage to ensure effective remediation of violations that are not incredibly severe, and do so with a
+clear, benchmarked, and time-bound plan, and work with our suppliers to educate them on human rights and ensure
+no future such violations occur. (5)
+
+13  According to the UN Guiding Principles on Business and Human Rights, severity is determined by an assessment of the scale (seriousness of harm), scope
+
+(number of individuals that are or will be affected), and irremediable character of the violation. A determination of severity does not require all three criteria
+to be met. There is no exhaustive list of “incredibly severe” abuses, but some examples include murder, disappearances, torture, and permanent or severe
+injuries (either physical or mental), includng those that prevent the fisher from working or earning the same pay. In these instances, your supplier will not be
+able to restore those affected to a situation at least the same as, or equivalent to, their situation before the human rights abuse. When in doubt, retailers should
+consult directly with the affected people or their representatives before determining whether the abuse/s can be effectively remediated.
+
+44  HIGH COST OF CHEAP TUNA 2ND EDITION
+
+CURRENT SOURCING (20%)
+
+34. Do you sell any of the following species of tuna in your wetcase, frozen foods, or shelf-stable categories? (You must
+
+indicate a “Yes” or a “No” (Y/N) for each item. Each “N” response receives 1 point, each “Y” response receives 0 pts.)
+
+____ Atlantic Bluefin tuna (Thunnus thynnus)
+____ Pacific Bluefin tuna (Thunnus orientalis)
+____ Southern Bluefin tuna (Thunnus maccoyii)
+
+____ Yellowfin tuna (Thunnus albacares) from the Indian Ocean
+____ Yellowfin tuna (Thunnus albacares) caught with drifting longlines
+____ Yellowfin tuna (Thunnus albacares) caught with FAD-caught purse seine
+
+____ Bigeye tuna (Thunnus obesus) from the Indian Ocean
+____ Bigeye tuna (Thunnus obesus) caught with drifting longlines
+
+____ Skipjack tuna (Katsuownus pelamis) from the Indian Ocean
+____ Skipjack tuna (Katsuownus pelamis) caught via FAD-caught purse seine
+
+____ Albacore tuna (Thunnus alalunga) caught with drifting longlines
+
+____ Longtail tuna (Thunnus tonggol) from the Indian Ocean
+____ Longtail tuna (Thunnus tonggol) caught with drift gillnets
+
+If applicable, please list which products your stores carry for each of the three brands below. 2 pts for each brand not carried.
+
+____ Bumblebee brand tuna products:
+
+____ Chicken of the Sea brand tuna products:
+
+____ Starkist brand tuna products:
+
+35. Do you sell any of the following shelf-stable tuna products?
+
+For each cell in the chart, if applicable, please fill out the brand name of the tuna AND country of origin. For example, in the
+top-left empty cell, one might fill in “Acme Select pole-and-line skipjack” from the Maldives. If there are multiple examples per
+cell, please list all. For purposes of this question, the same source tuna that is offered in water or oil should be considered as
+a single SKU, and not as different variants depending on packed liquid. (Scoring: 2pts per example (SKU) listed, total maximum
+number of points is 12 for the whole question.)
+
+Please enter the brand and the
+country of origin for each space,
+if applicable.
+
+Pole and line or
+troll-caught tuna
+
+Handline-caught tuna
+
+FAD-free purse seine
+caught tuna
+
+Private-label brand
+
+National brand
+
+HIGH COST OF CHEAP TUNA 2ND EDITION  45
+
+36. How much of your TOTAL amount of tuna sold (across all categories) is caught using these methods? (For example, if 10%
+of your company’s tuna by volume (across fresh, frozen, and shelf-stable categories) is caught via pole and line, then indicate that
+figure in the blank.)
+
+Pole and line
+
+Troll or handline
+
+Purse seine
+
+FAD-free purse seine
+
+Longline
+
+Longline w/ bycatch mitigation
+
+Drifting gillnet
+
+Percentage currently sourced in this manner
+
+______%
+(Percentage multiplied by 3 is the score for this entry.)
+
+______%
+(Percentage multiplied by 3 is the score for this entry.)
+
+______%
+(Percentage multiplied by 0.7 is the score for this entry.)
+
+______%
+(Percentage multiplied by 2 is the score for this entry.)
+
+______%
+(Percentage multiplied by 0.5 is the score for this entry.)
+
+______%
+(Percentage multiplied by 0.7 is the score for this entry.)
+
+______%
+(Percentage multiplied by 0.5 is the score for this entry.)
+
+Other: ______________
+
+______%
+
+Note on scoring: the total possible points for this chart is 300. The total points will be divided by 30 to fit a 10-point scoring scale,
+so that a perfect score for this question would be 10 points out of 10.
+
+37. In what ways has your company considered how its purchasing practices (e.g., price demands) might affect the human
+
+rights of workers in its supply chain? (Please explain, and choose all that apply.)
+
+a.  _____ We preferentially source from suppliers that meet or exceed internationally-recognized human rights and
+
+environmental sustainability standards. (4) Explain:
+
+b.  _____ When significant (and positive) regulatory developments or improved buyer practices occur, we support such
+reforms by absorbing at least some of the increased costs associated with these reforms. (2) Explain:
+c.  _____ When significant (and positive) regulatory developments or improved buyer practices occur, we support such
+reforms by absorbing a proportion of the increased costs based on proportion of profit. (4) Explain:
+
+d.  _____ We have reformed our purchasing practices in another way, as follows: (1)
+e.  _____ We have not yet given this area any consideration. (0)
+
+46  HIGH COST OF CHEAP TUNA 2ND EDITION
+
+CUSTOMER EDUCATION/LABELING (5%)
+
+38. Apart from country of origin, what other traceability information do you provide to customers to assist them in making
+environmentally sustainable and worker-friendly tuna choices while shopping in your stores? Do you label your private
+label seafood products either on the label or via a QR-code on the label with information on the following? (Choose all
+that apply; each option worth 1 point unless otherwise stated)
+
+a.  _____ Species name (common name, e.g., “skipjack”)
+b.  _____ Certification status (if applicable) according to a GSSI-recognized certification scheme (e.g., MSC)
+c.  _____ Sustainability status according to Monterey Bay Aquarium’s seafood watch criteria (e.g. red/yellow/green labeling)
+d.  _____ FAO catch area (its region number)
+e.  _____ Detailed fishing method (e.g., longline, FAD-free purse seine) (2)
+f.  _____ Port of landing
+g.  _____ Catch vessel and day of catch
+h.  _____ The flag state of the fishing vessel (2)
+i.  _____ Worker-specific information (e.g., “union produced”)
+j.  _____ other, please describe:
+
+39. How do you ensure the most environmentally sustainable choices for tuna are easy to find, clearly labeled, and
+
+promoted in store? (Please select one, and provide photos to receive credit.)
+
+a.  _____ All Pole & line, FAD free, or MSC tuna are easy to find and promoted with shelf signs or banners (2)
+b.  _____ All shelf-stable tuna OR all of our own-brand pole & line, FAD free and MSC tuna are easy to find and promoted with
+
+shelf signs or banners (1)
+
+c.  _____ Some sustainable tuna products are promoted with basic labeling as part of the on-shelf pricing labels (0.5)
+d.  _____ None of the above (0)
+
+HIGH COST OF CHEAP TUNA 2ND EDITION  47
+
+© Roger Grace / Greenpeace
+

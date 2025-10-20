@@ -1,0 +1,3740 @@
+Carting away the oCeans Viii
+
+2014 Rankings of Seafood Sustainability in U.S. Supermarkets
+
+Acknowledgements
+
+Written by: James Mitchell
+
+Special thanks to: Kat Clark, Molly Dorozenski,
+Jackie Dragon, Sean Gannon, Rebecca Gerber,
+John Hocevar, Casson Trenor, and Lauren Wiggins
+
+Greenpeace is the leading independent
+campaigning organization that uses peaceful
+protest and creative communication to
+expose global environmental problems and
+to promote solutions that are essential to a
+green and peaceful future.
+
+Published May 2014 by
+
+Greenpeace USA
+
+702 H Street NW Suite 300
+
+Washington, DC 20001
+
+Tel/ 202.462.1177
+
+Printed on Processed chlorine
+free, 100% Post-Consumer
+Waste Recycled paper on a
+wind powered press.
+
+All photos © Greenpeace
+
+Illustrations by: Marie Poliak
+
+Book Design by: Andrew Fournier
+
+greenpeace.org
+
+page 2
+
+taBLe o F Contents
+
+Carting Away The Oceans VIII
+
+At a Glance
+
+pg. 4
+
+Words Of Encouragement to Current Industry Leaders
+
+pg. 5
+
+Scoring Criteria For Evaluating Seafood Sustainability
+
+pg. 6–7
+
+2014 Seafood Retail Scorecard
+
+pg. 8–9
+
+Using The Power Of The Market To Clean Up Fisheries
+
+pg. 10
+
+GMO Salmon: The Fish Retailers Don’t Want to Touch
+
+pg. 11
+
+Canned Tuna
+pg. 12–13
+
+Protecting The Bering Sea Canyons
+
+pg. 14–15
+
+Human Rights Abuses In The Seafood Supply Chain
+
+pg. 16
+
+Retailer Profiles
+
+pg. 17-45
+
+page 3
+
+at a gLanCe
+
+words oF enCouragement to
+Current industry Leaders
+
+This is the eighth version of the Carting Away the Oceans report and the good news is that more grocery
+stores than ever are developing more robust sustainable seafood policies, engaging in proactive sustainable
+seafood initiatives, and offering more sustainable seafood options to consumers. In evaluating the perfor-
+mance of 26 major retailers, Greenpeace found that seafood teams in the top performing supermarkets have
+long since begun leading the way towards a solution instead of simply ignoring the problem. While the same
+cannot be said for all of the companies profiled in this report, as a whole, there is progress.
+
+The most significant trends and findings from this report are:
+
+•  Wegmans has become the fourth grocery store to earn the “good” rating since Greenpeace began its
+
+industry rankings in 2008.
+
+•  Newly-profiled Hy-Vee has entered the rankings in fifth place, an impressive performance for a first-time
+
+assessment.
+
+•  Of the top five performing supermarkets on sustainable seafood, four have launched or will shortly launch
+
+private label sustainable canned tuna products (pole-and-line or FAD-free). Consumers can now find
+sustainable and affordable tuna at Whole Foods, Safeway, Trader Joe’s, Hy-Vee, and Walmart.
+
+•  Kroger continues to sell the largest number of Red List species (which should not be sold due to environ-
+
+mental reasons)—setting a poor example for the industry.
+
+•  Recent and upcoming industry buyouts could radically shake-up retailers’ sustainability performance:
+
+ » Grocery giant Kroger (ranked 21st) acquired Harris Teeter (ranked 6th) in late January 2014, which could
+be a loss for our oceans if Kroger replaces Harris Teeter’s seafood sourcing policy with its own. (In
+this report, Harris Teeter is profiled as a standalone store given its independent status for most of the
+preceding 12-month period.)
+
+ » SUPERVALU sold off a large quantity of its banners, including Albertson’s, which is now a sizeable
+
+entity in its own right (both are profiled separately in this report).
+
+ » The recent Safeway/Albertsons merger could spell problems for the oceans if 20th ranked Albertsons’
+
+seafood policies and practices were to apply to 2nd ranked Safeway.
+
+•  Ahold USA and Hy-Vee have joined the growing chorus of retailers calling for protection of part of the
+
+Bering Sea Canyons in Alaska—key fisheries with futures threatened by industrial fishing.
+
+•  Five new grocers are profiled in this year’s report: Wakefern (ShopRite & PriceRite), Hy-Vee, WinCo, Save
+Mart, and Roundy’s. Consumers that shop at these stores will for the first time see how well they perform
+in the arena of sustainable seafood.
+
+Despite progress made by the retail sector overall, our oceans continue to suffer from overfishing, destructive
+fishing, and illegal fishing. Populations of the ocean’s top predators like sharks, tuna, and swordfish have
+dropped by as much as 90% over the past half-century. Bycatch—where unintended victims like sharks and
+turtles are caught in the process of fishing, then thrown back into the sea dead or dying—remains a scandal-
+ous problem. Wastefully tossing such large amounts of fresh seafood overboard threatens marine ecosystems
+as well as global food security. Finally, vessels continue to fish illegally in developing countries’ poorly patrolled
+waters, stealing their resources, livelihoods and traditional sources of food. To worsen matters, shocking
+human rights violations are often interlinked with this kind of illegal fishing as well. In short, there is still a long
+way to go to improve the sustainability of seafood sold in the U.S. and around the world.
+
+Transparency is a critical part of measuring and improving sustainability.
+Greenpeace thanks the retailers that have participated in the survey process
+and openly shared relevant information about internal sourcing.
+
+Finally, while this report focuses on large-scale chain supermarkets,
+Greenpeace recognizes and applauds the pioneering role that small chains,
+independent shops, and local co-ops serve in providing some of the most
+sustainable seafood available to their local communities.
+
+As a quick tip to any seafood shoppers consulting
+this guide: please make sure to consider checking
+out which other grocery store chains are associated
+with your local store. Sometimes your neighborhood
+store is owned by a larger, less-recognized corpora-
+tion. For your reference, we have included these
+names in the retailer profile section.
+
+The eighth Carting Away the Oceans report marks an important chapter in the overall progress of the U.S.
+retail industry. Below are the top five grocery stores that lead in seafood sustainability for 2014. Four of the five
+have performed well enough to surpass the 7.0/10 mark and earn a green rating.
+
+1. Whole Foods has maintained its lead this year, claiming both the highest overall score and the strongest
+sustainable seafood policy. It introduced two additional pole-and-line canned tuna products for both skipjack
+and albacore, complete with an array of traceability information for these new products. Unfortunately, the
+company reintroduced a few Red List species. Coupled with Safeway’s improvement, this has narrowed its
+lead to mere fractions of a point. Nevertheless, Whole Foods deserves its spot at the top of the charts, and
+should be congratulated for yet another impressive performance.
+
+2. Safeway closed the gap between itself and the leader by improving in a number of areas. It doubled down
+on its commitment to the protection of the Bering Sea Canyons despite industry interference, demonstrating
+itself as an emerging champion in this area. It is also introducing a new ocean-safe longline-caught albacore
+product that will supplement its FAD-free, responsibly-caught canned skipjack tuna. Internally, it effectively
+tracks overall tonnage of Red List species that it phases out over time. However, Safeway should emulate
+Whole Foods and Trader Joe’s by cleaning up the rest of its shelf-stable offering, and removing destructively-
+caught tuna brands from its inventory. Given current momentum, in the next 12 months Safeway could easily
+reclaim the 2012 lead that it had over Whole Foods, with one significant potential hurdle to overcome: the
+purchase of Safeway by the parent company of Albertsons could spell disaster for seafood sustainability if this
+results in corporate interference with Safeway’s progress.
+
+3. Wegmans deserves praise for crossing the 7.0/10 mark into the “green” category of retailers and snatching
+third place from Trader Joe’s. It boasted the best score for the initiatives section, demonstrating no shortage
+of enthusiasm for tackling important oceans issues by communicating directly with policy and regulatory
+decision-makers. It is the only retailer so far to confirm with Greenpeace that its private-label pollock is
+sourced outside of the Bering Sea Canyons, though other retailers are having these conversations now
+with their suppliers. Wegmans does carry some third party sustainable tuna products but could clean up
+that section and consider introducing its own private-label brand sustainable tuna, which has already been
+accomplished by every other retailer in the top five. It made many rapid changes in its Red List inventory over
+the past year, from dropping species to sourcing them through less destructive methods. Unfortunately, there
+is still much more to be done in this section, such as dropping Atlantic halibut and Chilean sea bass.
+
+4. Trader Joe’s maintained its green rating. While it was surpassed by Wegmans, the company deserves
+credit for having introduced a private-label pole-and-line skipjack tuna at one of the most attractive price
+points of any retailer so far. It also maintains the honorable distinction of selling the least number of Red List
+species out of any retailer profiled in this report. However, Trader Joe’s actually went the wrong direction in the
+Red List category over the course of last year. If the retailer focuses its energy more on transparency (which is
+a near-failing score), it could see itself rapidly climbing the charts like it did last year.
+
+5. Hy-Vee is one of the five newly-profiled retailers in the report, and has surprised many with its impressive
+baseline score that landed it in the top five retailers profiled. It is introducing two pole-and-line sustainable
+tuna canned tuna products—one for skipjack and one for albacore. Its energy to take the initiative is felt
+throughout the industry, from its employee training programs, to its call to protect the Bering Sea Canyons, to
+its leadership in industry-led councils to improve sustainability. If it hopes to enter the “green” category of its
+peers above and hit its internal 2015 deadline on full sustainability and traceability, it will need to improve its
+performance in the Red List and transparency categories, respectively.
+
+page 4
+
+page 5
+
+CRITERIA
+
+sCoring Criteria For eV aLuating
+seaFood sustainaBiLity
+
+GROCERY STORE
+
+sCoring Criteria For eV aLuating
+seaFood sustainaBiLity
+
+ POLICY
+
+What Is Covered?
+
+Both Wild-caught
+And Farmed Seafood?
+
+Fresh, Frozen And
+Shelf-stable?
+
+How Robust Is It?
+
+Supplier Requirements?
+
+TRANSPARENCY
+
+Information
+For Customers
+
+-labels
+-country Of Origin.
+-ﬁshing Techniques
+
+Do You:
+
+Educate
+
+Engage
+
+Promote
+ADVOCATE CONSUMER
+ACTION.
+
+INITIATIVES
+
+Sustainability Of
+The Seafood Sector
+
+Steps Towards
+Improvement
+
+Support Of
+
+Improvement Practices
+
+Promotion Of
+Sustainability
+
+RED LISTERS
+
+Do You Sell Any Of The Red List Species?
+
+If So, Are You Actively Involved In A
+Fishery Improvement Project?
+
+Identify Other Mitigating Factors.
+
+This report evaluates major U.S. retailers for the sustainability of their seafood, in four key areas: policy,
+initiatives, labeling and transparency, and Red List inventory.
+
+1. Policy
+
+The policy score reflects the system that the company has in place to govern its purchasing decisions and to
+avoid supporting destructive practices. To be a leader in this category, a retailer would need to establish and
+enforce rigorous standards to responsibly source both wild-caught and farm-raised seafood across the fresh,
+frozen, and shelf-stable sections of the store.
+
+2. Initiatives
+
+The initiatives score is an appraisal of the company’s pro-active participation in coalitions, partnerships, and
+other initiatives that promote seafood sustainability and ocean conservation, both within and outside of the
+grocery industry. To lead in this category, a retailer would need to make public statements in support of key
+areas of ocean conservation. One example would be to directly communicate to policy makers and fishery
+management authorities the need for sustainable fishing practices and the protection of vital marine habitat
+like the Bering Sea Canyons (see pages 14–15).
+
+3. Labeling and Transparency
+
+This score is determined by the company’s level of transparency, for example, about where and who it
+sources its seafood from, and how clearly this is communicated to its customers. Equally important is whether
+the company pushes its own suppliers to be transparent too, particularly about where and how they catch
+seafood. For customers, some companies present this data at the point-of-sale, while others opt to make it
+accessible online. A leader in this category would go to considerable lengths to create clear ways for people to
+learn more about the seafood they buy and the impacts of their choices.
+
+4. Red List Inventory
+
+A crucial component of a responsible seafood operation is stopping the sale of the most destructively caught
+or endangered seafood. Greenpeace’s Red List is a scientifically compiled list of 22 marine species that for a
+variety of reasons should not currently be made commercially available. It highlights major concerns, including
+low stock numbers, destabilization of the ecosystem-wide food chain, and irresponsible fishing or farming
+practices that contribute to the collateral destruction of other marine life or habitat. A leading retailer in Carting
+Away the Oceans’ Red List Inventory category would sell the fewest Red List species.
+
+Special note on Red List:
+
+Some retailers source Red List species from farms or fisher-
+ies operating in a protective or less damaging manner (e.g.,
+pole-and-line tuna fishing). This may include collaborating
+with environmental NGOs in Fishery Improvement Projects
+(FIPs) that address the problems that caused the species to
+be red-listed in the first place. Sourcing in a more respon-
+sible manner may counter a retailer’s poor score associated
+with selling those particular Red List species.
+
+page 6
+
+page 7
+
+ATLANTIC HALIBUTBLUEFIN TUNABLUEFIN TUNABLUEFIN TUNAHOKIGREENLAND HALIBUTGREENLAND HALIBUTGREENLAND HALIBUTGREENLAND HALIBUTSOUTH ATLANTIC ALBACORE TUNAMONKFISHSHARKREDFISHRED SNAPPERGROUPERGROUPERSKATEHOKIORANGE ROUGHYPATAGONIANALASKA POLLOCKALASKA POLLOCKCHILEAN SEABASSCHILEAN SEABASSCHILEAN SEABASS2014 seaFood retaiL sCoreCard
+
+INITIATIVES
+
+RED LISTERS
+
++
+
++
+
++
+
+POLICY
+
+TRANSPARENCY
+
+The chart below reflects the overall
+positive trend in improved seafood
+sustainability among U.S. retailers.
+The scoring methodology has
+remained the same since 2008.
+This year, six additional retailers
+were profiled, further bolstering the
+report’s relevance to even more
+consumers nationwide.
+
+score of
+
+0–4
+
+4–7
+
+7+
+
+Fail
+Pass
+
+Good
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014*
+
+#1 Whole Foods
+
+#2 Safeway *
+
+#3 Wegmans
+
+#4 Trader Joe’s
+
+#5 Hy-Vee
+
+#6 Harris Teeter
+
+#7 Aldi
+
+#8 Target
+
+#9 Ahold USA *
+
+#10 Delhaize *
+
+#11 Meijer *
+
+#12 Walmart*
+
+#13 H-E-B *
+
+#14 Price Chopper
+
+#15 Costco
+
+#16 Giant Eagle *
+
+#17 A&P *
+
+#18 SUPERVALU *
+
+#19 Wakefern *
+
+#20 Albertsons *
+
+#21 Kroger *
+
+#22 WinCo
+
+#23 Publix
+
+#24 Save Mart *
+
+#25 Bi-Lo
+
+#26 Roundy’s *
+
+7.28
+
+7.22
+
+7.12
+
+7.01
+
+6.63
+
+6.62
+
+6.60
+
+6.43
+
+6.29
+
+6.11
+
+5.93
+
+5.60
+
+5.58
+
+5.54
+
+5.35
+
+5.20
+
+5.17
+
+4.95
+
+4.74
+
+4.73
+
+4.61
+
+4.20
+
+3.21
+
+1.53
+
+1.15
+
+1.06
+
+Denotes parent
+company with mul-
+tiple store banners.
+
+*six retailers added in 2014
+
+Full retailer profiles begin on page 17.
+
+page 9
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+s
+r
+e
+
+l
+i
+
+a
+t
+e
+R
+f
+o
+r
+e
+b
+m
+u
+N
+
+page 8
+
+using the Power oF the market to CLean
+uP Fisheries
+
+gmo saLmon:
+The Fish Retailers Don’t Want to Touch.
+
+Fishery Improvement Projects (FIPs) typically involve a collaboration of buyers, suppliers, and producers work-
+ing to solve problems facing a given fishery. While FIPs (and their aquaculture equivalents, AIPs) are usually
+led by industry, sometimes NGOs provide technical advice along the way. Common areas of focus include
+bycatch rates, habitat impacts, and population levels.
+
+A FIP can operate on any scale. It can apply to a small artisanal fishery targeted by only a few small boats,
+or to a large global commodity fishery that sustains a major industrialized fleet. When focused on delivering
+measurable sustainability benefits, FIPs can address many of the environmental problems experienced by
+fisheries. In practice however, many FIPs can operate without critical pieces needed for an effective fishery
+resuscitation plan: they may lack meaningful tracking or measurement metrics, focus on minor aspects of
+a given fishery without addressing its most significant problems, or have no meaningful timeline or target
+milestones. Part of Greenpeace’s work within the context of Carting Away the Oceans is to differentiate these
+low-performance FIPs from more effective ones. Participating in a credible and effective FIP can help improve
+a retailer’s score in the report.
+
+Greenpeace is encouraged by the growth of FIPs on a global scale, but retailers, regulators and NGOs need
+to question the metrics and outcomes of these projects in order to make sure they really do create positive
+change on the water.
+
+ A key role retailers play in championing sustainable seafood is to counter the biotech industry’s push for
+genetically modified (GMO) fish and help consumers understand why it’s important to do so.
+
+There is still significant confusion as to what GMO species actually are and the danger they pose to natural
+species; Aquabounty Technologies’ GMO salmon offers a good explanation. It was created via the transgenic
+splicing of genes from a sea eel, an Atlantic salmon, and a Chinook salmon, effectively “mating” three species
+with each other at once. Aquabounty has been lobbying the Food & Drug Administration (FDA) for years
+to approve the sale of this salmon as a “new animal drug”—thereby deeming it legal to sell to humans for
+consumption.
+
+This is problematic for numerous reasons. If this product is approved by the FDA, nothing will prevent com-
+panies like Aquabounty from selling its eggs to any buyer. These GMO salmon are not fully sterile and since
+offshore fish farms (the most likely buyer of GMO salmon eggs) regularly experience escapes, the fish could
+potentially escape, breed, and outcompete wild salmon species.
+
+Other U.S. Federal agencies, like the U.S. Fish & Wildlife Service1,
+have expressed grave concerns about GMO salmon. Unlike
+traditional crossbreeding practices (e.g., a labrador and a poodle),
+transgenic modification involves the use of genetic material that
+would never be combined through normal evolutionary processes
+(e.g., a labrador, a poodle, and a cat). Genes often affect multiple
+characteristics and their expressions are rarely isolated. GMO
+salmon have already exhibited abnormally higher rates of deformi-
+ties2 and evidence of a potentially unsafe hormone,3 which could
+create allergic reactions in some consumers.4 Aware of the
+consumer opposition, GMO companies and their lobbyists have
+actively fought mandatory labeling and consumers’ right-to-know
+what they are buying.
+
+Retailers are stepping forward to protect consumers and the
+environment by pledging to not sell GMO salmon should it become
+available. As reported by environmental non-profit group Friends of
+the Earth in March 2014, two of the top five biggest U.S. retailers
+(based on annual revenue)—Safeway and Kroger5—have recently
+made important commitments to keep GMO seafood off the
+shelf. The graph below illustrates the change over the past year in
+number of stores that have made similarly strong commitments:
+
+Atlantic
+Salmon
+
+Sea Eel
+
+Chinook
+Salmon
+
+1 documents released through 2010 Foia request to united states Fish & wildlife service. Available
+at http://www.foodandwaterwatch.org/pressreleases/troubling-emails-reveal-federal-scientists-fear-
+fda-approval-of-genetically-engineered-salmon/.
+
+2 study conducted by the department of Biostatistics of the Bloomberg school of Public health at Johns
+hopkins university, in collaboration with Food & water watch.
+
+3 Food and drug administration Center for Veterinary medicine. Veterinary medicine advisory
+Committee.
+
+“Briefing Packet: aquadvantage salmon.” september 20, 2010 at 68.
+
+4 see e.g., nordlee, J. et al. “identification of a Brazil-nut allergen in transgenic soybeans.” the new
+england Journal of medicine. march 14, 1996; and young, e. “ge pea causes allergic damage in mice.”
+new scientist. november 21, 2005.
+
+5 http://www.foe.org/news/archives/2014-03-kroger-safeway-join-trend-away-from-gmo-food
+
+60+
+
+STORES
+
+PLEDGE AGAINST
+GENETICALLY
+ENGINEERED
+SALMON
+
+-
+
+-
+
+-
+
+-
+
+page 10
+
+page 11
+
+Canned tuna
+
+Canned tuna
+
+CANNED TUNA
+
+The Good, the Bad and the Ugly
+Tuna is the most popular wild-caught seafood in the U.S. While the cost of fresh tuna for sushi gets a lot of
+attention, Americans actually consume more canned tuna, making the U.S. the largest canned tuna market
+in the world. The two most common canned tuna species are skipjack (labeled “chunk light”) and albacore
+(labeled “solid white”). How this tuna is caught makes a huge difference to the potential impact on our oceans
+(see pop-out box accross), especially as the trend for protein-based diets drives consumption.
+
+Labels such as “Dolphin Safe” have led consumers to believe that the days of tuna contributing to ocean
+destruction are over. While this is far from the case, some significant progress in the market—led by retailers—
+has taken place since Greenpeace’s last Carting Away the Oceans report in 2013. For example, Whole Foods
+and Hy-Vee are both in the process of launching new sustainable tuna products this year.
+
+The market for sustainable canned tuna roughly divides into two sections: (1) the niche brands that have
+made sustainability the core feature of their brand, such as Sustainable Seas and Wild Planet, and (2) certain
+private-label (store brand) products from some major retailers, details below.
+
+Safeway
+
+Walmart
+
+Trader Joe’s
+
+Hy-Vee
+
+Whole Foods
+
+Pole & Line
+skipjack
+
+Pole & Line
+albacore
+
+Skipjack Tuna
+
+Hy-Vee Select
+Responsible
+Choice
+
+Coming soon
+
+365 brand chunk
+light and “Pole &
+Line” skipjack
+
+365 brand
+albacore and
+“Pole & Line”
+albacore
+
+FAD-free
+skipjack
+
+Safeway Select
+
+Ocean Naturals
+Skipjack Chunk
+Light
+
+Ocean-safe
+longline
+
+Coming soon
+
+While this report does not evaluate the performance of national brand tuna products, the three biggest tuna
+companies in the U.S.—StarKist, Bumblebee and Chicken of the Sea—all source their tuna using destructive
+fishing methods. This also reflects poorly on retailers that are willing to stock those brands. On the other hand,
+Whole Foods and Trader Joe’s get credit for not stocking these brands. See the photos below for examples of
+private label sustainable canned tuna in stores nationwide.
+
+Irresponsible Tuna Fishing:
+
+Skipjack tuna is usually caught using Fish Aggregation Devices
+(FADs), which are man-made floating objects used to attract fish
+from miles around. Fish gather around the FAD thinking it’s a safe
+shelter. This then attracts sharks, rays, sea turtles, juvenile tuna
+and more fish. Tuna fishing vessels deploy purse seine nets around
+the FADs, catching and killing all the species in the surrounding
+water. Many of these animals are simply thrown overboard, dead.
+This is known as “bycatch,” and wastes thousands of tons of edible
+seafood every year1. Fishing without the use of FADS results in
+far less bycatch and has been proven to be cost effective as well.
+Pacific tuna vessels are already required by law to fish without FADs
+for several months out of the year.
+
+Albacore and yellowfin tuna are generally caught on conventional
+longlines: thick plastic ropes attached to thousands of individual
+hooks in series. Conventional longlines can stretch for miles, and
+kill countless seabirds, sharks, and turtles every year. Greenpeace
+is calling on fishing companies to adopt better longlining practices,
+such as transitioning to less destructive fishing gear and refusing to
+do business with illegal fishing vessels, to help protect our marine
+resources and ocean ecosystems.
+
+page 12
+
+page 13
+
+1 see dempster t, taquet m (2004). Fish aggregation device (Fad) research: gaps in current knowledge and future directions for ecological studies. reviews in Fish Biology
+and Fisheries; 14(1): 21–42. accessed april 2014 at: http://archimer.ifremer.fr/doc/2004/publication-721.pdf, at page seven; amandè mJ, ari J, Chassot e, Chavance P, de
+molina ad, gaertner d, murua h, Pianet r, ruiz J (2010). By-catch and discards of the european purse seine tuna fishery in the atlantic ocean: estimation and characteris-
+tics for 2008 and 2009. Collect. Vol. sci. Pap. iCCat, 66: 2113–20. accessed april 2014 at: http://www.iccat.es/documents/CVsP/CV066_2011/no_5/CV066052113.pdf
+
+ProteCting the Bering sea Canyons
+
+ProteCting the Bering sea Canyons
+
+BERING SEA
+
+How Supermarkets Can Invest in an
+Insurance Policy for “America’s Fish Basket”.
+
+More than half of all the seafood landed in the U.S. comes
+from the Bering Sea, aptly coined “America’s Fish Basket”. The
+Bering Sea is home to two of the world’s largest underwater
+canyons, Zhemchug and Pribilof, which contain corals and
+sponges that sustain a whole ecosystem of fish, sea mammals,
+and other life.
+
+Retailers play an incredibly important role in ensuring the
+Bering Sea is able to continue providing much of America’s
+seafood, including pollock, crab, halibut, and Pacific cod.
+Fishing methods used in the canyons involve gear that makes
+contact with the seafloor. Scientific evidence has shown this to
+be the greatest threat to coral and sponge habitat in Alaska,
+potentially destroying breeding grounds for key species1.
+
+page 14
+
+The majority of fishing activity in the canyons is coming from the
+Alaska pollock and Pacific cod fisheries, yet fishing vessels only catch
+under 4% of their total catch there. It is reasonable, therefore, to set
+aside a representative portion of the Bering Sea canyons by creating
+conservation areas that can preserve the region’s long-standing
+biodiversity. However, the North Pacific Fishery Management Council,
+the body tasked by the Federal government to manage fisheries and
+conservation in the region, has not yet put any protections in place for
+the canyons or the highly productive shelf-break zone.
+
+Forward-thinking retailers—Safeway, Trader Joe’s, Hy-Vee, Ahold
+USA, and Supervalu—have supported a call to protect a representa-
+tive portion of the canyons. This precautionary, science-based tool
+should be considered a part of a balanced approach to preserving
+fishing grounds while protecting key habitat that is important for com-
+mercial species, other marine life, and the indigenous communities
+that depend on a healthy Bering Sea ecosystem. While the percent-
+age of the catch coming from the canyons is quite low, their value as
+breeding and nursery grounds, and essential fish habitat is critical,
+and yet to be fully understood by scientists.
+
+For seafood businesses, setting aside a portion of the vital shelf-break
+and canyons habitat provides a valuable insurance policy that can
+help ensure the future health of the ecosystem, and the fisheries it
+sustains. With the increasing impacts of climate change and ocean
+acidification, as well as the cumulative degradation of seafloor habitat
+by industrial fishing gear, creating a buffer against uncertainty makes
+sense from an economic perspective as well as an ecological one.
+
+1 Stone, R.P., and S.K. Shotwell. 2007. State of Deep Coral Ecosystems in the Alaska Region,
+pp. 65-108, In: S.E. Lumsdenet al.(eds.), The State of Deep Coral Ecosystems of the United
+States, NOAA Technical Memorandum CRCP-3, Silver Spring MD, 365 pp.
+
+page 15
+
+retaiLer ProFiLes
+Legend
+
+BERING SEA
+
+BADGE
+
+IMPROVEMENT
+BADGE
+
+CANNED TUNA
+BADGE
+
+CATEGORY WINNER
+BADGE
+
+Bering Sea Badge:
+Awarded to each of the
+five retailers who have
+taken a stand in urging
+for the protection of the
+Bering Sea Canyons.
+
+Improvement Badge:
+Awarded to four retailers
+total: each of the three
+retailers who have shown
+most improvement in their
+overall score since last year,
+as well as the top newly
+profiled retailer Hy-Vee
+
+Canned tuna badge:
+Awarded to each of the five
+retailers that sell sustain-
+able private-label tuna.
+
+Category winner badge:
+Awarded to each of the
+category winners of the
+following four categories:
+Policy, Initiatives, Labeling
+and Transparency, and
+Red List.
+
+human rights  aBuses in the seaFood
+suPPL y Chain
+
+Transparency isn’t only about guaranteeing that seafood is being responsibly sourced. The global seafood
+industry is complicit in a variety of human rights abuses of which consumers are rarely aware. The cases in the
+chart below have occurred in the tuna industry, on board Thai trawlers, Russian crabbers, and in the South
+and Southeast Asian shrimp farm industry, to name just a few. Given that over 70% of the seafood consumed
+in the U.S. is imported, these abuses could be present in the supply chain that provides meals for people
+across America every day. In addition to stronger international cooperation and bolstered, uncompromised
+enforcement, greater transparency in the supply chain can help retailers avoid inadvertently sourcing seafood
+from suppliers associated with human rights scandals.
+
+No Monetary Compensation
+People may sign up to work on fishing vessels through recruitment agencies that “exploit poverty and
+illiteracy to extract extortionate sums of money from job seekers” (EJF). Some crew members are “not paid
+with money, but in boxes of ‘trash’ fish—the bycatch rejected by the European Market” (The Guardian).
+Special Indonesian and Taiwanese investigations found that crewmembers “had been working on the tuna
+fishing vessels for between three and five years without being paid.” (Under Current News).
+
+Perpetual Debt
+Many shrimp farmers fall into debt which they cannot repay due to low incomes and the cost of supplies
+needed to keep working in the industry. “As well as accruing interest, these loans oblige farmers and fry
+collectors to sell their produce at a fixed price to intermediaries” (EJF). “Double bookkeeping” also occurs
+when “workers are tricked into signing a contract in which money from their pay is removed for agency fees,
+as well as leave pay, subsistence, and cash advances” (EJF). Unfortunately, this accrued debt is sometimes
+passed on to the next generation of farmers.
+
+Physical Abuse
+“Poor health and hygiene standards can be found on both the crew decks and fish holds of IUU [Illegal,
+Unreported & Unregulated] vessels” (EJF). Special investigators among Thai ships were told of “captains
+force-feeding amphetamines to half-starved crew members, the routine killing of those who complain, and
+Burmese migrants leaping from the backs of vessels in suicidal bids to escape the torment of life at sea” (The
+Ecologist). Men work in the fish hold with no air ventilation; they are beaten for mistakes, and are sometimes
+killed; in a report on trafficked Cambodians, “59% had witnessed a boat captain murder a crew member”
+due to a crew member’s incompetence or lack of efficiency on board the vessel (NBC News, 2010).
+
+Trafficking
+Each year, many men living in poverty in places like Burma, Cambodia, Laos, and Vietnam are “lured from
+their homes with the promise of better paying jobs in Thailand” only to discover that they were tricked into
+slavery on board a fishing ship. (IRIN Humanitarian News). While the Thai fishing industry is not the only
+player, it is the largest stakeholder in the trafficking business. Many of these workers are undocumented,
+thereby making the trafficking process much easier for those who take advantage of the impoverished
+workers. To make matters worse, criminal traffickers sometimes bribe police officers to turn a blind eye
+(CNN, 3/6/14).
+
+How Illegal Fishing Vessels Evade Enforcement
+
+In addition to avoiding scrutiny of illegal fish in their possession, vessels that
+engage in Illegal, Unreported, and Unregulated (IUU) fishing may rely on “flags of
+convenience” (FOC) to bypass inspections of their crew treatment and training,
+to minimize operating costs, and disregard vessel safety requirements and
+maintenance. Under international law, the country whose flag a vessel flies is
+responsible for controlling its activities. IUU vessels can engage in “flag hop-
+ping”—where they can re-flag numerous times in a season to confuse manage-
+ment and surveillance authorities, and avoid prosecution.
+
+page 16
+
+page 17
+
+#1
+
+Whole Foods
+
+OVERALL SCORE
+
+7.28
+
+POLICY
+
+#1
+
+Whole Foods
+
+OVERALL SCORE
+
+7.28
+
+POLICY
+
+CANNED TUNA
+BADGE
+
+CATEGORY WINNER
+BADGE
+
+CANNED TUNA
+BADGE
+
+CATEGORY WINNER
+BADGE
+
+POLICY:
+
+90.76
+
+INITIATIVES:
+
+78.34
+
+TRANSPARENCY:
+
+67
+
+RED LIST:
+
+55
+
+POLICY:
+
+90.76
+
+INITIATIVES:
+
+78.34
+
+TRANSPARENCY:
+
+67
+
+RED LIST:
+
+55
+
+Headquarters: Austin, Texas
+
+Stores and Banners: Over 350 stores in the U.S. operating as
+Whole Foods Market and Harry’s Farmers Market
+
+Background: Whole Foods Market is the world’s largest purveyor
+of natural and organic products. Whole Foods stays on top of the
+growing consumer trend toward sustainable living by constantly
+reviewing the health, nutritional, and environmental impacts of its
+products. Its 2013 fiscal year annual revenue was $12.9 billion.
+
+Greenpeace Comments: Whole Foods remains the leader of
+this year’s Carting Away the Oceans report for the second year
+in a row. It actually dropped slightly in overall score from last
+year due to a drop in its Red List inventory performance. It either
+improved or remained the same in other categories. It is only due
+to outstanding performance in areas such as its policy (surpassing
+the 90/100 mark) that it is able to come out on top despite a
+mediocre Red List inventory.
+
+The company continues to offer the most sustainable canned tuna
+section of any major U.S. retailer, consisting mainly of a multitude
+of troll-caught albacore products and the company’s private label
+pole-caught skipjack. In fact, Whole Foods has recently released
+both a new pole-and-line skipjack and pole-and-line albacore
+product, giving further options to consumers when it comes to
+shelf-stable sustainability—with additional traceability to boot.
+Finally, Whole Foods has eschewed selling conventionally sourced
+tuna storewide, steering clear of the problems associated with
+tuna companies such as Chicken of the Sea, Bumble Bee, and
+Starkist. This in turn means that shoppers at Whole Foods can be
+confident that their canned tuna purchases are in no way support-
+ing destructive tuna fishing.
+
+On a less positive note, Whole Foods struggles with an over-
+reliance on the Marine Stewardship Council (MSC)’s recommenda-
+tions on fresh and frozen products—including Red List species.
+The retailer carries several controversially-certified products (see
+Red List section below). Still, the company’s strong ties to MSC
+could theoretically be used for positive change if Whole Foods
+were to push back on dubious certifications or procedures.
+
+Sustainable Seafood Policy: Whole Foods maintains the
+strongest and most complex sourcing policy of any of the retailers
+examined in this report, and also operates a highly effective policy
+governing the purchasing of its canned tuna. While there are still
+some areas for improvement, as some Red List species being
+sold could be considered to violate the policy, there is no question
+that its policy should be applauded, and is impressive not only in
+relative to other retailers, but also in absolute terms.
+
+Whole Foods invites the cooperation of independent scientific
+and environmental organizations for guidance on what it should
+purchase. The company’s aquaculture policy includes a strong
+public stance against GMO seafood, and it requires fish farms
+to minimize the environmental impacts of their operations, which
+includes having protocols to prevent fish from escaping the farms
+and adhering to sustainable maximum stocking density limits.
+Furthermore, antibiotics, growth hormones, and poultry and
+mammalian by-products may not be used in feed. Finally, strong
+traceability measures ensure that farmed seafood is tracked from
+farm to store.
+
+Seafood Sustainability Initiatives: Whole Foods supports
+sustainable fishing practices by actively partnering with suppliers,
+the MSC, and other groups to encourage responsible practices.
+Whole Foods supports the “Common Vision for Environmentally
+Sustainable Seafood,” an initiative of the Conservation Alliance
+for Seafood Solutions that aims to build an active partnership
+between conservation organizations and seafood retailers in
+support of achieving sustainable fisheries. It participates in the
+policy arena by communicating to the government to promote
+better enforcement of fishing vessels, and by being a strong voice
+on strong environmental criteria in aquaculture legislation. It could
+do even better by supporting the protection and promotion of
+marine reserves.
+
+Labeling and Transparency: Whole Foods uses a pioneering la-
+beling program in concert with the Monterey Bay Aquarium (MBA)
+and the Blue Oceans Institute (BOI). The program is designed to
+increase available information at point-of-purchase regarding the
+sustainability of various seafood options.
+
+Whole Foods provides information to its customers on its website
+and trains its seafood counter staff to answer questions about
+seafood sourcing and catch methods. Its online blog also promi-
+nently features seafood sustainability. The company’s Aquaculture
+Standards are available online, setting a strong example in terms
+of transparency. Brochures on mercury in seafood are available to
+consumers upon request. Whole Foods also educates its custom-
+ers about the environmental benefits of frozen seafood, which can
+take the “slow boat” route to market and thus has a much smaller
+carbon footprint than fresh seafood, which requires immediate
+shipping.
+
+This year, Whole Foods’s new pole-and-line canned tuna products
+for both skipjack and albacore contain a user-friendly format
+for traceability. Each can will have a label on the top informing
+shoppers about the fishing vessel that caught the fish, type of fish
+and year it was caught, as well as a code on the bottom that the
+shopper can scan to learn more about the fisherman and how
+pole-and-line works.
+
+Red List Seafood Sales: This is the retailer’s glaringly weak
+category in an otherwise strong showing. Unfortunately, Whole
+Foods re-introduced Atlantic halibut this year. The retailer employs
+a variety of means to still stay afloat overall, despite carrying a
+high number of Red List species for an otherwise top performer.
+It has dropped the sale of species that most other retailers still
+carry, employs a variety of mitigation tools that dampen the harm
+of carrying an unmitigated Red List product, and participates in
+several fishery/aquaculture improvement projects.
+
+Whole Foods sells fourteen of the twenty-two Red List seafoods:
+Atlantic halibut, hoki, Chilean sea bass, Alaska pollock, Atlantic
+cod, Atlantic salmon, Atlantic sea scallops, bigeye tuna, Greenland
+halibut, monkfish, red snapper, swordfish, tropical shrimp, and
+yellowfin tuna.
+
+page 18
+
+page 19
+
+Whole Foods has introduced yet another
+pole-and-line caught product for both skipjack
+(from the Maldives) and albacore (from the
+U.S.). These products also feature additional
+traceability information that allows consumers
+to find out more about who caught the tuna
+and when it was caught.
+
+#2
+
+Safeway
+
+OVERALL SCORE
+
+7.22
+
+#2
+
+Safeway
+
+OVERALL SCORE
+
+7.22
+
+POLICY:
+
+82.33
+
+INITIATIVES:
+
+80.02
+
+TRANSPARENCY:
+
+65.5
+
+RED LIST:
+
+61
+
+POLICY:
+
+82.33
+
+INITIATIVES:
+
+80.02
+
+TRANSPARENCY:
+
+65.5
+
+RED LIST:
+
+61
+
+BERING SEA
+
+BADGE
+
+CANNED TUNA
+BADGE
+
+BERING SEA
+
+BADGE
+
+CANNED TUNA
+BADGE
+
+Sustainable Seafood Policy: Safeway maintains a seafood
+policy of meaningful and aggressive sourcing guidelines. It also
+has existing corporate guidelines on improving traceability and
+social welfare issues in other areas that can and should be applied
+to seafood sourcing, especially in light of the growing body of
+evidence of human rights abuses associated with certain fishing
+and farming practices.
+
+Safeway’s policy precludes the retailer from adding any new Red
+List species to its inventory, and thus many of the stipulations
+that would trigger such a listing (destructive gear types, high fish
+meal in feed, etc.) are immediately eliminated from the realm of
+possibility. To its credit, Safeway did not add any additional red-
+listed species this past year. However, this policy is not yet fully
+retroactive; there are a number of Red List species that Safeway
+continues to sell which the company would not be able to add to
+its inventory under these guidelines.
+
+Finally, in response to consumer pressure and mounting opposi-
+tion to the idea of unlabeled genetically modified seafood coming
+to market, Safeway made the following public statement: “Should
+GE salmon come to market, we are not considering nor do we
+have any plans to carry GE salmon.” Given Safeway’s enormous
+size, its recent public statements, along with statements from
+Kroger’s, are no small commitments.
+
+Seafood Sustainability Initiatives: Safeway threw its support
+for a second time behind protection of the Bering Sea Canyons by
+writing a second letter to the relevant fishery management council
+to implement conservation measures to safeguard this important
+habitat. The company also did so despite certain large-scale
+industry players’ disapproval of the retailer’s previous letter,
+demonstrating that it is ultimately consumers and retail purchasers
+that have the final word on sustainability.
+
+Labeling and Transparency: Safeway has increased the amount
+of information available to its customers through the development
+of in-store brochures and informational kiosks, as well as via online
+educational tools. The main principles and parameters of the
+company’s sustainable seafood policy are available in a variety of
+forms (in-store brochures, Corporate Social Responsibility docu-
+ments, etc.), but some of the details used in the actual purchasing
+process do not appear to be accessible to the public.
+
+Internally, it effectively tracks overall tonnage of Red List species
+that it phases out over time. This internal benchmarking and
+measuring is a useful tool by which to evaluate overall impact on
+the oceans, and of particular significance for a retailer the size
+of Safeway. Safeway has publicly committed to not buy seafood
+from the Ross Sea and has also issued a call for a no-take
+marine reserve to encompass this ecologically invaluable area. It
+has also previously spoken out on urging reforms for the British
+Columbia trawling industry to minimize ecosystem impacts, and
+has promoted stronger environmental criteria in U.S. aquaculture
+legislation.
+
+Red List Seafood Sales: If Safeway’s generally positive trends
+are held back in any aspect, it is by the company’s overall Red
+List inventory. While several of the Red List species sold by the
+company are sourced (at least in part) from ongoing fishery
+improvement projects, many of these projects do not yet directly
+provide product to the retailer.
+
+Safeway currently sells twelve of the twenty-two Red List
+seafoods: Chilean sea bass, Alaska pollock, Atlantic cod, Atlantic
+salmon, Atlantic sea scallops, bigeye tuna, ocean quahog, red
+snapper, South Atlantic albacore tuna, swordfish, tropical shrimp,
+and yellowfin tuna.
+
+Safeway is engaged in fishery improvement projects concerning
+Atlantic cod. It is anticipating sourcing from fishery improvement
+projects (FIPs) for fresh and frozen bigeye and yellowfin tuna, but
+this is not yet underway. The company is also exploring ways to
+improve in the areas of Alaska pollock, Atlantic salmon, and tropi-
+cal shrimp. It is also actively phasing out the sale of ocean quahog
+(usually found in canned clam chowder) to the point where it soon
+will be selling no more. To quickly improve in this area, Safeway
+should drop the sale of Chilean sea bass immediately.
+
+Headquarters: Pleasanton, CA
+
+Stores and Banners: 1,406 stores operating as Safeway, Carrs,
+Genuardi’s (Audubon, PA only), Pavilions, Randall’s, Tom Thumb,
+VONS
+
+Background: Safeway is one of the largest grocery chains in
+the United States and operates 1,406 supermarkets under seven
+banners, mostly in the Western and Southwestern regions, but
+also in the mid-Atlantic region. Safeway offers a wide array of
+grocery items, including store brand organic foods and household
+products. It had annual sales of $37.3 billion in the 2013 fiscal year.
+Last year it sold off its 213 stores in Canada, and plans to discon-
+tinue its Dominick’s banner in the U.S., having already sold some
+of these stores to Roundy’s Supermarkets. This year, Cerberus
+Capital Management (the parent company of Albertsons) will be
+acquiring Safeway. For the moment however, Safeway is still its
+own entity, and is profiled as such in this report.
+
+Greenpeace Comments: Safeway made steady gains over the
+past year, closing the gap between itself and front-runner Whole
+Foods—to within six-hundredths of a point. Company leadership
+demonstrated an interest and energy over the past year in further
+exploring ways to use its large size to have a likewise large impact
+on the oceans.
+
+Given the news earlier this year that Albertsons’ parent company
+will purchase Safeway, there is uncertainty in the future regarding
+the company’s sustainability. After all, Albertson’s performance in
+this report is a far cry from Safeway’s current standing. If however,
+Safeway maintains its drive and freedom to innovate in this area
+without interference, then there should be no problem.
+
+Last month, Safeway released a new sustainable tuna product
+for albacore — a longlined product that merits being ocean-safe,
+unlike conventional longlined tuna — due to a number of modifica-
+tion and mitigation techniques. This new affordable albacore
+is being offered in conjunction with Safeway’s already-existing
+FAD-free responsibly-caught chunk light tuna. The next step in the
+shelf-stable category would be to phase out the sale of third party
+national brands that rely on destructive fishing methods.
+
+Safeway will also need to implement a number of reforms over the
+course of this year to make good on its standing commitment to
+rid itself of all unsustainable seafood by 2015.
+
+page 20
+
+page 21
+
+Screenshot of Safeway’s May 2014 tuna
+sourcing video, in which the retailer explains
+the harm caused by Fish Aggregating Devices
+(FADs) and promotes its private label brand of
+FAD-free canned tuna.
+
+#3
+
+Wegmans
+
+OVERALL SCORE
+
+7.12
+
+INITIATIVES
+
+CATEGORY WINNER
+BADGE
+
+#4
+
+Trader Joe’s
+
+OVERALL SCORE
+
+7.01
+
+RED LIST
+
+CANNED TUNA
+BADGE
+
+BERING SEA
+
+BADGE
+
+CATEGORY WINNER
+BADGE
+
+POLICY:
+
+77.17
+
+INITIATIVES:
+
+87.52
+
+TRANSPARENCY:
+
+62
+
+RED LIST:
+
+56
+
+POLICY:
+
+80.72
+
+INITIATIVES:
+
+75.18
+
+TRANSPARENCY:
+
+41.5
+
+RED LIST:
+
+83
+
+Headquarters: Rochester, NY
+
+Stores and Banners 83 stores operating as Wegmans
+
+Background: Wegmans is a privately held, family-owned com-
+pany, founded in 1916 by the Wegman family. Its annual revenue
+for the 2013 fiscal year was $6.8 billion. In 2014, it is ranked #12 in
+Forbes Magazine’s “100 Best Companies to Work For.”
+
+Greenpeace Comments: Wegmans has made great progress
+over the past year, and deserves praise for its first-time appear-
+ance in the coveted green category of retailers.
+
+The chain continues to set a strong standard for the industry,
+especially through its willingness to take progressive, ethical
+stances on significant policy issues. The main impediment to
+the company’s continued improvement is the company’s sizable
+inventory of Red List species. To its credit however, Wegmans
+has given this area a hard look over the past year and in several
+cases made significant sourcing changes that mitigated in whole
+or in part some of the problem areas that first made the seafood
+deserve to be Red Listed in the first place. These changes are
+reflected in this year’s score.
+
+Sustainable Seafood Policy: Wegmans should strongly
+consider expanding the application of its seafood policy to all
+of its offerings—including shelf-stable seafood. This is a glaring
+area in an otherwise solid showing—sustainable canned tuna is
+not this retailer’s forte, but it doesn’t have to be that way. Every
+other retailer in the good category has managed to find a way
+to source sustainable and affordable private-label tuna. On that
+note, Greenpeace strongly encourages Wegmans to make good
+on its pledge to discontinue unsustainable species that cannot be
+sourced from environmentally preferable sources.
+
+Otherwise, Wegmans has a publicly available, robust sustainable
+seafood sourcing policy that incorporates its guidelines for sourc-
+ing both wild-caught and farmed products. Wild-caught items
+must be captured according to local regulations and properly
+reported capture methods used must meet its standards. Stock
+strength, bycatch rates, and social impacts are also taken into
+account.
+
+Wegmans’s farmed products are sourced from suppliers that
+are working to “minimize or eliminate the use of wild fish in the
+feed, pesticides, and antibiotics.” The retailer also strives to avoid
+patronizing farms that cause undue habitat alteration and/or land
+loss, are associated with human rights abuses, or source brood-
+stock from red-grade fisheries.
+
+Seafood Sustainability Initiatives: Wegmans continues to
+dominate in this area, and is more willing than any other retailer
+to take strong stands on political conservation measures. Histori-
+cally, Wegmans led the charge to protect the Ross Sea and has
+participated in the ongoing revitalization of the Chesapeake Bay in
+a number of ways (pertaining to crabs and oysters), both through
+engagement with policymaking bodies and its supplier connec-
+tions.
+
+Its seafood sourcing and supplier requirements are unparalleled by
+other retailers. Its chain of custody is certified by MSC. Recently
+however, Wegmans removed its partial pledge to protect the
+Bering Sea Canyons from its website, which was an unexpected
+step back. However, it continues to avoid sourcing its own private
+label brand Alaskan pollock from the ecologically-sensitive Bering
+Sea Canyons. Greenpeace urges Wegmans to re-commit to this
+important initiative.
+
+Labeling and Transparency: Wegmans made no changes in
+this area from last year. It has a fair amount of data available for
+consumers at the point of sale, including port of landing and catch
+vessel. It could improve in this area by making this information
+available on all of its products. The company’s seafood sourcing
+policy is available online and in print. Wegmans employees are
+trained to be knowledgeable about seafood choices, labeling, and
+sustainability.
+
+Red List Seafood Sales: This is Wegmans’s poorest category,
+though over the past year the retailer made good-faith efforts to
+mitigate some of the harms associated with sourcing of certain
+Red Listed species (for example, safer methods of capture). Unfor-
+tunately, it also re-introduced Atlantic halibut for a few months of
+the year. It is only because of its higher scores in other categories
+that it managed to make it so high on the charts.
+
+Wegmans sells fourteen of the twenty-two Red Listed species:
+Atlantic halibut, Chilean sea bass, Alaska pollock, Atlantic cod,
+Atlantic salmon, Atlantic sea scallops, bigeye tuna, ocean quahog,
+red snapper, skates and rays, South Atlantic albacore tuna,
+swordfish, tropical shrimp, and yellowfin tuna.
+
+Headquarters: Monrovia, CA
+
+Stores and Banners: 208 stores operating as Trader Joe’s
+
+Background: Trader Joe’s operates more than 415 stores across
+the country and prides itself on offering rock-bottom prices and a
+wide array of single-serving and prepared meals made with natural
+and organic ingredients. Trader Joe’s buys directly from producers
+and offers a variety of grocery products under its own private
+label. Its annual revenue for the 2013 fiscal year was $11.3 billion.
+
+Greenpeace Comments: Trader Joe’s surged up the charts in
+the last report. Since then, it has maintained its score from last
+year due to both positive and negative changes that balanced out
+one another. The company deserves applause for introducing a
+sustainable pole-and-line skipjack canned tuna product—the gold
+standard of tuna sustainability — at a price point that makes this
+product accessible for even the most budget-conscious shop-
+pers. On the other hand, it also re-introduced a poorly sourced
+swordfish into its inventory. Trader Joe’s maintains its green rating
+overall, but has been passed by faster-performing competitor
+Wegmans.
+
+Sustainable Seafood Policy: Two years ago, the company
+discontinued half a dozen unsustainable species due to life history,
+bycatch, habitat destruction, or other associated problems. The
+company is in the process of building strong internal standards
+for farmed products as well, most notably farmed salmon and
+shrimp. That said, Trader Joe’s continued defense of its sale of
+farmed salmon without transitioning entirely to closed-containment
+systems (or dropping it altogether) is of little merit.
+
+With the recent introduction of affordable pole-and-line skipjack
+tuna, Trader Joe’s full reformation of its canned tuna selection
+features shelf-stable products free of harmful conventional
+longlines. The company also refuses to do business with any
+vessel on Greenpeace’s blacklist (pirate fishing vessels, many
+of which are tuna longline operators). Trader Joe’s sources from
+producers using best practices in albacore — and has switched
+to pole-and-line sources for its yellowfin, and now, skipjack. To
+continue on its momentum, Greenpeace encourages the company
+to publicly refuse to do business with any companies engaged in
+shark finning.
+
+Seafood Sustainability Initiatives: Given that Trader Joe’s new
+sustainable skipjack product is sourced by Thai Union/Chicken
+of the Sea, this is a refreshing and game-changing move by an
+otherwise irresponsible tuna company. Hopefully, this is a sign
+of even more industry reform on the horizon, with major tuna
+companies serving as part of the solution instead of part of the
+problem. Trader Joe’s previously communicated its concerns over
+the destructive practices associated with Alaska pollock in a letter
+to the North Pacific Fishery Management Council, and is also
+actively engaged in seeking out and supporting better producers
+in both the wild capture and aquaculture seafood sectors.
+
+Labeling and Transparency: This is Trader Joe’s weakest
+category. It appears to have reneged from its previous commit-
+ment to issue a monthly consumer-facing progress report on
+seafood, and Trader Joe’s does not yet sufficiently label seafood
+products so that consumers can avoid purchasing destructively
+fished species. Since the company is highly vertically integrated, it
+should be able to more easily augment labeling than other, more
+conventional retailers.
+
+Red List Seafood Sales: Trader Joe’s leads the retailers for
+selling very few Red List species, though it moved backwards over
+the past year by re-introducing destructively-caught swordfish.
+
+Trader Joe’s sells five Red List seafood items: Alaska pollock,
+Atlantic salmon, Atlantic sea scallops, swordfish, and tropical
+shrimp. The company is involved in ongoing improvement
+projects, either internally or externally, in all of these categories
+aside from Atlantic sea scallops and swordfish.
+
+page 22
+
+page 23
+
+#5
+
+Hy-Vee
+
+OVERALL SCORE
+
+6.63
+
+BERING SEA
+
+BADGE
+
+CANNED TUNA
+BADGE
+
+IMPROVEMENT
+BADGE
+
+#6
+
+Harris Teeter
+
+OVERALL SCORE
+
+6.62
+
+TRANSPARENCY
+
+CATEGORY WINNER
+BADGE
+
+POLICY:
+
+73.93
+
+INITIATIVES:
+
+72.76
+
+TRANSPARENCY:
+
+53
+
+RED LIST:
+
+66
+
+POLICY:
+
+72.75
+
+INITIATIVES:
+
+64.59
+
+TRANSPARENCY:
+
+76.5
+
+RED LIST:
+
+51
+
+Headquarters: West Des Moines, Iowa
+
+Stores and Banners: 214 supermarkets operating as Hy-Vee
+
+Background: Hy-Vee is an employee-owned private company
+and its stores are located in eight Midwestern states: IA, IL, MO,
+KS, NE, SD, MN, and WI. Its sales last fiscal year exceeded $8
+billion. Hy-Vee stresses strong customer service and an emphasis
+on its customers’ desire for healthy lifestyles.
+
+Greenpeace Comments: Hy-Vee was one of the five new
+retailers profiled in this year’s report, and entered it in fifth place,
+just outside of the green zone. While other newly profiled retailers
+are still establishing baselines and taking stock of internal sourcing
+and processes, Hy-Vee’s remarkable entrance can be credited
+to the seafood team’s internal drive and proactive approach to
+seafood sustainability, coupled with corporate-level endorsement
+and confidence in its category staff.
+
+Hy-Vee has partnered with FishWise since 2011 and has created
+a Responsible Sourcing Commitment that calls for Hy-Vee’s fresh
+and frozen seafood to be responsibly sourced (i.e., green/yellow
+according to Monterey Bay Aquarium’s seafood watch card) and
+traceable or in a time bound improvement process by year-end
+2015. In the shelf-stable category, Hy-Vee has developed two
+responsibly-sourced private label canned tuna products, including
+pole-and-line skipjack tuna and albacore tuna. These sustainable
+products will be offered to customers in mid-May 2014 and by the
+end of the summer, respectively.
+
+Sustainable Seafood Policy: Hy-Vee’s sustainable seafood
+policy applies across most of its range, encompassing fresh and
+frozen product, though it does fall short of 100% coverage. Part
+of the gap in the shelf-stable arena is covered by its private label
+sustainable tuna, though it could improve its performance next
+year by addressing the other unsustainable, conventional brands
+that it carries.
+
+Its wild-caught criteria are strong, and the retailer does not source
+from the Ross Sea. Its farmed standards are likewise respectable,
+though it could improve its farmed salmon standards; to that end,
+it is looking into closed-containment aquaculture options. It is
+also exploring how to avoid sourcing farmed seafood from farms
+associated with human rights abuses. Internally, it does not plan
+to purchase genetically engineered seafood because it does not
+meet Hy-Vee’s seafood procurement policy, but it has not made
+any public statements to that effect.
+
+Seafood Sustainability Initiatives: Hy-Vee has strong standards
+that its suppliers must live up to, and uses an external party to
+monitor annually for compliance. It refuses to purchase from
+vessels found on the Greenpeace Blacklist (a database of known
+illegal or “pirate” fishing operations). Finally, it trains suppliers on
+its policy requirements and advocates for supplier participation in
+industry improvements.
+
+This year, Hy-Vee wrote a letter to the relevant fishery manage-
+ment council urging for the protection of a representative portion
+of Bering Sea Canyons, an important “breadbasket” for our
+nation’s fisheries. It is one of five retailers profiled in the report to
+write such a letter. It also supports protection of the Ross Sea and
+does not source seafood from the area.
+
+Hy-Vee also plays an integral and vocal role in the Food Marketing
+Institute’s seafood working group, brainstorming and collaborating
+with other retailers on how to raise the bar on seafood sustain-
+ability across the industry. It also partners with FishWise and the
+Monterey Bay Aquarium.
+
+Labeling and Transparency: Hy-Vee has done a good job of
+publicly promoting seafood sustainability to educate and engage
+consumers through its website, in-store signage, and flyers, and
+requiring its seafood category employees to take an online training
+course so that those behind the seafood counter are ideally better-
+suited to assist an inquiring customer.
+
+However, Hy-Vee is lacking when it comes to specific on-package
+labeling that provides customers with more information at the
+point of purchase. This is what contributes most to the retailer’s
+overall mediocre score for this section.
+
+Red List Seafood Sales: Hy-Vee is a proponent of fishery
+improvement projects (FIPs) for several species, and avoids selling
+many of the species that other retailers carry. A glaring exception
+is Chilean sea bass. Hy-Vee sells ten of the twenty-two Red
+List species: Chilean sea bass, Alaska pollock, Atlantic salmon,
+Atlantic sea scallop, bigeye tuna, ocean quahog, South Atlantic
+albacore tuna, swordfish, tropical shrimp, and yellowfin tuna.
+
+It is participating in a FIP for South Atlantic albacore, tropical
+shrimp, and sources its fresh yellowfin product (not frozen) from a
+green-rated handline fishery from the Philippines.
+
+Headquarters: Matthews, NC
+
+Stores and Banners: 208 stores operating as Harris Teeter (prior
+to the January 28, 2014 merger with Kroger).
+
+Background: Due to this year’s acquisition, Harris Teeter is now
+a wholly-owned subsidiary of Kroger. Nonetheless, for most of
+the past year, Harris Teeter operated as its own entity, and as an
+upscale grocer that operated over 200 stores in eight states and
+the District of Columbia. To that end, it is being evaluated in this
+report as a standalone retailer. Prior to this year’s merger with
+Kroger, it had revenues of $4.5 billion for the 2012 fiscal year.
+
+Greenpeace Comments: Harris Teeter’s progress halted over
+the past year, likely due to the impending merger with Kroger.
+Harris Teeter informed Greenpeace that the future of the grocer’s
+seafood policies (in light of Kroger’s poorer standards) is unclear,
+but as of the date of this report, Harris Teeter has maintained its
+prior standards. Over the past year, Harris Teeter dropped one
+place in the relative rankings because it went back on its com-
+mitment to avoid sourcing genetically-modified seafood, should it
+become available on the market.
+
+In March 2012, it became the third major U.S. retailer to take the
+Ross Sea Pledge by refusing to stock any seafood sourced from
+the Ross Sea, and publicly calling for the creation of a no-take
+marine reserve encompassing this unique and imperiled area.
+Harris Teeter’s strongest categories are its sustainable seafood
+policy and its level of transparency to customers. To improve,
+Harris Teeter needs to pay attention to its sale of several Red
+List species, and to re-engage on its historically strong initiatives
+category.
+
+Sustainable Seafood Policy: Harris Teeter has appar-
+ently backed down from its previous firm stand against offering
+genetically-engineered seafood to its customers, should the option
+become available upon FDA approval. Greenpeace strongly urges
+Harris Teeter to reconsider its policy regarding this potentially
+unsafe and environmentally dubious product.
+
+Harris Teeter continues to have a relatively robust aquaculture
+policy, but lags behind in the wild capture arena, particularly in
+sourcing species that are not taken with destructive catch meth-
+ods. Greenpeace would also encourage Harris Teeter to perform
+its own due diligence when evaluating species sustainability.
+Harris Teeter should develop strong, independent benchmarks
+on issues such as destructive fishing gear and harms to other
+non-targeted populations through bycatch.
+
+Seafood Sustainability Initiatives: Harris Teeter’s 2012 deci-
+sion to stand up for the Ross Sea spoke well of the company’s
+intentions then. However, Harris Teeter must continue to engage in
+important political processes on behalf of ocean conservation.
+
+The retailer has developed strong requirements for its seafood
+supplier requirements, and it was the first chain to explicitly imple-
+ment the Greenpeace Blacklist — the world’s most comprehen-
+sive register of pirate fishing vessels — in its sourcing guidelines.
+
+Harris Teeter could improve its performance here by finalizing
+its requirements for full traceability to vessel across all seafood
+categories, and by re-engaging in the political process by, for
+example, pledging to avoid sourcing seafood from the Bering Sea
+Canyons and advocating for its protection.
+
+Labeling and Transparency: Harris Teeter excels in this area
+because of its comprehensive online seafood information data-
+base. Consumers browsing the Harris Teeter website have access
+to an unprecedented level of information about the seafood
+options sold by the company; the retailer also provides information
+to consumers on the stock from which the seafood was caught
+for some of its wild-caught inventory. Also of note: Harris Teeter
+provides consumers with information on mercury in seafood, and
+trains its seafood managers on sustainable choices.
+
+Red List Seafood Sales: Shamefully, Harris Teeter sells Chilean
+sea bass; there is no excuse for selling this top-tier Red List spe-
+cies. Harris Teeter could explore ways to sell certain other species,
+like monkfish, that are caught in a less destructive manner. Harris
+Teeter could also explore ways to begin supporting domestic
+fishery improvement projects.
+
+Recent Greenpeace surveys found that Harris Teeter continues
+to sell twelve Red List seafoods: Alaska pollock, Atlantic cod,
+Atlantic salmon, Atlantic sea scallops, Chilean sea bass, grouper,
+monkfish, ocean quahog, South Atlantic albacore tuna, swordfish,
+tropical shrimp, and yellowfin tuna.
+
+page 24
+
+page 25
+
+#7
+
+Aldi
+
+OVERALL SCORE
+
+6.60
+
+IMPROVEMENT
+BADGE
+
+#8
+
+Target
+
+OVERALL SCORE
+
+6.43
+
+POLICY:
+
+75.04
+
+INITIATIVES:
+
+57.5
+
+TRANSPARENCY:
+
+56.5
+
+RED LIST:
+
+75
+
+POLICY:
+
+75.48
+
+INITIATIVES:
+
+70.76
+
+TRANSPARENCY:
+
+39
+
+RED LIST:
+
+72
+
+Headquarters: Batavia, IL
+
+Stores and Banners: 1,227 stores operating as Aldi
+
+Background: The Aldi chain of supermarkets began in Germany
+and today operates throughout much of Europe and the U.S.
+Today, there are 1,227 ALDI stores in most states east of Kansas.
+The company specializes in offering low-cost and bulk options to
+price-conscious shoppers throughout the Midwest and Appala-
+chia.
+
+Greenpeace Comments: Aldi made remarkable progress this
+year, and was second only to Meijer in largest point increase from
+last year. It is only two hundredths of a point behind Harris Teeter,
+and has maintained its relative ranking only because of newcomer
+Hy-Vee’s high score. Aldi made the most reforms in its farmed
+seafood policy and in the labeling and transparency category.
+
+Sustainable Seafood Policy: Aldi has publicly disclosed its
+seafood sourcing policy to the public, which applies to all of its
+seafood products in its fresh, frozen, and shelf-stable inventory.
+Aldi has continued to make strides in the aquaculture sourcing by
+moving to 2-star Best Aquaculture Practices (BAP) certification for
+most of its farmed seafood (97% of it), and is aiming to source a
+minimum of 100% 2-star BAP by the end of 2014. The company
+has also taken a public stand in refusing to purchase genetically-
+modified organisms should they become available on the U.S.
+market. Its wild-caught fisheries policy is also respectable, and
+meshes well with the fact that it sells few Red List species.
+
+Seafood Sustainability Initiatives: Aldi continues to work closely
+with Sustainable Fisheries Partnership (SFP) and advocates for
+improvements within the context of certification organizations such
+as the Marine Stewardship Council (MSC) and Global Aquaculture
+Alliance (GAA). In addition, Aldi implements annual monitoring
+procedures to ensure that its suppliers conform to its policy
+requirements. Aldi could strengthen its commitment to traceable,
+sustainable seafood by requiring that seafood be traced back
+to the vessel that caught it, and by refusing to do business with
+known “pirate” fishing companies.
+
+Labeling and Transparency: Aldi made rapid gains in this area
+by beefing up its in-store signage and online communication
+regarding seafood sustainability. At point-of-purchase, Aldi
+stepped up labeling sustainability information on its packaging and
+in the master cases. It labels all non-grocery seafood products
+with scientific name and gear type, and was the first U.S. grocer to
+introduce comprehensive Food and Agriculture Organization (FAO)
+catch area labeling on all fresh/frozen seafood products.
+
+Red List Seafood Sales: This is Aldi’s strongest category,
+and is second only to Trader Joe’s in selling the fewest Red List
+species out of any retailer in this report. Aldi sells seven out of the
+twenty-two Red List species: Alaska Pollock, Atlantic cod, Atlantic
+salmon, Atlantic sea scallop, ocean quahog, South Atlantic
+albacore tuna, and tropical shrimp. Its farmed salmon and shrimp
+is BAP 2-star certified.
+
+Headquarters: Minneapolis, Minnesota
+
+Store and Banners: 1,245 across the U.S. (that include expanded
+food assortments), operating as Target, SuperTarget, and CityTarget
+
+Background: Target has built a successful “big box” store concept
+based on low prices and trendy products. Target’s grocery division
+offers groceries, organic products, and household goods under
+one roof. In the 2013 fiscal year, consumables (food and pet sup-
+plies) accounted for $14.7 billion, or 20 percent of total sales.
+
+Greenpeace Comments: Target made almost negligible gains
+over the past year, though it dropped two spots in the rankings due
+to Hy-Vee and Aldi eclipsing the store. Nonetheless, if Target sticks
+to some of the goals it has set for itself over the coming years, the
+company could find itself climbing up the charts again.
+
+Target has communicated that it is sticking to its pledge of selling
+only sustainable and traceable seafood by year-end 2015, which it
+generally defines as selling no species identified by the Monterey
+Bay Aquarium’s Seafood Watch Program as “red,” unless the given
+fisheries is in a fisheries improvement project (FIP) “on as clear,
+time bound and credible path to improvement.” While Greenpeace
+is supportive of Target’s efforts, it urges the company to lose no
+speed in hitting this goal, and to conduct due diligence on the
+efficacy of the specific FIPs before becoming fully engaged in them.
+
+Sustainable Seafood Policy: Target’s seafood policy covers
+fresh, frozen, and some shelf-stable items. Target still needs to
+reconcile its broader-applying policy to its problematic canned
+tuna inventory. While Target does offer its customers the option
+of the third-party brand Wild Planet pole-and-line caught canned
+tuna (a far more sustainable method of catching tuna than other
+more common and devastating methods, such as FAD-fishing), it
+still struggles to apply the policy across all of its canned tuna. Its
+private label (Market Pantry) carries canned tuna that is currently
+caught with FAD-associated purse seines, and it sells Bumble Bee
+and StarKist brands, also associated with this destructive method
+of fishing.
+
+Target remains strong in its aquaculture policy, and is already on
+its way to strengthening its shrimp and tilapia products. Green-
+peace applauds Target’s continued strong stance against selling
+farmed Atlantic salmon, given the well-documented problems
+associated with that form of aquaculture.
+
+Seafood Sustainability Initiatives: Target conducts annual
+assessments for all suppliers. The findings guide the retailer’s
+decisions whether to explore alternative sourcing or engage
+in fishery improvement projects, and Target makes sure that
+suppliers are aware of improvements that need to be made to
+meet its requirements. Target partners with FishWise, a non-profit
+ocean conservation consultancy, and this appears to have yielded
+positive results for the company.
+
+Labeling and Transparency: This is Target’s worst category.
+Thankfully, Target made minor gains in this area by including
+sustainability information on a majority of Simply Balanced and
+Market Pantry products (i.e., private label brands). Creating a
+way to present more information at point-of-purchase (or on its
+website) could be a major step toward greater transparency; in
+other words, Target’s “clean-store” policy of minimal signage does
+not preclude other ways of getting this information to consumers.
+
+Red List Seafood Sales: Overall this is a relatively strong area
+for Target, and it moved in the right direction by dropping the sale
+of bigeye tuna. Target sells eight of the twenty-two Red Listed
+species: Alaska pollock, Atlantic cod, Atlantic sea scallops, ocean
+quahog, South Atlantic albacore tuna, swordfish, tropical shrimp,
+and yellowfin tuna. It is one of the few retailers that does not sell
+farmed salmon.
+
+page 26
+
+page 27
+
+#9
+
+Ahold
+
+OVERALL RATING
+
+6.29
+
+#10
+
+Delhaize
+
+OVERALL SCORE
+
+6.11
+
+POLICY:
+
+67.78
+
+INITIATIVES:
+
+65.36
+
+TRANSPARENCY:
+
+66.5
+
+RED LIST:
+
+52
+
+POLICY:
+
+74.48
+
+INITIATIVES:
+
+63.09
+
+TRANSPARENCY:
+
+48
+
+RED LIST:
+
+59
+
+BERING SEA
+
+BADGE
+
+IMPROVEMENT
+BADGE
+
+Seafood Sustainability Initiatives: Greenpeace applauds Ahold
+USA for joining a growing number of retailers in publicly calling
+for the protection of the Bering Sea Canyons and writing a letter
+to the relevant management authority to that effect. Greenpeace
+also acknowledges Ahold’s role in writing an industry-led letter
+earlier this year opposing the Pebble Mine development project
+in Alaska, as this demonstrates the concern of the company in
+potential impacts that the mine would have on fisheries.
+
+Labeling and Transparency: Ahold has historically done well in
+its promotion of seafood sustainability to its customers, which it
+does on its website, and by highlighting sustainable seafood items
+in weekly circulars, in-store recipe cards, and signage. It has even
+begun providing its customers with information online on the type
+of aquaculture method used in its farmed products. Ahold should
+consider providing similar information to the consumer for its
+wild-caught product regarding fishing method.
+
+Red List Seafood Sales: This is Ahold’s worst category. Unfor-
+tunately, Ahold continues to sell thirteen out of twenty-two Red
+List seafood items at its stores: Chilean sea bass, Alaska pollock,
+Atlantic cod, Atlantic salmon, Atlantic sea scallops, monkfish,
+ocean quahog, red snapper, redfish, South Atlantic albacore tuna,
+swordfish, tropical shrimp, and yellowfin tuna.
+
+Ahold sells BAP 2-star certified shrimp and is actively engaged in
+a fishery improvement project on Indonesian snapper.
+
+Headquarters: Quincy, Massachusetts
+
+Stores and Banners: 765 stores operating as Stop & Shop, Giant
+Foods, Martin’s Food Markets, Peapod
+
+Background: Ahold USA is a subsidiary of a Dutch retailer (Royal
+Ahold) based in Amsterdam, and accounts for about 54% of the
+parent company’s total sales. Ahold USA supports four regional
+divisions that together operate 765 stores in several states and
+the District of Columbia, along with Peapod, an online grocery
+shopping/delivery service. With $26.9 billion in FY 2013 sales,
+Ahold USA is the seventh largest food retailer in the United States.
+
+Greenpeace Comments: Ahold USA has made overall progress
+in the last year, but dropped in the relative rankings due to
+newcomer Hy-Vee’s remarkable grand entrance showing. It
+deserves praise for boldly stepping forward to urge the relevant
+management authority to protect the Bering Sea Canyons — a
+particularly critical area that is often called our nation’s “fish
+basket.” Unfortunately, its actions in the Southern Hemisphere
+— particularly its re-introduction of Chilean sea bass — dampers
+this otherwise good news. Historically, Ahold has been a leader
+in seafood sustainability, but other retailers have made speedier
+progress in recent years and surpassed the company. Nonethe-
+less, Ahold USA’s current seafood sustainability team is solid, and
+Greenpeace and the oceans are counting on them to recalibrate
+and go full steam ahead.
+
+Sustainable Seafood Policy: While this is an overall strong area
+for Ahold, its policy still has not been fully-implemented across
+categories, in that the canned tuna sections contain numerous
+unsustainable options (such FAD-caught skipjack and convention-
+ally longlined albacore tuna).
+
+Ahold has improved its sustainable seafood policy in regard to
+aquaculture, sourcing 2-star “Best Aquaculture Practices” shrimp
+on its private label. The company gives preference to farmed
+seafood suppliers that are taking steps to reduce the environ-
+mental impacts of their operations as well as reduce the use of
+wild-caught fish for feed, antibiotics, and pesticides.
+
+Last year, Greenpeace praised Ahold for reserving the right to
+“choose not to carry a species, even if it has a credible eco-label,”
+if the company still had “serious concerns,” and Ahold specifically
+cited Chilean sea bass “despite there being Marine Stewardship
+Council (MSC) certified sources.” Unfortunately, now that Ahold
+USA has re-introduced Chilean sea bass, it appears that the
+company no longer exercises as much independent judgment in
+this area; it has simply deferred to the MSC on one of the most
+controversial certifications made by the organization.
+
+Headquarters: Salisbury, NC
+
+Stores and Banners: Around 1,356 stores operating as Food
+Lion, Hannaford Bros., and Bottom Dollar Food
+
+Background: Delhaize America is owned by the Belgian food
+retailer Delhaize Group. Its revenue was $19 billion in the 2013
+fiscal year. In the beginning of 2014, Delhaize sold 165 branches of
+its Sweetbay, Harveys, and Reid’s banners to Bi-Lo holdings.
+
+Greenpeace Comments: Delhaize bounced back from its mea-
+ger improvement last year, and is now second only to Meijer on
+most improved retailer from last year. Its relative ranking dropped
+only because of newcomer Hy-Vee’s fifth place showing. Delhaize
+made recent positive strides in the Red List category, but it should
+improve its transparency in regards to information provided to
+customers at point-of-purchase, and reform its canned tuna
+inventory.
+
+Sustainable Seafood Policy: Delhaize’s seafood policy applies
+to its fresh, frozen, and shelf-stable categories, and it deserves
+credit for taking a more in-depth look at this area. Greenpeace has
+pointed out to the company that the next step will be to bring the
+shelf-stable tuna category into greater compliance with the policy
+by offering customers affordable, sustainable options. To its credit,
+the company is interested in considering these alternatives.
+
+Delhaize has a particularly robust aquaculture policy, and sources
+100% Global Aquaculture Alliance (GAA) Best Aquaculture
+Practices (BAP) certified farmed seafood. While Greenpeace does
+not endorse the GAA due to numerous unresolved concerns,
+we do acknowledge the importance of improving regulation and
+traceability within this sector. Finally, the company has an internal
+policy against buying genetically modified salmon, which it revisits
+every year. Greenpeace acknowledges this first step, though
+encourages the company to take the next one by making the
+commitment (a) public, (b) applicable across all seafood, and (c)
+not subject to annual renewal.
+
+Seafood Sustainability Initiatives: Delhaize has displayed far
+greater transparency this year than the previous one, and is an
+active participant in numerous fishery improvement projects for
+species such as tuna, blue crab, and snapper, to name a few.
+Greenpeace applauds Delhaize for relying on third parties to
+conduct random audits on whether suppliers conform to the
+company’s policy requirements. An ideal next step in this realm
+would be for the company to more actively engage in the policy
+arena by communicating to regulatory managers and policy
+makers the need to improve fisheries management.
+
+Labeling and Transparency: Delhaize continues to stall out in
+this area, as it has maintained its level of outreach from last year.
+For the second year in a row, it is still trying to figure out how to
+sufficiently label products and effectively communicate this to
+consumers; information such as catch methods, stock from which
+seafood was caught, scientific names, and aquaculture production
+methods. Since Delhaize has much of this information kept on file,
+it should be able to tackle this challenge with greater ease.
+
+Red List Seafood Sales: Delhaize America improved its score
+by dropping a few species from last year. While it went the wrong
+direction by adding Atlantic halibut and Bigeye tuna, it also
+dropped grouper, monkfish, and ocean perch. Its Fishery Improve-
+ment Project (FIP) participation also mitigated its score for a few
+species, including yellowfin tuna. Delhaize America sells Atlantic
+halibut, Alaska Pollock, Atlantic cod, Atlantic sea scallop, Bigeye
+tuna, ocean quahog, red snapper, South Atlantic albacore tuna,
+swordfish, tropical shrimp, and yellowfin tuna.
+
+The company is actively engaged in FIPs with red snapper, bigeye
+tuna, and yellowfin tuna, among other species.
+
+page 28
+
+page 29
+
+#11
+
+Meijer
+
+OVERALL SCORE
+
+5.93
+
+#12
+
+Walmart
+
+OVERALL SCORE
+
+5.60
+
+POLICY:
+
+69.88
+
+INITIATIVES:
+
+63.75
+
+TRANSPARENCY:
+
+43.5
+
+RED LIST:
+
+60
+
+POLICY:
+
+67.23
+
+INITIATIVES:
+
+56.68
+
+TRANSPARENCY:
+
+33
+
+RED LIST:
+
+67
+
+IMPROVEMENT
+BADGE
+
+CANNED TUNA
+BADGE
+
+Headquarters: Grand Rapids, Michigan
+
+Stores and banners: 204 stores operating as Meijer
+
+Background: Meijer began as a small grocery shop in 1934 and
+has now expanded to over 200 stores in primarily the Midwest.
+Forbes ranked Meijer as America’s 19th largest private company in
+2013. Its revenue for the 2013 fiscal year was $15 billion.
+
+Greenpeace Comments: Meijer continues to impress by making
+substantive changes and takes the prize for the most improved
+retailer this year. Given that the retailer was in last place only a
+few years ago, this is an impressive accomplishment. Meijer’s
+achievements include a more robust seafood policy (particularly
+with farmed seafood), more stringent requirements and improved
+oversight of its suppliers, and improvements in its Red List inven-
+tory. However, the company still finds itself just shy of the top ten.
+
+Sustainable Seafood Policy: Meijer is actively engaged in site
+visits of its suppliers’ facilities to evaluate their performance. It
+has made strides in its private label (store brand) frozen fish in
+regards to certification, and now requires that all farmed fish and
+crustaceans sold to Meijer are from Best Aquaculture Practices
+(BAP) 2-star certified suppliers.
+
+While eco-certification groups can provide initial guidance,
+Greenpeace cautions Meijer in relying too heavily on its partners
+and certification groups given that numerous problems still exist
+with certifiers. Meijer should create its own precautionary and
+protective standards that are independent to those of the certi-
+fiers. For example, Greenpeace applauds Meijer for its proactive
+internal policy of refusing to sell genetically-modified seafood if it
+becomes available on the market.
+
+Seafood Sustainability Initiatives: Meijer made progress in
+this area due to taking a more proactive look at its sourcing. For
+example, it now has annual monitoring procedures in place and
+relies on external parties to provide audits to ensure that the
+company’s suppliers are conforming to Meijer’s seafood policy
+requirements. Meijer could benefit from pushing forward to
+engage in more public support of ocean initiatives at large, in the
+policy arena. Taking the Ross Sea Pledge or a stand in favor of
+protecting the Bering Sea Canyons would be an excellent start.
+
+Labeling and Transparency: This category still remains Meijer’s
+weakest. However, Meijer now includes the Latin name of fish spe-
+cies on some of its products in an effort to reduce misunderstand-
+ing and clarify to consumers exactly what they are purchasing.
+The company will also be unveiling new packaging to consumers
+in July of this year to communicate BAP 2-star certification across
+its farmed seafood products. It could do better in labeling its wild-
+caught products for consumers by moving beyond only providing
+a Marine Stewardship Council (MSC) label.
+
+Red List Seafood Sales: Meijer improved in this category by
+dropping the sale of one species and improving the sourcing
+behind a few of its species. It sells 12 red list species: Alaska
+pollock, Atlantic cod, Atlantic salmon, Atlantic sea scallops,
+bigeye tuna, ocean quahog, redfish, South Atlantic albacore tuna,
+swordfish, tropical shrimp, and yellowfin tuna.
+
+Meijer is involved in a fishery improvement project (FIP) with
+Pierfish for 100% of its redfish (ocean perch). Also of note, it has
+made efforts to reduce turtle bycatch in its FIP for Ecuadorian
+mahi-mahi. Meijer is also in the process of joining more FIPs, but
+currently does not source from them at this time.
+
+Headquarters: Bentonville, AR
+
+Stores and banners: 3,265 Walmart Supercenters, 322 Neigh-
+borhood Markets, and 630 Sam’s Clubs in the U.S.
+
+Background: Walmart has over 4,786 stores in the U.S., and U.S.
+sales (excluding Sam’s Club) accounts for 55% of the company’s
+total sales worldwide. Its U.S. and Canadian sales in the 2013
+fiscal year were $374.4 billion.
+
+Greenpeace Comments: Walmart made steady progress over
+the past year, though it dropped in relative rankings due to more
+swiftly performing competitors. Walmart is the largest retailer in
+the U.S., and as such, a uniquely important force.
+
+In May of last year, Walmart introduced its Fish Aggregating Device
+(FAD)-free tuna nationwide under the brand “Ocean Naturals
+skipjack chunk light tuna,” and informed customers, on the label,
+that it is responsibly caught without the use of devastating FADs.
+Walmart’s other key improvements lie in the Red List area.
+
+Sustainable Seafood Policy: The retailer’s sustainable seafood
+policy covers fresh and frozen seafood, but it has a separate policy
+that addresses shelf-stable tuna, particularly its FAD-free tuna
+released last year. Offering these responsibly-caught alternatives
+at such a grand scale sends a positive and powerful message
+throughout the seafood sourcing industry. Approximately 98% of
+its fresh and frozen seafood is addressed by its policy.
+
+The retailer’s wild-caught policy is still weak, and Walmart has
+recently been involved in industry in-fighting over sustainability
+label use: Marine Stewardship Council (MSC) vs. the Alaska
+Seafood Marketing Institute (ASMI) certification for its wild-caught
+seafood. Greenpeace is less concerned over which certifier
+receives Walmart’s blessing, and more concerned over actual
+change on the water. In the aquaculture arena, Walmart’s farmed
+shrimp offering is Best Aquaculture Practices certified. Walmart
+does not source from aquaculture operations that use fish feed
+known to contain ingredients from forage fisheries graded “Red”
+by Greenpeace.
+
+Seafood Sustainability Initiatives: Walmart continues to support
+the Conservation Alliance for Seafood Solutions and its “Common
+Vision for Environmentally Sustainable Seafood,” which aims to
+build an active partnership between conservation organizations
+and seafood retailers in support of achieving sustainable fisheries.
+However, Walmart has still failed to commit to chain-of-custody
+traceability or to avoiding Illegal, Unreported and Unregulated
+(IUU) seafood products. It has neither taken proactive stances
+internally, nor delved into the political arena by supporting active
+legislation on these very issues. Given the size of the retailer, this is
+problematic.
+
+Walmart obligates suppliers in all new contracts to only deliver
+seafood according to the retailer’s policy. Furthermore, it has taken
+the initiative to reach out to fisheries managers and government
+officials in the U.S. and other countries to focus their attention
+on better fishery-and-aquaculture improvement projects. Finally,
+the company sourcing Walmart’s Ocean Naturals FAD-free tuna
+provides full traceability to the vessel that caught the skipjack
+tuna. Unfortunately, this product is available at most—but not
+all—Walmart locations nationwide.
+
+Labeling and Transparency: Walmart performed poorly in this
+category. Overall, it provides insufficient information to consumers
+to allow them to make sustainable choices. While there are some
+instances where the company does provide such information (for
+example, explaining the merits of pole-caught tuna offered by
+Sustainable Seas)—this is largely relegated to the online store,
+instead of in-store signage or labeling at point-of-sale. One notable
+exception is the new FAD-free tuna product that provides informa-
+tion to the consumer on how the fish was caught.
+
+Red List Seafood Sales: In contrast to the previous section, over
+the past year Walmart took positive steps here by dropping redfish
+and making improvements in how it sources Atlantic cod and
+yellowfin tuna. The retailer sells nine of the twenty-two red listed
+seafood species: Alaska pollock, Atlantic cod, Atlantic salmon,
+Atlantic sea scallops, bigeye tuna, ocean quahog, South Atlantic
+albacore tuna, tropical shrimp, and yellowfin tuna.
+
+page 30
+
+page 31
+
+#13
+
+H-E-B
+
+OVERALL SCORE
+
+5.58
+
+#14
+
+Price Chopper
+
+OVERALL SCORE
+
+5.52
+
+POLICY:
+
+60.81
+
+INITIATIVES:
+
+58.77
+
+TRANSPARENCY:
+
+48.5
+
+RED LIST:
+
+55
+
+POLICY:
+
+64.22
+
+INITIATIVES:
+
+52.5
+
+TRANSPARENCY:
+
+50
+
+RED LIST:
+
+55
+
+Labeling and Transparency: Greenpeace commends H-E-B for
+informing consumers that it no longer carries orange roughy due
+to sustainability concerns.
+
+Apart from the Gulf Wild red snapper program, H-E-B is lagging
+behind on communicating key information to consumers on site
+to better assist them in their decisions. H-E-B employs bilingual
+employees at its two Mi Tienda stores in Texas, placing the
+company in a position to ideally champion seafood sustainability
+to its Spanish-speaking consumer base. However, comprehensive
+in-store seafood sustainability materials is lacking in both English
+and Spanish. It is primarily due to poor point-of-purchase informa-
+tion that this is H-E-B’s worst category.
+
+Red List Seafood Sales: H-E-B sells Chilean sea bass, which
+does not belong in any grocery store. The retailer sells thirteen
+Red List species: Chilean sea bass, Alaska pollock, Atlantic cod,
+Atlantic salmon, Atlantic sea scallops, grouper, ocean quahog, red
+snapper, South Atlantic albacore tuna, swordfish (though some-
+times sustainably-caught), tropical shrimp, and yellowfin tuna.
+
+Headquarters: San Antonio, TX
+
+Stores and Banners: 305 stores in the U.S. operating as H-E-B,
+H-E-B plus! and Central Market
+
+Background: H-E-B is a privately held San Antonio, Texas,
+USA-based supermarket chain with 305 stores throughout Texas.
+H-E-B ranked number twelve on Forbes’s 2012 list of “America’s
+Largest Private Companies.” Its annual revenue in the 2013 fiscal
+year was approximately $19.4 billion. H-E-B operates Central
+Market as its upscale organic and fine foods store.
+
+Greenpeace Comments: H-E-B has made mild gains since its
+last survey and rose in the rankings. H-E-B’s policy is its strongest
+area, and its weakest is transparency. The company is involved in
+external efforts to improve fisheries, but could improve by provid-
+ing more guidance to its customers and cleaning up its canned
+tuna and red list inventory.
+
+Sustainable Seafood Policy: H-E-B’s seafood policy, available
+on its website, demonstrates that its strength is in the area of
+aquaculture. H-E-B’s policy ostensibly covers canned goods;
+however, the company continues to sell unsustainable items in the
+forms of processed clam chowders and canned tuna. Greenpeace
+commends H-E-B for its continued firm stance on refusing to sell
+GMO seafood should it become available on the marketplace.
+
+Seafood Sustainability Initiatives: H-E-B sits on the Food
+Marketing Institute (FMI) sustainable seafood committee. Earlier
+this year, FMI submitted a letter to the EPA in support of an
+environmental study of Bristol Bay, Alaska, in response to the
+proposed Pebble Mine that would have deleterious impacts on
+local salmon populations.
+
+H-E-B refuses to purchase seafood that cannot be traced back to
+the vessel that caught it, and has annual monitoring procedures
+in place to ensure that its suppliers conform to its policy require-
+ments. It also relies on an external third party, Trace Register, to
+ensure that its suppliers are conforming to its policy.
+
+Headquarters: Schenectady, New York
+
+Stores and banners: 132 stores operating as Price Chopper
+
+Background: Price Chopper is a privately held corporation run
+by the Golub Corporation and Golub family. The chain’s footprint
+extends beyond New York and Massachusetts into Vermont,
+Connecticut, Pennsylvania, and New Hampshire. Over 50% of the
+company’s privately held stock is employee-owned. It has about
+$3.5 billion in annual sales.
+
+Greenpeace Comments: Price Chopper made progress in most
+areas over the last year but ended up shedding a few hundredths
+of a point for, primarily, a lack of in-store signage and displays
+pertaining directly to seafood sustainability. They previously
+received credit for this last year. Nonetheless, given its improve-
+ment in its policy and Red List inventory, it would appear that the
+company is on track to be more competitive over the next year
+and can potentially reclaim its drop in relative rankings due to the
+performance of swifter competitors.
+
+The company should review its canned tuna products and devise
+ways to move away from destructively-fished products such as
+fish aggregating device (FAD)-caught skipjack tuna. Price Chop-
+per still sells the top-tier Red List species of hoki; the company
+must discontinue this item without delay. After all, Price Chopper
+phased out the sale of another top-tier species (orange roughy)
+about two years ago.
+
+Sustainable Seafood Policy: This remains Price Chopper’s
+strongest category. All farmed shrimp is Best Aquaculture Prac-
+tices (BAP) certified, and the company is moving into improving
+its sourcing criteria for farmed salmon. While it does not currently
+have plans to sell GM salmon due to its current standards, it
+could put consumers at ease by making a public statement to
+that effect. Price Chopper could improve its policy by incorporat-
+ing shelf-stable seafood and tightening its wild-caught seafood
+sourcing standards.
+
+Seafood Sustainability Initiatives: Price Chopper takes trace-
+ability seriously and relies on a DNA testing service to randomly
+test samples from fifteen of its frozen fish product lines. The
+company says it has not found any improper substitution so far,
+and will continue sampling. Greenpeace recommends that Price
+Chopper build upon this positive momentum of verifying the
+correct species by also ensuring that its suppliers do not provide
+seafood from illegal, unregulated, or unreported (IUU) fishing
+operations, and to ensure full traceability back to the vessel that
+caught the fish.
+
+To build further momentum, Price Chopper could work on increas-
+ing its public support for key political initiatives, such as supporting
+the creation of marine reserves in ecologically-sensitive areas,
+bycatch limits, and improved regulations to keep IUU seafood out
+of U.S. markets.
+
+Labeling and Transparency: Price Chopper lost some ground
+in this area over the last year because of a lack of in-store
+information such as flyers or signage to educate and engage
+consumers over seafood sustainability. Price Chopper is providing
+some information regarding some of its products concerning the
+scientific name, the region where the fish was caught, and the
+fishing method or gear type used. This builds upon its previous
+partial implementation of providing consumers information on
+certain products’ catch vessel and day of catch. It does also send
+occasional emails to customers providing information on seafood
+traceability to consumers.
+
+If Price Chopper were to translate its progress in preventing the
+mislabeling of seafood to the area of sustainability, by, for example,
+informing consumers of the sustainability status of various species
+(i.e., red/yellow/green), then it could substantially bolster its
+performance in this category.
+
+Red List Seafood Sales:
+
+The company sells twelve Red List species: hoki, Alaska pollock,
+Atlantic cod, Atlantic salmon, Atlantic sea scallops, ocean quahog,
+red snapper, redfish, South Atlantic albacore tuna, swordfish,
+tropical shrimp, and yellowfin tuna.
+
+Price Chopper sources yellowfin tuna from pole-and-line fisher-
+ies only, which is a more sustainable form of fishing than other
+conventional methods.
+
+page 32
+
+page 33
+
+#15
+
+Costco
+
+OVERALL SCORE
+
+5.35
+
+#16
+
+Giant Eagle
+
+OVERALL SCORE
+
+5.20
+
+POLICY:
+
+62.09
+
+INITIATIVES:
+
+47.09
+
+TRANSPARENCY:
+
+34
+
+RED LIST:
+
+71
+
+POLICY:
+
+52.53
+
+INITIATIVES:
+
+55
+
+TRANSPARENCY:
+
+61.5
+
+RED LIST:
+
+39
+
+Labeling and Transparency: Costco performed poorly in this
+category. It needs to be more transparent in general and provide
+more in-store information to customers. To its credit, it did make
+an effort to better inform its consumers by occasionally including
+the Latin name of species on the label to fight fish fraud, and by
+sometimes including labels indicating  the fishing method used.
+
+Red List Seafood Sales: Costco sells eight Red List items:
+Alaska pollock, Atlantic cod, Atlantic salmon, Atlantic sea scallop,
+Bigeye tuna, South Atlantic albacore tuna, tropical shrimp, and
+yellowfin tuna.
+
+Costco participates in the shrimp and salmon aquaculture
+dialogues that are part of its involvement in the Aquaculture
+Stewardship Council’s standard development process.
+
+Headquarters: Issaquah, WA
+
+Stores and Banners: 454 in the U.S., operating as Costco
+
+Background: Costco is the third largest retailer in the U.S., and
+the largest membership warehouse club chain in the U.S. Its an-
+nual revenue for the 2013 fiscal year was $65.16 billion nationwide.
+
+Greenpeace Comments: Costco improved almost negligibly over
+the past year, adding additional information on its in-store packag-
+ing and tweaking its Red List category ever so slightly. Likely
+due to its warehouse approach to sales, it offers fewer species
+than most other retailers, and by extension, sells fewer Red List
+species. It performed poorly in the labeling and transparency
+category. With direct competitor Walmart and other traditional
+grocery stores already selling affordable and sustainable canned
+tuna, Costco needs to provide a sustainable alternative—and fast.
+
+Sustainable Seafood Policy: In August 2012, Costco issued a
+Seafood Sustainability document encompassing its fresh, frozen,
+and shelf-stable seafood items. It appears to be interested in
+improving its farmed seafood offering; Costco remains committed
+to pursuing the ongoing Aquaculture Stewardship Council (ASC)
+standard development process.
+
+Seafood Sustainability Initiatives: Costco has withdrawn its
+membership in the Global Partnership for the Oceans, which is a
+growing alliance of over 100 governments, international organiza-
+tions including the World Bank Group, civil society groups, and
+private sector interests that are working to mobilize knowledge
+and financial resources to address threats to ocean health,
+resilience, and productivity. While it remains to be seen how
+exactly this coalition will address these issues, one of their goals is
+to create more marine reserves. Nevertheless, Costco is no longer
+a part of it.
+
+Costco continues to partner with the International Sustainable
+Seafood Foundation (ISSF) in regards to its tuna products. Unfor-
+tunately, ISSF has recently been plagued with several scandals,
+including allegations that some of its top members regularly
+engage in illegal, unreported, and unregulated (IUU) fishing.
+Greenpeace hopes that Costco can either play a role of reform
+within the ISSF body, or move to truly sustainable tuna by sourcing
+from suppliers who are not members because their standards are
+more protective of the environment than those of ISSF.
+
+Headquarters: Pittsburgh, PA
+
+Stores and Banners: 231 supermarkets operating as Giant
+Eagle, Market District, and Good Cents
+
+Background: For the 2013 fiscal year, Giant Eagle had annual
+sales of approximately $9.9 billion. One of the largest privately
+owned and family-operated companies in the nation, Giant Eagle
+is ranked number 33 on Forbes Magazine’s list of the top U.S.
+private companies in 2013 based on annual revenue.
+
+Seafood Sustainability Initiatives: Giant Eagle does partner
+with other organizations to work on seafood sustainability, but it
+is unclear whether these partnerships have resulted in positive
+change. For example, Giant Eagle is a member of the Food
+Marketing Institute’s Sustainability Task Force and Sustainable
+Seafood Working Group, and has recently engaged with the Ecol-
+ogy Action Centre (EAC) regarding the NGO’s work on community
+supported fisheries.
+
+Greenpeace Comments: Giant Eagle made slight gains from last
+year, raising its score by two-hundredths of a point and dropping a
+spot in the relative rankings. It has effectively stalled out.
+
+To its credit, Giant Eagle ensures that its contracts require suppli-
+ers to deliver seafood according to its policy. This includes annual
+monitoring reports by external parties to ensure compliance.
+
+There are a few key reforms that Giant Eagle could implement
+to be a better steward of the ocean. First, it must discontinue
+the sale of orange roughy and Chilean sea bass, both Red List
+species of particular significance for the critical role that they play
+in marine ecosystems. Second, it must develop stronger internal
+standards on wild-caught seafood sourcing, and apply this policy
+across the board in seafood throughout all departments, including
+shelf-stable seafood. The company should realize that other items
+it sells are inconsistent with protecting our oceans. Finally, it needs
+to more effectively communicate sustainability information to
+consumers at point-of-sale to better enable them to make more
+informed decisions. Fortunately, it has made some headway in this
+regard over the past year.
+
+Sustainable Seafood Policy: Giant Eagle’s sustainable seafood
+policy applies to all of its wild-caught and farmed seafood,
+fresh and frozen, in the seafood department though there are
+several suspect items. Unfortunately, the policy does not apply to
+shelf-stable items or other seafood products that may be located
+outside the seafood department.
+
+Giant Eagle is taking steps to improve its aquaculture policy by
+supporting Global Aquaculture Alliance (GAA)/Best Aquaculture
+Practices (BAP) certification, and it sources some of its salmon,
+shrimp, and tilapia from certified farms. While Greenpeace does
+not endorse the GAA due to numerous unresolved concerns,
+we do acknowledge the importance of improving regulation and
+traceability within this sector. Giant Eagle has an internal policy
+of not sourcing genetically-modified salmon or tilapia, should
+they become available. However, its policy does not extend to all
+genetically-modified seafood.
+
+Apart from general transparency criteria covered below and
+requirements outlined in specific Fishery Improvement Projects
+(FIPs), Giant Eagle has no sustainability criteria for its wild-
+captured seafood.
+
+Labeling and Transparency: Giant Eagle’s website provides its
+customers with some information on sustainable seafood through
+its Sustainable Seafood Statement. The company also provides
+in-store materials on its seafood operations, including point-of-sale
+signage detailing stock and fishing methods for wild products. This
+year, Giant Eagle indicated that for certain events and promotions,
+it would be telling the story of seafood to their customers in a
+little more detail. Those communications will include information
+regarding catch vessel and day of catch for wild product, or the
+farm in which seafood was cultivated, and whether the farmed
+species is domestic or introduced. Ideally, Giant Eagle can make
+labeling more consistent across categories; nonetheless, it should
+be congratulated for its improvement in this area.
+
+Giant Eagle partners with groups such as the Sustainable Fisher-
+ies Partnership and is exploring ways to reduce bycatch among
+its Gulf of Mexico wild-caught shrimp suppliers. But while Giant
+Eagle indicated that it is involved fishery improvement projects for
+both Gulf of Mexico Reef Fish (such as red snapper and grouper)
+and Gulf of Mexico wild shrimp landed in Texas, it did not indicate
+whether it actually sourced any of its seafood from these fisheries.
+
+Red List Seafood Sales: Unfortunately, Giant Eagle still carries
+15 Red List species, an incredibly high number, and it stubbornly
+holds on to two of the most unsustainable seafood products
+available, orange roughy and Chilean sea bass. This year, it even
+added Atlantic halibut to the list. In addition, it sells Alaska pollock,
+Atlantic cod, Atlantic salmon, Atlantic sea scallops, monkfish,
+ocean quahog, red snapper, redfish, South Atlantic albacore tuna,
+swordfish, tropical shrimp, and yellowfin tuna.
+
+In the future, Giant Eagle might begin to source from fishery
+improvement projects in the Gulf of Mexico. If it provides more
+information on these FIPs and others it could improve its perfor-
+mance in future years.
+
+page 34
+
+page 35
+
+#17
+
+A&P
+
+OVERALL SCORE
+
+4.90
+
+#18
+
+SUPERVALU
+
+OVERALL SCORE
+
+4.95
+
+BERING SEA
+
+BADGE
+
+POLICY:
+
+54.82
+
+INITIATIVES:
+
+57
+
+TRANSPARENCY:
+
+20
+
+RED LIST:
+
+64
+
+POLICY:
+
+63.68
+
+INITIATIVES:
+
+56.18
+
+TRANSPARENCY:
+
+34
+
+RED LIST:
+
+44
+
+Seafood Sustainability Initiatives: A&P already refuses to pur-
+chase seafood from vessels on the Greenpeace blacklist (pirated
+fish), but is still lagging behind by failing to demonstrate any real
+progress on requiring its seafood suppliers to participate in any
+industry improvements or live up to A&P’s mission statement. One
+exception is that the company has partially implemented supplier
+requirements in the fresh seafood category that trace the seafood
+back to the vessel that caught it. A&P has pointed out that it is
+looking into ways to establish annual monitoring procedures for its
+suppliers and relying on an external party to audit for compliance,
+however, it appears that this plan has yet to be implemented. It
+has been several years since A&P stepped into the political arena
+regarding the promotion of ocean conservation initiatives.
+
+Labeling and Transparency: A&P performed poorly in this
+section. The company had previously claimed that it provides
+information on seafood sustainability to its customers via in-store
+signage or flyers and on its website. However, an in-store visit to
+a Pathmark did not yield anything to that effect. Furthermore, its
+online seafood-related information actually has nothing to do with
+sustainability. A&P does not provide additional information on the
+package for the consumer to make more informed decisions.
+
+Red List Sales: A&P has maintained its sale of Atlantic cod,
+redfish (a.k.a. ocean perch), Alaska pollock, Atlantic salmon,
+Atlantic sea scallops, ocean quahog, South Atlantic albacore tuna,
+swordfish, tropical shrimp, and yellowfin tuna. Due to clarification
+on internal sourcing practices, it lost mitigation points in the area
+of redfish.
+
+Headquarters: Montvale, NJ
+
+Stores and Banners: 305 stores operating as A&P, Food Basics,
+The Food Emporium, Pathmark, Super Fresh, and Waldbaum’s
+
+Background: Founded in 1859, A&P mainly operates in the mid-
+Atlantic and southern New England. The company appears to be
+struggling financially with its annual sales revenue having dropped
+from last year’s $6.4 billion to $5.9 billion, as well as recent store
+closures.
+
+Greenpeace comments: Likely due to staff turnover and the
+financial crunch, A&P did not participate this year in the annual
+Carting Away the Oceans survey process. However, conversations
+in late 2013 with the company give the impression that previous
+internal plans regarding seafood sustainability have been placed
+on hold. To that end, A&P’s performance this year is similar to
+last year. Due to the layoffs of relevant staff that likely contributed
+towards stalling out, the company dropped another couple of
+spots in the rankings.
+
+A&P lost most of its points because an in-store visit to a Pathmark
+store did not yield any signage or brochures related to seafood
+sustainability, as the company had previously indicated. Green-
+peace strongly encourages A&P to increase its participation in
+industry and NGO-led conservation initiatives. It could also score
+big wins by taking “low-hanging fruit” steps in the area of transpar-
+ency and Red List species; the sale of two new Red List species
+is unacceptable. This is no longer as strong of an area for the
+company as it was last year.
+
+Sustainable Seafood Policy: A&P still struggles to make its
+mission statement into a more formal sustainable seafood policy.
+The mission statement contained a pledge to refrain from selling
+19 red listed species until they are deemed sustainable, but the
+pledge was ignored when A&P introduced two new unsustainable
+items a year ago to their offering—Atlantic cod and redfish. While
+the internal mission statement now supposedly applies to its shelf
+stable seafood in addition to fresh and frozen, only about half of
+the seafood across all departments is covered in the first place.
+This leads to confusion. To its credit the store does sell third-party
+sustainable canned tuna but does little else in this category.
+
+A&P should develop specific benchmarks within its policy for
+both wild capture fisheries and aquaculture, meet its own internal
+standards, and make the policy available to the general public.
+
+Headquarters: Minneapolis, MN
+
+Stores and Banners: SUPERVALU has 1,525 stores including
+377 corporate Save-A-Lot stores and 191 conventional supermar-
+kets under the following banners: Farm Fresh, Hornbacher’s, Shop
+‘n Save, and Shoppers. SUPERVALU also licenses an additional
+957 Save-A-Lot locations. Albertsons was purchased by Cerberus
+Capital in 2013, and is profiled separately in the report.
+
+Background: SUPERVALU just recently halved its capacity by
+selling off Albertsons and several related banners, amounting
+to 877 stores total, with sales of approximately $17.4 billion. It
+brought in about $15.9 billion in annual revenue in the 2013 fiscal
+year.
+
+Greenpeace Comments: The future looks unclear for SUPERVA-
+LU. Industry press has referred to SUPERVALU going its own way
+as returning to its “wholesaler” focus. Despite this massive change
+in internal structure, SUPERVALU did take the time to respond to
+the retailer survey. This allowed Greenpeace to more accurately
+reflect internal company initiatives and credit the company for its
+efforts.
+
+SUPERVALU improved slightly over the past year, but has a long
+way to go before it becomes a formidable force in the seafood
+sustainability movement. It is currently falling behind in its labeling
+and transparency category.
+
+Sustainable Seafood Policy: Overall, this is SUPERVALU’s
+strongest category. The company is taking sustainability issues
+seriously, but it remains to be seen whether its policy and direction
+is sufficiently comprehensive in scope or if the company is moving
+fast enough.
+
+SUPERVALU’s policy currently applies to 75-100% of the seafood
+that it sells across all categories, including fresh and frozen
+seafood, and its private-brand canned tuna. It has committed to
+sourcing its top 20 wild-caught seafood products from fisheries
+that are Marine Stewardship Council (MSC)-certified, in MSC full
+assessment, or in World Wildlife Fund (WWF) fishery improve-
+ment projects and certification programs with equal or greater
+standards by 2015. It is unclear whether “top 20” is measured by
+tonnage or sales. Greenpeace does not currently endorse MSC
+certification due to its numerous unresolved issues, but does
+acknowledge SUPERVALU’s efforts to clean up its wild-caught
+sourcing. SUPERVALU has a moderately protective farmed
+seafood policy as well; its farmed seafood ranges from 1-star to
+2-star Best Aquaculture Practices (BAP) certification.
+
+Seafood Sustainability Initiatives: Last year SUPERVALU took a
+stand by writing a letter to the relevant fishery management coun-
+cil calling for protection of the Bering Sea Canyons. SUPERVALU
+requires that its suppliers live up to its internal policy requirements
+and that they are subject to an annual evaluation to ensure
+compliance. It also trains suppliers on its policy requirements and
+advocates for their participation in industry improvements. The
+next logical steps for SUPERVALU in this area are to ensure that
+there is full traceability of seafood back to the vessel that caught
+it and to step up safeguards to ensure that it is not inadvertently
+purchasing pirated seafood.
+
+Labeling and Transparency: This remains SUPERVALU’s worst
+category. Last year, it promised to include website and in-store
+flyers and signage by the end of its fiscal year, which was the end
+of February 2014. Unfortunately, SUPERVALU has not met this
+deadline. The company did publicly announce plans to discontinue
+certain Red List items along with its reasons for doing so, which is
+one of the few positive element in this category.
+
+SUPERVALU does a poor job of providing customers point-
+of-purchase information to assist them in making sustainable
+seafood choices while shopping. Greenpeace urges the company
+to provide any information, such as the sustainability status,
+fishing method, or farm from which seafood was cultivated to aid
+consumers in navigating the seafood department.
+
+Red List Seafood Sales: SUPERVALU made some changes in
+this category. It dropped the sale of Greenland halibut but reintro-
+duced imported grouper. The company sells 14 of the 22 Red List
+species: Atlantic halibut, Chilean sea bass, Alaska pollock, Atlantic
+cod, Atlantic salmon, Atlantic sea scallop, imported grouper,
+ocean quahog, red snapper, redfish, South Atlantic albacore tuna,
+swordfish, tropical shrimp, and yellowfin tuna.
+
+All of its farmed tropical shrimp is BAP 2-star certified, and its
+previous yellowfin tuna Fisheries Improvement Project (FIP) is now
+on hold due to SUPERVALU’s internal restructuring. Perhaps the
+following year it will begin to source again from the FIP.
+
+page 36
+
+page 37
+
+#19
+
+Wakefern
+
+OVERALL SCORE
+
+4.74
+
+#20
+
+Albertsons
+
+OVERALL SCORE
+
+4.73
+
+POLICY:
+
+51.4
+
+INITIATIVES:
+
+53.09
+
+TRANSPARENCY:
+
+46
+
+RED LIST:
+
+39
+
+POLICY:
+
+48.68
+
+INITIATIVES:
+
+45
+
+TRANSPARENCY:
+
+36.5
+
+RED LIST:
+
+59
+
+Headquarters: Keasbey, NJ
+
+Stores and Banners: 85 stores owned outright under PriceRite
+and ShopRite banners, as well as supplier for hundreds more,
+including additional ShopRite stores, Fresh Grocer, Village Super
+Market, and Inserra Supermarkets
+
+Background: Wakefern is the largest supermarket retailers’
+cooperative in the U.S. It primarily supplies its 48 co-op members’
+250 ShopRite stores in the Northeastern U.S. and owns a hand-
+ful of the stores outright. ShopRite boasts $13.8 billion in retail
+annual sales. Given the co-op structure of ShopRite, individual
+stores make their own purchasing decisions. However, in virtually
+all cases ShopRite stores carry seafood that is directly sourced
+through Wakefern. PriceRite is a wholly owned subsidiary of
+Wakefern and its 50 stores target price-conscious shoppers in CT,
+MA, NY, PA, MD, and RI.
+
+Greenpeace Comments: Wakefern was one of the five newcom-
+ers included in this year’s report and as such its performance
+should be seen as a baseline score. It was one of the two
+newcomers that participated with Greenpeace by filling out the
+retailer survey. By being open to an external analysis of its seafood
+sustainability, it will be well-equipped to take stock and determine
+next steps forward.
+
+Sustainable Seafood Policy: Wakefern’s sustainable seafood
+policy applies to fresh and frozen products. Its private label tuna
+is supplied by Chicken of the Sea, which means that Wakefern
+has the opportunity to promote responsible sourcing in this area
+by refusing to buy destructively-caught tuna. Chicken of the Sea
+has been known to source more responsibly when pressured (see
+Trader Joe’s).
+
+Wakefern’s sustainable seafood policy provides modest standards
+for wild-caught and farmed product, and could use some revisit-
+ing. Wakefern’s stated reliance on the government to manage
+fisheries is the same as doing nothing; indeed, we all rely on the
+government to manage fisheries. Whether as part of the retail
+industry Wakefern chooses to proactively protect the oceans in
+its sourcing of seafood, and take steps towards that end, is a far
+different manner. Nonetheless, while there is room for improve-
+ment, Wakefern’s policy score reflects a decent entrance into the
+rankings, especially for a newcomer.
+
+Seafood Sustainability Initiatives: Wakefern has sustainability
+requirements that its suppliers must live up to and has external
+parties verify that the suppliers are conforming to Wakefern’s
+policy on an annual basis. It also trains suppliers to inform them of
+its requirements. Wakefern’s MSC Chain of Custody (see next sec-
+tion) may also de facto alleviate some other traceability concerns
+with supplier sourcing, at least in certain wild-caught fisheries.
+The company partners with many groups to work on seafood
+sustainability and via its role as a member of the Food Marketing
+Institute (FMI) it has endorsed a letter in opposition to the Pebble
+Mine in Alaska, which would harm local fish populations among
+other negative impacts. Wakefern should consider stepping up its
+activism in the policy arena.
+
+Labeling and Transparency: Wakefern obtained MSC Chain
+of Custody certification (not to be confused with MSC species
+certification) at its seafood processing facility, which is a robust
+traceability program that monitors product through the supply
+chain. Wakefern has public-facing information online regarding
+seafood sustainability and education. Unfortunately it is falling
+behind when it comes to informing customers about seafood
+sustainability at the point of purchase, particularly when it comes
+to labeling.
+
+Red List Seafood Sales: Wakefern performed poorly in this
+category because of the sheer number of Red List species it
+carries. The good news in this area is that the company has begun
+to source less damaging products from some of its suppliers of
+tuna and shrimp, for example. Wakefern should immediately phase
+out the sale of Atlantic halibut, Chilean sea bass, skates, and rays.
+
+Wakefern sells 16 of the 22 Red List species, including Atlantic
+halibut, Chilean sea bass, Alaska pollock, Atlantic cod, Atlantic
+salmon, Atlantic sea scallop, bigeye tuna, Greenland halibut,
+ocean quahog, red snapper, redfish, skates and rays, South
+Atlantic albacore tuna, swordfish, tropical shrimp and yellowfin
+tuna.
+
+Headquarters: Boise, ID
+
+Stores and Banners: 1,077 stores operating as Albertsons,
+Jewel-Osco, Shaw’s/Star Market, Acme, United, Market Street,
+and Amigos.
+
+Background: Last year, Albertsons was owned by SUPERVALU
+and so was profiled as part of SUPERVALU in the Carting Away
+the Oceans report. In early 2013 Albertsons acquired a whopping
+877 stores from SUPERVALU and is in the process of acquiring
+additional stores and operating them under the banners listed
+above. This means Albertsons has now ballooned into one of
+the top ten largest grocers in the U.S. (based on revenue), while
+SUPERVALU’s overall sales have decreased. Its 2013 fiscal year
+annual revenue was $23 billion. This year, the parent company of
+Albertsons (Cerberus Capital) purchased Safeway and may merge
+the two companies together.
+
+Greenpeace Comments: Albertsons did not participate in this
+year’s survey so most of the information is gleaned from three
+major sources: previous performance when it was housed under
+SUPERVALU, online information and store visits by Greenpeace
+staff.
+
+Sustainable Seafood Policy: Albertsons seafood policy does not
+cover shelf-stable products, only fresh and frozen. Given that the
+company’s seafood sustainability language posted online is devoid
+of tangible commitments, Greenpeace estimates that sustainability
+factors in its policy cover a little over half of the seafood sold. It is
+unclear whether its wild-caught seafood or farmed seafood are
+covered by a comprehensive certification regime, although some
+of the company’s products are partially covered.
+
+Seafood Sustainability Initiatives: Greenpeace estimates that
+Albertsons has a minimal degree of sustainability criteria that
+suppliers must follow but there is no public-facing information
+demonstrating third-party audits or more proactive efforts to
+ensure sustainable sourcing. Albertsons does not support
+improvements in fisheries management in the regulatory or policy
+arena, though it appears to occasionally collaborate with groups in
+other forums.
+
+Labeling and Transparency: There appears to be little consis-
+tency across Albertsons banner stores when it comes to commu-
+nicating to consumers about sustainability, both online and at the
+point of purchase. In most cases there is little or no information.
+In at least one case, products were confusingly labeled so that
+consumers were unable to determine the species (such as with
+fresh and frozen tuna).
+
+Red List Seafood Sales: Albertsons sells eleven Red List
+species: Alaska pollock, Atlantic cod, Atlantic salmon, Atlantic
+sea scallop, bigeye tuna, ocean quahog, redfish, South Atlantic
+albacore tuna, swordfish, tropical shrimp, and yellowfin tuna.
+
+page 38
+
+page 39
+
+#21
+
+Kroger
+
+OVERALL SCORE
+
+4.61
+
+#22
+
+WinCo
+
+OVERALL SCORE
+
+4.2
+
+POLICY:
+
+59.33
+
+INITIATIVES:
+
+58
+
+TRANSPARENCY:
+
+44
+
+RED LIST:
+
+23
+
+POLICY:
+
+56.81
+
+INITIATIVES:
+
+30
+
+TRANSPARENCY:
+
+13
+
+RED LIST:
+
+68
+
+Headquarters: Cincinnati, Ohio
+
+Stores and Banners: 2,418 stores operating as Kroger, Harris
+Teeter, Dillons, Fred Meyer, Fry’s, QFC, Ralphs, Smith’s, Baker’s,
+City Market, Food4Less, Foods Co., Gerbes, Jay C Food Stores,
+King Soopers, Owen’s, and Pay Less
+
+information about how this is actually implemented, how Kroger
+determines what consists of its “top” species, or how much of it is
+actually certified as opposed to “in assessment.” To reach its own
+goal of 100% by 2015, Kroger has a long way to go.
+
+Background: Kroger operates 2,418 supermarket and multi-
+department stores in 34 states across the U.S. under a multitude
+of banners. Kroger is the nation’s largest conventional grocery
+retailer. It had sales of over $98 billion in the 2013 fiscal year (not
+including Harris Teeter). As of February 2014 Harris Teeter was
+officially acquired by Kroger and the companies will be profiled
+together next year.
+
+Greenpeace Comments: Second only to Walmart in annual
+revenue, Kroger is the largest traditional grocery store chain in the
+U.S. As such, Kroger bears an enormous responsibility in sourcing
+sustainably, given its sheer size and tonnage of seafood sold. In
+spite of this, Kroger communicated to Greenpeace that it had no
+plans to participate in the survey this year or next year, leaving
+the impression that it does not take its purported commitment to
+sustainable seafood seriously.
+
+Kroger made little progress over the past year, falling another
+three slots in the ranking to 21st place as other companies make
+progress. Kroger’s ongoing partnership with the World Wildlife
+Fund (WWF) has led to a broad long-term commitment to the Ma-
+rine Stewardship Council (MSC) but there appears to be minimal
+improvement based on these partnerships alone. Kroger has also
+explored how to move towards a more comprehensive adoption of
+Global Aquaculture Alliance (GAA) aquaculture standards.
+
+Kroger is the worst performing retailer in the Red List category,
+selling 18 of the 22 Red List species.
+
+Sustainable Seafood Policy: The retailer’s slight improvement
+over the past year is due to action taken in response to consumer
+pressure regarding its stance on genetically modified seafood. It
+publicly stated to the NGO Friends of the Earth “Should geneti-
+cally engineered salmon be approved, Kroger has no intention of
+sourcing it.” Kroger has also tightened its aquaculture standards
+as mentioned in the initiatives section below. On the other hand,
+Kroger actually has a regressive tuna policy for its canned tuna.
+The policy actually prevents Kroger from offering readily available
+and price comparable tuna products that boast safer methods of
+capture, such as FAD-free or pole-and-line methods.
+
+In its 2013 Sustainability Report, Kroger boasts that 68% of its
+top 20 wild caught, fresh and frozen species are either Marine
+Stewardship Council (MSC) certified or in MSC full assessment
+(with an end goal of 100%). Yet consumers are given little
+
+Seafood Sustainability Initiatives: Kroger has taken the initiative
+to make sure that all its corporate-branded farmed species are
+Best Aquaculture Practices (BAP) 2-star certified and that it at
+least has BAP 1-star certified farmed product from all of its major
+suppliers. The company also has sustainability requirements
+(outside of its policy) by which its aquaculture suppliers must
+abide. While Kroger has several sustainability partners, it appears
+that Kroger views these partners as more of an outward symbol of
+purported progress than as experts on how to implement genuine
+improvements to its sustainability standards and practices.
+
+Kroger has mentioned its support for research programs and
+fishery improvement projects regarding yellowfin tuna and mahi
+mahi but Greenpeace was provided with no information regarding
+those projects.
+
+Labeling and Transparency: Kroger provides no information to
+consumers to assist them in making sustainable seafood choices
+beyond what is otherwise required by law. There is also a lack of
+transparency within the retailer’s chain of custody. While Kroger
+now offers some information on seafood sustainability on its
+website, its in-store presence was weak during a Greenpeace
+store visit, consisting only of a small brochure on “Sustainable
+Seafood.” While Kroger receives credit for its in-store signage, this
+is far from what is to be expected of a retailer that claims in that
+brochure to be “fully committed to seafood sustainability.” Indeed
+nothing in the brochure steers consumers towards or away from
+certain species but rather informs consumers that they can “feel
+good about purchasing seafood from the Kroger Company.”
+
+Red List Seafood Sales: For the third year in a row, Kroger is
+the worst performer in the Red List category when compared to
+all the other retailers profiled. The company’s claim of promoting
+seafood sustainability cannot be taken seriously until it deals with
+the glaring problem posed by its Red List inventory.
+
+Our latest data indicates that Kroger sells 18 out of the 22 Red List
+seafoods: Alaska pollock, Atlantic halibut, Atlantic salmon, Atlantic
+sea scallops, Chilean sea bass, Greenland halibut, grouper, hoki,
+monkfish, ocean quahog, orange roughy, red snapper, redfish,
+South Atlantic albacore tuna, swordfish, tropical shrimp, and
+yellowfin tuna.
+
+Furthermore, 4 of the 18 species it sells are top-tier Red List
+species, meaning the most threatened. In addition, it is troubling
+that Kroger sells parrotfish. Fragile coral reef ecosystems depend
+upon parrotfish to help keep algae from overgrowing corals.
+
+Labeling and Transparency: This is WinCo’s weakest category.
+A major factor in such a low transparency score was WinCo’s
+refusal to participate, and therefore Greenpeace was unable to
+take into account information that could not be obtained through
+external means. While WinCo does not have in-store signage, it
+has begun to issue in-store flyers related to seafood sustainability
+and will be revamping its website to address sustainability later
+this year. It must substantially improve its on-package labeling.
+
+Red List Seafood Sales: Our store visit uncovered approximately
+nine red-listed species, though there are likely more at a nation-
+wide scale. It is phasing out its sourcing of sharks and currently
+sells Alaska pollock, Atlantic salmon, Atlantic sea scallops, ocean
+quahog, ocean perch, South Atlantic albacore tuna, tropical
+shrimp, and yellowfin tuna.
+
+Headquarters: Boise, ID
+
+Stores and Banners: 94 retail stores operating as Winco
+
+Background: WinCo Foods Inc. is a privately-held, majority
+employee-owned supermarket chain with stores in AZ, CA, ID,
+NV, OR, UT, and WA. In early 2014 it opened three new stores in
+Texas. Its name stands for “Winning Company” and it posted a
+2013 annual revenue of $5.7 billion. WinCo stresses low cost by
+purchasing directly from suppliers, not accepting credit cards, and
+not providing bagging service.
+
+Greenpeace Comments: WinCo is one of the five new retailers
+profiled in this year’s report and as such its performance should
+be viewed through the lens of a baseline score. It did not partici-
+pate in the survey, so all information was gleaned through external
+means. WinCo achieved a passing score by two-tenths of a point
+and has a lot of work to do. Greenpeace would advise WinCo to
+use its strong vertical integration to its advantage when addressing
+seafood sustainability.
+
+Sustainable Seafood Policy: WinCo has an internal sustainable
+seafood policy that does not address its canned tuna inventory.
+WinCo has an internal policy against selling genetically modified
+seafood and is looking to improve its sourcing of farmed shrimp.
+
+Seafood Sustainability Initiatives: WinCo’s opportunity lies in
+its vertical integration. Given the model of direct purchasing from
+suppliers, it has a strong internal chain of custody in the fresh
+seafood section. Its canned tuna section, filled with destructive
+national brands, is another matter. WinCo does not publicly
+participate in any seafood sustainability efforts and did not com-
+municate to Greenpeace whether it advocates behind the scenes
+for reforms.
+
+page 40
+
+page 41
+
+#23
+
+Publix
+
+OVERALL SCORE
+
+3.21
+
+#24
+
+Save Mart
+
+OVERALL SCORE
+
+1.53
+
+POLICY:
+
+25
+
+INITIATIVES:
+
+42.5
+
+TRANSPARENCY:
+
+27
+
+RED LIST:
+
+34
+
+POLICY:
+
+0
+
+INITIATIVES:
+
+0
+
+TRANSPARENCY:
+
+0
+
+RED LIST:
+
+61
+
+Headquarters: Lakeland, FL
+
+Stores and banners: 1,080 supermarkets operating as Publix
+
+Background: Publix is the largest employee-owned supermarket
+chain in U.S. with supermarkets in five Southern states: FL, GA,
+AL, SC and TN. Its 2013 fiscal year revenue was $28.8 billion.
+
+Greenpeace Comments: For yet another year Publix has failed
+in the Carting Away the Oceans ranking. Keeping its actions,
+policies, and priorities out of sight, the company’s refusal to share
+information keeps its customers and concerned citizens alike from
+understanding how Publix may (or may not) be working towards
+a more sustainable seafood operation. The company continues
+to ignore requests to discuss its seafood operations, dismisses
+surveys and inquiries, and offers no transparency as to its activi-
+ties in this area.
+
+Publix sells a large number of seafood species that are generally
+associated with serious sustainability concerns, such as shark,
+orange roughy, and Chilean sea bass. Publix would serve its cus-
+tomers, employees, and the oceans well by ceasing its support for
+these destructive fisheries. Given the aforementioned absence of
+any sort of transparency, all of the information contained in this re-
+port is gleaned from the company’s annual reports, industry data,
+consumer surveys, store visits, and customer correspondence.
+
+Sustainable Seafood Policy: Publix lacks a visible sustainable
+seafood policy. Although the company claims on its web site to
+have “developed and begun to implement our seafood sustainabil-
+ity program,” there is no evidence as to what the program entails,
+how it is being implemented, or how it impacts what seafood is
+purchased and sold by the company. However, the unsustainable
+offerings in the store suggest that the company is either unable or
+unwilling to adopt a more robust sustainable seafood policy.
+
+Seafood Sustainability Initiatives: Publix is working with
+Sustainable Fisheries Partnership (SFP) in a handful of fishery
+improvement projects (FIPs). While SFP has revealed some
+information about the purposes and timeline of these FIPs, the
+retailer has been unwilling to inform anyone about the percentage
+of its product that is actually sourced from these FIPs. Therefore,
+the extent of Publix’s commitment to these FIPs is unknown.
+
+Publix does occasionally have sustainability requirements that its
+suppliers must follow, and there is some degree of auditing. It also
+trains it suppliers on its policy requirements. It does not appear to
+communicate at all to either regulatory managers or policy makers
+on the need to support improvements in fisheries management.
+
+Labeling and Transparency: Publix has some general informa-
+tion regarding seafood sustainability online, but it does not give
+consumers specifics about their sourcing. A Publix “Seafood
+Facts” brochure found at a store provides consumers with
+information about seafood, but nothing that guides consumers on
+sustainability. Similarly, there is no point-of-sale information either
+adjacent to the seafood or on the packaging.
+
+Red List Seafood Sales: Publix sells 15 out of 22 red list species:
+Alaska pollock, Atlantic cod, Atlantic salmon, Atlantic sea scallops,
+Chilean sea bass, Greenland halibut, grouper, ocean quahog,
+orange roughy, red snapper, shark, South Atlantic albacore tuna,
+swordfish, tropical shrimp, and yellowfin tuna.
+
+The company may be working in FIPs in three of these fisheries,
+but has not provided sufficient information to make an accurate
+determination on whether any product is actually being sourced
+through them.
+
+Headquarters: Modesto, CA
+
+Stores and Banners: 240 stores operating as Save Mart, S-Mart
+Foods, Lucky and FoodMaxx
+
+Background: Save Mart Supermarkets owns stores in Northern
+and Central California and Nevada. Its posted revenue for the 2013
+fiscal year was $4.3 billion.
+
+Greenpeace Comments: Save Mart is one of the five new
+retailers profiled in this year’s report. It did not participate in this
+year’s survey, and therefore all of the material for this evaluation
+is obtained from external sources. Save Mart should begin to
+engage in the process; some simple ways to start would be to
+develop a sustainable seafood policy and be more open and
+transparent with its consumers.
+
+Sustainable Seafood Policy: Save Mart does not appear to have
+a sustainable seafood policy.
+
+Seafood Sustainability Initiatives: Save Mart does not appear
+to participate in any sustainable seafood initiatives.
+
+Labeling and Transparency: Save Mart sources its seafood from
+Pacific Seafood, but it is unclear which species it sources from the
+company. It does not provide customers with sufficient sustain-
+ability information either in the store or its website.
+
+Red List Seafood Sales: Save Mart sells 10 out of the 22 Red
+List species including Chilean sea bass, Alaska pollock, Atlantic
+salmon, Atlantic sea scallop, ocean quahog, redfish, South Atlantic
+albacore tuna, swordfish, tropical shrimp, and yellowfin tuna.
+
+page 42
+
+page 43
+
+#25
+
+Bi-Lo
+
+OVERALL SCORE
+
+1.15
+
+#26
+
+Roundy’s
+
+OVERALL SCORE
+
+1.06
+
+POLICY:
+
+0
+
+INITIATIVES:
+
+0
+
+TRANSPARENCY:
+
+0
+
+RED LIST:
+
+46
+
+POLICY:
+
+2
+
+INITIATIVES:
+
+0
+
+TRANSPARENCY:
+
+7.5
+
+RED LIST:
+
+33
+
+Headquarters: Jacksonville, FL
+
+Headquarters: Milwaukee, WI
+
+Stores and Banners: 849 stores operating as BI-LO, Winn-Dixie,
+Sweetbay, Reid’s and Harvey’s
+
+Sustainable Seafood Policy: BI-LO does not have a sustainable
+seafood policy.
+
+Stores and Banners: 166 stores operating as Pick ‘n Save, Copps,
+Rainbow, Metro Market, and Mariano’s
+
+Background: BI-LO operates stores throughout Florida and the
+Deep South. Last year, BI-LO purchased the Sweetbay, Reid’s,
+and Harveys store banners from Delhaize for $265 million; a
+total purchase of 165 stores which in 2012 generated revenues
+of about $1.8 billion alone. This comes on the heels of having
+purchased Winn-Dixie the year before in an effort to grow and
+compete with rivals such as Delhaize, Publix, and Walmart in the
+southern U.S.
+
+Greenpeace Comments: BI-LO has never participated in
+Greenpeace’s retailer survey process. The company has made
+no efforts to acknowledge or act upon the concept of seafood
+sustainability. BI-LO’s website remains devoid of information while
+its stores continue to sell a variety of unsustainable species and
+products.
+
+As per last year, Greenpeace has reached out repeatedly to the
+company to no avail. All attempts at communication and coopera-
+tion have failed. Particularly in light of its recent acquisitions
+and growth, BI-LO’s radio silence on seafood sustainability is
+disastrous for our oceans.
+
+Seafood Sustainability Initiatives: BI-LO is not affiliated with
+any retailer groups, fishing industry groups, seafood companies,
+third-party auditors, or environmental conservation organizations
+working on seafood sustainability. It makes no effort to engage
+policy makers on any issue pertaining to seafood sustainability.
+
+Labeling and Transparency: BI-LO does not sufficiently label
+seafood products so that consumers can avoid purchasing
+destructively fished species, and the company does not promote
+sustainable seafood to its customers.
+
+Red List Seafood Sales: BI-LO sells at least 13 of the 22 Red
+List seafoods: orange roughy, Alaska pollock, Atlantic cod,
+Atlantic salmon, Atlantic sea scallops, grouper, ocean quahog, red
+snapper, South Atlantic albacore tuna, swordfish, tropical shrimp,
+and yellowfin tuna.
+
+Background: Roundy’s stores are located in WI, MN, and IL. Its
+2013 fiscal year sales were $4.0 billion and the company began
+trading on the stock exchange on February 8, 2012. In December
+2013, CEO Bob Mariano announced that it would rebrand the
+purchase of 11 Dominick’s stores from Safeway as “Mariano’s” in
+early 2014. Its Metro Market and Mariano’s banners target a more
+urban, upscale demographic than the other banners.
+
+Greenpeace Comments: Roundy’s is one of the five new
+retailers profiled in this year’s report. It did not participate in this
+year’s survey and therefore all of the material for this evaluation is
+obtained from external sources. Sadly, Roundy’s is second only
+to Kroger in the shameful practice of offering the most Red List
+species for sale. Its poor performance in all categories has landed
+this retailer in the bottom spot for this year’s report. Roundy’s
+must begin to engage in the process toward recovery. Some
+examples of low-hanging fruit would be to develop a public-facing
+sustainable seafood policy and to be more open and transparent
+with its customers.
+
+Sustainable Seafood Policy: Roundy’s does not appear to have
+a sustainable seafood policy. It promotes locally-raised trout as a
+sustainable product but does not provide sufficient details for an
+independent evaluation of these claims.
+
+Seafood Sustainability Initiatives: Roundy’s does not appear to
+be involved in any initiatives.
+
+Labeling & Transparency: Roundy’s does not provide in-store
+signage or labeling pertaining to seafood sustainability. On banner
+store Mariano’s facebook page, the company struggles to answer
+its own customers’ questions regarding seafood sustainability,
+with statements such as “We will have to look into this for you” and
+no visible follow-up.
+
+Red List Seafood Sales: Roundy’s sells 17 out of the 22 Red
+List seafoods: Atlantic halibut, Chilean sea bass, sharks, Alaska
+pollock, Atlantic cod, Atlantic salmon, Atlantic sea scallops,
+Greenland halibut, grouper, monkfish, orange roughy, red snapper,
+redfish, South Atlantic albacore tuna, swordfish, tropical shrimp,
+and yellowfin tuna.
+
+page 44
+
+page 45
+
+page 46
+

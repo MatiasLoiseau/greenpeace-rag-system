@@ -1,0 +1,1316 @@
+Polluting Democracy:
+Coal Plays Dirty on the Hill
+
+© greenpeace
+
+g
+r
+e
+e
+n
+p
+e
+a
+c
+e
+.
+o
+r
+g
+
+page 1
+
+Project Management, Concept, and
+Authored by: Becky Bassick, Kyle
+Ash, Gabe Wisniewski
+
+Research and Editing by: Isabella
+Lyle-Durham, Claudette Juska, Mike
+Johnson, Molly Dorozenski
+
+Designed by: Andrew Fournier
+
+table of contents
+
+2–3
+4
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+
+Introduction
+Representative Jason Altmire (D-PA)
+Representative Michele Bachmann (R-MN)
+Representative Eric Cantor (R-VA)
+Representative Jerry Costello (D-IL)
+Representative Mark Critz (D-PA)
+Representative Jo Ann Emerson (R-MO)
+Representative Doc Hastings (R-WA)
+Representative Bill Johnson (R-OH)
+Representative Jim Matheson (D-UT)
+Representative Tim Murphy (R-PA)
+Representative Steve Pearce (R-NM)
+Representative Mike Rogers (R-MI)
+Representative Patrick Tiberi (R-OH)
+Representative Fred Upton (R-MI)
+Representative Ed Whitfield (R-KY)
+Endnotes
+
+© Nick Cobbing / Greenpeace
+
+page 2
+
+Polluting Democracy:
+Coal Plays Dirty on the Hill
+
+© Kate Davison / Greenpeace
+COAL ENERGY IS OLD,
+DIRTY, AND EXPENSIVE
+BY ANY REASONABLE
+DEFINITION…
+
+It’s also deadly. Pollution coming from the US coal industry kills up
+
+to 34,000 Americans per year. So, those who make money selling coal must
+market their product vigorously. They lobby Congress, they lobby children, they
+lobby every American.
+
+Coal-fired power plants that do not shut down soon should be required to follow
+an ‘all-of-the-above’ approach to pollution control – saving money on the backs
+of Americans’ health is not excusable. But the cost of smokestack pollution is
+only part of the nightmare that is coal.
+
+Mountains aren’t cheap, even if the coal industry is
+allowed to treat them that way. They didn’t pay for the
+hundreds of beautiful Appalachian mountains they’ve
+obliterated. Mountaintop removal mining has devastated
+ecosystems in the most biodiverse part of the continental
+United States and destroyed water sources forever.
+Transporting coal to feed the furnaces’ unceasing hunger
+nearly monopolizes the US rail system and requires
+burning huge amounts of petroleum for highly polluting
+trucks.
+
+In 2008 alone, the coal industry managed to get average
+Americans to pick up as much as $500 billion in its
+costs. Every year, burning coal creates 17 million tons of
+toxic ash, which leaches heavy metals like mercury into
+drinking water sources. Costs of mercury emissions from
+smokestacks alone cost up to $29 billion each year, in
+the form of lost productivity from illness, mental retarda-
+tion, and treatment for cardiovascular disease.
+
+President Obama’s Environmental Protection Agency
+(EPA) proposed to reduce pollution of mercury and
+other airborne toxics, but some Members of Congress
+are acting as in-house lobbyists for large polluters like
+American Electric Power (AEP), Midwest Generation, or
+Edison International. The two-decade history of this long-
+developing standard for mercury pollution is a debacle
+illustrating the undue influence of the coal industry on our
+elected representatives.
+
+© Steve Morgan / Greenpeace
+
+page 3
+
+Today Americans suffer under the smokestacks
+of over 600 power plants that burn coal to
+produce electricity. The average age of these
+coal plants is 43 years. Some plants were
+even built near the turn of the century [the last
+century!] and in many cases have not installed
+any type of pollution-reduction technology.
+
+© Will Rose / Greenpeace
+
+THE US WIND INDUSTRY
+EMPLOYS 85,000
+PEOPLE, SOLAR
+EMPLOYS 93,000, AND
+GEOTHERMAL EMPLOYS
+18,000. COMBINED,
+RENEWABLES EMPLOY
+AT LEAST 196,000
+VERSUS ONLY 60,000 IN
+COAL-FIRED POWER.
+
+The majority of the ancient US coal fleet has not
+installed easily available technology that could reduce
+mercury pollution by 90%. Coal combustion is
+responsible for most US mercury pollution. Mercury
+contributes to thousands of deaths annually and may
+adversely affect the development of over 400,000
+babies per year. Mercury exposure is a serious
+problem for the lungs, brain, heart, stomach, kidneys,
+and immune system. Much airborne mercury often
+falls back to the ground and waterways within only
+100 or so miles, but it can be re-emitted into the air,
+float down streams, and accumulate in animals since
+mercury cannot be digested.
+
+This report provides a sampling of the actions of a bipartisan cadre of 15
+politicians, who are among those in the House of Representatives working for
+America’s dirty and decrepit coal-fired power industry. These 15 members
+have tried to stop EPA from modernizing standards for pollutants that come
+predominantly from coal-fired power plants, including mercury, sulfur dioxide,
+nitrogen dioxide, greenhouse gases, and coal ash. Except for the one fresh-
+man, these members of Congress are in the top 25% of those receiving money
+from the fossil fuel industry. Many are in leadership positions within Congress.
+The actions reviewed for these 15 politicians were opposed to the health of
+people in their own districts.
+
+*Coal-fired power plants reviewed are bigger than 100 Megawatts, and not
+slated to shut down for 5 years or more.23
+
+© Steve Morgan / Greenpeace
+
+© Zhao Gang / Greenpeace
+
+page 4
+
+Representative Jason Altmire (D-PA), District 4
+“... my constituency, I feel, is pretty one-sided on this issue.”
+Co-chair of Congressional Coal Caucus, and one of five founders1
+In top 25% of House members receiving campaign cash from fossil fuel companies7
+Coal Plants Polluting Altmire’s District23
+
+New Castle Power Plant (owner, Reliant Energy) in district.
+
+•	 No	mercury	controls.
+•	 No	sulfur	dioxide	controls.
+
+Bruce Mansfield (owner, FirstEnergy) in district.
+
+•	 No	mercury	controls.
+•	 No	nitrogen	dioxide	controls.
+
+Cheswick Power Station (owner, Reliant Energy) in district.
+
+•	 No	mercury	controls.
+•	 Minimal	nitrogen	dioxide	controls.
+•	 No	sulfur	dioxide	controls.
+
+Impact Annually of Just These Three Coal Plants6
+
+•	 Deaths: 127
+•	 Heart Attacks: 207
+•	 Asthma Attacks: 1,890
+•	 Hospital Admissions: 96
+•	 Chronic Bronchitis: 74
+•	 Asthma ER Visits: 92
+
+Yearly Costs: $968,115,0006
+
+There are 6 other coal-fired power plants within 100 miles of District 4.
+
+Coal Polluters Support Representative Altmire
+
+Fossil fuel industry has given Altimire $175,550 since the 2006 election season. Coal donors include Allegheny Energy
+($19,250), National Rural Electric Cooperative Association ($16,500), and FirstEnergy Corporation ($13,500).7
+
+Altmire Represents Coal Polluters
+
+Altmire voted to stop EPA from reducing mercury and other toxic air pollution from cement plants.12
+
+Coal Caucus members are threatening with a bill to strip EPA’s budget to reduce mercury pollution from coal-fired power
+plants.14
+
+Altmire asked EPA not to treat coal ash as hazardous.19 Coal Caucus members are pushing a bill to strip EPA’s budget to
+develop any protections from coal ash.3 Altmire voted for a similar amendment to the budget bill earlier this year.12
+
+Altmire voted yes to keep EPA from making coal companies reduce global warming pollution.2
+
+Altmire voted three times in support of coal-industry amendments on mountaintop removal mining.15
+
+Jobs to Produce Power in Pennsylvania
+
+Wind and Solar: 7,86913,18
+Coal: 3,6864
+
+page 5
+
+Representative Michele Bachmann (R-MN), District 6
+“I think it is because of the corrupt paradigm that has become Washington, D.C.,
+whereby votes continually are bought rather than representatives voting the will of their
+constituents.…”
+In top 25% of House members receiving campaign cash from fossil fuel companies5
+Running for President, 2012 election
+
+Coal Plants Polluting Bachmann’s District23
+
+Sherburne County plant (owner, Northern States Power Company
+[subsidiary of Xcel Energy]), in district.
+
+•	 No	mercury	controls.
+•	 Minimal	nitrogen	dioxide	controls.
+
+Allen S. King (owner, Northern States Power Company
+[a subsidiary of Xcel Energy]), in district.
+
+•	 Application	for	mercury	controls	is	pending.
+•	 Minimal	sulfur	dioxide	controls.
+
+Impact Annually of These Two Coal Plants6
+
+•	 Deaths:	102
+•	 Heart Attacks:	165
+•	 Asthma Attacks:	1,760
+•	 Hospital Admissions:	76
+•	 Chronic Bronchitis:	65
+•	 Asthma ER Visits:	110
+
+Yearly Costs: $787,293,0006
+
+Coal Polluters Support Representative Bachmann
+
+Fossil fuel industry has given Bachmann $131,980 since the 2006 election season. Coal donors include Xcel Energy
+($6,000), National Rural Electric Cooperative Association ($3,500), and ALLETE Incorporated ($2,000).7
+
+Bachmann Represents Coal Polluters
+
+Bachmann voted to stop EPA from reducing mercury and other toxic air pollution from cement plants.12
+
+She is expected to support Coal Caucus members threatening with a bill to strip EPA’s budget to reduce mercury
+pollution from coal-fired power plants.14
+
+Bachmann asked EPA not to treat coal ash as hazardous.19 She is cosponsoring a bill Coal Caucus members are
+pushing to strip EPA’s budget to develop any protections from coal ash.3 Bachmann voted for a similar amendment in
+the budget bill earlier this year.12
+
+Bachmann voted yes to keep EPA from making coal companies reduce global warming pollution.2
+
+Bachmann voted three times in support of coal-industry amendments on mountaintop removal mining.15
+
+Jobs to Produce Power in Minnesota
+
+Wind and Solar: 4,12013,18
+Coal: 1,0224
+
+page 6
+
+Representative Eric Cantor (R-VA), District 7
+“Safety and environmental concerns are legitimate and must be addressed. That much
+we can all agree on.”
+House Majority Leader
+In top 25% of House members receiving campaign cash from fossil fuel companies7
+
+Coal Plants Polluting Cantor’s District23
+
+Bremo Bluff (owner, Dominion Virginia Power [a subsidiary of Dominion]), in district.
+
+•	 No	mercury	controls.
+•	 Minimal	nitrogen	dioxide	controls.
+•	 No	sulfur	dioxide	controls.
+
+Potomac River Generating Station (owner, GenOn Energy), within 100 miles of district.
+
+•	 No	mercury	controls.
+•	 Minimal	nitrogen	dioxide	controls.
+•	 Minimal	sulfur	dioxide	controls.
+
+Chesterfield Power Station (owner, Dominion Virginia Power
+[a subsidiary of Dominion]), within 100 miles of district.
+
+•	 No	mercury	controls.
+•	 Minimal	nitrogen	dioxide	controls.
+•	 Minimal	sulfur	dioxide	controls.
+
+There are 2 other coal-fired power plant within 100 miles of District 7.
+
+Impact Annually of These Three Coal Plants6
+
+•	 Deaths:	154
+•	 Heart	Attacks:	317
+•	 Asthma	Attacks:	2,600
+•	 Hospital	Admissions:	116
+•	 Chronic	Bronchitis:	96
+•	 Asthma	ER	Visits:	129
+
+Yearly Costs: $1,191,860,0006
+
+Coal Polluters Support Representative Cantor
+
+Fossil fuel industry has given Cantor $655,547 since the 2000 election season. Coal donors include Dominion
+Resources ($157,947), National Rural Electric Cooperative Association ($24,900), and NiSource Inc ($18,750).7
+
+Cantor Represents Coal Polluters
+
+Cantor voted to stop EPA from reducing mercury and other toxic air pollution from cement plants.12
+
+He is expected to support Coal Caucus members threatening with a bill to strip EPA’s budget to reduce mercury
+pollution from coal-fired power plants.14
+
+Cantor voted yes to an amendment in the budget bill that would stop EPA from developing protections from coal ash
+pollution.12
+
+Cantor voted yes to keep EPA from making coal companies reduce global warming pollution.2
+
+Cantor voted three times in support of coal-industry amendments on mountaintop removal mining.15
+
+Jobs to Produce Power in Virginia
+
+Wind and Solar: 47613,18
+Coal: 1,1174
+
+page 7
+
+Representative Jerry Costello (D-IL), District 12
+ “Costello’s tenure in the House has been characterized by his results-oriented, bipartisan
+approach to issues.”
+Co-chair, Congressional Coal Caucus1
+In top 25% of House members receiving campaign cash from fossil fuel companies7
+
+Coal Plants Polluting Costello’s District23
+
+Baldwin Energy Station (owner, Dynergy Midwest Generating
+[subsidiary of Dyngery]) in district.
+
+•	 Minimal	nitrogen	dioxide	controls.
+•	 Minimal	sulfur	dioxide	controls.
+
+Wood River Station (owner, Dynergy Midwest Generation
+[subsidiary of Dynergy], in district.
+
+•	 3/4	of	plant	has	no	mercury	controls.
+•	 Minimal	nitrogen	dioxide	controls.
+•	 No	sulfur	dioxide	controls.
+
+Coffeen Power Station (owner, Ameren), within 100 miles of district.
+
+•	 No	mercury	controls.
+
+There are 8 other coal-fired power plants within 100 miles of District 12.
+
+Impact Annually of These Three Coal Plants6
+
+•	 Deaths:	139
+•	 Heart Attacks:	171
+•	 Asthma Attacks:	1,880
+•	 Hospital Admissions:	80
+•	 Chronic Bronchitis:	68
+•	 Asthma ER Visits:	119
+
+Yearly Costs: $967,704,0006
+
+Coal Polluters Support Representative Costello
+
+Fossil fuel industry has given Costello $168,650 since the 1998 election season. Coal donors include Ameren Corporation
+($49,600), Peabody Energy ($25,100), and National Rural Electric Cooperative Association ($18,100).7
+
+Costello Represents Coal Polluters
+
+Costello voted to stop EPA from reducing mercury and other toxic air pollution from cement plants.12
+
+Coal Caucus members are threatening with a bill to strip EPA’s budget to reduce mercury pollution
+from coal-fired power plants.14
+
+Costello voted yes to an amendment in the budget bill that would stop EPA from developing protec-
+tions from coal ash pollution.12
+
+Costello voted to keep EPA from making coal companies reduce global warming pollution.2
+
+Costello voted twice in support of coal-industry amendments on mountaintop removal mining.15
+
+Jobs to Produce Power in Illinois
+
+Wind and Solar: 10,69213,18
+Coal: 3,1624
+
+page 8
+
+Representative Mark Critz (D-PA), District 12
+“...[Representative Critz] has deep roots in Southwestern Pennsylvania.”
+Member, Congressional Coal Caucus1
+In top 25% of House members receiving campaign cash from fossil fuel companies7
+
+Coal Plants Polluting Critz’s District23
+
+Armstrong Power Station (owner, Allegheny Energy Supply Company
+[subsidiary of Allegheny Energy]) in district.
+
+•	 No	mercury	controls.
+•	 Minimal	nitrogen	dioxide	controls.
+•	 No	sulfur	dioxide	controls.
+
+Hatfields Ferry Power Station (owner, Allegheny Energy) in district.
+
+•	 No	mercury	controls.
+•	 Minimal	nitrogen	dioxide	controls.
+
+Cheswick Power Station (owner, Reliant Energy) in district.
+
+•	 No	mercury	controls.
+•	 Minimal	nitrogen	dioxide	controls.
+•	 No	sulfur	dioxide	controls.
+
+There is 1 other coal-fired power plant in Critz’s district and 10 others within 100 miles.
+
+Impact Annually of These Three Coal Plants6
+
+•	 Deaths:	137
+•	 Heart Attacks:	220
+•	 Asthma Attacks:	2,130
+•	 Hospital Admissions:	105
+•	 Chronic Bronchitis:	81
+•	 Asthma ER Visits:	101
+
+Yearly Costs: $1,062,523,0006
+
+Coal Polluters Support Representative Critz
+
+Fossil fuel industry has given Critz $64,500 since the 2008 election season. Coal donors include Mepco LLC ($31,500),
+Alpha Natural Resources ($11,000), and CONSOL Energy ($5,000).7
+
+Critz Represents Coal Polluters
+
+Critz voted to stop EPA from reducing mercury and other toxic air pollution from cement plants.12
+
+Coal Caucus members are threatening with to strip EPA’s budget to reduce mercury pollution from coal-fired power plants.14
+
+Critz is cosponsoring a bill Coal Caucus members are pushing a bill to strip EPA’s budget to develop any protections from
+coal ash.3 He voted for a similar amendment in the budget bill earlier this year.12
+
+Critz voted yes to keep EPA from making coal companies reduce global warming pollution.2
+
+Critz voted three times in support of coal-industry amendments on mountaintop removal mining.15
+
+Jobs to Produce Power in Pennsylvania
+
+Wind and Solar: 7,86913,18
+Coal: 3,6864
+
+page 9
+
+Representative Jo Ann Emerson (R-MO), District 8
+ “We need an energy policy that increases all forms of American energy, enhances
+conservation, and invests in future fuels at the same time.”
+Member, Congressional Coal Caucus1
+In top 25% of House members receiving campaign cash from fossil fuel companies5
+
+Coal Plants Polluting Emerson’s District23
+
+New Madrid Power Plant (owner, Associated Electric Cooperative) in district.
+
+•	 No	mercury	controls.
+•	 No	sulfur	dioxide	controls.
+
+Rush Island Power Station (owner, Union Electric Company [a subsidiary of Ameren]),
+within 100 miles of district.
+
+•	 No	mercury	controls.
+•	 Minimal	nitrogen	dioxide	controls.
+•	 No	sulfur	dioxide	controls.
+
+Labadie Power Station (owner, Union Electric Company [a subsidiary of Ameren]),
+within 100 miles of district.
+
+•	 No	mercury	controls.
+•	 Minimal	nitrogen	dioxide	controls.
+•	 No	sulfur	dioxide	controls.
+
+There are 7 other coal-fired power plants located within 100 miles of District 8.
+
+Impact Annually of These Three Coal Plants6
+
+•	 Deaths:	237
+•	 Heart Attacks:	369
+•	 Asthma Attacks:	4,070
+•	 Hospital Admissions:	172
+•	 Chronic Bronchitis:	146
+•	 Asthma ER Visits:	134
+
+Yearly Costs:$1,859,966,0006
+
+Coal Polluters Support Representative Emerson
+
+Fossil fuel industry has given Emerson $246,961 since the 1998 election season. Coal donors include National Rural
+Electric Cooperative Association ($61,303), Ameren Corporation ($38,750), and Peabody Energy ($31,050).7
+
+Emerson Represents Coal Polluters
+
+Emerson voted to stop EPA from reducing mercury and other toxic air pollution from cement plants.12
+
+Coal Caucus members are threatening with a bill to strip EPA’s budget to reduce mercury pollution from coal-fired power
+plants.14
+
+Emerson cosponsored and voted yes on a bill to keep EPA from making coal companies reduce global warming pollution.2
+
+Emerson voted yes to an amendment in the budget bill that would stop EPA from developing protections from coal ash
+pollution.12
+
+Emerson voted three times in support of coal-industry amendments on mountaintop removal mining.15
+
+Jobs to Produce Power in Missouri
+
+Wind and Solar: 2,09413,18
+Coal: 2,1264
+
+page 10
+
+Representative Doc Hastings (R-WA), District 4
+“When it comes to clean energy and meeting the goals of an all-of-the-above energy plan,
+Central Washington should be held up as an example....”
+Chair, House Committee on Natural Resources5
+In top 25% of House members receiving campaign cash from fossil fuel companies7
+
+Coal Plants Polluting Hasting’s District23
+
+Centralia Power Plant (owned, TransAlta Centralia Generation LLC
+[subsidiary of TransAlta)] within 100 miles of District 4.
+
+•	 No	mercury	controls.
+
+Impact Annually of This Coal Plant6
+
+•	 Deaths:	5
+•	 Heart Attacks:	8
+•	 Asthma Attacks:	97
+•	 Hospital Admissions:	3
+•	 Chronic Bronchitis:	4
+•	 Asthma ER Visits:	2
+
+Yearly Costs: $41,757,0006
+
+Coal Polluters Support Representative Hastings
+
+Fossil fuel industry has given Hastings $206,519 since the 1998 election season. Coal donors include National Rural Electric
+Cooperative Association ($43,915), American Electric Power ($10,000), and Xcel Energy ($4,750).7
+
+Hastings Represents Coal Polluters
+
+Hastings voted to stop EPA from reducing mercury and other toxic air pollution from cement plants.12
+
+He is expected to support Coal Caucus members who are threatening with a bill to strip EPA’s budget to reduce mercury
+pollution from coal-fired power plants.14
+
+Hastings voted yes to keep EPA from making coal companies reduce global warming pollution.2
+
+Hastings voted yes to an amendment in the budget bill that would stop EPA from developing protections from coal ash pollu-
+tion.12
+
+Hastings voted three times in support of coal-industry amendments on mountaintop removal mining.15
+
+Jobs to Produce Power in Washington
+
+Wind and Solar: 3,02213,18
+Coal: 2634
+
+page 11
+
+Representative Bill Johnson (R-OH), District 6
+“Elected officials have an awesome responsibility; and, they should willingly accept
+accountability as well.”
+Member, Congressional Coal Caucus1
+
+Coal Plants Polluting Johnson’s District23
+
+Kyger Creek Station (owner, Ohio Valley Electric Corporation
+[primary investors, American Electric Power and FirstEnergy]) in district.
+
+•	 No	mercury	controls.
+•	 Minimal	sulfur	dioxide	controls.
+
+Muskingum River Plant (owner, Ohio Power Company
+[subsidiary of American Electric Power]) in district.
+
+•	 No	mercury	controls.
+•	 Minimal	nitrogen	dioxide	controls.
+•	 Minimal	sulfur	dioxide	controls.
+
+R.E. Burger Plant (owner, FirstEnergy Generation Corporation
+[subsidiary of FirstEnergy]) in district.
+
+•	 No	mercury	controls.
+•	 Minimal	nitrogen	dioxide	controls.
+•	 No	sulfur	dioxide	controls.
+
+There are 15 other coal-fired power plants located within 100 miles of District 6.
+
+Impact Annually of These Three Coal Plants6
+
+•	 Deaths:	100
+•	 Heart Attacks:	160
+•	 Asthma Attacks:	1,520
+•	 Hospital Admissions:	74
+•	 Chronic Bronchitis:	59
+•	 Asthma ER Visits:	77
+
+Yearly Costs: $785,748,0006
+
+Polluters Support Representative Johnson
+
+Fossil fuel industry has given Johnson $24,286 in the last election cycle. Coal donors include Murray Coal ($13,036), East
+Fairfield Coal Company ($2,000), and NiSource Incorporated ($1,000).7
+
+Johnson Represents Coal Polluters
+
+Johnson voted to stop EPA from reducing mercury and other toxic air pollution from cement plants.12
+
+Coal Caucus members are threatening with a bill to strip EPA’s budget to reduce mercury pollution from coal-fired power
+plants.14
+
+Johnson cosponsored and voted yes on a bill to keep EPA from making coal companies reduce global warming pollution.2
+
+Johnson asked EPA not to treat coal ash as hazardous.19 He is cosponsoring a bill Coal Caucus members are pushing a bill
+to strip EPA’s budget to develop any protections from coal ash.3 Johnson voted for a similar amendment in the budget bill
+earlier this year.12
+
+Johnson voted three times in support of coal-industry amendments on mountaintop removal mining.15
+
+Jobs to Produce Power in Ohio
+
+Wind and Solar: 5,12313,18
+Coal: 4,2894
+
+page 12
+
+Representative Jim Matheson (D-UT), District 2
+“Clean air, clean water and land free of dangerous pollution are the future we want our children
+and our grandchildren to inherit.”
+Member, Congressional Coal Caucus1
+In top 25% of House members receiving campaign cash from fossil fuel companies7
+
+Coal Plants Polluting Matheson’s District23
+
+Huntington Power Plant (owner, PacifiCorp
+[subsidiary of MidAmerican Energy]) in district.
+
+•	 No	mercury	controls.
+•	 Minimal	nitrogen	dioxide	controls.
+
+Bonanza Power Plant (owner, Deseret Generation & Transmission Company
+[subsidiary of Deseret Power Electric Cooperative]) in district.
+
+•	 No	mercury	controls.
+•	 Minimal	nitrogen	dioxide	controls.
+
+Intermountain Power Station (owner, Intermountain Power Agency and operated
+by the Los Angeles Department of Water and Power and the Intermountain Power
+Service Corporation), within 100 miles of district.
+
+•	 No	mercury	controls.
+•	 Minimal	nitrogen	dioxide	controls.
+•	 No	sulfur	dioxide	controls.
+
+There are 3 other coal-fired power plants within 100 miles of District 2.
+
+Impact Annually of These Three Coal Plants6
+
+•	 Deaths:	24
+•	 Heart Attacks:	36
+•	 Asthma Attacks:	536
+•	 Hospital Admissions:	17
+•	 Chronic Bronchitis:	17
+•	 Asthma ER Visits:	22
+
+Yearly Costs: $193,281,0006
+
+Coal Polluters Support Representative Matheson
+
+Fossil fuel industry has given Matheson $431,297 since the 2000 election season. Coal donors include National Rural Elec-
+tric Cooperative Association ($40,500), Arch Coal ($17,000), and Southern Company ($15,000).7
+
+Matheson Represents Coal Polluters
+
+Coal Caucus members are threatening with a bill to strip EPA’s budget to reduce mercury pollution from coal-fired power
+plants. Matheson voted yes for this bill in committee.14
+
+Matheson cosponsored and voted yes on a bill to keep EPA from making coal companies reduce global warming pollution.2
+
+Matheson is cosponsoring a bill Coal Caucus members are pushing to strip EPA’s budget to develop any protections from
+coal ash.3 He voted for a similar amendment in the budget bill earlier this year.12
+
+Matheson voted three times in support of coal-industry amendments on mountaintop removal mining.15
+
+Jobs to Produce Power in Utah
+
+There were no data available for wind energy jobs in Utah.
+
+Solar: 74713
+Coal: 9144
+
+page 13
+
+Representative Tim Murphy (R-PA), District 18
+“We can realize unprecedented job and economic growth in southwestern Pennsylvania so
+long as the policies coming out of Washington help unleash our creative and entrepreneurial
+potential.”
+Vice Chair, Subcommittee on Environment and Economy20
+In top 25% of House members receiving campaign cash from fossil fuel companies7
+
+Coal Plants Polluting Murphy’s District23
+
+Elrama Power Plant (owner, Reliant Energy) in district.
+
+•	 No	mercury	controls.
+•	 No	sulfur	dioxide	controls.
+•	 Minimal	nitrogen	dioxide	controls.
+
+Keystone Generating Station (owner, Reliant Energy), within 100 miles of district.
+
+•	 No	mercury	controls.
+
+Mitchell Power Station (owner, Allegheny Energy Supply Company LLC
+[a subsidiary of Allegheny Energy]), within 100 miles of district.
+
+•	 No	mercury	controls.
+•	 No	nitrogen	dioxide	controls.
+
+There are 11 other coal-fired power plants located within 100 miles of District 18.
+
+Impact Annually of These Three Coal Plants6
+
+•	 Deaths:	68
+•	 Heart Attacks:	114
+•	 Asthma Attacks:	1,060
+•	 Hospital Admissions:	52
+•	 Chronic Bronchitis:	41
+•	 Asthma ER Visits:	50
+
+Yearly Costs: $527,892,0006
+
+Coal Polluters Support Murphy
+
+Fossil fuel industry has given Murphy $525,435 since the 2002 election season. Coal donors include Allegheny Energy
+($58,200), CONSOL Energy ($53,350), and PPL Corporation ($23,000).7
+
+Murphy Represents Coal Polluters
+
+Murphy voted to stop EPA from reducing mercury and other toxic air pollution from cement plants.12
+
+Coal Caucus members are threatening with a bill to strip EPA’s budget to reduce mercury pollution from
+coal-fired power plants. Murphy voted yes on this bill in committee.14
+
+Murphy cosponsored and voted yes on a bill to keep EPA from making coal companies reduce global warming pollution.2
+
+Murphy asked EPA not to treat coal ash as hazardous.19 He is cosponsoring a bill to strip EPA’s budget to develop any
+protections from coal ash.3 Murphy voted for a similar amendment in the budget bill earlier this year.12
+
+Murphy voted three times in support of coal-industry amendments on mountaintop removal mining.15
+
+Jobs to Produce Power in Pennsylvania
+
+Wind and Solar: 7,86913,18
+Coal: 3,6864
+
+page 14
+
+Representative Steve Pearce (R-NM), District 2
+“I’m here today for all of those who have spoken out before but haven’t been listened to. I’m here
+for all the elderly, the disabled, the families...”
+In top 25% of House members receiving campaign cash from fossil fuel companies7
+
+Coal Plants Polluting Pearce’s District
+
+There are no coal-fired power plants within 100 miles of District 2.
+
+Coal Polluters Support Representative Pearce
+
+Fossil fuel industry has given Pearce $1,274,041 since the 2002 election season. Major coal
+donors include PNM Resources ($22,450), National Rural Electric Cooperative Association
+($19,797), and Xcel Energy ($11,000).7
+
+Pearce Represents Coal Polluters
+
+Pearce voted to stop EPA from reducing mercury and other toxic air pollution from cement
+plants.12
+
+Coal Caucus members are threatening with a bill to strip EPA’s budget to reduce mercury
+pollution from coal-fired power plants.14
+
+Pearce voted yes to keep EPA from making coal companies reduce global warming pollution.2
+
+Pearce voted yes to an amendment in the budget bill that would stop EPA from developing protections from
+coal ash pollution.12
+
+Pearce voted three times in support of coal-industry amendments on mountaintop removal mining.15
+
+Jobs to Produce Power in New Mexico
+
+Wind and Solar: 1,62713,18
+Coal: 7894
+
+page 15
+
+Representative Mike Rogers—(R-MI), District 8
+“Mike’s leadership positions, experience and legislative record enable him to effectively advocate
+for the residents of Michigan’s Eighth Congressional District in a multitude of areas that impact
+our everyday lives.”
+In top 25% in the House for campaign contributions from fossil fuel companies7
+
+Coal Plants Polluting Roger’s District23
+
+Cobb Generating Plant (owner, Consumers Energy Company
+[subsidiary of CMS Energy]) within 100 miles of District 8.
+
+•	 No	mercury	controls.
+•	 Minimal	nitrogen	dioxide	controls.
+•	 No	sulfur	dioxide	controls.
+
+J.H. Campbell Generating Plant (owner, Consumers Energy Company
+[subsidiary of CMS Energy]) within 100 miles of District 8.
+
+•	 No	mercury	controls.
+•	 No	nitrogen	dioxide	controls.
+•	 No	sulfur	dioxide	controls.
+
+Monroe Power Plant (owner, Detroit Edison [a subsidiary of DTE Energy])
+within 100 miles of District 8.
+•	 No	mercury	controls.
+•	 Minimal	nitrogen	dioxide	controls.
+
+Impact Annually of These Three Coal Plants6
+
+•	 Deaths:	454
+•	 Heart Attacks:	725
+•	 Asthma Attacks:	7,280
+•	 Hospital Admissions:	325
+•	 Chronic Bronchitis:	267
+•	 Asthma ER Visits:	415
+
+Yearly Costs: $3,458,724,0006
+
+Coal Polluters Support Representative Rogers
+
+Fossil fuel industry has given Rogers $408,649 since the 2000 election season. Coal donors include CMS Energy ($36,000),
+DTE Energy ($34,950), and National Rural Electric Cooperative Association ($25,999).7
+
+Rogers Represents Coal Polluters
+
+Rogers voted to stop EPA from reducing mercury and other toxic air pollution from cement plants.12
+
+Coal Caucus members are threatening with a bill to strip EPA’s budget to reduce mercury pollution from coal-fired power
+plants. Rogers voted yes for this bill in committee.14
+
+Rogers cosponsored and voted yes on a bill to keep EPA from making coal companies reduce global warming pollution.2
+
+Rogers voted yes to an amendment in the budget bill that would stop EPA from developing protections from coal ash pollu-
+tion.12
+
+Rogers voted three times in support of coal-industry amendments on mountaintop removal mining.15
+
+Jobs to Produce Power in Michigan
+
+Wind and Solar: 7,45313,18
+Coal: 2,3204
+
+page 16
+
+Representative Patrick Tiberi—(R-OH), District 12
+“Like President Reagan reminded us, America is the ‘shining city on a hill’ and that’s something
+I believe we can all agree.”
+Member, Congressional Coal Caucus1
+In top 25% of House members receiving campaign cash from fossil fuel companies7
+
+Coal Polluters of Tiberi’s District23
+
+Conesville Power Plant (owner, Columbus Southern Power Company
+[subsidiary of American Electric Power]) within 100 miles of District 12.
+
+•	 No	mercury	controls.
+•	 Minimal	nitrogen	dioxide	controls.
+•	 No	sulfur	dioxide	controls	on	three	out	of	six	boilers.
+
+O.H. Hutchings Station (owner, Dayton Power and Light)
+within 100 miles of District 12.
+•	 No	mercury	controls.
+•	 No	nitrogen	dioxide	controls.
+•	 No	sulfur	dioxide	controls.
+
+Muskingum River Plant (owner, Ohio Power Company
+[subsidiary of American Electric Power) within 100 miles of District 12.
+
+•	 No	mercury	controls.
+•	 Minimal	nitrogen	dioxide	controls.
+•	 Minimal	sulfur	dioxide	controls.
+
+There are 2 other coal-fired power plants within 100 miles of District 12.
+
+Impact Annually of These Three Coal Plants6
+
+•	 Deaths:	117
+•	 Heart Attacks:	186
+•	 Asthma Attacks:	1,840
+•	 Hospital Admissions:	86
+•	 Chronic Bronchitis:	70
+•	 Asthma ER Visits:	102
+
+Yearly Costs: $912,952,0006
+
+Coal Polluters Support Representative Tiberi
+
+Fossil fuel industry has given Tiberi $503,106 since the 2000 election season. Coal donors include American Electric Power
+($92,500), FirstEnergy Corporation ($54,000), and Boich Company ($41,800).7
+
+Tiberi Represents Coal Polluters
+
+Tiberi voted to stop EPA from reducing mercury and other toxic air pollution from cement plants.12
+
+Coal Caucus members are threatening with a bill to strip EPA’s budget to reduce mercury pollution from coal-fired power
+plants.14
+
+Tiberi cosponsored and voted yes on a bill to keep EPA from making coal companies reduce global warming pollution.2
+
+Tiberi voted yes to an amendment in the budget bill that would stop EPA from developing protections from coal ash pollu-
+tion.12
+
+Tiberi voted three times in support of coal-industry amendments on mountaintop removal mining.15
+
+Jobs to Produce Power in Ohio
+
+Wind and Solar: 5,12313,18
+Coal: 4,2894
+
+page 17
+
+Representative Fred Upton—(R-MI), District 6
+“People in Michigan are good at separating fact from fiction.”
+Chair, House Energy and Commerce Committee22
+In top 25% of House members receiving campaign cash from fossil fuel companies7
+
+Coal Polluters of Upton’s District23
+
+Cobb Generating Plant (owner, Consumers Energy Company
+[subsidiary of CMS Energy[) within 100 miles of district.
+
+•	 No	mercury	controls.
+•	 Minimal	nitrogen	dioxide	controls.
+•	 No	sulfur	dioxide	controls.
+
+J.H. Campbell Generating Plant (owner, Consumers Energy Company
+[subsidiary of CMS Energy]) within 100 miles of district.
+
+•	 No	mercury	controls.
+•	 No	nitrogen	dioxide	controls.
+•	 No	sulfur	dioxide	controls.
+
+Eckert Station (owner, Lansing Board of Water & Light [a subsidiary of the
+City of Lansing, Michigan]), within 100 miles of district.
+
+•	 No	mercury	controls.
+•	 Minimal	nitrogen	dioxide	controls.
+•	 No	sulfur	dioxide	controls.
+
+There are 3 other coal-fired power plants within 100 miles of District 6.
+
+Impact Annually of These Three Coal Plants6
+
+•	 Deaths:	194
+•	 Heart Attacks:	317
+•	 Asthma Attacks:	3200
+•	 Hospital Admissions:	140
+•	 Chronic Bronchitis:	119
+•	 Asthma ER Visits:	193
+
+Yearly Costs: $1,490,768,0006
+
+Coal Polluters Support Representative Upton
+
+Fossil fuel industry has given Upton $541,450 since the 1998 election season. Coal donors include CMS Energy ($65,200),
+DTE Energy ($48,100), and American Electric Power ($31,150).7
+
+Upton Represents Coal Polluters
+
+Upton voted to stop EPA from reducing mercury and other toxic air pollution from cement plants.12
+
+Coal Caucus members are threatening with a bill to strip EPA’s budget to reduce mercury pollution from coal-fired power
+plants. Upton voted yes for this bill in committee..14
+
+Upton sponsored and pushed through his committee a bill to keep EPA from making coal companies reduce global warming
+pollution.2
+
+Upton voted yes to an amendment in the budget bill that would stop EPA from developing protections from coal ash pollu-
+tion.12
+
+Upton voted three times in support of coal-industry amendments on mountaintop removal mining.15
+
+Jobs to Produce Power in Michigan
+
+Wind and Solar: 7,45313,18
+Coal: 2,3204
+
+page 18
+
+Representative Ed Whitfield—(R-KY), District 1
+“This is a much broader issue than the health of the American people and lungs and
+emphysema; it’s how can we balance that in the global marketplace for jobs.”
+Chair, House Subcommittee on Energy and Power20
+Member, Congressional Coal Caucus1
+In top 25% of House members receiving campaign cash from fossil fuel companies7
+
+Coal Polluters of Whitfield’s District23
+
+Shawnee Fossil Plant (owner, Tennessee Valley Authority) in district.
+
+•	 No	mercury	controls.
+•	 Minimal	nitrogen	dioxide	controls.
+•	 No	sulfur	dioxide	controls	on	at	least	nine	of	ten	units.
+
+D.B. Wilson Station (owner, Big Rivers Electric Corporation) in district.
+
+•	 No	mercury	controls.
+
+Paradise Fossil Plant (owner, Tennessee Valley Authority) in district.
+
+•	 No	mercury	controls.
+
+There are 5 other coal-fired power plants within 100 miles of District 1.
+
+Impact Annually of These Three Coal Plants6
+
+•	 Deaths:	186
+•	 Heart Attacks:	283
+•	 Asthma Attacks:	3,060
+•	 Hospital Admissions:	132
+•	 Chronic Bronchitis:	112
+•	 Asthma ER Visits:	186
+
+Yearly Costs: $1,443,898,0006
+
+Coal Polluters Support Representative Whitfield
+
+Fossil fuel industry has given Whitfield $426,447 since the 1998 election season. Major coal donors include National Rural
+Electric Cooperative Association ($45,896), American Electric Power ($23,500), and Southern Company ($23,000).7
+
+Whitfield Represents Coal Polluters
+
+Whitfield voted to stop EPA from reducing mercury and other toxic air pollution from cement plants.12
+
+He is leading Coal Caucus members who are threatening with a bill to strip EPA’s budget to reduce mercury pollution from
+coal-fired power plants.14
+
+Whitfield cosponsored and voted yes on a bill to keep EPA from making coal companies reduce global warming pollution.2
+
+Whitfield asked EPA not to treat coal ash as hazardous.19 He is cosponsoring a bill Coal Caucus members are pushing to
+strip EPA’s budget to develop any protections from coal ash.3 Whitfield voted for a similar amendment in the budget bill
+earlier this year.12
+
+Whitfield voted three times in support of coal-industry amendments on mountaintop removal mining.15
+
+Jobs to Produce Power in Kentucky
+
+Wind and Solar: 81513,18
+Coal: 2,9724
+
+page 19
+
+Endnotes
+
+1) “American Coal Council: Congressional Coal Caucus.”
+American Coal Council, 17 Mar 2011. Web. 10 Jun
+2011. http://www.americancoalcouncil.org/
+displaycommon.cfm?an=1&subarticlenbr=150.
+
+2) “Bill Summary & Status - 112th Congress
+
+(2011-2012) H.R. 910 All Information.” THOMAS.
+Library of Congress, 15 June 2011. Web. 21 Jun
+2011. http://thomas.loc.gov/cgi-bin/bdquery/
+z?d112:HR00910:@@@L&summ2=m&.
+
+3) “Bill Summary & Status - 112th Congress (2011-
+2012) H.R. 1391 All Information.” THOMAS.
+Library of Congress, 15 June 2011. Web. 21 Jun
+2011. http://thomas.loc.gov/cgi-bin/bdquery/
+z?d112:HR01391:@@@L&summ2=m&.
+
+4) “Coal and Jobs in the United States.” SourceWatch,
+2011. Web. 22 Jun 2011. http://sourcewatch.org/
+index.php?title=Coal_and_jobs_in_the_United_
+States.
+
+5) “Committee Members - House Committee on
+
+Natural Resources.” House Committee on Natural
+Resources. N.p., 2011. Web. 23 Jun 2011. http://
+naturalresources.house.gov/About/Members.htm.
+
+6) “Death and Disease from Power Plants.” Clean Air Task
+Force, Sep 2010. Web. 21 Jun 2011. http://www.catf.
+us/coal/problems/power_plants/existing/.
+
+7) Dirty Energy Money. Oil Change International, 26 May
+2011. Web. 10 June 2011. http://dirtyenergymoney.
+com/.
+
+8) Epstein, Paul. “Full cost accounting for the lifecycle of
+coal.” Annals of the New York Academy of Sciences.
+1219. (2011): 73–98. Print.
+
+9)”Geothermal Energy and Jobs.” Geothermal Energy
+
+Association. GEA, 07 Aug 2009. Web. 22 Jun 2011.
+http://geo-energy.org/pdf/Geothermal_Energy_
+and_Jobs_Issue_Brief.pdf.
+
+13) “National Solar Jobs Census 2010.” The Solar
+Foundation. TSF, Oct 2010. Web. 22 Jun 2011.
+http://www.thesolarfoundation.org/sites/
+thesolarfoundation.org/files/Final%20TSF%20
+National%20Solar%20Jobs%20Censu%20
+2010%20Web%20Version.pdf.
+
+24) Sieff, Kevin. “Energy industry shapes lessons in
+public schools.” Washington Post. Washington
+Post, 09 June 2011. Web. 27 Jun 2011. http://
+www.washingtonpost.com/local/education/
+energy-industry-shapes-lessons-in-public-
+schools/2011/05/25/AGRaXYHH_story.html.
+
+14) Nelson, Gabriel. “Utility Groups Trade Blows on new
+
+Quotes
+
+EPA Emissions Rules.” The New York Times - Breaking
+News, World News, & Multimedia. New York Times, 08
+June 2011. Web. 22 Jun 2011. http://www.nytimes.
+com/gwire/2011/06/08/08greenwire-utilty-
+groups-trade-blows-on-new-epa-emission-87246.
+html?scp=1&sq=whitfield%20mercury&st=cse.
+
+15) Randolph, J.W. “House Passes Dangerous Budget in
+the Dark of Night.” Appalachian Voices. Appalachian
+Voices, 21 Feb 2011. Web. 21 Jun 2011. http://
+appvoices.org/2011/02/21/housebudgetvotes/.
+
+16) Restuccia, Andrew, and Ben Geman. “Overnight
+
+Energy: Reg-review battle reaches Capitol Hill.” TheHill.
+com. The Hill, 02 June 2011. Web. 21 Jun 2011. http://
+thehill.com/blogs/e2-wire/677-e2-wire/164501-
+overnight-energy-.
+
+17) Sams, Charles E. “Methylmercury Contamination:
+
+Impacts on Aquatic Sytems and Terrestrial Species, and
+Insights for Abatement.” US Forest Service - Caring for
+the land and serving people. USFS, 2007. Web. 22 Jun
+2011. http://www.fs.fed.us/air/documents/Sams.
+pdf.
+
+18)”State Fact Sheets.” American Wind Energy Association
+
+www.awea.org. AWEA, Apr 2011. Web. 10 Jun
+2011. http://awea.org/learnabout/publications/
+factsheets/factsheets_state.cfm.
+
+19) Sturgis, Sue. “Congressional coal ash defenders ignore
+
+damages back home.” Grist: Environmental News,
+Commentary, Advice. Grist, 25 Jan 2010. Web. 21 Jun
+2011. http://www.grist.org/article/congressional-
+coal-ash-defenders-ignore-damages-back-home.
+
+Altmire: Chemnick, Jean. “LCV ad campaign targets 4
+
+anti-EPA lawmakers.” E&E News. 18 Apr 2011. Print.
+
+Bachmann: http://www.newsmax.com/
+
+InsideCover/bachmann-newsmax-interview-
+romney/2011/06/26/id/401507
+
+Cantor: http://www.majorityleader.gov/newsroom/
+seven/congressman-cantor-oped-energy-
+solutions-are-all-around-us.html
+
+Costello: http://costello.house.gov/bio.shtml
+
+Critz: http://critz.house.gov/about/biography.shtml
+
+Emerson: http://emerson.house.gov/index.
+
+php?option=com_content&view=article&id=4230
+&Itemid=400314
+
+Hastings: http://hastings.house.gov/Issues/
+
+Issue/?IssueID=14785
+
+Johnson: http://www.billjohnsonleads.com/issues.html
+
+Matheson: http://matheson.house.gov/
+
+iss_environment.shtml
+
+Murphy: http://plum-oakmont.patch.com/articles/
+regions-unemployment-rates-fare-better-than-
+national-average
+
+Pearce: http://www.eenews.net/ll/sample/print/3
+
+Rogers: http://mikerogers.house.gov/Biography/
+
+Tiberi: http://tiberi.house.gov/News/DocumentSingle.
+
+aspx?DocumentID=221339
+
+Upton: http://www.politico.com/news/
+
+stories/0411/52707_Page2.html#ixzz1QD5MbwRl
+
+Whitfield’s: http://www.frumforum.com/clean-air-act-
+
+10) Hammerschmidt, Chad, and William Fitzgerald.
+“Methylmercury in Freshwater Fish Linked to
+Atmospheric Mercury Deposition.” Environment,
+Science, and Technology. 40.26 (2006): 7764–7770.
+Print.
+
+20) “Subcommittees.” U.S. House of Representatives:
+Committee on Energy and Commerce, Republicans.
+N.p., 2011. Web. 23 Jun 2011. http://
+energycommerce.house.gov/subcomms/
+subcommittees.shtml.
+
+11) “National Environmental Scorecard 2010: Second
+
+Session of the 111th Congress.” League of Conservation
+Votes: Turning Environmental Values into National
+Priorities. LCV, 17 Feb 2011. Web. 10 Jun 2011.
+http://www.lcv.org/2010-National-Environmental-
+Scorecard.pdf.
+
+12) “National Environmental Scorecard: U.S. House of
+
+Representatives, Continuing Resolution Special Edition.”
+League of Conservation Votes: Turning Environmental
+Values into National Priorities. LCV, Feb 2011. Web. 10
+Jun 2011. http://www.lcv.org/LCV-Special-Edition-
+Scorecard.pdf.
+
+21) “The Clean Energy Economy: Repowering Jobs,
+
+under-attack
+
+Other photos © US Gov
+
+Businesses, and Investments Across America.” Pew
+Center on the States, Research and State Policy
+Initiatives. Pew Center on the States, June 2009. Web.
+10 Jun 2011. http://www.pewcenteronthestates.
+org/uploadedFiles/Clean_Economy_Report_Web.
+pdf.
+
+22) “The Committee.” U.S. House of Representatives:
+Committee on Energy and Commerce, Republicans.
+N.p., 2011. Web. 23 Jun 2011. http://
+energycommerce.house.gov/about/members.shtml.
+
+23)Ventyx, 2011.
+
+page 20
+

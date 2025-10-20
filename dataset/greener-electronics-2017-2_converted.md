@@ -1,0 +1,4864 @@
+Guide to Greener
+Electronics
+
+2 0 1 7   CO M PA N Y   R E P O RT   C A R D
+
+Contents
+
+||   Methodology    .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+
+||   Overall Grades   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+
+|+  Renewable Energy & Climate Change   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+
+|+ Sustainable Design & Resource Reduction    .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+
+|+ Hazardous Chemical Elimination: Products & Supply Chain   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+
+||   Company Report Cards   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+
+|+   Acer    .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+
+|+   Amazon   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+
+|+  Apple    .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+
+|+   Asus   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+
+|+   Dell   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+
+|+   Fairphone   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+
+|+  Google    .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+
+|+   HP   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+
+|+   Huawei    .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+
+|+   Lenovo   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+
+|+  LG   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+
+|+   Microsoft   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+
+|+   Oppo    .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+
+|+   Samsung   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+
+|+  Sony   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+
+|+   Vivo    .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+
+|+   Xiaomi   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+
+ 3
+
+ 6
+
+ 7
+
+ 8
+
+ 9
+
+ 10
+
+ 10
+
+ 13
+
+ 16
+
+ 20
+
+ 23
+
+ 26
+
+ 29
+
+ 32
+
+ 36
+
+ 39
+
+ 42
+
+ 45
+
+ 48
+
+ 50
+
+ 53
+
+ 56
+
+ 58
+
+GREE NPEACE GUIDE TO GREEN ER ELECTRONI CS  – 2 01 7 COM PAN Y REP ORT CARD  |  2
+
+AU THO RS
+
+Gary Cook
+
+Elizabeth Jardim
+
+WITH RESEARCH  BY
+
+Eric Lau
+
+An Lee
+
+Insung Lee
+
+Ruiqi (Angel) Ye
+
+Iza Kruszewska
+
+Madeleine Cobbing
+
+DESIG NED BY
+
+Alyssa Hardbower
+
+PUBL ISHED
+
+October 17, 2017
+
+Greenpeace Inc.
+
+702 H Street, NW, STE 300,
+Washington, D.C. 20001
+
+Methodology
+
+TO EVALUATE COMPANIES in the Guide, Greenpeace
+uses publicly available information from each company,
+including corporate communications and CSR reports, public
+submissions to stakeholders and reporting bodies, as well as
+media coverage . Of the 17 companies included, Greenpeace
+engaged with 14 directly in preparing our assessments .
+Companies we did not meet with were Oppo, Vivo and
+Xiaomi, who declined to share or discuss information on their
+environmental performance .
+
+For the 19th version of the Guide, overall grades awarded
+to each company are derived by an equal weighting of the
+impact area grades (⅓ each) . Impact area grades are derived
+by the following weighting of criteria: Transparency (30%),
+Commitment (30%), Performance (30%), and Advocacy (10%) .
+For companies where no positive or negative advocacy is
+identified in the 18 months prior to the publication of the
+Guide, impact area grades will be derived by equal weighting
+of Transparency, Commitment, and Performance .
+
+Renewable Energy & Climate Change
+
+TRANSPARENCY
+Companies are evaluated on the scope and level of detail made
+publicly available on the greenhouse gas emissions and energy
+consumption of their own operations, as well as that of their
+product supply chain . Public information includes information
+from a company’s website, annual reports, submissions to
+regulatory agencies or information clearinghouses such as
+CDP . In addition to detailed reporting of its scope 1, 2, and 3
+(products, goods and services), energy, and greenhouse gas
+footprint, high-scoring companies will have published their
+suppliers, their respective tiers and what they are supplying,
+and an indication of how much they have contributed to the
+brand’s energy footprint .
+
+COMMITMENT
+Companies are assessed on the strength of their commitment to
+powering their own operations and product supply chain with
+renewable energy . High-scoring companies will demonstrate:
+
+|| Adoption of a long-term goal of 100% renewable
+energy, covering both its own operations and its
+product supply chain;
+
+|| Adoption of near-term greenhouse gas targets or
+
+measurable renewable energy goals;
+
+|| Renewable energy procurement guidelines that prioritize
+high-impact methods of powering with renewables that
+demonstrate additionality, proximity to demand, and
+
+sustainability, as opposed to purchase of unbundled
+renewable energy credits or carbon offsets .
+
+|| A clean energy siting policy to prioritize access to
+
+renewable energy for its own operations, informing
+the selection of suppliers who themselves are pursuing
+renewable energy as a source of electricity and
+discriminating against coal and nuclear power to meet
+infrastructure electricity demand .
+
+PERFORMANCE
+Companies are assessed on the strength of their measurable
+progress in reducing their greenhouse gas emissions and
+use of renewable energy to power their own operations and
+their supply chain . In reporting their renewable procurement,
+companies should follow the required and recommended
+disclosures established in the recently adopted Scope 2
+Guidance of the Greenhouse Gas Protocol, which established
+clear reporting requirements for reporting market-based
+purchasing of renewable electricity . High-scoring companies
+also demonstrate:
+
+|| Efforts directly made by them or by their suppliers to
+
+meet electricity demand with the direct installation of
+renewable energy, and reduction of emissions through
+higher efficiency .
+
+|| Efforts directly made by them or their suppliers to meet
+their electricity demand through the deployment of
+additional renewable energy capacity through long-term
+Power Purchase Agreements or in partnership with local or
+community renewable energy developers or utilities .
+
+|| Efforts to select suppliers on the basis of their ability to
+manufacture and assemble the company’s devices with
+facilities powered by renewable energy .
+
+|| Support or incentives offered to suppliers who are able to
+reduce their reliance on fossil fuels by transitioning their
+operations to renewable energy
+
+ADVOCACY
+Companies are evaluated on actions taken to advocate for
+ambitious policies at all levels of government that encourage
+wide-scale renewable energy generation and use . High-
+scoring companies also demonstrate:
+
+|| Top level advocacy with the national/regional
+
+policymakers for policies that result in greater access to
+renewable energy or greater amounts of renewable energy
+connected to the grid .
+
+|| Proactive advocacy with utilities for more access or for
+
+grid-wide investment in renewable energy .
+
+GREE NPEACE GUIDE TO GREEN ER ELECTRONI CS  – 2 01 7 COM PAN Y REP ORT CARD  |  3
+
+|| Proactive advocacy with companies in their supply chain to
+transition the supplier’s operations to renewable energy .
+
+|| Device design and development of supply chain to deliver
+multiple materials from secondary or closed-loop sources .
+
+Companies that are confirmed to have lobbied against
+renewable energy or climate policies in the past 18 months,
+either directly or through their membership in an industry
+association, will be appropriately penalized .
+
+Sustainable Design
+and Resource Reduction
+
+TRANSPARENCY
+Companies are assessed on the scope and level of detail
+made publicly available on the amount and source of material
+resources used to manufacture their major product lines
+of personal electronic devices . Public information includes
+information from a company’s website, annual reports, product
+lifecycle analyses, public research assessments and submissions
+to regulatory agencies such as the SEC (for conflict mineral
+sourcing information) . High-scoring companies will include:
+
+|| Deployment of product takeback system across all
+
+markets of sales .
+
+PERFORMANCE (EXTENDING PRODUCT LIFESPANS)
+Companies are assessed on whether their policies, product
+design, and customer support are oriented toward extending
+the useful life of their devices, thus slowing consumption of
+energy, resources, and other impacts in the supply chain .
+High-performing companies will show evidence of:
+
+|| Product design of their personal computing devices that
+
+enables the public to repair and maintain their device for a
+longer useful life .
+
+|| Publishing repair information and making spare parts
+
+accessible to customers in all sales markets .
+
+|| Product design and offering of components that allow
+
+users to upgrade their device to enable longer useful life .
+
+|| Offering refurbished products for sale in both developing
+
+|| Details on overall material use and the use of material from
+
+and mature markets .
+
+secondary sources .
+
+|| Disclosure of smelter list for conflict minerals, including
+information on due diligence efforts and certification
+compliance .
+
+|| Reporting on amount of material recovered through
+
+company takeback programs and its ultimate disposition,
+including utilization of closed-loop material flows .
+
+COMMITMENT
+Companies are assessed on the strength of their commitment
+both to transition their lines of personal computing devices to
+closed-loop and secondary sources of materials and to extend
+product lifespan and material recovery at end of life . High-
+scoring company commitments will include:
+
+|| Long-term commitment to secure 100% or high percentage
+of material flows from closed-loop or secondary sources .
+
+|| Near-term secondary materials targets for high-impact
+
+or priority materials
+
+PERFORMANCE (CIRCULAR PRODUCTION)
+Companies are assessed on their progress and corresponding
+plan to reduce consumption of virgin resources through the
+development of secondary material or closed-loop supply
+chains, including disposition of their products at end of life, as
+well as level of due diligence of efforts to secure minerals from
+sources that are not contributing to human rights abuses,
+such as armed conflict and child or slave labor . Evidence of
+progress by high performing companies will include:
+
+|| Publication of prioritized plan for which materials are
+
+important to transition to secondary or closed-loop sources .
+
+ADVOCACY
+Companies are evaluated on actions taken to advocate for
+ambitious policies at all levels of government that directly or
+indirectly support the reduction of virgin material resources
+in the electronic sector . High-scoring companies will have:
+
+|| Engaged in top-level advocacy with the national/regional
+
+policymakers for “right to repair” policies that increase the
+public’s right to access repair information and spare parts
+for devices .
+
+|| Support for certification or ecolabel standards that
+
+incentivize device product design that enables devices
+to be repaired .
+
+Companies that are confirmed to have lobbied against repair
+or recycling legislation or standards in the past 18 months,
+either directly or through their membership in an industry
+association, will be appropriately penalized .
+
+Hazardous Chemical Elimination:
+Products and Supply Chain
+
+TRANSPARENCY
+Companies are assessed on their publication of their efforts
+to reduce hazardous chemicals in both personal electronic
+devices and also manufacturing process chemicals within
+supplier factories . Leading companies will be able to show:
+
+|| Publication of the company’s combined restricted
+
+substances list (product and manufacturing, also referred to
+as PRSL and MRSL) with strict thresholds for each chemical .
+
+GREE NPEACE GUIDE TO GREEN ER ELECTRONI CS  – 2 01 7 COM PAN Y REP ORT CARD  |  4
+
+|| Details of additional due diligence efforts, beyond supplier
+audits and corrective action resolution, to prevent worker
+health and safety hazards .
+
+ADVOCACY
+Companies are evaluated on their efforts to drive greater
+transparency on chemical use, hazardous chemical
+elimination and substitution at all levels of government and
+within the sector . Examples include:
+
+|| Support precautionary no-data, no-market REACH-style
+
+chemical regulations .
+
+|| Lobby for a global, publically available substitution
+case study database which uses comprehensive and
+precautionary hazards screening, i .e ., GreenScreen .
+
+|| Motivate chemical suppliers and formulators to provide
+greater transparency on ingredients and invest in non-
+hazardous chemicals or alternative solutions .
+
+|| Participation in working group effort with explicit goal to
+eliminate hazardous exposures for workers in electronics
+supply chain, i .e ., clean electronics production network .
+
+Companies that are confirmed to have lobbied against
+stronger standards or legislation to eliminate the use of
+hazardous chemicals in IT products or in the manufacturing
+process in the sector in the past 18 months, either directly or
+through their membership in an industry association will be
+appropriately penalized .
+
+Key
+
+Throughout the Guide to Greener
+Electronics the following color and
+letter scale is used:
+
+BEST
+
+  ↓
+
+WORST
+
+A  grades are green
+
+B  grades are olive
+
+C  grades are yellow
+
+D  grades are orange
+
+F  grades are red
+
+|| Publication of the main suppliers involved in the
+
+manufacturing of personal electronic devices or their
+main components, including services provided to brand
+company and facility locations .
+
+|| Publication of annual aggregate findings of brand-
+
+conducted supplier audits (annual EICC code violations
+findings), with preference to companies which provide
+further details on findings beyond type of code violation
+and frequency .
+
+COMMITMENT
+Companies are assessed on their commitment to identify
+and eliminate hazardous chemicals from both their products
+and their supply chain . High-scoring company commitments
+will include:
+
+|| Commitment with ambitious near-term timeline to
+
+eliminate hazardous chemicals, for example: PVC, BFRs,
+beryllium, antimony trioxide, phthalates, in products .
+
+|| Roadmap and ambitious timeline to eliminate priority
+
+groups of hazardous chemicals from manufacturing process,
+including a) long-term objective for elimination of all
+hazardous chemicals, b) fast-track elimination (1-3 year) of
+relevant sub-groups of chemicals on the Combined RSL for
+community and worker health, e .g . specific volatile organic
+compounds (VOCs) .
+
+|| Commitment to protect workers from harmful exposures
+by instituting comprehensive monitoring, disclosure of
+monitoring results to workers in a detailed, timely manner,
+and participatory training and capacity building for all
+workers and managers potentially exposed to hazardous
+chemicals, and grievance mechanisms with protection
+against retaliation .
+
+PERFORMANCE
+Companies are assessed on their progress of delivering
+commitments to eliminate priority groups of hazardous
+chemicals (as outlined in commitment) for products and
+manufacturing supply chain . High-performing companies
+will show evidence of:
+
+|| Progress in product hazardous chemical elimination
+
+including the completion of elimination of BFRs and PVC,
+and progress on beryllium, antimony trioxide, phthalates
+across all consumer electronics products, parts and
+accessories .
+
+|| Progress on manufacturing hazardous chemical elimination
+including demonstrated efforts to track process chemicals
+being used in the manufacture of brands’ products as well
+as strict restrictions or bans on known hazards, such as
+benzene, n-hexane, VOCs, toluene, and others .
+
+|| Details of efforts to screen for hazardous chemicals and
+
+identify green chemical substitutes .
+
+GREE NPEACE GUIDE TO GREEN ER ELECTRONI CS  – 2 01 7 COM PAN Y REP ORT CARD  |  5
+
+Overall Grades
+
+ENERGY
+
+RESOURCES
+
+CHEMICALS
+
+B
+
+B-
+
+C+
+
+C+
+
+C-
+
+C-
+
+D+
+
+D+
+
+D+
+
+D+
+
+D
+
+D
+
+D-
+
+F
+
+F
+
+F
+
+F
+
+B
+
+A-
+
+C+
+
+B
+
+C
+
+D+
+
+C-
+
+D
+
+C-
+
+C-
+
+D
+
+D
+
+D
+
+D
+
+F
+
+F
+
+F
+
+A-
+
+C
+
+B-
+
+B-
+
+C
+
+D+
+
+C-
+
+C-
+
+C-
+
+D
+
+D+
+
+D
+
+D
+
+D-
+
+F
+
+F
+
+F
+
+B-
+
+B
+
+C+
+
+C+
+
+D
+
+C
+
+D
+
+D+
+
+D
+
+C-
+
+D
+
+D+
+
+D-
+
+F
+
+F
+
+F
+
+F
+
+GREE NPEACE GUIDE TO GREEN ER ELECTRONI CS  – 2 01 7 COM PAN Y REP ORT CARD  |  6
+
+Renewable Energy
+& Climate Change
+
+TRANSPARENCY
+
+COMMITMENT
+
+PERFORMANCE
+
+ADVOCACY
+
+APPLE
+
+HP
+
+FAIRPHONE
+
+DELL
+
+LENOVO
+
+GOOGLE
+
+SONY
+
+ACER
+
+MICROSOFT
+
+LG
+
+SAMSUNG
+
+AMAZON
+
+ASUS
+
+HUAWEI
+
+OPPO
+
+VIVO
+
+XIAOMI
+
+A-
+
+B
+
+B
+
+C+
+
+C
+
+C-
+
+C-
+
+C-
+
+D+
+
+D
+
+D
+
+D
+
+D
+
+D
+
+F
+
+F
+
+F
+
+B
+
+B
+
+A
+
+B
+
+C
+
+D
+
+C
+
+C
+
+C
+
+D
+
+D
+
+F
+
+D
+
+D
+
+F
+
+F
+
+F
+
+A
+
+B
+
+C
+
+C
+
+C
+
+C
+
+C
+
+D
+
+D
+
+D
+
+D
+
+D
+
+D
+
+D
+
+F
+
+F
+
+F
+
+A
+
+B
+
+B
+
+B
+
+C
+
+C
+
+D
+
+C
+
+D
+
+D
+
+D
+
+C
+
+D
+
+D
+
+F
+
+F
+
+F
+
+A
+
+B
+
+–
+
+D
+
+C
+
+A
+
+B
+
+C
+
+A
+
+–
+
+–
+
+B
+
+–
+
+–
+
+–
+
+–
+
+–
+
+GREE NPEACE GUIDE TO GREEN ER ELECTRONI CS  – 2 01 7 COM PAN Y REP ORT CARD  |  7
+
+Sustainable Design
+& Resource Reduction
+
+FAIRPHONE
+
+DELL
+
+HP
+
+APPLE
+
+LENOVO
+
+ACER
+
+LG
+
+SONY
+
+MICROSOFT
+
+HUAWEI
+
+GOOGLE
+
+ASUS
+
+SAMSUNG
+
+AMAZON
+
+XIAOMI
+
+OPPO
+
+VIVO
+
+A-
+
+B-
+
+B-
+
+C
+
+C
+
+C-
+
+C-
+
+C-
+
+D+
+
+D+
+
+D
+
+D
+
+D
+
+D-
+
+F
+
+F
+
+F
+
+T
+R
+A
+N
+S
+P
+A
+R
+E
+N
+C
+Y
+
+A
+
+B
+
+B
+
+B
+
+B
+
+C
+
+C
+
+B
+
+C
+
+D
+
+D
+
+D
+
+C
+
+D
+
+F
+
+F
+
+F
+
+C
+O
+M
+M
+
+I
+T
+M
+E
+N
+T
+
+A
+
+C
+
+C
+
+B
+
+D
+
+D
+
+D
+
+D
+
+D
+
+D
+
+D
+
+D
+
+F
+
+F
+
+F
+
+F
+
+F
+
+P
+r
+o
+d
+u
+c
+t
+i
+o
+n
+
+C
+i
+r
+c
+u
+a
+r
+
+l
+
+P
+E
+R
+F
+O
+R
+M
+A
+N
+C
+E
+
+E
+x
+t
+e
+n
+s
+i
+o
+n
+
+P
+r
+o
+d
+u
+c
+t
+L
+i
+f
+e
+
+P
+E
+R
+F
+O
+R
+M
+A
+N
+C
+E
+
+B
+
+B
+
+B
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+D
+
+D
+
+D
+
+F
+
+F
+
+A
+
+A
+
+A
+
+D
+
+C
+
+C
+
+C
+
+D
+
+D
+
+D
+
+D
+
+D
+
+D
+
+D
+
+D
+
+D
+
+D
+
+A
+D
+V
+O
+C
+A
+C
+Y
+
+A
+
+C
+
+C
+
+F
+
+B
+
+–
+
+–
+
+–
+
+D
+
+B
+
+D
+
+–
+
+D
+
+D
+
+–
+
+–
+
+–
+
+GREE NPEACE GUIDE TO GREEN ER ELECTRONI CS  – 2 01 7 COM PAN Y REP ORT CARD  |  8
+
+Hazardous Chemical
+Elimination: Products
+& Supply Chain
+
+TRANSPARENCY
+
+COMMITMENT
+
+PERFORMANCE
+
+ADVOCACY
+
+APPLE
+
+FAIRPHONE
+
+DELL
+
+HP
+
+MICROSOFT
+
+GOOGLE
+
+LG
+
+ASUS
+
+LENOVO
+
+HUAWEI
+
+SONY
+
+ACER
+
+SAMSUNG
+
+AMAZON
+
+OPPO
+
+VIVO
+
+XIAOMI
+
+B
+
+B-
+
+C+
+
+C+
+
+C
+
+C-
+
+D+
+
+D+
+
+D
+
+D
+
+D
+
+D
+
+D-
+
+F
+
+F
+
+F
+
+F
+
+B
+
+C
+
+B
+
+B
+
+B
+
+D
+
+D
+
+C
+
+D
+
+D
+
+D
+
+D
+
+D
+
+F
+
+F
+
+F
+
+F
+
+B
+
+B
+
+C
+
+C
+
+D
+
+C
+
+D
+
+D
+
+D
+
+D
+
+D
+
+D
+
+D
+
+F
+
+F
+
+F
+
+F
+
+B
+
+B
+
+C
+
+C
+
+C
+
+C
+
+C
+
+D
+
+D
+
+D
+
+D
+
+D
+
+D
+
+F
+
+F
+
+F
+
+F
+
+B
+
+B
+
+B
+
+B
+
+–
+
+–
+
+B
+
+–
+
+–
+
+B
+
+–
+
+–
+
+D-
+
+–
+
+–
+
+–
+
+–
+
+GREE NPEACE GUIDE TO GREEN ER ELECTRONI CS  – 2 01 7 COM PAN Y REP ORT CARD  |  9
+
+D+
+
+Acer
+
+Acer is one of two Taiwanese manufacturers in this year’s Guide . The company sells
+smartphones, tablets, PCs and other products around the world . Acer has room for
+improvement in all three impact areas assessed . Acer has begun to measure emissions
+beyond just its own operations; however, to really lead on energy, the company must
+set ambitious targets to power its own operations and the manufacturing of its products
+with renewable energy . On designing products to reduce overall resource consumption,
+here too, Acer needs to set more ambitious targets to use more than just recycled plastic
+in a few product lines . Acer has unfortunately stalled in meeting its commitment to
+phase out PVC and BFRs from all products, and has yet to set any targets to manage
+supply chain chemicals applied to manufacturing processes in an effort to protect
+worker health and safety .
+
+Renewable Energy & Climate Change
+
+TRANSPARENCY.  Acer reports energy consumption data for its own operations in its sustainability report,
+including information about “green electricity”; however, Acer does not disclose what portion of this energy is
+actual renewables versus credits .1 Acer reports its scope 1 and 2 greenhouse gas emissions, as well as some scope
+3 emissions for 13 main product lines .2 Acer participates in CDP’s supply chain program and requests that its
+suppliers also report to CDP; however, unlike other companies, Acer does not make its CDP reports public . Acer
+only published product carbon footprint data for one laptop . Acer does not disclose its manufacturing suppliers .
+
+COM MIT MENT.  Acer has set a GHG emission reduction target of 60% by 2020, compared to 2009 baseline .
+This target does not appear to include its supply chain . Acer has also set a long-term goal to increase “green
+electricity” use by 50% with no deadline, and the majority of Acer’s green electricity use thus far is via the
+purchase of renewable energy credits . In terms of supplier engagement, Acer has set a goal that 80% of its
+suppliers will set carbon reduction targets with CDP in 2017 .
+
+PERFO RM ANC E. Acer reported its 2016 GHG emissions to be 53% less than its 2009 baseline (pg 77, 2016/17
+CSR report) . Acer achieved these reductions largely through energy efficiency programs and the purchasing of RECs .
+Taiwan is the only region Acer reports to use energy from solar and wind sources . For Acer’s operations in the US,
+Canada, Germany, Spain, Malaysia and Thailand Acer purchases RECs . Acer reported that in 2016, 86% of its suppliers
+reported scope 1 and 2 emissions data to CDP, and that 75% of its suppliers had set emission reduction targets,
+though no details are available .
+
+ADVOC ACY.  Acer signed the American Business Act on Climate Pledge in the lead up to the Paris Agreement to
+support a strong global agreement .3
+
+C-
+
+C
+
+D
+
+C
+
+C
+
+GREE NPEACE GUIDE TO GREEN ER ELECTRONI CS  – 2 01 7 COM PAN Y REPORT CARD  |  10
+
+Sustainable Design & Resource Reduction
+
+TRANSPARENCY.  Acer reports that a limited number of its products use post-consumer recycled plastic and
+also reports on over volume of recycled plastic used in 2016 .4 Acer publishes material composition data for its
+products . Acer does publish results of its take-back efforts in Taiwan, US and Japan on an annual basis (pg 75-76) .
+Acer discloses its smelters for 3TG minerals, as well as its due diligence efforts to avoid sourcing these minerals
+from conflict sources .5
+
+CO MMITMENT.  Acer has no specific commitments to increase the use of recycled materials in its products,
+just that it “actively strive[s] to use post-consumer recycled plastics (PCR) in products .”6 In 2017, Acer plans
+to launch a new case that is 40% smaller than old cases, thus reducing the amount of metal and plastic used,
+though details are unclear .
+
+PERFORMANCE: CIRCULAR PROD UCTI ON . Acer’s efforts to reduce resource consumption are very
+limited . The company uses some amount of PCR plastic in two product lines: the All-in-One series and Display
+Unit models . Acer’s take-back efforts seem to extend beyond regions where required by law . 7
+
+PERFORMANCE: PRODUCT LIFE  EXTEN SI ON .  Service manuals for many Acer products are made
+publicly available and spare parts can also be purchased for some products .8
+
+ADVOCACY.  No evidence found of positive or negative advocacy .
+
+C-
+
+C
+
+D
+
+C
+
+C
+
+–
+
+Hazardous Chemical Elimination: Products & Supply Chain D
+
+TRANSPARENCY.  Acer does not publish its supplier list . Acer does publish a basic restricted substances list
+which includes threshold levels, and Acer also publishes a list of substances suppliers are expected to disclose
+to Acer if they are using them .9 Acer does not publish any information about process chemicals management at
+the moment, but the company has set this issue as a target for 2017 and is working this year on drafting a list of
+restricted process chemicals for suppliers making Acer products .10
+
+COM MIT MENT. Acer has yet to deliver on its 2009 commitment to advance the production of notebooks,
+desktops, and smartphones that do not include PVC and BFRs . Now, on its website, Acer acknowledges it has a
+Hazardous Substance Free (HSF) plan for PVC, BFR and phthalates . However, this plan does not include a timeline
+or roadmap .11 Acer makes no reference to commitments to protect workers from harmful exposures to chemicals .
+
+PERFO RM ANC E. So far, Acer has phased out PVC and BFRs from several product lines with the exception
+of power cords and other accessories . There are no plans with timelines for when this work will extend to all
+products . Beyond following the legal requirements of RoHS and REACH, Acer has set restrictions on just BFRs
+and phthalates . For other chemicals of concern including PVC, beryllium, antimony, and arsenic Acer asks
+that suppliers disclose to Acer that they are being used .12 Acer has not set any public restrictions to manage
+workplace chemicals in its supply chain .
+
+ADVOC ACY. No evidence found of positive or negative advocacy .
+
+D
+
+D
+
+D
+
+–
+
+GREE NPEACE GUIDE TO GREEN ER ELECTRONI CS  – 2 01 7 COM PAN Y REPORT CARD  |  11
+
+ENDNOTES
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+https://static.acer.com/up/Resource/AcerGroup/Sustainability/Reports_
+Certificates/20170614/2016_corporate_responsibility_report.pdf
+
+p . 81 .
+
+Page 78
+
+http://www.prweb.com/releases/2015/12/prweb13109103.htm
+
+https://www.acer-group.com/ag/en/TW/content/our-products-
+environment
+
+http://static.acer.com/up/Resource/AcerGroup/Sustainability/Supply_
+Chain/Our_Supply_Chain/20170627/responsible-sourcing-minerals_
+conflict_minerals_2016.pdf
+
+https://www.acer-group.com/ag/en/TW/content/our-products-
+environment
+
+https://www.acer-group.com/ag/en/TW/content/our-products-
+environment#product-recycling
+
+http://www.nodevice.com/manual/acer/page14.html,
+
+http://www.acerspareparts.co.uk/
+
+9
+
+http://static.acer.com/up/Resource/AcerGroup/Sustainability/
+Environment/Our_Products_Environment/20170406/chemical-
+management-plans_restricted_substances.pdf,
+
+http://static.acer.com/up/Resource/AcerGroup/Sustainability/
+Environment/Our_Products_Environment/20170406/chemical-
+management-plans_restricted_substances_disclosure_substances.pdf
+
+10
+
+https://static.acer.com/up/Resource/AcerGroup/Sustainability/Reports_
+Certificates/20170614/2016_corporate_responsibility_report.pdf
+
+p . 27, 71 .
+
+11
+
+12
+
+https://www.acer-group.com/ag/en/TW/content/our-products-
+environment#chemical-management-plans
+
+http://static.acer.com/up/Resource/AcerGroup/Sustainability/
+Environment/Our_Products_Environment/20170406/chemical-
+management-plans_restricted_substances_disclosure_substances.pdf
+
+GREE NPEACE GUIDE TO GREEN ER ELECTRONI CS  – 2 01 7 COM PAN Y REPORT CARD  |  12
+
+F
+
+Amazon
+
+In addition to its reputation as one of the world’s largest online retailers, through its Kindle
+e-readers and Fire tablets, Amazon is also the third-largest seller of tablet computers in
+the world .1 With the recent success of the Amazon Echo, Amazon is leading the rapidly
+expanding smart speaker market as well . Unfortunately, Amazon remains one of the least
+transparent companies in the world in terms of its environmental performance, as it still
+refuses to report the greenhouse gas footprint of its own operations, a failure that is drawing
+the attention of its investors .2 Amazon provides few details beyond what is legally required
+on its sourcing of materials that are going into its devices, nor does it publish any restrictions
+on hazardous chemicals in its devices or being used in its supply chain as other leading
+electronics brands provide . However, similar to its cloud computing division Amazon Web
+Services, Amazon has begun to purchase renewable energy at significant scale in the United
+States, and is deploying solar on its distribution centers . Amazon has also emerged as one of
+the leaders within the sector in pushing for stronger climate and renewable energy policy .
+
+Renewable Energy & Climate Change
+
+TRANSPARENCY.  Amazon is one of only three companies in the Guide that publishes neither an accounting of its
+energy or GHG footprint at the corporate level, nor the supply chain energy footprint associated with manufacturing
+of its electronic devices . Amazon also does not report any product level energy performance data as Apple, HP,
+Dell, and many others do . While Amazon has recently begun to report details of its renewable energy procurement
+and claim the percentage of its operations that are renewably powered, it remains impossible to properly assess its
+efforts and trajectory of its emissions growth as there is no indication of the energy demand tied to its facilities .
+
+COM MIT MENT.  Amazon has not established any GHG for its own operations, although it recently committed
+to deploy solar across its fulfillment centers worldwide .3 Amazon has not set any public reduction targets for its
+supply chain emissions, nor has it indicated whether its suppliers have begun to report their emissions or set
+any reduction targets .
+
+PERFO RM ANC E. Separate from the renewable energy purchased on behalf of AWS for its data centers, Amazon
+has deployed renewable energy on the rooftops of some of its distribution facilities and purchased a significant
+amount of renewable energy in Texas . However, due to Amazon’s lack of transparency, it is impossible to know
+whether these renewable energy purchases are keeping pace with Amazon’s growth in those regions . Amazon does
+not appear to be measuring or attempting to manage its product supply chain footprint .
+
+ADVOC ACY. A significant bright spot is Amazon’s increased willingness to support policies that will help
+reduce greenhouse gas emissions and support the deployment of renewable energy . Amazon was one of
+several IT companies who publicly urged President Trump to keep the US in the Paris Climate Agreement, and
+Amazon also joined Google, Microsoft, and Apple in filing an amicus brief in support of federal legislation that
+would limit carbon emissions from the US power sector .
+
+D
+
+F
+
+D
+
+C
+
+B
+
+GREE NPEACE GUIDE TO GREEN ER ELECTRONI CS  – 2 01 7 COM PAN Y REPORT CARD  |  13
+
+Sustainable Design & Resource Reduction
+
+D-
+
+TRANSPARENCY.  Amazon does not publish any data on the material composition of its products, including
+whether it utilizes any recycled inputs or the scale of take-back efforts, with the exception of where this is legally
+required (e .g . Virginia) . Amazon does publish a conflict minerals report as required under the US Dodd-Frank Act,
+though with very little detail or analysis of its efforts .4
+
+CO MMITMENT.  Unlike Apple and Fairphone, Amazon has not announced any commitments to use recycled or
+closed-loop inputs in its branded electronic devices, nor has it established any benchmarks for the performance
+of its take-back and recycling program .
+
+PERFORMANCE: CIRCULAR PROD UCTI ON . Amazon publishes only basic data on its suppliers of conflict
+minerals as required under US law, and does not publish any additional information on whether the other
+materials that go into the Amazon devices are from sustainable sources . Amazon does publish detail on how to
+return devices for recycling to Amazon .5
+
+PERFORMANCE: PRODUCT LIFE  EXTEN SI ON . Amazon does not publish any evidence that it is seeking
+to transition the material inputs for its devices to secondary and recycled sources . Amazon does offer free take-
+back programs in the US and India, providing free shipping to return devices for recycling, and for still functioning
+devices in the US . Amazon also offers exchange program across a range of device manufacturers .6
+
+ADVOCACY.  Amazon is a member of ITI, which has been lobbying to block Right to Repair legislation in several
+US states . If passed, this would provide important rights to customers in their ability to access affordable repair
+services, and in turn encourage customers to repair devices, extending the useful life of their device .
+
+Hazardous Chemical Elimination: Products & Supply Chain
+
+TRANSPARENCY.  While Amazon highlights the importance it places on responsible sourcing,7 it provides little
+information beyond its broad supply chain standards .8 Amazon does not publish details on whether it has placed
+restrictions or eliminated hazardous materials not covered by the current Rohs standard, such as PVC, brominated
+flame retardants, or phthalates, as many leading companies have done . Similarly, Amazon does not publish an
+RSL to indicate how it is identifying and prioritizing the elimination of hazardous chemicals in its supply chain .
+
+COM MIT MENT.  Amazon has not made any commitment to eliminate hazardous chemicals from its products
+or the manufacturing process of its supply chain . As an EICC member, Amazon has adopted a Supplier Code of
+Conduct that follows the EICC model standard .9
+
+PERFO RM ANC E. Amazon does not report any voluntary elimination of hazardous chemicals from its products .
+
+ADVOC ACY. No evidence found of positive or negative advocacy .
+
+D
+
+F
+
+D
+
+D
+
+D
+
+F
+
+F
+
+F
+
+F
+
+–
+
+GREE NPEACE GUIDE TO GREEN ER ELECTRONI CS  – 2 01 7 COM PAN Y REPORT CARD  |  14
+
+ENDNOTES
+
+1
+
+2
+
+3
+
+4
+
+http://www.zdnet.com/article/amazon-tablet-shipments-grew-by-99-4-
+percent-in-2016/
+
+http://phx.corporate-ir.net/External.File?item=UGFyZW50SUQ9NjI4NTg-
+zfENoaWxkSUQ9MzI5NTMyfFR5cGU9MQ==&t=1
+
+https://www.amazon.com/p/feature/3g9pdpvmnx3f9rf
+
+http://services.corporate-ir.net/SEC/Document.Service?id=P3VybD1hS-
+FIwY0RvdkwyRndhUzUwWlc1cmQybDZZWEprTG1OdmJTOWtiM2R1Yk-
+c5aFpDNXdhSEEvWVdOMGFXOXVQVkJFUmlacGNHRm5aVDB4TVRZe-
+U9UTTVOQ1p6ZFdKemFXUTlOVGM9JnR5cGU9MiZmbj1BTUFaT05DT-
+01JTkNfU0RfMjAxNzA1MzEucGRm
+
+5
+
+6
+
+7
+
+8
+
+9
+
+https://amazonrecycling-us.re-teck.com/recycling/home
+
+https://www.amazon.com/gp/help/customer/display.
+html?nodeId=200197550
+
+https://www.amazon.com/p/feature/uknj5z35m3ev8as
+
+https://www.amazon.com/gp/help/customer/display.html/ref=hp_left_
+cn?ie=UTF8&nodeId=200885140
+
+https://www.amazon.com/gp/help/customer/display.html/ref=hp_left_
+cn?ie=UTF8&nodeId=200885140
+
+GREE NPEACE GUIDE TO GREEN ER ELECTRONI CS  – 2 01 7 COM PAN Y REPORT CARD  |  15
+
+B-
+
+Apple
+
+Since taking the reins as Apple’s CEO, Tim Cook has made protecting the environment
+a prominent piece of the company’s identity . Under Cook, Apple not only recognizes
+unequivocally that climate change is a real problem, but has publicly committed Apple
+to power its data centers and other operations with 100% renewable energy to address
+it . Apple became the first company to extend this commitment to its entire global supply
+chain in 2014, and has since made impressive progress, securing commitments from 14
+suppliers to power their operations with enough renewable energy needed to manufacture
+Apple devices or components . Apple announced in April an ambitious long-term goal to
+transition the materials that go into its devices to come from 100% closed-loop sources,
+and eliminate the need to rely on the mining of new minerals . Apple’s leadership in
+reducing the impact of it supply chain on the planet is helping redefine expectations of
+corporate responsibility, playing a catalytic role in driving better performance by other
+companies . However, Tim Cook’s commitment to have Apple leave the planet “better than
+we found it”1 is increasingly being undermined by his product design team . While Apple’s
+design engineers made it the first company to eliminate many hazardous chemicals from
+its devices, many of Apple’s latest devices are now designed in a way to make it much more
+difficult, if not impossible to repair or upgrade, shortening their useful life, and increasing
+the potential negative impacts of Apple’s products on the planet . Such a design strategy
+may help Apple’s profits in the short term, but risks jeopardizing Apple’s environmental
+reputation and the customer loyalty that has come with it .
+
+Renewable Energy & Climate Change
+
+TRANSPARENCY.  Apple provides excellent visibility into the energy performance of its own operations,
+providing detail on the energy demand of its facilities and the addition of renewable energy for each to advance
+toward its goal of being 100% renewable .2 However, a similar level of transparency has not been present to
+assess Apple’s progress toward its 100% supply chain goal . The company recently took steps forward in reporting
+the aggregate impact of its supply chain renewable energy deals,3 also adding some minimal context on its
+total carbon footprint with respect to its 4 GW renewable energy goal4 and a high-level breakdown of its largest
+greenhouse gas contributors by category of supplier . Apple needs to upgrade its supply chain reporting to more
+closely represent its own operational reporting, as it currently does not report energy footprint by supplier, or
+even country or regional level carbon footprint information for its supply chain .
+
+COM MIT MENT.  Apple was the first IT company to make a 100% RE commitment for both its own operations
+and its supply chain . It continues to lead the way in driving renewable energy in its supply chain, where nearly
+80% of its greenhouse gas footprint currently lies . To its credit, Apple has pursued these goals with a high level of
+integrity, adopting additionality principles for its renewable energy procurement . Apple has set near-term goals
+of 4GW of renewable energy for its supply chain by 2020, 2GW in China specifically .
+
+A-
+
+B
+
+A
+
+GREE NPEACE GUIDE TO GREEN ER ELECTRONI CS  – 2 01 7 COM PAN Y REPORT CARD  |  16
+
+Renewable Energy & Climate Change (continued)
+
+A-
+
+PERFO RM ANC E. Apple has thus far been fairly aggressive in pursuing its 2020 goal to deploy 4GW of renewable
+energy in its supply chain, with Apple itself having deployed nearly 500MW of solar and wind in China, and has
+made significant progress with its suppliers as well . As of September, Apple has separately secured commitments
+from 14 of its suppliers to power the Apple-related portion of its operations with renewable energy by 2018/19 .5
+
+ADVOC ACY.  Apple’s advocacy on the urgency of climate change and support for renewable energy has become
+more visible, particularly since the 2016 US presidential election . In addition to its efforts to engage its supply chain
+to switch to renewable energy through its Clean Energy Portal, Apple has also become more active in supporting
+state and national policies by encouraging the deployment of renewable energy, including its support of the Clean
+Power Plan in the US,6 and increased access to renewable energy in Japan .7 CEO Tim Cook also joined other tech
+company leaders in pushing President Trump to keep the US as a member of the Paris Climate Agreement .
+
+Sustainable Design & Resource Reduction
+
+TRANSPARENCY.  Apple has made some improvements in its reporting of resources that go into its products,
+as well as its efforts to address environmental impacts and worker safety within its supply chain . To better
+align with its long-term goal to create a closed-loop supply chain, Apple eliminated the previous reporting of
+e-waste materials returned via its take-back program, as most of these materials were not being returned to
+Apple products . However, similar to its actions after the adoption of its 100% renewable energy supply chain
+goal, Apple’s reporting on the recycled content in its products remains highly selective, limited to examples of
+where it has made progress . Apple needs to transition its reporting to show its progress toward its closed-loop
+goal, including total resource consumption and the amount of material it has thus far been able to secure from
+secondary materials if not from closed-loop material flows . Publication of its materials analysis and the priority
+materials it intends to focus upon as Fairphone has done would be an important contribution to driving faster
+change across the sector .
+
+CO MMITMENT.  Apple’s announcement of its ambitious goal to create a closed-loop supply chain for its
+devices, with the aim to end the company’s reliance on mining,8 sends a powerful signal to its suppliers and
+the secondary materials market . Such a transition to secondary materials would have not only significant
+environmental benefits, but could also help address potential human rights abuses in the supply chain, such as
+use of child labor and minerals from conflict zones . Apple should establish more specific near-term milestones
+that show progress toward its long-term closed-loop goal, including specific targets for high-impact materials .
+
+PERFORMANCE: CIRCULAR PROD UCTI ON . Building on its commitment for a closed-loop supply
+chain, Apple reports to have conducted material risk assessments across 44 elements in its products, identifying
+aluminum, tin, and cobalt and priority materials for developing a supply of secondary sources of materials, with
+early success in getting secondary materials into some devices . Apple has established an extensive take-back
+system through its stores and local partners across countries where it sells its products, though it does not make
+public which recycling partners it relies upon, or where that waste is sent . However, in the US at least, Apple is
+reported to maintain “must shred” agreements with recyclers it works with, forcing devices to be shredded instead
+of repaired or refurbished .9 Apple will need innovation in the recycling sector to achieve its closed-loop recycling
+goals . Apple’s LIAM robot, capable of disassembling one model of its iPhone, highlights the possibility to recover
+higher levels of materials than is typically achieved in the whole product shredding approach commonly used in
+the recycling industry .10 However, Apple’s product design, including the use of proprietary screws and extensive
+use of adhesives, continues to make disassembly, and thus higher material recovery, more difficult .11
+
+A
+
+A
+
+C
+
+B
+
+B
+
+C
+
+GREE NPEACE GUIDE TO GREEN ER ELECTRONI CS  – 2 01 7 COM PAN Y REPORT CARD  |  17
+
+Sustainable Design & Resource Reduction (continued)
+
+PERFORMANCE: PRODUCT LIFE  EXTEN SI ON . Apple’s failure to design many of its products to enable
+its customers to easily repair and upgrade their devices risks undermining Apple’s leadership on climate change
+and a closed-loop economy, particularly as its design decisions set the direction for many companies in the
+sector . While Apple has made some concessions to customers by lowering the cost of some repairs, product
+design decisions for its smartphones, laptops and tablets have consistently made it more difficult for customers
+to repair their devices, replace their batteries, or upgrade the devices so that they continue to stay in use . Apple
+clearly knows how to design products that are easy to maintain and upgrade, as seen by its higher-end desktop
+machines, but recent design changes for its latest flagship smartphones appear to have produced a product that
+is both more fragile and more difficult to repair . Apple does offer refurbished products for sale in several of its
+mature markets .
+
+ADVOCACY.  In sharp contrast to its positive leadership on climate change and renewable energy advocacy,
+Apple has emerged as one of the companies leading the opposition to “Right to Repair” legislation in several
+US states .12 Apple has also blocked attempts to strengthen environmental electronics standards that would
+encourage device designs that are easier to repair, upgrade, and disassemble for recycling .13
+
+Hazardous Chemical Elimination: Products & Supply Chain
+
+TRANSPARENCY.  Apple publishes a list of its top 200 manufacturing suppliers of companies assessed,
+though it lacks the detail of those published by Fairphone and Dell, which indicate which service or product
+each supplier is providing . Apple publishes its restricted substances list for products (PRSL),and also published
+a list of substances restricted for manufacturing uses (MRSL) .14 Apple also publishes the overall non-compliance
+findings of audits on a semi-annual basis . Apple’s individual product report consistently reports which hazardous
+materials are in the product .
+
+COM MIT MENT.  Apple was the first electronics manufacturer to commit to eliminating PVC and BFRs from its
+products, and since has gone beyond current Rohs standards to include additional hazardous chemicals such as
+beryllium, antimony trioxide, and phthalates .15 Apple has also committed to restrict several known hazardous
+chemicals from all manufacturing processes (benzene, n-hexane, toluene, and chlorinated organic compounds) .16
+
+PERFO RM ANC E. Apple has eliminated additional hazardous chemicals beyond existing standards from
+its products, such as beryllium, antimony trioxide, and phthalates . Apple has restricted the use of benzene,
+n-hexane, toluene, and chlorinated organic compounds from manufacturing processes for Apple products . To
+help reduce worker exposure to hazardous chemicals in the factory, Apple has done chemical exposure mapping
+at its final assembly suppliers, and is now expanding to subcomponent manufacturing sites .17
+
+ADVOC ACY. Apple is part of the Clean Electronics Production Network (CEPN) with a goal to move toward zero
+exposure of workers to toxic chemicals in the electronics manufacturing process .18
+
+C
+
+D
+
+F
+
+B
+
+B
+
+B
+
+B
+
+B
+
+GREE NPEACE GUIDE TO GREEN ER ELECTRONI CS  – 2 01 7 COM PAN Y REPORT CARD  |  18
+
+ENDNOTES
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+https://www.theverge.com/2014/4/21/5636218/apple-tim-cook-
+narrates-environmental-sustainibility-ad-earth-day
+
+https://images.apple.com/environment/pdf/Apple_Environmental_
+Responsibility_Report_2017.pdf
+
+Appendix A & B .
+
+https://www.apple.com/environment/pdf/Apple_Supplier_Clean_
+Energy_Program_Update_April_2017.pdf
+
+https://images.apple.com/environment/pdf/Apple_Environmental_
+Responsibility_Report_2017.pdf, p . 7 .
+
+https://www.apple.com/environment/pdf/Apple_Supplier_Clean_
+Energy_Program_Update_April_2017.pdf
+
+http://www.greenpeace.org/usa/news/apple-google-microsoft-
+amazon-support-clean-power-plan-court-filing/
+
+http://www.renewable-ei.org/images/pdf/20170422/REI_PressRelease_
+Realizing100RE_JP_170422_final.pdf
+
+https://images.apple.com/environment/pdf/Apple_Environmental_
+Responsibility_Report_2017.pdf, p . 16 .
+
+https://motherboard.vice.com/en_us/article/yp73jw/apple-recycling-
+iphones-macbooks
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+https://www.apple.com/environment/pdf/Liam_white_paper_
+Sept2016.pdf
+
+https://www.wired.com/2016/05/huawei-iphone-screws-ifixit/
+
+https://motherboard.vice.com/en_us/article/mgxayp/source-apple-will-
+fight-right-to-repair-legislation
+
+http://repair.org/standards
+
+https://images.apple.com/supplier-responsibility/pdf/Apple-Regulated-
+Substance-Specification.pdf
+
+https://images.apple.com/supplier-responsibility/pdf/Apple-Regulated-
+Substance-Specification.pdf
+
+https://www.apple.com/environment/safer-materials/
+
+https://images.apple.com/environment/pdf/Apple_Environmental_
+Responsibility_Report_2017.pdf, p .30 .
+
+https://www.greenamerica.org/media-mention/us-network-targets-
+solvent-and-adhesive-alternatives-electronics
+
+GREE NPEACE GUIDE TO GREEN ER ELECTRONI CS  – 2 01 7 COM PAN Y REPORT CARD  |  19
+
+D
+
+Asus
+
+Asus sells smartphones, tablets, and PCs, and like Acer, its Taiwanese peer, the company
+shows room for improvement in all three impact areas . Despite setting an emissions
+reduction target for its own operations, the company has not paired this with any plan to
+source renewable energy, and as a result, its own emissions in 2016 increased compared
+to 2015 . To lead on energy Asus must set aggressive targets to adopt RE for its own
+operations and its manufacturing supply chain . While Asus reports using recycled plastic,
+there is no transparency on the scale of this effort, nor any public target to increase the
+use of secondary materials to support circular production methods . Asus outperforms
+Acer in product detox, as the company has banned the use of antimony and beryllium
+outright . Next, Asus needs to be more transparent about the levels at which it restricts
+other chemicals in its products, while also publishing an MRSL .
+
+Renewable Energy & Climate Change
+
+TRANSPARENCY.  Asus is unique among Asian manufacturers in that it publishes the names of some key
+component suppliers .1 Asus reported Scope 1 and 2 GHG emission . Scope 3 emission disclosure is limited
+to business travel .2 The company reported absolute emission data for 30 key suppliers (their scope 1 and 2
+emissions) and that 70% of those suppliers have GHG reduction goals .3 Asus does not report product carbon
+footprint data .
+
+COM MIT MENT.  At the corporate level, Asus has set a target of reducing GHG emissions associated with energy
+use by 50% by 2025, compared to 2008 levels, but few specifics are shared on how Asus will achieve this . Asus has
+set no targets for supply chain emissions reduction or for procuring renewable energy .4
+
+PERFO RM ANC E. Asus reports that in 2016 its emissions were down 23% compared to 2008, but up slightly from
+last year . The company reports no use of renewable energy in its own operation or among its suppliers .5
+
+ADVOC ACY.  No evidence found of positive or negative advocacy .
+
+D
+
+D
+
+D
+
+D
+
+–
+
+GREE NPEACE GUIDE TO GREEN ER ELECTRONI CS  – 2 01 7 COM PAN Y REPORT CARD  |  20
+
+Sustainable Design & Resource Reduction
+
+TRANSPARENCY.  Asus states it has used recycled plastics in products since 2015, but there is no information
+about how much, or which products . To improve on transparency, Asus should publish information about the
+material composition of its products, including what materials were from recycled sources . On the plus side, Asus
+reports some details on its take-back efforts,6 and the company also discloses its smelter list7 and reports on its
+due diligence efforts for conflict minerals .8
+
+CO MMITMENT.  While Asus publishes considerations for its product designers that include language on
+lifecycle extension and design for easy recycling, there are no measurable goals or timelines .9 To improve, Asus
+must set specific targets, including targets around the use of recycled materials .
+
+PERFORMANCE: CIRCULAR PROD UCTI ON . While Asus leaves room for improvement in the sourcing of
+recycled materials, the company is active in the management of products once they reach end of life . The company
+offers take-back services beyond where legally required and reports on overall take-back . In 2016 take-back covered
+63% of the market, and the recycling rate was 12 .21% of total product weight of global sales volume .10
+
+PERFORMANCE: PRODUCT LIFE  EXTEN SI ON .  Asus’s guidelines appear to support product lifespan
+extension, but it’s unclear to see how these guidelines are applied to new Asus products . Asus’s ZenFone Max, for
+example, does not embody the modular design guideline Asus details, and this smartphone’s battery and display
+cannot be easily replaced .11 Spare parts and repair manuals are available only as part of repair services .
+
+ADVOCACY.  No evidence of positive or negative lobbying for circular economy or Right to Repair laws .
+
+D
+
+D
+
+D
+
+C
+
+D
+
+–
+
+Hazardous Chemical Elimination: Products & Supply Chain D+
+
+TRANSPARENCY.  Asus discloses a very basic list of its controlled substances for products (PRSL); however,
+without also publishing threshold information for these chemicals, it’s impossible to know if they are controlled
+at a safe limit .12 To improve, Asus must provide this information as well as an MRSL, as Apple, Microsoft, and Dell
+have done . On the plus side, Asus is unique among the Asian manufacturers to publish the names of some of its key
+suppliers, though the company does not go as far as to provide a full list of suppliers, complete with addresses .13
+
+COM MIT MENT. While Asus has already shown progress on the elimination of some hazardous product chemicals
+(beryllium, antimony, and some phthalates), the company has not set a deadline to complete the phase out of BFRs and
+PVC from all products .14
+
+PERFO RM ANC E. In Asus’s 2016 report the company reports on its progress to eliminate certain product
+chemicals, including beryllium and antimony since 2013 and certain phthalates since 2015 .15 Asus also reports
+some progress on eliminating BFRs and PVC in some parts and products, but has made exceptions for system
+modules, PCBs, connectors and cables .16 The company also reports a ban on benzene and n-hexane since 2016;
+however, this ban does not seem to impact all workers in the supply chain, as later the company states only
+workers aged 16-18 should not handle benzene . The company does not provide any further details on how this
+is being applied in its supply chain .17
+
+ADVOC ACY. No evidence found of positive or negative advocacy .
+
+C
+
+D
+
+D
+
+–
+
+GREE NPEACE GUIDE TO GREEN ER ELECTRONI CS  – 2 01 7 COM PAN Y REPORT CARD  |  21
+
+ENDNOTES
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+http://asus.todayir.com.tw/attachment/20170614180848496941490_
+en.pdf, p . 102 .
+
+https://csr.asus.com/english/article.aspx?id=55
+
+http://csr.asus.com/english/file/ASUS_CSR_2016_EN.pdf,
+
+p . 3-10 and 3-11 .
+
+https://csr.asus.com/english/article.aspx?id=54
+
+http://csr.asus.com/english/file/ASUS_CSR_2016_EN.pdf, p . 2-18 .
+
+http://csr.asus.com/english/file/ASUS_CSR_2016_EN.pdf, p . 2-9
+
+https://csr.asus.com/english/file/ASUS_Supply_Chain_Smelter_Refiner_
+List.pdf
+
+https://csr.asus.com/english/article.aspx?id=144
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+http://csr.asus.com/english/article.aspx?id=36
+
+http://csr.asus.com/english/file/ASUS_CSR_2016_EN.pdf, p . 2-9 .
+
+https://www.rethink-it.org/
+
+http://csr.asus.com/english/article.aspx?id=35
+
+http://asus.todayir.com.tw/attachment/20170614180848496941490_
+en.pdf, p . 102 .
+
+http://csr.asus.com/english/article.aspx?id=35
+
+http://csr.asus.com/english/file/ASUS_CSR_2016_EN.pdf, p . 2-3
+
+http://csr.asus.com/english/article.aspx?id=35
+
+http://csr.asus.com/english/file/ASUS_CSR_2016_EN.pdf, p . 3-9 .
+
+GREE NPEACE GUIDE TO GREEN ER ELECTRONI CS  – 2 01 7 COM PAN Y REPORT CARD  |  22
+
+C+
+
+Dell
+
+Currently the world’s third largest in PC sales,1 Dell returns to the Guide having just
+established new sustainability goals for the recently merged Dell-EMC juggernaut .
+While not typically known as the trend-setter in hardware design, Dell’s use of closed-
+loop material and product designs that are highly repairable are certainly worthy of
+greater imitation by other companies . While Dell’s transparency is also generally to be
+commended, its recently adopted commitments lack adequate ambition and specificity,
+particularly its commitments on renewable energy and resources . However, while Dell’s
+recently adopted Climate Policy Principles demonstrate a strong understanding of
+the climate science and urgency to address climate change,2 Dell lags behind its peers
+in charting an aggressive path to reduce its emissions by driving renewable energy
+deployment, both for its own operations as well as its manufacturing supply chain .
+
+Renewable Energy & Climate Change
+
+TRANSPARENCY.  Dell published a more detailed breakdown of its major suppliers than most other
+companies and also provides a high-quality breakout of its greenhouse gas emissions across its own operations
+and manufacturing supply chain, and renewable energy percentage for its own electricity consumption .3 Dell
+published carbon footprint data for a number of its products, but done since 2015 .4 Dell has had important
+success in getting 90% of its suppliers by spend to report their emissions to CDP .5 As Dell hopefully moves on to
+setting more specific GHG and renewable energy goals for its supply chain, Dell should provide clear reporting on
+how it is making progress toward those goals .
+
+COM MIT MENT.  Dell has committed to source 50% of its own electricity demand from renewable sources by
+2020, and also set an absolute GHG reduction target of 40% (market based from 2011 baseline) . Dell has not
+included its supply chain footprint in this target, but has at least committed that 95% of its suppliers (direct
+materials spend and key logistics) will set specific GHG targets and report on their emissions inventory .6 Missing
+from Dell’s commitment is whether it plans to meet its renewable energy and GHG targets by adding new
+renewable sources of energy to the grid where it has significant operations, as Apple, Google, and other major
+internet companies have done to date or if it will choose to pursue unbundled renewable energy credits that have
+little impact in driving new renewable investment .
+
+PERFO RM ANC E. Dell has made progress in increasing the percentage of renewable energy powering its
+operations, reporting 24% of Dell’s own electricity consumption in 2016 as renewable . As noted above, greater clarity
+is needed on how Dell has procured its renewable electricity supply to date . While there is evidence of deployment
+that is unquestionably additional, such as its onsite solar in India,7 for much of Dell’s existing renewable purchases
+it remains unclear whether Dell has sought to drive new and additional supply of renewable energy onto the grid, or
+has simply purchased unbundled RECs from existing sources . Suppliers representing 90% of Dell’s direct materials
+spend reported their emissions to CDP in mid-2016, and 81% of those reporting had emissions targets .8
+
+C+
+
+B
+
+C
+
+B
+
+GREE NPEACE GUIDE TO GREEN ER ELECTRONI CS  – 2 01 7 COM PAN Y REPORT CARD  |  23
+
+Renewable Energy & Climate Change (continued)
+
+ADVOC ACY.  Unlike recent leadership exhibited by Apple, Microsoft, Amazon, and Google, Dell has remained largely
+silent in terms of its latest support of climate and clean energy policy . Despite Dell CEO Michael Dell’s presence on
+President Trump’s manufacturing council, Michael Dell did not signal any public opposition to President Trump’s
+proposal to withdraw the US from the Paris Climate Agreement .
+
+Sustainable Design & Resource Reduction
+
+TRANSPARENCY.  Dell ranks near the top in terms of transparently reporting about the use of recycled materials .
+Dell reports its overall use of recycled inputs, including open-loop PCR plastic, closed-loop plastic, and recycled
+carbon fiber .9 Dell also reports out on its take-back efforts .10 Dell publishes material composition sheets for many
+of its products, which include information about what, if any, materials were recycled .11 Finally, Dell publishes its
+smelter list and due diligence efforts to avoid conflict mineral sourcing .12
+
+CO MMITMENT.  Dell has set two goals related to resources: to use 100 million pounds of recycled-content
+plastic and other sustainable materials by 2020 and to recover 2 billion pounds of used electronics by 2020 .
+These goals are measurable and include a near-term deadline, which is good . To improve, Dell could expand
+upon the definition of “other sustainable materials” and establish a roadmap for sourcing greater amounts of
+these materials from closed-loop sources .
+
+PERFORMANCE: CIRCULAR PROD UCTI ON . Dell stands out as one of the few companies in the Guide to be
+using closed-loop materials . Since 2014 the company has sourced plastic for its computers from its own take-back
+channels . In 2016, Dell used closed-loop plastics in 91 different products .13 Dell goes far beyond legal requirements
+to offer take-back in 83 countries and accepts even non-Dell products . However, despite Dell’s clear “no export”
+policy, in 2016, Basel Action Network documented the illegal shipment of Dell e-waste to developing countries .14
+
+PERFORMANCE: PRODUCT LIFE  EXTEN SI ON .  Dell’s products tend to score highly in iFixit repairability
+assessments in recent years . Most products have batteries which are easy to replace with upgradable memory,
+however the 2017 XPS 13 (9343/9350/9360) laptop is not upgradable .15 Dell’s design principle to use standard
+fasteners in place of adhesives makes repairs easier .16 Like HP, Dell provides repair manuals and spare parts .17
+Dell sells refurbished products in mature markets .18
+
+ADVOCACY.  As a member of ITI, which has lobbied against fair repair legislation, Dell would have earned a
+D, but for the fact that Dell shares its learnings on circular economy efforts with other business leaders and the
+public more broadly .19
+
+C+
+
+D
+
+B-
+
+B
+
+C
+
+B
+
+A
+
+C
+
+GREE NPEACE GUIDE TO GREEN ER ELECTRONI CS  – 2 01 7 COM PAN Y REPORT CARD  |  24
+
+Hazardous Chemical Elimination: Products & Supply Chain C+
+
+TRANSPARENCY.  Of the companies assessed, with the exception of Fairphone, Dell publishes the most
+detailed list of its manufacturing suppliers and includes addresses and function provided to Dell .20 Dell
+publishes its restricted substances list for products (PRSL),21 and as of May 2017, Dell also published a list of
+substances restricted for manufacturing uses (MRSL) .22 Finally, Dell publishes the aggregate non-compliance
+findings of supply chain code of conduct audits on a semi-annual basis .23
+
+COM MIT MENT. Dell was the first company to commit to phasing out BFRs and PVC from all products by 2009, but later
+Dell backtracked on this commitment . Dell (and EMC) now have a more vague goal as part of Dell’s 2020 plan: to phase out
+environmentally sensitive materials as viable alternatives exist . Dell maintains a goal to eliminate BFRs and PVC; however,
+Dell no longer has a timeline for this work .24 Beyond BFRs and PVC, Dell has committed to phase out 4 phthalates ahead of
+the EU deadline .
+
+PERFO RM ANC E. Dell offers products that are designated as Halogen Free or BFR/CFR-Free products; however,
+beyond these lines Dell’s phase-out work is incomplete, with exemptions made for internal plastic, components
+such as circuit boards, electronic components, fans, cables, printer fuse assemblies and electrical assemblies
+contained in Dell products .25 While Dell monitors the use of antimony and beryllium, it has not set elimination
+targets or threshold restrictions . Dell should establish a timeline for phasing out these materials as Apple has
+already done . Dell’s recently published list for manufacturing chemical restrictions includes bans on the use of
+benzene, n-hexane and toluene in cleaning and degreasing procedures only .
+
+ADVOC ACY. Dell is part of Clean Electronics Production Network (CEPN) with a goal to move toward zero exposure
+of workers to toxic chemicals in the electronics manufacturing process .
+
+B
+
+C
+
+C
+
+B
+
+ENDNOTES
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+https://www.idc.com/getdoc.jsp?containerId=prUS42464617
+
+http://i.dell.com/sites/doccontent/corporate/corp-comm/en/
+Documents/dellclimatepolicyprinciples.pdf
+
+http://i.dell.com/sites/doccontent/corporate/corp-comm/en/
+Documents/fy17-cr-report.pdf
+
+http://www.dell.com/learn/us/en/vn/corp-comm/environment_carbon_
+footprint_products
+
+http://i.dell.com/sites/doccontent/corporate/corp-comm/en/
+Documents/ser-report.pdf
+
+http://www.dell.com/learn/il/en/ilcorp1/corp-comm/goals-dashboard?
+c=il&l=en&s=corp&cs=ilcorp1
+
+http://businesswireindia.com/news/fulldetails/dell-aims-fulfill-60-
+percent-energy-demand-through-renewable-energy-sources-by-2020-
+india/54068)
+
+http://www.dell.com/learn/il/en/ilcorp1/corp-comm/goals-dashboard?
+c=il&l=en&s=corp&cs=ilcorp1
+
+http://i.dell.com/sites/doccontent/corporate/corp-comm/en/
+Documents/fy17-cr-report.pdf Dell 2017 CSR report, p . 25 .
+
+http://www.dell.com/learn/il/en/ilcorp1/corp-comm/goals-dashboard?
+c=il&l=en&s=corp&cs=ilcorp1
+
+http://www.dell.com/learn/il/en/ilcorp1/product-info-datasheets-
+safety-emc-environmental
+
+http://i.dell.com/sites/doccontent/corporate/corp-comm/en/
+Documents/smelter-list.pdf
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+http://i.dell.com/sites/doccontent/corporate/corp-comm/en/
+Documents/fy17-cr-report.pdf
+
+http://www.ban.org/news/2016/5/9/goodwill-and-dell-inc-exposed-as-
+exporters-of-us-publics-toxic-electronic-waste-to-developing-countries
+
+https://www.ifixit.com/laptop-repairability
+
+http://i.dell.com/sites/content/corporate/corp-comm/en/Documents/
+design-for-environment.pdf
+
+http://www.dell.com/support
+
+https://www.dellrefurbished.com/
+
+http://i.dell.com/sites/doccontent/corporate/corp-comm/en/
+Documents/circular-case-study.pdf
+
+http://www.dell.com/learn/us/en/uscorp1/cr-social-
+responsibility?s=corp
+
+http://i.dell.com/sites/doccontent/shared-content/solutions/en/
+Documents/ENV0424-A02.pdf
+
+http://i.dell.com/sites/doccontent/corporate/corp-comm/en/
+Documents/guidelines-chemicals.pdf?newtab=true
+
+http://i.dell.com/sites/doccontent/corporate/corp-comm/en/
+Documents/ser-report.pdf
+
+http://i.dell.com/sites/doccontent/corporate/environment/en/
+Documents/chemical-use-policy.pdf?newtab=true
+
+http://i.dell.com/sites/doccontent/corporate/corp-comm/en/
+documents/eliminate-toxics-milestones.pdf?newtab=true
+
+GREE NPEACE GUIDE TO GREEN ER ELECTRONI CS  – 2 01 7 COM PAN Y REPORT CARD  |  25
+
+B
+
+Fairphone
+
+Fairphone operates at a much smaller scale than the rest of the companies in the Guide,
+and in its brief history has offered only two versions of a single product, the Fairphone
+smartphone . Fairphone set out to try to solve many of the IT sector’s toughest and most
+important problems: design a phone and a supply chain to build it that does not exploit
+its workers or the planet . While Fairphone has not established the level of corporate-
+wide reporting and commitments to address the environmental impacts of its supply
+chain that larger companies have, Fairphone has made important breakthroughs in
+modular design that make it easy to repair and upgrade, in contrast to recent designs by
+Samsung and other large smartphone manufacturers that are heading in the opposite
+direction . Fairphone currently only sells its smartphones in the European market, though
+has aspirations of expanding beyond .
+
+Renewable Energy & Climate Change
+
+TRANSPARENCY.  Fairphone has greatly added to its supply chain transparency by creating an online map of
+its supply chain .1 While Fairphone does not publish corporate-level greenhouse gas emissions, it has produced a
+very detailed life-cycle analysis (LCA) for the Fairphone 2, which includes detailed emissions estimates for its only
+product, including breakdown of major components and final assembly .2 Fairphone requests energy data from its
+suppliers, though has received such data only from its final assembly supply partner . Fairphone should ultimately
+report its energy footprint at a corporate level, including amount of renewable energy used to manufacture its
+products, but the level of detail and transparency in the LCA of its sole product currently provides significant
+insight into Fairphone’s energy footprint .
+
+COM MIT MENT.  Although Fairphone does not set a GHG reduction goal or renewable energy commitment at
+a corporate level as many of the larger companies do, the company is committed to using a lifecycle analysis
+approach to manage sourcing and selection of materials, to avoid trade offs/burden shifting unintentionally .
+Fairphone should set more concrete goals for addressing its GHG emissions and recognize the opportunity to play
+an influential role both through its own procurement and through collaboration and policy advocacy to shift its
+supply chain away from coal and toward renewable sources of energy .
+
+PERFO RM ANC E. Fairphone’s modular product design has been deliberately geared to reduce the carbon
+footprint of its product, enabling longer product life by making it easy to repair the device, and also making it
+possible to upgrade the phone to extend its usefulness . Fairphone’s recent offering of an upgradable camera
+modules represents a major step forward in reducing the carbon impact of smartphones by extending product
+life . According to Fairphone, extending product use from three to five years reduces the carbon footprint by 30% .3
+Fairphone also has sought to reduce the carbon footprint of its smartphones by making some accessories such as
+cables optional rather than included in purchase by default .
+
+ADVOC ACY.  No evidence found of positive or negative advocacy .
+
+B
+
+A
+
+C
+
+B
+
+–
+
+GREE NPEACE GUIDE TO GREEN ER ELECTRONI CS  – 2 01 7 COM PAN Y REPORT CARD  |  26
+
+Sustainable Design & Resource Reduction
+
+A-
+
+TRANSPARENCY.  With the publication of a very detailed life cycle analysis, Fairphone has set a high bar on
+reporting the resource consumption involved in the production of its smartphone .4 Fairphone also recently
+published a detailed materiality assessment of its phones, providing a prioritization of opportunities for having
+an impact on the supply chain of 10 priority materials .5 This assessment includes an analysis of the best recycling
+methods to recover the most material while also generating the least amount of emissions .
+
+CO MMITMENT.  Fairphone’s goals to improve product longevity and to improve both recycling of electronics
+and sourcing of recycled and closed-loop materials for its devices are central to its business model and
+differentiation in the marketplace .6 Fairphone’s materiality assessment identified 10 priority materials for the
+development of more detailed roadmap for addressing the impact of materials going into its devices . Fairphone
+also commits to provide spare parts and repair manuals for its products directly to the end user .
+
+PERFORMANCE: CIRCULAR PROD UCTI ON . Along with Dell, Fairphone has shown early leadership
+in establishing a sustainable material supply . Fairphone currently reports using 50% of recycled plastic and
+tungsten .7 In addition to securing certification for tantalum, tin, and tungsten “conflict minerals,” Fairphone has
+taken extra steps to secure a fair trade certified supply of gold for its devices .8 Fairphone has a take-back program
+for all of EU for its products and expressly identifies where recycled phones will be sent . Additional progress
+on the ten materials identified in its own materiality assessment will put pressure on global manufacturers to
+rethink the “take, make, waste” model that has been difficult to displace .
+
+PERFORMANCE: PRODUCT LIFE  EXTEN SI ON . The Fairphone 2’s modular design allows the end user to
+easily replace commonly failing or damaged components at a low cost, and most importantly, without having
+to replace the entire phone, as evidenced by Fairphone 2 scoring 10/10 on the iFixit repairability rating system .
+Fairphone’s recent offering of upgradable camera modules represents a major step forward in reducing the
+carbon impact of smartphones by extending product life .9 Fairphone makes repair manuals and spare parts
+directly available to its customers, further facilitating maintaining its devices for long life .
+
+ADVOCACY.  Though much smaller in economic size than other companies in the Guide, Fairphone has
+been among the most active in pushing for policies and standards to raise the bar on minerals procurement,
+supporting both the adoption of conflict mineral legislation in the EU10 and also supporting the adoption of more
+stringent due diligence procurement standards in the Netherlands .11
+
+A
+
+A
+
+B
+
+A
+
+A
+
+Hazardous Chemical Elimination: Products & Supply Chain B-
+
+TRANSPARENCY.  Fairphone publishes restrictions on hazardous chemicals inside its devices including
+phthalates, brominated flame retardants, and halogenated flame retardants .12 Fairphone should follow the lead
+of larger brands and publish a complete restricted substances list for both product and process chemicals with
+thresholds that cannot be exceeded by its suppliers .
+
+COM MIT MENT.  Fairphone has eliminated those hazardous materials from within product as required by Rohs,
+and have fully eliminated PVC, and largely eliminated BFR, HFRs, and phthalates . On manufacturing process
+chemicals, Fairphone has thus far committed to eliminate benzene and n-hexane from use in final assembly .13
+Fairphone should adopt more explicit commitments to prioritize the elimination or substitution of hazardous
+chemicals from the manufacturing process .
+
+C
+
+B
+
+GREE NPEACE GUIDE TO GREEN ER ELECTRONI CS  – 2 01 7 COM PAN Y REPORT CARD  |  27
+
+Hazardous Chemical Elimination... (continued)
+
+PERFO RM ANC E. In addition to the elimination of certain classes of hazardous chemicals, Fairphone has sought
+work directly with its suppliers to limit the amount of overtime of workers in its suppliers, or hiring of temporary
+workers, both of which can undermine worker safety and increase the exposure risks from workplace chemicals .
+
+ADVOC ACY. Fairphone is part of the Clean Electronics Production Network (CEPN) with a goal to move toward zero
+exposure of workers to toxic chemicals in the electronics manufacturing process .14
+
+B-
+
+B
+
+B
+
+ENDNOTES
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+https://www.fairphone.com/en/how-we-work/mapping-phone-made/
+
+https://www.fairphone.com/wp-content/uploads/2016/11/
+Fairphone_2_LCA_Final_20161122.pdf
+
+https://www.fairphone.com/en/upgrade-fairphone2-camera/
+
+https://www.fairphone.com/wp-content/uploads/2016/11/
+Fairphone_2_LCA_Final_20161122.pdf
+
+https://www.fairphone.com/en/2017/02/01/fairer-materials-a-list-of-
+the-next-10-were-taking-on/
+
+https://www.fairphone.com/en/our-goals/
+
+https://www.fairphone.com/en/2016/06/20/fairphone-2-good-
+vibrations-with-conflict-free-tungsten-2/
+
+https://www.fairphone.com/en/2016/01/27/how-we-got-fairtrade-
+certified-gold-in-the-fairphone-2-supply-chain/
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+https://www.fairphone.com/en/upgrade-fairphone2-camera/
+
+https://www.fairphone.com/en/2017/03/21/new-eu-conflict-mineral-
+legislation/
+
+https://www.fairphone.com/en/2017/06/21/fairphone-wants-to-
+increase-supply-of-fair-gold/
+
+https://support.fairphone.com/hc/en-us/articles/215392683-How-
+about-hazardous-materials-
+
+https://support.fairphone.com/hc/en-us/articles/215392683
+
+https://www.greenamerica.org/media-mention/us-network-targets-
+solvent-and-adhesive-alternatives-electronics
+
+GREE NPEACE GUIDE TO GREEN ER ELECTRONI CS  – 2 01 7 COM PAN Y REPORT CARD  |  28
+
+D+
+
+Google
+
+Long known as an internet and software focused company, Google has rapidly expanded
+its line of Google-branded personal computing devices with its Pixel smartphones and
+laptops, as well as its Google Home smart speaker, as it moves to compete more directly
+with Apple in providing a hardware and software product that is tightly integrated .
+However, in sharp contrast to the environmental leadership we have seen from Google in
+its data centers that deliver Search, YouTube, and the company’s other online products,
+the hardware side of Google lags significantly behind Apple, HP, Dell, and to a lesser
+extent Microsoft, in designing and manufacturing devices in a way that minimizes their
+impact on the planet . Google has begun to make some improvements in its transparency
+and goal setting, but will need to move much more aggressively if it hopes to catch up to
+Apple and other leaders .
+
+Renewable Energy & Climate Change
+
+TRANSPARENCY.  Google provides above average reporting of the energy and climate footprint of its data
+centers and other Google-owned facilities, including important details on its renewable energy purchases .
+However, Google ranks near the bottom of the sector in providing details on its product supply chain footprint .
+Along with Amazon, Google is only one of a handful of companies that do not report their product-related supply
+chain emissions, refusing to break them out separately from other Scope 3 emission categories such as business
+travel and construction . Unlike Apple, Microsoft, Dell, HP and others, Google does not even provide a list of its
+suppliers by spend .
+
+COM MIT MENT.  Along with Facebook and Apple, Google was among the first global brands to adopt a
+long-term goal to power its operations with 100% renewable energy, and has set a mid-term goal to triple its
+renewable energy consumption linked to its own operations to 3 .3GW by 2025 . However, Google has yet to extend
+its 100% renewable commitment to its product supply chain as Apple has, nor has it set supply chain greenhouse
+gas reduction targets as HP has done . Google has recently established short-term goals to increase the reporting
+of emissions and adoption of greenhouse gas reduction targets among its suppliers, with the benchmark set for
+2017 that 90% of its suppliers will set GHG reduction goals .1
+
+C-
+
+D
+
+C
+
+GREE NPEACE GUIDE TO GREEN ER ELECTRONI CS  – 2 01 7 COM PAN Y REPORT CARD  |  29
+
+Renewable Energy & Climate Change (continued)
+
+C-
+
+PERFO RM ANC E. Google continues to aggressively pursue access to renewable energy both for its US
+operations and increasingly for its own operations internationally, totalling 2 .6GW of renewable energy
+generation, currently the largest procurement of renewable energy by any corporation .2 However, Google should
+let that leadership speak for itself, and cease its current claim that it has reached 100% renewable power for
+its own operations in aggregate globally . Attempts to claim excess “credit” from renewable energy procured in
+one region or country to be used to atone for its demand for dirty energy in another part of the world are not
+appropriate . Such claims are misleading, and undermine the bar for renewable leadership by corporations
+as well as Google’s long-standing principle of driving new renewable energy supplies in the same region its
+operations are drawing from the grid . Google should continue that principled approach as it seeks to build a
+renewably powered supply chain for its products . It is encouraging that Google is able to report that a high
+percentage of its suppliers have adopted emission reductions targets .3 Hopefully progress on both levels will help
+improve Google’s reporting on its supply chain footprint .
+
+ADVOC ACY.  Support for stronger and smarter climate and renewable energy policies by Google has been
+recognized as a consistent area of leadership in our evaluations of the IT sector stretching back to 2010 . This
+has continued in 2017 . Google was among several IT companies that spoke out publicly to urge officials in the
+Trump administration to o keep the United States a member of the Paris Climate Agreement, Google also joined
+Amazon, Microsoft, and Apple in filing an amicus brief in support of regulations by the US EPA that would set
+carbon reduction goals for the US power sector . Google has been engaged in policy advocacy outside the US as
+well, supporting efforts to create access to renewable energy in Taiwan, as well as stronger climate and energy
+policy adoption in the EU .
+
+Sustainable Design & Resource Reduction
+
+TRANSPARENCY.  Similar to Google’s reporting on its product energy footprint, Google lags far behind sector
+leaders in providing meaningful detail on reporting useful information to create a baseline on the amounts
+of material resources that are currently going into Google’s devices, and the extent to which Google has been
+successful in setting priorities and achieving meaningful resource reductions . Google does provide higher quality
+details on its efforts to source conflict minerals from certified conflict free smelters,4 but only provides select
+recycled content information on Google Home and Chromecast in its environment report, and similarly limited
+information on its product take-back program .5
+
+CO MMITMENT.  Google underscored the importance of moving away from our current take-make-
+waste linear production model, and engaged in some thoughtful leadership based on early success with
+pilot projects in the operation of its data centers . However, Google has yet to embrace any measurable
+commitments to transition its hardware products to a closed-loop supply chain or to utilize higher
+percentages of secondary materials in its products .
+
+PERFORMANCE: CIRCULAR PROD UCTI ON . Absent a more tangible commitment to closed-loop
+production, Google has taken only some small steps toward a more circular model . In addition to the use of
+recycled plastics in its Google Home and Chromecast devices, Google has also identified the importance of
+expanding its mineral resource due diligence to give a greater focus on cobalt and copper mining . Google’s Pixel
+product design has been above average overall in terms of ease of disassembly at end of life, including the use of
+non-proprietary screws and modular parts .
+
+C
+
+A
+
+D
+
+D
+
+D
+
+C
+
+GREE NPEACE GUIDE TO GREEN ER ELECTRONI CS  – 2 01 7 COM PAN Y REPORT CARD  |  30
+
+Sustainable Design & Resource Reduction (continued)
+
+PERFORMANCE: PRODUCT LIFE  EXTEN SI ON . Google’s decision to abandon the Project Ara modular
+smartphone platform was a significant blow to hopes of a more sustainable smartphone design, but Google’s
+Pixel has at least managed to incorporate some basic elements of modular component design that should help
+facilitate repair and greater product longevity . The decision to not follow Apple and Samsung and stick with
+an aluminum case rather than glass in the recently announced Pixel 2 is promising . Google should build on
+this relative strength to deliver smartphones, tablets and PCs that are durable and can be easily repaired and
+upgraded, as HP, Dell, and Fairphone have already delivered .
+
+ADVOCACY.  While Google has been supportive of circular economy thought leadership initiatives, Google is
+also a member of ITI, which has been lobbying to block Right to Repair legislation in several US states . If passed,
+this legislation would provide important rights to customers in their ability to access affordable repair services,
+and in turn encourage customers to repair devices, extending the product’s useful life .
+
+D
+
+D
+
+D
+
+Hazardous Chemical Elimination: Products & Supply Chain C-
+
+TRANSPARENCY.  Unlike leaders Apple, Dell, HP, and Fairphone, Google does not publish its list of suppliers .
+Google’s recent publication of its first Restricted Substances Specification addresses a critical gap between
+Google and the other leading companies, setting limits if not outright prohibition of certain chemicals from its
+product and from the manufacturing process . Google recently reported on its overall supplier audit program and
+what measures it has undertaken to address non-compliance issues .
+
+COM MIT MENT. Google’s recent decision to publish its Restricted Substances Specification helps close an important
+gap for Google, as it joins Apple, Dell, and Microsoft in committing to eliminate a range of hazardous chemicals from both
+its products and its manufacturing process .
+
+PERFO RM ANC E. Google’s recently published RSS indicates that BFRs and PVCs have been prohibited for
+use in all materials, as Apple has done . Similarly, Google has restricted the use of antimony trioxide, beryllium
+and phthalates . Google has also restricted the use of benzene, n-hexane and toluene in supplier factories for
+cutting and degreasing processes . Google suppliers are required to perform an alternatives assessments using a
+comprehensive chemical hazard assessment framework such as the GreenScreen® for Safer Chemicals or the US
+EPA Safer Choice Criteria .
+
+ADVOC ACY. No evidence found of positive or negative advocacy .
+
+D
+
+C
+
+C
+
+–
+
+ENDNOTES
+
+1
+
+2
+
+3
+
+https://static.googleusercontent.com/media/www.google.com/en//
+about/assets/pdf/2016-Responsible-Supply-Chain-Report.pdf, p .17 .
+
+https://static.googleusercontent.com/media/www.google.com/en//
+green/pdf/google-2016-environmental-report.pdf
+
+https://static.googleusercontent.com/media/www.google.com/en//
+about/assets/pdf/2016-Responsible-Supply-Chain-Report.pdf
+
+4
+
+5
+
+https://static.googleusercontent.com/media/www.google.com/en//
+about/assets/pdf/2016-Responsible-Supply-Chain-Report.pdf
+
+https://support.google.com/store/answer/3036017?hl=en&ref_
+topic=3244667
+
+GREE NPEACE GUIDE TO GREEN ER ELECTRONI CS  – 2 01 7 COM PAN Y REPORT CARD  |  31
+
+C+
+
+HP
+
+While much has changed for HP in the past two years, including a cleaving of the company
+into a separate hardware division, HP Inc is still the world’s largest manufacturer of PCs .1
+HP’s transparency is among the best in this year’s Guide, providing clear and detailed
+reporting of its own operational footprint, and an increasing amount of detail on its
+supply chain, material flows in its products, and chemicals restricted in both products and
+manufacturing processes . While HP was one of the first companies to establish greenhouse
+gas reduction goals across its supply chain and is making progress toward its long-term
+goal of 100% renewable energy for its own operations, stronger ambition is needed to
+reduce its supply chain emissions . Currently one of HP’s most important contributions to
+charting a more sustainable path for the sector has come in product design that is better
+for the planet . HP has shown that is it more than possible to produce devices, including
+tablets, that are easy to repair and upgradable, in sharp contrast to recent offerings from
+Apple, Samsung, and other device manufacturers that are increasingly designing their
+devices in ways that make it difficult if not impossible to repair or upgrade .
+
+Renewable Energy & Climate Change
+
+TRANSPARENCY.  HP provides thorough reporting of its own energy footprint (scope 1 & 2), including its overall
+use of renewable energy and progress toward its GHG reduction goals, and publishes product footprint data for a
+large percentage of its products .2 HP also publishes a detailed supplier list3 and provides above average reporting of
+its supply chain emissions,4 allocating emissions into clear categories that are supply chain related, rather than kept
+bundled under a broader Scope 3 label . HP reports steady progress in getting its suppliers to report their scope 1 and
+2 emissions associated with HP production, but greater detail and allocation of what is effectively 90% of HP’s GHG
+footprint at both the country and supplier level, including the percentage of renewable energy, should be added .
+
+COM MIT MENT.  HP is one of several companies in the Guide that have adopted the long-term goal to power
+their own operations with 100% renewable energy, and HP has also set a mid-term goal of 40% renewable energy
+by 2020, combined with a GHG reduction goal of 25% by 2025 . HP deserves credit for being one of the first to
+establish a supply chain GHG reduction target, with dual targets of reducing first-tier production supplier and
+product transportation-related GHG emissions intensity by 10% by 2025, and a gross reduction of 2 million tonnes .5
+Greater ambition is needed, however . HP should follow Apple’s lead and expand its commitment to become 100%
+renewably powered to its supply chain, where the vast majority of its carbon footprint lies . When product energy use
+by the customer is excluded from HP’s footprint, manufacturing accounts for nearly 90% of HP’s GHG emissions .6
+
+B
+
+B
+
+B
+
+GREE NPEACE GUIDE TO GREEN ER ELECTRONI CS  – 2 01 7 COM PAN Y REPORT CARD  |  32
+
+Renewable Energy & Climate Change (continued)
+
+PERFO RM ANC E. HP has made commendable progress in reducing its own energy footprint through a
+combination of energy efficiency and deployment of renewable energy . Both HP’s own absolute GHG emissions
+and those of its supply chain decreased slightly in 2016 (a 21% reduction in emissions for its supply chain on
+an intensity basis .)7 HP engages 95% of suppliers by spend on reducing environmental impact, and 93% have
+GHG reduction targets . Additionally, 47% of suppliers report to using renewable energy, though details are
+missing on total percentage or gross amount . In 2016, renewable electricity purchased and generated on-site
+accounted for 105 million kWh of electricity globally, 14% of total consumption and making progress toward
+the goal of 40% by 2020 .
+
+ADVOC ACY.  While HP is making commendable progress in reducing its energy footprint, it has not kept pace
+with other US IT leaders in supporting climate and renewable energy policies, and has even fallen off from its
+efforts in previous years . While HP Inc spoke out publicly after President Trump announced his intention to
+withdraw the US from the Paris Climate Agreement Accord,8 it did not weigh in as strongly9 in advance of the
+decision as many other IT companies did,10 including HP’s sister company HP Enterprise, whose CEO was quite
+vocal on the importance of the US remaining in .11
+
+Sustainable Design & Resource Reduction
+
+TRANSPARENCY.  HP reports typical material composition for its notebooks, desktops, and tablets . Additionally
+HP reports details of its take-back efforts, including the amount of devices repaired, refurbished and recycled . HP
+reports overall material use, but not the portion that is recycled (2016 CSR report, pg 43) . In contrast to HP’s detailed
+reporting on recycled content in printers and toners, HP only reports on its desktop products’ use of PCR, without
+much specificity (pg 47) . Finally, in addition to disclosing its smelter list, HP reports compliance level in avoiding
+smelters that may fund armed conflict for 3TGs .
+
+CO MMITMENT.  HP has set vague priorities to use less material, increase recycled and recyclable content, use
+materials with lower environmental impact, increase product durability, repairability, and upgradability, and
+support repair; however, none of these efforts include a specific goal or timeline (pg 41) . In terms of product take-
+back, HP does have a goal to recycle 1 .2 million tonnes of hardware and supplies by 2025, from the starting date
+of 2016 (pg 65) .
+
+PERFORMANCE: CIRCULAR PROD UCTI ON . HP has not assessed priority materials for closed-loop
+sourcing . The company reports to be using some open-loop PCR plastic for new commercial desktop products
+(pg 47) . HP does not report that it is sourcing any other secondary materials beyond plastic . HP’s responsible
+sourcing due diligence program extends beyond 3TG to include cobalt (pg 88) . HP offers take-back services
+beyond legal requirements and HP has a no-export policy to prevent the shipment of e-waste from developed
+to developing countries (pg 123) . Finally, HP’s products typically score 7 or higher on iFixit repairability
+assessments, which means disassembly for recycling is an easier process .
+
+PERFORMANCE: PRODUCT LIFE  EXTEN SI ON .  While HP’s performance in closing the materials loop
+leaves room for improvement, HP’s product design and other efforts to keep existing gadgets in use longer are
+more laudable . HP seems unique in offering tablets whose memory can be easily upgraded, and HP’s recently
+assessed laptops and tablets have easily replaceable batteries . HP offers repair manuals for most products and
+sells spare parts . The company also sells refurbished products in mature markets (pg 66) .
+
+B
+
+B
+
+B
+
+B-
+
+B
+
+C
+
+B
+
+A
+
+GREE NPEACE GUIDE TO GREEN ER ELECTRONI CS  – 2 01 7 COM PAN Y REPORT CARD  |  33
+
+Sustainable Design & Resource Reduction (continued)
+
+ADVOCACY.  HP would have a D for its membership in ITI which has lobbied against fair repair legislations, as
+other ITI members in the Guide have received . However, HP’s practice of providing repair manuals publicly along
+with its statement to “promote regulatory frameworks that support efforts to extend our products’ lives through
+repair and reuse” saved HP from a lower score (pg 123) .
+
+B-
+
+C
+
+Hazardous Chemical Elimination: Products & Supply Chain C+
+
+TRANSPARENCY.  HP publishes a fairly detailed supplier list, which includes address and function for HP’s
+final assembly suppliers, as well at other details .12 HP publishes a General Specification for the Environment
+which includes information about chemicals restricted for use in products and manufacturing, including
+threshold limits .13 HP reports aggregate non-compliance findings of annual supply chain code of conduct audits .
+
+COM MIT MENT. HP reports that its “current efforts to phase out substances of concern mainly focus on phthalates,
+brominated flame retardants (BFRs), and polyvinyl chloride (PVC) .”14 In HP’s 2015 CSR report, HP appeared to set a 2020
+deadline to phase out remaining uses of BFRs, PVC, antimony and certain phthalates; however, HP also places caveats
+on this effort, stating “future possible restriction of those materials depends, in part, on the qualification of acceptable
+alternative materials .”15
+
+PERFO RM ANC E. HP has taken some steps to phase out chemicals of concern from its line of products, though
+the work is incomplete . HP reports 75% of personal systems (tablets, notebooks, all-in-ones) sold in 2016 were
+classified as low halogen (low BFR and PVC), and that all personal systems launched in 2016 have eliminated
+four phthalates of concern . HP shares its historical timeline for phasing out arsenic, mercury and other materials
+of concern, as well as materials of concern it continues to use but monitors, such as antimony, beryllium, and
+BFRs .16 Beyond auditing, HP reports some initial efforts to address worker health and safety risks in its supply
+chain, including a pilot project with two of its suppliers to build chemical management capability .17 The company
+has also banned the use of several known hazardous chemicals in the manufacturing of its products, including
+benzene and n-hexane, according to its MRSL .
+
+ADVOC ACY. HP participates in the Chemical Footprint Project with aims to measure and disclose data on corporate
+progress toward reduction in chemicals of high concern and introduction of safer chemicals . Additionally, HP is part of
+Clean Electronics Production Network (CEPN) with a goal to move toward zero exposure of workers to toxic chemicals
+in the electronics manufacturing process .
+
+B
+
+C
+
+C
+
+B
+
+GREE NPEACE GUIDE TO GREEN ER ELECTRONI CS  – 2 01 7 COM PAN Y REPORT CARD  |  34
+
+ENDNOTES
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+https://www.idc.com/getdoc.jsp?containerId=prUS42464617
+
+http://h22235.www2.hp.com/hpinfo/globalcitizenship/environment/
+productdata/ProductCarbonFootprintnotebooks.html
+
+http://h20195.www2.hp.com/V2/GetPDF.aspx/c03728062.pdf
+
+http://www8.hp.com/us/en/hp-information/environment/footprint.html
+
+http://h20195.www2.hp.com/V2/GetDocument.
+aspx?docname=c05166311
+
+http://www8.hp.com/us/en/hp-information/environment/footprint.html
+
+http://www8.hp.com/us/en/hp-information/global-citizenship/
+environment/supplychainenviromgt.html
+
+http://www8.hp.com/us/en/hp-news/press-release.html?id=2468421#.
+WXuJb9PyvOT
+
+http://lowcarbonusa.org/business
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+https://www.c2es.org/international/business-support-paris-agreement
+
+https://www.cnbc.com/2017/06/01/meg-whitman-to-trump-leaving-
+paris-climate-agreement-puts-us-behind.html
+
+http://www8.hp.com/h20195/v2/GetDocument.
+aspx?docname=c03728062
+
+http://h20195.www2.hp.com/V2/GetDocument.
+aspx?docname=c04932490
+
+http://www8.hp.com/h20195/v2/GetPDF.aspx/c05507473.pdf, p . 44 .
+
+http://www8.hp.com/h20195/v2/GetPDF.aspx/c05154920.pdf, p . 47 .
+
+http://h20195.www2.hp.com/V2/GetDocument.
+aspx?docname=c05117791
+
+17
+
+http://www8.hp.com/h20195/v2/GetPDF.aspx/c05507473.pdf, p . 84 .
+
+GREE NPEACE GUIDE TO GREEN ER ELECTRONI CS  – 2 01 7 COM PAN Y REPORT CARD  |  35
+
+D
+
+Huawei
+
+Huawei has rapidly expanded its consumer electronic sales outside of its strong base in
+China, particularly smartphone sales in Europe, capturing as much as 20% in several EU
+markets this past year,1 and is poised to overtake Apple for the #2 spot globally .2 Despite its
+emergence as a top global electronic brand, Huawei lags far behind the established global
+leaders in addressing its environmental responsibility . Huawei has set carbon intensity goals
+for its own operations, its actual emissions are still increasing nearly 25% per year, and it
+has not committed to 100% RE or shared a comprehensive strategy to mitigate its carbon
+footprint across the supply chain . Huawei is not reporting on the carbon footprint of its
+manufacturing supply chain at all . Given the reach of Huawei’s ecosystem and its leadership
+role in the electronics industry in China and globally, Huawei is well positioned to leverage its
+entire value chain to reduce emissions and transition to a renewably powered manufacturing
+base . This will take time, but should begin by improving its transparency, to build confidence
+among its growing customer base that it is heading in the right direction . As one of the
+top three biggest smartphone producers in the world, Huawei should bear proportional
+responsibility to the Earth . Huawei should commit to 100% RE, enhance transparency, and
+invest more in reducing resource consumption to truly redefine “Made in China .”
+
+Renewable Energy & Climate Change
+
+TRANSPARENCY.  In its 2016 sustainability report, Huawei published its own energy consumption, energy
+source breakdown, and China region GHG emissions .3 However, the company does not disclose its supplier list
+and is one of the few global brands that does not publish its scope 3 supply chain GHG emissions . Huawei does
+publish carbon footprint data for some of its smartphones and tablets .4
+
+COM MIT MENT.  Huawei’s carbon reduction commitments related to energy are limited to its own operations—
+to cut GHG emission per unit of sales revenue by 30% by 2020 compared to 2012 .5 However, its own emissions
+continue to see significant growth, and does not have a measurable target or commitment to reduce supply chain
+emissions . The company does not have a public renewable energy target, and has thus far deployed only token
+amounts of renewable energy .
+
+PERFO RM ANC E. Huawei has installed solar power stations on two campuses, Songshan Lake and Hangzhou,
+generating just 17 mwh per year, which would represent only 0 .01% of Huawei’s electricity use in 2016 .6 Huawei
+reports large increases in both energy consumption (up 27 .3% since 2015) and GHG emissions (up 24 .5% since 2015);
+however, the company claims that both energy consumption and GHG emissions per unit of sales revenue are down
+20%, compared to 2012 figures . Huawei currently reports to work with 20 of its suppliers to reduce emissions, with
+cuts totalling 55,000 tons of CO2, though due to Huawei’s lack of transparency in reporting its supply chain footprint,
+the significance of these reductions or the overall trajectory of its supply chain emissions is difficult to assess .7
+
+ADVOC ACY.  Huawei has not demonstrated any positive or advocacy efforts to advance renewable energy .
+
+D
+
+D
+
+D
+
+D
+
+–
+
+GREE NPEACE GUIDE TO GREEN ER ELECTRONI CS  – 2 01 7 COM PAN Y REPORT CARD  |  36
+
+Sustainable Design & Resource Reduction
+
+D+
+
+TRANSPARENCY.  Huawei publishes material composition data for some of its smartphones and tablets .8
+Huawei does not report on overall use of recycled/secondary inputs, nor does it report the details of its take-back
+program . Huawei works with other companies through the Conflict Free Sourcing Initiative (CFSI) . The company
+uses the CFSI conflict mineral Questionnaire and the OECD Due Diligence Guidance for Responsible Supply Chains
+of Minerals from Conflict-Affected and High-Risk Areas to survey the supply chain . While the company reports
+sharing these results with its business customers, Huawei is not reporting these results publicly or reporting its
+list of smelters .9
+
+COM MIT MENT.  While Huawei has established a “Design Approach for the Circular Economy,” which includes
+language to use more secondary and recyclable materials, and to design for easy disassembly and cost-effective
+recycling, this commitment lacks any measurable benchmarks or timelines .10
+
+PERFO RM ANC E: CIRCULAR PROD UCTI ON. Despite a statement in its CSR report to prioritize secondary
+raw materials, Huawei does not report any information about its use of recycled inputs . Huawei reported
+incorporating design principles that support ease of disassembly at end of life such as avoiding welds, glue,
+rivets, and other permanent joints where possible . Huawei has a take-back program in 36 countries that includes
+705 recycling stations, and a system for recyclers to categorize products at end of life to recover highest material
+value, prioritizing repair and then recycling .11
+
+PERFO RM ANC E: PRODUCT LIFE  EXTEN SI ON . Huawei does not provide repair manuals or spare parts
+to the public . Recent smartphone models score average in repairability assessments . To make repairs simpler,
+Huawei should stay away from proprietary screws (as it used for the P9) and excessive adhesive (which secured
+the battery in the Mate 8) .12
+
+ADVOC ACY.  Huawei has supported an extended producer responsibility pilot project created by the
+Chinese government .13
+
+D
+
+D
+
+C
+
+D
+
+B
+
+Hazardous Chemical Elimination: Products & Supply Chain D
+
+TRANSPARENCY.  Huawei does not publish a supplier list or a restricted substances list for products or
+manufacturing facilities . Its 2016 sustainability report indicates it restricts the use of 45 chemicals, though it does
+not name them or disclose levels of acceptable use .
+
+COM MIT MENT.  While Huawei has not made any public commitments to eliminate specific chemicals of
+concern, it does report it has restricted the use of brominated flame retardants, chlorinated flame retardants,
+PVC, phthalates, antimony trioxide, and beryllium and beryllium compounds in consumer products starting in
+2016, though the levels of acceptable/restricted use are not clear .14 To improve Huawei must set a public timeline
+to eliminate these chemicals, and also set targets for processed chemicals of concern .
+
+PERFO RM ANC E. Huawei reports to comply with regulations such as RoHS and REACH, and that it has
+voluntarily restricted the use of six substances of concern in new mobile phones, tablets, and wearables, which
+include brominated flame retardants, chlorinated flame retardants, PVC, phthalates, antimony trioxide, and
+beryllium and beryllium compounds . No detail is provided about the thresholds of restriction . Huawei does not
+report any progress on restricting processed chemicals among its manufacturers .
+
+D
+
+D
+
+D
+
+GREE NPEACE GUIDE TO GREEN ER ELECTRONI CS  – 2 01 7 COM PAN Y REPORT CARD  |  37
+
+Hazardous Chemical Elimination... (continued)
+
+ADVOC ACY.  In 2016, Huawei participated in formulating China’s green supply chain management guidelines,
+as well as the green supply chain management and evaluation requirements of China’s Ministry of Industry and
+Information Technology (MIIT) . Huawei also participated in developing industry guidance on supply chain CSR
+management .15
+
+D
+
+B
+
+ENDNOTES
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+http://www.scmp.com/business/article/2018008/smartphone-makers-
+zte-huawei-turn-europe-growth
+
+https://www.idc.com/getdoc.jsp?containerId=prUS42935817
+
+http://www.huawei.com/us/sustainability/sustainability-report,
+Huawei 2016 Sustainability Report, p . 44 .
+
+http://consumer.huawei.com/en/support/product-environmental-
+information/
+
+http://www.huawei.com/us/sustainability/sustainability-report,
+Huawei 2016 Sustainability Report, p . 44 .
+
+http://www.huawei.com/us/sustainability/sustainability-report,
+Huawei 2016 Sustainability Report, p . 42-44 .
+
+http://www.huawei.com/us/sustainability/sustainability-report,
+Huawei 2016 Sustainability Report, p . 50 .
+
+http://consumer.huawei.com/en/support/product-environmental-
+information/
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+http://www.huawei.com/us/sustainability/sustainability-report,
+Huawei 2016 Sustainability Report, p . 51 .
+
+http://www.huawei.com/us/sustainability/sustainability-report,
+Huawei 2016 Sustainability Report, p . 61 .
+
+http://www.huawei.com/us/sustainability/sustainability-report,
+Huawei 2016 Sustainability Report, p . 61 .
+
+https://www.ifixit.com/smartphone-repairability
+
+http://www.miit.gov.cn/newweb/n1146290/n4388791/c4667571/
+content.html
+
+http://www.huawei.com/us/sustainability/sustainability-report,
+Huawei 2016 Sustainability Report, p . 59 .
+
+http://www.huawei.com/us/sustainability/sustainability-report,
+Huawei 2016 Sustainability Report, p . 46 .
+
+GREE NPEACE GUIDE TO GREEN ER ELECTRONI CS  – 2 01 7 COM PAN Y REPORT CARD  |  38
+
+C-
+
+Lenovo
+
+While Lenovo sells smartphones and tablets, the company is best known for its personal
+computers, for which it makes up roughly 20% of global market share . While Lenovo
+has made important progress in reducing its own emissions, its supply chain emissions
+are rapidly increasing, and already nine times larger than its own emissions . Lenovo
+should become more transparent by publishing its supplier list and more specifics on
+how it is working to transition its suppliers to a renewably powered supply chain . As
+one of the world’s leading IT companies, Lenovo has an opportunity to drive significant
+reductions across its suppliers, and should begin by setting a more ambitious 100%
+renewable energy goal for its own operations as its peers Apple and HP have already
+done . On circular production, Lenovo appears ready to move beyond the use of recycled
+plastics to incorporate more secondary and closed-loop inputs in its products . However,
+Lenovo has failed to fully deliver on its commitment to eliminate BVC and BFRs from its
+products, with the exception of the Think product line . Despite a rather thorough list for
+managing product chemicals and requiring suppliers to report full materials disclosure
+for products and parts, Lenovo has not demonstrated the same effort in monitoring
+manufacturing chemicals .
+
+Renewable Energy & Climate Change
+
+TRANSPARENCY.  Lenovo provides a detailed breakdown of its scope 1, 2 and 3 GHG footprint, including
+supply chain emission data, and the use of renewable energy for its own operation on its official website .1 Lenovo
+discloses its green power procurement mechanisms, detailing on-site solar installation and different types of
+RECs purchased . In terms of product LCA, Lenovo reported detailed GHG footprint for its newer tablets and
+laptops .2 However, Lenovo has yet to publish a list of suppliers or provide details on the distribution of emissions
+across its supply chain .
+
+COM MIT MENT.  Lenovo has made a commitment to cut absolute GHG emission in its own operation by 40% by
+2020, compared to 2010 . The company recent commitment to add 30 MW of renewable energy 2021 is a start for its
+own operations, but far from ambitious . Lenovo needs to apply its experience in reducing its own emissions to help
+its suppliers reduce Lenovo’s rapidly growing emissions from its product supply chain, which is already nine times
+as large as its own Scope 1 and 2 emissions, and currently growing at 25% annually . While Lenovo has set a target
+aiming to have at least 75% of direct suppliers to have climate change reduction goals (pg 31-32),3 much stronger
+ambition is needed to begin to curb this growth and transition its suppliers to renewable sources of energy .4
+
+C
+
+C
+
+C
+
+GREE NPEACE GUIDE TO GREEN ER ELECTRONI CS  – 2 01 7 COM PAN Y REPORT CARD  |  39
+
+Renewable Energy & Climate Change (continued)
+
+PERFO RM ANC E. Lenovo has shown a clearer plan and overall strategy to cut its own emissions compared
+to the rest of the Chinese brands, but still lags behind front-runners like Apple as well as peers like Dell and HP .
+Lenovo has reported a 32% reduction in its scope 1 and 2 emissions (market-based), compared to 2009, in part
+through 130+ energy efficiency initiatives worldwide, but also from the purchase of unbundled RECs and carbon
+offsets, which do little to add additional renewable energy to the grid . Lenovo’s supply chain (purchased goods
+and services) GHG footprint continues to see dramatic growth, increasing by nearly 25% just from 2015 to 2016 .5
+
+ADVOC ACY.  Lenovo has demonstrated leadership in climate positive advocacy when it signed the American
+Business Act on Climate Pledge for Paris Agreement . It’s time for Lenovo to speak louder with real action in
+greening its manufacturing and supply chain with more renewable energy .
+
+Sustainable Design & Resource Reduction
+
+TRANSPARENCY.  Lenovo discloses material composition data for some products, though not for mobile
+phones .6 Lenovo has published detailed information about end-of-life management for products annually since
+2012, including amount of products reused, recycled, landfilled and incinerated, by weight and by region (pg 24) .
+Lenovo also reports its use of recycled plastic (pg 25) . Lenovo also publishes its smelter list for conflict minerals7
+and its due diligence efforts (pg 63) .
+
+CO MMITMENT.  Lenovo has no public goals to close the production loop or specific targets for increased use
+of secondary materials across its product line . Lenovo has set a vague closed-loop commitment for its Moto line,
+but there is no timeline .8 Lenovo also stated it is investigating opportunities for closed-loop plastics, though gave
+no specifics about which products this would be used in .
+
+PERFORMANCE: CIRCULAR PROD UCTI ON . Lenovo shows progress in amount of products reused and
+recycled through its take-back channels over time . Lenovo is one of the few companies to report overall use of
+recycled plastic over time, which we see is slowly declining from 2012 to 2016 unfortunately . Lenovo offers take-
+back programs beyond only those regions where it is legally required; however, the company has not met its own
+target to offer take-back in all markets in which Lenovo sells product . Lenovo reports to be using some closed-
+loop methods for sourcing plastic for reuse in the manufacture of new Lenovo and non-Lenovo products .9
+
+PERFORMANCE: PRODUCT LIFE  EXTEN SI ON . Lenovo shares repair manuals online for some but not
+all products,10 as well as some video tutorials on repair .11 Many Lenovo products have spare parts available on
+Lenovo’s website .12 Recent smartphones from Lenovo score average in iFixit repairability assessments .13 Lenovo
+sells refurbished products in mature markets .14
+
+ADVOCACY.  Like Huawei, Lenovo has also supported the extended producer responsibility pilot project created
+by China’s Ministry of Industry and Information Technology (MIIT) .15
+
+C
+
+C
+
+C
+
+C
+
+B
+
+D
+
+C
+
+C
+
+B
+
+GREE NPEACE GUIDE TO GREEN ER ELECTRONI CS  – 2 01 7 COM PAN Y REPORT CARD  |  40
+
+Hazardous Chemical Elimination: Products & Supply Chain D
+
+TRANSPARENCY.  Lenovo does not disclose its supplier list . Lenovo publishes a fairly thorough product RSL
+which includes thresholds;16 however, this same attention is not paid to managing process chemicals in supplier
+factories . The only substances restricted for manufacturing purposes are ozone-depleting chemicals, which
+are not restricted for worker safety . Lenovo should follow the lead of Apple, Dell and Microsoft and publish a
+thorough MRSL .
+
+COM MIT MENT.  In its CSR report, Lenovo states it support of phasing out BFR and PVC from products;
+however, it has not established a timeline for doing so .17 The company makes no explicit commitments to
+restricting process chemicals .
+
+PERFO RM ANC E. While Lenovo has yet to phase out PVC and BFRs altogether the company does report some
+progress . Lenovo has completely phased out the use of BFR/PVC in all mechanical plastic parts (such as external
+covers, housings, etc .) and the company has eliminated most PVC and BFRs from ThinkPad notebooks, excluding
+accessories . The company is using a system of Full Materials Disclosure (FMD) with suppliers to have better
+visibility of what is in its products, but this information is not made public . Lenovo incorporates the EICC code of
+conduct into its contracts with suppliers and Lenovo conducts audits of 95% of suppliers each year; however, the
+results of these audits are not reported in a way that gives much detail about findings .18
+
+ADVOC ACY.  No evidence found of positive or negative advocacy .
+
+D
+
+D
+
+D
+
+–
+
+ENDNOTES
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+https://www3.lenovo.com/us/en/social_responsibility/climate/
+performance/
+
+9
+
+http://www3.lenovo.com/us/en/social_responsibility/product_
+recycling_program/
+
+https://www3.lenovo.com/us/en/social_responsibility/datasheets_
+notebooks
+
+https://www3.lenovo.com/us/en/social_responsibility/FY2017-Lenovo-
+Sustainability-Report.pdf, Lenovo Group Ltd, 2016/17 Sustainability
+Report, p .23-33 .
+
+https://www3.lenovo.com/us/en/social_responsibility/GreenPaper-
+Addressing-Climate-Change-at-Lenovo.pdf
+
+https://www3.lenovo.com/us/en/social_responsibility/climate/
+performance/
+
+https://www3.lenovo.com/us/en/social_responsibility/datasheets_
+notebooks
+
+https://www3.lenovo.com/us/en/social_responsibility-content/Lenovo_
+Conflict_Minerals_Update.pdf
+
+https://www.motorola.com/us/about/corporate-responsibility-
+operations
+
+10
+
+https://support.lenovo.com/us/en/
+
+11  www.lenovoservicetraining.com
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+http://support.lenovo.com/us/en/partslookup
+
+https://www.rethink-it.org/
+
+http://www3.lenovo.com/us/en/outletus/
+
+http://www.miit.gov.cn/newweb/n1146290/n4388791/c4667571/
+content.html
+
+http://www3.lenovo.com/us/en/pdf/41A7731.pdf
+
+http://www3.lenovo.com/us/en/social_responsibility/FY2017-Lenovo-
+Sustainability-Report.pdf, p . 107 .
+
+http://www3.lenovo.com/us/en/social_responsibility/FY2017-Lenovo-
+Sustainability-Report.pdf, p . 60 .
+
+GREE NPEACE GUIDE TO GREEN ER ELECTRONI CS  – 2 01 7 COM PAN Y REPORT CARD  |  41
+
+D+
+
+LG
+
+LG Electronics produces a wide range of electronic devices, which include personal
+electronic devices such as PCs, laptops, and smartphones, as well as home appliances such
+as TVs and refrigerators . While often operating in the shadow of Korean rival Samsung in
+terms of market share among personal computing devices, LG has recently seen promising
+growth in several foreign markets . LG has recently shown more innovation in its product
+design than both Apple and Samsung, producing both partially modular smartphones
+and thin client laptop computers that are easy to repair . While LG has been successful in
+stabilizing its GHG emissions for its own operations, this has apparently been achieved
+in part by outsourcing more to its suppliers, with its supply chain emissions dramatically
+increasing . LG needs to expand its climate protection goals to include its supply chain
+footprint, and give much greater urgency to deploying and securing access to renewable
+sources of energy across both its own facilities and those of its suppliers .
+
+Renewable Energy & Climate Change
+
+TRANSPARENCY.  LG publishes a detailed breakout of its Scope 1 & 2 GHG emissions and energy footprint
+for its own facilities, including total GHG emissions and electricity consumption by country, though only in its
+submission to CDP . While LG also reports its scope 3 supply chain GHG emissions in its submission to CDP, it
+excludes these emissions from its most recent Sustainability Report, even though supply chain emissions were
+nearly three times LG’s own scope 1 & 2 emissions in 2016 . LG breaks out its renewable energy purchases, but
+does not provide adequate detail on what mechanism it used to secure this supply outside of Korea, particularly
+in the US . LG does not publish its suppliers list or indicate how its supply chain footprint is allocated across its
+major suppliers . LG publishes product level carbon footprint assessments for a limited number of product lines .1
+
+COM MIT MENT.  LG has established an absolute GHG reduction goal of approximately 10% of its 2008
+emissions, approximately 150,000tonnes CO2e, to be achieved by 2020 .2 Given the selection of a very high
+emissions base year prior to the economic downturn, LG appears to be well positioned to hit this target . LG does
+not currently have a measurable GHG or energy reduction goal that applies to its product supply chain emissions,
+which appear to have risen significantly in the past year .3 LG has also set an intensity based GHG reduction target
+of 40%, tied to emissions per unit of revenue) based on 2009 levels . Given the low amount of renewable energy
+powering LGs operations, and its rapidly expanding supply chain footprint, LG would be well served to establish
+aggressive renewable energy targets both for its own operations as well as it supply chain, and should include its
+supply chain in any future GHG goals .
+
+D
+
+D
+
+D
+
+GREE NPEACE GUIDE TO GREEN ER ELECTRONI CS  – 2 01 7 COM PAN Y REPORT CARD  |  42
+
+Renewable Energy & Climate Change (continued)
+
+PERFO RM ANC E. While LG GHG emissions for its own operations have remained relatively flat the past two
+years, its supply chain emissions have dramatically increased,jumping 75% in one year .4 While LG proudly touts
+its progress toward achieving its absolute target of 150,000 tonnes from its 2008 base year, its supply chain
+emissions increased by nearly that amount just in one year, and were nearly triple LG own combined Scope 1 &
+2 emissions in 2015 . LG has finally begun to deploy renewable energy in South Korea and elsewhere linked to
+its own operations, but given the rapid growth of its supply chain footprint, must be rapidly expanded both in
+ambition and scope to include driving renewable energy into its supply chain, as Apple has begun to do .
+
+ADVOC ACY.  No evidence found of positive or negative advocacy .
+
+Sustainable Design & Resource Reduction
+
+TRANSPARENCY.  LG publishes data on its take-back efforts, though data is far more comprehensive for efforts
+in US than in Korea and some other countries . LG does not publish info for Africa, Middle East, and large parts of
+Asia, including China .5 While LG reports that the company requires suppliers to provide information on materials
+used for parts through LG’s Hazardous Substance Management System, LG does not make this information
+public . LG does not publish material footprint data for its products . LG does report on its overall use of recycled
+plastic in smartphones and other electronics and home appliances in 2016 (5,302 tons), which is down from past
+years . (LG Electronics used 5,617 tons of PCR plastics in 2013, 7,885 tons in 2014, and 6,730 tons in 2015 .)6 To
+improve, LG should publish more information on overall material use, as well as use of recycled materials beyond
+plastic . Additionally, while LG reports on overall efforts to avoid conflict minerals (83% CFSP compliant, page 81
+of 2017 CSR report), LG should publicly disclose its smelters .
+
+CO MMITMENT.  LG has a strategy for greener products which includes goals related to resource reduction,
+including the use of more recycled materials, and also a goal to increase recyclability, including design for easy
+disassembly .7 To improve, LG must establish measurable goals with timelines related to these efforts .
+
+PERFORMANCE: CIRCULAR PROD UCTI ON . LG reports on the use of recycled plastic across its
+products line, though it’s unfortunate to see this decreasing since 2014 . On the bright side, LG has a policy
+against the export of e-waste in line with the Basel Convention and in 2011, LG announced that it would only
+work with certified e-Stewards recyclers,8 which use the highest standards in the recycling industry . LG was
+the first company to agree to use e-Stewards recyclers exclusively globally and we applaud LG for making this
+commitment . LG goes slightly beyond legal requirements to offer take-back in 50 countries as of 2016 .
+
+PERFORMANCE: PRODUCT LIFE  EXTEN SI ON . LG products score satisfactorily in iFixit repairability
+assessments (Average scores of the G4, G5, G6, smartphones the Gpad 7 tablet,and Gram laptop is 7 .5/10), due
+in large part to the high-scoring LG G4 and G5 phones with their easily replaceable batteries . Unfortunately, LG
+appears to have moved away from this design feature with its latest flagship phone, the LG G6, which is sealed
+with tough adhesive . LG does not report on number of refurbished products sold and does not promote the sale
+of refurbished products in developed markets .
+
+ADVOCACY.  No evidence found of positive or negative advocacy .
+
+D
+
+D
+
+–
+
+C-
+
+C
+
+D
+
+C
+
+C
+
+–
+
+GREE NPEACE GUIDE TO GREEN ER ELECTRONI CS  – 2 01 7 COM PAN Y REPORT CARD  |  43
+
+Hazardous Chemical Elimination: Products & Supply Chain D+
+
+TRANSPARENCY.  LG publishes its PRSL which includes substances monitored in products and threshold
+limits; however, many chemicals listed are in fact those already banned by legislation .9 LG does not publish an
+MRSL, yet it reports using an internal system for managing workplace chemicals . To improve in transparency, LG
+should make both its MRSL and supplier list public .
+
+COM MIT MENT.  LG reports that its work to phase out PVC and BFRs across its product lines is still ongoing, and
+the company no longer has a deadline, despite missing earlier deadlines it set in 2010 and 2012 . The company
+claims to prohibit the use of one substance—methanol—in supplier facilities to protect worker health and safety .
+However, it is unclear whether they are implementing such policies limited to first-tier suppliers or it applies to
+entire supply chain .
+
+PERFO RM ANC E. LG reports some progress on removing PVC and BFRs from mobile phones since 2010,
+followed by phthalates and beryllium since 2011 and antimony trioxide since 2012 .10 LG should continue to
+move forward with its efforts on product detox across all products (including laptops) and accessories . In terms
+of worker health and safety, LG learned in 2016 that workers in its supply chain went blind after using methanol
+for aluminum cutting purposes . LG investigated the use of methanol at all supplier facilities, prohibited the use
+in production, and is providing trainings to 1st tier suppliers to ban the use of methanol .11 To protect workers
+further, LG should monitor and restrict the use of other known manufacturing hazards, such as benzene,
+n-hexane, toluene, as other leading companies have done and publish more information about its screening
+method for identifying truly safer alternatives .
+
+ADVOC ACY.  Unlike Samsung, LG Display Co ., Ltd .12 announced support for comprehensive compensation for
+workers with occupational diseases, including supply chain workers .
+
+D
+
+D
+
+C
+
+B
+
+ENDNOTES
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+http://www.lg.com/global/sustainability/environment/greener-
+products/products-application
+
+http://www.lg.com/global/pdf/Sustainability-Report/2016-2017%20
+Sustainability-Report.pdf
+
+LG Electronics 2016 CDP submission .
+
+LG Electronics 2016 CDP submission .
+
+http://www.lg.com/global/recycling
+
+http://www.lg.com/global/sustainability/communications/
+sustainability-reports, 2017 CSR report, p . 57
+
+http://www.lg.com/global/sustainability/environment/greener-
+products/green-product-strategy
+
+8
+
+9
+
+10
+
+11
+
+12
+
+http://www.prnewswire.com/news-releases/lg-electronics-commits-to-
+using-the-most-responsible-e-waste-solution-worldwide-126244008.
+html
+
+http://www.lg.com/global/sustainability/environment/management-of-
+hazardous-substances
+
+LG 2016-2017 CSR report, p . 55 .
+
+LG 2016-2017 CSR report, p . 67 .
+
+http://www.hani.co.kr/arti/economy/marketing/796502.html
+
+GREE NPEACE GUIDE TO GREEN ER ELECTRONI CS  – 2 01 7 COM PAN Y REPORT CARD  |  44
+
+C-
+
+Microsoft
+
+With the introduction of its line of Surface laptops and tablets, Microsoft has significantly
+expanded since we last evaluated its performance as a hardware company in the Guide
+(Version 16, 2010), when it had consistently ranked near the bottom . However, in our
+evaluation of Microsoft’s data centers’ operations in Greenpeace’s Clicking Clean report,1
+we have recently noted a stronger commitment to environmental performance since
+Brad Smith was named president and put in charge of environmental sustainability .
+Unfortunately, this stronger commitment to the environment has not translated over
+to Microsoft’s hardware design and supply chain management to date, particularly in
+the product design of its Surface laptops and tablets . These products currently suffer
+from both poor reliability and extreme difficulty to repair, a combination that is bad for
+the consumer as well as the environment . Microsoft has made efforts to address worker
+health in its supply chain, including preventing child labor associated with mineral
+extraction . Given its rapidly rising supply GHG emissions, Microsoft needs to work
+collaboratively with its supplier to quickly export the success it has made in securing
+renewable energy for its data centers to address its rapidly growing supply chain
+emissions footprint is East Asia, as we now see being executed by Apple .
+
+Renewable Energy & Climate Change
+
+TRANSPARENCY.  Microsoft’s reporting of its own energy footprint indicates gradual but important
+improvements in the past two years, moving beyond its claims of being “carbon neutral” to setting interim
+targets and reporting its progress toward becoming 100% renewably powered . However, Microsoft currently only
+publishes its top 100 production suppliers by spend, without any detail on location or their role in the supply
+chain .2 While Microsoft can claim some significant improvement in its supply chain reporting, with more of its
+suppliers reporting their emissions to CDP, Microsoft’s own reporting of its aggregate supply chain emissions have
+become more opaque, stating its reported 20% increase in emissions from its product supply chain may be over-
+or underreported by as much as 50% .3
+
+COM MIT MENT.  Microsoft’s 100% renewable commitment for its own operations has been supplemented by an
+interim goal of 50% renewable by 2018 . However, Microsoft has not expanded its 100% renewable commitment
+to its supply chain as Apple has done, nor has it set any reduction targets for rapidly growing supply chain
+emissions, which shot up by 20% in 2016 alone .4 To begin to get control of this growth, Microsoft should also set
+targets for the percentage of its suppliers who have themselves established greenhouse gas reduction goals .
+
+PERFO RM ANC E. Microsoft has begun to act with greater urgency in tackling the energy footprint of its rapidly
+growing cloud infrastructure, working to deploy large-scale renewable energy projects to power its data centers .
+However, similar urgency and commitment is currently lacking in managing its rapidly expanding supply chain
+emissions, which saw a 20% increase in greenhouse gasses in 2016 .
+
+D+
+
+C
+
+D
+
+D
+
+GREE NPEACE GUIDE TO GREEN ER ELECTRONI CS  – 2 01 7 COM PAN Y REPORT CARD  |  45
+
+Renewable Energy & Climate Change (continued)
+
+ADVOC ACY.  Microsoft has recently stepped up its advocacy in the United States, joining Apple, Google, and
+Amazon in filing an amicus brief in support of federal legislation to restrict carbon emissions in the electricity sector .
+Microsoft also joined with a number of major corporations to urge the Trump administration to not seek to withdraw
+the United States from the Paris Climate Agreement .5
+
+Sustainable Design & Resource Reduction
+
+TRANSPARENCY.  Microsoft shares material composition data for several recent products, however these reports
+do not contain information about recycled content in products beyond packaging .6 The company reports limited
+information on its consumer electronics recycling efforts .7 However, Microsoft discloses a detailed list of its smelters,
+annual conflict-free compliance levels, as well as its due diligence efforts to avoid sourcing conflict minerals .8
+
+CO MMITMENT.  As far as committing to reduce overall resource consumption, Microsoft has issued vague
+principles for product design which include “closing the lifecycle loop through effective end-of-life practices” and
+“processes for the use of recycled metals, which aim to increase the ratio of recycled content significantly .” These
+statements lack specifics, measurable outcomes, and a timeline .
+
+PERFORMANCE: CIRCULAR PROD UCTI ON . Microsoft has not assessed priority materials for closed-
+loop sourcing . While the company reports using recycled metals and plastics in its devices, no further details
+are reported including which materials or how much . Microsoft’s responsible sourcing due diligence program
+extends beyond 3TG to include cobalt .9 While tricky to navigate online, Microsoft offers take-back services
+beyond legal requirements10 and requires its recycling partners to follow the Basel Treaty regarding the export
+of e-waste .11 Unfortunately, Microsoft’s products score very low on iFixit repairability assessments which means
+disassembly for recycling is time-consuming and expensive .
+
+PERFORMANCE: PRODUCT LIFE  EXTEN SI ON . Despite Microsoft’s “Design for Green” 12 approach, which
+purports to factor in resource efficiency, Microsoft’s products are some of the lowest scorers in repairability
+assessments . In June 2017, iFixit gave the Microsoft Surface laptop an unprecedented zero out of 10, for its
+difficulty to remove the battery, non-upgradable storage, and the fact the device could not be opened without
+“inflicting a lot of damage .”13 Other Surface laptops and tablets tend to be low scorers as well, particularly
+for using excessive amounts of adhesive . These design choices make repairs time-consuming and upgrades
+impossible, both of which shorten product lifespans . A particular problem for Surface devices, which Consumer
+Reports recently found to break at higher rates than other brands they assess .14 Additionally, Microsoft does not
+provide repair manuals or spare parts, further preventing repair . Microsoft does offer refurbished products in
+mature markets, saving itself from a total zero in this criteria .15
+
+ADVOCACY.  Microsoft’s membership to ITI, which lobbies against Right to Repair legislation in the US, gives
+Microsoft a poor advocacy grade for reducing resource consumption .
+
+D+
+
+A
+
+D+
+
+C
+
+D
+
+C
+
+D
+
+D
+
+GREE NPEACE GUIDE TO GREEN ER ELECTRONI CS  – 2 01 7 COM PAN Y REPORT CARD  |  46
+
+Hazardous Chemical Elimination: Products & Supply Chain
+
+TRANSPARENCY.  While Microsoft does publish a list of its top 100 suppliers, only the supplier name is
+provided . Microsoft’s PRSL, however, is far more comprehensive .16 Microsoft also publishes its MRSL,17 one
+of only three companies assessed to do so . (Apple and Dell are the others) . Microsoft reports out on overall
+findings of its EICC audits .18
+
+COM MIT MENT. Microsoft has yet to deliver on its earlier commitment to phase out PVC and BFRs altogether, and does
+not have a timeline at this point for phasing PVC, BFRs, beryllium, antimony trioxide, and phthalates out of all products .
+
+PERFO RM ANC E. Despite no overarching commitment to phase out PVC and BFRs, Microsoft has made some
+progress . For example, BFR use is restricted, with exemptions (pigments of color filters in displays and cameras) .
+We can see from Microsoft’s MRSL that it has banned certain process chemicals of concern, such as benzene
+and n-hexane from all manufacturing processes, and has restricted the use of toluene, methanol and VOCs in
+manufacturing settings . Additionally, Microsoft has expanded worker health and safety due diligence beyond
+periodic audits and corrective actions . Microsoft has established a Process Chemical Management Program to
+restrict and phase out of certain chemicals from the manufacturing processes of direct suppliers .
+
+ADVOC ACY. No evidence found of positive or negative advocacy .
+
+C
+
+B
+
+D
+
+C
+
+–
+
+ENDNOTES
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+www.clickclean.org
+
+http://download.microsoft.com/download/0/1/4/014D812D-B2E3-43A0-
+A89A-16E3C7CD46EE/Microsoft_Top_100_Production_Suppliers_2016.pdf
+
+Microsoft 2016 Supply Chain CCP Submission
+
+http://download.microsoft.com/download/0/1/4/014D812D-B2E3-
+43A0-A89A-16E3C7CD46EE/2016_Data_Factsheet_Environmental_
+Indicators.pdf
+
+https://www.c2es.org/international/business-support-paris-agreement
+
+https://www.microsoft.com/en-us/download/details.
+aspx?id=55974&751be11f-ede8-5a0c-058c-2ee190a24fa6=True
+
+https://www.microsoft.com/about/csr/environment/sustainable_
+devices/recycling/
+
+https://www.microsoft.com/en-us/about/corporate-responsibility/
+responsible-sourcing
+
+https://blogs.microsoft.com/on-the-issues/2017/08/30/working-
+together-expand-fight-child-labor-mining/
+
+10
+
+https://www.microsoft.com/about/csr/environment/sustainable_
+devices/recycling/default.aspx
+
+11
+
+12
+
+13
+
+14
+
+https://www.microsoft.com/about/csr/environment/sustainable_
+devices/recycling/, download specifications
+
+https://www.microsoft.com/about/csr/environment/sustainable_
+devices/compliance-and-sustainability-in-product-design/
+
+https://www.ifixit.com/Teardown/
+Microsoft+Surface+Laptop+Teardown/92915
+
+https://www.consumerreports.org/laptop-computers/microsoft-surface-
+laptops-and-tablets-not-recommended-by-consumer-reports/
+
+15
+
+https://www.microsoft.com/en-us/refurbishedpcs
+
+16  Dowload H00594_Restricted_Substances_for_Hardware_Products_
+
+RevAF .docx here: https://www.microsoft.com/en-us/download/details.
+aspx?id=11691
+
+17  Dowload H00594_Restricted_Substances_for_Hardware_Products_
+
+RevAF .docx here: https://www.microsoft.com/en-us/download/details.
+aspx?id=11691, p . 24 .
+
+18
+
+https://www.microsoft.com/en-us/about/corporate-responsibility/
+www.microsoft.com/en-us/CMSFiles/Microsoft%20Devices%20
+Social%20and%20Environmental%20Accountability%20FY17.
+pdf?version=41F3A795-0E03-1092-A5BE-ADF88D1C3C86
+
+GREE NPEACE GUIDE TO GREEN ER ELECTRONI CS  – 2 01 7 COM PAN Y REPORT CARD  |  47
+
+F
+
+Oppo
+
+Oppo is one of the fastest-growing smartphone companies in the world, ranked 4th in
+terms of global market share at 8% and 2nd in China, where its has a nearly 20% market
+share . Oppo also has a strong presence in India, and seeks to break into other global
+markets as well, as evidenced by their high profile sponsorship of the Barcelona football
+club . Oppo is a subsidiary of BKK electronics, which also owns Chinese rival Vivo, but
+the two brands are run independently . Oppo is also the owner of the OnePlus brand .
+While Oppo is quickly emerging as a leader in sales, it is a clear laggard in addressing
+its environmental responsibility . Like its BKK sister company, Oppo does not publish
+even basic information regarding its environmental performance or its sustainability
+efforts . Oppo did not respond to Greenpeace’s repeated requests to provide details on
+its strategy for improving the sustainability of its own operations or the environmental
+performance of its suppliers .
+
+Renewable Energy & Climate Change
+
+TRANSPARENCY.  Despite being one of the fastest growing smartphone brands in the world, Oppo does not
+prioritize informing the public of its sustainability strategy . It does not publish a CSR report, nor does it disclose
+any emission data to the public . In the age of information, building trust with consumers through transparency is
+imperative for building brand loyalty .
+
+COM MIT MENT.  Neither Oppo or its parent company BKK have made public a sustainability strategy, or made
+any public commitment to address its energy and climate footprint .
+
+P E R F O R M A N C E .   Oppo fails to disclose even basic details on its energy performance, or efforts to reduce
+greenhouse gas emissions in its own operations or those of its suppliers . Given Oppo’s rapid growth in smartphone
+sales and the apparent absence of strategy to transition to renewable energy, this growth is likely to result in a
+significant increase in Oppo’s greenhouse gas emissions .
+
+ADVOC ACY.  No positive or negative advocacy for renewable energy from Oppo discovered .
+
+F
+
+F
+
+F
+
+F
+
+–
+
+GREE NPEACE GUIDE TO GREEN ER ELECTRONI CS  – 2 01 7 COM PAN Y REPORT CARD  |  48
+
+Sustainable Design & Resource Reduction
+
+TRANSPARENCY.  Despite the growing popularity of its products, Oppo does not publish any data about the
+materials used in its phones, the use of recycled materials, or take-back data .
+
+CO MMITMENT.  Neither Oppo or its parent company BKK have made public a sustainability strategy, or made
+any public commitment to reduce the impact its products have through the use of recycled materials or long
+lived product design .
+
+PERFORMANCE: CIRCULAR PROD UCTI ON . While Oppo recently announced a partnership in Australia to
+recycle its phones at end of life,1 the company will have to offer far more robust take-back programs, especially in
+Asia, to collect and repurpose the materials in the many millions of Oppo phones expected to be approaching the
+end of their lifespan .
+
+PERFORMANCE: PRODUCT LIFE  EXTEN SI ON . Oppo’s R9m scored 7 out of 10 on a recent repairability
+assessment .2 While the interior of the phone contained numerous modular parts that could be replaced
+independently, opening the device was difficult . Oppo does not provide repair manuals or spare parts to the public .
+
+ADVOCACY.  No evidence found of positive or negative advocacy
+
+Hazardous Chemical Elimination: Products & Supply Chain
+
+TRANSPARENCY.  Oppo does not disclose information about chemical management in its products or supply chain .
+
+COM MIT MENT. Oppo fails to disclose its chemical management strategy, nor has it publicly committed to eliminate
+chemicals of concern such as PVC, BFRs and phthalates from it products .
+
+PERFO RM ANC E. Oppo fails to disclose its chemical management strategy, nor make public a supplier code
+of conduct . Oppo is one of the few companies in the Guide that are not members of EICC, which requires regular
+auditing of its suppliers against a standard code of conduct .
+
+ADVOC ACY. No evidence found of positive or negative advocacy
+
+F
+
+F
+
+F
+
+F
+
+D
+
+–
+
+F
+
+F
+
+F
+
+F
+
+–
+
+ENDNOTES
+
+1
+
+http://www.mobilemuster.com.au/news/articles/2016-10/
+mobilemuster-announces-oppo-as-new-member-of-national-recycling-
+program/
+
+2
+
+https://www.ifixit.com/smartphone-repairability
+
+GREE NPEACE GUIDE TO GREEN ER ELECTRONI CS  – 2 01 7 COM PAN Y REPORT CARD  |  49
+
+D-
+
+Samsung
+
+Samsung currently occupies a critical position of influence over whether our devices
+are designed and built for the planet . Samsung is both the world’s largest manufacturer
+of smartphones and is also one of the largest manufacturers of memory, displays, and
+the integrated circuits that serve as the engines for our electronic devices, making the
+company a critical supplier to many of the other companies in this year’s Guide, including
+Apple . Unfortunately, in neither Samsung’s product lines nor the operation of its factories
+did we find much evidence that reducing Samsung’s environmental impact has been been
+made a priority by the company’s leadership . Samsung has not kept pace with the efforts
+of Apple to reduce its greenhouse gas footprint and transition its factories to renewable
+sources of energy, and has seen its emissions rapidly climb as a result .
+
+Renewable Energy & Climate Change
+
+TRANSPARENCY.  While Samsung continues to report its own greenhouse gas emissions and energy footprint
+at a fairly standard level of detail, contrary to the trend across other major brands, its reporting of GHG emissions
+from its supply chain significantly degraded in its most recent sustainability report . Samsung ‘s supply chain
+emissions went from nearly double its own Scope 2 emissions in 2014 to “NA” (Not Applicable) in 2016 .1 Samsung
+still fails to publish its list of suppliers . Samsung does publish basic product level carbon footprint assessment of a
+selection of its product types,2 but does not publish them as regularly as Apple, HP, and Huawei have done .
+
+COM MIT MENT.  Samsung has established an intensity-based GHG target of reducing just its own emissions
+by 70% by 2020, measured as carbon per unit of revenue (2008 baseline) . It is unclear whether this will result in
+absolute emission reduction terms if achieved, with Samsung estimating an absolute reduction of only 3% total
+over a twelve-year window .3 At present, Samsung Scope 1 & 2 emissions are rapidly climbing at the rate of 10
+to 15% per year on an absolute basis, and still accelerating .4 Samsung has promised to announce a mid-term
+reduction target for the 2030 timeframe in the coming year . Samsung must move away from move away from the
+use of renewable energy certificates (RECs) and set a clear renewable energy goal for its own operations as well
+as its supply chain to take action on climate change .
+
+PERFO RM ANC E. While Samsung is able to highlight a range of efforts to reduce its GHG emissions, they have
+been insufficient to curb Samsung’s rapidly rising emissions . On both an intensity basis as utilized by Samsung to
+track toward its 2020 goal as well as an absolute emissions measurement, Samsung’s own scope emissions are
+rapidly increasing . Using Samsung-reported Scope 1 & 2 emissions for 2016, absolute emissions have increased
+24% just since 2014, and were estimated to increase another 15% by the end of 2017 . While Samsung reports a
+near doubling of renewable electricity consumption in 2016 to 182 GWh, this jump comes from an extremely low
+basis, and would account for only 1% of its total electricity use .5
+
+ADVOC ACY.  No evidence found of positive or negative advocacy
+
+D
+
+D
+
+D
+
+D
+
+–
+
+GREE NPEACE GUIDE TO GREEN ER ELECTRONI CS  – 2 01 7 COM PAN Y REPORT CARD  |  50
+
+Sustainable Design & Resource Reduction
+
+TRANSPARENCY.  Samsung tracks and reports its use of recycled plastics since 2014 for monitors, printers,
+refrigerators, and ear-phone cases; however, this plastic does not seem to be used in consumer electronics .6
+The company publishes material composition data for some products; however, it is not possible to see from
+this data how much secondary materials are used .7 Samsung does report details on its take-back efforts from
+2009 . Samsung reports to be working with the Conflict Free Smelter Initiative, but unlike other major companies,
+Samsung does not publish its list of smelters for 3TG .8
+
+CO MMITMENT.  Samsung lacks specific goals related to reduction of resource consumption either via
+extending product lifespans or using increasing amounts of recycled inputs . The company does have one goal
+relating to take-back: to collect 3 .8 million tons of equipment by 2020, starting in 2009; however, there are no
+details to specify these electronics be used in circular production schemes .9
+
+PERFORMANCE: CIRCULAR PROD UCTI ON . In 2016, Samsung used 30,849 tons of recycled plastic across
+its product lines (including home appliances), or roughly 5% of total plastic used . Unfortunately, this number is
+down from last year’s total: 34,322, or 6 .3% .10 Samsung offers take-back services in 60 countries, beyond where
+legally required, and Samsung has a policy for its recycling partners to not export electronic waste to developing
+countries .11 Despite Samsung’s promotion of the circular economy in its sustainability report, the company’s design
+decisions, including the use of excessive adhesive in smartphones, make the process of supporting the circular
+economy, through repair and recycling, more challenging .12 This was especially clear after Samsung’s recall of the
+overheating Galaxy Note7 devices . Had the batteries in those handsets been easy to access and replace, Samsung
+could have potentially avoided the recall of millions of devices worldwide and distributed replacement batteries . In
+response to Greenpeace pressure, Samsung refurbished and sold 400,000, or roughly 10%, of recalled Note7 devices
+in South Korea . The company has stated it will recycle the other metals in the devices .13
+
+PERFORMANCE: PRODUCT LIFE  EXTEN SI ON . Repairability of recent smartphones (the S8, S7, and S7
+edge) and tablets (the Tab3) score unsatisfactorily (3s and 4s out of 10) . The Notebook Series 9 15-inch laptop is
+a welcome exception, scoring 9/10, and demonstrating that Samsung can design for repairability when it comes
+to laptops . The company should apply similar principles to smartphones and tablets . Samsung’s recent phones
+tend to rely on a great deal of adhesive, making repairs difficult and time-consuming . On the plus side, the S8,
+S7, and S7 edge all have an SD card slot, meaning device memory can be increased without buying a whole new
+device . Samsung does not make spare parts or repair manuals publicly available, but the company does sell
+refurbished products in some markets including the US .14
+
+ADVOCACY.  Samsung’s membership to ITI, which lobbies against Right to Repair legislation in the US, gives
+Samsung a poor advocacy grade for this impact area .
+
+D
+
+C
+
+F
+
+D
+
+D
+
+D
+
+Hazardous Chemical Elimination: Products & Supply Chain D-
+
+TRANSPARENCY.  Samsung publishes its PRSL which includes threshold details,15 but the company does not
+publish its MRSL . Samsung publishes the aggregate findings of its supply chain code of conduct audits annually;16
+however, the company does not provide a list of its suppliers .
+
+D
+
+GREE NPEACE GUIDE TO GREEN ER ELECTRONI CS  – 2 01 7 COM PAN Y REPORT CARD  |  51
+
+Hazardous Chemical Elimination... (continued)
+
+COM MIT MENT.  Despite past failures to meet its BFR phaseout timelines, Samsung has now eliminated the use
+of BFRs in new mobile phones (and accessories) and notebooks (and power cord and adapters), since January
+2012 . Samsung has eliminated PVC from the same products; however, power cords and adapters for notebooks
+are excluded .17 Samsung should publicly commit to phase out PVC from all parts and product lines . Samsung
+reports it has a target to ban the use of benzene and n-hexane in the manufacturing process of suppliers, though
+it is unclear if these have also been banned in Samsung’s own plants, and there is no timeline .18
+
+PERFO RM ANC E. Samsung reports progress on its efforts to eliminate the following substances from certain
+product lines: antimony and some phthalates phased out of mobiles (including accessories) and notebooks
+(excluding chargers and adapters) since 2013, beryllium compounds phased out of all products since 2013 .19
+Following the incident in which six workers incurred vision damage from working with methanol as a cutting
+solution over 12-hour shifts,20 Samsung investigated the use of methanol at all supplier facilities . Samsung
+reports to have developed eco-friendly coolants as a substitute for ethanol in order to create a safe workplace .
+However, it is unclear whether Samsung officially prohibited the use of methanol throughout suppliers .21
+
+ADVOC ACY.  Unlike SK Hynix22 or LG Display23, who publicly announced support for comprehensive compensation for
+workers with occupational diseases following the recommendation of an external committee, Samsung moved forward
+with a compensation plan that did not follow the committee’s recommendation and did not cover certain reproductive
+system diseases, reduced the latency period of certain cancers, excluded victims who retired before January 1, 1996,
+and restricted supply chain workers’ compensation only to resident partner company whom have been regularly
+assigned to the specific tasks by Samsung .24 Samsung continues to claim “trade secrets” regarding the chemicals
+handled in Samsung semiconductor and LCD factories by numerous workers who later contracted occupational
+illnesses . (There are now 22 workers who’ve officially received occupational diagnosis, 11 of whom are deceased .25)
+
+D-
+
+D
+
+D
+
+D-
+
+ENDNOTES
+
+Samsung 2017 Sustainability Report, http://www.samsung.com/us/
+aboutsamsung/sustainability/sustainabilityreports/download/2017/
+Samsung_Electronics_Sustainability_Report_2017.pdf, p . 38 .
+
+14
+
+15
+
+https://www.samsung.com/us/explore/certified-pre-owned-phones/
+
+http://www.samsung.com/common/aboutsamsung/download/
+companyreports/SEC%20Standard(0QA-2049)%20Rev18_EN.pdf
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+http://images.samsung.com/is/content/samsung/p5/sg/
+aboutsamsung/2017/aboutsamsung-sg-life-cycle-assessment-en.pdf,
+
+http://www.samsung.com/us/aboutsamsung/sustainability/
+environment/eco_products/download/2017%20Life-Cycle-Assessment-
+for-Mobile-Phones.pdf
+
+Samsung 2016 CDP Submission
+
+Samsung 2017 Sustainability Report, p . 70 .
+
+Samsung 2017 Sustainability Report, p . 38 .
+
+Samsung 2017 Sustainability Report, p . 37 .
+
+http://images.samsung.com/is/content/samsung/p5/sg/
+aboutsamsung/2017/aboutsamsung-sg-life-cycle-assessment-en.pdf
+
+Samsung 2017 Sustainability Report, p . 83 .
+
+Samsung 2017 Sustainability Report, p . 64 .
+
+10  Samsung 2017 Sustainability Report, p . 37 .
+
+11
+
+http://www.samsung.com/us/aboutsamsung/sustainability/
+environment/responsible-recycling/assets/pdfs/samsung_policy.pdf
+
+12  Samsung 2017 Sustainability Report, p . 47 .
+
+13
+
+https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC
+%A0%84%EC%9E%90-%EA%B0%A4%EB%9F%AD%EC%8B%9C-
+%EB%85%B8%ED%8A%B87-%EC%B9%9C%ED%99%98%EA%B2%BD-
+%EC%B2%98%EB%A6%AC-%EC%9C%84%ED%95%9C-
+%EC%9E%90%EC%9B%90-%EC%9E%AC%EC%83%9D%C2%B7?CID=AFL-
+hq-mul-0813-11000279
+
+16  Samsung 2017 Sustainability Report, p . 81 .
+
+17
+
+http://www.samsung.com/common/aboutsamsung/download/
+companyreports/SEC%20Standard(0QA-2049)%20Rev18_EN.pdf
+
+18  Samsung 2017 Sustainability Report, p . 27 .
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+http://www.samsung.com/common/aboutsamsung/download/
+companyreports/SEC%20Standard(0QA-2049)%20Rev18_EN.pdf
+
+http://english.hani.co.kr/arti/english_edition/e_national/733344.html
+
+“ Follow-up study on the acute methanol poisoning victims in cell
+phone manufacturing subcontractors with recommendations for
+improvement .” The original report was prepared and published
+in December 2016 by Solidarity for Workers’ Health, a NGO that
+advocates for workers’ health and safety and the prevention of
+occupational injuries and diseases commissioned by Korean
+Industrial Hygiene Association .(http://laborhealth.or.kr/43375)
+
+http://english.hani.co.kr/arti/english_edition/e_national/719202.html
+
+http://www.hani.co.kr/arti/economy/marketing/796502.html
+
+https://news.samsung.com/kr/?p=247659,
+
+http://cafe.daum.net/samsunglabor/MHzN/373
+
+25  Among 263 Samsung Electronics occupational disease victims, 95 are
+deceased . (2017 .10 .05 .) http://cafe.daum.net/samsunglabor/MHzN/422
+
+GREE NPEACE GUIDE TO GREEN ER ELECTRONI CS  – 2 01 7 COM PAN Y REPORT CARD  |  52
+
+D+
+
+Sony
+
+Sony had been an early leader within the sector in addressing the need to eliminate
+hazardous chemicals from its products, and while Sony continues to demonstrate it has
+the ability to create solutions to reduce its impact on the planet from its energy use and
+resource consumption, this year’s guide found Sony repeatedly lacking in leadership,
+ambition, and follow through necessary to turn Sony into a leader in environmental
+performance . While Sony has made progress in deploying renewable energy in Japan,
+much greater ambition is needed from its leadership, with its 2020 target will only
+deliver approximately 5% renewable energy . Despite Sony’s thorough reporting of its
+own operational footprint and the impacts of its devices, Sony also lags behind sector
+leaders in reporting important details on the environmental performance of its supply
+chain, which appear to several times larger in terms of their impact on the climate than
+Sony’s own facilities .
+
+Renewable Energy & Climate Change
+
+TRANSPARENCY.  Sony provides a very thorough accounting of the company’s Scope 1 & 2 GHG emissions,
+energy use, and other details of its energy related footprint, but remains fairly light on details of its supply chain
+footprint . Unlike other leading brands, Sony does not make public its suppliers, or details on the distribution of
+its supply chain emissions, even though Sony’s reported Scope 3 product goods and services emissions were
+nearly four times larger than it’s combined Scope 1 & 2 emissions in 2016 .
+
+COM MIT MENT.  Sony recently adopted a midterm set of 2020 targets in furtherance of Sony’s “Road to Zero”
+2050 long term plan, including a Scope 1 & 2 GHG reduction target of 5% (from 2015 levels), and a renewable
+energy target expressed in terms of 300,000 tonnes C02e,1 which will apparently only increase Sony’s renewable
+energy from 3 .5% to 4 .1% .2 Greater ambition is needed if Sony is serious about realizing its goal “zero emissions
+of greenhouse gases” in 2050 . Sony also said it will “request” its main suppliers to measure and reduce their
+greenhouse gas intensity by 1% per year, and similarly request them to utilize renewable energy .3 While these
+new targets are positive directionally, they similarly lack adequate ambition, particularly Sony’s targets for
+renewable energy and supply chain emissions . Sony’s lack of transparency on which companies are part of their
+supply chain will also make it difficult to assess whether their request has been responded to .
+
+PERFO RM ANC E. Sony has made some progress in curbing its own emissions in absolute terms through a
+mixture of energy efficiency and limited deployment of renewable energy . Sony has purchased or deployed
+renewable energy in Japan as well as in the United States and the EU, although its total renewable energy
+remains less than 6% in 2016 . Sony must set a stronger example in its own operations, as the company needs to
+work with its suppliers to increase their incentive to drive greater reductions and adoption of renewable energy, a
+strategy we are now seeing pay off for Apple .
+
+C-
+
+C
+
+C
+
+D
+
+GREE NPEACE GUIDE TO GREEN ER ELECTRONI CS  – 2 01 7 COM PAN Y REPORT CARD  |  53
+
+Renewable Energy & Climate Change (continued)
+
+ADVOC ACY.  Sony signed a joint statement in Japan earlier this year in support of greater access to renewable
+energy for corporations who want to be powered with 100% renewable energy (joined by 10 corporations, including
+Apple and Microsoft) .4
+
+Sustainable Design & Resource Reduction
+
+TRANSPARENCY.  Sony provides a thorough accounting of its device take back5 and recycling efforts,6 along
+with quality case study information on its efforts to develop and utilize halogen-free recycled plastics .7 Building
+on its helpful flow reporting of material flows and resources,8 Sony should provide a more detailed accounting
+of its material flows across its product lines, highlighting where it is prioritizing interventions to increase the
+amount of recycled material and decrease the amount of waste . Sony also provides clear reporting on managing
+resourcing of conflict minerals .9
+
+CO MMITMENT.  Sony has established a target to reduce amount of virgin oil-based plastics per product unit
+by 10% (2013 base year) as part its “2020 Green Management Targets .”10 While this is a positive step, it is similar
+to its renewable energy goal: right direction, but but lacking in ambition . Sony should be working to expand the
+amount of recycled material going into its products, setting priorities for extending its use of recycled beyond
+plastics to other high impact materials, as Fairphone and Apple have begun to do .
+
+PERFORMANCE: CIRCULAR PROD UCTI ON . Sony has shown innovation in the development of its
+SORPLAS plastic formulation, allowing much higher percentage of recycled plastics material to be used, but
+needs to look beyond plastics to include secondary materials for other high impact materials .11 Sony has an
+extensive take-back system across all of its major markets .12 As Apple, Dell, and Fairphone have done, Sony
+needs to prioritize what additional materials will be part of its roadmap to transition to non-virgin material for its
+devices beyond plastics .
+
+PERFORMANCE: PRODUCT LIFE  EXTEN SI ON . Sony’s performance in slowing the rate of resource
+consumption through its product design and support network has been thus far been underwhelming, with only
+small areas of progress to point to . Sony does provide for limited upgradeability in its smartphones and tablet
+by continuing to offer SD card storage, and while it offers refurbished products for sale in the UK,13 it does not
+appear to extend to other mature markets . Sony also fall short in terms of enabling repair and longer life for its
+devices, as it does not provide repair information or spare parts .
+
+ADVOCACY.  No evidence found of positive or negative advocacy .
+
+C-
+
+B
+
+C-
+
+B
+
+D
+
+C
+
+D
+
+–
+
+GREE NPEACE GUIDE TO GREEN ER ELECTRONI CS  – 2 01 7 COM PAN Y REPORT CARD  |  54
+
+Hazardous Chemical Elimination: Products & Supply Chain D
+
+TRANSPARENCY.  Sony publishes a product restricted substances list (PRSL),14 but the company does not
+make public which substances, if any, it is monitoring in factory settings, nor does not publish its current list of
+suppliers . Sony provides only basic information on its assessment of its suppliers for adherence to its code of
+conduct,15 and is absent any details of actual or even overall performance in each of the five compliance areas
+(labor, health and safety, ethics, environment, and management systems) .16
+
+COM MIT MENT. Sony has yet to deliver on its earlier commitment to phase out PVC and BFRs altogether, and still does
+not have a timeline at this point for phasing PVC, BFRs, beryllium, antimony trioxide, and phthalates out of all products .
+
+PERFO RM ANC E. Sony has identified a range of products that are free from PVC & BFRs,17 which include Xperia
+Smartphones and Tablets . Sony has also eliminated Beryllium from its smartphones .18 Unlike HP, Microsoft,
+Apple and other leaders, Sony has not banned the use of known hazardous chemicals such as benzene and
+n-hexane from use within its supply chain .
+
+ADVOC ACY.  No evidence found of positive or negative advocacy .
+
+D
+
+D
+
+D
+
+–
+
+ENDNOTES
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+https://www.sony.net/SonyInfo/csr/SonyEnvironment/ourvision/
+GM2020/TargetMatrix.pdf
+
+https://www.sony.net/SonyInfo/csr_report/environment/data/
+response.pdf
+
+https://www.sony.net/SonyInfo/csr/SonyEnvironment/ourvision/
+GM2020/TargetMatrix.pdf
+
+http://renewable-ei.org/en/images/pdf/20170422/REI_
+ProposalforPromotingRenewables_EN_170422_final.pdf
+
+https://www.sony.net/SonyInfo/csr_report/environment/data/p_
+recycle.html
+
+https://www.sony.net/SonyInfo/csr_report/issues/CSR2016E_PDF_
+all_e.pdf, p .360 .
+
+https://www.sony.com/electronics/sorplas-recycled-plastic?j-
+short=sorplas_performance
+
+https://www.sony.net/SonyInfo/csr_report/environment/management/
+overview/window_resources.html
+
+https://www.sony.net/SonyInfo/csr_report/sourcing/materials/
+index2.html
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+https://www.sony.net/SonyInfo/csr/SonyEnvironment/ourvision/
+GM2020/
+
+https://www.sony.com/electronics/sorplas-recycled-plastic
+
+https://www.sony.net/SonyInfo/csr/SonyEnvironment/spotlight/
+recycling_program/index.html
+
+http://centresdirect.co.uk/c-66-refurbished_refurbished.
+aspx#pgnum=&sort=
+
+https://www.sony.net/SonyInfo/procurementinfo/ss00259/ss_00259ec_
+General_use_15EC.pdf
+
+https://www.sony.net/SonyInfo/csr_report/sourcing/supplychain/
+g729rs00000094vf-att/g729rs000000953f.pdf
+
+https://www.sony.net/SonyInfo/csr_report/issues/CSR2016E_PDF_
+all_e.pdf, p .173 .
+
+https://www.sony.net/SonyInfo/csr_report/environment/products/
+replace.html#block2
+
+https://www.sony.net/SonyInfo/csr_report/issues/CSR2016E_PDF_
+all_e.pdf, p .289 .
+
+GREE NPEACE GUIDE TO GREEN ER ELECTRONI CS  – 2 01 7 COM PAN Y REPORT CARD  |  55
+
+F
+
+Vivo
+
+In less than ten years since it launched, Chinese-based Vivo is quickly emerging as
+one of the top five smartphone brands according to global market share .1 Its growth
+is predominantly driven by the Chinese market, but as it is starting to saturate, Vivo
+is rapidly expanding aggressively in India and other Southeast Asian markets . Vivo,
+like Oppo, is a subsidiary of BBK Electronics, and like sister company Oppo, is a clear
+laggard in addressing its environmental responsibility . Vivo does not publish even basic
+information regarding its environmental performance or its sustainability efforts . Vivo
+did not respond to Greenpeace’s repeated requests to provide details on its strategy for
+improving the sustainability of its own operations or the environmental performance of
+its suppliers .
+
+Renewable Energy & Climate Change
+
+TRANSPARENCY.  Similar to Oppo, Vivo does not prioritize informing the public of its sustainability strategy .
+It does not publish a CSR report, nor does it disclose any emission data to the public . In the age of information,
+building trust with consumers through transparency is imperative for cultivating customer loyalty .
+
+COM MIT MENT.  Neither Vivo or its parent company BKK have made public a sustainability strategy, or made
+any public commitment to address its energy and climate footprint .
+
+PERFO RM ANC E. Vivo fails to disclose even basic details on its energy performance, or efforts to reduce
+greenhouse gas emissions in its own operations or those of its suppliers . Given Vivo’s rapid growth in smartphone
+sales and the apparent absence of strategy to transition to renewable energy, this growth is likely to result in a
+significant increase in Vivo’s greenhouse gas emissions .
+
+ADVOC ACY.  No evidence found of positive or negative advocacy
+
+F
+
+F
+
+F
+
+F
+
+–
+
+GREE NPEACE GUIDE TO GREEN ER ELECTRONI CS  – 2 01 7 COM PAN Y REPORT CARD  |  56
+
+Sustainable Design & Resource Reduction
+
+TRANSPARENCY.  Despite the growing popularity of its products, Vivo is not publishing any data about the
+materials used in its phones, the use of recycled materials, or take-back data .
+
+CO MMITMENT.  Neither Vivo or its parent company BKK have made public a sustainability strategy, or made
+any public commitment to reduce the impact its products have through the use of recycled materials or long
+lived product design .
+
+PERFORMANCE: CIRCULAR PROD UCTI ON . Vivo does not provide and public information on its use of
+recycled content in its products, or provide any meaningful detail on its product take-back or recycling efforts .
+
+PERFORMANCE: PRODUCT LIFE  EXTEN SI ON . Two recently assessed Vivo phones scored average in
+repairability assessments .2 While the interior of the phone contained numerous modular parts that could be
+replaced independently, opening the device was difficult . Vivo does not provide repair manuals or spare parts
+to the public .
+
+ADVOCACY.  No evidence found of positive or negative advocacy
+
+Hazardous Chemical Elimination: Products & Supply Chain
+
+TRANSPARENCY.  Vivo does not disclose information about chemical management in its products or supply chain .
+
+COM MIT MENT. Vivo fails to disclose its chemical management strategy, nor has it publicly committed to eliminate
+chemicals of concern such as PVC, BFRs and phthalates from it products .
+
+PERFO RM ANC E. Vivo fails to disclose its chemical management strategy, nor make public a supplier code
+of conduct . Vivo is one of the few companies in the Guide that are not members of EICC, which requires regular
+auditing of its suppliers against a standard code of conduct .
+
+ADVOC ACY. No evidence found of positive or negative advocacy
+
+F
+
+F
+
+F
+
+F
+
+D
+
+–
+
+F
+
+F
+
+F
+
+F
+
+–
+
+ENDNOTES
+
+1
+
+IDC, “Worldwide Smartphone Company Market Share”
+
+https://www.idc.com/promo/smartphone-market-share/vendor
+
+2
+
+https://www.ifixit.com/smartphone-repairability
+
+GREE NPEACE GUIDE TO GREEN ER ELECTRONI CS  – 2 01 7 COM PAN Y REPORT CARD  |  57
+
+F
+
+Xiaomi
+
+Although not as popular as its fellow Chinese competitors in the global smartphone
+market share, Xiaomi has secured its position in the top five of the Chinese Market .228 Xiaomi
+advertises itself as a smart company driven by relentless technology innovation and
+attractive product design . Despite its branding effort to resemble the minimalist style of
+Apple, Xiaomi does not show similar commitment in environmental responsibility . Similar
+to Oppo and Vivo, Xiaomi is falling way behind in sustainability performance .
+
+Renewable Energy & Climate Change
+
+TRANSPARENCY.  Although Xiaomi’s website provides limited information regarding “product environmental
+information,” it does not disclose any emission data . Like the other two Chinese brands Oppo and Vivo, Xiaomi
+does not publish a CSR report .
+
+COM MIT MENT.  As Xiaomi fails to properly disclose its sustainability strategy and performance, we are not able
+to evaluate its renewable energy commitment .
+
+PERFO RM ANC E. As Xiaomi fails to properly disclose its sustainability strategy and performance, we are not able
+to evaluate its renewable energy performance .
+
+ADVOC ACY.  No evidence found of positive or negative advocacy
+
+Sustainable Design & Resource Reduction
+
+TRANSPARENCY.  Xiaomi does not report publicly on its overall material use, its use of recycled materials, or data
+on its take-back efforts .
+
+CO MMITMENT.  Xiaomi fails to properly disclose its sustainability strategy or made any public commitment to
+reduce the impact its products have through the use of recycled materials or long lived product design .
+
+PERFORMANCE: CIRCULAR PROD UCTI ON . As Xiaomi fails to properly disclose its sustainability strategy
+and performance, it’s difficult to evaluate Xiaomi’s efforts to move toward circular production . Xiaomi provides take-
+back services in China229 and India230, though it’s not clear electronics recycled are processed responsibly/safely .
+
+F
+
+F
+
+F
+
+F
+
+–
+
+F
+
+F
+
+F
+
+D
+
+GREE NPEACE GUIDE TO GREEN ER ELECTRONI CS  – 2 01 7 COM PAN Y REPORT CARD  |  58
+
+Sustainable Design & Resource Reduction (continued)
+
+PERFORMANCE: PRODUCT LIFE  EXTEN SI ON . In recent repairability assessments, Xiaomi phones
+scored average to good .231 Xiaomi appears to sell a limited number of refurbished products .232 Xiaomi does not
+provide repair manuals or spare parts to the public .
+
+ADVOCACY.  No evidence found of positive or negative advocacy
+
+Hazardous Chemical Elimination: Products & Supply Chain
+
+TRANSPARENCY.  Xiaomi does not disclose information about chemical management in its products or
+supply chain .
+
+COM MIT MENT. Xiaomi fails to disclose its chemical management strategy, nor has it publicly committed to eliminate
+chemicals of concern such as PVC, BFRs and phthalates from it products .
+
+PERFO RM ANC E. Xiaomi fails to disclose its chemical management strategy, nor make public a supplier code
+of conduct . Xiaomi is one of the few companies in the Guide that are not members of EICC, which requires regular
+auditing of its suppliers against a standard code of conduct .
+
+ADVOC ACY. No evidence found of positive or negative advocacy
+
+F
+
+D
+
+–
+
+F
+
+F
+
+F
+
+F
+
+–
+
+ENDNOTES
+
+1
+
+2
+
+3
+
+4
+
+5
+
+https://www.idc.com/getdoc.jsp?containerId=prAP42292517
+
+https://huanxin.mi.com/
+
+https://www.mi.com/in/service/recycling_guide/
+
+https://www.ifixit.com/smartphone-repairability
+
+http://www.mi.com/sg/note/
+
+GREE NPEACE GUIDE TO GREEN ER ELECTRONI CS  – 2 01 7 COM PAN Y REPORT CARD  |  59
+
+GUIDE TO GREENER ELECTRONICS –
+
+2017 COMPANY REPORT CARD
+
+OCTOBER 17, 2017
+

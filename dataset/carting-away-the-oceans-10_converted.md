@@ -1,0 +1,4098 @@
+Carting Away the Oceans 10
+
+is  an
+is  an
+
+Greenpeace
+independent  campaigning
+independent  campaigning
+Greenpeace
+organization  that  uses  peaceful  protest  and
+organization  that  uses  peaceful  protest  and
+to  expose  global
+creative  communication
+to  expose  global
+creative  communication
+environmental  problems  and
+to  promote
+to  promote
+environmental  problems  and
+solutions  that  are  essential  to  a  green  and
+solutions  that  are  essential  to  a  green  and
+peaceful future.
+peaceful future.
+
+Published August 2018 by
+Published October 2017 by
+
+Greenpeace USA
+Greenpeace USA
+
+702 H Street NW Suite 300
+702 H Street NW Suite 300
+
+Washington, DC 20001
+Washington, DC 20001
+
+Tel: 202.462.1177
+Tel: 202.462.1177
+
+100%
+
+Printed  on  processed,  chlorine-
+post-consumer
+free,
+Printed  on  processed,  chlorine-
+waste recycled paper on a wind-
+free,
+post-consumer
+100%
+powered press.
+waste recycled paper on a wind-
+powered press.
+
+Written by: David Pinsky & James Mitchell
+
+Designed by: Samantha Garner
+Written by: David Pinsky and James Mitchell
+Edited by: Joan O’Callaghan
+Edited by: Joan O’Callaghan
+All photos © Greenpeace
+Design by: Samantha Garner
+Cover © Ivan Donche / Greenpeace
+To  pressure  national  environment  ministers  to  vote
+Cover © Pierre Gleizes / Greenpeace
+for  (and  ultimately  approve)  a  progressive  European
+Union  Plastics  Strategy,  Greenpeace  activists  from  13
+Ac knowledgments
+countries hang a 50 meter “NO PLASTIC” banner from
+the Asparuhov Bridge in Varna, Bulgaria.
+Special  thanks  to:  James  Mitchell,  Samantha
+Garner,  Joan  O’Callaghan,  Tim  Aubry,  John
+Deepa
+Hocevar,  Maggie
+Ac knowledgments
+Padmanabha,  Kate  Melges,  Perry  Wheeler,
+Special  thanks  to:  James  Mitchell,  Samantha
+Samantha  Sommer,  Graham  Forbes,  Caitlin
+Garner,  Jacob  Hardbower,  Joan  O’Callaghan,
+Cosgrove, and Maggie Mullen.
+Maggie Ellinger-Locke, Tim Aubry, John Hocevar,
+Perry  Wheeler,  Caitlin  Cosgrove,  and  Maggie
+Mullen.
+greenpeace.org
+
+Ellinger-Locke,
+
+greenpeace.org
+
+Table of Contents
+
+Scorecard
+
+Introduction
+
+Companies Evaluated & Methodology
+
+Plastics Are Devastating Our Oceans
+
+Everyone Must Take Action
+
+Retailer Profiles
+
+Glossary
+
+Endnotes
+
+2
+
+3
+
+10
+
+12
+
+14
+
+16
+
+40
+
+43
+
+© Alex Hofford / Greenpeace
+
+2018 Supermarket Sustainable
+Seafood Scorecard
+
+0 - 39.9
+
+40 - 69.9
+
+80.4
+
+#12
+
+79.8
+
+#13
+
+71.9
+
+#14
+
+70.8
+
+#15
+
+69.4
+
+#16
+
+67.1
+
+#17
+
+67
+
+#18
+
+65.4
+
+#19
+
+64.1
+
+#20
+
+62.3
+
+#21
+
+61.4
+
+#22
+
+#1
+
+#2
+
+#3
+
+#4
+
+#5
+
+#6
+
+#7
+
+#8
+
+#9
+
+#10
+
+#11
+
+Carting Away the Oceans   2
+
+70 - 100
+
+60.4
+
+60
+
+58.1
+
+56.2
+
+54.3
+
+48.1
+
+47.2
+
+46.4
+
+40.4
+
+39.2
+
+37.9
+
+Introduction
+
+In  June  2008,  Greenpeace  published  the  first  edition
+of  Carting  Away  the  Oceans,  and  evaluated  20  major
+U.S.  grocery  retailers  on  seafood  sustainability.  By
+documenting  current  practices  and  educating  retailers
+about  the  impacts  of  their  seafood  sales  on  marine  life
+and our oceans, we sought to raise consumer awareness
+and  collectively  encourage  retailers  to  source  only
+sustainable  seafood.  At  that  time,  the  vast  majority  of
+retailers  were  concerned  with  price  and  quality,  not
+seafood  sustainability.  Unsurprisingly,  all  20  retailers
+failed in the first evaluation. Ten years later, in this tenth
+edition of Carting Away the Oceans, 20 out of 22 retailers
+have achieved at least passing scores.
+
+As  fish  stocks  decline  from  overfishing,  industrial  fleets
+expand, and demand increases for cheap seafood, some
+companies  are  motivated  to  employ  cheap  or  forced
+labor  and  to  fish  illegally.1  Furthermore,  a  convenience-
+driven,  throwaway  culture  is  exacerbating  a  global
+plastic  pollution  crisis  in  our  oceans.  As  our  planet
+faces  greater  environmental  threats,  more  and  more
+people  are  coming  together  to  demand  real  social  and
+environmental  leadership  from  corporations,  and  to
+create  a  better  future.  This  moment  requires  marked
+action.  As  we  have  urged  in  every  Carting  Away  the
+Oceans,  retailers  should  use  their  brand  and  buying
+power now to create a different world for our oceans and
+humanity.
+
+like
+
+to  acknowledge
+
+We  would
+the  extensive
+contributions of Greenpeace supporters and volunteers,
+(NGOs),  scientists,
+non-governmental  organizations
+governments, retailers, suppliers, and the press. Through
+dialogue,  collaboration,  and  a  persistent  vision  for  a
+better future for our oceans, together we have achieved
+a  great  deal  over  the  past  ten  years.  Nonetheless,  the
+work over this next decade is critical to ensuring healthy
+oceans teeming with marine life, where seafood workers
+are treated fairly, and coastal fishers are able to provide
+for  their  families  without  suffering  exploitation  from
+industrial fishing fleets. To achieve this vision for marine
+life  and  people,  we  must  stay  focused  and  act  with  a
+sense of urgency.
+
+© Alex Hofford / Greenpeace
+
+Carting Away the Oceans   3
+
+Timeline of Notable Milestones Since June 2008
+
+Greenpeace has evaluated U.S. grocery retailers on sustainable seafood since 2008. This timeline highlights some of the
+milestones and accomplishments that demonstrate progress in this sector over time.i
+
+publicly  call  for  a  marine  protected
+area  in  the  Ross  Sea.  (Today,  under  an
+international agreement signed in 2016,
+this  intact  ecosystem  is  now  protected
+from all commercial fishing for 35 years.)
+
+in  the
+
+April  2011:  Five  new  retailers  receive
+passing  scores,  and  only  five  retailers
+fifth  edition  of  Carting
+fail
+Away  the  Oceans.  Safeway,  Target,
+and  Wegmans  lead  the  pack,  while
+SUPERVALU,  Winn-Dixie,  and  Meijer
+remain in last place.
+
+the
+
+third,  and
+
+April  2012:  By  the  sixth  edition  of
+Carting  Away  the  Oceans,  Safeway  and
+Whole  Foods  are  the  first  retailers  to
+earn  a  green  ranking  and  the  only  two
+profiled  retailers  selling  sustainable
+private  label  canned  tuna.  Wegmans
+ranks
+three  worst
+performers  are  SUPERVALU,  Publix,
+and  Bi-Lo/Winn-Dixie.  The  sale  of  four
+top-tier  red  list  species  across  profiled
+retailers has dropped precipitously since
+2008: shark (down 78%), orange roughy
+(down  75%),  hoki  (down  71%),  Chilean
+sea bass (down 50%). A&P, Ahold, ALDI,
+Costco, Meijer, Target, and Walmart do
+not sell any of these species.
+
+June  2008:  Greenpeace  releases  its
+first Carting Away the Oceans report. Not
+a single retailer received a passing score.
+Sustainable  seafood  was  not  even  on
+the radar of many retailers, and orange
+roughy and Chilean sea bass commonly
+appeared  in  seafood  cases  across  the
+country.
+
+January–March  2010:  Target  an-
+nounces  that  it  will  stop  selling  all
+farm-raised  salmon  (which  it  unfortu-
+nately  reintroduces  in  2017).  Following
+a  Greenpeace  campaign,  Trader  Joe’s
+implement  sustainability
+agrees
+measures  throughout  its  seafood  oper-
+ations, and stops selling orange roughy.
+
+to
+
+December  2008:  A  six-month  update
+of  Carting  Away  the  Oceans  is  released
+to  reflect  swift  progress  by  several
+retailers. Nine retailers drop one or more
+red  list  items,  including  shark,  bluefin
+tuna,  orange  roughy,  and  Chilean  sea
+bass.  Wegmans  and  Whole  Foods  post
+new  sustainable  seafood  standards
+online.
+
+June 2009: The third edition of Carting
+Away  the  Oceans
+is  released,  with
+Wegmans,  Ahold,  and  Whole  Foods
+in  the  lead,  and  H-E-B,  Price  Chopper,
+and  Meijer  in  the  back  of  the  pack.
+Target and Walmart have both dropped
+orange  roughy  and  Wegmans  asks  the
+U.S. State Department to address illegal,
+unreported,  and  unregulated
+(IUU)
+fishing.
+
+April  2010:  In  the  fourth  edition  of
+Carting  Away  the  Oceans,  half  of  the
+20  retailers  evaluated  receive  passing
+scores,  and  more
+than  half  have
+sustainable  seafood  policies.  Target,
+Wegmans,  and  Whole  Foods
+lead
+the  pack,  while  Winn-Dixie,  Meijer,
+and  H-E-B  are  dead  last.  Greenpeace
+launches a campaign on Costco to clean
+up its sourcing.
+
+Early  2011:  Costco,  Harris  Teeter,
+and  Safeway  discontinue
+H-E-B,
+orange  roughy,  three  more  retailers
+drop  Chilean  sea  bass,  and  Price
+Chopper  discontinues  shark.  Following
+Greenpeace’s  campaign,  Costco  agrees
+to  remove  more  than  half  of  its  red  list
+seafood  items,  pursue  better  practices
+in aquaculture, and assume a leadership
+role  to  develop  a  sustainable  global
+tuna  industry.  Safeway  and  Wegmans
+
+s
+r
+e
+l
+i
+a
+t
+e
+R
+f
+o
+r
+e
+b
+m
+u
+N
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+Jun. 2008
+
+Dec. 2008
+
+2009
+
+2010
+
+2011
+
+i In 2008, Greenpeace released two editions of Carting Away the Oceans. Since 2009, Greenpeace has released the report annually, with the exception of 2016 and 2017, when no reports
+were published. After having added six new retailers in 2014, Greenpeace has decreased the number of assessed retailers due to consolidations or bankruptcies.
+
+Carting Away the Oceans   4
+Carting Away the Oceans   4
+
+May  2013:
+In  the  seventh  edition
+of  Carting  Away  the  Oceans.  Whole
+Foods, Safeway, and Trader Joe’s lead
+the  pack  in  the  green  category,  while
+Kroger,  Publix,  and  Bi-Lo  continue
+to  scrape  the  bottom.  Walmart  has
+introduced
+aggregating
+device)-free  skipjack  and  pole  and  line
+albacore tuna in more than 3,000 stores
+nationwide,  and  ALDI,  H-E-B,  Meijer,
+Trader  Joe’s,  and  Whole  Foods  have
+publicly  committed  to  avoid  selling
+genetically engineered (GE) salmon.
+
+(fish
+
+FAD
+
+May  2014:  In  the  eighth  edition  of
+Carting Away the Oceans, the four green
+rated  companies  are  Whole  Foods,
+Safeway,  Wegmans,
+and  Trader
+Joe’s  and  the  four  failing  companies
+are  Publix,  Save  Mart,  Bi-Lo,  and
+Roundy’s.  Every  other  retailer  achieves
+a  passing  score.  Safeway  and  Kroger
+join  more
+than  60  other  retailers
+pledging  not  to  sell  GE  salmon.  Hy-Vee
+debuts in fifth place, selling sustainable
+private  label  canned  tuna  along  with
+Whole  Foods,  Safeway,  and  Trader
+Joe’s.  Greenpeace  demands  action
+from retailers on labor and human rights
+abuses and IUU fishing.
+
+June  2014:  A  UK  Guardian  investiga-
+tion  reveals  forced  labor  in  the  sup-
+ply  chain  of  the  Thai  shrimp  industry’s
+biggest  supplier,  CP  Foods,  naming
+Walmart,  Costco,  and  ALDI  as  custom-
+ers of shrimp supplied by CP Foods.2
+
+June  2015:  In  the  ninth  edition  of
+Carting Away the Oceans, Whole Foods,
+Wegmans,  Hy-Vee,  and  Safeway  earn
+a  green  rating,  while  Southeastern
+Grocers,  Roundy’s,  Publix,  A&P,  and
+Save Mart fail. Costco and Target begin
+selling private label sustainable canned
+tuna. Whole Foods, Wegmans, Hy-Vee,
+Safeway,  Ahold,  and  Giant  Eagle  call
+on Congress to pass tougher legislation
+to stop IUU fishing.
+
+December  2015:  An  Associated  Press
+investigation  reveals  child  and  forced
+labor  was  used  in  Thai  Union’s  shrimp
+supply  chains.3  Kroger,  Albertsons,
+Whole  Foods,  and  Walmart  are
+mentioned  as  examples  of  where
+tainted seafood might have ended up (in
+either  shrimp  or  pet  food  products),  to
+demonstrate  the  significant  risks  for  all
+retailers regarding poor traceability.
+
+2016:  Greenpeace’s  global  campaign
+on tuna giant Thai Union is underway. In
+April,  Greenpeace  launches  a  campaign
+on Walmart to improve its canned tuna.
+Several U.S. retailers continue focusing,
+or  begin  to  focus,  on  canned  tuna.  In
+December,  Greenpeace’s  Turn  the  Tide
+report4  documents  the  risks  associated
+with  transshipment  at  sea,  including  a
+significant risk of products sold by major
+U.S. retailers being linked to IUU fishing
+and human rights abuses.
+
+2017:
+In  March,  Mars  and  Nestlé
+announce  strong  measures  to  address
+transshipment  at  sea.  Several  retailers
+have  released  public  shelf-stable  tuna
+policies,  including,  Whole  Foods,  Hy-
+Vee, ALDI, Giant  Eagle, Wegmans, and
+Albertsons.  Whole  Foods  becomes  the
+first  U.S.  retailer  to  commit  to  sell  only
+sustainable  canned  tuna  (private  label
+and  national  brands).  By  the  release  of
+Greenpeace’s second U.S. Tuna Shopping
+Guide5 in April, ALDI, Giant Eagle, Ahold
+Delhaize,  Kroger,  SUPERVALU,  and
+Southeastern  Grocers  are  developing
+or  selling  sustainable  private
+label
+canned tuna products. In July, Thai Union
+commits to a series of environmental and
+social reforms, that will transform its U.S.
+and global tuna supply chains.
+
+receive  passing
+
+August  2018:  Greenpeace  releases
+tenth  edition  of  Carting  Away
+its
+the  Oceans,  where  90%  of  profiled
+companies
+scores,
+versus  all  failing  in  2008.  Whole  Foods,
+Hy-Vee,  and  ALDI  hold  the  top  three
+ranks as Price Chopper, Save Mart, and
+Wakefern score the lowest. Amid major
+improvements  over  the  last  decade,
+new  threats  persist  from  labor  and
+human  rights  abuses,  climate  change,
+and plastic pollution. The next decade is
+critical for ocean health and humanity.
+
+Fail
+
+Pass
+
+Leading
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+2012
+
+2013
+
+2014
+
+2015
+
+2018
+
+Carting Away the Oceans   5
+Carting Away the Oceans   5
+
+Carting Away the Oceans 10: Significant Findings
+
+Following  mergers,  acquisitions,  and  bankruptcies,  this  year’s  edition  assesses  22  U.S.  retailers  with  a  significant
+nationwide or regional presence, including one newly profiled retailer (Sprouts Farmers Market, or “Sprouts”). Ninety
+percent of the retailers achieved at least a passing score.
+
+• Whole  Foods
+
+the
+
+remains
+
+top-ranked
+
+retailer
+following  the  release  of  its  shelf-stable  tuna  policy
+last  year.  After  Amazon’s  acquisition  of  Whole
+Foods,  questions  remain  as  to  whether  Amazon
+will  follow  the  grocer’s  lead  on  sustainable  seafood.
+
+• Hy-Vee  (ranked  2nd),  improving  on  shelf-stable  tuna
+and with several advocacy initiatives, takes Wegmans’
+place  near  the  top.  Wegmans  dropped  four  spots  to
+6th,  in  part  because  of  its  unfortunate  reintroduction
+of  orange  roughy  and  its  troubling  decision  to  source
+for  special  events.
+farmed  Pacific  bluefin  tuna
+
+• By  continuing  to
+implement  their  policies  and
+opportunities,
+(ranked
+seize
+advocacy
+the  green
+(4th)  moved
+3rd)  and  Target
+focus
+category.  Giant  Eagle’s
+on  sustainable  seafood
+the
+retailer  leapt  six  spots  to  round  out  the  top  five.
+
+into
+(5th)  years-long
+is  bearing
+
+ALDI
+
+fruit:
+
+requirements
+
+• ALDI  (ranked  3rd),  Giant  Eagle  (5th),  Wegmans
+(8th)  have  public  policies
+(6th),  and  Sprouts
+transshipment  at
+regarding
+with
+sea  for  tuna.  Whole  Foods  (1st),  Hy-Vee  (2nd),
+and  Meijer  (10th)  are  the  only  profiled  retailers
+that  fully  source  pole  and
+line  and/or  FAD-free
+tuna  for  their  own  brand  shelf-stable  products.
+
+• None  of
+
+commitments
+
+the  profiled  retailers  have  major,
+reduce  and
+comprehensive
+their  reliance  on  single-
+ultimately  phase  out
+use  plastics.  Among  the  largest  U.S.  retailers  by
+revenue,  Walmart,  Kroger,  Costco,  Ahold  Delhaize,
+Albertsons,  and  Amazon  must  urgently  address
+their  contribution  to  the  plastic  pollution  crisis.
+
+to
+
+initiatives
+
+(“Albertsons,”
+
+• Following  its  acquisition  of  Safeway,  Albertsons
+ranked  7th)  public
+Companies’
+commitments  and  advocacy
+landed
+it  as  the  highest  ranked  among  the  nation’s  five
+largest  (by  revenue)  retailers,  and  the  company
+is  building  upon  Safeway’s  legacy  of  sustainable
+seafood
+(9th)  and
+Kroger  (gained  seven  spots  to  11th)  are  close
+behind,  while  Walmart  (13th)  dropped  one  spot
+remains  unchanged.
+rank
+and  Costco’s
+
+initiatives.  Ahold  Delhaize
+
+(15th)
+
+profiled
+
+• Newly
+a
+plans
+to  source  100%  pole  and
+stable  tuna  and  to  phase  out  red
+
+sustainable
+
+Sprouts
+
+seafood
+
+(ranked
+
+new
+
+8th)
+
+has
+policy,  with
+line  shelf-
+list  species.
+
+• Save Mart (ranked 21st), Publix (17th), Southeastern
+Grocers  (16th),  Kroger  (11th),  and  Giant  Eagle
+(5th)  are  the  most  improved  retailers,  respectively.
+Southeastern  Grocers  and  Publix  both  received
+passing  scores  for  the  first  time  ever.  Although
+Save  Mart  failed  in  this  report,  as  it  implements  its
+new  seafood  policy,  it  should  continue  to  improve.
+
+lack  of
+
+• While  other  retailers  made  strong  gains,  Trader
+Joe’s  (ranked  14th)  dropped  seven  spots  following
+initiatives  and  customer  engagement
+a
+on  sustainable  seafood.  Price  Chopper
+(20th)
+dropped  six  spots,  underperforming  on  initiatives
+and  transparency,  while  Wakefern  (22nd)  dropped
+five  spots  to  scrape  the  bottom  of  the  rankings.
+
+Carting Away the Oceans   6
+
+© Pierre Gleizes / Greenpeace
+
+The Modernization of Grocery Retail
+
+There  has  been  a  dramatic  change  in  grocery  retail
+since  the  last  edition  of  Carting  Away  the  Oceans  in
+2015.  Consolidations  continue  and  formerly  profiled
+companies have either merged or gone out of business.
+
+in  staying  competitive,  employed  by  the  likes  of  Trader
+Joe’s, ALDI, and Costco, involves a focus on private label
+products,  especially  as  millennials  and  urban  shoppers
+increasingly trust these over national brands.7, 8, 9
+
+Several  trends  are  emerging  in  the  wake  of  Amazon’s
+acquisition  of  Whole  Foods,  as  competitors  seek  to
+remain  relevant  in  this  new  era  of  grocery  retail.6
+Retailers  are  partnering  with  delivery  services  to  offer
+faster,  even  two-hour,  delivery.  Walmart  acquired
+Jet.com,  Target  acquired  Shipt,  retailers  from  Costco
+to  Albertsons  offer  delivery  through  Instacart,  and
+Ahold  Delhaize’s  Peapod,  which
+launched  decades
+ago,  is  offering  price  cuts  and  promotions  to  remain
+competitive.  At  the  store  level,  retailers  are  investing  in
+modernized layouts, signage, and product packaging, as
+many  open  smaller-format  stores  for  urban  millennials.
+Some  are  also  integrating  tech  solutions  that  offer
+convenient  ways  to  shop  and  pay  for  groceries  (e.g.,
+pick up pre-bagged groceries, Apple Pay). A key strategy
+
+As part of this technological modernization effort, some
+retailers  are  working  with  organizations  or  companies
+that  can  bolster  a  retailer’s  seafood  traceability,  to
+avoid  unsustainable  or  unethically  sourced  seafood
+(e.g., Whole Foods, Ahold Delhaize, and Albertsons with
+Trace  Register;  Publix,  Walmart,  and  Giant  Eagle  with
+Sustainable  Fisheries  Partnership  (SFP)  for  its  Ocean
+Disclosure Project (ODP)). While this is a welcome trend,
+Greenpeace  cautions  against  the  public  relying  too
+heavily  on  such  resources  for  information.  In  the  case
+of  ODP,  the  data  are  all  self-reported,  focus  only  on
+wild-caught seafood, and even then, do not  encompass
+inventory.10  Nonetheless,  Greenpeace
+the  entire
+acknowledges  such  efforts  as  a  great  first  step  toward
+greater seafood traceability and transparency.
+
+Drowning in Plastic
+
+Across  the  board,  retailers  are  severely  lagging  in  their
+efforts  to  tackle  single-use  plastic  packaging.  The
+equivalent  of  one  garbage  truck  of  plastic  enters  our
+oceans  every  minute,11  and  with  plastic  production  set
+to  double  in  the  next  20  years—largely  for  packaging—
+the  threats  to  ocean  biodiversity  and  seafood  supply
+chains are increasing. The United Nations (UN) describes
+it as a potential “toxic time-bomb.”12 Single-use plastics
+
+are  devastating  our  oceans  (see  page  12),  and  retailers
+must  take  responsibility  for  their  contribution  to  this
+global  crisis.  Retailers  in  the  United  Kingdom13  and
+the  Netherlands14  are  making  significant  changes  and
+commitments  toward  reducing  or  eliminating  the  use
+of plastics in their operations. It is time for U.S. retailers
+to  swiftly  and  comprehensively  reduce  and  eventually
+phase out single-use plastics.
+
+Struggling to Uphold Labor and Human Rights Standards
+
+The year 2018 has seen a continued focus on labor and
+human  rights  in  the  seafood  industry,  including  several
+reports  from  organizations  like  Human  Rights  Watch,15
+International Labor Rights Forum (ILRF),16 Greenpeace,17
+and Oxfam.18 Behind the Barcodes, a recent Oxfam report,
+even  profiled  some  of  the  same  supermarkets  in  this
+report  across  four  categories:  transparency,  workers,
+farmers,  and  women.  It  found  that  all  six  U.S.  retailersii
+profiled  outright  failed,  and  had  “barely  shown  any
+
+awareness,” in particular regarding transparency in their
+supply chains and gender inequality issues.19
+
+Many  in  the  industry  are  part  of  initiatives,  such  as
+the  Seafood  Task  Force.  While  such  fora  can  facilitate
+improvements, this initiative seems to have stalled out.iii, 20
+For  meaningful  changes  to  occur  in  Thailand,  Taiwan,
+and  other  key  regions,  the  Task  Force  and  its  member
+their  commitment  by
+companies  must  step  up
+
+ii Walmart, Kroger, Albertsons, Ahold Delhaize, Costco, and Whole Foods.
+iii The Seafood Task Force’s membership covers a wide range of interests, from vessel operators to global retailers, which, given different objectives and concerns, may be slowing down
+its progress. Its governance structure does not allow for effective external stakeholder engagement, which prevents the Task Force from actually fixing problems faced by workers (e.g.,
+eliminating recruitmentment fees, ensuring genuine and effective worker voice mechanisms, and using buying power to encourage the Thai government to enact legal reforms, especially
+for worker representation). For more, including recommendations for the Task Force, see endnote 20.
+
+Carting Away the Oceans   7
+
+encouraging  the  Thai  and  Taiwanese  governments  to
+make  it  legal  for  migrant  workers  to  organize  and  lead
+trade  unions,  and  to  ensure  that  International  Labour
+Organization  (ILO)  conventions  87,  98,  108,  and  188  are
+implemented.21  Fortunately,  other
+ratified  and  fully
+initiatives like the newly formed Fishers’ Rights Network
+(FRN)  are working to stop exploitation and abuse in the
+Thai  fishing  industry,  and  calling  for  bold  action  from
+the  Thai  government.  Supported  by  the  International
+Transport  Workers’  Federation,  the  FRN22  is  helping
+workers to organize and campaign to improve the wages,
+working conditions, and labor rights of all fishers in the
+Thai fishing industry.
+
+In  May,  Greenpeace  East  Asia  reported  on  systemic
+problems
+in  Taiwan’s  distant  water  fishing  fleets,
+including  labor  and  human  rights  abuses  linked  to
+one  of  the  world’s  largest  seafood  traders,  Fong  Chun
+Formosa  Fishery  Company  (FCF).23  Many  large  U.S.
+retailers do business with FCF and should act quickly to
+evaluate  the  social  responsibility  and  sustainability  of
+any seafood supplied by FCF, including calling on FCF to
+make far-reaching reforms.iv Retailers must leverage their
+long-term  supplier  relationships—whether  with  FCF  or
+another  supplier—to  improve  problematic  operations
+if  a  supplier  cannot
+wherever  possible.  However,
+demonstrate  swift  and  effective  action  to  eliminate
+problems  once  they  have  been  identified,  then  retailers
+or  other  customers  should  terminate  their  relationship
+with that supplier.
+
+Most  eco-certification  schemes  either
+insufficiently
+address  or  outright  ignore  labor  abuses  and  seafood
+worker  treatment  in  the  supply  chain,24,  25,  26  and  even
+social  certifications  have  failed  to  create  the  systemic
+changes  needed.27  Rather  than  doubling  down  on
+inherently  flawed  certification  schemes  or  relying  only
+on  corporate  codes  of  conduct  and  internal  or  external
+audits, industry and NGOs must reconsider whether this
+approach is indeed working. Greenpeace encourages all
+profiled  retailers  and  their  suppliers  to  aim  higher  and
+instead support ILRF’s call to action28 to hold companies
+and  retailers  accountable  through
+legally  binding
+commitments  and  enforceable  agreements  with  trade
+unions  and  workers’  organizations  that  put  workers’
+rights,  legal  fishing,  and  environmental  sustainability
+front and center.
+
+© Jiri Rezac / Greenpeace
+
+“Certified” Sourcing and Troubling Policy Developments
+
+While retailers have collectively phased out many red list
+species over the past decade, amid controversial Marine
+Stewardship  Council  (MSC)  certifications  of  orange
+roughy  and  Chilean  sea  bass,  some  retailers  may  be
+eager to begin sourcing them again. Greenpeace strongly
+cautions against this potential transgression. Sometimes
+a species should not be commercially available, despite
+what  the  MSC  or  any  other  certification  scheme  says;
+most  certifiers
+industry  pressure  and
+have  a  financial  incentive  to  certify  fisheries  or  farms.
+While  Greenpeace  recognizes  there  is  some  value  to
+certifications,  retailers  cannot  solely  rely  on  them  given
+outstanding concerns.29, 30, 31, 32, 33, 34, 35
+
+face  strong
+
+Meanwhile,  in  U.S.  waters,  trouble  is  brewing  with  the
+Trump  administration’s  repeal  of  the  National  Ocean
+Policy36 and the U.S. House of Representatives’ approval
+of  a  bill  that  significantly  weakens  conservation
+measures  in  the  Magnuson-Stevens  Act.37,  38  This  should
+concern  every  retailer  that  sources  from  U.S.  fisheries,
+and those retailers touting the strength of sourcing from
+U.S.  fisheries  in  their  public  policies.  Retailers  must
+advocate for strong ocean protections and science-based
+fisheries management both domestically and abroad.
+
+iv Such as the ambitious commitments that Thai Union made following a Greenpeace campaign. See www.greenpeace.org/international/press-release/7207/thai-union-commits-to-
+more-sustainable-socially-responsible-seafood.
+
+Carting Away the Oceans   8
+
+Tuna Improvements and Challenges
+
+boats into floating prisons, and enabling vessels to hide
+illegally caught fish and mistreat crew members.40, 41 Many
+retailers  require  tuna  supplied  by  International  Seafood
+Sustainability  Foundation  (ISSF)  member  companies,
+although  this  will  not  sufficiently  address  high-risk
+practices like transshipment at sea with longline vesselsv
+or ensure sustainable tuna.vi Fortunately, some companies
+are taking action, including Thai Union,42 Nestlé,43 Mars,44
+Aramark,45 ALDI,46  Wegmans,47 Giant Eagle,48 and Sprouts.49
+
+Retailers  are  also  moving  toward  sustainable  shelf-
+stable  tuna.  In  2011,  Whole  Foods  was  the  first  U.S.
+retailer  to  sell  private  label  sustainable  canned  tuna,
+and in 2017, it was the first U.S. retailer to commit to sell
+only  sustainable  canned  tuna  across  its  entire  private
+label  and  national  brands.  (Indeed,  Whole  Foods  has
+effectively  rendered  the  transshipment  at  sea  issue
+moot,  in  that  it  only  sources  one-by-one  caught  tuna
+that  avoids  this  problematic  practice  altogether.)  In
+2015, six retailers profiled in this report had sustainable
+private label canned tuna products; today, that number
+has  nearly  doubled  to  eleven,  with  additional  retailers
+expected  to  launch  products  in  the  near  future.  As
+retailers continue to make improvements on their private
+label sourcing, they should also demand improvements
+from  national  brand  suppliers  and  traders  (like  FCF),
+address  problematic
+transshipment  at  sea,  and
+advocate for improved management by regional  fishery
+management organizations (RFMOs).50
+
+Following a global campaign that included extensive U.S.
+retailer  engagement,  Thai  Union  responded  to  serious
+supply  chain  concerns  (i.e.,  environmental,  labor,  and
+human  rights).  Thai  Union,  the  world’s  largest  tuna
+processor,  has  developed  a  comprehensive  new  policy
+and program of change, demonstrating to the wider tuna
+and  seafood  industries  what  is  possible  if  a  company  is
+willing to set a higher bar.39
+
+In  light  of  similar  issues  linked  to  its  supply  chains,
+FCF  should  now  do  the  same.  It  is  troubling  that  FCF
+touts  sourcing  MSC  certified  tuna  (which,  including
+the  aforementioned  concerns  with  MSC,  only  partly
+covers  some  of  its  operations)  and  has  yet  to  apply  its
+sustainability  and  social  responsibility  fisheries  policies
+to  all  of  its  products.  FCF  must  work  alongside  its
+suppliers  to  eliminate  seafood  that  is  associated  with
+labor  or  human  rights  abuses.  As  one  of  the  world’s
+largest  tuna  traders,  this  would  help  block  tainted
+products  from  entering  several  key  markets.  FCF  must
+assess all of its supplying vessels and prioritize auditing
+companies  that  are  historically  linked  to  IUU  fishing
+or  labor  abuses.  Retailers  should  move  quickly  to  seek
+assurances and evidence that the seafood they buy from
+FCF  is  not  linked  to  environmental  destruction  or  labor
+abuses.
+
+The  tuna  industry  is  fraught  with  transshipment  at  sea,
+where smaller boats refuel, restock, and transfer catch onto
+larger cargo vessels. This practice is often used to traffick
+workers  who  have  no  means  of  escape,  turning  fishing
+
+Where We Go from Here
+
+Despite  the  challenges  we  face,  the  past  ten  years  have
+demonstrated  that  several  retailers  are  willing  and  able
+to  make  significant  improvements,  to  advocate  with
+suppliers,  governments,  and  industry  laggards,  and
+to  take  action—even  when  difficult.  We  will  need  this
+enthusiasm  more  than  ever  over  the  next  decade,  and
+urge  retailers  to  use  their  brands,  buying  power,  and
+influence to do what is right for our oceans and for future
+generations.
+
+© Jiri Rezac / Greenpeace
+
+v Transshipment at sea with longline vessels must meet strict standards. Unfortunately, ISSF has yet to develop a comprehensive set of ISSF Conservation Measures to better manage
+transshipment at sea (e.g., 100% observer coverage for transshipments involving all longline vessels, regardless of length, limits to vessel time at sea), despite its own extensive review
+of  the  practice.  See  iss-foundation.org/knowledge-tools/technical-and-meeting-reports/download-info/issf-2018-08-transshipment-strengthening-tuna-rfmo-transshipment-
+regulations.
+vi ISSF standards largely fail to address overcapacity and destructive fishing methods such as the use of FADs and longlines. Its standards alone are insufficient to achieve the level of
+sustainability needed to ensure long-term tuna stock health or to mitigate concerns with labor and human rights abuses. Furthermore, ISSF is closely connected to industry, which has
+raised questions in the past. See www.greenpeace.org/usa/oceans/sustainable-seafood/how-international-seafood-sustainability-foundation-blocks-environmental-action.
+
+Carting Away the Oceans   9
+
+Companies Evaluated
+& Methodology
+
+criterion and an overall score (a weighted average of all
+four  criteria).  Each  company  profile  features  its  score
+for  each  of  the  four  criteria  and  its  overall  score  (on  a
+100-point  scale).  Retailers  are  ranked  based  on  their
+overall  score,  where  below  40  is  failing  (red),  40  to  69.9
+is passing (yellow), and above 70 is leading (green). Each
+company  is  encouraged  to  meet  with  Greenpeace  to
+discuss its results and Greenpeace’s recommendations.
+
+This report evaluates the seafood sustainability of 22 U.S.
+retailersvii  in  four  key  areas:  policy,  initiatives,  labeling
+and transparency, and inventory. Each company received
+an identical survey reflective of the four scoring criteria,
+along  with  advance  notice  of  the  survey  and  context
+about  this  assessment,  and  was  given  approximately
+seven  weeks  to  complete  it.  This  year  had  a  high  rate
+of  survey  participation  among  profiled  retailers:  only
+Publix, H-E-B, and Wakefern declined to participate in the
+survey process.
+
+Greenpeace  also  used  publicly  available  information
+(e.g.,  websites,  annual  reports,
+industry  press)  to
+evaluate  companies.viii  While  some  profiled  companies
+may  have
+initiatives,
+internal  sustainable  seafood
+Greenpeace is unable to assess initiatives for which it has
+no data.
+
+Surveys  were  scored  independently  and  consistently.
+After  extensive  review  of  independent  findings  among
+the  scoring  team,  companies  received  a  score  for  each
+
+vii  While  several  profiled  companies  have  international  operations  (e.g.  Walmart,  Costco,  Ahold  Delhaize),  this  report  evaluates  U.S.  operations  only.  However,  Greenpeace  expects
+international retailers to have global initiatives and develop consistent standards for every country where they operate.
+viii For a majority of retailers, the information on stores, banners, and revenue is primarily based on data available in the Supermarket News “Top 75 Retailers & Wholesalers” report. See
+www.supermarketnews.com/top-75-retailers-wholesalers/sn-s-2018-top-75.
+
+Carting Away the Oceans   10
+
+© Alex Hofford / Greenpeace
+
+Seafood Sustainability Scoring Criteria
+
+1. Policy
+The  policy  score  reflects  the  system  that  the  company
+has in place to govern its purchasing decisions and avoid
+supporting destructive practices. To lead in this category,
+a  retailer  would  need  to  establish  and  enforce  rigorous
+standards  to  responsibly  source  wild-caught  and  farm-
+raised  seafood  across  its  fresh,  frozen,  and  shelf-stable
+categories.
+
+improve
+
+fisheries  management
+
+2. Initiatives
+initiatives  score  evaluates  a  retailer’s  efforts
+The
+to
+through  policy
+and  market  interventions  (e.g.,  refuse  to  buy  tuna
+transshipped  at  sea;  take  measures  to  prevent  IUU
+fishing;  advocate  for  reforms  with  RFMOs;  require
+suppliers to source only sustainable, ethical shelf-stable
+tuna; engage suppliers to improve their operations; work
+with groups to publicly promote sustainable seafood and
+protect workers’ rights). Retailers that have taken action
+to  assess  and  reduce  their  plastic  footprint,  particularly
+with  regard  to  single-use  plastics,  earn  bonus  points  in
+this category.
+
+important
+
+3. Labeling and Transparency
+This  score  evaluates  a  retailer’s  transparency  (e.g.,
+online  and  in-store  communication,  vessel-  or  farm-
+to-shelf  traceability).  Equally
+is  whether
+retailers  call  on  their  suppliers  to  be  transparent,
+particularly  about  where  and  how  they  catch  or  farm
+seafood.  For  customers,  some  companies  present  the
+data  at  the  point  of  sale,  while  others  opt  to  make  the
+data accessible online. The best retailers do both, and a
+leader in this category would go to considerable lengths
+to educate its customers about the seafood they buy and
+the impacts of their choices.
+
+4. Inventory (Red List)
+This  score  evaluates  each  retailer’s  seafood  inventory
+species.  Greenpeace
+sold
+across  26  commonly
+retailer’s
+benchmarked
+against
+each
+the  Monterey  Bay
+Seafood  Watch
+Aquarium
+recommendations,  and  considered  whether  a  retailer
+mitigates sourcing concerns (e.g., engaged in a rigorous
+fishery
+(FIP)  or  aquaculture
+improvement project (AIP)).ix
+
+improvement  project
+
+inventory
+
+Performance Badges
+
+Category Winner—Awarded
+to each of the four category
+winners: Policy: Whole Foods;
+Initiatives: Hy-Vee; Labeling
+and Transparency: Hy-Vee; and
+Inventory: Trader Joe’s.
+
+Canned Tuna—Awarded to the
+three retailers that sell only
+sustainable private label canned
+tuna.
+
+Improvement—Awarded to the
+five most improved retailers
+(based on overall score, not
+relative ranking) since the previous
+report, in the order below.
+
+Wrong Way—Indicates the five
+retailers whose score dropped
+more than 0.1 points since the
+previous report, in this order
+from biggest to smallest drop.
+
+ix Many timebound FIPs/AIPs can play a temporary role to improve operations and sourcing in more
+sustainable ways, and retailers can help ensure FIPs/AIPs are effective. However, in an industry with
+rampant overfishing, IUU fishing, and human rights abuses, sourcing of a problem species from a
+FIP  or  AIP  is  not  always  the  solution.  “Continuous  improvement”  can  be  a  misleading,  overused
+phrase by industry and NGOs to excuse the continued sale of a problem species with no solution
+in sight. Greenpeace advises retailers to not base entire purchasing policies or sustainability/social
+responsibility statements on sourcing from a FIP or AIP. The solution for most contentious species
+(e.g., orange roughy, bigeye tuna) is simple: stop sourcing immediately.
+
+Carting Away the Oceans   11
+
+Plastics Are Devastating
+Our Oceans
+
+Retailers Failing on Plastics
+The  flow  of  plastics  into  our  environment  has  reached
+crisis levels, and the evidence is most clearly on display
+in  our  oceans.  The  equivalent  of  one  garbage  truck  of
+plastic  enters  our  oceans  each  minute.51  A  recent  study
+estimated that there may be more than 50 trillion pieces
+of plastic in our oceans,52 and according to the UN, ocean
+plastic  causes  the  deaths  of  hundreds  of  thousands  of
+marine  animals  each  year.53 A  2015  study  that  analyzed
+the digestive tracts of fish sold in the United States and
+Indonesia  found  microplastic  contamination  in  about
+25%  of  the  seafood  sampled.54  A  2017  study  found
+substantial  microplastic  contamination  in  municipal
+tap  water  in  every  region  of  the  world.55 Every  minute,
+one  million  plastic  bottles  are  purchased  worldwide,56
+and with plastic production set to double in the next 20
+years—largely for plastic packaging—the threats to ocean
+biodiversity  and  seafood  supply  chains  are  increasing.
+The UN describes this as a potential “toxic time-bomb.”57
+
+For  this  year’s  assessment,  we  asked  retailers  what
+steps they have taken to address their plastic footprints.
+Unfortunately,  most  retailers  have  done  far  too  little
+given  the  scope  of  the  problem.  Walmart’s  2025  goal  of
+100%  recycled  content  for  its  private  label  packaging
+
+Consumer Trends
+Concern  about  plastic  pollution  is  growing  rapidly.  A
+2018  Ipsos  survey  on  global  views  on  the  environment
+found  that  more  than  half  of  global  respondents  would
+reuse their disposable items to help cut down on waste.62
+Among  American  millennials,  plastic  pollution  is  now
+perceived to be a threat on par with oil spills, which has
+long  been  their  top  concern.  Further,  millennials  expect
+action:  64%  of  millennials  surveyed  believe  that  we  are
+likely  to  make  progress  in  reducing  the  flow  of  plastic
+pollution into our oceans in the next five years.63
+
+Many  businesses  are  responding.  In  January  2018,  UK
+retailer  Iceland  became  the  first  major  supermarket
+chain  to  commit  to  dropping  plastic  packaging  from
+its  own  brand  products.  McDonald’s  pledged  to  drop
+Styrofoam  cups  and  packaging  by  the  end  of  2018,
+
+Carting Away the Oceans   12
+
+is  the  epitome  of  an  outdated,  ineffective  strategy  that
+many  retailers  currently  employ.  We  cannot  recycle
+our  way  out  of  this  problem:  less  than  10%  of  plastic  is
+recycled  in  the  United  States58 and  only  14%  globally.59
+As it slowly degrades, plastic becomes more dangerous—
+breaking  down  into  smaller  pieces  that  are  eaten  by
+birds,  whales,  turtles,  and  other  marine  life;  ending  up
+in  our  drinking  water,  salt,  and  food,  raising  significant
+health  concerns;  and  even  contaminating  the  air  we
+breathe in the form of microplastic particles.60
+
+We  can  no  longer  afford  to  use  plastic  materials  that
+last  forever  to  make  products  that  we  use  once  and
+throw  away.  Throwaway  packaging,  straws,  utensils,
+bags, and other single-use plastic items are choking our
+waterways  and  polluting  our  environment.  That  is  why
+Greenpeace, alongside more than 1,000 organizations
+in the Break Free From Plastic movement,61 is calling
+on  retailers  to  set  ambitious  goals  to  quickly  phase
+out  single-use  plastics.  Without  immediate  action,  the
+increasing  quantity  of  plastics  in  our  oceans  will  have
+severe  consequences  for  biodiversity  and  human  food
+and water safety.
+
+Starbucks  announced  it  will  be  getting  rid  of  plastic
+straws,  and  IKEA  is  phasing  out  single-use  plastics.
+Bon  Appétit  Management  Company  was  the  first  U.S.
+institutional  foodservice  company  to  make  a  public
+commitment,  banning  plastic  straws,  and
+in  July,
+Aramark announced its ambitious plan to reduce single-
+use plastics across its global operations.
+
+As  other  retail  and  foodservice  sectors  take  action  on
+single-use  plastics,  U.S.  grocery  retailers  largely  remain
+silent. As the five largest U.S. retailers, Walmart, Kroger,
+Costco,  Albertsons,  and  Ahold  Delhaize  have  an  added
+responsibility  to  act  immediately;  however,  all  retailers
+must move swiftly to address the plastics crisis, starting
+with  public  commitments  and  time-bound  policies  to
+reduce their single-use plastic footprints.
+
+Policy Changes
+Governments  at  all  scales  are  taking  action  globally.
+Plastic pollution tends to be a non-partisan issue in the
+United  States,  as  evidenced  by  the  ban  on  microbeads
+passed  by  Congress  in  2016—one  of  the  very  few
+progressive  environmental  laws  passed  in  recent  years.
+California,  Puerto  Rico,  and  American  Samoa  have
+banned  plastic  bags,  and  a  New  York  bag  ban  looks
+inevitable. Baltimore has outlawed Styrofoam, Seattle is
+getting rid of plastic straws, and other new laws to limit
+single-use  plastics  are  being  planned  and  debated  in
+towns and cities nationwide.
+
+Alternatives
+Over  previous  decades,  plastic  has  become  a  very
+common part of our lives. Fortunately, there are several
+that  can  help  move
+complementary  approaches
+companies away from single-use plastics.
+
+is
+
+the  answer
+
+For  many  products,
+relatively
+straightforward:  replace  single-use  plastic  items  like
+shopping  bags,  cutlery,  and  straws  with  reusable  items
+made  from  more  sustainable  materials.  Unnecessary
+packaging  can  simply  be  discontinued,  saving  money
+and  avoiding  ridicule  from  customers  who  do  not  want
+individually  wrapped  oranges,  potatoes,  cucumbers,
+or  bananas.  For  most  products  typically  sold  in  plastic
+packaging,  there  are  alternatives  in  glass,  aluminum,
+or  cardboard.  Better  yet  is  the  trend  toward  bulk  sales,
+
+France banned plastic plates and cutlery in 2016, and the
+European Union is considering more sweeping measures.
+Plastic  bag  bans  are  in  effect  in  more  than  a  dozen
+African countries, and India and Costa Rica are getting rid
+of single-use plastics altogether. Taiwan has announced
+it  will  begin  banning  plastic  straws  and  several  other
+single-use  plastic  items  by  2019.  In  this  global  climate
+of  rapid  regulatory  change,  a  strong  business  case  is
+emerging for corporations to come together and support
+legislation to phase out throwaway plastics.
+
+plastic-free aisles, and other new approaches to product
+delivery that do not rely on single-use packaging at all.
+
+Bioplastics  and  biodegradable  plastics  may  play  a  role
+in  some  cases,  but  often  bring  sustainability  concerns
+of  their  own  and  have  not  yet  proven  to  be  sustainable
+alternatives  at  scale.  Bioplastic  implies  that  some  or
+all  of  the  source  material  is  from  plants,  but  carries  no
+guarantee  of  sustainability—and  in  some  cases  still
+includes  fossil  fuels.  Many  so-called  biodegradable
+materials  do  not  break  down  at  temperatures  or  light
+levels typically found in the ocean. Additionally, studies
+show that people are more likely to discard bioplastics in
+the belief that they will readily biodegrade.64
+
+Time for Action
+
+With alarming new scientific studies being published weekly, it is clear that our current reliance on single-use plastics
+is  unsustainable  for  our  planet’s  health  as  well  as  our  own.  A  major  course  correction  is  needed,  and  single-use
+plastics must be phased out. Greenpeace calls on retailers and their suppliers to take the following actions in 2018:
+
+1. Analyze. What is your single-use plastic footprint?
+
+How much of each type of plastic do you sell, and in
+what types of products? Approximately how much is
+recycled?
+
+4. Educate. Let your customers know about your efforts
+to reduce your plastic footprint, and urge them to
+support these efforts by choosing products designed
+for reuse.
+
+2. Commit. Set an ambitious, public goal to reduce
+
+5. Advocate. Support public policy initiatives that will
+
+your company’s plastic footprint and report progress
+annually. Prioritize eliminating plastics that are rarely
+recycled, such as anything coded three or higher.
+
+3. Innovate. Invest in and test new ways to deliver
+
+products that do not rely on single-use plastics, and
+prioritize reuse rather than throwaway packaging.
+
+x For more information, visit breakfreefromplastic.org; plasticpollutioncoalition.org;
+newplasticseconomy.org; 5gyres.org; storyofstuff.org/plastics; no-burn.org; asyousow.
+org/our-work/waste/ocean-plastics; Rethinkdisposable.org.
+
+phase out single-use plastic items.
+
+6. Collaborate. While some steps to move away from
+single-use plastics are clear, others are complicated
+and involve questions about the sustainability of
+alternative materials, such as carbon footprints,
+compostability, biodegradability, and water and land
+issues. Greenpeace can help work through these and
+other questions and encourages companies to consider
+additional organizations with expertise in this area.x
+
+Carting Away the Oceans   13
+
+Everyone Must Take Action
+
+Five Ways Grocery Retailers Must Lead
+As fish stocks collapse, plastics choke our oceans, and workers continue to be at risk of labor and human rights abuses,
+retailers must use their purchasing power to bring about positive change for our oceans and seafood workers. Here are
+five ways they can lead:
+
+1.  Create a strong, time-bound, publicly available sustainable seafood policy. Retailers with guidelines covering
+all seafood categories are better able to ensure that they are not causing undue harm to the oceans throughout
+their  operations.  Avoid  seafood  connected  to  overfishing  or  destructive  fishing  and  farming  methods.  In  most
+cases, a rigorous policy can help retailers avoid being lured by the purported sustainability of eco-certifications or
+the promise that every FIP or AIP is actually improving the targeted fish stock or greater ecosystem.
+
+2.
+
+Take  action  to  stop  forced  labor,  labor  abuse,  and  IUU  fishing.  Retailers  must  improve  traceability,
+transparency, and enforcement mechanisms to ensure that any seafood they source is free of labor and human
+rights abuses. This includes addressing problematic transshipment at sea, supporting legally binding agreements
+that protect workers’ rights, and calling on FCF and other companies linked to unsustainable or unethical practices
+to improve immediately.
+
+3.  Reduce your plastic footprint. Set an ambitious, public goal to reduce your company’s plastic footprint and report
+progress annually. Prioritize eliminating plastics that are rarely recycled, such as anything coded three or higher.
+
+4.
+
+Support  initiatives  and  advocate  for  positive  change  for  our  oceans  and  seafood  workers.  Retailers  must
+advocate  for  policy  makers  to  protect  our  oceans,  improve  fishery  management,  and  protect  seafood  workers’
+rights  throughout  the  supply  chain.  Retailers  can  also  encourage  their  customers  and  the  public  at  large  to
+pressure decision makers on these issues.
+
+5.  Increase  transparency  through  data,  chain  of  custody,  and  education.  Responsible  seafood  is  impossible  to
+achieve without establishing strong traceability mechanisms. Traceability must cover the fishing vessel or farm to
+the point of sale, allowing customers to make educated choices based on all available information. Be transparent
+with your shoppers both on your website and in stores.
+
+Carting Away the Oceans   14
+
+© Daniel Müller / Greenpeace
+
+Five Ways Customers Can Take Action
+As fish stocks collapse, plastics choke our oceans, and workers continue to be at risk of labor and human rights abuses,
+shoppers  can  vote  with  their  dollar  and  let  retailers  know  why  they  want  healthy  oceans  and  sustainable,  ethical
+seafood. Here are five ways to demand change from major retailers:
+
+1.  Know the facts and speak your mind. Visit greenpeace.org/usa/carting-away-the-oceans to learn more. Bring
+some friends and talk to grocery store managers about seafood sustainability, ocean health, and workers’ rights.
+
+2.
+
+Join  the  #BreakFreeFromPlastic  movement.  Sign  upxi  and  demand  that  supermarkets  announce  ambitious,
+public goals to reduce their plastic footprints. Take pictures of ridiculously overpackaged items and post them on
+social media, and talk to store managers about reducing their plastic footprint.xii
+
+3.  Eat tuna? Make sure it is sustainable and ethical. Tell your supermarket that you want responsibly caught tuna,
+and express your concern if it is coming from suppliers that cannot guarantee sustainable and ethical products, like
+FCF, Bumble Bee, and StarKist.65
+
+4.
+
+Vote  with  your  dollar.  Do  not  buy  orange  roughy,  Chilean  sea  bass,  or  bigeye  tuna.  Use  the  Monterey  Bay
+Aquarium  Seafood  Watch  app66  to  buy  only  green  rated  “Best  Choices”  seafood.  Ask  how  your  supermarket  is
+addressing concerns about forced labor, labor abuse, and illegal fishing. If you are not satisfied with its response,
+take your business elsewhere.
+
+5.  Eat less seafood. Today’s demand for seafood far outweighs what can be sustainably sourced. Reducing seafood
+
+consumption now can help lessen the pressure on our oceans, ensuring fish for the future.
+
+xi See the Break Free From Plastic website. www.breakfreefromplastic.org.
+xii Read this blog and download the “#PointlessPlastic Toolkit” to get started. www.greenpeace.org/usa/campaign-updates/pointlessplastic-toolkit.
+
+Carting Away the Oceans   15
+Carting Away the Oceans   15
+
+Retailer Profiles
+
+Carting Away the Oceans   16
+
+© Paul Hilton / Greenpeace
+
+Carting Away the Oceans   17
+Carting Away the Oceans   17
+
+#1 Whole Foods Market
+
+Headquarters: Austin, TX
+
+Stores and Banners: 467 stores operating as Whole Foods Market and
+Whole Foods Market 365
+
+Background:  Whole  Foods  is  known  for  its  natural  and  organic
+products.  Amazon’s  acquisition  of  Whole  Foods  sent  shockwaves
+throughout  grocery  retail.xiii  Whole  Foods  has  cut  prices  and  has
+begun  offering  a  series  of  perks,  including  discounts  for  Amazon
+Prime members. Its FY 2017 revenue was $14 billion.67
+
+Greenpeace  Comments:  Whole  Foods  continues  its  reign  as  the
+top-ranked  retailer  in  this  assessment.  From  launching  its  new
+tuna  policy  to  continued  advocacy  initiatives  for  improvements
+in  fisheries  management,  Whole  Foods  is  remaining  active  on
+sustainable  seafood.  Recent  reports  have  scrutinized  Whole  Foods
+regarding  its  lack  of  public  labor  standards  (see  page  7).  As  labor
+and  human  rights  abuses  persist  in  the  seafood  industry,  Whole
+Foods  has  the  opportunity  to  lead  with  the  same  tenacity  as  it  has
+on sustainable seafood.xiv The retailer must also take action to tackle
+plastic pollution. While time will tell whether its recent acquisition by
+Amazon  will  affect  future  seafood-related  decisions,  for  now  Whole
+Foods remains the leader in this assessment.
+
+Sustainable  Seafood  Policy:  Whole  Foods’  seafood  policy  requires
+that  it  buy  only  seafood  that  is  green  or  yellow  rated  according  to
+Seafood Watch, or is in a time-bound FIP or AIP. The policy applies to
+its  fresh/frozen  seafood,  shelf-stable  tuna,  and  any  prepared  foods
+that  use  tuna.  Its  public  canned  tuna  policy68  is  above  and  beyond
+that of any other retailer profiled. It is the only policy among profiled
+retailers  that  requires  sourcing  only  one-by-one  tuna  (e.g.,  pole  and
+line,  handline,  troll),  and  has  traceability  requirements  that  help
+ensure a sustainable and traceable product. A shopper interested in
+canned tuna can walk into any Whole Foods in the country, grab any
+brand  of  tuna  on  the  shelf  (private  label  or  national  brand),  and  be
+assured of its sustainability. This is no small feat.
+
+Another unique element of Whole Foods is that it still relies on its own
+standards  for  farmed  salmon,  other  finfish,  and  shrimp,  instead  of
+relying on incomplete third-party certifications. These standards raise
+the bar for aquaculture suppliers regarding environmental standards
+and animal welfare.
+
+Seafood  Sustainability  Initiatives:  Whole  Foods  conducts  third-
+party audits to review its suppliers’ farmed fish, shrimp, and mollusc
+aquaculture operations. While it reviews IUU vessel lists to ensure it is
+not inadvertently sourcing illegally caught tuna, Whole Foods should
+also reference these lists for any wild-caught species that it procures.
+Whole  Foods  does  not  have  a  policy  on  transshipment  at  sea  in  the
+tuna industry, although because it does not source from purse seine
+or longline fleets, this is essentially not an issue for its sourcing. The
+retailer also signed on to a 2018 tuna RFMO advocacy letterxv calling
+for fishery management improvements.
+
+Whole Foods has been moderately active in reducing plastic pollution.
+It  requires  a  minimum  amount  of  post-consumer  recycled  plastic  in
+the packaging for some items, and is actively considering alternatives
+for some of its in-store items (like single-use plates). However, it must
+swiftly and markedly strengthen its initiatives as the plastic pollution
+crisis  worsens.  Especially  given  Amazon’s  massive  single-use  plastic
+footprint, Whole Foods has an opportunity to set the bar for U.S. retail
+by developing a strong, comprehensive policy to phase out single-use
+plastics.
+
+Labeling  and  Transparency:  Whole  Foods  features  prominent
+signage  to  inform  customers  about  sustainable  seafood  choices
+and  uses  color-coded  sustainability  labels  for  each  species  in  the
+in-store  flyers,  brochures,  and  signage,  the
+wetcase.  Through
+retailer  communicates  about  various  standards,  including  its  own
+aquaculture  standards.  Whole  Foods  prioritizes  transparency  with
+its  standards,  publishing  this  information  online  and  updating  its
+customers  and  the  public  on  its  seafood  sustainability  milestones.
+Its  private  label  tuna  even  carries  a  quick  response  (QR)  code  for
+consumers  to  use  to  learn  more  about  the  tuna’s  sourcing.  This
+approach  could  be  used  to  share  more  data  about  other  products,
+further increasing Whole Foods’ performance in this category.
+
+Inventory: Despite its robust seafood standards, Whole Foods’ desire
+to  carry  a  wide  selection  of  species  continues  to  affect  its  inventory
+score.  For  example,  instead  of  refusing  to  carry  Chilean  sea  bass,
+Whole  Foods  sells  an  MSC  certified  product.  While  Whole  Foods  is
+certainly not the only retailer to use this loophole, it is disappointing
+to  see  an  industry  leader  in  so  many  other  areas  continue  to  use
+this  strategy with such a sensitive  species.  Whole  Foods should  also
+discontinue bigeye tuna.
+
+xiii For purposes of this report, Whole Foods is still being evaluated as its own entity.
+xiv Whole Foods should heed the call from labor groups like ILRF and support legally binding agreements for seafood workers’ rights.
+xv Henceforth called “the 2018 tuna RFMO letter.” This refers to a letter sponsored by a coalition of NGOs (the NGO Tuna Forum), which was first submitted to key RFMOs in May 2018,
+and will continue to accumulate business and NGO signatories throughout 2018. For more, see www.seafoodsource.com/news/environment-sustainability/118-organizations-make-
+sustainability-appeal-for-global-tuna-fisheries.
+
+Carting Away the Oceans   18
+
+#2 Hy-Vee
+
+Headquarters: West Des Moines, IA
+
+Stores  and  Banners:  245  stores  operating  as  Hy-Vee  and  Hy-Vee
+Drugstore
+
+Background:  Hy-Vee  is  an  employee-owned  company  with  stores
+located in the Midwest. Its FY 2017 revenue was $10 billion.
+
+Greenpeace  Comments:  This  Midwest  retailer  continues  its  rapid
+ascent  in  the  rankings,  and  has  moved  ahead  of  Wegmans  into
+second place. Hy-Vee was the category winner for the initiatives and
+the transparency categories. Hy-Vee has released a shelf-stable tuna
+policy, has finished converting all of its private label canned tuna to
+be sustainably sourced, and is investigating the concerns associated
+with transshipment at sea. Greenpeace encourages Hy-Vee to quickly
+complete  its  work  to  ensure,  like  Whole  Foods,  that  all  shelf-stable
+tuna sold in its stores is sustainable. Hy-Vee should build on its zero-
+waste  initiatives  to  release  strong  public  commitments  and  a  policy
+to tackle single-use plastics, and join labor organizations like ILRF to
+support legally binding agreements for workers’ rights in the seafood
+industry.
+
+Sustainable Seafood Policy: Hy-Vee’s seafood policy requires that it
+source only seafood that is green or yellow rated according to Seafood
+Watch, from a certified equivalent, or in a time-bound FIP or AIP. The
+policy encompasses its fresh and frozen seafood, shelf-stable, sushi,
+and  deli  categories.  Since  December  2017,  Hy-Vee  has  sold  only
+sustainable private label tuna (e.g., pole and line, FAD-free),69 and is
+currently  working  with  its  NGO  partner  FishWise  on  plans  to  ensure
+that any national tuna brands sold in stores also meet its policy. Given
+the relative strength of its shelf-stable tuna policy, it is odd that Hy-
+Vee  has  a  preferential  sourcing  requirement  of  ISSF  participating
+companies,  which  would  not  ensure  Hy-Vee  receives  sustainable,
+ethical shelf-stable tuna (see page 9). Hy-Vee should seek to emulate
+Whole Foods’ policy,70 only source one-by-one caught tuna, and stick
+with  its  stronger  policy  standards  that  go  beyond  ISSF’s  insufficient
+supplier  requirements.  While  Hy-Vee  appears  to  have  extensive
+internal  social  standards,  in  contrast  to  some  other  top-five  ranked
+retailers, Hy-Vee lacks a comprehensive public policy regarding labor
+and human rights.
+
+Seafood  Sustainability  Initiatives:  Hy-Vee  conducts  supply  chain
+audits  to  determine  whether  its  products  are  in  compliance  with  its
+sustainability, traceability, and IUU fishing/social risk standards. The
+retailer relies on the combined Trygg Mat Tracking IUU vessel list71 to
+
+identify whether the listed vessels are linked to its supply chains. Hy-
+Vee is currently considering its approach to addressing transshipment
+at  sea  in  the  tuna  industry,  and  signed  the  2018  tuna  RFMO  letter,
+building on years of calling for improved RFMO fisheries management.
+To further integrate its focus on ethical seafood procurement, Hy-Vee
+should  support  ILRF’s  call  to  action  for  legally  binding  agreements
+that protect seafood workers’ rights (see pages 7–8).
+
+In conjunction with its distribution subsidiary Perishable Distributors
+of  Iowa,  Hy-Vee  has  focused  on  waste  reduction,  including  plastics
+recycling  and  encouraging  its  customers  to  use  reusable  bags.
+Because  recycling  alone  will  not  solve  the  global  plastic  pollution
+crisis,  Greenpeace  urges  Hy-Vee  to  build  on  its  sustainable  seafood
+leadership and announce bold commitments to phase out single-use
+plastics in its operations.
+
+Labeling  and  Transparency:  Hy-Vee’s  Seafoodies  blog72  educates
+its  customers  on  sustainable  seafood  and  even  advises  them  which
+species  to  avoid  (e.g.,  Chilean  sea  bass).  On  multiple  industry
+conference  panels,  Hy-Vee  representatives  make  a  concerted
+effort  to  explain  to  others  in  the  industry  why  sustainability  makes
+business  sense,  and  to  urge  action  among  their  peers.  In  stores,  its
+staff  is  trained  to  answer  sustainability  questions.  Hy-Vee  places  a
+“Responsible Choice” label on service cases, the frozen section, sushi
+bars, in-store restaurants, and the canned tuna aisle for products that
+are green or yellow rated by Seafood Watch or a certified equivalent.
+Hy-Vee  can  improve  by  providing  additional  traceability  labeling  at
+the point of sale, whether on the packaging itself, through signage, or
+in other displays.
+
+Inventory:  Greenpeace  commends  Hy-Vee  for  avoiding  Chilean  sea
+bass for sustainability reasons, and communicating this policy to its
+customers.73  Other  top-five  retailers  Whole  Foods  and  Giant  Eagle
+should  take  note  of  this  leadership.  According  to  its  seafood  policy,
+Hy-Vee  works  to  mitigate  concerns  associated  with  its  wild-caught
+and farmed sourcing, which it employs with Atlantic cod, for example.
+However,  Hy-Vee’s  reintroduction  of  Atlantic  cod  and  the  need  to
+improve  its  pangasius  sourcing  precipitated  a  drop  in  its  inventory
+score.  As  Hy-Vee  works  to  improve  the  sustainability  of  national
+canned tuna brands sold in its stores, it should also ensure that any
+salmon and shrimp sold is green rated by Seafood Watch.
+
+Carting Away the Oceans   19
+
+#3 ALDI
+
+Headquarters: Batavia, IL
+
+Stores and Banners: 1,695 stores operating as ALDI
+
+Background: ALDI US (“ALDI”) is a rapidly expanding discount chain
+that  sells  mostly  private  label  products,  and  is  owned  by  German
+parent company ALDI Süd. Its FY 2017 revenue was $16.8 billion.
+
+Greenpeace  Comments:  ALDI  made  enough  progress  this  year  to
+earn  a  spot  in  the  green  category.  Greenpeace  applauds  the  retailer
+for  this  first-time  achievement.  Since  the  last  assessment,  ALDI  has
+been  busy:  it  released  a  comprehensive  shelf-stable  tuna  policy,
+launched  a  sustainable  line  of  private  label  canned  tuna,  and  has
+advocated for tuna fisheries management improvements. ALDI should
+continue  to  improve  its  tuna  procurement,  especially  its  longline
+caught albacore, as well as strengthen its farmed salmon and shrimp
+sourcing.  Like  every  profiled  retailer,  ALDI  needs  a  comprehensive
+policy to phase out single-use plastics and should build on its social
+compliance policies by joining ILRF’s call to action for legally binding
+agreements to protect seafood workers’ rights.
+
+Sustainable  Seafood  Policy:  ALDI  has  a  public  policy  that  covers
+its  seafood  storewide.  It  consults  FishSource  to  inform  its  sourcing,
+particularly  for  its  wild-caught  assortment,  and  it  will  only  source
+from  FIPs  that  achieve  an  A,  B,  or  C  rating  as  assessed  by  SFP.  ALDI
+may  preferentially  source  MSC  or  Best  Aquaculture  Practices  (BAP)
+certified  products,  and  for  shelf-stable  tuna,  its  policy  requires
+preferential sourcing of pole and line or FAD-free tuna. While ALDI also
+preferentially  sources  albacore  from  mitigated  longlines  (e.g.,  circle
+hooks), this alone will not comprehensively guarantee sustainability,
+as noted in an SFP guide on longline bycatch mitigation.74 And given
+concerns  with  transshipment  at  sea  (see  page  9),  ALDI  would  fare
+better  to  switch  to  pole  and  line  tuna  altogether.  ALDI  could  benefit
+from strengthening its policy so that it sells only sustainably caught
+tuna  storewide,  which  should  be  easier  to  accomplish  because  it
+does not sell any national tuna brands. Such a move would put ALDI
+shoulder  to  shoulder  with  Whole  Foods  on  selling  only  sustainable
+canned  tuna;  no  shopper  could  mistakenly  purchase  a  can  of
+destructively caught tuna.
+
+Seafood  Sustainability  Initiatives:  ALDI  was  among  the  first  U.S.
+retailers  to  release  a  public  shelf-stable  tuna  policy.  ALDI  permits
+transshipment at sea only with 100% observer coverage, and signed
+
+the 2018 tuna RFMO letter. Greenpeace commends ALDI on its social
+standards, which are publicly available and more robust than those of
+most retailers. As a signatory of the Accord on Fire and Building Safety
+in Bangladesh,75 this suggests that ALDI recognizes the value of legally
+binding agreements between businesses, NGOs, and labor unions to
+improve  workers’  safety  and  rights.  Given  that  social  certifications
+and  initiatives  like  the  Seafood  Task  Force  alone  will  not  create  the
+transformation  needed,  Greenpeace  urges  ALDI  to  build  on  its  work
+in the textile industry and join ILRF’s call to action for legally binding
+agreements in the seafood industry (see pages 7–8).
+
+ALDI appears to be in the early stages of developing a larger strategy
+to  address  single-use  plastics,  which  is  encouraging  because  U.S.
+retailers  need  to  quickly  address  the  plastics  crisis.  Especially  given
+its  business  model  focused  on  private  label  products,  ALDI  has  the
+potential  to  markedly  reduce  its  reliance  on  single-use  plastics  and
+set the bar for other retailers to follow.
+
+Labeling  and  Transparency:  ALDI  leads  among  profiled  retailers
+regarding on-package labeling of seafood products: it communicates
+to  customers  the  species’  scientific  name,  catch  or  production
+method,  and  Food  and  Agriculture  Organization  (FAO)  catch  area  (if
+applicable).  ALDI  should  publish  this  information  on  its  website  or
+elsewhere  online.  For  example,  other  retailers  like  Publix,  Walmart,
+and  Giant  Eagle  have  opted  to  provide  some  of  their  wild-caught
+sourcing data online via ODP. ALDI could go further by also disclosing
+its farmed sourcing data, and ensuring data for all of its seafood sold
+in stores are available through this resource.
+
+Inventory:  ALDI  is  among  the  top  performers  in  this  category,  in
+part  because  it  carries  a  limited  variety  of  seafood.  It  also  tends  to
+source certified products, which can sometimes help mitigate issues
+associated  with  species  like  shrimp  and  farmed  salmon.  However,
+no  certification  fully  addresses  the  environmental  issues  associated
+with these species. Furthermore, most popular certification schemes
+ignore  or  ineffectively  address  serious  labor  and  human  rights
+concerns in seafood supply chains (see page 8). ALDI sells both pole
+and  line  and  FAD-free  skipjack  tuna,  and  its  yellowfin  tuna  is  either
+handline caught or FAD-free. ALDI needs to improve its albacore tuna
+sourcing immediately.
+
+Carting Away the Oceans   20
+
+#4 Target
+
+Headquarters: Minneapolis, MN
+
+Stores and Banners: 1,834 stores operating as Target, CityTarget, and
+TargetExpress
+
+Background:  Target  continues  to  invest  in  its  grocery  division,
+acquiring  Shipt  to  better  compete  in  online  grocery  delivery  as
+it  spends  $1  billion  to  modernize  stores.  Its  FY  2017  revenue  (for
+consumables) was approximately $30.9 billion.
+
+Greenpeace  Comments:  Since  2010,  Target  had  one  constant
+source  of  pride:  unlike  every  other  profiled  retailer,  it  never  buckled
+under industry pressure to sell farmed salmon, instead carrying only
+sustainably  caught  wild  salmon.  Until  now.  Since  the  last  survey
+Target has quietly begun selling farmed salmon once again. Industrial-
+farmed  salmon  is  a  dirty  business,76,  77  and  unfortunately  Target  is
+once again a customer. Due to improvements in other areas, Target’s
+overall  score  improved  slightly  from  the  last  assessment,  enough  to
+push it from 5th place to 4th place. To remain in the top five, Target
+has to improve its seafood procurement, tackle plastic pollution, and
+ensure workers’ rights throughout its supply chains.
+
+Sustainable Seafood Policy: In November 2017, Target expanded its
+publicly  available  sustainable  seafood  policy  to  include  shelf-stable
+tuna  and  sushi.  Target  is  working  with  its  NGO  partner  FishWise  to
+develop a strategy and timeline to transition its unsustainable shelf-
+stable  tuna  products  to  sources  that  meet  its  policy.  The  retailer
+requires  that  its  seafood  be  green  or  yellow  rated  according  to
+Seafood  Watch,  from  a  certified  equivalent,  or  in  a  “credible,  ‘time-
+bound  improvement  process.’”78  All  of  Target’s  farmed  seafood  is
+either  BAP  or  Aquaculture  Stewardship  Council  (ASC)  certified.
+Despite  Target’s  public  commitment  to  not  sell  GE  seafood,  it  is
+unclear  whether  this  policy  applies  only  to  its  private  label  Simply
+Balanced products, or also to national brands.
+
+Seafood  Sustainability  Initiatives:  Target  relies  on  internal  and
+external  audits  to  assess  its  supply  chain,  and  is  involved  in  various
+industry-led  fora  to  address  seafood  traceability  and  human  rights
+
+abuses  in  the  seafood  industry,xvi  though  doubts  remain  as  to  the
+effectiveness  of  these  bodies.  To  help  make  transformative  changes
+in  the  global  seafood
+industry,  Target  should  embrace  ILRF’s
+call  to  action  for  legally  binding  agreements  to  protect  seafood
+workers’  rights  (see  pages  7–8).  Target  is  currently  investigating  the
+issues  associated  with  transshipment  at  sea  in  the  tuna  industry.
+Greenpeace  urges  Target  to  require  strong  supplier  standards  if  it
+opts  to  continue  sourcing  transshipped  tuna,  and  not  to  outsource
+its position to insufficient standards such as ISSF (see page 9). Target
+has joined a growing number of businesses and NGOs calling on tuna
+RFMOs to improve their fisheries management.
+
+Target has a guideline to avoid using polyvinyl chloride (PVC) and is
+working  to  eliminate  polystyrene  packaging  in  its  own  brands.  The
+retailer must significantly ramp up its efforts to phase out single-use
+plastic  packaging  to  more  effectively  mitigate  its  role  in  the  global
+plastics crisis.
+
+Labeling  and  Transparency:  Target  has  improved  in  this  category
+since the last assessment, though it is not fully on par with its higher
+scores  in  the  other  categories.  Target  has  finally  devoted  some  on-
+package  labeling  and  in-store  signage  to  sustainability  messaging.
+As  the  retailer  continues  to  focus  on  traceability  and  ethical  supply
+chains,  it  should  also  make  a  point  to  communicate  to  the  public
+updates regarding these initiatives, like it does on its progress toward
+compliance with its seafood policy.
+
+Inventory:  Target  dropped  in  this  category  following  the  last
+assessment, reflecting its regrettable decision to reintroduce farmed
+salmon.  Target  should  discontinue  farmed  salmon,  and  stick  with
+wild-caught  salmon.  Fortunately,  the  company  does  not  sell  red  list
+species such as orange roughy or Chilean sea bass. As some retailers
+succumb to reintroducing these species with the promise of “certified
+sustainable,”  Greenpeace  urges  Target  to  keep  these  species  off  its
+shelves.  Target  should  improve  its  farmed  shrimp  procurement  and
+ensure all tuna sold in its stores, even national brands, is sustainably
+sourced.
+
+xvi E.g., Seafood Task Force, Global Dialogue on Seafood Traceability.
+
+Carting Away the Oceans   21
+
+#5 Giant Eagle
+
+Headquarters: Pittsburgh, PA
+
+Stores and Banners: 412 stores operating as Giant Eagle, Giant Eagle
+Express, Market District, Market District Express, and GetGo
+
+Background: Giant Eagle is a privately owned, regional retailer, with
+its largest presence in Pennsylvania and Ohio. Its FY 2017 revenue was
+$8.9 billion.
+
+Greenpeace Comments: Giant Eagle was the dark horse of this year’s
+rankings, climbing six spots to round out the top five—an impressive
+feat  for  a  retailer  that  was  ranked  16th  just  a  few  years  ago.  After
+being  the  first  U.S.  retailer  to  release  a  shelf-stable  tuna  policy,  it
+introduced  a  pole  and  line  private  label  canned  albacore  product.
+Now, Giant Eagle needs to convert the rest of its shelf-stable category
+(private  label  and  national  brands)  to  sustainable  sourcing.  The
+retailer advocates for better fisheries management and has increased
+its  transparency,  from  sharing  its  policies  to  publishing  some  of  its
+sourcing data online. Greenpeace commends Giant Eagle for its year-
+over-year improvements, and urges the retailer to join the rest of the
+top-five retailers by discontinuing orange roughy and mostxvii top-five
+retailers by discontinuing Chilean sea bass. Both are long-lived, slow-
+growing  species  that—based  on  sustainability  and/or  IUU  fishing
+concerns—should  not  be  commercially  available,  regardless  of  MSC
+certification.
+
+Sustainable  Seafood  Policy:  Giant  Eagle  primarily  relies  on  the
+FishSource  database  to  inform  its  procurement,  and  sources  from  a
+variety of FIPs, most of which are performing well. While the retailer
+has  basic  wild-caught  standards,  they  could  be  strengthened  with
+regard  to  how  it  ensures  supplier  compliance.  Giant  Eagle’s  farmed
+seafood  standards  could  be  interpreted  as  “carry  as  much  BAP
+certified  product  as  possible”  based  upon  its  actual  inventory,  but
+this could also be clarified. Virtually all of its inventory is BAP 2-star
+certified,  and  for  farmed  salmon,  tilapia,  and  private  label  shrimp,
+Giant  Eagle  carries  up  to  4-star  certification.  Its  canned  tuna  policy
+requires  100%  observer  coverage  and  has  a  goal  to  avoid  sourcing
+from longline vessels that transship at sea.
+
+Seafood  Sustainability  Initiatives:  Giant  Eagle  takes  a  proactive
+approach  to  ensure  that  its  suppliers  are  well  versed  in  seafood
+sustainability and that they understand the company’s expectations.
+
+Surprisingly, the retailer lacks a social responsibility code of conduct,
+and  must  address  this  oversight  immediately.  Especially  given
+rampant  labor  and  human  rights  abuses  in  the  industry,  relying  on
+third-party  certifications  is  inadequate;  instead,  leading  retailers
+should  support  legally  binding  agreements  that  protect  workers’
+rights  (see  pages  7–8).  Giant  Eagle  added  its  support  for  improved
+fisheries management by signing the 2018 tuna RFMO letter.
+
+While  Giant  Eagle  has  taken  steps  to  reduce  the  amount  of  plastic
+bags  used  in  stores,  it  does  not  have  a  comprehensive  single-use
+plastic  reduction  policy  or  commitments  to  address  its  contribution
+to the global plastics crisis. This should be of utmost priority as Giant
+Eagle moves forward in its responsible seafood program.
+
+Labeling and Transparency: Giant Eagle has made some data on its
+wild-caught  sourcing  available  online  via  ODP.  While  encouraging,
+it must ensure that all data on seafood it sources, including farmed,
+are also available through this transparency initiative. The retailer has
+also increased its in-store labeling for customers, and has released a
+video  detailing  its  commitment  to  sustainable  seafood.  Giant  Eagle
+should continue to update its customers and the public on its efforts
+to improve on seafood sustainability and social responsibility.
+
+Inventory:  This
+is  Giant  Eagle’s  weakest  category.  Similar  to
+some  other  retailers,  it  over-relies  on  eco-certifications.  Simply
+because  a  fishery  is  MSC  certified  does  not  necessarily  mean  it  is
+ethical or sustainable (see page 8). To continue to remain in the top
+five,  Giant  Eagle  should  immediately  discontinue  sales  of  orange
+roughy  and  Chilean  sea  bass.  Greenpeace  commends  Giant  Eagle
+for  dropping  tongol  tuna  because  of  sustainability  concerns  and
+poor  management,  and  urges  the  retailer  to  use  this  momentum
+to improve its skipjack tuna sourcing, and ensure that the rest of its
+private label and national brand shelf-stable tuna is sustainable (e.g.,
+pole  and  line).  Giant  Eagle’s  farmed  seafood  is  probably  its  most
+stringent sourcing. However, industrially farmed salmon and farmed
+shrimp—however  mitigated—are  still  associated  with  a  host  of
+environmental and social problems.
+
+xvii Surprisingly, Whole Foods continues to sell Chilean sea bass, despite sustainability and IUU fishing concerns.
+
+Carting Away the Oceans   22
+
+#6 Wegmans
+
+Headquarters: Rochester, NY
+
+Stores and Banners: 97 stores operating as Wegmans
+
+Background:  Wegmans  is  a  regional,  family-owned  and  -operated
+retailer  based  in  the  U.S.  Northeast,  and  has  a  growing  presence  in
+Virginia. Its FY 2017 revenue was $8.7 billion.
+
+Greenpeace  Comments:  Three  short  years  after  it  was  on  the  heels
+of  Whole  Foods  for  the  number-one  ranking,  and  following  the
+departure  of  a  veteran  sustainable  seafood  champion,  Wegmans’
+ranking  dropped  from  an  industry  leader  to  a  modest  performer.
+Wegmans’ jaw-dropping decision to procure both orange roughy and
+farmed Pacific bluefin tuna (for special events) has made it the only
+previously green rated retailer to either introduce or reintroduce such
+top-priority  red  list  species.  Greenpeace  is  concerned  about  these
+developments, and urges Wegmans to heed the warnings from many
+other  NGOs  and  scientists  regarding  species  like  orange  roughy  and
+bluefin tuna, as well as maintain its focus on sustainable seafood.
+
+Sustainable  Seafood  Policy:  Wegmans’  sustainable  seafood  policy
+covers fresh and frozen seafood, and shelf-stable tuna. While it relies
+on  SFP  for  advice,  Wegmans  simply  requires  MSC  certification,  a
+FIP,  or  the  seafood  to  be  caught  in  domestic  waters.  Its  standards
+for  farmed  products  could  use  clarification.  Wegmans  boasts  100%
+traceability, but works with the Global Aquaculture Alliance and ASC
+“when  appropriate”79—indeed,  much  of  its  supply  is  derived  from
+these certified sources. To its credit, Wegmans lists best practices for
+farmed  salmon,  but  does  not  specify  if  these  practices  are  required
+of suppliers. While Wegmans suggests that it will not sell GE salmon
+(or seafood),80 it should commit to doing so and state this in its public
+seafood  policy,  especially  since  GE  salmon  is  now  available  on  the
+market.81
+
+Seafood Sustainability Initiatives: Wegmans relies on SFP and Trace
+Register  to  determine  whether  wild-caught  seafood  is  coming  from
+legal sources. The retailer indicates it has 100% traceability for all of
+its farmed seafood. While Wegmans has a social code of conduct, it is
+unclear what standards are included in its internal policy. Wegmans
+should  make  this  policy  public  and  work  with  respected  labor  and
+human  rights  organizations  to  ensure  its  standards  and  grievance
+mechanisms  are  satisfactory.  Furthermore,  it  should  support  legally
+
+binding  agreements  to  protect  seafood  workers’  rights  (see  pages
+7–8).  Wegmans  is  active  in  the  public  policy  arena,  from  supporting
+marine reserves to stopping IUU fishing, and most recently signing the
+2018 tuna RFMO letter urging improved fisheries management.
+
+Wegmans  has  partnered  with  a  private-sector  company  and  a
+research entity to test packaging innovations that either substantially
+reduce  the  amount  of  virgin  plastic  used  or  replace  it  entirely  with
+plant-derived  substances.  Greenpeace  commends  Wegmans  on  its
+initiatives  and,  especially  because  recycling  cannot  fix  this  problem
+(see page 12), urges Wegmans to announce ambitious commitments
+to phase out single-use plastics altogether.
+
+Labeling  and  Transparency:  The  updated  Wegmans  website  re-
+moved  some  seafood  traceability  information  that  was  available
+(e.g.,  species-by-species  pictures  and  geographical
+years  ago
+sourcing  information).  However,  to  its  credit,  its  rebranded  site  still
+features a substantial amount of policy information and specific eco-
+certifications for farmed seafood products.
+
+Earlier  in  2018,  Wegmans  partnered  with  the  National  Aquarium  to
+promote  responsible  aquaculture  via  an  in-store  pilot  program  in
+the  seafood  department  called  “Seafood  Smart.”xviii  The  retailer  has
+communicated  to  its  customers  information  about  its  private  label
+pole and line shelf-stable tuna through direct mail, signs at the point
+of  sale,  product  demos,  and  at  its  pharmacy  counters.  Greenpeace
+hopes that Wegmans applies this same level of energy to other items
+in  its  wild-caught  inventory,  and  ensures  that  the  Seafood  Smart
+program does not inadvertently steer customers toward some of the
+less responsibly farmed products that it currently sells.
+
+Inventory:  Wegmans  dropped  significantly  in  this  category  with
+its  introduction  of  orange  roughy  and  farmed  Pacific  bluefin  tuna
+(the  latter  only  available  at  special  events).  In  general,  Greenpeace
+acknowledges  retailers’  efforts  to  use  their  buying  power  to  make
+improvements  (e.g.,  FIPs  and  AIPs).  And  even  though  this  may  be
+Wegmans’  intent,  it  is  highly  problematic,  as  orange  roughy  and
+Pacific bluefin tuna (both wild and farmed stocksxix) are so imperiled
+that  they  should  not  be  commercially  available,  regardless  of  any
+certifications or attempts at improvements. Wegmans must get back
+on track and discontinue these species immediately.
+
+xviii This education program seeks to inform customers of responsibly harvested fish, shellfish, and sea vegetables. Later in 2018, Wegmans plans to expand this transparency initiative
+companywide.
+xix Wild Pacific bluefin tuna stocks have been decimated, and farming even hatchery-raised Pacific bluefin tuna is a wasteful, destructive enterprise. Farming large predators has a high
+environmental cost (and net protein loss) in terms of wild-caught fish used for feed, which could also directly compete with imperiled wild Pacific bluefin tuna populations. And there are
+many additional concerns (e.g., forcing a highly migratory species to live in cages, lack of data and government regulation, risks farms pose to blacktip reef sharks, effluent, antibiotic
+use, potential for disease transfer from farmed to wild fish). Greenpeace urges Wegmans to swiftly discontinue selling bluefin tuna of any kind. For more information, see Seafood Watch’s
+assessment: www.seafoodwatch.org/-/m/sfw/pdf/reports/t/mba_seafoodwatch_bluefintuna_japanfarmedreport.pdf.
+
+Carting Away the Oceans   23
+
+#7 Albertsons Companies
+
+Headquarters: Boise, ID
+
+Stores and Banners: More than 2,300 stores operating as Albertsons,
+Safeway,  Vons,  Jewel-Osco,  Shaw’s,  Acme,  Tom  Thumb,  Randalls,
+United Supermarkets, Pavilions, Star Market, Carrs, and Haggen
+
+Background:  This  is  the  first  assessment  that  profiles  Albertsons
+and  Safeway  together,  both  operating  as  banners  of  Albertsons
+Companies (“Albertsons”), now one of the largest grocery retailers in
+the United States. Albertsons is expanding its online grocery delivery
+capabilities with Instacart and owns meal-kit company Plated. Its FY
+2017 revenue was approximately $60.2 billion.
+
+Greenpeace Comments: After years of inaction, Albertsons is making
+a  concerted  effort  to  tackle  seafood  sustainability,  and  has  recently
+partnered with FishWise and Trace Register to ensure that 94% of its
+seafood will be green or yellow rated according to Seafood Watch (or
+be in a measurable, time-bound FIP or AIP) by 2022.82 While Albertsons
+did  not  achieve  a  green  ranking,  which  its  former  competitor  (and
+now subsidiary) Safeway held, it performed well, with strong scores in
+three out of four ranking criteria. However, Albertsons outright failed
+the  inventory  category,  clearly  indicating  where  it  needs  to  most
+improve. Especially given the size of its footprint, the faster Albertsons
+can reach its 2022 goals, the better.
+
+Sustainable  Seafood  Policy:  Albertsons  is  actively  implementing
+improvements  to  ensure  by  2022  that  all  of  its  seafood  is  Seafood
+Watch  green  or  yellow  rated,  from  a  certified  equivalent,  or  in  a
+time-bound  and  measurable  FIP  or  AIP.  This  policy  applies  to  all  of
+its  fresh,  frozen,  and  shelf-stable  seafood,  including  sushi  made  in
+its  prepared  foods  department.  The  retailer  has  also  publicly  stated
+that it will not carry GE salmon.83 Greenpeace applauds Albertsons for
+making good on its policy commitment to discontinue eel, given the
+endangered  status  of  wild-caught  freshwater  eel,  the  environmental
+impacts  of  farmed  eel,  and  the  illegal  activity  associated  with  the
+eel  trade.  Albertsons  not  only  took  action,  it  also  began  with  a
+public  commitment  and  then  followed  with  additional  press  when
+it  had  discontinued  eel,  communicating  why  action  is  necessary.84
+Other  retailers  should  follow  Albertsons’  lead  by  discontinuing  eel,
+and  Albertsons  should  continue  with  this  level  of  ambition  as  it
+implements its broader seafood policy.
+
+Seafood  Sustainability  Initiatives:  Albertsons  usually  conducts
+external  audits  annually,  now  works  with  Trace  Register  to  conduct
+internal  inventory  audits  in  real  time,  and  is  establishing  protocols
+
+Carting Away the Oceans   24
+
+to  monitor  IUU  vessel  lists.  Greenpeace  commends  Albertsons  for
+beginning  to  ask  tough  questions  of  its  tuna  suppliers,  including
+identifying  how  to  address  transshipment  at  sea  within  its  supply
+chains. Albertsons has supplier standards for labor and human rights,
+and as a member of the Seafood Task Force, it must adhere to its code
+of conduct. However, it must go further by supporting legally binding
+agreements  to  protect  workers’  rights  (see  pages  7–8).  The  retailer
+is  well  engaged  in  the  policy  arena,  including  publicly  supporting
+improved tuna fisheries management.
+
+Albertsons  has  also  discontinued  Styrofoam  trays  in  some  markets,
+has  reduced  the  volume  of  plastics  used  in  milk  jugs  and  water
+bottles,  has  encouraged  industry  to  use  plant-based  meat  trays
+instead  of  polystyrene,  and
+is  actively  seeking  advocacy  and
+innovation opportunities to realize additional reductions. Albertsons
+should  build  on  this  work  by  announcing  a  public  commitment  and
+timeline to phase out its reliance on single-use plastics.
+
+improve
+
+its  operations,  promote
+
+Labeling and Transparency: Albertsons works with several external
+partners  to
+its  sustainability
+initiatives,  and  educate  the  public  through  a  variety  of  online
+methods.  Similar  to  other  FishWise-partnered  retailers,  Albertsons
+has  increased  its  media  coverage  of  its  various  initiatives,  from
+progress  updates  on  its  sustainable  seafood  program,  to  when
+it  joined  the  Seafood  Task  Force,  and  most  recently  to  when  it
+discontinued eel. Other retailers should take note; this is how to keep
+customers,  industry,  and  NGOs  well  informed  about  the  case  for
+sustainability  and  how  to  collectively  work  toward  improvements.
+Albertsons’  in-store  labeling  for  customers  is  a  bit  sparse  and
+needs  more  attention.  Greenpeace  urges  the  retailer  to  make  more
+traceability  and  sustainability  information  available  at  the  point  of
+sale.
+
+Inventory:  As  one  of  the  largest  U.S.  retailers,  it  is  problematic  that
+Albertsons performed poorly in this category. Fortunately, this should
+change  as  Albertsons  discontinues  red  list  species  and  implements
+its sustainable seafood policy. Albertsons should lead with the same
+principled approach that it did with eel, and immediately discontinue
+orange  roughy,  Chilean  sea  bass,  and  bigeye  tuna.  Additionally,  it
+must  rapidly  transition  to  improved  sourcing  for  most  of  its  other
+high-volume  products  and  continue  to  make  improvements  in
+its  fresh,  frozen,  and  shelf-stable  tuna  categories  (i.e.,  only  sell
+sustainable private label and national brand products).
+
+#8 Sprouts Farmers Market
+
+Headquarters: Phoenix, AZ
+
+Stores and Banners: 300 stores operating as Sprouts Farmers Market
+
+Background:  Sprouts  is  a  rapidly  growing  national  retailer,  with  its
+highest  concentration  of  stores  in  California  and  Texas.  Its  FY  2017
+revenue was approximately $4.7 billion.
+
+Greenpeace  Comments:  Sprouts’  2018  debut  in  Carting  Away  the
+Oceans  was  strong,  even  scoring  higher  in  the  inventory  category
+than  most  retailers,  including  Whole  Foods.  Sprouts  is  investing  in
+staff  education  and  online  and  in-store  communications  about  its
+sustainable seafood initiatives—a great move that will better inform
+its  customers  about  sustainable  seafood.  As  Sprouts  increases  its
+market  share,  it  also  has  an  increased  responsibility  to  leverage
+its  brand  and  buying  power  for  marked  improvements  in  the
+seafood  industry.  Sprouts  needs  to  publicly  advocate  for  better
+fisheries  management  and  for  workers’  rights,  and  announce  strong
+commitments to reduce single-use plastics in its operations.
+
+Sustainable  Seafood  Policy:  Sprouts  recently  released  its  seafood
+policy on its website. By 2020, Sprouts has a goal to source only from
+the  following  certified  sources  for  all  of  its  fresh,  frozen,  and  self-
+stable seafood: BAP (3 star and higher), MSC, ASC, Alaska Responsible
+Fisheries  Management,  or  Iceland  Responsible  Fisheries.  Especially
+given  concerns  about  reauthorization  of  the  Magnuson-Stevens
+Act,  it  is  imperative  for  Sprouts  and  other  retailers  relying  on  U.S.
+fisheries standards to advocate for strong, science-based protections.
+Currently,  about  two-thirds  of  Sprouts’  wild-caught  seafood  is  MSC
+certified,  and  the  remainder  is  either  in  a  FIP  or  not  certified.  As
+Sprouts implements its policy, it must also consider the shortcomings
+of eco-certifications, which alone will not ensure sustainable seafood
+(see  page  8).  Two-thirds  of  its  private  label  canned  tuna  is  pole  and
+line, with a goal of 100% by end of 2019. Sprouts will not purchase GE
+seafood, including GE salmon.
+
+Seafood Sustainability Initiatives: Sprouts prohibits transshipment
+at  sea  unless  there  is  100%  observer  coverage.  Sprouts  conducts
+some third-party audits and has supplier agreements regarding legal
+and ethical procurement; however, given continued labor and human
+rights abuses in the seafood industry, it should strengthen its social
+standards  and  support  initiatives  like  ILRF’s  call  for  legally  binding
+agreements  (see  pages  7–8).  It  is  unclear  what  Sprouts  has  done
+recently to advocate for improvements in fisheries management. With
+its new policy and public communications strategy, the retailer should
+use this momentum to advocate publicly for improvements, such as
+signing the 2018 tuna RFMO letter.85
+
+Sprouts  engages  its  private  label  suppliers  on  plastic  packaging
+alternatives;  it  has  a  milk  bottle  take-back  program  in  many  stores
+to mitigate the need for single-use plastic milk jugs; and it is piloting
+the use of reusable and refillable containers for bulk honey, vinegar,
+and oil. To build on these initiatives, Sprouts could set the bar for U.S.
+retail with a comprehensive plan to reduce single-use plastics.
+
+Labeling and Transparency: At the time of this writing, Sprouts has
+yet to robustly engage its customers either online or in stores about
+its  sustainable  seafood  policy  and  products.  Fortunately,  Sprouts
+is  focusing  on  a  communications  plan  this  year  and  also  has  plans
+to  label  certain  products  with  sustainability  information.  As  these
+initiatives roll out, Sprouts’ performance will improve in this category.
+
+Inventory:  Sprouts  performed  better  than  most  retailers  in  this
+category.  It  does  not  carry  several  red  list  species  for  sustainability
+reasons,  including  orange  roughy,  Chilean  sea  bass,  shark,  and
+bigeye  tuna.  Greenpeace  applauds  Sprouts  for  this  leadership  and
+encourages  it  to  stipulate  in  its  seafood  policy  that  it  will  not  sell
+orange  roughy,  Chilean  sea  bass,  and  bigeye  tuna  in  the  future.
+The  retailer  is  also  making  improvements  in  the  shelf-stable  tuna
+category and working to improve its swordfish procurement. Sprouts
+must improve its sourcing of Atlantic cod and grouper, among other
+species.
+
+Carting Away the Oceans   25
+
+#9 Ahold Delhaize
+
+Headquarters: Quincy, MA, and Salisbury, NC
+
+Stores  and  Banners:  1,960  stores  operating  as  Stop  &  Shop,  Giant,
+Martin’s, Food Lion, and Hannaford
+
+Background:  In  the  previous  assessment,  Ahold  and  Delhaize  were
+profiled separately. Following their 2016 merger, this is the first time
+that  Ahold  and  Delhaize  are  profiled  together.  Ahold  Delhaize  USA
+continues  to  represent  the  largest  share  of  the  Dutch-owned  global
+grocery giant’s portfolio. Its FY 2017 revenue was $42.3 billion.
+
+Greenpeace  Comments:  While  it  is  difficult  to  exactly  compare  the
+merged  company’s  performance  with  the  separate  evaluations  of
+Ahold  and  Delhaize  in  2015,  its  overall  score  increased  slightly  and
+its  ranking  remains  largely  the  same.  Ahold  Delhaize’s  policy  and
+transparency  scores  improved,  although  the  retailer  experienced
+a  noteworthy  drop  in  the  inventory  category,  attributed  largely
+to  its  lack  of  sustainable  tuna  options.  As  rivals  Albertsons  and
+Kroger  continue  to  implement  improvements  and  climb  in  the
+rankings, Ahold Delhaize has a chance to follow suit, or risk losing its
+standing  as  a  top-ten  retailer  in  this  assessment.  With  procurement
+improvements  and  a  focus  on  initiatives  such  as  reducing  its
+single-use  plastic  footprint,  Ahold  Delhaize  can  continue  to  remain
+competitive  in  this  assessment  and  among  the  nation’s  largest
+retailers advocating for sustainable seafood and healthy oceans.
+
+Sustainable  Seafood  Policy:  Ahold  Delhaize’s  sustainable  seafood
+policy  applies  to  its  fresh,  frozen,  and  shelf-stable  categories.  Its
+policy  for  wild-caught  seafood  is  encouraging,  but  by  consulting  so
+many  outside  standards  (MSC,  ASMI,  or  IRF  certified,  or  assessed  by
+GMRI,  New  England  Aquarium,  or  Seafood  Watch  yellow  and  higher,
+or  in  a  CASS  certified  FIP)xx,  this  alphabet  soup  of  acceptable  wild-
+caught seafood results in little clarity regarding what is not allowed to
+be carried due to sustainability concerns. Ahold Delhaize must narrow
+its  focus.  The  retailer’s  policy  toward  farmed  seafood  is  clearer:  it
+requires products that are at least 2-star BAP certified or equivalent,
+and products that are produced in a high-risk country to be audited
+against a Business Social Compliance Initiative or an equivalent social
+compliance standard. For shelf-stable tuna, Ahold Delhaize appears to
+require its suppliers only to be ISSF members, which will not ensure
+sustainable tuna or address high-risk practices like transshipment at
+sea with longline vessels (see page 9).
+
+Seafood  Sustainability  Initiatives:  Food  Lion  and  Hannaford
+banners  work  with  Trace  Register  to  conduct  internal  inventory
+audits in real time. Ahold Delhaize aims to expand this capability for
+
+its  other  banners.  As  a  Seafood  Task  Force  member,  and  requiring
+that suppliers undergo social compliance review (in certain high-risk
+countries), Ahold Delhaize is working to address social responsibility
+in such a risky industry; however, it should engage labor and human
+rights  organizations  to  ensure  it  is  taking  strong  enough action. The
+retailer should join ILRF’s call to action for legally binding agreements
+industry  (see  pages  7–8).
+for  workers’  rights
+Additionally, Ahold Delhaize must take a position on transshipment at
+sea, to mitigate the environmental and human rights risks associated
+with  this  practice.  The  retailer  uses  its  brand  and  buying  power
+to  publicly  call  for  industrywide  improvements,  most  recently  by
+signing the 2018 tuna RFMO letter advocating for improved fisheries
+management.
+
+in  the  seafood
+
+Unfortunately,  Ahold  Delhaize  is  failing  to  adequately  reduce  its
+reliance  on  single-use  plastics.  As  a  top-five  U.S.  retailer  by  sales,
+Ahold Delhaize has a responsibility to lead and help tackle the global
+plastic pollution crisis.
+
+Labeling  and  Transparency:  Ahold  Delhaize  scored  higher  than
+both  Ahold  and  Delhaize  in  the  transparency  category  in  the  last
+assessment. Each of its banners conducts staff trainings and features
+its seafood policy online to engage customers in sustainable seafood
+questions.  Ahold  Delhaize  features  in-store  signage  that  includes
+QR  codes  for  traceability  purposes,  and  notes  “sustainable  choice”
+products  for  customers.  The  retailer  frequently  participates  in
+industry conferences and panels, as well as initiatives (e.g., Seafood
+Task  Force,  Food  Marketing  Institute,  Global  Sustainable  Seafood
+Initiative  (GSSI)).  Ahold  Delhaize  should  continue  to  provide
+customers  information  online  and  at  the  point  of  sale,  including
+updates  on  its  progress  with  responsible  seafood  procurement.  It
+also has an opportunity to include sustainability information with its
+Peapod grocery delivery service.
+
+Inventory:  This  is  Ahold  Delhaize’s  weakest  category.  In  2017,
+Greenpeace  reported  favorably  on  Ahold  Delhaize’s  pole  and  line
+tuna  through  its  Nature’s  Promise  brand,  which  unfortunately  has
+been  discontinued,  along  with  its  entire  private  label  line.  Rather
+than  discontinue  sustainable  tuna,  Ahold  Delhaize  should  stop
+selling  Chilean  sea  bass,  and  improve  its  sourcing  of  swordfish  (or
+discontinue  it  altogether).  Ahold  Delhaize  needs  to  swiftly  turn  a
+corner and invest in sourcing improvements like many other top-ten
+retailers.
+
+xx ASMI: Alaska Seafood Marketing Institute; IRF: Iceland Responsible Fisheries; GMRI: Gulf of Maine Research Institute; CASS: Conservation Alliance for Seafood Solutions.
+
+Carting Away the Oceans   26
+
+#10 Meijer
+
+Headquarters: Grand Rapids, MI
+
+Stores and Banners: 237 stores operating as Meijer and one as Bridge
+Street Market
+
+Background: Meijer is a family-owned retailer with stores in Michigan,
+Ohio,  Indiana,  Illinois,  Kentucky,  and  Wisconsin.  Meijer  is  testing  a
+smaller, urban store concept (Bridge Street Market) in Grand Rapids,
+MI. Its FY 2017 revenue was approximately $18.9 billion.
+
+Greenpeace  Comments:  Meijer’s  score  improved  slightly  since  the
+last  assessment,  although  as  Giant  Eagle,  Albertsons,  and  Sprouts
+entered  the  top  ten,  Meijer’s  overall  ranking  did  not  change.  The
+retailer has significantly improved its private label canned tuna, plans
+to increase its transparency on wild-caught sourcing, and is working
+to  update  its  seafood  policy.  Meijer  performed  relatively  well  in  the
+inventory  category,  although  it  must  improve  its  Atlantic  salmon
+procurement.  The  retailer  has  room  for  improvement  on  public
+advocacy, particularly regarding fisheries management, and needs to
+release a comprehensive, public plan to reduce single-use plastics in
+its operations.
+
+Sustainable  Seafood  Policy:  Meijer’s  sustainable  seafood  policy
+covers  its  wild,  farmed,  and  shelf-stable  categories.  Meijer  relies  on
+its  NGO  partner  SFP’s  advice  for  its  sourcing  decisions,  particularly
+regarding  wild-caught  seafood.  Meijer  requires  MSC  (or  equivalent)
+certifications  or  FIPs  for  its  wild-caught  seafood  procurement.  For
+farmed  seafood,  it  is  striving  for  BAP  4-star  certification  across  all
+species.  Meijer  is  currently  updating  its  seafood  policy,  and  should
+reaffirm  its  public  commitment  to  prohibit  sourcing  GE  seafood,
+implement measures that address problematic transshipment at sea
+(see page 9), and account for gaps in eco-certifications (see page 8).
+Meijer  has  a  public  supplier  code  of  conduct,  which  includes  basic
+standards on labor and human rights.
+
+Seafood  Sustainability  Initiatives:  Meijer  engages
+internal
+and  external  audits  for  most  of  its  products,  and  has  significantly
+improved  its  private  label  tuna.  All  of  its  private  label  shelf-stable
+
+in
+
+skipjack,  albacore,  and  yellowfin  tuna  is  pole  and  line  caught.  The
+next  step  for  Meijer  is  to  ensure  that  the  rest  of  its  shelf-stable  tuna
+(i.e., national brands) is more responsibly sourced, like Whole Foods.
+Meijer  could  improve  in  the  initiatives  category  by  sharing  any
+updates on its efforts to influence responsible fisheries or aquaculture
+management at the local, national, or international level. At the time
+of this writing, Meijer has not joined a growing number of retailers in
+2018 calling on tuna RFMOs to improve on fisheries management.86
+
+It  is  unclear  how  Meijer  will  comprehensively  work  to  phase  out
+single-use plastics, since its efforts to shift to more recyclable plastics
+alone will not solve the problem. Placing the burden squarely on the
+consumer  will  do  little  to  stem  the  onslaught  of  single-use  plastic
+pollution into our oceans.
+
+Labeling and Transparency: Meijer promotes its sustainable seafood
+program  and  provides  some  traceability  information  online,  but
+needs  to  do  far  more  to  communicate  to  customers  at  the  point  of
+sale in stores. Fortunately, it appears that Meijer is working to provide
+more  information  about  its  seafood  procurement.  The  retailer  is
+active  on  sustainable  seafood  in  retail  industry  gatherings,  and  is
+especially  outspoken  regarding  seafood  fraud.  This  advocacy  is
+timely, as IUU fishing and other scandals highlight the challenges with
+traceability in the U.S. seafood industry.87
+
+Inventory:  Meijer  performed  better  than  many  retailers  in  this
+category,  and  has  avoided  sourcing  problematic  red  list  species.
+Greenpeace  applauds  Meijer  for  not  selling  orange  roughy  and
+Chilean sea bass, and encourages it to maintain this course. According
+to  survey  results,  its  Atlantic  salmon  procurement  must  be  swiftly
+improved.  Additionally,  to  complement  its  improvements  in  canned
+tuna,  Meijer  should  discontinue  bigeye  and  tongol  tuna,  given
+sustainability concerns, poor management, and lack of fisheries data
+(for tongol tuna) to ensure proper management.
+
+Carting Away the Oceans   27
+
+#11 Kroger
+
+Headquarters: Cincinnati, OH
+
+Stores  and  Banners:  2,782  supermarkets  and  multi-department
+stores88  operating  as  Kroger,  Ralphs,  Dillons,  Smith’s,  King  Soopers,
+Fry’s, QFC, City Market, Owen’s, Jay C, Pay Less, Baker’s, Gerbes, Harris
+Teeter, Pick ‘n Save, Copps, Metro Market, Mariano’s, Fred Meyer, Food
+4 Less, and Foods Co89
+
+Background:  The  Kroger  Co.  (“Kroger”)  is  the  second  largest  U.S.
+retailer  behind  Walmart  and,  like  Walmart,  has  markedly  increased
+its store count and revenue since the last assessment. In a counter to
+Amazon, Kroger debuted ClickList, allowing customers to order online
+groceries  that  are  then  bagged  and  ready  for  store  pickup,  and  is
+planning to use automated warehouses to fulfill online grocery orders
+with  UK  firm  Orcado.90  Kroger’s  FY  2017  revenue  (for  consumables)
+was approximately $117.9 billion.
+
+Greenpeace  Comments:  After  years  of  lackluster  performance,
+Kroger  improved  significantly  in  this  year’s  assessment.  The  retailer
+performed  best  in  the  policy  and  initiatives  categories,  making
+progress  on  its  sustainable  seafood  goals  and  using  its  brand  and
+buying  power  to  advocate  for  fisheries  reforms  ranging  from  the
+global  tuna  industry  to  domestic  fisheries.  As  Kroger  achieves  its
+sustainability  goals,  Greenpeace  urges  the  retailer  to  account  for
+gaps  in  eco-certifications  (see  page  8).  Kroger  must  improve  in  the
+inventory  category—the  retailer  still  sells  MSC  certified  species
+that  even  its  NGO  partner  World  Wildlife  Fund  (WWF)  agrees  are
+problematic.91  As  plastic  pollution  continues  to  choke  our  oceans
+and  the  very  seafood  Kroger  aims  to  sell  for  the  foreseeable  future,
+the retailer must release strong public commitments and a policy to
+reduce its reliance on single-use plastics (see page 12).
+
+Sustainable Seafood Policy: Kroger’s improved sustainable seafood
+policy  applies  to  wild-caught  and  farmed  seafood,  and  shelf-stable
+tuna.  The  retailer  has  a  wild-caught  seafood  goal  of  100%  MSC  (or
+equivalent)  certification  or  in  a  FIP  by  2020,  and  is  currently  86%  of
+the way there for its fresh and frozen categories. For farmed seafood,
+Kroger carries mostly BAP 2-star products, and is working to achieve
+BAP  4-star  certification  for  its  private  label  products  only.  Kroger
+should  expand  this  goal  to  cover  all  farmed  seafood  it  sells.  While
+Greenpeace  does  not  endorse  either  of  these  certification  schemes,
+at  least  Kroger  provides  measurable  standards  by  which  to  track  its
+progress.  Kroger’s  policy  for  shelf-stable  tuna  is  weak,  as  it  merely
+
+requires  that  suppliers  be  ISSF  members.  This  does  not  ensure
+sustainable tuna or address problem practices like transshipment at
+sea with longline vessels (see page 9). Kroger has publicly committed
+to not sell GE seafood.
+
+Initiatives:  Kroger  conducts  annual
+Seafood  Sustainability
+sustainability  audits,  including  a  focus  on  potential  IUU  seafood.
+Kroger has a vendor code of conduct and a social audit program. The
+retailer  is  known  to  proactively  use  its  buying  power  with  suppliers
+when  sustainability  and  labor  abuse  pose  risks  to  its  supply  chains.
+Greenpeace  urges  Kroger  to  support  legally  binding  agreements  for
+seafood  workers’  rights  (see  pages  7–8).  Kroger  has  recently  signed
+multiple  advocacy  letters  in  support  of  improved  tuna  fisheries
+management  and  has  sent  letters  to  Louisiana  state  officials  calling
+for sustainable fisheries management.
+
+Kroger  has  increased  its  use  of  reusable  plastic  crates  for  internal
+distribution,  has  reduced  the  volume  of  plastics  used  in  milk  jugs
+and water bottles, and has recycled more than 60 million pounds of
+plastics  since  2016.  However,  because  recycling  alone  will  not  solve
+the  plastics  crisis,  Kroger  must  unveil  a  robust,  ambitious  plan  for
+reducing single-use plastics.
+
+Labeling  and  Transparency:  Greenpeace  commends  Kroger  for
+publicly  sharing  its  sustainability  goals  and  providing  detailed
+updates online. Kroger also provides significant transparency online
+for its private label product standards, including the audit questions
+it  asks  its  suppliers.92  While  Kroger  has  in-store  promotion  of  its
+sustainability  goals,  it  must  do  more  to  provide  product  traceability
+information to customers in a manner that is accessible in the store.
+As  the  retailer  pivots  more  to  online  sales,  traceability  information
+must likewise be embedded with seafood product listings online.
+
+Inventory:  While  Kroger  improved  in  this  category,  its  failure  to
+discontinue red list species is disastrous for our oceans. Kroger sells
+orange  roughy,  bigeye  tuna,  and  Chilean  sea  bass—three  species
+that  should  not  be  sold  by  any  retailer  committed  to  seafood
+sustainability.  While  the  retailer  carries  some  sustainably  caught  or
+farmed  species,  it  is  unclear  what  percentage  is  from  better  sources
+(e.g., shrimp and salmon, and albacore, skipjack, and yellowfin tuna).
+Greenpeace  reported  in  its  2017  Tuna  Shopping  Guide93  that  Kroger
+was developing a private label pole and line tuna product; however,
+more than one year later it is unclear if this product will ever launch.
+
+Carting Away the Oceans   28
+
+#12 SUPERVALU
+
+Headquarters: Eden Prairie, MN
+
+Stores  and  Banners:  114  stores  operating  as  Cub  Foods,  Shoppers
+Food & Pharmacy, Hornbacher’s, and Rainbow94
+
+Background: Shortly before publication of this report, United Natural
+Foods agreed to acquire SUPERVALU with the intent to divest from its
+retail  operations.  SUPERVALU’s  FY  2017  revenue  was  approximately
+$15.9 billion.
+
+Greenpeace
+
+Comments:
+
+United
+Greenpeace
+Natural  Foods  and  SUPERVALU  leadership  to  heed  the  following
+recommendations,  and  looks  forward  to  a  productive  dialogue  with
+United  Natural  Foods  on  seafood  sustainability,  ocean  health,  and
+seafood workers’ rights.
+
+encourages
+
+SUPERVALU’s  inventory  largely  demonstrates  compliance  with  its
+moderately  robust  seafood  policy.  The  company  can  most  improve
+in  the  initiatives  and  transparency  categories.  SUPERVALU  needs  to
+swiftly  address  the  following:  shelf-stable  tuna,  social  responsibility,
+and more transparent communication of traceability to its customers.
+And  while  this  assessment  evaluates  only  SUPERVALU’s  retail
+operations,  as  the  company  transitions  to  wholesale  distribution,
+it  has  a  growing  opportunity  to  ensure  more  sustainable  seafood  is
+available among independent grocers, as well as tackle its single-use
+plastic footprint.
+
+Sustainable  Seafood  Policy:  SUPERVALU  partnered  with  WWF  to
+develop  and  implement  its  sustainable  seafood  policy.  SUPERVALU
+requires  wild-caught  seafood  to  be  sourced  from  fisheries  that  are
+MSC  certified,  in  full  assessment,  or  in  a  comprehensive  FIP.  For
+farmed  seafood,  it  requires  that  its  vendors  achieve  BAP  2-star  or
+higher (or equivalent) certification, and is urging them to achieve BAP
+4-star  certification  as  quickly  as  possible.  While  Greenpeace  always
+encourages  strengthened  supplier  standards,  SUPERVALU  must
+also  consider  the  shortcomings  of  eco-certifications,  which  cannot
+guarantee  fully  sustainable,  ethical  seafood  (see  pages  7–8).  The
+company’s shelf-stable tuna policy has a low bar of merely requiring
+that the suppliers be members of ISSF. SUPERVALU appears opposed
+to  GE  salmon  and  seafood;  it  should  make  this  standard  part  of  its
+policy, rather than outsource its commitment to various certification
+schemes.
+
+Seafood  Sustainability  Initiatives:  SUPERVALU  relies  on  WWF  to
+review  its  supply  chain  for  compliance  with  its  sustainability  policy.
+Rather  than  having  official  policies  on  IUU  fishing  or  transshipment
+at  sea,  the  retailer  only  relies  on  ISSF  standards,  which  alone,  will
+not guarantee sustainable, ethical seafood (see page 9). Fortunately,
+SUPERVALU  is  developing  a  social  code  of  conduct  this  year.  While
+SUPERVALU  would  investigate  any  labor  abuse  allegations  and  stop
+relying on a supplier if these abuses were confirmed, like all profiled
+retailers,  it  should  use  its  buying  power  to  constructively  improve  a
+supplier’s operations before terminating the relationship. SUPERVALU
+signed  the  2018  tuna  RFMO  letter,  sent  a  letter  to  the  Indonesian
+Ministry of Maritime Affairs and Fisheries regarding sustainable tuna
+management, and sent letters supporting management of its FIPs.
+
+Many  SUPERVALU  retail  stores  have  converted  their  deli  hot-food
+containers  from  Styrofoam  to  post-consumer  recyclable  packaging.
+However,  the  company  needs  to  release  a  comprehensive,  public
+policy to phase out single-use plastics.
+
+Labeling  and  Transparency:  SUPERVALU  needs  to  improve  its
+communication  of  traceability  and  sustainability  information  to  its
+customers. While the company features a paragraph on its website, it
+does not contain enough information on traceability, nor does it do a
+sufficient job in communicating this information at the point of sale.
+The  exception  is  that  SUPERVALU  features  a  QR  code  on  its  private
+label canned tuna (Essential Everyday and sustainable pole and line
+Wild Harvest brands) that provides some sourcing information.
+
+Inventory:  SUPERVALU  performed  better  than  many  of  its  peers  in
+this  category.  Greenpeace  commends  SUPERVALU  for  refusing  to
+carry  Chilean  sea  bass  and  orange  roughy.  The  company  has  made
+welcomed  improvements  toward  more  selective  gear  types  for  tuna
+(e.g.,  one-by-one  albacore  and  yellowfin  tuna);  however,  it  needs
+to  improve  its  shelf-stable  skipjack  tuna  procurement.  SUPERVALU
+must also immediately address its poor sourcing of Atlantic halibut,
+pangasius, and farmed shrimp.
+
+Carting Away the Oceans   29
+
+#13 Walmart
+
+Headquarters: Bentonville, AR
+
+Stores  and  Banners:  5,834  stores  operating  as  Walmart,  Walmart
+Supercenter, Neighborhood Market, and Sam’s Club
+
+Background:  Walmart  continues  to  grow,  and  remains  the  largest
+U.S. retailer, although it is facing competition from Amazon. Walmart
+purchased Jet.com, began online grocery delivery for Sam’s Club with
+Instacart, and has tested online grocery delivery for Walmart stores.
+Its FY 2017 revenue was approximately $266.2 billion.
+
+Greenpeace  Comments:  Walmart’s  score  increased  in  this  year’s
+assessment,  though  it  dropped  in  the  rankings  as  other  retailers
+made  stronger  improvements.  Following  a  Greenpeace  campaign
+to  improve  Walmart’s  shelf-stable  tuna,  the  retailer  responded  with
+a  tepid  version  of  a  sustainable  shelf-stable  tuna  policy  that  has
+goals  as  far  out  as  2025.95  Rooted  in  ISSF  standards,  this  policy  will
+not  result  in  the  kind  of  sustainability  and  social  responsibility  that
+other retailers like Whole Foods deliver today on shelf-stable tuna.xxi
+Walmart is making progress on its wild and farmed seafood sourcing
+goals  and  is  exploring  what  could  be  transformative  traceability
+solutions with blockchain. Unfortunately, Walmart is failing to tackle
+the  plastics  crisis  and,  as  the  world’s  largest  retailer,  must  urgently
+improve.
+
+Sustainable  Seafood  Policy:  This  year,  Walmart  has  achieved
+compliance  with  its  stated  sustainability  policy  for  fresh  and  frozen
+seafood;  however,  it  has  until  2025  to  comply  with  its  lackluster
+shelf-stable  tuna  policy.  Its  wild-caught  fresh/frozen  seafood  policy
+requires  MSC  (or  GSSI  equivalent)  certification,  or  sourcing  from
+a  FIP.  At  the  moment,  76%  of  all  private  label  and  national  brand
+seafood  sold  by  Walmart  is  certified,  with  the  remainder  in  a  FIP.
+Moreover, 98% of all private label and national brand farmed products
+are either BAP or ASC certified, with less than 2% in AIPs. While it is
+encouraging that Walmart is hitting its stated goals on these policies,
+eco-certification schemes still have a host of problems (see page 8),
+which Walmart does not seem to address. Its shelf-stable tuna policy
+is weak,96 as the retailer does not have robust supplier standards that
+would ensure responsibly caught tuna.
+
+Seafood Sustainability Initiatives: Greenpeace commends Walmart
+for  signing  the  2018  tuna  RFMO  letter  in  support  of  better  fisheries
+management, which is meaningful given Walmart’s size and influence
+
+in  global  supply  chains.  Walmart  works  with  various  auditing  firms
+to  assess  social  compliance  and  participates  in  industry  initiatives
+like  the  Seafood  Task  Force.  However,  participation  in  industry
+initiatives  at  their  current,  low  level  of  ambition  will  not  result  in
+systemic changes in an industry fraught with labor and human rights
+violations.  Walmart  must  support  legally  binding  agreements  for
+seafood  workers’  rights  (see  pages  7–8)  and  must  comprehensively
+address IUU fishing and transshipment at sea in its tuna policy, which
+it fails to do by relying on ISSF standards (see page 9).
+
+Walmart  must  take  leadership  to  address  the  plastic  pollution  crisis
+and  strengthen  its  goals,  which  are  mainly  focused  on  recycling.xxii
+By  prioritizing  recyclable  single-use  packaging  rather  than  phasing
+out plastics altogether, Walmart is shifting the burden to consumers,
+which is an outdated, ineffective strategy that will not stop the flow of
+plastics into our oceans (see page 12).
+
+Labeling  and  Transparency:  Walmart  is  one  of  three  U.S.  retailers
+publicly sharing sourcing information for its wild-caught seafood via
+ODP.  Greenpeace  commends  Walmart  for  modeling  transparency;
+however,  because  retailers  may  choose  which  data  to  provide  via
+ODP,  this  picture  is  incomplete  (e.g.,  skipjack  tuna  is  not  listed).
+Walmart should take this opportunity to voluntarily disclose all of its
+seafood  sourcing  information,  including  its  wild-caught  and  farmed
+data  for  its  fresh,  frozen,  and  shelf-stable  categories.  Walmart  is
+investing  in  blockchain  for  traceability  solutions,  which  could  help
+create standards for other retailers to follow. Greenpeace encourages
+Walmart to share publicly if and how it will use this technology in its
+seafood  supply  chains.  Walmart  has  substantial  information  online
+about its policies, including some information on social responsibility,
+and provides some signage for customers in stores as well, although it
+could markedly improve in this area.
+
+Inventory:  Fortunately,  Walmart  does  not  sell  red  list  species  like
+orange roughy and Chilean sea bass. It needs to improve its sourcing
+of  swordfish,  and  must  immediately  address  its  tuna  procurement,
+as  only  a  small  portion  of  its  tuna  is  sourced  sustainably.  Walmart
+needs  to  further  improve  sourcing  of  its  salmon  and  shrimp,  two
+important  species  by  volume.  Given  the  retailer’s  size,  any  modest
+improvements  would  benefit  the  sustainability  of  global  seafood
+supply chains.
+
+xxi Walmart’s shelf-stable tuna policy can be met by myriad options, which inherently creates loopholes for the retailer to avoid sourcing from more sustainable options. Moreover, the
+policy starts with a disclaimer that this is all subject to “price, availability, quality, customer demand, and unique regulatory environments across our global retail markets[.]” Additionally,
+its reliance on ISSF standards will not ensure sustainable, ethical tuna procurement (see page 9). Walmart’s shelf-stable tuna policy is in need of true reform.
+xxii Goals like 100% recycled material for private label brand packaging by 2025 will help, but are far too weak given the scope of the problem and Walmart’s behemoth single-use plastic
+footprint.
+
+Carting Away the Oceans   30
+
+#14 Trader Joe’s
+
+Headquarters: Monrovia, CA
+
+Stores and Banners: 480 stores operating as Trader Joe’s
+
+Background: Trader Joe’s is a nationwide chain known for its unique
+private label products. Its FY 2017 revenue  was  approximately  $13.6
+billion.
+
+Greenpeace  Comments:  After  making  significant  improvements
+earlier  in  the  decade,  Trader  Joe’s  continues  its  recent  trend
+of  underperforming  in  this  assessment.  Some  reasons  for  this
+disappointing  decline  from  leading  retailer  to  mediocre  performer
+include  Trader  Joe’s  inability  to  follow  through  on  some  of  its  more
+ambitious  sustainability  goalsxxiii  and  its  lack  of  transparency  with
+its  customers  and  for  this  assessment.  Questions  remain  about  the
+sustainability  of  some  species  (e.g.,  farmed  salmon,  shrimp)  and,
+in  the  absence  of  a  formal,  public  seafood  policy  that  is  the  norm
+among  retailers  in  2018,  what  standards  Trader  Joe’s  has  to  ensure
+responsible seafood procurement. Given its limited seafood inventory
+compared  with  more  conventional  retailers,  Trader  Joe’s  was  the
+category winner for inventory; however, it will continue to lag behind
+without marked improvements on its policy, advocacy initiatives, and
+transparency.
+
+Sustainable  Seafood  Policy:  Trader  Joe’s  has  publicly  committed
+to  prohibit  GE  seafood  in  its  stores.  Trader  Joe’s  prides  itself  on  not
+paying  “third-party  entities  to  provide  us  with  a  sticker  that  we  can
+put  on  our  labels”;  instead  the  retailer  claims  to  hold  itself  and  its
+vendors accountable for responsible seafood procurement.97 It is not
+entirely clear what this means. Greenpeace does not fault Trader Joe’s
+for  avoiding  third-party  certifications,  because  several  are  fraught
+with  problems  of  their  own.  (Other  retailers  should  take  note  and
+reconsider their unquestioned allegiance to third-party certifications.)
+However, Trader Joe’s could markedly improve the clarity of its policy
+and  standards  online.  In  a  years-old  statement,98  the  retailer  simply
+notes that all of its seafood comes from sustainable sources, and that
+it references Seafood Watch for sourcing decisions. While Greenpeace
+commends  Trader  Joe’s  for  its  work  to  discontinue  unsustainable
+species in alignment with this public statement, more than five years
+later, it is time for Trader Joe’s to release a formal public policy.
+
+Seafood  Sustainability  Initiatives:  As  stated  on  its  website,  Trader
+Joe’s conducts internal and external audits of its suppliers’ facilities.99
+While  the  retailer  did  not  provide  hard  evidence,  it  most  likely  has
+a  better  handle  on  its  supply  chain  than  its  competitors,  given  its
+
+smaller inventory and vertically integrated supply chain. Trader Joe’s
+does not have a policy regarding transshipment at sea for tuna, which
+it  should  pursue,  given  that  its  sourcing  of  longline  caught  albacore
+exposes its supply chain to risks of IUU fishing and labor and human
+rights  abuses  (see  page  9).  Greenpeace  encourages  Trader  Joe’s  to
+publish  online  its  social  responsibility  code  of  conduct,  strengthen
+it  with  input  from  labor  and  human  rights  organizations,  and  take
+proactive steps to monitor compliance.
+
+Last  year,  after  a  campaign  led  by  dozens  of  conservation  NGOs,
+Trader  Joe’s  committed  to  stop  buying  Mexican  shrimp,100  which  is
+harvested by gillnets that entangle and kill the endangered vaquita.
+This  year,  Trader  Joe’s  parent  company,  ALDI  Nord,  signed  the  2018
+tuna  RFMO  letter.  Both  are  encouraging  developments;  however,  it
+remains unclear if Trader Joe’s has a strategy to proactively advocate
+for ocean health and human rights.
+
+Greenpeace  commends  Trader  Joe’s  for  phasing  out  polystyrene.
+However,  given  the  copious  amount  of  single-use  plastics  wrapped
+around  Trader  Joe’s  products,  the  retailer  must  announce  strong
+public commitments and a policy to phase out single-use plastics.
+
+Labeling and Transparency: Trader Joe’s failed this category. It has
+limited  sustainability  information  at  the  point  of  sale,  aside  from
+more sustainable gear types (e.g., pole and line) on some of its canned
+tuna products. Aside from industry and marketing groups, the retailer
+does  not  appear  to  actively  work  with  seafood  scientists  or  NGOs.
+Trader  Joe’s  must  be  more  transparent  with  the  public  about  its
+sourcing policies and initiatives, and engage labor and sustainability
+experts to improve its operations.
+
+Inventory:  Trader  Joe’s  earned  a  category  winner  badge  for  its
+inventory,  largely  because  it  carries  far  fewer  species  than  more
+conventional  retailers.  Greenpeace  commends  Trader  Joe’s  for
+dropping  several  red  list  species  years  before  other  retailers—it
+does not sell orange roughy, Chilean sea bass, bigeye tuna, or shark.
+However, questions remain regarding the sustainability of its farmed
+salmon  and  shrimp  sourcing,  whether  its  swordfish  is  responsibly
+sourced,  and  whether  it  will  convert  its  longline  canned  albacore  to
+pole and line, following retailers like Whole Foods, Hy-Vee, and Meijer.
+
+xxiii Trader Joe’s still lacks a robust, public sustainable seafood policy and carries some species that may not be as sustainably sourced as other available options. Without additional
+transparency, it is hard to know. These are similar concerns that Greenpeace noted years ago.
+
+Carting Away the Oceans   31
+
+#15 Costco
+
+Headquarters: Issaquah, WA
+
+Stores and Banners: 611 stores operating as Costco
+
+Background: Costco is the third largest U.S. retailer (by revenue), and
+the  largest  membership  warehouse  club  in  the  country.  As  Costco’s
+sales  continue  to  increase  and  it  aggressively  competes  with  rival
+Amazon,  it  is  pushing  suppliers  to  lower  prices  and  is  growing  its
+private label brand to offer products that can be found only at Costco.
+Its FY 2017 revenue (for consumables) was $66.1 billion.
+
+Greenpeace  Comments:  While  Costco’s  score  improved  slightly  this
+year,  its  ranking  remained  stale  as  other  retailers  climbed  higher.
+The retailer has made big changes over the years, from discontinuing
+several  red  list  species  to  improving  its  aquaculture  standards  and
+calling for stronger fisheries management. Costco has an opportunity
+and  responsibility  to  set  the  bar  for  initiatives  from  tackling  plastic
+pollution  to  confronting  human  rights  abuses  in  seafood  supply
+chains. As competition intensifies with Amazon, Walmart, Kroger, and
+others, Costco must leverage its popular brand and purchasing power
+for healthy oceans and workers’ rights, creating additional incentives
+for its competitors to follow suit.
+
+Sustainable  Seafood  Policy:  Costco’s  seafood  policy  is  available
+online  and  describes  the  retailer’s  core  principles  and  strategies.
+Greenpeace  commends  Costco  for  providing  this  information  and
+including  links  to  its  various  initiatives  for  customers  who  want
+to  learn  more  about  its  sustainable  seafood  program.  Costco  has
+publicly committed to not sell GE salmon, which is reassuring because
+it sells enormous amounts of farmed salmon every week.101 And while
+Costco relies on ASC standards for species like salmon, concerns with
+eco-certifications continue (see page 8). Greenpeace urges Costco to
+strengthen  its  policy  to  go  beyond  MSC  and  ASC  standards,  and  for
+its tuna policy to go beyond ISSF standards, which do not sufficiently
+address  issues  like  transshipment  at  sea  with  longline  vessels  (see
+page  9).  Costco  also  has  social  standards  and  has  adopted  the
+Seafood Task Force code of conduct.
+
+Seafood  Sustainability  Initiatives:  Costco  is  a  founding  member
+of  the  Seafood  Task  Force.  Greenpeace  commends  Costco  for  its
+efforts, and urges the retailer to use its influence to ensure the Task
+Force raises its ambition to produce results (e.g., publicly call on the
+
+Carting Away the Oceans   32
+
+Thai  government  to  legalize  unions  and  adopt  key  ILO  conventions
+(see pages 7–8)). Additionally, Costco should rally Seafood Task Force
+members  to  support  legally  binding  agreements  for  workers’  rights.
+Costco is among dozens of retailers that signed the 2018 tuna RFMO
+letter calling for improved fisheries management.
+
+Costco  is  developing  a  plastics  packaging  policy,  which,  if  strong
+enough,  will  present  an  opportunity  for  one  of  the  nation’s  largest
+retailers  to  announce  sweeping  commitments  that  set  the  bar  for
+other U.S. retailers. This would be big news, given the public’s interest
+and desire to see businesses and government act on plastic pollution.
+
+Labeling  and  Transparency:  Costco  can  most  improve  in  this
+category.  Its  minimalist  approach  with  store  layouts  and  packaging
+makes  it  difficult  for  customers  to  know  which  products  are  truly
+sustainable.  Online,  Costco  has  invested  in  a  traceability  website
+for  its  Kirkland  Signature  albacore,102  which  is  a  great  way  to
+communicate  additional  information  about  products  to  customers.
+However,  as  younger  generations  seek  companies  to  patronize
+that  uphold  strong  ethics,  Costco  needs  to  better  communicate  its
+initiatives to the public.
+
+Inventory:  Greenpeace  applauded  Costco
+for  discontinuing
+red  list  species  like  orange  roughy  and  Chilean  sea  bass  in  2011.
+Unfortunately,  both  species  now  have  some  MSC  certified  sourcing,
+which means that some retailers have begun to sell them once again.
+Costco now sells Chilean sea bass, which is a long-lived, slow-growing
+species that should not be commercially available. Greenpeace urges
+Costco to reinstate its 2011 ban on Chilean sea bass. In 2014, Costco
+made waves when it launched its FAD-free Kirkland Signature skipjack
+tuna  product.103  Unfortunately,  it  has  since  been  discontinued,
+leaving Costco without a single sustainable private label canned tuna
+product. It remains unclear if Costco will improve its shelf-stable tuna
+for both its private label and national brand products in stores.
+
+#16 Southeastern Grocers
+
+Headquarters: Jacksonville, FL
+
+Stores  and  Banners:  575  stores  operating  as  Bi-Lo,  Harveys
+Supermarket, Winn-Dixie, and Fresco y Más
+
+Background: As its name implies, Southeastern Grocers is regionally
+located  in  the  U.S.  Southeast.  The  retailer  made  headlines  this
+year  after  filing  for  bankruptcy.  As  of  late  May,  it  had  successfully
+completed  its  financial  restructure,  which  included  several  store
+closures. Its FY 2017 sales were $9.9 billion.
+
+Greenpeace  Comments:  Despite  its  financial  woes,  Southeastern
+Grocers’  momentum  on  sustainable  seafood  appears  to  have
+continued,  which  is  a  testament  to  recent  years  of  leadership  and
+collaboration  from  its  seafood  team.  In  yet  another  Carting  Away
+the  Oceans  first,  Southeastern  Grocers  received  a  passing  score,104
+continuing to climb the ranks after being the most improved retailer in
+the last assessment. While it still requires significant work to provide
+its  customers  with  responsibly  sourced  seafood,  Southeastern
+Grocers is on the right track and must continue this work to promote
+healthy oceans and support workers’ rights.
+
+Sustainable  Seafood  Policy:  Southeastern  Grocers  has  a  public
+policy  that  covers  its  fresh  and  frozen  farmed  seafood,  with  a  goal
+of 100% BAP 4-star procurement by the end of 2018. It is working to
+incorporate  wild-caught  and  shelf-stable  seafood  into  its  policy,
+which  will  help  ensure  improvements  in  categories  like  shelf-stable
+tuna.  Especially  given  its  focus  on  farmed  seafood  in  its  policy,
+Southeastern  Grocers  should  swiftly  incorporate  a  ban  on  any  GE
+seafood,  including  GE  salmon.  While  Southeastern  Grocers  has  a
+code  of  conduct  for  its  suppliers,  given  ongoing  labor  and  human
+rights  abuses  in  the  seafood  industry,  this  is  an  important  moment
+for  Southeastern  Grocers  to  strengthen  and  publicly  share  its  social
+standards.
+
+Seafood  Sustainability  Initiatives:  Southeastern  Grocers  was  the
+first U.S. retailer to become a member of the International Pole & Line
+Foundation  (IPNLF).  Through  this  work,  the  retailer  has  launched  a
+
+private label canned pole and line albacore tuna product. To continue
+its  sustainable  tuna  advocacy,  Southeastern  Grocers  should  join  a
+growing list of businesses and NGOs calling on tuna RFMOs to better
+manage tuna fisheries.105 The retailer also participates in a variety of
+FIPs, which reflects its partnership with SFP, and references IUU vessel
+lists  to  help  prevent  IUU  seafood  from  entering  its  supply  chains.
+Southeastern  Grocers  can  strengthen  its  sourcing  by  addressing
+problems  associated  with  transshipment  at  sea  (see  page  9)  and,
+more broadly, by supporting legally binding agreements for seafood
+workers’ rights (see pages 7–8).
+
+Aside  from  encouraging  recycling  and  providing  customers  with  the
+option of reusable or paper bags, it is unclear if Southeastern Grocers
+will help tackle the plastic pollution crisis by phasing out single-use
+plastics in its operations.
+
+Labeling  and  Transparency:  Southeastern  Grocers  now  has  its
+seafood policy online and continues to promote its certified products
+to  its  customers.  It  publicly  promoted  joining  IPNLF  and  launching
+its  pole  and  line  albacore  product,  citing  the  need  for  sustainable
+tuna  fisheries.106  Through  its  work  with  SFP,  Southeastern  Grocers
+has increased the amount of data available on its sourcing, which, in
+theory,  could  be  available  to  customers  upon  request.  As  tools  like
+blockchain  become  more  widespread  and  customers  want  to  know
+about  the  origins  of  their  food,  Southeastern  Grocers  must  expand
+its  information  available  at  the  point  of  sale  and  online  so  that  its
+customers can make informed decisions.
+
+improved
+
+Inventory:  Southeastern  Grocers  markedly
+in  2015
+after  swiftly  discontinuing  orange  roughy,  shark,  and  monkfish  for
+sustainability reasons. Greenpeace commends Southeastern Grocers
+for not selling these species or bigeye tuna, for discontinuing Atlantic
+halibut, and for introducing pole and line albacore tuna. The retailer
+must  now  ensure  that  the  rest  of  its  private  label  and  national
+brand  shelf-stable  tuna  is  more  sustainably  sourced.  Additionally,
+Southeastern  Grocers  should  join  many  of  the  top-five  retailers
+by  immediately  discontinuing  Chilean  sea  bass  for  sustainability
+reasons, regardless of its MSC certification.
+
+Carting Away the Oceans   33
+
+#17 Publix
+
+Headquarters: Lakeland, FL
+
+Stores and Banners: 1,164 stores operating as Publix, Publix Sabor,
+and Publix GreenWise Market
+
+Background: Publix is a large retailer historically known for its strong
+Florida presence. Publix is continuing its expansion into new markets,
+including  Richmond,  VA,  where  it  acquired  ten  stores  following  the
+Ahold Delhaize merger, and is increasing its presence in the Carolinas
+and  Tennessee.  Publix’s  FY  2017  sales  were  approximately  $34.3
+billion.
+
+Greenpeace  Comments:  Publix  is  another  in  the  firsts  category  for
+this assessment, finally achieving a passing score a full ten years after
+Greenpeace began evaluating Publix on seafood sustainability. Much
+of its improvement is a result of transparency initiatives such as ODP.
+Publix has a public seafood policy and invests time and resources to
+improve its sourcing; however, it continues to sell species of concern
+(e.g.,  orange  roughy,  shark,  tongol  tuna),  which  it  must  discontinue
+immediately. The invitation is still standing for Publix to engage in a
+productive dialogue with Greenpeace.
+
+Sustainable  Seafood  Policy:  Publix  has  a  public  policy  and  flashy
+interactive website that features information about its companywide
+sustainability  initiatives,  including  those  focused  on  seafood.  It
+lays  out  the  retailer’s  strategy  of  working  toward  more  responsible
+seafood procurement, mainly through FIPs and AIPs. For shelf-stable
+tuna, Publix relies on ISSF standards, which do not ensure that tuna
+is  sustainably  caught  or  that  significant  labor  issues  associated
+with  practices  like  transshipment  at  sea  with  longline  vessels  are
+addressed (see page 9). While it is encouraging that Publix shares its
+sustainable  seafood  approach  in  a  variety  of  formats  online,  it  does
+not  provide  Greenpeace  with  enough  specifics  to  fully  assess  the
+retailer in this category.
+
+Seafood Sustainability Initiatives: Due in part to its partnership with
+SFP, Publix is a big proponent of FIPs and engages in Gulf of Mexico
+shrimp and snapper/grouper FIPs. While it is encouraging that Publix
+
+and other retailers work to improve fisheries, sometimes it is best to
+stop sourcing a species when the particular fishery is poorly managed
+or experiencing overfishing, to allow time for recovery. In a welcome
+move,  Publix  signed  on  to  the  2018  tuna  RFMO  letter,  calling  for
+improvements in tuna fisheries management. Publix is a participant
+in various industry panels and fora, including those focused on labor
+and  human  rights.  However,  it  is  unclear  what  Publix’s  policy  and
+commitments  are  regarding  labor  and  human  rights  in  the  seafood
+industry.
+
+Publix  uses  post-consumer  recycled  content  for  deli  packaging,  has
+various initiatives on bag reduction, and relies on reusable shipping
+containers for seafood. These initial steps are encouraging, but Publix
+needs  to  prioritize  launching  strong  public  commitments  and  a
+policy to phase out single-use plastics. This should be especially high
+on Publix’s radar, given that most of its stores are near the beautiful
+Florida  coastline,  and  because  of  the  company’s  reliance  on  local
+seafood sourcing, which, like all marine life, is increasingly threatened
+as plastics flood into our oceans.
+
+Labeling  and  Transparency:  Publix  rose  in  the  rankings  largely
+because  of  a  marked  increase  in  transparency.  Publix  was  the  first
+U.S.  retailer  to  disclose  some  of  its  wild  sourcing  information  via
+ODP.  Greenpeace  commends  Publix  on  publicly  providing  this
+information  and  encourages  it  to  ensure  that  all  of  its  wild-caught
+and farmed seafood sourcing information, including that of national
+brands, is available online. In addition to the ODP website, Publix has
+information  online  and  in  stores  to  educate  customers,  although  it
+could  improve  in-store  access  to  information  so  that  customers  can
+evaluate whether a species is sustainably sourced.
+
+Inventory:  Publix  continues  to  fail  the  inventory  category.  Many  of
+the species Publix sells are red listed for good reason (e.g., high levels
+of bycatch, poor management, habitat destruction). Publix continues
+to  sell  orange  roughy,  shark,  tongol  tuna,  and  Chilean  sea  bass.  It
+must discontinue these species immediately, improve its overall tuna
+sourcing,  and  clarify  what  improvements  it  has  made  on  its  farmed
+seafood procurement.
+
+Carting Away the Oceans   34
+
+#18 WinCo
+
+Headquarters: Boise, ID
+
+Stores  and  Banners:  119  stores  operating  as  WinCo  Foods  and
+Waremart by WinCo
+
+Background: WinCo Foods is an employee-owned retailer with stores
+in the U.S. West, Southwest, Oklahoma, and Texas. Its FY 2017 sales
+were approximately $7 billion.
+
+Greenpeace  Comments:  In  recent  years,  WinCo’s  seafood  team  has
+invested  time  and  resources  in  sustainable  seafood,  making  steady
+improvements. Especially as WinCo continues to grow, it must use its
+brand and purchasing power to publicly call for improvements in the
+seafood  industry.  Greenpeace  urges  WinCo  to  seize  this  moment  for
+leadership as labor and human rights abuses remain rampant in the
+seafood industry and the plastic pollution crisis worsens.
+
+Sustainable Seafood Policy: WinCo has a sustainable seafood policy
+that covers some of its wild and farmed seafood, although it has work
+to do to ensure that 100% is covered, including shelf-stable seafood.
+As  the  retailer  considers  policy  improvements,  it  should  formally
+incorporate  its  commitment  not  to  sell  GE  seafood.  Unlike  many
+retailers  that  source  MSC,  BAP,  and  other  certified  products,  WinCo
+has  additional  measures  in  place,  from  referencing  the  Seafood
+Watch  recommendations  to  IUU  vessel  lists.  As  part  of  its  seafood
+program,  WinCo  must  also  clarify  its  policy  on  labor  and  human
+rights. Together, these actions will help strengthen its goal of sourcing
+responsible  seafood,  and  will  also  improve  its  performance  in  this
+category.
+
+Seafood  Sustainability  Initiatives:  WinCo  responds  swiftly  to
+incidents of labor or human rights violations that could be linked to
+its supply chains, including engaging suppliers regarding its concerns.
+
+In addition to publicly sharing a social code of conduct, Greenpeace
+encourages WinCo to require action plans that remedy labor abuses
+if  they  occur,  so  that  it  can  leverage  its  buying  power  to  help  make
+improvements  throughout  the  industry.  WinCo  must  create  and
+implement  a  strong  policy  that  addresses  transshipment  at  sea  in
+its  tuna  supply  chains,  given  the  practice’s  association  with  labor
+and  human  rights  abuses.  With  the  dire  state  of  the  ocean  plastics
+crisis,  WinCo  must  outline  its  policy  and  initiatives  to  tackle  plastic
+pollution,  beyond  the  commonplace  initiatives  that  some  retailers
+espouse (e.g., recycling, reusable bags).
+
+Labeling  and  Transparency:  While  WinCo  performed  poorly  in
+this  category,  change  is  coming.  The  retailer  currently  has  memos
+posted  in  stores  noting  that  it  sells  certified  seafood  and  providing
+information  about  its  BAP  requirements  on  wet  cases.  WinCo  is
+working  to  make  its  policy  available  online,  will  ensure  customers
+can  easily  access  this  policy  while  in  stores  via  QR  codes,  and  will
+communicate  its  progress  on  sourcing  improvements.  Greenpeace
+encourages WinCo to also provide information on the various groups
+it works with, and to ensure it engages a variety of stakeholders from
+industry to NGOs, scientists, and regulatory bodies.
+
+Inventory:  This  is  WinCo’s  strongest  category.  The  retailer  sources
+BAP  4-star  farmed  seafood  for  nearly  all  fresh  and  frozen  products,
+and  does  not  sell  red  list  species  like  Chilean  sea  bass  and  bigeye
+tuna,  although  it  does  carry  orange  roughy  in  a  small  percentage
+of  stores.  Greenpeace  urges  WinCo  to  discontinue  orange  roughy
+immediately; to ensure all tuna sold in stores, whether private label
+or national brands, is sustainable; and to not sell any additional red
+list species.
+
+Carting Away the Oceans   35
+
+#19 H-E-B
+
+Headquarters: San Antonio, TX
+
+Stores  and  Banners:  336  stores  operating  as  H-E-B,  H-E-B  Plus!,  Mi
+Tienda, Joe V’s Smart Shop, and Central Market
+
+Background:  H-E-B  is  a  privately  held  retailer  with  a  large  presence
+throughout Texas. Its FY 2017 sales were approximately $23.1 billion.
+
+Greenpeace Comments: Yet another year goes by and H-E-B refuses
+Greenpeace’s  invitation  to  engage  in  a  dialogue  on  sustainable
+seafood.  While  it  posts  some  promising  standards  online,  H-E-B
+has  made  questionable  moves  since  the  last  assessment,  like
+reintroducing  orange  roughy.  The  retailer’s  score  dropped  because
+of  a  lack  of  available  information  on  new  initiatives  and  its  poor
+performance in the inventory category. Significant questions remain
+about its policies on and commitments to labor and human rights and
+its efforts to phase out single-use plastics.
+
+Sustainable  Seafood  Policy:  When  it  comes  to  publicly  available
+policies, H-E-B has a policy that makes clear its core issues in an easily
+accessible format for the public.107 The retailer sources some certified
+seafood,  is  publicly  opposed  to  GE  seafood,  and  explains  when  it
+will not sell seafood because of sustainability concerns. It is unclear,
+however, whether H-E-B has standards regarding shelf-stable tuna or
+has a policy regarding labor and human rights.
+
+Seafood  Sustainability  Initiatives:  H-E-B  failed  this  category.
+While  it  supports  local  seafood  from  the  Gulf  Wild  program  and
+uses  Trace  Register  for  traceability  (and  to  avoid  IUU  seafood),  it  is
+largely  unclear  what  new  initiatives  H-E-B  is  undertaking,  especially
+regarding  labor  and  human  rights  abuses  in  the  seafood  industry.
+H-E-B must enact strong standards regarding transshipment at sea to
+mitigate the risks of IUU fishing and labor and human rights abuses
+associated  with  this  practice,  and  must  support  efforts  to  create
+legally binding agreements for workers’ rights (see pages 7–8).
+
+H-E-B  has  invested  in  some  measures  to  curb  plastic  pollution.  This
+past Earth Day, it gave away nearly 200,000 reusable bags. However,
+it  is  unclear  how  H-E-B  will  comprehensively  address  the  plastic
+pollution  crisis  and  work  to  phase  out  single-use  plastics  in  its
+operations.  This  should  be  a  major  priority  for  a  retailer  that  prides
+itself  on  sourcing  from  the  nearby  Gulf  of  Mexico,  which  is  already
+threatened by offshore drilling and agricultural runoff.
+
+Labeling  and  Transparency:  Greenpeace  commends  H-E-B  for
+providing detailed information online, such as species sold and their
+sustainability status—an initiative that existed well before ODP. While
+it  provides  gear  type  for  some  species,  the  retailer  should  provide
+it  for  all  species,  share  its  sourcing  for  all  seafood  sold  across  its
+banners,  and  provide  detailed  instructions  on  how  customers  can
+use this list to make informed purchases. H-E-B shares online which
+species it will not sell and has videos featuring sustainable seafood.
+Like most retailers, H-E-B could increase its sustainability information
+at  the  point  of  sale.  Online,  the  retailer  has  ample  opportunity
+to  provide  details  about  seafood  sustainability  in  the  “product
+description”  area,  but  it  does  not  do  so  for  most  of  its  seafood
+products.
+
+Inventory:  H-E-B  failed  this  category.  Despite  some  promising
+standards,108  H-E-B  continues  to  sell  several  problematic  species.
+Given the level of concern expressed by multiple NGOs about bigeye
+and tongol tuna, orange roughy, and Chilean sea bass, it is surprising
+that  H-E-B  still  carries  these  species.  Despite  its  MSC  certification,
+orange  roughy  in  particular  has  been  fraught  with  controversy  and
+concerns  from  multiple  global  organizations.109,  110  Sometimes  a
+species  should  not  be  commercially  available.  If  H-E-B  were  to  truly
+take  a  precautionary  approach,  it  would  swiftly  discontinue  orange
+roughy and the aforementioned red list species.
+
+Carting Away the Oceans   36
+
+#20 Price Chopper
+
+Headquarters: Schenectady, NY
+
+Stores and Banners: 134 operating as Price Chopper, Market 32, and
+Market Bistro
+
+Background: Price Chopper is a privately held regional retailer in the
+U.S. Northeast. Its FY 2017 sales were $3.84 billion.
+
+Greenpeace  Comments:  Price  Chopper’s  drop  in  this  year’s  ranking
+reflects  a  need  for  strengthened  policies,  advocacy,  transparency,
+and sourcing improvements. Fortunately, it appears that things may
+soon  improve,  which  is  great  news  for  our  oceans.  The  retailer  just
+discontinued  monkfish  for  sustainability  reasons  and  is  developing
+a  shelf-stable  tuna  policy.  As  Price  Chopper  invests  in  its  Market  32
+brand, it should revamp not only its stores, but also its policies and
+approach to customers who want responsible seafood.
+
+Sustainable Seafood Policy: Price Chopper’s policy covers wild and
+farmed  seafood.  The  retailer  references  the  Seafood  Watch  red  list
+and  incorporates  various  certified  products  from  Fair  Trade  to  MSC
+and  BAP.  Historically,  Price  Chopper  has  opposed  GE  seafood,  but
+lacks a formal policy. Price Chopper is developing a shelf-stable tuna
+policy, which should go beyond basic, ISSF-influenced standards that
+some other retailers rely on, as these standards do not fully account
+for massive amounts of bycatch or problematic transshipment at sea
+(see page 9).xxiv  As Price Chopper updates its seafood policy, it should
+also publicly disclose its social standards policy to address rampant
+labor and human rights abuses in the seafood industry.
+
+Initiatives:  Price  Chopper
+
+failed  this
+Seafood  Sustainability
+category.  It  is  unclear  whether  Price  Chopper  is  working  with
+conservation  NGOs,  scientists,  and  industry  to  advocate  for  seafood
+sustainability.  To  its  credit,  the  retailer  has  historically  made  efforts
+to mitigate seafood fraud (e.g., DNA testing of its seafood), currently
+
+works  with  Trace  Register,  and  engages  suppliers  on  safe  working
+conditions  and  fair  wages.  However,  in  a  time  when  even  local
+seafood  is  apparently  not  local,111  it  is  vital  to  have  a  strong  chain
+of  custody  and  measures  to  ensure  legal,  sustainable,  and  ethical
+seafood. Price Chopper should join calls from labor for legally binding
+agreements that protect seafood workers’ rights (see pages 7–8). Price
+Chopper  must  leverage  its  position  in  the  U.S.  market  to  advocate
+for  reforms,  for  example,  by  joining  other  retailers  that  are  calling
+for  action  from  tuna  RFMOs.112  It  is  encouraging  that  Price  Chopper
+supports plastic bag bans, although to comprehensively tackle plastic
+pollution, it needs a policy and commitments to phase out single-use
+plastics.
+
+Labeling  and  Transparency:  Price  Chopper  performed  poorly
+in  this  category.  The  retailer  must  improve  by  comprehensively
+its  customers  about  sustainable  seafood
+communicating  with
+and  how  to  make  informed  decisions  in  stores  and  online.  A  major
+first  step  is  reinstating  its  website  on  sustainable  seafood,  which
+includes its policy.113 This is an opportunity to incorporate any policy
+improvements and launch new education initiatives online and at the
+point of sale.xxv
+
+references
+
+Inventory:  Price  Chopper
+the  Seafood  Watch
+recommendations,  including  its  red  list.  The  retailer  should  be
+commended  for  discontinuing  monkfish  (even  though  it  is  yellow
+rated) because of bycatch and seafloor impacts. Other retailers should
+follow Price Chopper’s lead and seriously consider whether a “better
+alternative” species should be sold, given outstanding concerns. This
+level  of  foresight  should  help  Price  Chopper  consider  other  ways  to
+improve its sourcing, from tuna to farmed seafood such as pangasius.
+And while it may be MSC certified, Chilean sea bass is one whitefish
+that should never be commercially available. Greenpeace urges Price
+Chopper  to  join  retailers  like  Hy-Vee  and  Save  Mart  and  discontinue
+Chilean sea bass.
+
+xxiv Greenpeace encourages Price Chopper to reference policies from top-ranked retailers like Whole Foods, Hy-Vee, and ALDI, and seek input from reputable environmental and labor NGOs
+during policy development.
+xxv For examples, see transparency and education initiatives employed by top-ranked retailers such as Whole Foods and Hy-Vee.
+
+Carting Away the Oceans   37
+
+#21 The Save Mart Companies
+
+Headquarters: Modesto, CA
+
+Stores  and  Banners:  207  stores  operating  as  Save  Mart,  S-Mart,
+Lucky, Lucky California, FoodMaxx, and MaxxValue Foods
+
+Background: The Save Mart Companies (“Save Mart”) operates stores
+in northern and central California as well as Nevada. Its FY 2017 sales
+were $4.1 billion.
+
+Greenpeace  Comments:  Save  Mart  failed  this  year’s  assessment.
+Nonetheless,  the  retailer  continues  to  improve  and  is  within  reach
+of  a  passing  score.  It  performed  moderately  well  in  the  policy  and
+inventory  categories,  although  it  must  markedly  improve  in  the
+initiatives and transparency categories, which would propel it further
+in  the  rankings.  Greenpeace  encourages  Save  Mart  to  strengthen
+its  focus  on  labor  and  human  rights  in  the  seafood  industry  and  to
+address  plastic  pollution.  As  Save  Mart  continues  to  implement  its
+sustainable seafood program, all indications suggest this could be the
+last time it will be in the red.
+
+Sustainable  Seafood  Policy:  Save  Mart  made
+significant
+improvements, releasing a public sustainable seafood policy,114 which
+is  an  important  first  step.  Save  Mart  should  strengthen  its  policy
+in  several  areas.  For  example,  while  there  are  some  well-managed
+domestic fisheries, not all fall into this category. Even more alarming,
+some  companies  are  marketing  their  products  as  domestic  when
+they  are  anything  but.115  Having  additional  traceability  and  auditing
+standards  can  help  improve  Save  Mart’s  policy,  including  more
+developed standards on labor and human rights. While ISSF is a start
+for its shelf-stable tuna policy, this approach alone leaves several gaps
+that will not ensure sustainable, ethical tuna (see page 9). Greenpeace
+encourages Save Mart to continue improving its policy and standards
+as a part of its larger strategy to source responsible seafood.
+
+Seafood  Sustainability  Initiatives:  Save  Mart  failed  this  category.
+While  the  retailer  conducts  internal  audits  of  its  seafood  for
+traceability  purposes  and  consults  its  suppliers  on  changes  in
+fisheries  management  and  stock  health,  Save  Mart  has  work
+to  do  to  better  ensure  more  responsible  operations.  Examples
+include  referencing  combined  IUU  vessel  lists116  to  ensure  it  is
+not  inadvertently  sourcing  illegally  caught  seafood;  developing
+policies  and  communicating  with  suppliers  Save  Mart’s  position
+on  transshipment  at  sea;  publicly  advocating  for  marine  reserves;
+joining  a  growing  number  of  businesses  and  NGOs  calling  for
+improved management of tuna fisheries;117 and making strong, public
+commitments  and  policies  to  phase  out  single-use  plastics.  Beyond
+its  suppliers,  Save  Mart  must  engage  industry,  NGOs,  scientists,  and
+regulatory bodies to help ensure healthy oceans and safe, equitable
+working conditions for seafood workers.
+
+Labeling  and  Transparency:  Save  Mart  failed  this  category.  While
+Greenpeace  commends  Save  Mart  for  releasing  a  public  policy,  the
+retailer  must  now  ensure  this  policy  and  key  data  are  available  to
+customers  online  and  in  stores  so  that  they  can  make  informed
+purchases  regarding  responsible  seafood.  Fortunately,  Save  Mart
+should  soon  have  more  communications  initiatives  regarding  its
+seafood  program.  Save  Mart  should  look  to  retailers  that  score  high
+in this category (e.g., Hy-Vee, Whole Foods) for examples of exenstive
+online and in-store communications strategies.
+
+Inventory:  Greenpeace  commends  Save  Mart  for  working  to
+discontinue  both  orange  roughy  and  Chilean  sea  bass,  which,  given
+sustainability  concerns,  should  not  be  commercially  available.  With
+this move, Save Mart will join the ranks of leading retailers that have
+also discontinued these species for sustainability reasons. Save Mart
+must make improvements in its tuna category and its farmed seafood
+procurement, from Atlantic salmon to shrimp and pangasius.
+
+Carting Away the Oceans   38
+
+#22 Wakefern
+
+Headquarters: Keasbey, NJ
+
+Stores  and  Banners:  96  stores  owned  outright  under  Price  Rite
+and  ShopRite  banners,  as  well  as  supplying  hundreds  more  stores,
+including  additional  ShopRite  stores,  The  Fresh  Grocer,  Dearborn
+Market, Village Supermarkets, and Inserra Supermarkets
+
+Background:  Wakefern
+retailers’
+cooperative  in  the  country,118  supplying  all  Price  Rite  and  ShopRite
+banners, and owning several stores outright. Its FY 2017 revenue was
+$16.3 billion.
+
+largest  supermarket
+
+the
+
+is
+
+sourcing
+
+Initiatives:  Beyond
+
+some
+Seafood  Sustainability
+certified  products,  very  little  information  is  available  regarding  any
+Wakefern  initiatives  to  ensure  responsible  seafood.  Greenpeace
+expects  all  retailers  to  leverage  their  purchasing  power,  not  just  to
+engage  suppliers,  but  to  publicly  call  for  sweeping  industrywide
+and  regulatory  improvements.  While  Wakefern  may  be  active  in
+some  arenas,  it  needs  to  better  communicate  its  work.  Aside  from
+encouraging  its  customers  to  recycle  and  use  reusable  bags,  it  is
+unclear what policies or commitments Wakefern has to tackle plastic
+pollution.
+
+Greenpeace Comments: Wakefern went from moderate performance
+in  2015  to  the  worst-ranked  retailer  in  this  year’s  assessment.
+While  it  may  be  continuing  its  efforts  on  sustainable  seafood,
+this  is  impossible  to  assess  given  Wakefern’s  lack  of  transparency
+online, in the press, or via Greenpeace’s survey process used for this
+assessment.  However,  the  company’s  selection  of  seafood  for  sale
+suggests  little  has  been  done.  Greenpeace  encourages  Wakefern  to
+review this report, increase its transparency, and accept Greenpeace’s
+long-standing  invitation  for  a  meaningful  dialogue  on  sustainable
+seafood.
+
+Sustainable  Seafood  Policy:  While  Wakefern  has  a  policy,  it  has
+very  limited  information  available  online,  except  for  the  last  line  in
+its Q&A section noting its work with MSC and the Global Aquaculture
+Alliance  to  source  certified  seafood.119  As  of  2015,  Wakefern  did  not
+sell  GE  seafood,  although  it  remains  unclear  if  the  retailer  has  a
+companywide  policy  banning  the  purchase  of  GE  seafood.  It  is  also
+unclear  how  Wakefern  ensures  its  seafood  is  responsibly  sourced,
+noting  the  significant  gaps  in  certifications  that  fail  to  guarantee
+seafood is not associated with labor or human rights violations (see
+pages 7–8).
+
+Labeling  and  Transparency:  After  a  solid  start  in  2014  with  press
+about  its  sustainable  seafood  program120  and  some  2016  stories
+about  BAP  4-star  shrimp  products,121  there  has  been  limited  press
+about  Wakefern’s  initiatives.  Ironically,  the  most  recent  press  for  a
+Wakefern  banner  in  May  has  this  headline:  “ShopRite  is  making  it
+easier to eat more fish.”122 Rather than eating more fish, Greenpeace
+encourages Wakefern’s topline message to be about how it is working
+to  responsibly  source  seafood  and  what  tools  customers  can  use,
+beyond  flawed  certifications,  to  ensure  they  purchase  sustainable,
+ethical seafood. As long as any retailer profits from seafood, it must
+be a top advocate for ocean health and seafood workers. This means
+being  significantly  more  transparent  with  customers,  NGOs,  and  the
+public.
+
+Inventory:  Wakefern  should  discontinue  Chilean  sea  bass,  clean  up
+its  tuna  sourcing,  and  ensure  it  does  not  make  the  mistake  of  some
+other  retailers  by  selling  orange  roughy  simply  because  it  is  MSC
+certified.
+
+Carting Away the Oceans   39
+
+Glossary
+
+AIP: Aquaculture improvement project
+
+FRN: Fishers’ Rights Network
+
+Aquaculture Stewardship Council (ASC): A certification
+scheme  for  farmed  species.  ASC  certified  products  are
+supposed to meet certain criteria for responsibly farmed
+seafood. While it may be a start, it is best for companies
+to avoid exclusively relying on third-party certifiers.
+
+(BAP):  These
+
+third-
+Best  Aquaculture  Practices
+party  standards  seek  to  address  environmental  and
+social  responsibility,  animal  welfare,  food  safety,  and
+traceability  in  a  voluntary  certification  program  for
+aquaculture  facilities.  BAP  primarily  covers  shrimp,
+salmon, tilapia, pangasius, channel catfish, and mussels.
+Companies  sometimes  source  BAP  certified  products
+according  to  a  coding  system  (e.g.,  BAP  2-star,  BAP
+3-star). While it may be a start, it is best for companies to
+avoid exclusively relying on third-party certifiers.
+
+Bycatch:  Marine  life  unintentionally  caught  and  often
+killed  when  fishing,  like  sharks,  turtles,  seabirds,  and
+juvenile  fish.  Wasteful  fishing  practices  from  bottom
+trawls  to  longlines  are  highly  destructive  for  marine  life
+and  habitats,  and  supermarkets  should  sell  only  the
+most sustainably harvested seafood available, otherwise
+refuse to sell it.
+
+FAD-free:  Fishing  without  the  use  of  FADs,  or  setting
+purse seine nets on free schools of tuna. Other marine life
+is less impacted when fishing free school, so it is a better
+option.
+
+FCF: Fong Chun Formosa Fishery Company
+
+FIP: Fishery improvement project
+
+Fish  aggregating  device  (FAD):  An  artificial,  floating
+object  that  attracts  schools  of  tuna,  along  with  the
+(indiscriminate)  aggregation  of  all  kinds  of  marine  life.
+Fishing with FADs leads to unintended collateral damage,
+or  bycatch,  in  the  form  of  dead  sea  turtles,  sharks,  and
+other fish.123
+
+Food  and  Agriculture  Organization  of  the  United
+Nations (FAO): Among other fisheries-related initiatives,
+this  entity  has  categorized  the  oceans’  “major  fishing
+areas” by a numeric code. This information helps people
+to identify where a particular species was caught.
+
+Carting Away the Oceans   40
+
+GE:  Genetically  engineered,  specifically  with  regard
+to  salmon.  Often  used
+interchangeably  with  GMO
+(genetically modified organism) salmon.
+
+Gear type: The fishing method used to catch a particular
+species  of  fish.  Some  gear  types  (like  pole  and  line  for
+tuna)  are  far  more  favorable  to  the  environment  than
+others  (like  trawling  for  flatfish,  which  scrapes  and
+damages the ocean floor).
+
+GSSI: Global Sustainable Seafood Initiative
+
+ILO: United Nations International Labour Organization
+
+that
+ILO  Core  Conventions:  Eight  conventions
+the
+International  Labour  Organization  deems  as
+fundamental  principles  and  rights  at  work.  Retailers
+should  only  source  from  vessels,  companies,  canneries,
+and  processors  that  operate  in  full  compliance  with
+international
+ILO  Core
+Conventions,  the  ILO  Maritime  Labour  Convention,  and
+the ILO Work in Fishing Convention.
+
+labor  standards,
+
+including
+
+ILRF: International Labor Rights Forum
+
+IPNLF: International Pole & Line Foundation
+
+ISSF: International Seafood Sustainability Foundation
+
+IUU:  Illegal,  unreported,  and  unregulated  fishing  (also
+known as pirate fishing)
+
+Longline:  Fishing  lines,  sometimes  dozens  of  miles
+long,  baited  with  thousands  of  hooks.  This  is  a  very
+indiscriminate, highly destructive fishing gear.124
+
+(MSC):  Nonprofit
+Marine  Stewardship  Council
+organization  that  runs  a  certification  scheme  for  wild
+fisheries.  MSC  certified  products  are  supposed  to
+meet  certain  sustainability  criteria.  In  some  cases,  this
+certification is not the best barometer for whether a wild-
+caught  species  was  truly  caught  sustainably.  While  it
+may be a start, it is best for retailers to avoid exclusively
+relying on third-party certifiers.
+
+NGO: Non-governmental organization
+
+ODP: Ocean Disclosure Project
+
+SFP: Sustainable Fisheries Partnership
+
+One-by-one:  Refers  to  a  series  of  highly  selective  gear
+types for tuna fishing (e.g., pole and line, troll, handline)
+that have virtually no bycatch.125
+
+Pole and line: A highly selective form of fishing that has
+virtually no bycatch, as tuna are caught one-by-one with
+a  fishing  pole  and  a  line.  See  the  definition  for  one-by-
+one.
+
+QR: Quick response
+
+Red  list:  A  list  of  species  of  seafood  that  should  not  be
+bought or sold for various sustainability reasons, ranging
+from  stock  status  to  farming  conditions,  to  method  of
+capture. Any red list species in this report is classified as
+“avoid”  according  to  Seafood  Watch  recommendations.
+Seafood  Watch  does  not  assess  some  species  and/or
+defers to eco-certifications. Because of existing concerns
+with  eco-certifications  (see  page  8),  for  this  report,
+Greenpeace  considers  any  species  not  evaluated  by
+Seafood Watch as a red list species.
+
+Regional  Fishery  Management  Organization  (RFMO):
+An  “international  body  of  countries  sharing  a  practical
+and/or  financial  interest  in  managing  and  conserving
+fish  stocks  in  a  particular  region.”126  There  are  about  17
+RFMOs  covering  large  areas  of  our  oceans.  RFMOs  are
+established by international agreements or treaties and
+can take different forms. RFMO decisions are binding for
+member countries.
+
+Responsible seafood: Sustainable, ethical seafood
+
+Responsible tuna: Sustainable, ethical tuna
+
+Seafood  Task  Force:  Formerly  known  as  the  Shrimp
+Sustainable  Supply  Chain  Task  Force,  this  multi-
+stakeholder  body  aims  to  confront  forced  labor,  human
+trafficking, and unsustainable fishing in the Thai seafood
+industry.
+
+Seafood  Watch:  A  part  of  Monterey  Bay  Aquarium,
+Seafood  Watch  educates  consumers  and  businesses
+through its sustainable seafood recommendations (e.g.,
+Best  Choices,  Good  Alternatives,  or  Avoid).  Greenpeace
+used  Seafood  Watch  recommendations  to  evaluate
+retailers  for  the  inventory  category  of  this  assessment;
+see the definition above for red list.
+
+Species  name:  Also  known  as  the  Latin  name  or
+scientific  name,  the  species  name  clarifies  precisely
+what  species  is  in  the  package.  Given  that  mislabeled
+seafood is a common problem in the industry and many
+species of fish are known by several names, retailers are
+encouraged  to  provide  this  information  at  the  point  of
+sale.
+
+Sustainable,  ethical  seafood:  Wild-caught  or  farm-
+raised  seafood  using  best  available  fishing/farming
+practices that mitigate adverse environmental and social
+impacts.  This  includes  sourcing  from  healthy  stocks,
+using harvest methods that limit environmental impacts,
+and sourcing from suppliers that treat workers ethically
+(e.g.,  in  accordance  with  ILO  Core  Conventions,  the  ILO
+Maritime Labour Convention, and the ILO Work in Fishing
+Convention).
+
+Sustainable,  ethical  tuna:  Tuna  sourced  from  healthy
+stocks;  caught  using  sustainable  fishing  methods,  such
+as  pole  and  line,  handline,  troll-caught,  or  purse  seine
+fishing  on  free  schools  (i.e.,  FAD-free);  and  supplied  by
+workers  who  are  treated  ethically  (e.g.,  in  accordance
+with  ILO  Core  Conventions,  the  ILO  Maritime  Labour
+Convention, and the ILO Work in Fishing Convention).
+
+Third-party  audit:  An  audit  conducted  by  an
+independent party, unaffiliated with either the company
+or  the  certifying  group,  checking  whether  the  product
+or  process  meets  the  standard  holder’s  standards.
+While an extremely valuable tool, a third-party auditor’s
+performance  is  only  as  good  as  the  standards,  which
+serve as the baseline for the audit.
+
+Transshipment  at  sea:  A  legal  practice  wherein  one
+vessel transfers its cargo from its hold to that of another
+vessel directly next to it, without needing to go to port.
+This  practice  is  often  how  unethical  companies  can
+commingle  legally  caught  and  illegally  caught  seafood
+and essentially “launder” pirated seafood as well as hide
+labor abuse (see page 9).
+
+UN: United Nations
+
+WWF: World Wildlife Fund
+
+Carting Away the Oceans   41
+
+Carting Away the Oceans   42
+
+© Edward Beskow  / Greenpeace
+
+Endnotes
+
+1 Environmental Justice Foundation. Pirates and Slaves: How Overfishing in
+Thailand Fuels Human Trafficking and the Plundering of Our Oceans. 2015.
+ejfoundation.org/resources/downloads/EJF_Pirates_and_Slaves_2015_0.
+pdf at page 5.
+
+2 “Revealed: Asian Slave Labour Producing Prawns for Supermarkets in US, UK.”
+UK Guardian 10 June 2014. www.theguardian.com/global-development/2014/
+jun/10/supermarket-prawns-thailand-produced-slave-labour.
+
+3 Mason, Margie, et. al. “Global Supermarkets Selling Shrimp Peeled by Slaves.”
+Associated Press 14 Dec. 2015. www.ap.org/explore/seafood-from-slaves/
+global-supermarkets-selling-shrimp-peeled-by-slaves.html.
+
+4 Greenpeace Southeast Asia. Turn The Tide: Human Rights Abuses and Illegal
+Fishing in Thailand’s Overseas Fishing Industry. Dec. 2016. www.greenpeace.org/
+seasia/Press-Centre/publications/Turn-The-Tide.
+
+5  Greenpeace USA. “2017 Tuna Shopping Guide.” www.greenpeace.org/usa/
+oceans/tuna-guide.
+
+6 Amazon acquired Whole Foods on August 28, 2017. For purposes of this report,
+Whole Foods is still evaluated as a separate entity, as most of its progress on
+seafood sustainability was planned and executed while still a separate entity.
+
+20 The Seafood Task Force must expand its stakeholder engagement, advocate
+for Thai government legal reform, engage groups such as the Civil Society
+Organisation Coalition for Ethical and Sustainable Seafood and FRN, and support
+legally binding agreements to protect workers’ rights. Without marked action
+and improvements in its operation, the Seafood Task Force is yet another flashy
+industry initiative that amounts to wasted opportunity as labor and human
+rights abuses persist in the seafood industry. For more, see oxfamilibrary.
+openrepository.com/bitstream/handle/10546/620480/cs-supermarket-
+responsibilities-workers-rights-seafood-210618-en.pdf?sequence=1 (page
+17) and blogs.oxfam.org/en/blogs/18-07-03-4-critical-ways-global-seafood-
+retailers-can-give-their-consumers-confidence.
+
+21 ILO C087—Freedom of Association and Protection of the Right to Organise
+Convention, 1948; ILO C098—Right to Organise and Collective Bargaining
+Convention, 1949; ILO C108—Seafarers’ Identity Documents Convention, 1958;
+ILO C188—Work in Fishing Convention, 2007. For more, visit www.ilo.org/dyn/
+normlex/en/f?p=1000:12000:::NO:::
+
+22 Prachatai English. “Independent, Democratic Fishers’ Union Officially Launches
+in Thailand.” 30 May 2018. prachatai.com/english/node/7761.
+
+23 Greenpeace International. “Taiwanese Seafood Giant Linked to Human Rights
+Violations—Greenpeace.”
+
+7 Greenwood, Chelsea. “Americans Are Starting to Shop More Like Europeans—
+and That Should Terrify Frito-Lay, Coca-Cola, and Kraft.” Business Insider 3 May
+2018. uk.businessinsider.com/aldi-traderjoes-lidl-retail-revolution-brand-
+names-2018-3.
+
+24 International Labor Rights Forum. “Comments to the Marine Stewardship
+Council Regarding Proposed Labor Requirements.” 14 May 2017. laborrights.
+org/publications/comments-marine-stewardship-council-regarding-
+proposed-labor-requirements.
+
+8 Jones, Charisse. “Costco Sales Continue to Soar, Keeping Up with Amazon.” USA
+Today 7 Mar. 2018. www.usatoday.com/story/money/2018/03/07/costco-sales-
+continue-soar-keeping-up-amazon/400224002.
+
+9 Boyle, Matthew. “Costco’s Squeeze on Suppliers Signifies Pain for P&G, Nestle.”
+Bloomberg.com 9 Mar. 2018. www.bloomberg.com/news/articles/2018-03-07/
+costco-outshines-other-discounters-but-broader-concerns-linger.
+
+10 See “How We Work.” oceandisclosureproject.org/about-us.
+
+11 World Economic Forum. The New Plastics Economy: Rethinking the Future of
+Plastics. 2016. www3.weforum.org/docs/WEF_The_New_Plastics_Economy.
+pdf.
+
+12 United Nations Environment Programme. UNEP Year Book 2011: Emerging
+Issues in Our Global Environment. 2011. wedocs.unep.org/bitstream/
+handle/20.500.11822/8276/-UNEP%20Year%20Book%202012_%20
+emerging%20issues%20in%20our%20global%20environment-2011UNEP_
+YEARBOOK_Fullreport.pdf?sequence=5&isAllowed=y.
+
+13 Greenpeace. “All Supermarkets Should Join Iceland In Going Plastic-Free.” 17
+Jan. 2018. www.greenpeace.org.uk/plastic-free-supermarkets.
+
+14 Taylor, Matthew. “World’s First Plastic-Free Aisle Opens in Netherlands
+Supermarket.” The Guardian 28 Feb. 2018. www.theguardian.com/
+environment/2018/feb/28/worlds-first-plastic-free-aisle-opens-in-
+netherlands-supermarket.
+
+15 Human Rights Watch. Hidden Chains | Rights Abuses and Forced Labor in
+Thailand’s Fishing Industry. 23 Jan. 2018. www.hrw.org/report/2018/01/23/
+hidden-chains/rights-abuses-and-forced-labor-thailands-fishing-industry.
+
+16 International Labor Rights Forum. Taking Stock: Labor Exploitation, Illegal
+Fishing and Brand Responsibility in the Seafood Industry. 11 May 2018.
+laborrights.org/publications/labor-exploitation-illegal-fishing-and-brand-
+responsibility-seafood-industry.
+
+17 Greenpeace International. “Taiwanese Seafood Giant Linked to Human Rights
+Violations—Greenpeace.” 24 May 2018. www.greenpeace.org/international/
+press-release/16676/taiwanese-seafood-giant-linked-to-human-rights-
+violations-greenpeace.
+
+18 Oxfam America. Behind the Barcodes—Ripe for Change: Ending Human Suffering
+in Supermarket Supply Chains. 20 June 2018. www.oxfamamerica.org/explore/
+research-publications/behind-the-barcodes.
+
+19Oxfam America. U.S. Supermarket Supply Chains: Ending the Human Suffering
+Behind Our Food. 2018. www.oxfamamerica.org/static/media/files/US-
+Supermarket-Supply-Chains-End-the-Human-Suffering-Behind-our-Food-
+report.pdf at page 18.
+
+25 International Labor Rights Forum. “Comments to the Marine Stewardship
+Council Regarding Proposed Labor Requirements.” 15 Apr. 2018. laborrights.org/
+publications/comments-marine-stewardship-council-regarding-proposed-
+labor-requirements-0.
+
+26 Kruk, Sake, and Henk Peters. “Towards a Socially Responsible Aquaculture
+Stewardship Council.” Oxfam International. 25 June 2018. www.oxfam.org/en/
+research/towards-socially-responsible-aquaculture-stewardship-council.
+
+27 AFL-CIO. Responsibility Outsourced: Social Audits, Workplace Certification and
+Twenty Years of Failure to Protect Worker Rights. 23 Apr. 2013. aflcio.org/reports/
+responsibility-outsourced.
+
+28 International Labor Rights Forum. Taking Stock.
+
+29 Food & Water Watch. De-Coding Seafood Eco-Labels: Why We Need Public
+Standards. 2010. www.ftc.gov/sites/default/files/documents/public_
+comments/guides-use-environmental-marketing-claims-project-no.
+p954501-00152%C2%A0/00152-56693.pdf.
+
+30 Arnold, Shannon, and Kelly Roebuck. What’s Behind the Label? Assessing the
+Impact of MSC and ASC Seafood Certifications in Canada. SeaChoice. 2017. www.
+seachoice.org/wp-content/uploads/2017/09/Seachoice-ASCMSC-Report-
+Online.pdf.
+
+31 SeaChoice. “ASC Certified Salmon Isn’t Really a ‘Good Alternative’ Seafood.”
+5 June 2017. www.seachoice.org/asc-certified-salmon-isnt-really-a-good-
+alternative-seafood.
+
+32 Make Stewardship Count. Home page. 2018. www.make-stewardship-count.
+org.
+
+33 White, Cliff. “50 NGOs Critique MSC Over Bycatch.” SeafoodSource 25 Jan.
+2017. www.seafoodsource.com/news/environment-sustainability/50-ngos-
+critique-msc-over-bycatch.
+
+34 Ramsden, Neil. “NGO Group Dissatisfied with MSC Approach to Reforms.”
+Undercurrent News 6 Feb. 2018. www.undercurrentnews.com/2018/02/06/ngo-
+group-unsatisfied-by-mscs-approach-to-reforms.
+
+35 Many retailers believe eco-certifications such as the Aquaculture Stewardship
+Council (ASC) means more responsibly harvested farmed salmon. In July 2018,
+900,000 salmon escaped from an ASC certified farm (Marine Harvest’s Punta
+Redonda facility) in Huar Island, Chile. Guzman, Daniela. “Great Salmon Escape
+Threatens to Taint Chile’s Fish Farms.” Bloomberg.com. 10 July 2018. www.
+bloomberg.com/news/articles/2018-07-09/great-salmon-escape-threatens-
+to-taint-chile-fish-farm-industry. See ASC certification at marineharvest.
+com/globalassets/planet/asc-dashboard/chile/punta-redonda/2018/pta.-
+redonda-2018-mayo.pdf.
+
+Carting Away the Oceans   43
+
+36 Malakoff, David. “Trump’s New Oceans Policy Washes Away Obama’s Emphasis
+on Conservation and Climate.” Science | AAAS 20 June 2018. www.sciencemag.
+org/news/2018/06/trump-s-new-oceans-policy-washes-away-obama-s-
+emphasis-conservation-and-climate.
+
+37 Huffman, Jason. “US House Approves Young’s Magnuson-Stevens Update after
+Sticky Provision Cut.” Undercurrent News 12 July 2018. www.undercurrentnews.
+com/2018/07/12/us-house-approves-youngs-magnuson-stevens-update-
+after-sticky-provision-cut.
+
+59 World Economic Forum and Ellen MacArthur Foundation. The New Plastics
+Economy: Catalysing Action. 2017. www.ellenmacarthurfoundation.org/assets/
+downloads/New-Plastics-Economy_Catalysing-Action_13-1-17.pdf.
+
+60 Luo, Kevin. “Are You Breathing Plastic Air at Home? Here’s How Microplastics Are
+Polluting Our Lungs.” World Economic Forum. 4 June 2018. www.weforum.org/
+agenda/2018/06/microplastic-pollution-in-air-pollutes-our-lungs.
+
+61 See the Break Free From Plastic website: www.breakfreefromplastic.org.
+
+38 Masterton, Molly. “Congress Is About to Gut the Law That Restored Our
+Fisheries.” NRDC. 10 July 2018. www.nrdc.org/experts/molly-masterton/
+congress-about-gut-law-restored-our-fisheries.
+
+62 Ipsos Global @dvisor. “Global Views on the Environment—2018.” 2018. www.
+ipsos.com/sites/default/files/ct/news/documents/2018-05/earth_day-2018.
+pdf.
+
+39 Greenpeace International. “Thai Union Commits to More Sustainable, Socially-
+Responsible Seafood.” 11 Jul. 2017. www.greenpeace.org/international/press-
+release/7207/thai-union-commits-to-more-sustainable-socially-responsible-
+seafood.
+
+40 Environmental Justice Foundation. Pirates and Slaves, p. 5.
+
+41 Greenpeace Southeast Asia. Turn the Tide.
+
+42 Greenpeace International. “Thai Union Commits to More Sustainable, Socially-
+Responsible Seafood.”
+
+43 Hocevar, John. “Mars and Nestlé Just Stepped Up to Protect the Ocean
+and Workers. Here’s How.” Greenpeace International. 16 Mar. 2017. www.
+greenpeace.org/archive-international/en/news/Blogs/makingwaves/mars-
+and-nestle-petfood-protect-the-oceans-stop-transshipment/blog/58957.
+
+44 Ibid.
+
+45 Aramark. “Aramark Reports Progress on Sustainable Seafood Sourcing
+Goals.” Business Wire 12 Oct. 2017. www.businesswire.com/news/
+home/20171012005867/en/Aramark-Reports-Progress-Sustainable-Seafood-
+Sourcing-Goals.
+
+46 ALDI US. “ALDI US Seafood Buying Policy.” 2016. corporate.aldi.us/
+fileadmin/fm-dam/Corporate_Responsibility2/ALDI_US_Seafood_Buying_
+Policy__2016_update__FOR_WEBSITE_1_.PDF.
+
+47 Wegmans. “Wegmans Tuna Procurement Policy.” July 2016. www.wegmans.
+com/content/dam/wegmans/pdf/sustainability/Tuna-Procurement-Policy.
+pdf.
+
+63 The David and Lucile Packard Foundation. “American Millennials: Plastic
+Pollution as the Gateway to Engaging the Next Generation of Ocean
+Conservationists.” May 2017. www.packard.org/insights/resource/millennial-
+ocean-plastics-research-plastics-gateway-engaging-next-generation-ocean-
+conservationists.
+
+64 International Maritime Organization. GESAMP Report 90: Sources, Fate,
+and Effects of Microplastics in the Marine Environment: A Global Assessment.
+2015. ec.europa.eu/environment/marine/good-environmental-status/
+descriptor-10/pdf/GESAMP_microplastics%20full%20study.pdf.
+
+65 Both Bumble Bee and StarKist source tuna from purse seines fishing on FADs
+and longlines, which result in high levels of bycatch. While Bumble Bee offers
+a more sustainable, pole and line caught brand, this is a niche product that is
+not under its flagship brand. StarKist has been associated with poor working
+conditions on vessels from which it sources and, given several incidences of labor
+and human rights abuses in the seafood industry, including the tuna sector,
+companies that do not source from fishing methods that mitigate the risks of
+labor or human rights abuses remain at risk. For more, see www.bumblebee.
+com/about-us/seafood-school/tuna-101/; starkist.com/sites/default/files/
+contentImages/Tuna_Facts_Infographics.pdf; medium.com/matter/mutiny-
+on-the-majestic-blue-80e3d2fbb345; www.greenpeace.org/usa/these-are-
+the-videos-the-tuna-industry-doesnt-want-you-to-see/; www.alternet.org/
+labor/why-its-almost-impossible-avoid-being-complicit-slavery-when-you-
+buy-tuna-fish.
+
+66 Monterey Bay Aquarium Seafood Watch. “The Seafood Watch App.” www.
+seafoodwatch.org/seafood-recommendations/our-app.
+
+67 This includes Whole Foods sales and other consumables purchased on
+Amazon.com.
+
+48 Giant Eagle. “Tuna Policy.” 2018. www.gianteagle.com/about-us/sustainable-
+seafood/tuna-policy.
+
+68 Whole Foods Market. “Sustainable Canned Tuna.” www.wholefoodsmarket.
+com/sustainable-canned-tuna.
+
+49 Sprouts Famers Market. “Sustainable Seafood Policy.” about.sprouts.com/
+sustainable-sourcing/sustainable-seafood-policy.
+
+50 Like this 2018 letter circulated to tuna RFMOs: White, Cliff. “118 Organizations
+Make Sustainability Appeal for Global Tuna Fisheries.” SeafoodSource 18 May
+2018. www.seafoodsource.com/news/environment-sustainability/118-
+organizations-make-sustainability-appeal-for-global-tuna-fisheries.
+
+51 World Economic Forum. The New Plastics Economy.
+
+52 van Sebille, Erik, et al. “A Global Inventory of Small Floating Plastic Debris.”
+Environmental Research Letters vol. 10, no. 12, 8 Dec. 2015, p. 124006.
+doi:10.1088/1748-9326/10/12/124006.
+
+53 Katzenberger, T., and K. Thorpe. Evidence: Assessing the Impact of Exposure to
+Microplastics in Fish. United Kingdom Environment Agency, Report—SC120056.
+Mar. 2015. assets.publishing.service.gov.uk/government/uploads/system/
+uploads/attachment_data/file/411982/Assessing_the_impact_of_exposure_
+to_microplastics_in_fish_report.pdf.
+
+54 Rochman, Chelsea M., et al. “Anthropogenic Debris in Seafood: Plastic Debris
+and Fibers from Textiles in Fish and Bivalves Sold for Human Consumption.”
+Scientific Reports vol. 5, no. 1, 24 Sept. 2015. doi:10.1038/srep14340.
+
+55 Carrington, Damian. “Plastic Fibres Found in Tap Water around the
+World, Study Reveals.” The Guardian 6 Sept. 2017. www.theguardian.com/
+environment/2017/sep/06/plastic-fibres-found-tap-water-around-world-
+study-reveals.
+
+56 Laville, Sandra, and Matthew Taylor. “A Million Bottles a Minute: World’s Plastic
+Binge ‘as Dangerous as Climate Change.’” The Guardian 28 June 2017. www.
+theguardian.com/environment/2017/jun/28/a-million-a-minute-worlds-
+plastic-bottle-binge-as-dangerous-as-climate-change.
+
+57 United Nations Environment Programme. UNEP Year Book 2011.
+
+58 United States Environmental Protection Agency. Advancing Sustainable
+Materials Management: 2014 Tables and Figures. 2016. www.epa.gov/sites/
+production/files/2016-11/documents/2014_smm_tablesfigures_508.pdf.
+
+69 Hy-Vee. “100 Percent of Hy-Vee’s Private-Brand Shelf-Stable Tuna Products Are
+Now Responsibly Sourced.” Hy-Vee Corporate News 28 Dec. 2017. www.hy-vee.
+com/corporate/news-events/news-press-releases/private-brand-tuna-now-
+responsibly-sourced.
+
+70 Whole Foods Market. “Sustainable Canned Tuna.”
+
+71 Trygg Mat Tracking. “Combined IUU Vessel List.” 2018. iuu-vessels.org/iuu.
+
+72 Hy-Vee. “Seafoodies: A Responsible Choice Blog.” seafoodies.hy-vee.com.
+
+73 Rohrs, John. “Hy-Vee Commits to Healthy Oceans by Refusing to Sell Chilean
+Sea Bass.” Hy-Vee Seafoodies. 10 Feb. 2015. seafoodies.hy-vee.com/hy-vee-
+commits-to-healthy-oceansby-refusing-to-sell-chilean-sea-bass.
+
+74 Murphy, Sean, ed. “New Report Highlights Threatened Species Bycatch Issues
+in Global Longline Tuna Fishing, Urges Action.” Sustainable Fisheries Partnership.
+29 Mar. 2018. www.sustainablefish.org/News/New-report-highlights-
+threatened-species-bycatch-issues-in-global-longline-tuna-fishing-urges-
+action.
+
+75 ALDI US. “Ethical Working Conditions.” 2018. corporate.aldi.us/en/corporate-
+responsibility/supply-chain/ethical-working-conditions.
+
+76 Vidal, John. “Salmon Farming in Crisis: ‘We Are Seeing a Chemical Arms
+Race in the Seas.’” The Guardian 1 Apr. 2017. www.theguardian.com/
+environment/2017/apr/01/is-farming-salmon-bad-for-the-environment. Also
+see endnote 35, which notes the July 2018 escape of 900,000 farmed salmon from
+an ASC certified Marine Harvest facility in Chile.
+
+77 Even Norwegian salmon farms are not problem-free (e.g., sea lice, salmon
+escapes). See www.nytimes.com/2017/11/06/world/europe/salmon-norway-
+fish-farms.html.
+
+78 Target. “Target Sustainable Seafood Policy.” corporate.target.com/_media/
+TargetCorp/csr/pdf/Target-Sustainable-Seafood-Policy.pdf.
+
+79 Wegmans. “Seafood Sustainability.” 2018. www.wegmans.com/about-us/
+making-a-difference/sustainability-at-wegmans/seafood-sustainability.
+html.
+
+Carting Away the Oceans   44
+
+80 Wegmans. “GMOs.” 2018. www.wegmans.com/service/faq/gmos.html.
+
+81 Wegmans clarifies on its website that it does not currently carry GMO salmon,
+noting that “signing pledges is not something we ever do” (see endnote 80).
+Although Wegmans has made pledges before—it says so directly in its seafood
+policy, committing not to source seafood from the Ross Sea (see endnote 79),
+which Greenpeace has praised as strong leadership. Semantics aside, Wegmans
+should join a majority of retailers profiled in this report and stipulate it will never
+sell GMO seafood.
+
+82 Albertsons Companies. “Albertsons Companies Partners with Trace Register to
+Elevate Seafood Traceability.” GlobeNewswire 6 Mar. 2018. globenewswire.com/
+news-release/2018/03/06/1416071/0/en/Albertsons-Companies-Partners-
+with-Trace-Register-to-Elevate-Seafood-Traceability.html.
+
+106 Southeastern Grocers. “Southeastern Grocers Becomes the First North
+American Retail Member of the International Pole & Line Foundation.” Business
+Wire 21 Apr. 2017. www.businesswire.com/news/home/20170421005147/en/
+Southeastern-Grocers-North-American-Retail-Member-International.
+
+107 H-E-B. “H-E-B Seafood Policy.” www.heb.com/static-page/article-template/
+H-E-B-Seafood-Policy.
+
+108 H-E-B. “Seafood Frequently Asked Questions.” www.heb.com/static-pages/
+faq?page=Seafood-FAQ.
+
+109 “MSC Attacked over Certification of NZ Orange Roughy.” Undercurrent News
+8 Dec. 2016. www.undercurrentnews.com/2016/12/08/msc-attacked-over-
+certification-of-nz-orange-roughy.
+
+83 Albertsons Companies. “GMOs.” 2018. albertsonscompanies.com/gmos.
+
+110 WWF Global. “WWF Disappointed about Certification.”
+
+84 Albertsons Companies. “Albertsons Companies Marks World Oceans Day by
+Taking Actions to Fulfill Our Pledge to End Use of Eel in Sushi.” 3BL Media. 8 June
+2018. 3blmedia.com/News/Albertsons-Companies-Marks-World-Oceans-Day-
+Taking-Actions-Fulfill-our-Pledge-End-Use-Eel-Sushi.
+
+85 White. “118 Organizations Make Sustainability Appeal.”
+
+86 Ibid.
+
+87 McDowell, Robin, et al. “AP Investigation: Fish Billed as Local Isn’t Always Local.”
+AP News 15 June 2018. apnews.com/73646ad2aaac4666a7124806b2e6a5bc.
+
+88 This accounts for Kroger’s grocery retail operations: www.thekrogerco.com/
+about-kroger/our-business.
+
+89For a complete list of Kroger’s retailer operations, visit www.thekrogerco.com/
+about-kroger/our-business.
+
+90 Low, Elaine. “Kroger’s Newest Weapon In Online Grocery Delivery Wars: British
+Robots.” Investor’s Business Daily 17 May 2018. www.investors.com/news/
+krogers-ocado-online-grocery-delivery-british-robots.
+
+91 WWF Global. “WWF Disappointed about Certification of New Zealand
+Orange Roughy Fishery.” 8 Dec. 2016. wwf.panda.org/wwf_news/press_
+releases/?287431/WWF-disappointed-about-certification-of-New-Zealand-
+orange-roughy-fishery.
+
+111 McDowell et al. “AP Investigation: Fish Billed as Local Isn’t Always Local.”
+
+112 White. “118 Organizations Make Sustainability Appeal.”
+
+113 As of this writing, Price Chopper’s sustainable seafood policy is not available
+on its newly designed website. The policy is slated to be published on the new
+website in the coming months.
+
+114 The Save Mart Companies. “A Commitment to Seafood Sustainability.” 2018.
+www.thesavemartcompanies.com/social-responsibility/sustainability/
+seafood.
+
+115 McDowell et al. “AP Investigation: Fish Billed as Local Isn’t Always Local.”
+
+116Trygg Mat Tracking. “Combined IUU Vessel List.” 2018.
+
+117 White. “118 Organizations Make Sustainability Appeal.”
+
+118 Wakefern Food Corp. “Who We Are.” www2.wakefern.com/home/who-we-
+are.
+
+119 ShopRite. “Seafood 101—ShopRite.” www.shoprite.com/seafood101.
+
+120 Wakefern Food Corp. “Wakefern Launches Sustainable Seafood Program.” 17
+Jan. 2014. newsroom.wakefern.com/wakefern/news/wakefern-launches-
+sustainable-seafood-program.htm.
+
+92 The Kroger Co. “Social Compliance Program Requirements.” Jul. 2018. www.
+thekrogerco.com/wp-content/uploads/2018/07/The-Kroger-Co._Social-
+Compliance-Program_2018-July.pdf.
+
+121 “ShopRite Commits to Source Four-Star BAP Certified Seafood Products.”
+SeafoodNews 29 Feb. 2016. www.seafoodnews.com/Story/1009928/ShopRite-
+Commits-to-Source-Four-Star-BAP-Certified-Seafood-Products.
+
+122 Ritacco, Joseph, and Stephanie Romine. “ShopRite Is Making It Easier to Eat
+More Fish.” North Jersey.com. 17 May 2018, www.northjersey.com/story/
+sponsor-story/shoprite/2018/05/17/shoprite-offers-variety-sustainable-
+seafood/618791002.
+
+123 Greenpeace USA. “FADs—Scourge of the Sea.” 28 Nov. 2011. www.greenpeace.
+org/usa/fads-scourge-of-the-sea.
+
+124 Bours, Helene, et. al. Out of Line: The Failure of the Global Tuna Longline
+Fisheries. Greenpeace International. Nov. 2013. www.greenpeace.org/new-
+zealand/publication/out-of-line-the-failure-of-the-global-tuna-longline-
+fisheries.
+
+125 International Pole & Line Foundation. “What We Do: More about One-by-One
+Fishing.” 2018. ipnlf.org/what-we-do/resources/what-is-one-by-one-fishing.
+
+126 Pew Trusts. “FAQ: What Is a Regional Fishery Management Organization?”
+23 Feb. 2012. www.pewtrusts.org/en/research-and-analysis/fact-
+sheets/2012/02/23/faq-what-is-a-regional-fishery-management-
+organization.
+
+93 Greenpeace USA. “2017 Tuna Shopping Guide.”
+
+94 As of February 24, 2018.
+
+95 Walmart Corporate. “Walmart Policies and Guidelines.” 2018. corporate.
+walmart.com/policies.
+
+96 Pinsky, David. “Walmart Defends Its Destructive Canned Tuna as Tesco Takes
+Action.” Greenpeace USA. www.greenpeace.org/usa/campaign-updates/
+walmart-defends-destructive-canned-tuna-tesco-takes-action.
+
+97 Trader Joe’s. “FAQs: Product Information.” www.traderjoes.com/faqs/
+general-information?categoryid=2.
+
+98 Ibid.
+
+99 Trader Joe’s. “Legal Stuff: California Transparency in Supply Chains Act of
+2010.” 29 Dec. 2011. www.traderjoes.com/home/CA-Transparency-In-Supply-
+Chains-Act-Of-2010.
+
+100 Center for Biological Diversity. “Trader Joe’s Stops Buying Mexican Shrimp
+After Pressure to Protect Vaquita.” EcoWatch 12 Oct. 2017. www.ecowatch.com/
+trader-joe-mexican-shrimp-2495881800.html.
+
+101 Esposito, Anthony. “Addicted to Antibiotics, Chile’s Salmon Flops at Costco,
+Grocers.” Reuters 23 July 2015. www.reuters.com/article/us-chile-salmon-
+antibiotics-feature/addicted-to-antibiotics-chiles-salmon-flops-at-costco-
+grocers-idUSKCN0PX1IG20150723.
+
+102 Kirkland Signature. “Follow the Path to Traceability.” www.
+tracemyalbacoretuna.com.
+
+103 Bode, Laura. “There’s a New Tuna in Town.” Costco Connection vol. 30: 78-79,
+Feb. 2015. www.costcoconnection.com/connection/201502?pg=92#pg92.
+
+104 Formerly Bi-Lo Holdings, and prior to that, evaluated as Winn-Dixie.
+
+105 White. “118 Organizations Make Sustainability Appeal for Global Tuna
+Fisheries.”
+
+Carting Away the Oceans   45
+
+© Will Rose / Greenpeace
+
+Carting Away the Oceans   46
+

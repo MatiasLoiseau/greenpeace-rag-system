@@ -1,0 +1,1020 @@
+Fisheries Observers are Human
+Rights Defenders on the World’s
+Oceans
+
+I.
+
+Introduction
+
+Fisheries observers are human rights defenders on the world’s oceans. These
+individuals work independently onboard commercial fishing vessels around the world
+to collect scientific data on the state of the marine environment, and in some
+instances report on compliance with fisheries conservation and management
+measures. The data they provide is crucial to assess fish populations, determine
+sustainable catch levels and to the conservation of the marine ecosystems that
+fisheries rely on. Without the data, information and third-party insight on fishing
+activities that fisheries observers provide—along with the effective follow up on their
+reports—the right to a healthy and sustainable environment, the right to life, the right
+to health, the right to food, and the livelihoods of billions of people would be even
+more threatened.1 Fisheries observers risk their lives defending not only our human
+rights related to the environment but the environment on which our human rights
+depend.
+
+Fisheries observers are arguably some of the most isolated human rights defenders
+in the world. They work alone alongside the fisheries crew for weeks at a time
+onboard fishing vessels far from shore or their home countries. Fisheries observers
+have faced intimidation, threats, and have even disappeared or been killed while on
+the job, but the international, national, and corporate policy responses have been
+woefully lacking.2 Newly-appointed Special Rapporteur on the Situation of Human
+Rights Defenders, Mary Lawlor, recently stated she wants to focus particular
+attention on isolated and vulnerable human rights defenders.3 The time is now for
+international recognition of the important human rights work that fisheries observers
+conduct and to reform policies to ensure their protection.
+
+In this briefing note, Greenpeace US explains:
+
+1 Read D. Porter, Fisheries Observers as Enforcement Assets: Lessons from the North Pacific, 34 Marine Pol’y
+583 (2010).
+2 Human Rights at Sea, “Investigative Report and Case Study: Fisheries Abuses and Related Deaths at Sea in
+the Pacific Region” (2017); Association for Professional Observers, “Catalogue of Observer Casualties, Injuries,
+and Near Misses” (2020).
+3 Institute for Human Rights and Business, Mary Lawlor on Human Rights Defenders, Voices IHRB (May 27,
+2020), https://www.youtube.com/watch?v=9QSvtALQ9aA.
+
+1
+
+1)  who are human rights defenders;
+2)  why fisheries observers are human rights defenders;
+3)  what special protections are fisheries observers entitled to as human rights
+defenders and what obligations do states (and private actors) have in
+safeguarding those protections; and
+
+4)  what are current shortcomings and gaps in the protection of fisheries
+
+observers.
+
+Finally, we offer several recommendations to adequately protect fisheries observers
+as key human rights defenders.
+
+II.  Who are Human Rights Defenders?
+
+Human rights defenders are individuals or groups that are working towards the
+promotion and protection of any human right, including human rights relating to the
+environment, and the protection of the environment on which the enjoyment of
+human rights depend as well. Human rights defenders can be professionals,
+volunteers or everyday people, and work globally on a diverse range of human rights
+issue areas, including the right to life, food, and water, adequate housing, political
+rights, freedom of expression, freedom of information, and non-discrimination.4
+According to Principle 4 of the Framework Principles on Human Rights and the
+Environment ("Framework Principles"):5
+
+“Human rights defenders include individuals and groups
+who strive to protect and promote human rights relating
+to the environment (see A/71/281, para. 7). Those who
+work to protect the environment on which the enjoyment
+of human rights depends are protecting and promoting
+human rights as well, whether or not they self-identify as
+human  rights  defenders.  They  are  among  the  human
+rights  defenders  most  at  risk,  and  the  risks  are
+particularly acute for indigenous peoples and traditional
+communities that depend on the natural environment for
+their subsistence and culture.”
+
+4 Office of the UN High Commissioner for Human Rights (OHCHR), “Human Rights Defenders: Protecting the
+Right to Defend Human Rights” 2 (2004).
+5 John Knox, Framework Principles on Human Rights and the Environment (United Nations Human Rights
+Special Procedures 2018) [hereinafter “Framework Principles”].The Framework Principles on Human Rights
+and the Environment, compiled by the UN Special Rapporteur on Human Rights and the Environment, outline
+state and international obligations to ensure our collective enjoyment of a clean, safe, healthy, and sustainable
+environment.26 Fisheries observers are the frontline defenders of these international environmental human
+rights on the oceans. The Framework Principles pull together environmental human rights and obligations from
+various international human rights treaties, conventions, and resolutions, several of which directly link to
+fisheries observer duties.
+
+2
+
+Environmental human rights defenders (EHRDs), “help to protect the environment –
+and the rights that depend upon it – from unsustainable exploitation”6 and as such,
+fisheries observers fall precisely within this definition and are deserving of the same
+internationally recognized protections as all human rights defenders when carrying
+out their work.7
+
+“Human rights defenders are identified above all by what they do and it is through a
+description of their actions . . . and of some of the contexts in which they work . . .
+that the term can best be explained.”8 The next section explains in detail the duties
+that fisheries observers perform and how the impact of their work renders them
+Human Rights Defenders.
+
+III.  Why are Fisheries Observers Human
+
+Rights Defenders?
+
+The nature and scope of the work of fisheries observers as well the impact of this
+work is of critical importance to the sustainability of fisheries, healthy ecosystems,
+and all of the human rights on which they depend. Through diverse mandates on
+different types of vessels and for the protection of diverse species, fisheries
+observers conduct scientific work and at times also carry out monitoring, control and
+surveillance duties. They ensure our environmental human rights on the oceans.
+
+A.  The work of fisheries observers
+
+As of 2017, there were an estimated 2,500 fisheries observers working worldwide.9
+They work on all kinds of commercial fishing vessels, with diverse species, and at
+the national, regional, and international levels.10 Fisheries observers are often
+employed through national government agencies,11 third-party contractors,12 or
+regional observer programs.13 Most international bodies tasked with managing and
+
+6 John Knox, Environmental Human Rights Defenders: A Global Crisis, Universal Rights Group (2017), 1.
+7 For more on EHRDs, see Report of the Special Rapporteur on the Situation of Human Rights Defenders
+(A/71/281) (Aug. 3, 2016).
+8 United Nations Office of the High Commissioner of Human Rights (OHCHR), “Who Is A Defender?”
+https://www.ohchr.org/EN/Issues/SRHRDefenders/Pages/Defender.aspx.
+9 Tom Knudson, He Was Supposed to Protect the Sea. Then He Vanished from His Ship, Reveal (Ctr. for
+Investigative Reporting 2017), https://www.revealnews.org/article/he-was-supposed-to-protect-the-sea-then-he-
+vanished-from-his-ship/.
+10 Sandy L. Davies, Guidelines for Developing an At-Sea Fishery Observer Programme, FAO Fisheries
+Technical Paper (2003).
+11 National Oceanic and Atmospheric Administration, National Observer Program Fact Sheet, NOAA Fisheries
+(April 2, 2020).
+12 National Oceanic and Atmospheric Administration, Observer Employers, NOAA Fisheries (2020),
+https://www.fisheries.noaa.gov/national/fisheries-observers/observer-employers.
+13 Pacific Islands Forum Fisheries Agency, FFA Observer Program (2008).
+
+3
+
+conserving shared fish stocks straddling national boundaries or in the high seas
+beyond national jurisdiction, known as “Regional Fisheries Management
+Organizations" (RFMOs), require some form of observer program.14
+
+The objectives of observer programs vary from purely scientific data collection to
+active monitoring, control, and surveillance (MCS). Scientific tasks include biological
+sampling and reporting on catch composition, size, sex, and maturity for stock
+assessments to determine maximum sustainable yield and future catch allocations.
+MCS tasks can include reporting on compliance with by-catch measures,15 marine
+mammal, sea turtle, and shark protection provisions, gear and species restrictions,
+catch log verifications, monitoring of transshipments at-sea,16 waste and fishing gear
+disposal, and sightings of unauthorized vessels. Only four of 17 RFMOs reviewed in
+a recent study primarily task fisheries observers with a mandate that officially
+includes compliance monitoring, but most observer programs include a mix of
+scientific data collection and conservation measure reporting duties.17 Under RFMO
+regulations, fisheries observers identify violations of conservation and management
+measures and it is up to the flag state to take appropriate actions.18
+
+Fisheries observers also play a vital role in preventing overfishing and illegal fishing,
+regardless of whether they have a purely scientific focus or an active MCS mandate.
+Overexploitation and declining fish populations continue to threaten marine life and
+seafood resources,19 and over two-thirds of RFMO-managed fisheries are
+considered to be depleted or overfished.20 Illegal, unreported, and unregulated (IUU)
+fishing is one of the main contributors to fish population decline, and threatens our
+collective right to a sustainable marine environment.21 One study estimated that
+between 20 and 32 percent of wild-caught seafood imported into the United States in
+2014 was harvested illegally.22 Fisheries observers are often the only independent
+monitors of activities occurring onboard commercial fishing vessels and are critical to
+determining sustainable fishing quotas and ecosystem-based fisheries
+
+14 Christopher Ewell, John Hocevar, Elizabeth Mitchell, Samantha Snowden, & Jennifer Jacquet, An Evaluation
+of Regional Fisheries Management Organization At-Sea Compliance Monitoring and Observer Programs, 115
+Marine Pol’y 103842 (2020).
+15 By-catch refers to all species captured by the fishery other than the target species, which are either discarded
+or retained for food, fishmeal, or other industrial purposes. By-catch is often a large portion of the catch and
+inadequate management of by-catch and discards threatens fisheries worldwide. See Eric L. Gilman, Bycatch
+Governance and Best Practice Mitigation Technology in Global Tuna Fisheries, 35 Marine Pol’y 590 (2011).
+16 Transshipment at-sea refers to the offloading of fisheries catch on the water, often from a fishing vessel to a
+refrigerated cargo vessel. The refrigerated cargo vessel then lands the catch of multiple fishing vessels in port.
+This practice has been criticized for facilitating the laundering of IUU fish, trade in other illicit goods, and
+human trafficking. See Christopher Ewell, Sarika Cullis-Suzuki, Mikaela Ediger, John Hocevar, Dana Miller, &
+Jennifer Jacquet, Potential Ecological and Social Benefits of a Moratorium on Transshipment on the High
+Seas, 81Marine Pol’y 293 (2017).
+17 Ewell et al. (2020), supra note 14.
+18 Judith Swan, Fishing Vessels Operating Under Open Registers and the Exercise of Flag State
+Responsibilities, FAO Fisheries Circular (2002).
+19 Daniel Pauly & Dirk Zeller, Catch Reconstructions Reveal that Global Marine Fisheries Catches are Higher
+Than Reported and Declining, 6 Nature Communications (2016).
+20 Sarika Cullis-Suzuki & Daniel Pauly, Global Evaluation of High Seas Fisheries Management, in Global
+Atlas of Marine Fisheries: A Critical Appraisal Of Catches And Ecosystem Impacts 76-77 (2016).
+21 Id.
+22 Pramod Ganapathiraju, et al., Estimates of Illegal and Unreported Fish in Seafood Imports to the USA, 48
+Marine Pol’y 102, 105 (2014).
+
+4
+
+management.23 While some fishery bodies currently require 100 percent observer
+coverage onboard fishing vessels,24 many fisheries require observers on only a
+small percentage of fishing vessels for sampling data, which has been criticized as
+insufficient, improperly enforced,25 and subject to bias.26
+
+In spite of these official impediments, fisheries observers play a significant role in
+diminishing IUU fishing. In a recent doctoral dissertation, criminologist Gohar
+Petrossian showed that “countries that had strong observer schemes in place were
+significantly less likely to experience high degrees of illegal fishing within their
+territorial waters than those that had insufficient or no such schemes in place.”27 In
+just one American fisheries management zone, between 2000 and 2002, observers
+reported 590 violations, leading one federal official to conclude, “the importance of
+documenting and reporting [violations] cannot be overemphasized and should be
+included in all regulatory regimes.”28 A full 36.2 percent of their reports led to a “final
+penalty,”29 including “a warning; forfeiture; or financial penalty or settlement.”30
+Another scholar, Pramod Ganapathiraju, noted, “Fisheries observers can serve as
+deterrent to fisheries violations by their mere presence onboard fishing vessels,
+while collecting scientific data for fisheries management at the same time.”31
+
+B.  The United Nations’ current understanding of human
+
+rights defenders
+
+Although the UN has yet to recognize fisheries observers as human rights
+defenders, there is room for their inclusion and any concerns about excessively
+broadening the definition of human rights defenders in the process would be
+misplaced. The UN does not recognize human rights defenders categorically, but
+rather functionally (based on their specific activities). Consider, for instance, the
+classification of journalists. According to OHCHR, journalists are not necessarily
+human rights defenders in “their general role” (i.e. gathering information and
+disseminating it to the public), but “many journalists do act as defenders, for example
+
+23 Eric Gilman, Mariska Weijerman & Petri Suuronen, Ecological Data from Observer Programmes Underpin
+Ecosystem-Based Fisheries Management, 74 ICES J. of Marine Sci. 1481 (2017).
+24 Northwest Atlantic Fisheries Organization, Chapter V: Observer Scheme, Conservation and Enforcement
+Measures 2019, NAFO/COM Doc. 19–01 (2019).
+25 The Pew Charitable Trusts, “A Review of Longline Observer Coverage Reporting within the Inter-American
+Tropical Tuna Commission” (2019).
+26 E. Babcock, E. Pikitch & C. G. Hudson, How Much Observer Coverage Is Enough to Adequately Estimate
+By-Catch?, Report of the Pew Institute for Ocean Science, Rosentiel School of Marine and Atmospheric
+Science, University of Miami (2003).
+27 Gohar Petrossian, “The Decision to Engage in Illegal Fishing: An Examination of Situational Factors in 54
+Countries” 166 (Ph.D. dissertation, Rutgers, 2012). See also id. at 69.
+28 Quoted in Porter, supra note 1, at 584.
+29 Id. at 587.
+30 Id. at 585.
+31 Pramod Ganapathiraju, “Illegal and Unreported Fishing: Global Analysis of Incentives and a Case Study
+Estimating Illegal and Unreported Catches from India” 52 (Ph.D. dissertation, University of British Columbia,
+2012). See also William A. Karp, et al., Strategies Used Throughout the World to Manage Fisheries Discards,
+in The European Landing Obligation: Reducing Discards in Complex, Multi-Species and Multi-Jurisdictional
+Fisheries 19 (Sven Uhlmann et al., eds., 2019).
+
+5
+
+when they report on human rights abuses and bear witness to acts that they have
+seen.”32 Thus, although the “UN does not consider journalists to be H[uman] R[ights]
+D[efender]s per se . . . those journalists who promote human rights would logically
+be considered H[uman] R[ights] D[efender]s.”33 Journalists who promote human
+rights are those who, “through their activities . . . strive to protect the rights of
+others.”34 Similarly, those fisheries observers who strive to protect human rights and
+the resilience of the seas on which human rights rely would properly be classified as
+human rights defenders. In contrast to journalists, however, the defense of
+environmental human rights is inherent in the role of fisheries observers.
+
+Further, as the legal scholar Yvonne Donders has noted, although the UN’s definition
+of human rights defenders is quite broad—broad enough to “include a large
+collection and variety of persons, groups, organisations, and institutions”—the
+“broadness of this definition should not disguise the fact that some human rights
+defenders are much more vulnerable than others and in need of protection.”35 In
+other words, not all human rights defenders are entitled to heightened protection
+simply because they are human rights defenders; rather, they are in special need of
+protection when their human rights defense renders them especially vulnerable to
+danger. In the case of journalists, the UN considers those journalists who report on
+human rights to be “among those [defenders] most at risk,” and therefore they are
+entitled to heightened protection.36 Because fisheries observers are, by definition,
+stationed far from the land and surrounded by potential antagonists, their role
+renders them especially imperiled; they are entitled to heightened protection as such.
+
+Fisheries observers are properly understood as among the most at-risk
+environmental human rights defenders (EHRDs).37 Perhaps the environmental
+human rights defenders most analogous to fisheries observers are park rangers.
+Just as fisheries observers safeguard the resilience of the seas and prevent IUU
+fishing, park rangers safeguard the resilience of the forests and prevent illegal
+logging, poaching, and oil exploration. Just as fisheries observers are at risk of
+intimidation or even murder from those with a financial interest in the impunity of the
+fishing industry, park rangers too must endure threats, bribery, unjustified arrests,
+and even murder. In the Democratic Republic of Congo, for instance, poachers,
+extractive industries, and complicit government officials have threatened numerous
+rangers seeking to protect Virunga National Park, and at least ten were murdered in
+
+32 OHCHR, “Who Is a Defender?” supra note 8.
+33 Tamsin Mitchell, Journalists as Human Rights Defenders: International Protection of Journalists in Contexts
+of Violence and Impunity, in Reporting Human Rights, Conflicts, and Peacebuilding: Critical and Global
+Perspectives 224-25 (Ibrahim Seaga Shaw & Senthan Selvarajah, eds., 2019). See also UNHRC, Report of the
+Special Rapporteur on Extrajudicial, Summary or Arbitrary Executions of Journalist Killings, para. 27
+(A/HRC/20/22) (2012).
+34 Mitchell, supra note 33, at 225.
+35 Yvonne Donders, Defending the Human Rights Defenders, 34 Neth. Q. Hum. Rts. 282, 283 (2016).
+36 Mitchell, supra note 33, at 225.
+37 Global Witness, “Defenders of the Earth: Global Killings of Land and Environmental Defenders in 2016,” at
+4 (quoting John Knox as describing EHRDs as those who “work to ensure that we live in an environment that
+enables us to enjoy our basic rights, including rights to life and health”). For more on EHRDs, see Jennifer M.
+Gleason & Elizabeth Mitchell, Will the Confluence Between Human Rights and the Environment Continue to
+Flow? Threats to the Rights of Environmental Defenders to Collaborate and Speak Out, 11 Or. Rev. Int’l L. 267
+(2009).
+
+6
+
+2016 alone.38 Dozens more park rangers were murdered in the years that followed,
+many in the Philippines for attempting to prevent illegal logging; the Romanian
+forestry union has recorded over 650 physical assaults, death threats, and other acts
+of abuse targeted at rangers.39 This has led human rights organizations, including
+Human Rights Watch and Global Witness, to advocate for their protection as
+especially threatened defenders.40
+
+In sum, the work of fisheries observers is critical to the sustainable long-term
+management and conservation of fish populations and food security, upon which
+human rights depend. This dovetails with the global movement pushing the United
+Nations to recognise a right to a healthy environment.41 The right to a healthy
+environment is inextricably linked to the right to a secure and stable source of food;
+observers are vital to securing both of these rights. Understanding observers as
+human rights defenders would properly recognize the vital roles they play, and it
+would be squarely within the United Nations’ understanding of this category.
+
+IV.
+
+Impact on the Protection of Human Rights
+
+The work conducted by fisheries observers is critically important for safeguarding
+many rights at the domestic, regional and international level. The right to food and to
+a healthy environment are, for example, among the human rights that the work of
+fisheries observers helps advance.
+
+A.  Right to food
+
+In line with the UN Framework Principles’ obligation on states to ensure a healthy
+and sustainable environment to protect human rights,42 fisheries observers are key
+frontline defenders of the right to food. The International Covenant on Economic,
+Social and Cultural Rights (ICESCR) codifies the right to adequate food, as well as
+the obligation to make “full use of technical and scientific knowledge” on the “efficient
+
+38 See Global Witness, Defenders of the Earth, supra note 37, at 8, 18-19. For more on this, see DR Congo:
+Investigate Attacks on Oil Project Critics, Human Rights Watch (June 4, 2014),
+https://www.hrw.org/news/2014/06/04/dr-congo-investigate-attacks-oil-project-critics; Ida Sawyer, Dispatches:
+Congo’s Virunga Park Rangers, Activists Still Need Justice, Human Rights Watch (June 11, 2014),
+https://www.hrw.org/news/2014/06/11/dispatches-congos-virunga-park-rangers-activists-still-need-justice.
+39 Global Witness, “Defending Tomorrow: The Climate Crisis and Threats Against Land and Environmental
+Defenders” 29, 33-34, 41 (2020).
+40 See id.
+41 Center for International Environmental Law, “The Time is Now! Global Call for the UN Human Rights
+Council to Urgently Recognise the Right to a Safe, Clean, Healthy and Sustainable Environment” (2020),
+https://www.ciel.org/wp-content/uploads/2020/09/Global-Call-for-the-UN-to-Recognize-the-Right-to-a-
+Healthy-Environment-English.pdf. See also Report of the Special Rapporteur on the Issue of Human Rights
+Obligations Relating to the Enjoyment of a Safe, Clean, Healthy and Sustainable Environment (A/73/188) (July
+19, 2018).
+42 Framework Principles, supra note 5, at principle 1.
+
+7
+
+development and utilization of natural resources” to ensure conservation and
+distribution of adequate nutritious food.43 The right to food is likewise contained
+within the African Charter44 and the Inter-American Convention on Human Rights.45
+The Special Rapporteur on the Right to Food has stated that the right “requires that
+States respect existing access to adequate food and abstain from taking measures
+that result in reducing such access,” as well as “refrain from adopting any policy that
+affects the territories and activities of small-scale, artisanal and indigenous fishers
+[without] their free, prior and informed consent.”46 Fisheries observers provide the
+critical technical and scientific knowledge necessary to ensure the sustainable
+utilization of seafood sources that feed billions of people. Fisheries provide 3.2 billion
+people worldwide with at least 20 percent of their animal protein. In less developed
+coastal countries many communities obtain more than half their animal protein from
+seafood sources. Moreover, the fisheries sector is the primary source of livelihood
+for approximately 880 million people worldwide, including many of the world’s
+poorest communities.47In light of the centrality of fish as a source of food and labor,
+the data observers relay is “vital” to “communities working to protect the long-term
+sustainability and viability of ocean fisheries, as much of this information would be
+entirely unverifiable were it not for their contribution.”48
+
+B.  Right to a healthy environment
+
+Fisheries observers are the key monitors and assessors to ensure that states meet
+their obligations under international laws on fisheries management and sustainability
+in order to protect our human right to a healthy (marine) environment. They ensure
+that the sustainability provisions and shared management obligations in international
+law on the oceans can be effectively implemented. Their work also safeguards fish
+populations, upon which the broader health of the marine environment depends.49
+The UN Convention on the Law of the Sea (UNCLOS) and the UN Fish Stocks
+
+43 International Covenant on Economic, Social and Cultural Rights (ICESCR), art. 11.
+44 Social and Economic Rights Action Centre and Centre for Economic and Social Rights v Nigeria (“SERAC”
+case), comm. no. 155/96, 2001, §§ 65-66.
+45  Realizing the Right to Food: Legal Strategies and Approaches, International Development Law Organization
+(IDLO) (September 30, 2015), https://www.idlo.int/publications/realizing-right-food-legal-strategies-and-
+approaches, p. 34. Although the Additional Protocol to the American Convention on Human Rights in the Area
+of Economic, Social and Cultural Rights (the Protocol of San Salvador) does not allow for individual
+complaints, the Inter-American Court has found violations of other rights (e.g. the rights to life and property) in
+several cases in which plaintiffs’ access to subsistence had been limited. See, e.g., Sawhoyamaxa v Paraguay,
+Inter-American Court of Human Rights, Series C, No. 146 (2006); and Comunidad Indígena Yakye Axa v
+Paraguay, Inter-American Court of Human Rights, Series C, No. 125 (2005), both discussed in IDLO, supra
+note 45, at 43.
+46 Olivier De Schutter, UN Special Rapporteur on the Right to Food, “Interim Report of the Special Rapporteur
+on the Right to Food” § 39 (August 8, 2012), https://digitallibrary.un.org/record/733428?ln=en#record-files-
+collapse-header.
+47 United Nations Special Rapporteur on the Right to Food, Fishery Workers and the Right to Food, UNGA
+(A/HRC/40/56) (2019).
+48 Human Rights at Sea, supra note 2, at 4.
+49 U. Rashid Sumaila & Travis C. Tai, Ending Overfishing Can Mitigate Impacts of Climate Change (Institute
+for the Oceans and Fisheries 2019), https://our.fish/wp-content/uploads/2019/09/2019-05-
+Sumaila_Ending_overfishing_can_mitigate_Impacts_of_climate_change.pdf. See also Eric J. Brunner et al.,
+Fish, Human Health and Marine Ecosystem Health: Policies in Collusion, 38 Int’l J. Epidemiology 93 (2009).
+
+8
+
+Agreement (UNFSA) both enshrine state duties to conserve and manage fisheries.
+UNCLOS requires that states cooperate in the management of shared fish stocks
+that traverse several national Exclusive Economic Zones (EEZs)50 and the
+management of highly migratory species, such as tuna, that swim long distances and
+into the high seas.51 The UNFSA expands on these obligations and tasks Regional
+Fisheries Management Organizations (RFMOs) with duties of collective fisheries
+management.52 RFMOs, made up of state parties with contributions from other
+stakeholders, each then create their own legally-binding provisions that govern
+fisheries management and mandate conservation measures for their members in
+their respective convention areas. Fisheries observers are a critical part of ensuring
+that individual states and regional bodies can fulfill these duties.
+
+C.  Right to information
+
+Fisheries observers protect our human right to information about the state of marine
+resources and assist states in meeting their obligation under international and
+domestic law to conduct assessments on possible environmental impacts of
+proposed projects,53 including the effects on the enjoyment of human rights. Both the
+Universal Declaration of Human Rights and the International Covenant on Civil and
+Political Rights (ICCPR) codify the human right on the “freedom to seek, receive, and
+impart information.”54
+
+Fisheries observers are the independent “eyes” onboard fishing vessels in near and
+distant waters.55 They ensure that those outside of the fishing industry know what is
+happening to the marine environment offshore. The data they gather is “the only
+independent information authorities have about how much and what kinds of fish are
+harvested from the world’s oceans and the collateral damage to marine mammals,
+seabirds and other species.”56 In addition, the information they provide prior to the
+development of environmental policies, such as fisheries quotas and conservation
+measures, is critically important for conservation efforts.57 Without accurate, science-
+based, and transparent assessments of fish populations, environmental policies and
+sustainability measures will not successfully ensure long-term access to a healthy
+marine environment and the enjoyment of human rights.
+
+50 United Nations Convention on the Law of the Sea, art. 63 [hereinafter UNCLOS].
+51 UNCLOS, supra note 50, at art. 64.
+52 United Nations Fish Stock Agreement (UNFSA), arts. 2 & 8.
+53 Economic, Social and Cultural rights, General Comment No. 15, para. 48 (2002) (right to water); Taşkın v.
+Turkey, European Court of Human Rights, no. 46117/99, para. 119 (2004); Öneryıldız v. Turkey, European
+Court of Human Rights, no. 48939/99, para. 90 (2004); Social and Economic Rights Action Centre v. Nigeria,
+African Commission on Human and Peoples’ Rights, no. 155/96, para. 53 (2001) (“Ogoniland case”); Claude-
+Reyes, et al. v. Chile, Inter-American Court of Human Rights, Series C, No. 151 (2006).
+54 Universal Declaration of Human Rights, art. 19 [hereinafter UDHR]; International Covenant on Civil and
+Political Rights, art. 19 [hereinafter ICCPR].
+55 The FAO defines landings in “distant waters” as “quantities taken by vessels in all FAO major fishing areas
+other than those adjacent to the flag State.” Richard Grainger Jr. & Serge M. Garcia, ”Chronicles of Marine
+Fishery Landings (1950-1994): Trend Analysis and Fisheries Potential” (FAO, 1996).
+56 Knudson, supra note 9 (emphasis added).
+57 See id.
+
+9
+
+D.  Right to effective remedy
+
+Fisheries observers provide the information and reporting that states need to provide
+effective remedies for human rights violations resulting from human activities
+conducted on the world’s oceans.58 In addition, the information that fisheries
+observers provide allows for the monitoring of private actors and business
+enterprises in distant waters, far from national regulatory measures or oversight.59
+This information facilitates the right to effective remedy in line with the Universal
+Declaration of Human Rights, the ICCPR60 and the UN Guiding Principles on
+Business and Human Rights (UNGPs).61
+
+V.  Special Protections for Fisheries
+
+Observers as Human Rights Defenders
+
+Fisheries observers are entitled to the same protections as all human rights
+defenders at the domestic and international level. States have an international legal
+obligation to protect and defend individuals or groups that are working towards
+protecting our environmental human rights. This state obligation is advanced through
+various international mechanisms that need to proactively include fisheries observers
+in their work.
+
+A.  Right to protection and a safe and enabling work
+
+environment
+
+The UN Declaration on Human Rights Defenders articulates the state obligation to
+protect and uphold the rights of human rights defenders. While the declaration is not
+a legally binding instrument, it was adopted by consensus in the UN General
+Assembly and synthesizes human rights standards from several legally binding
+instruments.62 The Declaration states that all human rights defenders have the right
+
+58 Framework Principles, supra note 5, at principle 10.
+59 C. Faunce, et al., “Are Flow Scale and Observer Scale Relationships the Same Among North Pacific At-Sea
+Processors?” 6 (Alaska Fisheries Science Center, 2020).
+60 UDHR, supra note 54, at art. 8; ICCPR, supra note 54, at art. 2(3).
+61 Framework Principles, supra note 5, at principle 12.
+62 The United Nations General Assembly Declaration on the Right and Responsibility of Individuals, Groups
+and Organs of Society to Promote Universally Recognized Rights and Fundamental Freedoms (Declaration on
+Human Rights Defenders) synthesizes enshrined human rights from instruments such as the Universal
+Declaration on Human Rights, ICCPR, European Convention on Human Rights, African Charter on Human and
+Peoples’ Rights and American Convention on Human Rights. These human rights include: the right to freedom
+of opinion and expression, the right to freedom of association, the right to freedom of assembly, the right to
+protest, the right to access funding, the right to access and communicate with international bodies, the right to be
+
+10
+
+to “seek, obtain, receive, and hold information relating to human rights”63 and have
+the right to lawful exercise of an occupation or profession that entails being a human
+rights defender, 64 such as being a professional environmental defender. This
+includes ensuring “a safe and enabling environment” where these individuals can
+“work on human rights or environmental issues . . . free from threats, harassment,
+intimidation and violence.”65 As professional independent information gatherers and
+monitors of fishing activities, fisheries observers are entitled to protections as
+environmental human rights defenders on the oceans.
+
+B.  Right to remedy in the event of violation of rights
+
+Human rights defenders have a right to effective remedy and follow up if they are
+subject to interference, intimidation, or harassment while carrying out their work. The
+UN Declaration on Human Rights Defenders holds that human rights defenders have
+the right to “benefit from an effective remedy and to be protected in the event of the
+violations” of the rights to a safe and enabling work environment.66 There are several
+international bodies that are tasked with ensuring effective investigation, follow up,
+and remedy in the case a human rights defender faces interference. These include
+the UN Special Procedures mandate holders, including the Special Rapporteur on
+the Situation of Human Rights Defenders, the Special Rapporteur on Human Rights
+and the Environment, the Special Rapporteur on the Right to Food, and the UN
+Working Group on Business and Human Rights, all of whose mandates include
+provisions that should cover fisheries observers.
+
+The Special Rapporteur on Human Rights Defenders is specifically tasked with
+promoting “the effective implementation of the UN Declaration on Human Rights
+Defenders”, through the study of “trends, developments and challenges” and
+recommendation of “effective strategies to better protect human rights defenders.”67
+The Special Rapporteur on Human Rights and the Environment’s mandate stems
+from a recognition of the “important role played by human rights defenders in the
+promotion and protection of human rights as they relate to the enjoyment of a safe,
+clean, healthy and sustainable environment” and the Special Rapporteur is tasked
+with “identifying challenges and obstacles to the full realization of human rights
+obligations.”68 The Special Rapporteur on the Right to Food’s mandate stems from
+the recognition “that everyone has the right to a standard of living adequate for
+her/his health and well-being, including food,” and the Special Rapporteur is tasked
+with “the promotion and effective implementation of the right to food, and to make
+
+protected, the right to an effective remedy, and the right to develop and discuss new ideas in the area of human
+rights.
+63 United Nations General Assembly Declaration on the Right and Responsibility of Individuals, Groups and
+Organs of Society to Promote Universally Recognized Rights and Fundamental Freedoms, art. 6 [hereinafter
+UNDHRD].
+64 UNDHRD, supra note 63, art. 11.
+65 Framework Principles, supra note 5, at principle 4.
+66 UNDHRD, supra note 63, art. 9.
+67 Mandate of the Special Rapporteur on the Situation of Human Rights Defenders, A/HRC/RES/34/5 (2017).
+68 Mandate of the Special Rapporteur on Human Rights and the Environment, A/HRC/RES/37/8 (2018).
+
+11
+
+appropriate recommendations on the realization thereof.”69 The UN Working Group
+on Business and Human Rights promotes the effective implementation of the
+UNGPs and makes recommendations to enhance “access to effective remedies
+available to those whose human rights are affected by corporate activities.”70 The
+mandates of these Special Procedures and their work to ensure effective follow up
+and remedy in the case of rights violations should cover fisheries observers, and the
+mandate holders need to act to ensure that their work includes the protection of
+fisheries observers.
+
+VI.  Gaps and Shortcomings in the Protection
+
+of Fisheries Observers
+
+Despite the international duty and obligation to protect and uphold the rights of
+fisheries observers as environmental human rights defenders, fisheries observers
+often do not work in a safe and enabling environment. While performing their duties,
+fisheries observers have faced threats, intimidation, and violence which has
+culminated in death. The international response has been woefully inadequate.
+
+International law provides for state obligations to protect and support human rights
+defenders, especially when they are threatened or subject to harm. However, the UN
+and other international actors have not sufficiently included fisheries observers in
+calls to action. In recent years UN Environment,71 the UN Special Rapporteur on
+Human Rights and Environment,72 and civil society organizations73 have highlighted
+the increasing plight and killings of EHRDs globally. These international bodies and
+reports have commendably pushed for stronger government responses to the
+intimidation and murders of park rangers from the Democratic Republic of Congo to
+Brazil, indigenous peoples protesting destructive mining practices, and
+whistleblowers raising alarms of toxic pollution by business enterprises. However,
+only the disappearance of American fisheries observer Keith Davis was listed,
+without further elaboration, in the recent Global Witness “On Dangerous Ground”
+report on EHRD deaths and disappearances between 2010-2015,74 despite many
+
+69 Mandate of the Special Rapporteur on the Right to Food, A/CHR/RES/2000/10 (2000), reaffirmed in
+A/HRC/RES/6/2 (2007).
+70 Mandate of the Working Group on the Issue of Human Rights and Transnational Corporations and Other
+Business Enterprises, A/HRC/RES/35/7 (2017).
+71 Id.
+72 Knox, supra note 6.
+73 Global Witness, ”On Dangerous Ground: 2015’s Deadly Environment: The Killing and Criminalization of
+Land and Environmental Defenders Worldwide” (2016); International Service for Human Rights, “A Human
+Rights Defender Toolkit for Promoting Business Respect for Human Rights” (2015). See also Report of the
+Special Rapporteur on the Situation of Human Rights Defenders (A/71/281) (August 3, 2016).
+74 Id. Global Witness decided in October 2020 to create a new category in their database for fishery observers.
+Their future reports will bring more attention to the plight of observers. For further details on Keith Davis’s
+case, see Tory, Sarah, The Mysterious Disappearance of Keith Davis, Hakai Magazine (January 4, 2017).
+
+12
+
+more fisheries observer disappearances and deaths in the past decade.75 Overall,
+international reports, with very few exceptions, have not highlighted fisheries
+observers, told their stories, or advocated for reform in national policies or RFMOs
+that manage fisheries across national boundaries and in international waters.
+
+The Association for Professional Observers (APO), a member-based group that
+advocates for the interests of observers, has compiled a list of 14 observer
+disappearances or deaths in the past decade that have not received sufficient
+investigative responses.76 Shocking stories include Papuan observer Charlie Lasisi’s
+body being recovered drowned and bound in chains, but no arrests were ever made
+in his case.77 Two recent cases include the Ghanaian observer Emmanuel Essien
+who disappeared off of the Chinese-owned vessel Meng Xin 15 in 2019 and whose
+case has never been fully investigated,78 and i-Kiribati observer Eritara Aati Kaierua
+in 2020 whose death onboard a Taiwanese-owned and flagged vessel has been
+considered by some as a potential murder.79 After one observer, James Junior
+Numbaru, reportedly died by falling overboard, his family and Global Fishing Watch
+conducted their own investigations and discovered that the vessel did not initiate the
+required search and rescue operation, and that Numbaru disappeared just three
+days after making a notation of pollution in his notebook; his disappearance is the
+fourth of a Papua New Guinean observer in just seven years.80
+
+Critically, there is not enough information about the situation of fisheries observers in
+distant waters, and the APO fears that many observer deaths go unreported.
+Currently, only four RFMOs mandate a specific process in the event that an observer
+disappears or dies.81 Even these processes are limited82 and do not adequately
+follow international law on unlawful death investigations.83Additionally, only eight
+RFMOs have a public manual or document expressly guaranteeing observers the
+right to carry out their duties without harassment or intimidation, and only five outline
+specific rights and safety policies for observers.84
+
+Fisheries observers have also reported facing intimidation, threats, and requests to
+not report on sightings of fisheries violations, including in official RFMO reports,85
+indicating that states are not sufficiently ensuring a safe and enabling work
+
+75 Association for Professional Observers, “Catalogue of Observer Casualties, Injuries, and Near Misses”
+(2020).
+76 Id.
+77 Id.
+78 Karen McVeigh & Nancy Dzradosi, The Vanishing: Ghana’s Defenders Face New Perils in Fight Against
+Overfishing, The Guardian (November 16, 2019),
+https://www.theguardian.com/environment/2019/nov/16/ghana-fisheries-observer-vanishes.
+79 Karen McVeigh, Disappearances, Danger and Death: What is Happening to Fishery Observers?, The
+Guardian (May 22, 2020), https://www.theguardian.com/environment/2020/may/22/disappearances-danger-and-
+death-what-is-happening-to-fishery-observers.
+80 “Catalogue of Observer Casualties, Injuries, and Near Misses,” supra note 2.
+81 Ewell et al. (2020), supra note 14.
+82 Western and Central Pacific Fisheries Commission, “Conservation and Management Measure for the
+protection of WCPFC Regional Observer Programme Observers,” CMM 2017-03 (2017).
+83 United Nations Office of the High Commissioner on Human Rights, The Minnesota Protocol on the
+Investigation of Potentially Unlawful Death [hereinafter Minnesota Protocol].
+84 Ewell et al. (2020), supra note 14.
+85 WCPFC, “Annual Report on the Regional Observer Programme,” WCPFC-TCC15-2019-RP02 (2019).
+
+13
+
+environment. Only six of 17 RFMOs reviewed in a recent global study mandate a
+specific process if an observer reports intimidation or threats.86 A government survey
+of American observers found that 7 percent had been pressured to change data and
+13 percent had had their equipment or records tampered with or destroyed.87
+Female observers in particular “may be targeted for sexual harassment.”88
+Meanwhile, in the European context, observers are “regularly intimidated, offered
+bribes and undermined by the fishing crews they are observing.”89 Nearly two dozen
+current and former observers told the Guardian that they experienced “being put
+under surveillance, deprived of sleep, or threatened with being thrown overboard, or
+having their official documentation stolen by fishing crews to conceal a culture of
+overfishing.”90
+
+Fisheries observers face pressure and are subject to risk if they refuse to engage in
+the corruption and collusion that has been documented as alarmingly prevalent in
+the fishing industry.91 In written testimony before the House Committee on Natural
+Resources, Subcommittee on Oversight and Investigation in February 2020,
+observer Simione S.B. Cagilaba who was a US Multilateral Treaty Observer in the
+South Pacific detailed his story:92
+
+“The Captain asked me to falsify my data to look like they didn’t catch anything,
+so that it would match his records, but I refused. He looked at me angrily and
+went away. Later on, he again asked me this time more sternly to adjust my
+records. When I again refused, he became angry . . . he then threatened me
+and said that he will call his ‘friend in American Samoa’ . . . to ‘deal with me’ . . .
+I  was  later  fired  upon  my  return  to  Fiji  and  it  made  me  realize  that  some
+government officials from some Pacific island countries are overly familiar with
+the  fishing  company  personnel  and  their  boat  agents  and  have  been
+compromised,  making  our  jobs  as  fisheries  observers  impossible  and
+dangerous.”
+
+Corruption and insufficient political will also hinder effective follow up on observer
+reports and often result in inaction rather than effective remedies for IUU fishing and
+other environmental human rights violations. Following the disappearance of Essien
+in Ghanaian waters, an investigation by the Guardian uncovered that while 80 to 90
+percent of observer reports to the Ghanaian observer program contained evidence of
+illegal fishing and other incriminating activities, “only 23 trawlers were sanctioned for
+illegal fishing in 2018” due to political interference.93 A member of the Ghanaian
+
+86 Ewell et al. (2020), supra note 14.
+87 California Environmental Associates & The Nature Conservancy, “Catalyzing the Growth of Electronic
+Monitoring in Fisheries” 27-28 (2019), https://oursharedseas.com/wp-content/uploads/2019/10/Catalyzing-the-
+Growth-of-Electronic-Monitoring-in-Fisheries-CEA.pdf.
+88 Knudson, supra note 9.
+89 Jack Watling, Fishing Observers “Intimidated and Bribed by Crews,” The Guardian (May 18, 2012),
+https://www.theguardian.com/environment/2012/may/18/fishing-inspectors-intimidated-bribed-crews.
+90 Id.
+91 Ussif Rashid Sumaila, Jennifer Jacquet & Allison Witter, When Bad Gets Worse: Corruption and Fisheries,
+in Corruption, Natural Resources and Development (Edward Elgar Publishing, 2017).
+92 Written Testimony of Simione S.B Cagilaba, U.S. Multilateral Treaty Observer, South Pacific (1997-2015),
+before the House Committee on Natural Resources, Subcommittee on Oversight and Investigation, February 27,
+2020.
+93 McVeigh and Dzradosi, supra note 78.
+
+14
+
+fisheries commission explained, “We choose the observers … but politicians call our
+bosses and tell us: ‘Don’t prosecute these people.”94
+
+There is a dangerous dearth of concrete data on the threats, intimidations, and
+harms that observers face. In the United States, for instance, official reports of
+observer abuse rose from 28 in 2009 to 79 in 2015, but “many cases also remain in
+the shadows because observers fear they’ll lose their jobs if they speak out. Others
+don’t speak up because they believe nothing will be done.”95 Further, non-
+governmental organizations are often denied access to critical information, further
+entrenching systemic secrecy.96 Watch-dogs attempting to call attention to observer
+deaths and abuses are forced to rely on “[s]elected anecdotal reports.”97
+
+This tendency toward secrecy is surely exacerbated by the sheer amount of money
+at stake, and the losses industry can face if observers report non-compliance or
+illegal activity. In the Pacific, maritime fishing accounts for as much as 10 percent of
+a state’s GDP and can account for the employment of a majority of the population.98
+Yet fishing on the high seas often operates at a very narrow (or non-existent) profit
+margin; one recent study suggested that a majority of high-seas fishing grounds
+would be unprofitable without “large government subsidies.”99 More than 90 percent
+of fisheries are “fully fished, overfished, depleted, or recovering from overfishing.”100
+In this context, the dire financial risks posed by penalties for non-compliance are
+acute. Although penalties vary by jurisdiction, they can include significant fines,
+forfeiture of  equipment or vessel, and even imprisonment.101 In England, for
+instance, some recent fines have exceeded £25,000;102 in New South Wales,
+Australia, more than 54,000 fish and invertebrates were seized between 2018 and
+2019;103 in West Africa, vessels belonging to a single conglomerate have been fined
+hundreds of thousands of U.S. dollars since 2016.104 The reporting of fisheries
+observers can lead to such penalties; as mentioned above, data from just one
+American fisheries management zone had 590 reported violations over two years, of
+which 36.2 percent led to a warning, forfeiture, or financial penalty.105 This risk of
+financial penalties and other forms of censure surely provides a perverse incentive
+
+94 Id.
+95 Knudson, supra note 9.
+96 Matilda Peterson, “Making Waves: A Study of the Patterns and Consequences of Non-State Actor
+Participation in Global Fisheries Governance” 41 (Ph.D. dissertation, Stockholm University, 2020).
+97 Ewell et al. (2020), supra note 14, at tbl. 1.
+98 Human Rights at Sea, supra note 2, at 3.
+99 Enric Sala, et al., The Economics of Fishing the High Seas, 4 Science Advances (2018).
+100 Ragnar Arnason, et al., “The Sunken Billions Revisited: Progress and Challenges in Global Marine
+Fisheries” 1 (World Bank, 2017).
+101 For an overview of penalties imposed by regional, sub-regional, and national enforcement of fisheries
+regulations, see P. Cacaud, et al., “Administrative Sanctions in Fisheries Law” (FAO Legislative Study 82,
+2003); Erik Franckx, “Fisheries Enforcement: Related Legal and Institutional Issues: National, Sub-Regional or
+Regional Perspectives” (FAO Legislative Study 71, 2001). It is worth noting, however, that experts have argued
+that penalties for illegal fishing are often too low and thus provide economic incentives for IUU. See
+Ganapathiraju, supra note 31, at c. 2.
+102 ClientEarth, “The Control and Enforcement of Fisheries in England” 18 (Sept. 2017).
+103 Department of Primary Industries, “Fisheries Compliance Enforcement” (New South Wales Gov’t, 2019),
+https://www.dpi.nsw.gov.au/fishing/compliance/fisheries-compliance-enforcement.
+104 Mona Samari, How Ghana’s Weak Penalties Are Letting Trawlers Off the Hook, China Dialogue Ocean
+(Oct. 3, 2019), https://chinadialogueocean.net/10522-ghana-weak-penalties-let-trawlers-off-the-hook/.
+105 Porter, supra note 1, at 584, 587.
+
+15
+
+for fishing vessels to refuse to cooperate with observers, or even to engage in violent
+suppression.
+
+VII.  Recommendations
+
+To ensure the important work of fisheries observers is carried out under optimum
+conditions, to protect their safety and wellbeing, and to adequately and fully
+recognize their role as human rights defenders on the world’s oceans, international,
+regional, and national actors and corporations need to take the following key steps:
+
+1)  The UN Human Rights Council, the Special Procedures Mechanisms, UN
+
+Environment, the Human Rights Committee, and the Committee on Economic,
+Social and Cultural Rights must formally and publicly recognize fisheries
+observers as human rights defenders and take prompt action to ensure their
+protection.
+
+●  The Special Rapporteur on the Situation of Human Rights Defenders,
+
+the Special Rapporteur on Human Rights and the Environment and the
+Special Rapporteur on the Right to Food must conduct an independent
+investigation and, during their country visits, pay special attention to
+regional observer programs in order to identify and determine:
+
+a)  Cases of intimidation, threats, disappearance, murders or any
+other known violations of the rights of fisheries observers;
+b)  Responses to these cases, by regional bodies and states, and
+
+in particular whether a proper investigation has been
+conducted and whether effective remedial action has been
+taken.
+
+c)  The extent to which these programs include adequate
+
+measures and safeguards to ensure that fisheries observer
+working conditions are adequate, including protection against
+all forms of violence;
+
+d)  Best practices in existing observer programs;
+e)  Measures to address the problems identified.
+
+●  The UN Human Rights Council must call on states and RFMOs to
+integrate international laws on human rights defenders106 into their
+observer programs.
+
+●  UN Environment has committed to “denounce the attacks, torture,
+
+intimidation and murders of environmental defenders” and “request
+government and companies’ accountability . . . where environmental
+defenders have been affected [or] murdered.”107 UN Environment must
+
+106 See Declaration on Human Rights Defenders, supra note 62; see also Framework Principles, supra note 5, at
+principle 4 (“States should provide a safe and enabling environment in which individuals, groups and organs of
+society that work on human rights or environmental issues can operate free from threats, harassment,
+intimidation and violence.”); UN Special Rapporteur on the Situation of Human Rights Defenders, “They Spoke
+Truth to Power and Were Murdered in Cold Blood: Analysis on the Situation of Environmental Human Rights
+Defenders and Concrete Recommendations to Better Protect Them,” A/71/281 (2016).
+107 UN Environment, “Promoting Greater Protection for Environmental Defenders: Policy” (2018).
+
+16
+
+include the protection of fisheries observers in this commitment to
+effectively implement this policy.
+
+●  The Human Rights Committee must examine and prioritize states
+parties’ compliance with the right to life (art. 6) with respect to the
+deaths and disappearances of fisheries observers.
+
+●  The Committee on Economic, Social and Cultural Rights must
+
+undertake an inquiry into the grave and systematic violations of the
+economic and social rights of fisheries observers, including the right to
+work (art. 6) and the right to safe working conditions (art. 7). The
+Committee must also examine how threats against fisheries observers
+hinder coastal communities’ realization of the right to adequate food
+(art. 11).
+
+●  Additionally, the Economic Commission for Latin America and the
+Caribbean must make clear that the Escazú Agreement considers
+fisheries observers to be environmental human rights defenders and
+thus entitled to all of the protections such a designation entails.108
+
+2)  Observer programs, both regional and national, must publicly recognize and
+
+internalize the notion that fisheries observers are human rights defenders and
+amend their observer programs accordingly.
+
+●  Observer programs must mandate increasing observer coverage
+
+onboard fishing vessels to ensure effective monitoring of collective
+marine resources.
+
+●  Observer programs must increase transparency of observer data to
+
+ensure public access to critical information on the state of the marine
+environment, the effectiveness of observer programs, and the
+protection of environmental human rights.
+
+●  Observer programs must mandate prompt and effective follow-up on
+
+observer reports of IUU fishing activities, and appropriate remedies for
+any violations identified.
+
+●  Observer programs must integrate the International Observer Bill of
+Rights109 into their observer programs to ensure labor and human
+rights protections and conduct annual compliance audits:
+
+a)  Observers have the right to a written contract that clearly
+
+defines employment terms.
+
+b)  Observers have a right to non-discriminatory, fair and
+
+equitable employment.
+
+c)  Observers have a right to a competitive wage package
+
+commensurate with positions requiring similar duties and
+educational background. Financial independence from the
+monitored industry is crucial.
+
+d)  Observers have a right to a working environment with minimal
+
+health and safety risks.
+
+108 Article 9 of the Regional Agreement on Access to Information, Public Participation and Justice in
+Environmental Matters in Latin America and the Caribbean (“Escazú Agreement”), opened for signature on 27
+Sept. 2018.
+109 Association for Professional Observers, “International Observer Bill of Rights,” https://www.apo-
+observers.org/billofrights.
+
+17
+
+e)  Observers must have access to emergency equipment,
+
+including an independent two-way communication device to
+report to onshore officials for a daily safety check-in.
+f)  Observers have the right to regulatory authority, observer
+
+program, observer employer and monitored entity support.
+g)  Observers have a right to stakeholder integrity and program
+
+transparency.
+
+h)  Observers have a right to professional development.
+
+3)  Observer programs, both regional and national, must aim for 100% onboard
+monitoring on fishing vessels using a combination of human observers and
+electronic monitoring. However, any fishery proposing electronic monitoring
+as a stand-alone measure to replace observers, for safety or other reasons,
+must undergo a transparent peer-reviewed assessment prior to its
+implementation to ensure its effectiveness, data comparability and ability to
+detect non-compliance.
+
+●  Electronic monitoring is becoming increasingly viable onboard distant
+water fishing vessels,110 but electronic monitoring cannot fully stand in
+for human rights defender work. Fisheries observers are critical
+independent parties that oversee corporate actor abuse and provide
+public access to information in a way that electronic monitoring cannot.
+
+●  Fisheries observers and the observer programs must be the bodies
+tasked with overseeing, reviewing, and documenting all electronic
+monitoring data to ensure independent oversight of this data rather
+than corporate control.
+
+●  The same transparency and public access requirements must apply to
+
+fishery observer and electronic monitoring data.
+
+●  Turning off electronic monitoring equipment must be recognized as a
+serious national fisheries law and RFMO violation with resulting
+sanctions.
+
+4)  Observer programs, both regional and national, need to adopt measures that
+provide for the highest standards in investigations conducted following any
+observer death, such as the Minnesota Protocol on the Investigation of
+Potentially Unlawful Death.
+
+●  The Minnesota Protocol synthesizes international law on investigative
+processes when a state has failed to meet its obligations to protect
+life111 including requirements for: interviews and witness protection,
+recovery of human remains, identification of dead bodies, types of
+evidence and sampling, autopsy procedures, and analysis of skeletal
+remains.
+
+●  Observer programs must impose “sanctions against those responsible
+for the violations.”112 RFMOs must remove a flag state that does not
+effectively follow the Minnesota Protocol from the regional observer
+program.
+
+110 Mark Michelin, Matthew Elliott, Max Bucher, Mark Zimring & Mike Sweeney, “Catalyzing the Growth of
+Electronic Monitoring in Fisheries” (2018).
+111 Minnesota Protocol, supra note 83, at § I.2.C.
+112 Id. § II.B.10.
+
+18
+
+●  States participating in observer programs must ensure that adequate
+
+reparation and restitution for families of deceased observers is
+provided.113
+
+5)  Transnational seafood corporations must integrate the UN Guiding Principles
+on Business and Human Rights and relevant ILO Conventions, including the
+ILO Work in Fishing Convention (No. 188), into their corporate human rights
+policies when conducting human rights due diligence.
+
+●  Observers should be included alongside crew in the due diligence
+
+corporations owe with respect to their global seafood supply chains.
+
+●  Seafood corporations must align their environmental, social, and
+governance policies with the Greenpeace Corporate Asks.114
+
+●  Audit reports that indicate a failure on the part of seafood suppliers to
+sufficiently monitor fisheries with observers, failure to uphold observer
+rights, and failure to protect observer safety must be met with serious
+penalties, including suspension, and when warranted (e.g. severe
+harm, insufficient progress or remedy, or repeated violations),
+termination of supplier contracts.
+
+VIII.  Acknowledgements
+
+Greenpeace US115 would like to acknowledge Chris Ewell and Scott Stern for their
+contributions to this paper. We would also like to thank the Association for
+Professional Observers, Global Witness, and John Knox, the former UN Special
+Rapporteur on Human Rights and the Environment, for their input. All errors and
+omissions are GPUS’s alone.
+
+For further information please contact:
+Andy Shen
+Senior Oceans Adviser, Greenpeace USA
+ashen@greenpeace.org
+
+113 Id.
+114 Greenpeace, “Greenpeace Sustainability, Labour & Human Rights, and Chain of Custody Asks for Retailers,
+Brand Owners and Seafood Companies” (2020).
+115 Greenpeace is a global network of independent national and regional Greenpeace organisations (NROs) and
+Greenpeace International as a coordinating organisation.
+
+19
+

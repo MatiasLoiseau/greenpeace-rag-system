@@ -1,0 +1,1145 @@
+greenpeace.org
+
+Holding the Line
+with FSC
+
+s
+t
+s
+e
+r
+o
+f
+
+i
+
+t
+n
+e
+c
+n
+a
+s
+’
+d
+l
+r
+o
+w
+e
+h
+t
+g
+n
+i
+t
+c
+e
+t
+o
+r
+P
+
+Recommendations and progress to
+date on Certification Body and FSC
+performance following a critical analysis
+of a range of ‘controversial’ certificates.
+
+Table of Contents
+
+List of Acronyms
+
+Acknowledgements .................................................................3
+
+List of Acronyms ......................................................................3
+
+Overview ...................................................................................4
+
+Outcomes and Conclusions ....................................................4
+
+ASI
+
+CAR
+
+CB
+
+CoC
+
+CPD
+
+Accreditation Services International
+
+Corrective Action Request
+
+Certification Body
+
+Chain of Custody
+
+Continuous Professional Development
+
+Summary of Key Groups of Recommendations and FSC
+Progress with them ..................................................................5
+
+FERN
+
+the Forests and the European Union Resource
+Network
+
+FLEGT
+
+Forest Law Enforcement, Governance and Trade
+
+Acknowledgements
+
+Greenpeace would like to thank many individuals who have
+assisted with this report, especially the contributors to and
+researchers of the certification case study information whose input
+shaped the key outcomes of this report.
+
+In particular, Anna Jenkins, consultant from Ethical Change, for
+her excellent coordination, compilation and analysis that lead
+to the production of this report and volume II, Hannah Scrase,
+Alistair Monument, John Palmer and Matthew Wenban Smith for
+contributing valuable comments during the peer review process.
+
+FSC IC and ASI staff – in particular Andre de Freitas and Hubert
+de Bonafos - and the FSC Board of Directors. Several FSC
+Certification Bodies responded with additional information, helpful
+additions and queries for both the investigation of the controversial
+certificates as well as the analysis and recommendations (Vol II).
+Smartwood and Soil Association in particular provided detailed
+comments and some valuable additional recommendations.
+
+FM
+
+FMU
+
+FSC
+
+GA
+
+GHG
+
+Forest Management
+
+Forest Management Unit
+
+Forest Stewardship Council
+
+FSC General Assembly
+
+Green House Gas
+
+HCVF
+
+High Conservation Value Forest
+
+IAF
+
+IFIA
+
+NI
+
+P&C
+
+PSU
+
+SH
+
+International Accreditation Forum
+
+Interafrican Forest Industries Association
+
+National Initiative
+
+FSC Principles & Criteria
+
+Policy and Standards Programme
+
+Stakeholder
+
+SLIMF
+
+Small and Low Intensity Managed Forest
+
+TFT
+
+Tropical Forest Trust
+
+WWF
+
+WWF (formerly the World Wide Fund for Nature/
+World Wildlife Fund)
+
+For more information contact:
+judy.rodrigues@greenpeace.org
+
+Authors:
+Grant Rosoman
+Judy Rodrigues
+Anna Jenkins
+
+JN: 158
+
+Published in October 2008
+by Greenpeace International
+Ottho Heldringstraat 5,
+1066 AZ Amsterdam,
+The Netherlands
+t. +31 20 718 2000
+f. +31 20 514 8151
+
+www.greenpeace.org
+
+2  l Greenpeace International l  Holding the Line with FSC l  Summary Report (vol 1) l  November 2008
+
+Overview
+
+Over the past 12 years, FSC has created the leading model for
+credible certification of responsible forest stewardship worldwide.
+It is founded on the collaboration and shared commitment
+amongst its diverse environmental, social and economic
+stakeholders to create, maintain and further evolve a transparent
+and credible certification system for identifying well-managed
+forests and recognising their products in the market. The
+recognition of FSC as a leader in forest certification is reflected in
+its rapid growth.
+
+The reality of rapid growth, combined with the immense
+complexities linked to responsible forest management and
+labelling of products from them, has lead to FSC facing an
+increased number of challenges. Problems have been suspected
+and observed by stakeholders and FSC members including in
+the rigour of the audit processes of certification bodies (CBs) and
+of FSC’s key delivery and control body Accreditation Services
+International’s (ASI) ability to monitor and correct any such failures.
+
+Key strengths of the FSC network and organisation have been
+its transparency and its ability to pioneer approaches and
+adaptations to certification. From its inception FSC has been
+innovative and dynamic in meeting the challenges to transform
+and promote forest stewardship with the support of a wide range
+of stakeholders from the global North and South. This has been
+to make it both a workable global system for all forest regions
+and social settings, as well as meet a broad range of stakeholder
+needs and expectations. It is in effect an elaborate conflict
+resolution mechanism for reconciling many differing views and
+values in relation to forests and some plantations. Compared to
+other certification systems FSC is therefore leading the way in
+terms of standards and credibility.
+
+However, openness and transparency means FSC is faced
+with queries and complaints on a regular basis. The complaints
+and disputes process within FSC are in effect standards and
+performance improvement and strengthening processes.
+Greenpeace for example has always filed enquiries, complaints
+and disputes as part of its normal constructive engagement with
+FSC. FSC welcomes criticism of its system so it can find ways to
+improve and adapt.
+
+With a ‘constructive engagement’ frame of mind, a range of
+alleged ‘controversial certifications’ were investigated, consistent
+thematic problems and issues identified, and recommendations
+for improvements drafted. What followed was a long period
+of collaborative review involving the ASI and FSC’s Policy and
+Standards Unit (PSU), a group of peer reviewers who understand
+the FSC system well, and eventually certification bodies. The
+process with all involved parties has been constructive and with
+an openness and willingness to find solutions to strengthen
+the system. The recommendations that evolved to address
+thematic issues have evolved considerably through this process,
+as has FSC’s response. The full set of themes, discussion and
+recommendations is presented in Volume II of this report.
+
+Outcomes and
+Conclusions
+
+A summary table is presented in the following pages of the
+key groups of recommendations that Greenpeace believes are
+needed to move FSC through to a new level of performance and
+credibility. As the purpose of this investigation and analysis is
+to strengthen FSC, FSC’s response and progress, and in some
+instances CB responses and progress, is presented alongside. Of
+the thematic issues, addressing ‘high-risk’ companies/operations
+and partial certification were key challenges along with poor
+and inconsistent implementation of FSC certification standards,
+weak stakeholder consultation and a complaints process that
+needs an overhaul. A significant tangible knock-on effect of these
+issues was the ensuing weakening of stakeholder (SH) trust in the
+process.  Given SH engagement is a key component of FSC’s
+adaptive approach and success, it is crucial this trust is restored.
+
+Of the more than 80 recommendations presented to FSC
+in mid-2007, FSC fully agrees with over half, with a few fully
+implemented already and most partially completed. The FSC
+partially agrees with a further 25% of the recommendations,
+and is in all but two instances working on implementing parts
+of these recommendations. We believe this shows considerable
+responsiveness and progress by FSC over the last two years and
+we expect progress to continue. Many of the recommendations
+are work in progress for FSC, and many will also be motions to
+FSC’s highest decision-making body, the General Assembly, in
+2008 and 2009 (postal ballot).
+
+For the remaining one fifth of the recommendations, the FSC
+either has no plan to act on them or it is not known how it intends
+to address them. These issues are still of concern to Greenpeace
+and we will continue to urge FSC to address them accordingly.
+
+The successful implementation of many of the report’s
+recommendations is tied to the need for increased resources; an
+issue inextricably linked to FSC’s financial viability. Further, FSC
+needs to have the management, operational and governance
+structures to fulfil its mission and implement its strategy. While
+these are priority issues that need urgent attention this report
+does not attempt to tackle these broad issues, but rather to
+focus on performance at an operational level. In addition, FSC
+needs to build on its strength as a so-called ‘global action
+network’1 in all key forest regions. FSC needs to continue to
+learn from its successes and mistakes and take a leadership role
+in not only global forest certification but in the stewardship and
+future of all forests given their pivotal role in planet Earth being
+able to survive climate change.  We hope the publication of this
+analysis, recommendations and progress will urge both FSC and
+its global network to continue to move forward with maintaining
+and strengthening FSC’s integrity and credibility, and inspire FSC
+members and supporters worldwide to get behind FSC in this
+complex and challenging task.
+
+1  A Global Action Network is ‘formed by diverse stakeholders who are interested in a
+
+common issue, and who agree to work together to achieve extraordinary results. The
+critical contribution that they can provide global issues is their ability to create consensual
+knowledge and action among diverse stakeholders.’ See http://www.gan-net.net/about/
+index.html for further information on the definition of Global Action Networks.
+
+Greenpeace International l  Holding the Line with FSC l  Summary Report (vol 1) l  November 2008 l  3
+
+Summary of Key Groups of Recommendations
+and FSC Progress with them
+
+Recommendation
+(made to FSC mid-2007)
+
+FSC Progress
+(as of August 2008)
+
+1.  Controlling, Monitoring and Ensuring performance of Certification Bodies
+
+1.1  Ensure ASI is sufficiently resourced:
+
+It is clear that ASI is under resourced given the task it has to
+carry out. In 2002 there were 1500 FSC certificates and 12
+CBs, as well as the NI network. At that time, ASI had three
+Accreditation Program Managers and a manager. In 2007,
+there were over 8,000 certificates, 17 accredited CBs, five
+applicant CBs and still the same staffing levels. ASI must have
+sufficient resources to be able to adequately monitor all CBs,
+increase its audit intensity to sufficient levels and be able to
+implement the audit frequency increase penalty in relation
+to CAR numbers. It is noted that all areas of FSC are indeed
+under-resourced and additional capacity is required in almost
+every aspect of FSC’s current work.
+
+1.2  Strict auditing of CBs by ASI:
+
+Continued strict auditing by ASI and taking action in the face
+of continued non-compliance by CBs regarding auditing
+procedures should be maintained and improved.
+
+1.3  Greater use spot audits by ASI/CBs
+
+ASI/CB should be required to use unannounced spot checks
+and short notice surveillance audits. FSC and CB standards
+should require a ratio of spot and short notice audit to
+routine audits.
+
+1.4  Focus on ‘on the ground performance’
+
+FSC should produce guidance on the difference between
+on-the-ground performance and the drawing up of policies
+designed to bring about that change. General Assembly
+2005 Motion 18 requires an emphasis on on-the-ground
+performance.
+
+ASI’s budget has risen in recent years, with two new
+Accreditation Program Managers hired, one more in process as
+well as a database manager being recruited. Additionally, ASI
+has three regional lead auditors. Even with normal staff turnover,
+this increases ASI’s capacity considerably. However, FSC grew
+38% (by certificate numbers) in 2007, and with its additional
+capacity, ASI’s 2008 strategy aims to increase audits to achieve
+an average sampling rate of 1% for CoC and 4-5% for FM – an
+increase of nearly 50% over 2007 levels. This strategy proposal
+has met resistance from CBs. It is not clear if there are sufficient
+resources to achieve this. Also, this does not take account of
+additional resources needed for strengthening ASI regional
+capacity or for implementing the increased audit intensity penalty.
+
+There is evidence that this is taking place and auditing is
+stricter than in the past. However, ASI continues to have under-
+capacity problems. Evidence of ASI’s improved performance
+and taking a firm stance with CBs include:
+
+-  Several suspensions of CBs and two terminated CBs.
+
+-  Auditing of many controversial certificates, some of them
+twice: Wijma x 2, SEFAC x 2, Veracel, Norfor x 2, Barama
+and Coillte, as well as CoC audits in China and Vietnam.
+
+-  Focus on high-risk regions. Many audits performed in
+Russia, China, Central Africa, Brazil and Vietnam.
+
+ASI and CBs can already undertake spot checks but they are not
+generally used routinely. ASI is now using ‘short notice audits’
+more regularly, particularly with CoC, for example in China. There
+are no known plans to change accreditation standards to require
+CBs to undertake spot checks routinely. However, there is some
+CB support for this change. A CB has also suggested that ASI
+should carry out audits of CBs during main FM audits as well
+as surveillance audits. ASI has performed audits during main
+assessments in the case of Control Union in Peru (Mapesac) and
+ICILA in Cameroon (SEFAC).
+
+The main way of implementing the recommendations of Motion
+18 being proposed by FSC is to be via the P&C review and the
+International Generic Indicators development.
+
+A CB proposed that training should be provided to both CB and ASI
+staff and auditors to emphasise the need to evaluate implementation
+of policies through the provision of objective evidence.
+
+4  l Greenpeace International l  Holding the Line with FSC l  Summary Report (vol 1) l  November 2008
+
+Recommendation
+(made to FSC mid-2007)
+
+FSC Progress
+(as of August 2008)
+
+1.5  Use of incentives and penalties against poor performing CBs:
+
+FSC should consider whether it has strong enough incentives
+and penalties for compliance with FSC accreditation
+standards by CBs. To this end it should consider imposing
+other penalties beyond the not yet implemented current
+increased number of audits.
+
+1.6  Addressing weaknesses with the CAR system:
+
+FSC should thoroughly revise FSC-STD-20-002 as a priority.
+Problems with the way that CARs have been dealt with by both
+CBs and ASI can be explained by the ambiguity of aspects
+of 20-002 that cover CARs. The detail of requirements is
+often only given in examples that do not need to be taken as
+normative parts of the standard. The standard is making the
+work of ASI auditors very difficult and requires priority action.
+
+ASI must apply strict and consistent compliance monitoring
+on the use of CARs by CBs and by its own auditors. In
+particular: the thresholds on whether non-compliance
+constitutes a recommendation, minor or major CAR; the
+holistic consideration of all CARs issued for a FMU with
+appropriate action being taken in line with FSC-STD-20-002;
+and the upgrading and down grading of CARs and the informal
+extension of CAR deadlines because an audit cannot be
+organised at the right time.
+
+1.7  Training to improve auditor performance:
+
+FSC/ASI needs to restart work on a comprehensive training
+programme in FSC standards for CB and ASI auditors, FSC
+staff, NI staff, NGOs and consultants that include continuous
+professional development (CPD). This should include prioritising
+the development of the auditor training standards, training
+modules and the Auditor Register.
+
+1.8  Peer review requirements:
+
+FSC should assess whether current peer review requirements in
+the Accreditation Standards are sufficient.
+
+The recent ASI business strategy includes consideration of
+incentives and penalties. FSC will also consider this as part of
+the overall review of its standards.
+
+There is evidence that ASI has become stricter in the way it
+audits and monitors CARs (see 1.1 for examples). The new
+CoC Accreditation Standard that does not allow downgrading
+of CARs is improving compliance. ASI is considering extending
+this to FM also.
+
+However, there was a Woodmark appeal against an ASI CAR.
+ASI appeal panel considered that ASI was right to issue a
+corrective action request but due to the lack of clarity with FSC
+certification requirements under Principle 9, ASI should have
+only issued a minor CAR instead of a major CAR. ASI appeal
+panel also indicated that there are clearly different and more-or-
+less valid interpretations of Principle 9, causing confusion within
+and between forest managers, national initiatives, certification
+bodies and ASI. Until there is greater clarity, ASI and FSC will
+need to moderate their positions and tolerate more flexibility in
+interpretations and applications, while giving a high priority to
+clarifying FSC’s requirements, and if necessary revising the P&C.
+
+All ASI auditors have been formally trained as professional
+auditors.
+
+ASI agrees that this is an important activity to undertake and
+it was in its 2007 workplan. Currently ASI has no plan to
+implement such a training program, due mainly to a lack of
+resources and lack of internal expertise in developing training
+programs.
+
+ASI is reviewing CB compliance with FSC requirements on
+these aspects during audits. Non-conformities identified
+regarding peer reviews are addressed in ASI reports and
+subsequent CARs.
+
+Woodmark and Smartwood claim to systematically deal with
+peer review comments and give detailed responses to peer
+reviewers showing how their comments have been dealt with.
+Peer reviewer names and qualifications are given in evaluation
+reports in the interest of transparency.
+
+Greenpeace International l  Holding the Line with FSC l  Summary Report (vol 1) l  November 2008 l  5
+
+Recommendation
+(made to FSC mid-2007)
+
+FSC Progress
+(as of August 2008)
+
+2.  Give clear guidance and interpretation, and where necessary strengthen FSC
+
+Standards:
+
+2.1  Clarify and revise FSC requirements on legality:
+
+Many CBs such as SmartWood (SW), SGS and Eurocertifor
+have separate legality verification schemes and standards. It
+is viewed by many that some of these standards have evolved
+to be more encompassing and stronger than FSC Principle
+1. Therefore, FSC needs to consider the current international
+developments in verification of legal compliance and merge and
+harmonise, as appropriate, to update FSC P1.
+
+FSC needs to investigate controversial and complex legal
+contexts to give clear guidance to CBs and NIs. This should
+occur particularly where concessions, licences, permits or
+rights to harvest may not have been gained or issued through
+proper legal processes or where there are multiple laws or
+regulations that conflict with each other and there is no legal
+precedent yet set in the country as to which law has the
+ascendancy e.g. indigenous peoples’ rights in Indonesia.
+
+The FSC Principles and Criteria review has recently been
+broadened to all P&C so will include Principle 1, and the
+subsequent development of International Generic Indicators for
+FSC P&C will also address the interpretation of P1. However,
+other than sporadic involvement in the FLEGT and EU timber
+legislative process there has not yet been engagement by FSC
+in the legality verification debate or substantive discussions
+with CBs and other parties to harmonise legality verification
+standard requirements.
+
+2.2  Prioritisation of the revision of the FSC Principles and Criteria
+
+The P&C need to be strengthened, clarified and immediately
+understandable with minimal ambiguity and need for additional
+guidance. Any interpretation issues should be resolved through
+the Generic International Indicators.
+
+Revision of the P&C is underway, building on the proposals
+arising from the Plantations Review and other P&C motions
+from the 2005 General Assembly. A full cross-chamber working
+group will be formed in October 2008 to consider the full
+revision of the P&C and finalise proposals that will be presented
+to the General Assembly (by postal ballot).
+
+2.3  Prioritisation of completion of Generic International Indicators:
+
+FSC should prioritise the completion of the Generic
+International Indicators and specify their use by CBs where
+there are no FSC national or sub-national standards as soon as
+possible.
+
+The International Generic Indicators development process
+has been halted awaiting completion of the P&C review.
+There is frustration that the Generic Indicators development
+has not progressed, particularly as there is a strong need for
+clarification of interpretation by CBs, NIs and stakeholders
+to clarify the interpretation of the P&C and because it was a
+strongly supported motion at the 2005 General Assembly.
+
+6  l Greenpeace International l  Holding the Line with FSC l  Summary Report (vol 1) l  November 2008
+
+Recommendation
+(made to FSC mid-2007)
+
+FSC Progress
+(as of August 2008)
+
+2.4  Guidance on HCVF, SLIMFs and assessment of environmental impacts:
+
+FSC should produce guidance materials and training in relation
+to auditing, managing and planning for:
+
+a. HCVF.
+
+b. The assessment of environmental impacts (criterion 6.1)
+
+c. SLIMFs
+
+FSC has an active work programme on HCVFs and SLIMFs to
+give more practical guidance, and the broadened P&C review
+is now open to include Principle 9 in its review. Otherwise,
+there are no other known plans for FSC to undertake these
+specific tasks.
+
+There have been plans to do this that have stopped and started
+over several years.
+
+2.5  Simplification of FSC requirements:
+
+The simplification of the FSC standards, policy and guidance
+documents should be prioritised.  It is accepted that given
+the complexities of forests a forest certification system will
+necessarily be complex and technical. However this should
+not be an excuse to avoid simple clear language or to produce
+layer upon layer of standards, policies and guidance.
+
+2.6  Clarification of status of expired FSC national standards:
+
+FSC should develop clearer guidance or policy on the situation
+where there are expired national standards and they are now
+not in compliance with FSC P&C (further to GA 2005 motion
+49). The FSC Board is urged to decide to not implement policy
+motion 49 from the 2005 GA (that recommended that old
+national standards is guidance until a new standard could be
+agreed – but has been interpreted as the old standard is still
+valid) and instead recommend that the situation be reviewed.
+
+A full systems review is to be undertaken by the FSC in 2009.
+Postponed previously due to lack of resources.
+
+There are no plans to implement GA 2005 motion 49.
+Clarification has been requested to FSC on this topic and will
+be clarified formally as soon as possible with all CBs, NIs,
+stakeholders and certificate holders. FSC’s delay on this has
+compromised FSC’s integrity in at least one country (Sweden).
+
+2.7
+
+Implementing GA 2005 Motion 48 on supporting FSC national/regional standards setting:
+
+FSC should investigate whether it can be more proactive in
+establishing standards setting processes in key geographical
+areas, especially where high levels of stakeholder discontent
+with the certification process have been seen.
+
+As part of GA 2005 Motion 48 implementation consideration
+is being given on how to support standards setting process.
+This is linked to the new FSC strategy, Motion 51 and the fees
+review that will generate more resources for the network.
+
+FSC Africa regional office is coordinating the development of
+the regional standard for the Congo Basin, however, FSC has
+no standards setting plans for Indonesia.
+
+Greenpeace International l  Holding the Line with FSC l  Summary Report (vol 1) l  November 2008 l  7
+
+Recommendation
+(made to FSC mid-2007)
+
+FSC Progress
+(as of August 2008)
+
+3.  Addressing Controversial Companies or Operations and Partial Certification:
+
+3.1
+
+Identifying controversial or ‘high-risk’ companies or operations and special requirements for their certification
+compliance:
+
+FSC should both define a ‘high-risk’/controversial operation
+or company (e.g. size, complexity, historical bad practices,
+governance context) and consider developing a list of ‘safety
+procedures’ or ‘special requirements’ (similar to the guidance
+and particular requirements for SLIMFs).
+
+3.2  Clarification of Criterion 1.6 and partial certification
+
+FSC should revisit Criterion 1.6 further to the 2007 board
+clarification that it should only apply to the FMUs being certified.
+
+At the June 2007 FSC International Board meeting “it
+was agreed that the FSC should define criteria to identify
+controversial operations and develop special requirements for
+compliance of such operations.” This has not been completed.
+However to address a key category of high risk operations
+there is an emerging discussion on ‘large-scale operations’ and
+an FSC board committee has been formed to frame the issues.
+There will also be a side-event on this issue at the FSC General
+Assembly 2008 in Cape Town.
+
+The proposed FSC Policy of Association implementation may
+be of assistance here, where there is a loss of a license then it
+will result in loss of certificate if the cause of the disassociation
+is not addressed.  While this will not address a situation in
+advance of a certificate being issued, except in cases of
+the highest profile, it will provide a clear way forward should
+issues arise with existing certificates and so act as an eventual
+deterrent for new certificates as well.
+
+ASI has invited observers from NIs, NGOs and the FSC board of
+directors to audits of CBs involving a controversial certification.
+
+Smartwood has developed special procedures for ‘high visibility
+operations’ to ensure precautionary measures are taken,
+however, they have generally not prevented them from initiating
+certification processes with controversial companies.
+
+The FSC Policy of Association, that is currently being finalised,
+addresses some of the issues relating to partial certification
+but until the P&C and Generic International Indicators are
+developed the 2000 interpretation of C1.6 applies.
+
+8  l Greenpeace International l  Holding the Line with FSC l  Summary Report (vol 1) l  November 2008
+
+Recommendation
+(made to FSC mid-2007)
+
+FSC Progress
+(as of August 2008)
+
+4.  FSC should control the FSC trademark and generate revenue from it:
+
+4.1  FSC trademark control and revenue:
+
+FSC should press ahead in its work to draw up and implement
+direct trademark licensing agreements with certificate
+holders including clauses to prevent greenwash/other risks of
+association to FSC and penalties in the event of it occurring.
+
+It should be noted that greenwashing would appear to be far
+more prevalent in Chain of Custody certificates – a situation not
+investigated in this study. It is suggested that this is addressed
+as a priority by FSC.
+
+It was agreed at the FSC Board meetings of March and June
+2007 to develop the new licensing system and is currently one
+of three top organisational priorities for FSC. To this end, FSC
+Global Development was established as a separate company
+in October 2007. One of the purposes of the company is to
+implement and manage a licensing program that will directly
+control the process of application and use of the FSC labels,
+logos and trademarks. FSC Global Development has requested
+that FSC develop a standard that will require a CB to ensure
+a licence agreement is in place before issuing a certificate. In
+addition, if a licence is withdrawn, the CB will be notified and
+will require the certificate holder via a CAR process to address
+the root cause of the loss of the licence or lose their certificate.
+The roll out of the new licensing program has been delayed
+to mid 2009 due to financial constraints and is expected to
+dovetail with the Policy on Association.
+
+Greenpeace International l  Holding the Line with FSC l  Summary Report (vol 1) l  November 2008 l  9
+
+Recommendation
+(made to FSC mid-2007)
+
+FSC Progress
+(as of August 2008)
+
+5.  Provide guidance on SH consultation and improve SH relations:
+
+5.1  Recommendations of the Plantation Review:
+
+FSC should implement the recommendations of the Plantations
+Policy Review including clarifying the consultation responsibilities/
+requirements for the certification applicant/holder and CBs in
+both the main audit and annual surveillance audits.
+
+5.2
+
+Information and customer/stakeholder support:
+
+FSC needs to develop improved and integrated information
+materials for both SHs and certification applicants/holders that
+explain how the system works in simple terms. This would
+ideally be complimented by a ‘customer/stakeholder service’
+and interactive database and website.  This service should
+include an online ‘help’ index of FAQs (directing users to the
+appropriate policies, standards, guidance notes and information
+materials) and dedicated trained staff to answer queries and
+resolve complaints at the first opportunity within set response
+times. Such a service will need to be culturally adapted for
+different regions and is particularly important for regions where
+there is no FSC NI or national/regional standards.
+
+FSC should also develop a ‘stakeholder code of conduct’ that
+covers how SHs should provide feedback and file complaints,
+be transparent about their interests and conduct themselves
+when engaging in certification processes.
+
+The Technical Expert Teams were formed in the third quarter
+of 2007 and have had several meetings since then. They
+have made several proposals on stakeholder consultation
+requirements. Many of these are now incorporated into the
+P&C review.
+
+FSC is heading in this direction with it’s improvements of
+the website as a Central Point of Information. This is also a
+proposal for Controlled Wood and for the Complaints Process.
+
+FSC Germany’s guidance materials for SHs as part of its Baltic
+II project include guidance similar to that recommended here.
+There are no known plans for these materials or similar to be
+adopted internationally but it is being considered that these
+guidance materials could be used as a starting point for FSC
+to develop some international guidance. Some CBs already
+provide guidance. Also several CBs proposed a SH ‘code of
+conduct’ to guide SH in their responsibilities.
+
+10  l Greenpeace International l  Holding the Line with FSC l  Summary Report (vol 1) l  November 2008
+
+Recommendation
+(made to FSC mid-2007)
+
+FSC Progress
+(as of August 2008)
+
+5.3  Expertise and training of auditors:
+
+FSC guidance and training should be developed on SH
+consultation or the FSC standard on consultation should be
+revised so that it includes:
+
+-  Acceptable levels of time spent on SH consultation
+
+including defining which situations require more intensive
+processes;
+
+-  Methodologies used;
+
+-  An emphasis of the importance that consultations methods
+
+should be culturally appropriate;
+
+-  Expertise required for different risk and social situations
+
+including when third parties should be involved to facilitate;
+
+-  Who bears what component costs of the process; and
+
+-  Confidentiality of SH identify and input.
+
+5.4  Participation of observers in audits:
+
+FSC should implement GA 2005 Motion 14 on developing
+guidance on the participation of observers in FM assessments.
+The purpose of observer participation is to allow SHs to better
+understand the process of certification to build trust between
+stakeholders and certification bodies and forest managers, and
+to contribute to the SH consultation process.
+
+There are no plans known by FSC/ASI to implement this
+recommendation.
+
+CBs claim they go to substantial efforts to identify, locate and
+engage with stakeholders.
+
+It is in the FSC workplan for 2008 but not a priority.
+
+ASI has already started to invite observers during its field
+surveillance audits; e.g. Veracel, Norfor, Wijma, SEFAC. ASI will
+be proposing a code of ethics for observers during ASI audits,
+in order to build trust and facilitate participation. Commendably,
+some CBs such as Smartwood and Woodmark already
+regularly invite observers on audits.
+
+Greenpeace International l  Holding the Line with FSC l  Summary Report (vol 1) l  November 2008 l  11
+
+Recommendation
+(made to FSC mid-2007)
+
+FSC Progress
+(as of August 2008)
+
+6.
+
+Improve the FSC complaints resolution process:
+
+The review of the complaints system has been ongoing
+for several years. A revised complaints system is due for
+circulation for consultation in October 2008 and it is expected
+that it will have a clear hierarchy, be in compliance with ISO
+17011 requirements, and address most of the issues in this
+recommendation.
+
+ASI has developed and implemented its own complaints and
+appeal procedures and they are being used. However, they are
+not harmonised yet with the FSC procedures.
+
+There are no known plans to for FSC to develop a ‘SH/
+customer’ service, or complaints register, with the exception of
+expanding the capacity of the database to be the central point
+for information and responses.
+
+Woodmark is developing a registration system for queries and
+complaints.
+
+The revised complaints procedure may propose to remove
+either of the CB resolution steps. However, it would appear that
+only removing the CB ‘independent committee’ stage is likely.
+Several CBs have already moved to have the members of their
+‘independent committee’ entirely independent of the CB.
+
+6.1  New complaints resolution process:
+
+The full review of the FSC complaints resolution process,
+including completing the revision of the FSC Interim Disputes
+Resolution Protocol, must take place as a priority and with due
+consideration of the other recommendations set out in this
+report. It should address in particular:
+
+-  A clear hierarchy of comments, queries, complaints and
+
+appeals;
+
+-  Ensure both FSC and CBs have a dedicated point person
+
+for complaints and concerns;
+
+-  Provisions for alternative resolution processes that may be
+
+more appropriate in given cultural situations;
+
+-  Resolution of disputes at the earliest opportunity;
+
+-  Allow for concerns about certificates being able to be raised
+
+at any point after a certificate has been issued;
+
+-  Encourage the use of locally appropriate mediators/
+
+facilitators so that stakeholders from all backgrounds have
+equal participation in the system;
+
+-  A ‘customer/stakeholder service’ that includes a central
+
+web-based ‘complaints register’ and dedicated trained staff
+to give timely responses to queries and informal complaints,
+and where possible resolve them;
+
+-  Clarify the role of CBs and FSC Regional/National
+
+representatives in complaints and disputes;
+
+-  Harmonisation of FSC, ASI and CB ‘complaints’ and
+
+dispute resolution procedures;
+
+-  Compliance with ISO 17011; and
+
+-  Consider removing the step of a formal complaint being
+referred to a CB or to their ‘independent’ Disputes
+Committee altogether, or if FSC decides to maintain the
+formal complaints process at CB level it should change
+FSC-STD-20-001 to the effect that ‘independent’
+committee (or mediator at an earlier stage) must be
+completely independent of the CB.
+
+12  l Greenpeace International l  Holding the Line with FSC l  Summary Report (vol 1) l  November 2008
+
+Recommendation
+(made to FSC mid-2007)
+
+FSC Progress
+(as of August 2008)
+
+7.
+
+Investigate and Address CB-Client conflict of interest:
+
+There was an agreement that NGOs should undertake such
+a study during the CB and Environment Chamber members
+meeting at FSC in Bonn during March 2007. This investigation
+and report has now progressed with partners of FERN, WWF,
+Greenpeace, IFIA, and TFT. The report is due for finalisation
+by November 2008. ASI is in consultation with the report
+partners over the options and recommendations. There is
+also a side meeting on this issue organised for the FSC 2008
+General Assembly.
+
+7.1
+
+Investigate CB-Client conflict of interest:
+
+FSC should investigate and evaluate whether and to what
+degree there is a conflict of interest at the CB level between
+the full compliance with FSC standards and CB cost/profit.
+The investigation and options for precautionary measures to
+address should include an exploration of:
+
+-  Greater defining and clarification of the requirements for
+
+CBs making bids for clients and making CB bids more
+transparent;
+
+-  Whether FSC should play a role in vetting the CB bids to
+clients or even becoming the broker for certification work,
+and making the certificate holders FSC’s direct clients;
+
+-  A 5 yearly rotation of CBs that certify particular certificate
+
+holders;
+
+-  What should happen to a certified company if a CB is
+
+suspended (e.g. Eurocertifor and Wijma) and whether a CB
+should be able to sidestep serious problems in properly
+auditing a client found by ASI by suspending the client (e.g.
+SGS and Barama and Norfor).
+
+7.2  Strengthen accreditation standards on conflict of interest:
+
+ASI needs to consider if there are systemic or implementation
+problems in relation to conflict of interest and review its own
+policies and potentially extend the existing Conflict of Interest
+policy that is for Board and Staff members to CBs and their
+contractors.
+
+ASI claims to be addressing these issues, based on ISO
+standards and IAF guidance and is considering strengthening
+its requirements or providing further guidance.
+
+Greenpeace International l  Holding the Line with FSC l  Summary Report (vol 1) l  November 2008 l  13
+
+Recommendation
+(made to FSC mid-2007)
+
+FSC Progress
+(as of August 2008)
+
+8.  Clarify FSC’s role in and preconditions for operating in countries with large remaining
+
+intact forest landscapes, very poor levels of governance, and high levels of
+corruption.
+
+8.1  FSC develop guidance for CBs (and ASI) for ‘high-risk’ contexts:
+
+FSC should develop guidance for certification in countries
+with high levels of corruption where there may be a poor
+governance and levels of forest law compliance, corrupt
+practices and/or transfer pricing, or large remaining areas of
+intact forest. This would include developing definitions and
+thresholds for unacceptable corruption, poor governance,
+transfer pricing, large intact forests etc.
+
+While guidance has been given to CBs by FSC in the past,
+such in Indonesia in 2001 and for Democratic Republic of
+the Congo in 2007, there are no known plans to develop or
+generalise such guidance or develop specific guidance for
+different regions or ‘high-risk’ contexts. With the importance
+of tropical forests for climate regulation being more widely
+recognised, FSC has yet to make any position on expansion of
+industrial logging (and therefore subsequent GHG emissions)
+into large intact forest landscapes.
+
+14  l Greenpeace International l  Holding the Line with FSC l  Summary Report (vol 1) l  November 2008
+
+Recommendation
+(made to FSC mid-2007)
+
+FSC Progress
+(as of August 2008)
+
+9.
+
+Improved Communication
+
+9.1  Expand and clarify communication:
+
+-  FSC and CBs need to be more forthcoming about key ‘bad’
+
+news such as newly suspended certificates;
+
+-  ASI should make its office visit reports publicly available (or
+
+at least public summaries of the reports);
+
+-  ASI should choose a single format for its reports and use
+more definitive language when describing compliance.
+
+ASI website has been developed and has improved information
+flow including making announcements about key de-
+accreditations.
+
+ASI aims to review its website during 2009.  ASI plans to
+publish its office visit reports in the first half of 2009.  It is
+currently reviewing its quality management systems and
+developing new report templates.
+
+9.2  Timelines and communication requirements must be respected and reinforced:
+
+ASI and CBs should agree on a requirement that an electronic
+copy of the CB’s certification report should be sent to FSC prior
+to a certificate being issued.  In addition, ASI and CB reports
+need to clearly and accurately show when they have been
+updated – e.g., on the front cover and on the website links.
+
+Statements that anticipate the success of an audit from FSC or
+CBs, should be avoided, especially in controversial situations.
+Also, if FSC companies declare compliance with FSC standards
+prior to a certificate being issued, FSC should take action to
+have such statements withdrawn and revoked as a misuse of
+the FSC trademarks/and unsubstantiated claim.
+
+ASI is requesting CBs to upload all their certification reports
+on the FSC certificate database; however, this is not yet being
+done systematically by CBs.  Some CBs claim that this is
+already a requirement, so need FSC/ASI to confirm this and
+ensure enforcement with all CBs. ASI reports have the date
+of last update on the front page of the report. ASI has been
+following up on any misleading statements and this is also
+considered when ASI has performed audits.
+
+9.3
+
+Increase resources to improve communications, efficiency and outreach:
+
+ASI needs its own dedicated communications staff and
+expertise who have received technical training, in order
+to prioritise timely, professional responses and develop
+communications and marketing materials.
+
+Additional resources are also needed to establish ASI regional
+divisions which will facilitate enhanced stakeholder interactions,
+more efficient auditing of CBs, better support to NIs, improved
+quality control on standards and lead to a greater emphasis
+on performance.  Additional capacity could also improve its
+communication efficiency.  An urgent review of ASI’s resource
+and staff levels is needed at both the FSC IC and regional level.
+
+ASI has stated that it has plans to do this in 2008 and has
+confirmed that it will be implemented in the first half of 2009.
+
+This proposal has support from FSC and ASI. However, FSC
+(who have had budget signoff of ASI) have not prioritised this
+due to competing financial needs. With the expected increase
+in revenue from the new licensing programme there is the
+opportunity to change this.
+
+FSC recently hired a new communications manager.
+
+Greenpeace International l  Holding the Line with FSC l  Summary Report (vol 1) l  November 2008 l  15
+
+Greenpeace is an independent global
+campaigning organisation that acts
+to change attitudes and behaviour,
+to protect and conserve the
+environment and to
+promote peace.
+

@@ -1,0 +1,151 @@
+# Acceptance of Unrecyclable Plastic Products and California’s Continued Exports of Plastic Waste Exports to Non-OECD Countries
+
+Acceptance of Unrecyclable Plastic Products and California’s Continued Exports
+of Plastic Waste Exports to Non-OECD Countries
+
+To Statewide Commission on Recycling Markets and Curbside Recycling
+
+SUBJECT: Acceptance of Unrecyclable Plastic Products and California’s
+Continued Exports of Plastic Waste Exports to Non-OECD Countries
+
+The co-signers of this letter, Greenpeace USA, Oceana, Surfrider Foundation,
+the Center for Biological Diversity, The 5 Gyres Institute, Peak Plastic
+Foundation, The Center for Oceanic Awareness, Research, and Education (COARE),
+Beyond Plastics, San Francisco Bay Physicians for Social Responsibility, Story
+of Stuff Project, Basel Action Network, GAIA, Algalita, and Safer Chemicals,
+Healthy Families, on behalf of our more than one million California members,
+write to provide input on the California Statewide Recyclable List, currently
+under discussion by the Statewide Commission on Recycling Markets and Curbside
+Recycling. We urge you to let the data guide your decision. Accordingly,
+plastic items for inclusion should be limited to #1 PET bottles and #2 HDPE
+narrow-neck bottles and jugs. Any of these items with non-compatible shrink
+sleeves or other unrecyclable components should be excluded. Items such as
+clamshell packaging, PP5 materials, or aerosol containers that do not meet
+California criteria should not be included. Further, we encourage the
+Commission to use the Statewide Recyclable List as a basis for what can be
+included in curbside recycling programs in California. Provisions should be
+made for individual MRFs to add additional items if they can demonstrate a
+readily available market for them.
+
+Limiting the materials that can be marketed as recyclable and included in
+curbside recycling programs will decrease contamination and increase
+efficiency, with significant cost savings. The time-consuming and expensive
+process to sort and remove unrecyclable items from recycling streams has
+undermined recycling programs in the state and across the U.S. This data-
+driven approach will also have significant benefit for communities in the
+Global South.
+
+**California Is the World’s Leading Plastic Waste Exporter**
+
+To address the plastic pollution crisis, the United Nations Basel Convention
+agreed to strictly control the exports of Plastic Wastes. This new agreement,
+a series of amendments adopted by 187 countries, took effect beginning January
+1, 2021. While other countries are now restricting plastic waste imports to
+Non-OECD countries, the flow of U.S. plastic waste to countries with high
+waste mismanagement rates continues at a high level. In March 2021 alone,
+California exported 7.4 million kg of plastic waste to Non-OECD countries,
+including 3.8 million kg to Malaysia (equal to 24 TEU shipping containers per
+day).
+
+We are concerned that the State of California is continuing to shift its
+plastic waste burden onto other countries, causing harm to the global
+environment, communities, and the health of people around the world. [More
+than one hundred other
+investigations](https://www.lastbeachcleanup.org/plastic-waste-exports) over
+the past several years have documented the harms and shown that exported
+plastic wastes have not been safely recycled.
+
+The United States is now the largest exporter of plastic waste to Non-OECD
+countries and California accounts for 27% of the plastic waste. More than any
+other state, California’s recycling facilities continue to accept plastic
+waste that is exported to developing countries that have weak wage and age
+labor standards and few environmental protections.
+
+![](https://www.greenpeace.org/static/planet4-usa-
+stateless/2024/11/76691e3a-screen-shot-2021-05-18-at-10.15.40-am.png)
+
+The Statewide Commission on Recycling Markets and Curbside Recycling must take
+a leading role in ending the greenwashing of unrecyclable plastic products and
+exports of plastic waste that are proven to cause plastic pollution in the
+ocean and cause acute social and environmental harms in receiving countries.
+
+![](https://www.greenpeace.org/static/planet4-usa-
+stateless/2024/11/e47a19a0-screen-shot-2021-05-18-at-10.15.50-am.png)
+**Next Steps**
+
+There is growing public concern over the final fate of plastic materials
+collected for recycling and greenwashing of unrecyclable plastic products.
+**We request that only plastic items that are sorted by type and currently
+have sufficient domestic reprocessing capacity be labeled and accepted as
+recyclable.** Other plastic items should not be included on California’s
+Statewide Recyclable List. Labeling plastic items as recyclable that are not
+sorted and do not currently have proven domestic markets deceives consumers.
+Greenwashing of unrecyclable products stifles innovation to improve product
+design. It works against market development and negates the need for producers
+to invest in sorting at material recover facilities (MRFs) and plastic
+reprocessing facilities.
+
+We look forward to your response. Please reply to John Hocevar, Oceans
+Campaign Director for Greenpeace USA <[[email protected]](/cdn-cgi/l/email-
+protection)>, who will distribute responses to the signers of this letter and
+other concerned stakeholders.
+
+Sincerely,
+
+Michael Doshi
+Director of Partnerships
+Algalita
+
+Jim Puckett
+Executive Director
+Basel Action Network
+
+Judith Enck
+Former EPA Regional Administrator
+President
+Beyond Plastics
+
+Miyoko Sakashita
+Oceans Program Director
+Center for Biological Diversity
+
+Christopher Chin
+Executive Director
+The Center for Oceanic Awareness, Research, and Education (COARE)
+
+Monica Wilson
+Associate Director
+GAIA
+
+John Hocevar
+Oceans Campaign Director
+Greenpeace USA
+
+Mike Schade
+Campaign Director Mind the Store campaign
+Safer Chemicals, Healthy Families
+
+Christy Leavitt
+Plastics Campaign Director
+Oceana
+
+Stiv J. Wilson
+CoDirector
+Peak Plastic Foundation
+
+Robert M. Gould, MD
+President
+San Francisco Bay Physicians for Social Responsibility
+
+Sam Pearse
+Campaign Manager
+Story of Stuff Project
+
+Angela T. Howe,Esq.
+Legal Director
+Surfrider Foundation
+
+Anna Cummins
+Co-Founder
+The 5 Gyres Institute
+

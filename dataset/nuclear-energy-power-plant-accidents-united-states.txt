@@ -1,1501 +1,0 @@
-# Archivo original: nuclear-energy-power-plant-accidents-united-states.pdf
-# Tipo: .PDF
-# Procesado el: Sat Oct 11 09:41:18 -03 2025
-
-1
-Nuclear Near Misses: 
-A Decade of Accident Precursors at U.S. Nuclear Plants  
-
-
-2
-Photo Source: U.S. Nuclear Regulatory Commission,  Fukushima and Subsequent
-Lessons Learned Actions, NRC Commissioner William C. Ostendorff, Pennsylvania Society of Professional Engineers September 19, 2014
-http://www.nrc.gov/about-nrc/organization/commission/comm-william-ostendorff/comm-ostendorff-20140919-slides.pdf
-Greenpeace US would like to dedicate this report to those individuals at the U.S.Nuclear Regulatory Commission (NRC) who have attempted to regulate reactors and reduce the risks they pose to public health and safety. These individuals have risked their careers by speaking truth to power inside the NRC and informing the public of the risks posed by nuclear power plants.
-Copyright 2016 by Jim Riccio and Greenpeace Inc.
-
-3
- 
-TABLE of CONTENTS:
-Executive Summary
-IntroductionNuclear Near Misses Terminology & Methodology
-Nuclear Power Plant Risk After Fukushima
-A Decade of Nuclear Near Misses at US Nuclear PlantsImportant Near Misses at US Nuclear PlantsNear Misses at US Nuclear Plants: Flooding
- Near Misses at US Nuclear Plants: Loss of Offsite Power
-The U.S. Nuclear Regulatory Commission’s Missing Near MissesDid the NRC Mislead Congress?ConclusionEndnotesAppendix A:  Nuclear Near Miss Events 2004 - 2014Appendix B: Nuclear Near Miss Conditions 2004 - 2014Appendix C: Nuclear Near Misses Not Modeled in Risk Assessments
-Appendix D: Oconee Time Line 
-3
-
-4
-Thirty years after Chernobyl and five years after the triple meltdown at Fukushima 
-Daiichi in Japan, U.S. nuclear regulators are claiming that U.S. nuclear power plants are safe and that Fukushima couldn’t happen here. Nothing could be further from the truth.
-Contrary to these claims, Greenpeace has documented 166 near misses or acci-
-dent precursors at US nuclear power plants over the past decade that risk analysts have determined are precursors to a meltdown.  The U.S. Nuclear Regulatory Com-mission (NRC) documented 61 events and 102 conditions at US nuclear plants that  
-were near misses to a meltdown. 
-Unfortunately, NRC’s Accident Sequence Precursor program missed three of the 
-most risk significant near misses in the past decade; the triple meltdown thr eat to 
-Duke Energy’s Oconee Nuclear Station in South Carolina. According to NRC’s risk analysts, if Jocassee Dam failed all three of the nuclear reactors at Oconee were certain to meltdown.  And contrary to the claims of the Nuclear Regulatory Commis -
-sion, the threat to the Oconee reactors was hundreds of times more probable than the tsunami that struck Japan in 2011. The NRC considers ten of these near misses to be important precursors to a core melt accident.        Executive SummaryNuclear Near Misses: 
-A Decade of Accident Precursors at U.S. NuclearPlants                                                                                    Greenpeace                                                                       
-
-5
-IMPORTANT NEAR MISSES AT U.S. REACTORS 2004 - 2014
-
-6
-The three reactors at Duke Energy’s 
-Oconee nuclear plant weren’t the only ones that were at risk from flooding.  The NRC has documented over a dozen other nuclear reactors that were threat-ened by flooding over the past decade.  Many of these near miss vulnerabilities dated back decades and were only iden-tified after the NRC was forced to take a closer look at U.S. nuclear plants in the aftermath of Fukushima.  In addition to the flooding vulnerabilities, NRC risk analysts identified a statistically signifi-cant trend in Losses of Offsite Power or (LOOPs) at US nuclear plants. This trend is a result of 20 LOOP events in just the last four years.
-Equally as disturbing as the 166 accident 
-precursors or near misses is the fact that NRC staff has had to turn whistleblow-er on four of the top ten near misses in order to get the agency to address the risks in a timely manner.  
-Contrary to the claims of U.S. regulators 
-and the nuclear industry, nuclear pow-er plants can experience catastrophic failures like those we witnessed at Fuk-ushima Daiichi in Japan.  This probabil-ity makes nuclear power anything but “safe”. The NRC’s failure to make public the documents that revealed the flood-ing threat to all three reactors at Duke Energy’s Oconee Nuclear Station has only served to significantly delay the final resolution of nuclear near misses that are even more risk significant than those that caused the fiasco at Fukushima Daiichi in Japan.  The NRC’s failure to address long standing safety issues at Oconee and other U.S. nuclear plants further serves to undermine public confidence in nuclear power and those that regulate it.  
-Greenpeace US’ report on Nuclear Near 
-Misses finds that despite years of in-spections, licensing and relicensing, safety issues continue to be identified at U.S. reactors; many of which date back decades, some vulnerabilities have ex-isted since the nuclear plants were first started.  These long standing vulnerabil-ities make nuclear power anything but safe. Greenpeace has long called for the phase out of nuclear power and this re-port further supports that determination.
- 
-6
-
-7
-Image: Sign in Restaurant in FukushimaSign saying that the milk is not from local 
-cows - due to the high radiation in the area - at a restaurant in Fukushima City.
-
-8
-Ten years ago, Greenpeace published 
-our report American Chernobyl: Nuclear Near Misses at U.S. Reactors Since 1986 to remind the public and government officials that contrary to the claims made by the nuclear industry lobbyists and U.S. Nuclear Regulatory Commission (NRC) Chairman and Commissioners:
- *U.S. reactors can have acci-
-dents with consequences equal to or 
-greater than the Chernobyl disaster;
- *U.S. reactors have had and will 
-continue to experience “near misses” 
-that could result in a meltdown;
- *U.S. reactor containments were 
-not designed to withstand a reactor 
-meltdown and the government has lit-tle confidence that any of them could.
-Now, thirty years after Chernobyl and 
-five years after the meltdown of three General Electric-designed nuclear reac-tors
-1  at the Fukushima Daiichi nuclear 
-plant in Japan, U.S. NRC Commission-ers are again claiming that U.S. reactors are “safe” and that “Fukushima couldn't happen here.”
-2  
-Despite blithe assurances from the NRC 
- Introduction
-Commissioners since the Fukushima fiasco, that “(t)he NRC continues to de-termine that US nuclear plants are safe,”
-3  
-Greenpeace’s review of a decade of nuclear near misses shows that US reac-tors are still vulnerable to both flooding and losses of off-site power as well as other vulnerabilities to a meltdown that make them anything but “safe.”
-NRC risk analysts have documented 
-163 events or conditions at U.S. nucle-ar power plants in the last decade that could have resulted in a meltdown. In addition to these 163 accident precur -
-sors or near misses identified by the NRC, Greenpeace has documented three important near misses that NRC risk analysts failed to review under the NRC’s Accident Sequence Precursor Program (ASP).
-After Fukushima the nuclear industry and 
-its regulators have been forced to reex-amine the holes in the nation’s nuclear safety net
-4.   But as former NRC Chair -
-man Gregory Jaczko noted “unfortunate-ly, all too often, when faced with tough policy calls, a majority of this current commission has taken an approach that is not as protective of public health and safety as I believe is necessary.”
-5 Nuclear Near Misses: 
-A Decade of Accident Precursors at U.S. NuclearPlants                                                                                    Greenpeace                                                                       
-
-9
-In order to compile the last decade of 
-nuclear near misses Greenpeace re-viewed the U.S. Nuclear Regulatory Commission’s (NRC) program for track-ing and evaluating near misses or as the agency terms them “precursors to severe core damage accidents” or “ac-cident precursors.” Accident precursors are those actual events or conditions at nuclear reactors that if additional failures had occurred, would have resulted in in-adequate cooling of the radioactive fuel and caused it to meltdown.
-6  The NRC 
-analyses inspection reports and licensee event reports submitted by the nuclear plant operators to capture those events or conditions that could have led to a meltdown.  
-For the purpose of analyzing risk, the 
-NRC divides nuclear reactor risks into two categories: initiating events and degraded conditions.
-7  Initiating events 
-are actual occurrences such as a loss of offsite power (LOOP) or an automat-ic or manual shutdown (SCRAM) of the reactor with complications like any addi-tional equipment failures or degradation of safety system function.
-8  Degraded 
-conditions are those recognized safety system or equipment degradations or unavailability that came to light without an occurrence of an initiating event.
-9  
- Nuclear Near Misses 
-To analyze initiating events, the NRC cal-culates a conditional core damage prob-ability or CCDP . CCDP represents the probability that the nuclear reactor would experience core damage or a meltdown of the radioactive fuel rods, given an oc-currence of the initiating event and any subsequent equipment failure or degra-dation.
-10 
-To analyze degraded conditions, the NRC calculates the increase in core damage probability or CDP . CDP repre-sents the increase in the probability that the reactor would damage the core for the period that safety equipment was un-available or incapable or performing its function. 
-11  
-Once the NRC has assessed an event, they determine the probability that it could have led to a meltdown.  The NRC’s Accident Sequence Precursor (ASP) program uses CCDP and CDP interchangeably and uses scientific no-tation to describe the significance.  For example Three Mile Island, Chernobyl and Fukushima the core damage proba-bility was 1 in 1.  Nuclear Near Misses: 
-A Decade of Accident Precursors at U.S. NuclearPlants                                                                                    Greenpeace                                                                       
-
-10
-For those accidents that did not result in 
-core damage the NRC assess a proba-bility expressed as a negative function. For example:
-1 X 10-1  = 1/10;
-1 X 10-2  = 1/100;
-1 X 10-3  = 1/1,000,
-1 X 10-4 = 1/10,000,
-1 X 10-5 = 1/100,000
-1 X 10-6 = 1/1,000,000 
-12
-For the purposes of assessing reactor 
-risk the NRC breaks the events into cat-egories based upon their perceived sig-nificance.  According to NRC, accident precursors with a Conditional Core Dam-age Probability or CCDP or CDP of 1 in 1000 are considered significant, accident precursors with a CCDP of 1 in 10,000 are considered important and those with a CCDP of greater than 1 in a million are consider precursors.
-13  
-The chart below demonstrates how NRC’s evaluation of nuclear power plant risk relates to NRC’s inspection pro-cess and the color coding NRC uses in the significance determination process to evaluate near miss conditions at US reactors. 
-14  
-(SDP = Significance Determination Pro-cess, ASP = Accident Sequence Precur -
-sor, MD = Management Directive, AIT = Augmented Inspection Team. IIT = Inci-dent Investigation Team and SI = Special Inspction) .
-15 Nuclear Near Misses: 
-A Decade of Accident Precursors at U.S. NuclearPlants                                                                                    Greenpeace                                                                       
-Terminology & Methodology
-
-11
-In the aftermath of the triple meltdown at 
-Fukushima, many, including Greenpeace,  have questioned the validity and useful-ness of nuclear risk assessments.  The nuclear industry’s claims regarding the risk of melting down a nuclear reactor do not stand up in the face of the historic record.   
-As Princeton’s MV Ramana pointed out 
-in the Bulletin of Atomic Scientists: 
-“The lesson from the Fukushima, 
-Chernobyl, and Three Mile Island ac-cidents is simply that nuclear power comes with the inevitability of cata-strophic accidents. While these may not be frequent in an absolute sense, there are good reasons to believe that they will be far more frequent than quantitative tools such as probabilistic risk assessments predict.”
-16
-To claim that nuclear power is safe is little more than atomic hubris. Nuclear power plants will fail, and when they do, the consequences are catastrophic for individuals and society. As the co-dis-coverer of the DNA molecule once put it, "the idea that the atom is safe is just a public relations trick."  
-17
-Fukushima has also reminded us that probability will not protect the public 
-  Nuclear Near Misses: 
-A Decade of Accident Precursors at U.S. NuclearPlants                                                                                    Greenpeace                                                                       
-Nuclear Power Plant Risk 
-when a nuclear reactor melts down. 
-Nassim Nicholas Taleb's book The Black Swan addressed the impact of low-prob-ability, high-consequence events such as Fukushima and he points out the psy-chological trap of relying on probability to protect us.  As Taleb stated after Fuk-ushima: 
-“I spent the last two decades explain-
-ing … why we should not talk about small probabilities in any domain. Science cannot deal with them. It is irresponsible to talk about small probabilities and make people rely on them, except for natural systems that have been standing for 3 billion years (not manmade ones for which the probabilities are derived theoretical-ly, such as the nuclear field for which the effective track record is only 60 years).”
-18 
-Probability provides cold comfort when reactors are overwhelmed by forces they were never designed to resist—such as the meltdown of the radioactive fuel rods that make up the core of the nuclear re-actor.  As John Downer points out in his article, “Disowning Fukushima”, “What is the purpose of a risk calculation of dubious reliability? It is not useful to say that there is a one on a million chance of a meltdown but an unknowable but nonetheless meaningful chance that that figure is completely wrong …?”  
-19
-
-12
-As Downer states, “The only fact that 
-Fukushima demonstrates absolutely unambiguously is that devastating over -
-sights can exist in what authoritative experts ardently claim to be rigorous, objective and conservative risk calcula-tions.” 
-20While nuclear risk assessment 
-calculations cannot and should not be taken as gospel, the NRC’s Accident Sequence Precursor program could pro-vide useful insights into the gaps in the regulator’s approach to preventing melt-downs.  As Price Waterhouse Coopers wrote after Fukushima:
-“The U.S. nuclear industry must en-
-hance its risk management capabilities in two ways. First, it must strengthen existing risk assessment methodologies to address extremely low-probability, high-consequence risks. This will involve  
-improving existing processes and tools to identify potential risks from a much   wider range of uncertainties than the industry has used in the past. Traditional  thinking about “known unknowns” must be expanded to include “unknown   unknowns.” 
-21
-However, contrary to the PWC’s recom-mendation the U.S. Nuclear Regulatory Commission has ceased to include and acknowledge those potentially risk sig-nificant events or conditions that are not modeled in their assessments.  The last time NRC acknowledged the blind spot in their nuclear power plant risk models 
-was the year BEFORE Fukushima.
-22
-From 2001- 2009, “30 percent of the 
-identified precursors involved initiators or failure cases were not explicitly modeled in the associated SPAR (Standardized Plant Analysis Risk) model.”
-23  The near 
-misses NRC failed to model that are in-cluded in this report are contained in the appendix. 
-As Yale University Professor Emeritus 
-and renowned accident expert Charles Perrow pointed out in the wake of Fuk-ushima, “it is important to ask whether some industrial systems have such huge catastrophic potential that they should not be allowed to exist.”
-24   One of many 
-reasons Greenpeace has long called for the phase out of nuclear power in the US and around the planet.Risk After Fukushima
-
-13
-Fukushima Daiichi After 
-Hydrogen Explosions1 
-
-14
-In compiling the last decade of nucle-
-ar near misses at US nuclear plants, Greenpeace has reviewed the U.S. Nu-clear Regulatory Commission Accident Sequence Precursor (ASP) reports from 2005 - 2015. The NRC’s analysis of risk significant events and conditions at US reactors involves the review of hundreds of potential precursors and this takes time. So the NRC reports released in 2015 cover near misses from 2014. After reviewing a decade of nuclear near miss-es, Greenpeace has found the good, the bad and the ugly in the NRC’s assess-ment of reactor risk and it’s regulation of US nuclear plants.
-The Good: There has not been a sig-
-nificant near miss since the 2002 Davis Besse debacle. The reactor vessel head degradation at Davis Besse in Ohio is still the most risk significant near miss since the meltdown at Three Mile Island.
-25
-The Bad: Despite NRC’s claims that US nuclear plants are “safe,” US reactors have experienced 166 near miss events or conditions that were so risk significant that government regulators considered them “precursors” to a meltdown. The NRC’s Accident Sequence Precursor program identified 61 events and over 100 conditions at US nuclear plants that 
- A Decade of Nuclear Near Misses at US Nuclear Plants Nuclear Near Misses: 
-A Decade of Accident Precursors at U.S. NuclearPlants                                                                                    Greenpeace                                                                       
-could have led to a meltdown; NRC con-sidered seven of these to be “important” precursors. However, the NRC’s  ASP program failed to capture three of the most risk significant conditions over the past decade; the triple meltdown threat to Duke Energy’s Oconee Nuclear Sta-tion, 30 miles west of Greenville South Carolina. While the NRC ASP program failed to review the flood risk at Oconee, NRC’s risk analysts did identify a sta-tistically significant increase in Loss Of Off-site Power (LOOPs) events over the last decade due to 20 such events in the past four years.
-The Ugly: After Fukushima, NRC com-
-missioners testified to Congress that U.S. nuclear plants were “safe” and that a Fukushima couldn’t occur in the United States. However, NRC commissioners and staff were aware as early as May of 2008 that Duke Energy had failed to pro-vide “adequate protection” from flooding risks at Duke Energy’s Oconee Nucle-ar Station. The NRC was aware that should the Jocassee dam just 10 miles up stream fail, all three Oconee nuclear reactors were certain to melt down.
-26  
-Despite this knowledge it took NRC until June 2010 to require Duke to install tem-porary mitigation measures.
-27  As of April 
-2016 permanent flooding fixes to the Oconee site are still not competed. 
-
-15
-Almost as disturbing as the Oconee near misses is the fact that NRC staff has had 
-to blow the whistle and go public on four of the near misses in or der to force the 
-agency to address long standing safety issues at US nuclear plants. While not as risk significant as the triple meltdown threat at Oconee, the NRC staff has also iden-tified flooding vulnerabilities at over a dozen reactors that were risky enough to be considered accident precursors or near misses. Despite licensing and relicensing these nuclear reactors, the NRC only caught these flooding vulnerabilities AFTER the triple meltdown at Fukushima forced regulators to take a closer look.
-Important Near Misses at US Nuclear Plants28
-Table 1
-
-16
-The U.S. Nuclear Regulatory Commission’s Accident Sequence Precursor Program 
-considers any event or condition with a risk equal to or above 1 in 10,000 as an “im -
-portant” precursor to a core damage accident.29   Over the past decade, there have 
-been ten such event or conditions that Greenpeace has documented above.  Unfor -
-tunately, three of the most risk significant findings in the past decade were not cap-tured by NRC’s ASP program; the triple meltdown threat at Duke Energy’s Oconee Nuclear Station.
-The triple meltdown threat at Duke Energy’s Oconee nuclear power plant in South 
-Carolina only became public after the triple meltdown at Fukushima when NRC safety advocates blew the whistle over NRC and Duke Energy’s failure to mitigate the threat in a timely manner.
-30  According to NRC risk analysts:
-“The probability of Jocassee Dam catastrophically failing is hundreds of times greater than a 51 foot wall of water hitting Fukushima Daiichi and, like the  tsunami in Japan, the man‐made ‘tsunami’ resulting from the failure of the  Jocassee Dam will –- with absolute certainty –- result in the failure of three re-actor plants along with their containment structures.”
-31 
-Unfortunately, the triple meltdown threat at Oconee isn't the only important precur -
-sor that has caused NRC staff members to risk their careers and turn whistleblower. In March 2016, seven NRC engineers filed a public petition to force the agency to enforce it’s own regulations at Exelon’s Byron plant. 
-32 
-According to the engineers’ petition: 
-“A design flaw in the electric power systems of all but one of the 100 U.S. nu -
-clear plants. The flaw prevents the detection of certain disruptions on power 
-lines connected to the plants. If a degraded power line were called into service during an emergency, the reactor's motors, pumps and valves could burn out, preventing a safe shutdown.”
-33 
-
-17
-The NRC engineers point to the fact that this important accident pr ecursor at Byron 
-has occurred thirteen times in the past 14 years. The petition states that in February 
-of 2013,  “the staff determined that all nuclear facilities are susceptible to this design vulnerability except one plant and recommended that NRC takes prompt regulatory action.”  
-34
-The fact that the Nuclear Regulatory Commission’s own engineers have had to re-peatedly break ranks and go public on four of the ten most risk significant events in the past decade reveals serious safety culture issues inside the NRC and the extent to which the Nuclear Regulatory Commission is captured by the industry it claims to regulate.
-35 
-(NOTE: Since Greenpeace first released our compilation of nuclear near misses, the Union of Concerned Scientists (UCS) has conducted an annual review of accident precursors. For detailed descriptions of many of the near misses mentioned in this report see UCS’ annual reports.
-36  All events and conditions considered accident 
-precursors or nuclear near misses in the last decade are listed in the appendix.) 
-
-
-18
-Unfortunately, the three reactors at Duke Energy’s Oconee Nuclear Station wer -
-en't the only nuclear reactors that were threatened by flooding. While the threat 
-to Oconee certainly posed the greatest risk, NRC’s Accident Sequence Precursor (ASP) program identified flooding risks at over a dozen other reactors that were so severe they made NRC’s cut as an accident precursor or “near miss”. While NRC’s ASP program captured these vulnerabilities, it fails to address why the NRC or the nuclear corporations they license failed to identify these long standing safety issues.
-                                                                                                                                                                                                                           
-   
-                                                                                                                                                                                                                                   Near Misses at US Nuclear Plants: Flooding
-Nuclear Near Misses: 
-A Decade of Accident Precursors at U.S. NuclearPlants                                                                                    Greenpeace                                                                       
-Table 2
-
-19Near Misses at US Nuclear 
-Plants: Loss of Offsite Power
-The NRC and the nuclear industry only captured the majority of flooding vulnera-
-bilities AFTER the triple meltdown at Fukushima forced the agency to take a closer look. These long standing vulnerabilities to flooding represent holes in NRC safety net and call into question the caliber and quality of NRC’s licensing and relicensing schemes. How can major safety flaws go undetected through not one but two li-censing processes and decades of NRC inspections? 
-
-
-20
-As the world witnessed at Fukushima, the loss of offsite power to cool the radioac -
-tive fuel can lead to a meltdown with devastating consequences. The NRC’ s web 
-site states that, “the availability of ac power to commercial nuclear power plants is 
-essential for safe operations and accident recovery. A loss of offsite power (LOOP) event, therefore, is considered an important contributor to total risk at nuclear power plants.” 
-37 
-The NRC Accident Sequence Precursor program identified a statistically significant increase in Loss of Offsite Power near misses at US reactors. This increase is due to the occurrence of 20 losses of off site power in just the last 4 years.
-The U.S. Nuclear Regulatory Commission has long recognized that: Loss of offsite power (LOOP) can have a major negative impact on a power
- plant’s ability to achieve and maintain safe shutdown conditions. Risk analyses
- suggest that loss of all alternating current power contributes over 70% of   
- the overall risk at some U.S. nuclear plants.
-38 
- 
-According to NRC, typically all loss of off site power events are risky enough to be considered accident precursors or near misses.
-39 
-                                                                                                                                                                                                                                   40
-  
-
-21
-Greenpeace’s analysis of the U.S. Nu-
-clear Regulatory Commission’s accident sequence precursors or near misses over the past decade reveals that three of the most risk significant conditions discovered by NRC regulators over the past ten years never made it into the NRC accident sequence precursor pro-gram.  As the chart of Important near misses reveals, only five near misses in the past decade posed more risk than the triple meltdown threat to Duke Ener -
-gy’s Oconee nuclear power plant.    According to NRC’s risk analysis the NRC’s Missing Near Misses
-threat to the three reactors at Oconee from flooding caused by failure of Jocas-see dam was 2.8 X 10-4.
-41   This level 
-of risk makes the threat an important precursor that should have been cap-tured by the NRC’s Accident Sequence Precursor program and detailed in the reports NRC issues on an annual basis. The graphic below, only publicly released by the NRC under the Freedom of Infor -
-mation Act, shows the flooding risk at the Oconee nuclear plant compared to the other threats to the nuclear plant that the NRC requires Duke Energy to defend against.  Nuclear Near Misses: 
-A Decade of Accident Precursors at U.S. NuclearPlants                                                                                    Greenpeace                                                                       
-Table 3
-
-22
- While the NRC claims to conduct “its regulatory responsibilities in an open and 
-transparent manner,”42   the agency has been anything but open and transparent 
-when dealing with the triple meltdown threat at the Oconee nuclear power plant. In 
-fact, the NRC has attempted to withhold information concerning this long standing safety issue by claiming the flooding threat was a security issue.  The NRC repeat-edly stamped documents:
-Limited Internal Distribution Permitted
-Official Use Only - Security-Related Information
-However according to a September 2012 letter from a NRC Reliability Risk Engineer 
-to then NRC Chairman Alison McFarlane:
-“There is nothing in the letter which is classified with regard to national securi-
-ty. There is nothing in the letter which is Safeguards. There is no discussion in the letter about any security related topics. In fact, an electronic word search of the letter only finds the word "security" in the "Security-Related Informa-tion"markings.
-Why is this document for "Official Use Only"? Why is it "Security-Related Info r-
-mation"? Why is only "Limited Internal Distribution Permitted"? I see nothing in 
-the 2008-08-15 letter from NRR/DORL to Duke Energy which prevents it from being released to the public. Is "transparency" still something we've commit-ted to?”
-43
-The NRC even withheld the letter cited above until the NRC Risk Engineer sued the agency for its release.
-44  As documents released to Greenpeace under the Freedom 
-Of Information Act detail, Duke Energy & the NRC failed to provide adequate pro-tection against flooding since the plant was licensed. The NRC only began to r ealize 
-this in 2006, when of the flooding vulnerability of Oconee’s safe shutdown facility made NRC risk analysts take a harder look.
-45   If Jocassee dam fails, all three nucle-
-ar reactors at Oconee will meltdown; basically a Fukushima in South Carolina.46  
-
-23
-The NRC’s report on flooding risks that 
-Greenpeace provided to Huffington Post indicates that:
-“The predicted flood would reach 
-(Oconee Nuclear Station) in approxi-mately 5 hours …The Failure scenario results are predicted such that core damage occurs  in about 8 to 9 hours following the dam break and contain-ment failure in 59 to 68 hours. When containment failure occurs, significant dose to the public would result.”
-47 
-But rather than order the shut down of the nuclear plant until flooding defenses were in place, NRC entered into negotia-tions with Duke Energy to justify contin-ued operation. 
-As the Oconee Timeline
-48  reveals, the 
-NRC staff struggled to get NRC senior 
-management to address the flood threat in a timely manner. NRC staff was con-cerned that forcing Duke Energy to fix the long standing vulnerability would be an admission of NRC’s “guilt”. The timeline also reveals that NRC Commis-sioners and their technical assistants were repeatedly briefed on the lack of adequate protection at the Oconee nu-clear plant. Despite the recognized threat it took NRC years to order Duke Energy to install temporary flooding mitigation at Oconee.    
-Image: Children in FukushimaChildren walk along a road which had earlier been assessed by a Greenpeace team for radioactive contamination.
-
-24
-Excerpts from the seventeen page “Oconee Timeline,”49  only released to Green-
-peace through a 2012 Freedom Of Information Act (FOIA) request, reveal a dis-
-turbing pattern of regulatory inaction. The Oconee Timeline details the negotiations between Duke Energy & NRC from March 2008 - May 2009:
-3/19/08 Duke Energy removed references to the SSF(Safe Shutdown Facility) 
-wall   wall and Jocassee Dam rupture from the FSAR (Final Safety Analysis 
-Report)  Report) via NRC’s 50.59 process.
-4/10/08 NRC senior managment (Jack Grobe) wanted a full backfit analysis,   
-          “given Duke’s record of fighting NRC.” 
-4/29/08  NRC staff was concerned that forcing Duke to fix the flooding issue via a  
-  backfit was an admission of guilt 
-5/21/08 NRC Senior management (Jack Grobe) felt NRC “did not have an   
-  adequate protection argument” but “couldn’t define adequate    
-          protection.”
-6/11/08  Duke claimed that the flooding threat was incorrectly added to the FSAR  
-  (Final Safety Analysis Report) so they felt they could remove it.
-8/4/08 Questions from Ed Williamson on acceptance of Oconee’s license    
-          renewal application (it turns out we lack grounds to rescind granting  
-                   their license renewal) 
-8/6/08                          NSIR (Nuclear Security & Incident Response) classified a  meeting on   Oconee      
-flood risk as SGI (safeguards information) & had to hang  up onNRC region II Vic McCree. 8/12/08 NSIR determined that this is not SGI based on several reasons, one of  
-  which was the potential (radioactive) release exceeding 10 CFR 100   
-          guidelines. Can classify as OUO -SRI (official use only - security r elated  
-  information)8/6/08 NSIR(Nuclear Security & Incident Response) classified a  meeting on 
-Oconee flood risk as SGI (safeguards information) & had to hang  up onNRC region II Vic McCree. 
-
-25
-8/12/08      NRC Commissioners Technical Assistants were brief on August 12. 
-2008.          2008.
-8/13/08 NRC Commissioner Svinicki had questions concerning NRC’s 50.54 (f)  
-  (demand for information) letter to Duke Energy on August 13, 2008 and  
-  NRC staff prepared an Oconee timeline for Commissioner Svinicki the  
-  following day.  
-8/20/08      NRC considered issuing a Confirmatory Action Letter (CAL) to Duke as  
-          early as August of 2008. (CAL was only issued to Duke on June 22, 
-2010)          2010)
-8/20/08      NRC staff discussed briefing Congress & need to summarize Oconee for  
-  Oversight Staffers. 
-8/27/08  NRC senior management (Jack Grobe) “expressed a desire to soften the  
-  message to Duke.” 
- 
-9/10/08  NRC contact to Senator Boxer’s Office regarding why NRC did not order  
-  Oconee to shut down. 
-10/6/08 Briefing of NRC senior management “Eric Leeds is set for 10/16/08 with  
-  I'm briefing the Chairman on 10/17/08. 
-10/30/08  NRC senior management (Jack Grobe) “suggested a 6-year allowance to  
-  Duke to operate with this vulnerability with a renewal period.”  
-12/23/08 Duke claimed inundation levels might exceed 9 feet. 
-2/3/09 Commissioner Lyons visit to Oconee and Jocassee sites.
-3/6/09 DRA (Division of Risk Assessment) reviewed timeline Jack Grobe   
-  prepared for commissioners during the RIC.
-
-26
-5/11/08 Meeting at Duke HQ: Jack Grobe reiterated the NRC position that this is  
-  an adequate protection issue not a PRA issue. Duke argued that NRC in  
-  the past did not cite Yankee Rowe on not having adequate protection  
-  against failure of the Harriman Dam as precedent.50 
-According to NRC documents released to Greenpeace under FOIA, the NRC had 
-prepared a communications plan to to explain to the media, “Why did the Oconee flood issue take so many years to address?”
-51   NRC wanted the permanent fixes 
-to the flooding vulnerabilities at Oconee completed by February 2016. Duke Ener gy 
-wanted to put off permanent mitigation measures until February 2019.52  As of April 
-2016, almost a decade after NRC first discovered the triple meltdown threat, perma-nent flooding fixes to protect Duke’s Oconee nuclear plant are still not completed.
- 
-
-27
-Jocassee Dam and
- Oconee Nuclear Station 2  
-
-28
-Despite the fact that several NRC Commissioners and their technical assistants had 
-been briefed on the threat to Duke’s Oconee nuclear power plant in 2008.  The NRC testified to Congress that Fukushima couldn't happen here and claimed that US nu-clear plants were “safe”. 
-On March 15, 2012, the Senate Environment and Public Works committee conduct-
-ed a hearing on nuclear safety one year after Fukushima. Senator John Barrasso (R -
-WY) cited a Union of Concerned Scientists (UCS) report that concluded Fukushima could happen here and asked the NRC’s Commissioners if they agreed:
-“Commissioner Magwood: I think that our infrastructure, our regulatory ap-
-proach,our practices at plants, our equipment, our configuration, our design bases would prevent Fukushima from occurring under similar circumstances at a U.S. plant. I ust don’t think it would happen.
-Commissioner Svinicki: I agree with my colleagues.Commissioner Apostolakis: I disagree with the statements from UCS. 
-I don’t think that what happened in Fukushima can happen here.Commissioner Ostendorff: I also disagree with the UCS report.”
-53 
-While only Commissioners Svinicki & Jaczko were on the Commission in the 2008-2009 time frame covered by the Oconee Timeline, Commissioners Magwood, Apostolakis & Ostendorff all served on the Commission at the time NRC sent the Confirmatory Action Letter to Duke Energy in June of 2010.
-54   Each of these three 
-commissioners also visited both Oconee and Jocassee dam and were briefed in 2010.  
-55
-According to the NRC’s Inspector General, the NRC knew about the triple meltdown threat at Oconee since at least 2008:
-“Based on these concerns, the NRC issued a 10 CFR 50.54 (f) letter in August  
-2008 requesting information from Duke. Duke responded in September 2008 and after review the NRC found that Duke did not demonstrate that ONS  (Oconee Nuclear Station) would be adequately protected from external flooing events.”
-56  Did the NRC mislead Congress?  Nuclear Near Misses: 
-A Decade of Accident Precursors at U.S. NuclearPlants                                                                                    Greenpeace                                                                       
-
-29
-While the NRC briefed Senate Oversight staff in 2008 to explain why the Commis -
-sion had failed to required the shutdown of the Oconee reactors until the threat had 
-been mitigated, the NRC never publicly acknowledge that if Jocassee dam failed a ll 
-three Oconee reactors were certain to melt down. Instead, NRC wrapped the known vulnerability in security clearances and failed to make public the documents that determined that the NRC had failed to meet its statutory duty to adequately pr otect 
-the public.  The 50.54 (f) letter demanding information from Duke Energy, Duke’s response, even the NRC’s confirmatory action letter to force Duke to install tempo-rary mitigation of the triple meltdown vulnerability, were only made public under the Freedom of Information Act after NRC whistleblowers broke the story in the press.
-57  
-Contrary to the claims made by the four NRC’s Commissioners in Senate testimo-ny, the flooding vulnerabilities at Duke’s Oconee Nuclear Station were actually more significant than the risks that resulted in the triple meltdown at Fukushima. In fact, the threat to all three Oconee reactors was hundreds of times more probable than the tsunami that struck Japan and caused the Fukushima meltdowns. 
-58 
-As NRC’s risk analysts related to Huffington Post:
-“The Nuclear Regulatory Commission staff may be motivated to prevent the  
-disclosure of this safety information to the public because it will embarrass the agency. The redacted information includes discussion of, and excerpts from,  NRC official agency records that show the NRC has been in possession of  relevant, notable, and derogatory safety information for an extended period but failed to properly act on it. Concurrently, the NRC concealed the information from the public.”
-59 
-After reviewing thousands of pages of NRC documents released under FOIA over the past three years, Greenpeace concurs with this conclusion.  The NRC’s failure to make public the documents that revealed the threat to all three reactors at Duke Energy’s Oconee Nuclear Station has only served to significantly delay the final resolution of nuclear near misses that are even more risk significant than those that caused the fiasco at Fukushima Daiichi in Japan. 
-
-30
-Greenpeace’s compilation and review of nuclear near misses at US nuclear plants 
-over the last decade found over 160 events or conditions that wer e so risk signif-
-icant that the US regulators consider them precursors to a core melt accident or melt down. Contrary to the claims made by NRC Commissioners these risks make  
-nuclear power anything but “safe”. Ten of these near misses were considered im-portant precursors yet NRC staff had to blow the whistle and go public on four of the top ten near misses in order to force the U.S. Nuclear Regulatory Commission to address long standing vulnerabilities and safety issues at US nuclear plants.
-Despite the fact that NRC Commissioners testified to Congress that “Fukushima 
-couldn’t happen here,” NRC’s own data revealed flooding vulnerabilities at reactors that had existed for years sometime decades but were only identified AFTER the triple meltdown in Japan.  Contrary to NRC testimony to Congress, the NRC was aware of the triple meltdown threat to Duke Energy’s Oconee nuclear station as ear -
-ly as 2006. By 2008 the NRC Commissioners and was aware that Duke Energy had failed to provide “adequate protection of the public health and safety,” at Oconee Nuclear Station. However, NRC allowed the nuclear plant to continue to operate for another two years before requiring temporary mitigation measures be put in place. NRC hid the triple meltdown threat from the public claiming security concerns. However NRC whistleblowers contend and FOIA documents released to Green-peace support their contention that NRC’s withheld safety information to avoid em-barrassment. This only served to delay final resolution of a long standing triple melt down threat that was hundreds of times more probable than the events that led to Fukushima.  As of April 2016, nearly a decade after NRC first discover ed the flood-
-ing threat at Oconee, Duke Energy still has not completed the permanent flood miti-gation measures to prevent a Fukushima in South Carolina.
-Unfortunately, Duke Energy’s Oconee nuclear plant wasn’t the only one to be threat-
-ened by flooding. Over a dozen other nuclear plants had similar vulnerabilities some that dated back decades. Yet the NRC only discovered these long standing flooding vulnerabilities at US nuclear plants after the tragedy at Fukushima for ced the agen-
-cy to take a closer look.  By failing to act upon known safety vulnerabilities at US nuclear plants the NRC has only served to further undermined public confidence in  
-government and it’s regulation of this most unforgiving technology.  Conclusion  Nuclear Near Misses: 
-A Decade of Accident Precursors at U.S. NuclearPlants                                                                                    Greenpeace                                                                       
-
-31
-1.   GE defends reactors in Japan nuclear crisis, by Stephen Kurczy, Christian Sci  
-ence Monitor, March 19, 2011. < http://www.csmonitor.com/World/Asia-Pacific/2011/0318/GE-de-
-fends-reactors-in-Japan-nuclear-crisis > Accessed 14 April 2016.
-2.  Senate Environment and Public Works Committee, March 15, 2012, <
-http://www.epw.senate.gov/public/index.cfm/hearings?id=F48F6EA9-802A-23AD-4BFE-0003B454F993, 
->Accessed 13 April 2016. 
-3.   U.S. Nuclear Regulatory Commisison, NRC frequently asked questions related to 
-the March 11, 2011 Japanese Earthquake and Tsunami,<
-http://www.nrc.gov/japan/faqs-related-to-japan.pdf >p. 2. Accessed 13 April 2016.
-4.   UBS: Can Nuclear Power Survive Fukushima?<
- https://wikileaks.org/gifiles/attach/118/118095_Q%20Series%20-%20Nuclear%20Power.pdf > 
-Accessed 13 April 2016.
-5.  “Post-Fukushima, Arguments for Nuclear Safety Bog Down,” Matthew L. Wald, 
-New York Times, February 26, 2013. <  http://www.nytimes.com/2013/02/27/business/energy-en-
-vironment/a-divisive-debate-on-need-for-more-nuclear-safeguards.html > 
-Accessed 13 April 2016.
-6.   U.S. Nuclear Regulatory Commission, Precursors to Potential Severe Core Dam-
-age Accidents: 1998 A Status Report, NUREG /CR 4674, ORNL/NOAC- 232, vol. 26 p. 1-1.< 
-http://pbadupws.nrc.gov/docs/ML0037/ML003733843.pdf > Accessed 13 April 2016.
-7.   U.S. Nuclear Regulatory Commission, Status of The Accident Sequence Pr ecur-
-sor Program And The Standardized Plant Analysis Risk Models, October 5, 2015, SECY-15-0124, Enclosure 1, p. 1. <
-http://pbadupws.nrc.gov/docs/ML1518/ML15188A101.pdf . >Accessed April 15, 2016. 
-8.   U.S. NRC SECY-15-0124 at pp. 1-3. <
-http://pbadupws.nrc.gov/docs/ML1518/ML15188A101.pd f>Nuclear Near Misses: 
-A Decade of Accident Precursors at U.S. NuclearPlants                                                                                    Greenpeace                                                                       
-ENDNOTES:
-
-32
-9.   U.S. NRC SECY-15-0124 at p. 1. 
-<http://pbadupws.nrc.gov/docs/ML1518/ML15188A101.pdf >
-10. U.S. NRC SECY-15-0124 at p. 1. <
-http://pbadupws.nrc.gov/docs/ML1518/ML15188A101.pdf >
-11. U.S. NRC SECY-15-0124 at pp. 1-3. <
-http://pbadupws.nrc.gov/docs/ML1518/ML15188A101.pdf >
-12.  Institute for Energy and Environmental Research, Scientific Notation, Arjun Makhijani, <
-http://www.ieer.org/clssroom/scinote.html > Accessed April 15, 2016.
-13. U.S. Nuclear Regulatory Commission, Status of The Accident Sequence Pr ecur-
-sor Program And The Standardized Plant Analysis Risk Models, October 5, 2015, SECY-15-0124, Enclosure 1, p. 1 <
-http://pbadupws.nrc.gov/docs/ML1518/ML15188A101.pdf > 
-Accessed April 15, 2016.
-14. U.S. Nuclear Regulatory Commission, Applying Risk in Assessment of Events 
-and Conditions, Ian Jung, Trilateral Meeting with Mexico and Canada, September 21, 2005.<
-http://pbadupws.nrc.gov/docs/ML0525/ML052560639.pdf > Accessed April 15, 2106 .
-15. U.S. Nuclear Regulatory Commission, Management Directive 8.3, NRC Incident Investigation Program.<
- http://www.nrc.gov/docs/ML0312/ML031250592.pdf , > Accessed April 
-15, 2016. 
-16. “Beyond our imagination: Fukushima and the problem of assessing risk,” MV 
-Ramana, The Bulletin of Atomic Scientists, April 21, 2011. Accessed April 15, 2016 .
-<http://thebulletin.org/beyond-our-imagination-fukushima-and-problem-assessing-risk-0 >
- 17.“The Rise & Fall of Lilco’s Nuclear Power Program,” Karl Grossman, Long Island Historical Journal. p. 17. Fall 1992. <
-https://ir.stonybrook.edu/jspui/bitstream/11401/60290/1/
-i001.pdf > Accessed April 15, 2016. 
-
-33
-18.  “Must Read: Nassim Taleb on The Earth-Quake in Japan,” March 16, 2011. 
-<http://www.gurufocus.com/news/126331/must-read-nassim-taleb-on-the-earthquake-in-japan >
-Accessed April 15, 2106.
-19. ”Disowning Fukushima: managing the credibility of nuclear reliability assessment 
-in the wake of disaster,”  John Downer, Regulation and Governance,< 
-http://research-information.bristol.ac.uk/files/9274665/Disowning_Fuk.pdf >
-Accessed April 15, 2016.
-20. ”Disowning Fukushima: managing the credibility of nuclear reliability assessment 
-in the wake of disaster,”  John Downer, Regulation and Governance, p. 17. <
-http://research-information.bristol.ac.uk/files/9274665/Disowning_Fuk.pdf >
-Accessed April 15, 2016.
-21. “After Fukushima: Nuclear power in a new world,” Price Waterhouse Cooper, p. 
-12 (2012) < http://www.strategyand.pwc.com/media/file/Strategyand_After-Fukushima.pdf > 
-Accessed 13 April 2016.
-22.  U.S. NRC SECY-10-125, September 29, 2010, Accident Sequence precursor 
-program and standardized plant analysis risk Models, p. 19,  <
-http://www.nrc.gov/reading-rm/doc-collections/commission/secys/2010/secy2010-0125/2010-0125scy.
-pdf > Accessed April 15, 2016 .
-23.  U.S. NRC SECY-10-125, September 29, 2010, Accident Sequence precursor program and standardized plant analysis risk Models, p. 19,  <
-http://www.nrc.gov/reading-rm/doc-collections/commission/secys/2010/secy2010-0125/2010-0125scy.
-pdf > Accessed April 15, 2016.
-24. “Fukushima and the inevitability of accidents,” Charles Perrow, The Bulletin of Atomic Scientists, December 1, 2011. <
-https://cisac.fsi.stanford.edu/sites/default/files/Fukushima_and_the_inevitability_of_accidents.pdf  > 
-Accessed April 15, 2016.
-
-34
-25. U.S. NRC SECY-10-125, September 29, 2010, Accident Sequence precursor 
-program and standardized plant analysis risk Models, p. 7.   <
-http://www.nrc.gov/reading-rm/doc-collections/commission/secys/2010/secy2010-0125/2010-0125scy.
-pdf> Accessed April 15, 2016.
-26. “Flood Threat to Nuclear plants Covered Up B Regulators, NRC Whistleblower Claims,” Tom Zeller, Huffington Post, September 14, 2012. <
-http://www.huffingtonpost.com/2012/09/14/flood-threat-nuclear-plants-nrc_n_1885598.html >
-Accessed April 15, 2016.
-27. U.S. Nuclear Regulatory Commission, Confirmatory Action Letter Oconee Nu -
-clear Station Units1, 2 and 3 Commitments to Address External Flooding Concerns, 
-June 22, 2010.< 
-http://www.nrc.gov/docs/ML1236/ML12363A086.pdf > Accessed April15, 2016.
- 28.  Greenpeace chart compiled from ten years of NRC’s Status of the Accident Se-quence Precursor Program and the Standardized Plant Analysis Risk Model. 2005 - 2015. < 
-http://www.nrc.gov/reading-rm/doc-collections/commission/secys/ > Accessed April 15, 
-2016
-29.  U.S. NRC Status of The Accident Sequence Precursor Program And The Stand-
-ardized Plant Analysis Risk Models, October 5, 2015, SECY-15-0124, enclosure 1, p.1. <
-http://pbadupws.nrc.gov/docs/ML1518/ML15188A101.pdf > Accessed April 15, 2016.
-30. “Flood Threat to Nuclear Plants Covered Up By Regulators, NRC Whistleblower Claims,” Tom Zeller, Huffington Post, September 14, 2012.<
- http://www.huffingtonpost.com/2012/09/14/flood-threat-nuclear-plants-nrc_n_1885598.html > 
-Accessed April 15, 2016.
-31.“Flood Threat to Nuclear Plants Covered Up By Regulators, NRC Whistleblower 
-Claims,” Tom Zeller, Huffington Post, September 14, 2012.< 
-http://www.huffingtonpost.com/2012/09/14/flood-threat-nuclear-plants-nrc_n_1885598.html > 
-Accessed April 15, 2016.
-
-35
-32. ”U.S. NRC engineers urge fix for nuclear power stations,” Tim Gardiner, Reuters 
-<http://www.reuters.com/article/usa-nuclear-regulator-idUSL2N1692BF > Accessed April 15, 2016.
-33. “7 engineers at U.S. agency go public with nuclear safety,”  Tim Knauss, syra-cuse.com. March  5, 2016. < 
-http://www.syracuse.com/news/index.ssf/2016/03/7_engineers_at_us_agency_go_public_with_nucle-
-ar_safety_concern.html > Accessed April 15, 2106.
-34. U.S. Nuclear Regulatory Commission, Byron 2.206 Pertition, p. 1 March 2016.  <
-https://adamswebsearch2.nrc.gov/webSearch2/view?AccessionNumber=ML16050A223 > 
-Accessed April 15, 2016.
-35. “7 engineers at U.S. agency go public with nuclear safety,”  Tim Knauss, syra-
-cuse.com. March  5, 2016. < 
-http://www.syracuse.com/news/index.ssf/2016/03/7_engineers_at_us_agency_go_public_with_nucle-
-ar_safety_concern.html > Accessed April 15, 2106.
-36. ”Near Misses at U.S. Nuclear Power Plants in 2015,” Union of Concer ned Scien-
-tists < http://www.ucsusa.org/sites/default/files/attach/2016/03/Near-Misses-US-Power-Plants-2015-full-
-report.pdf > Accessed April 15, 2016.
-37.U.S. Nuclear Regulatory Commission, Loss of Offsite Power <
-http://nrcoe.inel.gov/resultsdb/LOSP/ > Accessed April 15, 2016.
- 38.  U.S. Department of Energy, Analysis of Loss-of-Offsite-Power Events, 1998 - 2013, February 2015.<
-http://nrcoe.inel.gov/resultsdb/publicdocs/LOSP/loop-summary-update-2013.
-pdf> Accessed April 15, 2016.
-39.  U.S. Nuclear Regulatory Commission, SECY-15-0124: Status of the Accident Sequence Precursor Program and the Standardizd Plant Analysis Risk Models, Oc-tober 22, 2015, Enclosure 1, p. 11. <
-http://pbadupws.nrc.gov/docs/ML1518/ML15188A104.pdf >
-Accessed April 15, 2016. 
-
-36
-40.  U.S. Nuclear Regulatory Commission, NRC File Photo, 
-< http://www.nrc.gov/about-nrc/organization/commission/comm-william-ostendorff/comm-ostendorff-re-
-marks-06182012.pdf > Accessed April13, 2016. 
-41.  Criscione letter to NRC Chairman McFarlane, September 18, 2012. <
-http://www.peer.org/assets/docs/nrc/9_23_13_NRC_chair_ltr.pdf . >See also Union of Concerned 
-Scientists, Dam Failures and Flooding at U.S. Nuclear Plants,  < http://www.ucsusa.org/
-sites/default/files/legacy/assets/documents/nuclear_power/floods-from-dam-failure-10-19-12.pdf > 
-Accessed April 15, 2016. 
-42.  U.S. Nuclear Regulatory Commission, Transparency, 
-<http://www.nrc.gov/public-involve/open/transparency.html >Accessed April13, 2016.
-43.  Criscone to NRC Chairman Allison Macfarlane, <
-http://pbadupws.nrc.gov/docs/ML1325/ML13256A372.pdf  >Accessed April 13, 2016.
-44.  “Flood Risk To Reactors Underestimated and Unadddressed,” Public Employ-ees for Environmental Responsibility, September 23, 2103. <
-http://www.peer.org/news/news-releases/flood-risk-to-reactors-underestimated-and-unaddressed.html 
->Accessed April 13, 2016.
-45.Riccio, Greenpeace FOIA, NRC FOIA/PA 2012-0325, D-6, D-10 see also “Flood 
-Threat To Nuclear Plants Covered Up By Regulators, NRC Whistleblower Claims,” Tom Zeller, Huffington Post, <
-http://www.huffingtonpost.com/2012/09/14/flood-threat-nuclear-plants-nrc_n_1885598.html  > 
-Accessed April 13, 2016.
-46. ”Could Another Fukushima-Like Accident Happen In The US? Nuclear Expert 
-Explains How,”Roxanne Palmer, International Business Times, February 12, 2014.  <
- http://www.ibtimes.com/could-another-fukushima-accident-happen-us-nuclear-expert-ex-
-plains-how-1555063 > Accessed April13, 2016. 
-
-37
-47. “Leaked Report Suggests Long Known Flood Threat to Nuclear Plants, Safety 
-Advocates Say,” Tom Zeller, Huffington Post, October 20, 2012. <
-http://big.assets.huffingtonpost.com/flooding.pdf > p. 8. 
-<http://www.huffingtonpost.com/2012/10/19/nuclear-plant-flood-threat-leak_n_1983005.html >
-48. Oconee Timeline, Riccio, Greenpeace FOIA NRC FOIA/PA 2012 0325, B-5 <
-http://pbadupws.nrc.gov/docs/ML1305/ML13052A784.pdf > Accessed April 15, 2016.
-49. Oconee Timeline, Riccio, Greenpeace FOIA NRC FOIA/PA 2012 0325, B-5  <
-http://pbadupws.nrc.gov/docs/ML1305/ML13052A784.pdf > Accessed April 15, 2016.
-50. Oconee Timeline, Riccio, Greenpeace FOIA NRC FOIA/PA 2012 0325, B-5 <
-http://pbadupws.nrc.gov/docs/ML1305/ML13052A781.pdf > and Why did Oconee Take so 
-Long to Fix  < https://assets.documentcloud.org/documents/694044/why-did-oconee-flood-issue-take-
-years-26ct08.pdf  > and History Of Oconee Flood Concerns, Greenpeace FOIA NRC 
-FOIA/PA 2012 0325, D 39, < http://pbadupws.nrc.gov/docs/ML1405/ML14058A045.pdf  >
-Accessed April 13, 2016. 
-51. Riccio, Greenpeace FOIA NRC FOIA PA2012 -0325, B-30.  
-<https://assets.documentcloud.org/documents/694044/why-did-oconee-flood-issue-take-years-26ct08.
-pdf> Accessed April 13, 2016.
-52. Riccio, Greenpeace FOIA, NRC FOIA/PA-2012-0325, B-1. <
-http://pbadupws.nrc.gov/docs/ML1305/ML13052A780.pdf > Accessed April 13, 2016. 
-53. Senate Environment and Public Works committee, March 15, 2012, < 
-http://www.epw.senate.gov/public/index.cfm/hearings?id=F48F6EA9-802A-23AD-4BFE-0003B454F993, 
-> see also: Union of Concerned Scientists, “NRC: Dreaming About Safety,” Oct 26, 
-2012, < http://allthingsnuclear.org/dlochbaum/nrc-dreaming-of-safety >
-54. Riccio, Greenpeace FOIA, NRC FOIA/PA-2012-0325, D 39. History of Oconee Flood Concerns <
-http://pbadupws.nrc.gov/docs/ML1405/ML14058A045.pdf >
-
-38
-55.Riccio, Greenpeace FOIA, NRC FOIA/PA -2012-0325, P-1.  
-<http://pbadupws.nrc.gov/docs/ML1515/ML15156A704.pdf >
-56. U.S. Nuclear Regulatory Commission, Office of the Inspector General, NRC’ s 
-Staff Handling of Jocassee Dam and Oconee Nuclear Stations (OIG CASE NO. 13-
-005) December 24, 2013. released under FOIA to Government Attic NRC FOIA/PA 2014 - 0329, B-11, September 15, 2014 < 
-http://www.governmentattic.org/17docs/ClosDocsNRC-OIGinvs_2013-2014.pdf >
-57. “Leaked Report Suggests Long-Known Flood Threat To Nuclear Plants, Safety Advocates Say,” Tom Zeller, Huffington Post, October 20, 2012.< 
-http://www.huffingtonpost.com/2012/10/19/nuclear-plant-flood-threat-leak_n_1983005.html > 
-Accessed April 15, 2016.
-58. “Disowning Fukushima,” John Downer, Regulation & Governance, 2013, 
-<https://fsi.stanford.edu/sites/default/files/Downer_Disowning_Fuku.pdf > Accessed April 15, 2016.
-59. “Flood Threat To Nuclear Plants Covered Up By Regulators, NRC Whistleblower Claims,” Tom Zelller, Huffington Post, September 15, 2012, <
-http://www.huffingtonpost.com/2012/09/14/flood-threat-nuclear-plants-nrc_n_1885598.html > 
-Accessed April 15, 2106. 
-
-39
-Image 1
-U.S. Nuclear Regulatory Commission,  Fukushima and Subsequent
-Lessons Learned Actions, NRC Commissioner William C. Ostendorff, Pennsylvania 
-Society of Professional Engineers September 19, 2014 
-<http://www.nrc.gov/about-nrc/organization/commission/comm-william-ostendorff/comm-ostendorff-
-20140919-slides.pdf  >Accessed April 15, 2016.
-Image 2“Screening Analysis Report for the Proposed Generic Issue on Flooding of Nuclear 
-Power Plant Sites Following Upstream Dam Failures,” Richard Perkins, et al., (unre-
-dacted version), July 2011. < 
-http://big.assets.huffingtonpost.com/flooding.pdf. > 
-see also UCS Dam Failures at U.S. Nuclear Plants. <
-http://www.ucsusa.org/sites/default/files/legacy/assets/documents/nuclear_power/floods-from-dam-fail-
-ure-10-19-12.pdf  > Accessed April 15, 2016.
-Table 1Greenpeace chart compiled from ten years of NRC’s Status of the Accident Se-quence Precursor Program and the Standardized Plant Analysis Risk Model. 2005 - 2015. <
- http://www.nrc.gov/reading-rm/doc-collections/commission/secys/ > Accessed April 15, 
-2016  
-Table 2
-Greenpeace chart compiled from ten years of NRC’s Status of the Accident Se-quence Precursor Program and the Standardized Plant Analysis Risk Models. 2005 - 2015. < 
-http://www.nrc.gov/reading-rm/doc-collections/commission/secys/ >Accessed April 15, 
-2016. 
-Table 3
-U.S. Nuclear Regulatory Commission, Perspective of Oconee Credible Event Pro-tection, Greenpeace FOIA, NRC FOIA/PA-2012-0325.< 
-http://www.nrc.gov/docs/ML1514/ML15142A664.html > Accessed April 15, 2016. 
-
-40Nuclear Near Misses: 
-A Decade of Accident Precursors at U.S. NuclearPlants                                                                                    Greenpeace                                                                       
-Appendix A: Nuclear Near Miss Events 2004-2014
-1YEAR Reactor Event Discription CCDP
-5/25/14 Millstone	  2 Dual	  Unit	  LOOP	  and	  Reactor	  Scram 1X10-­‐5
-5/25/14 Millstone	  3 Dual	  Unit	  LOOP	  and	  Reactor	  Scram 2X10-­‐5
-1/21/14 Calvert	  Cliffs	  2	   Reactor	  Trip	  due	  to	  weather	  related	  water	  intrusion 5X10-­‐6
-1/14/14 Shearon	  Harris Manual	  Reactor	  rip	  due	  to	  Indications	  of	  a	  fire 6X10-­‐6
-12/9/13 Arkansas	  Nuclear	  2 Fire	  and	  Explosion	  of	  Unit	  Auxiliary	  Transformer 2X10-­‐6
-10/14/13 Pilgrim LOOP	  and	  Reactor	  Scram 3X10-­‐5
-4/17/13 La	  Salle	  1 Loss	  Of	  Offsite	  Power	  due	  to	  lightning	  strike 1X10-­‐5
-4/17/13 La	  Salle	  2 Loss	  of	  Offsite	  Power	  due	  to	  lightning	  strike 1X10-­‐5
-3/31/13 Arkansas	  Nuclear	  1 Dropped	  Generator	  Stator	  causing	  Unit	  1	  LOOP	  while	  shutdown Yellow
-3/31/13 Arkansas	  Nuclear	  2 Dropped	  Generator	  Stator	  caused	  Unit	  2	  trip	  with	  loss	  of	  switchgear Yellow
-2/8/13Pilgrim Loss	  Of	  Offsite	  Power	  due	  to	  winter	  storm	  NEMO 8X10-­‐5
-12/22/12 Browns	  Ferry	  2 Unplanned	  automatic	  scram	  due	  to	  loss	  of	  power	  to	  RPS 2X10-­‐5
-7/23/12 Oyster	  Creek Turbine	  generator	  trip	  &	  reactor	  scram	  after	  a	  Loss	  of	  Offsite	  Power 5X10-­‐5
-5/24/12 River	  Bend Loss	  of	  service	  water,	  circulating	  water	  &	  feedwater	  due	  to	  electrical	  fault 3X10-­‐4
-5/22/12 Browns	  Ferry	  3 Reactor	  trip	  &	  Loss	  of	  Offsite	  Power	  due	  to	  failure	  of	  station	  transformer	  relay 2X10-­‐5
-4/4/12Catawba	  1 Reactor	  trip	  casued	  by	  faulted	  reactor	  coolant	  pump	  cable	  &	  error	  in	  relay 9X10-­‐6
-1/30/12 Byron	  2 Loss	  of	  Off	  Site	  Power	  and	  reactor	  trip	  caused	  by	  transformer	  &	  breaker	  failures 1X10-­‐4
-1/13/12 Wolf	  Creek Loss	  of	  Offsite	  Power	  and	  reactor	  trip	  caused	  by	  multiple	  switchyard	  faults	  	   5X10-­‐4
-9/25/11 Palisades Reactor	  Trip	  caused	  by	  loss	  of	  125	  volt	  direct	  current	  train Yellow
-8/23/11 North	  Anna	  1 LOOP	  due	  to	  earthquake	  Aux	  Feed	  Water	  Pump	  unavailable	   3X10-­‐4
-8/23/11 North	  Anna	  2 LOOP	  due	  to	  earthquake	  Aux	  Feed	  Water	  Pump	  unavailable	  &	  EDG	  failure 4X10-­‐5
-5/10/11 Pilgrim Unrecognized	  subcriticality	  and	  return	  to	  criticality	  with	  subsequent	  scram White
-4/27/11 Browns	  Ferry	  1 Extended	  LOOP	  due	  to	  tornado	  EDG	  unavailable	  &	  loss	  of	  shutdown	  cooling	   1X10-­‐5
-4/27/11 Browns	  Ferry	  2 Extended	  LOOP	  due	  to	  tornado	  EDG	  unavailable	  &	  loss	  of	  shutdown	  cooling	   1X10-­‐5
-4/27/11 Browns	  Ferry	  3 Extended	  Loss	  of	  Offsite	  Power	  due	  to	  tornado	  with	  EDG	  unavailable 1X10-­‐5
-4/16/11 Surry	  1 Loss	  of	  Offsite	  Power	  due	  to	  switchyard	  damage	  by	  a	  tornado 9X10-­‐5
-4/16/11 Surry	  2 Loss	  of	  Offsite	  Power	  due	  to	  switchyard	  damage	  by	  a	  tornado 7X10-­‐5
-9/9/10H.B.	  Robinson Reactor	  Trip	  due	  to	  degraded	  circuit	  board	  connection	   3X10-­‐6
-7/16/10 Susquehanna	  1	   Manual	  scram	  due	  to	  circulating	  water	  system	  leak	  &	  flooding	  of	  condenser	  bay 4X10-­‐6
-6/8/10Surry	  1 Reactor	  Trip	  due	  to	  loss	  of	  electrical	  bus	  &	  additioanl	  complictions 5X10-­‐6
-3/28/10 H.B.	  Robinson Fire	  cauases	  partial	  LOOP	  with	  reator	  coolant	  pump	  seal	  challenges 4X10-­‐4
-2/18/10 Calvert	  Cliffs	  2	   Failure	  of	  EDG	  to	  start	  during	  partial	  Loss	  Of	  Offsite	  Power 2X10-­‐5
-8/19/09 Wolf	  Creek Loss	  of	  Off	  Site	  Power	  due	  to	  lightning	  strike 9X10-­‐6
-7/30/09 Braidwood	  2 LOOP	  coincident	  with	  a	  reactor	  trip	  due	  to	  loss	  of	  reactro	  coolant	  pumps 4X10-­‐5
-7/12/09 Oyster	  Creek LOOP	  with	  unavailability	  of	  isolation	  condenser	  due	  to	  foreign	  material 5X10-­‐5
-3/26/09 Sequoyah	  1 Partial	  LOOP	  causes	  reactor	  trips	  &	  extended	  LOOP	  to	  safety	  bus	  in	  both	  units 4X10-­‐6
-3/26/09 Sequoyah	  2 Partial	  LOOP	  causes	  reactor	  trips	  &	  extended	  LOOP	  to	  safety	  bus	  in	  both	  units 4X10-­‐6
-11/3/08 Dresden	  3 Inadvetent,	  uncontrolled	  control	  rod	  withdrawl	  by	  non	  licensed	  operators. White
-9/11/08 Monticello Trip	  with	  partial	  loss	  of	  off	  site	  power	  due	  to	  blown	  fuse 1X10-­‐5
-4/15/08 Oconee	  1 Loss	  of	  reactor	  coolant	  system	  inventory	  while	  shutdown White
-11/1/06 Brunswick	  2 Loss	  of	  auxiliary	  transformer	  causes	  manual	  reactor	  protection	  system	  actuation 6X10-­‐6
-10/19/06 River	  Bend Automatic	  reactor	  scram	  due	  to	  inadvertent	  isolation	  of	  main	  feedwater 3X10-­‐6
-10/11/06 Surry	  2 Partuial	  Loss	  of	  Offsite	  Power	  and	  subsequent	  reactor	  trip 2X10-­‐6
-5/20/06 Catawba	  1 Loss	  of	  Offsite	  Power	  to	  both	  reactors 9X10-­‐5
-5/20/06 Catawba	  2 Loss	  of	  Offsite	  Power	  to	  both	  reactors 6X10-­‐5
-3/8/06Turkey	  Point	  3 Loss	  of	  Residual	  Heat	  Removal	  while	  in	  Mode	  5	  due	  to	  electrical	  complications White
-2/23/06 Millstone	  2 Reactor	  Trip	  due	  to	  loss	  of	  instrument	  air 8X10-­‐6
-8/29/05 Waterford Loss	  of	  Offsite	  Power	  caused	  by	  Hurricane	  Katrina	  while	  plant	  was	  shut	  down 2X10-­‐6
-6/23/05 Columbia Reactor	  trip	  due	  to	  feedwater	  pump	  trip	  caused	  by	  maintenance	  error 1X10-­‐5
-4/17/05 Millstone	  3 Reactor	  trip	  &	  safety	  injection	  with	  failure	  of	  turbine	  driven	  aux	  feed	  water	  pump 3X10-­‐6
-2/22/05 Watts	  Bar Low	  temperature	  over	  pressure	  valve	  actuations	  while	  shut	  down 7X10-­‐6
-12/10/04 River	  Bend Reactor	  trip	  due	  to	  loss	  of	  non	  vital	  125V	  instrument	  bus 3X10-­‐5
-11/20/04 Vogtle	  2 Reactor	  trip	  with	  safety	  injection	  &	  full-­‐open	  demand	  from	  steam	  by	  pass	  valves 3X10-­‐6
-10/10/04 Hope	  Creek Manual	  reactor	  scram	  due	  to	  moisture	  seperator	  reheater	  drain	  line	  failure 3X10-­‐6
-9/25/04 St.	  Lucie	  1 Loss	  of	  Offsite	  Power	  due	  to	  Hurricane	  Jeane	  while	  plant	  was	  shut	  down 1X10-­‐5
-9/25/04 St.	  Lucie	  2 Loss	  of	  Offsite	  Power	  due	  to	  Hurricane	  Jeane	  while	  plant	  was	  shut	  down 1X10-­‐5
-6/14/04 Palo	  Verde	  1 Grid	  related	  LOOP	  with	  offsite	  power	  recovery	  complications	   9X10-­‐6
-6/14/04 Palo	  Verde	  2 Grid	  related	  LOOP	  with	  an	  emergency	  diesel	  generator	  unavailable 4X10-­‐5
-6/14/04 Palo	  Verde	  3 Grid	  related	  LOOP	  with	  offsite	  poweer	  recovery	  complications	   9X10-­‐6
-5/5/04Dresden	  3 Plant	  centered	  LOOP	  due	  to	  breaker	  malfunction 3X10-­‐6
-1/4/04Calvert	  Cliffs	  2	   Reactor	  trip	  due	  to	  loss	  of	  main	  feedwater	  &	  complicated	  by	  overcooling 2X10-­‐5NUCLEAR NEAR MISS EVENTS 2004 -2014
-
-41
-1YEAR Reactor Event Discription CCDP
-5/25/14 Millstone	  2 Dual	  Unit	  LOOP	  and	  Reactor	  Scram 1X10-­‐5
-5/25/14 Millstone	  3 Dual	  Unit	  LOOP	  and	  Reactor	  Scram 2X10-­‐5
-1/21/14 Calvert	  Cliffs	  2	   Reactor	  Trip	  due	  to	  weather	  related	  water	  intrusion 5X10-­‐6
-1/14/14 Shearon	  Harris Manual	  Reactor	  rip	  due	  to	  Indications	  of	  a	  fire 6X10-­‐6
-12/9/13 Arkansas	  Nuclear	  2 Fire	  and	  Explosion	  of	  Unit	  Auxiliary	  Transformer 2X10-­‐6
-10/14/13 Pilgrim LOOP	  and	  Reactor	  Scram 3X10-­‐5
-4/17/13 La	  Salle	  1 Loss	  Of	  Offsite	  Power	  due	  to	  lightning	  strike 1X10-­‐5
-4/17/13 La	  Salle	  2 Loss	  of	  Offsite	  Power	  due	  to	  lightning	  strike 1X10-­‐5
-3/31/13 Arkansas	  Nuclear	  1 Dropped	  Generator	  Stator	  causing	  Unit	  1	  LOOP	  while	  shutdown Yellow
-3/31/13 Arkansas	  Nuclear	  2 Dropped	  Generator	  Stator	  caused	  Unit	  2	  trip	  with	  loss	  of	  switchgear Yellow
-2/8/13Pilgrim Loss	  Of	  Offsite	  Power	  due	  to	  winter	  storm	  NEMO 8X10-­‐5
-12/22/12 Browns	  Ferry	  2 Unplanned	  automatic	  scram	  due	  to	  loss	  of	  power	  to	  RPS 2X10-­‐5
-7/23/12 Oyster	  Creek Turbine	  generator	  trip	  &	  reactor	  scram	  after	  a	  Loss	  of	  Offsite	  Power 5X10-­‐5
-5/24/12 River	  Bend Loss	  of	  service	  water,	  circulating	  water	  &	  feedwater	  due	  to	  electrical	  fault 3X10-­‐4
-5/22/12 Browns	  Ferry	  3 Reactor	  trip	  &	  Loss	  of	  Offsite	  Power	  due	  to	  failure	  of	  station	  transformer	  relay 2X10-­‐5
-4/4/12Catawba	  1 Reactor	  trip	  casued	  by	  faulted	  reactor	  coolant	  pump	  cable	  &	  error	  in	  relay 9X10-­‐6
-1/30/12 Byron	  2 Loss	  of	  Off	  Site	  Power	  and	  reactor	  trip	  caused	  by	  transformer	  &	  breaker	  failures 1X10-­‐4
-1/13/12 Wolf	  Creek Loss	  of	  Offsite	  Power	  and	  reactor	  trip	  caused	  by	  multiple	  switchyard	  faults	  	   5X10-­‐4
-9/25/11 Palisades Reactor	  Trip	  caused	  by	  loss	  of	  125	  volt	  direct	  current	  train Yellow
-8/23/11 North	  Anna	  1 LOOP	  due	  to	  earthquake	  Aux	  Feed	  Water	  Pump	  unavailable	   3X10-­‐4
-8/23/11 North	  Anna	  2 LOOP	  due	  to	  earthquake	  Aux	  Feed	  Water	  Pump	  unavailable	  &	  EDG	  failure 4X10-­‐5
-5/10/11 Pilgrim Unrecognized	  subcriticality	  and	  return	  to	  criticality	  with	  subsequent	  scram White
-4/27/11 Browns	  Ferry	  1 Extended	  LOOP	  due	  to	  tornado	  EDG	  unavailable	  &	  loss	  of	  shutdown	  cooling	   1X10-­‐5
-4/27/11 Browns	  Ferry	  2 Extended	  LOOP	  due	  to	  tornado	  EDG	  unavailable	  &	  loss	  of	  shutdown	  cooling	   1X10-­‐5
-4/27/11 Browns	  Ferry	  3 Extended	  Loss	  of	  Offsite	  Power	  due	  to	  tornado	  with	  EDG	  unavailable 1X10-­‐5
-4/16/11 Surry	  1 Loss	  of	  Offsite	  Power	  due	  to	  switchyard	  damage	  by	  a	  tornado 9X10-­‐5
-4/16/11 Surry	  2 Loss	  of	  Offsite	  Power	  due	  to	  switchyard	  damage	  by	  a	  tornado 7X10-­‐5
-9/9/10H.B.	  Robinson Reactor	  Trip	  due	  to	  degraded	  circuit	  board	  connection	   3X10-­‐6
-7/16/10 Susquehanna	  1	   Manual	  scram	  due	  to	  circulating	  water	  system	  leak	  &	  flooding	  of	  condenser	  bay 4X10-­‐6
-6/8/10Surry	  1 Reactor	  Trip	  due	  to	  loss	  of	  electrical	  bus	  &	  additioanl	  complictions 5X10-­‐6
-3/28/10 H.B.	  Robinson Fire	  cauases	  partial	  LOOP	  with	  reator	  coolant	  pump	  seal	  challenges 4X10-­‐4
-2/18/10 Calvert	  Cliffs	  2	   Failure	  of	  EDG	  to	  start	  during	  partial	  Loss	  Of	  Offsite	  Power 2X10-­‐5
-8/19/09 Wolf	  Creek Loss	  of	  Off	  Site	  Power	  due	  to	  lightning	  strike 9X10-­‐6
-7/30/09 Braidwood	  2 LOOP	  coincident	  with	  a	  reactor	  trip	  due	  to	  loss	  of	  reactro	  coolant	  pumps 4X10-­‐5
-7/12/09 Oyster	  Creek LOOP	  with	  unavailability	  of	  isolation	  condenser	  due	  to	  foreign	  material 5X10-­‐5
-3/26/09 Sequoyah	  1 Partial	  LOOP	  causes	  reactor	  trips	  &	  extended	  LOOP	  to	  safety	  bus	  in	  both	  units 4X10-­‐6
-3/26/09 Sequoyah	  2 Partial	  LOOP	  causes	  reactor	  trips	  &	  extended	  LOOP	  to	  safety	  bus	  in	  both	  units 4X10-­‐6
-11/3/08 Dresden	  3 Inadvetent,	  uncontrolled	  control	  rod	  withdrawl	  by	  non	  licensed	  operators. White
-9/11/08 Monticello Trip	  with	  partial	  loss	  of	  off	  site	  power	  due	  to	  blown	  fuse 1X10-­‐5
-4/15/08 Oconee	  1 Loss	  of	  reactor	  coolant	  system	  inventory	  while	  shutdown White
-11/1/06 Brunswick	  2 Loss	  of	  auxiliary	  transformer	  causes	  manual	  reactor	  protection	  system	  actuation 6X10-­‐6
-10/19/06 River	  Bend Automatic	  reactor	  scram	  due	  to	  inadvertent	  isolation	  of	  main	  feedwater 3X10-­‐6
-10/11/06 Surry	  2 Partuial	  Loss	  of	  Offsite	  Power	  and	  subsequent	  reactor	  trip 2X10-­‐6
-5/20/06 Catawba	  1 Loss	  of	  Offsite	  Power	  to	  both	  reactors 9X10-­‐5
-5/20/06 Catawba	  2 Loss	  of	  Offsite	  Power	  to	  both	  reactors 6X10-­‐5
-3/8/06Turkey	  Point	  3 Loss	  of	  Residual	  Heat	  Removal	  while	  in	  Mode	  5	  due	  to	  electrical	  complications White
-2/23/06 Millstone	  2 Reactor	  Trip	  due	  to	  loss	  of	  instrument	  air 8X10-­‐6
-8/29/05 Waterford Loss	  of	  Offsite	  Power	  caused	  by	  Hurricane	  Katrina	  while	  plant	  was	  shut	  down 2X10-­‐6
-6/23/05 Columbia Reactor	  trip	  due	  to	  feedwater	  pump	  trip	  caused	  by	  maintenance	  error 1X10-­‐5
-4/17/05 Millstone	  3 Reactor	  trip	  &	  safety	  injection	  with	  failure	  of	  turbine	  driven	  aux	  feed	  water	  pump 3X10-­‐6
-2/22/05 Watts	  Bar Low	  temperature	  over	  pressure	  valve	  actuations	  while	  shut	  down 7X10-­‐6
-12/10/04 River	  Bend Reactor	  trip	  due	  to	  loss	  of	  non	  vital	  125V	  instrument	  bus 3X10-­‐5
-11/20/04 Vogtle	  2 Reactor	  trip	  with	  safety	  injection	  &	  full-­‐open	  demand	  from	  steam	  by	  pass	  valves 3X10-­‐6
-10/10/04 Hope	  Creek Manual	  reactor	  scram	  due	  to	  moisture	  seperator	  reheater	  drain	  line	  failure 3X10-­‐6
-9/25/04 St.	  Lucie	  1 Loss	  of	  Offsite	  Power	  due	  to	  Hurricane	  Jeane	  while	  plant	  was	  shut	  down 1X10-­‐5
-9/25/04 St.	  Lucie	  2 Loss	  of	  Offsite	  Power	  due	  to	  Hurricane	  Jeane	  while	  plant	  was	  shut	  down 1X10-­‐5
-6/14/04 Palo	  Verde	  1 Grid	  related	  LOOP	  with	  offsite	  power	  recovery	  complications	   9X10-­‐6
-6/14/04 Palo	  Verde	  2 Grid	  related	  LOOP	  with	  an	  emergency	  diesel	  generator	  unavailable 4X10-­‐5
-6/14/04 Palo	  Verde	  3 Grid	  related	  LOOP	  with	  offsite	  poweer	  recovery	  complications	   9X10-­‐6
-5/5/04Dresden	  3 Plant	  centered	  LOOP	  due	  to	  breaker	  malfunction 3X10-­‐6
-1/4/04Calvert	  Cliffs	  2	   Reactor	  trip	  due	  to	  loss	  of	  main	  feedwater	  &	  complicated	  by	  overcooling 2X10-­‐5NUCLEAR NEAR MISS EVENTS 2004 -2014
-
-42Nuclear Near Misses: 
-A Decade of Accident Precursors at U.S. NuclearPlants                                                                                    Greenpeace                                                                       
-Appendix B: Nuclear Near Miss Conditions 2004-2014
-1Duration of 
-ConditionNuclear Reactor Description of Condition CDP/SDP 
-ColorCitation
-Since start up Kewaunee Multiplle design deficiencies and potential unavailability 
-of AFW pumpsYELLOW LER-305/05-
-002, 006, 
-008
-Since start up Clinton Potential air entrapment of HPCS due to incorrect suction 
-source switchover setpointWHITE EA-06-291
-Since start up Kewaunee Design deficiency could cause unavailability of safety 
-related equipment during postulated internal floodYELLOW LER-305/05-
-004
-Since start up Surry 1 Potential loss of reactor coolant pump seal cooling due to 
-postulated fire damage to switch gearWHITE LER-280/-3-
-005
-Since start up Surry 2 Potential loss of reactor coolant pump seal cooling due to 
-postulated fire damage to switch gearWHITE LER-280/-3-
-005
-Since start up Turkey Point 3 Triennial fire protection issues WHITE LER-251/04-
-007
-Since start up Turkey Point 4 Triennial fire protection issues WHITE LER-251/04-
-007
-40 Years Arkansas Nuclear 1 Inadequate External Flood Protection for Safety Related 
-Equipment Located Below the Design Basis Flood 
-ElevationYELLOW EA-14-088
-40 Years Arkansas Nuclear 2 Inadequate External Flood Protection for Safety Related 
-Equipment Located Below the Design Basis Flood 
-ElevationYELLOW EA-14-088
-39 Years Fort Calhoun High Energy Line Break could lead to failure of 
-equipment for safe shutdownWHITE EA-14-187
-36 Years St. Lucie 1 Internal Reactor Auxiliary Building Flooding During Heavy 
-Rain Due to degraded conduits lacking internal flood 
-barriersWHITE EA-14-131
-34 Years Prairie Island 2 Potential unavailability of component cooling water during 
-HELB due to inadequate designWHITE EA-09-167
-33 Years Millstone 2 Un planned reactivity additions during main turbine 
-control valve testingWHITE EA-11-047
-31 Years Ginna Unanalyzed condition for Potential Flood water intrusion 
-into Vital Battery RoomWHITE EA-13-247
-31 Years Sequoyah 1 Inadequate electrical conduit seals for Essential Raw 
-Cooling Water Pumping Station could result in the loss of 
-diesel generators during a flooding eventWHITE EA-13-045
-31 Years St Lucie 1 Air intrusion into component cooling water system causes 
-pump cavitationYELLOW EA-09-321
-30 Years Sequoyah 2 Inadequate electrical conduit seals for Essential Raw 
-Cooling Water Pumping Station could result in the loss of 
-diesel generators during a flooding eventWHITE EA-13-045
-28 Years Oconee 1 Failure to maintain design control of standby shutdown 
-facility (SSF) pressure heater breakersYELLOW EA-11-226
-28 Years Oconee 2 Failure to maintain design control of standby shutdown 
-facility (SSF) pressure heater breakersYELLOW EA-11-226
-28 Years Oconee 3 Failure to maintain design control of standby shutdown 
-facility (SSF) pressure heater breakersYELLOW EA-11-226
-23 Years Oyster Creek Technical Specification Prohibited Condition caused by 
-Two Electromagnetic relief valves inoperable for greater 
-than allowed outage timeYELLOW EA-14-178
-21 Years Dresden 2 Failure ot establish procedure to address tyler effect of 
-external flooding ont he plantWHITE EA-13-079
-21 Years Dresden 3 Failure ot establish procedure to address tyler effect of 
-external flooding ont he plantWHITE EA-13-079
-18 Years Browns Ferry 2 Failure to protect cables of redundant safety systems 
-from fire damageYELLOW EA-09-307
-17 years Point Beach 1 Flooding Procedure Failed to protect safety related 
-equipmentWHITE EA-13-125
-17 years Point Beach 2 Flooding Procedure Failed to protect safety related 
-equipmentWHITE EA-13-125
-15 Years Prairie Island 1 Battery chargers potentially inoperable WHITE EA-11-110
-13 Years Cooper Deficient emergency procedures could lead to operators 
-failing to position valves necessary for core cooling in a 
-postulated fireWHITE EA-11-024
-13 Years Browns Ferry 3 Failure to protect cables of redundant safety systems 
-from fire damageYELLOW EA-09-307
-13 Years LaSalle 1 Single Failure Vulnerability of 4160 volt bus protective 
-relayWHITE LER-373/05-
-001
-13 Years LaSalle 2 Single Failure Vulnerability of 4160 volt bus protective 
-relayWHITE LER-373/05-
-001
-11 Years Palo Verde 1 Containment sump recirculation potentially inoperable 
-due to pipe voidsWHITE LER-528/04-
-009
-11 Years Palo Verde 2 Containment sump recirculation potentially inoperable 
-due to pipe voidsWHITE LER-528/04-
-009
-11 Years Palo Verde 3 Containment sump recirculation potentially inoperable 
-due to pipe voidsWHITE LER-528/04-
-009
-10 Years Oconee 1 High Cycle Fatigue resulted in Reactor Coolant Leak WHITE EA-14-091
-10 Years Cooper Inadequate post fire procedure could have prevented 
-achieving safe shutdownWHITE EA-07-204
-10 Years Crystal River 3 Single Failure Vulnerability of 4160 volt bus protective 
-relayWHITE LER-302/05-
-001
-9 Years Oyster Creek Technical Specification Prohibited Condition caused by 
-Emergency Deisel Generator inoperable for greater than 
-allowed outage timeWHITE EA-14-126
-9 Years Calvert Cliffs 1 Degraded EDG due to inadequate feed breaker WHITE LER-317/06-
-001
-6 Years Fort Calhoun Failure to establish and maintain procedures to protect 
-heat sink cooling water intake and auxiliary building from 
-external floodsYELLOW EA-10-084
-4 Years San Onofre 2 Deficient electrical connections with potential to affect 
-multiple safety systemsWHITE EA-08-296
-3 Years Palisades Failure of service water pump WHITE EA-11-241
-2 Years Turkey Point 3 AFW pump inoperable for longer than allowed by tech 
-specsWHITE EA-06-027
-2 Years Oconee 1 Failure to maintain design control for safe shutdown 
-facility flooding boundaryWHITE EA-06-199
-2 Years Oconee 2 Failure to maintain design control for safe shutdown 
-facility flooding boundaryWHITE EA-06-199
-2 Years Oconee 3 Failure to maintain design control for safe shutdown 
-facility flooding boundaryWHITE EA-06-199
-19 Months Browns Ferry 1 Failure to establish adequate design control and perform 
-adequate maintenance led to valve failure and residual 
-heat removal loop unavailableRED EA-11-018
-19 Months Fort Calhoun Fire in safety related 480n volt electrical breaker due to 
-deficient design control; 8 other breakers were also 
-susceptible RED EA-12-023
-19 Months Browns Ferry 1 Failure to protect cables of redundant safety systems 
-from fire damageYELLOW EA-09-307
-14 Months Oconee 2 Standby shutdown facility reactor coolant make up let 
-down line oriface strainer blocked by valve gasketYELLOW EA-10-094
-454 Days Fort Calhoun Faulty maintenance causes inoperability of containment 
-sprayWHITE EA-07-047
-1 Year Millstone 3 Turbine Driven Auxiliary Feedwater Pump Operability 
-imapcted by Incorrect BearingWHITE EA-14-092
-1 Year Monticello Failure to maintain flood plan to protect the site against 
-external floodsYELLOW EA -13-096
-1 Year Byron 1 Corrosion of equipment cooling water system piping WHITE EA-08-046
-1 Year Byron 2 Corrosion of equipment cooling water system piping WHITE EA-08-046
-1 Year Brunswick 1 All EDG unable to be operated locally due to incorrect 
-relay wiringWHITE EA-09-121
-1 Year Brunswick 2 All EDG unable to be operated locally due to incorrect 
-relay wiringWHITE EA-09-121
-1 Year Oconee 3 Potentially degraded containment sump recirculation due 
-to debrisWHITE EA-06-295
-322 Days Braidwood 1 Failure of containment sump function valve to open WHITE EA-09-259
-10 Months Byron 2 Failure to ensure EDG lube oil cooler was properly 
-connected after maintenanceWHITE EA-11-014
-9 Months Oconee 3 Standby shutdown facility reactor coolant make up let 
-down line oriface strainer blocked by valve gasketYELLOW EA-10-094
-251 Days Watts Bar 1 Component cooling back up line inoperable due to silt WHITE IR-390/04-
-05 
-194 Days Point Beach Failure of Turbine driven auxiliary feed water pump due 
-to inadequate maintenanceWHITE EA-12-220
-193 Days Palisades Turbine driven AFW pump unavailable WHITE EA-11-227
-183 Days Hatch 1 Degraded coupling leads to EDG inoperability WHITE EA-09-054
-183 Days Hatch 2 Degraded coupling leads to EDG inoperability WHITE EA-09-054
-180 Days Duane Arnold Breaker failure results in EDG failure during test WHITE EA-09-083
-6 Months San Onofre 3 Steam generator tube integrity WHITE EA-13-083
-147 Days Quad Cities Emergency relief valves inoperable during extended 
-power update WHITE EA-06-112
-138 Days Prairie Island 1 Turbine driven AFW pump inoperable due to valve out of 
-positionWHITE EA-08-272
-125 Days Cooper Failure to establish procedural controls for maintenance 
-of electrical connections on essential equipmentWHITE EA-08-124
-4 Months Oconee 1 Standby shutdown facility reactor coolant make up let 
-down line oriface strainer blocked by valve gasketYELLOW EA-10-094
-109 Days Clinton Failure of Shutdown Cooling Water Pump Due To 
-Damaged BrushingWHITE EA-15-064
-85 Days Farley 2 Residual heat removal containment sump suction valve 
-inoperableYELLOW EA-07-173
-66 Days Browns Ferry 1 Inadequate procedure revision could lead to failure of 
-operator response to a fireWHITE EA-09-307
-66 Days Browns Ferry 2 Inadequate procedure revision could lead to failure of 
-operator response to a fireWHITE EA-09-307
-66 Days Browns Ferry 3 Inadequate procedure revision could lead to failure of 
-operator response to a fireWHITE EA-09-307
-64 Days Duane Arnold Reactor core isolation cooling turbine trip WHITE EA-13-223
-2 Months Fort Calhoun Failure to identify the cause and prevent the failure of trip 
-contact assembly in reactor protection systemYELLOW EA-11-025
-58 Days Palo Verde 3 Inoperable EDG due to inadequate maintenance and 
-corrective actionsWHITE EA-06-296
-57 Days Cooper Failure of EDG voltage regulator due to inadequate 
-proceduresWHITE EA-07-090
-51 Days Ginna Corrosion binding of governor control valve results in 
-auxiliary feedwater pump failure WHITE EA-09-248
-51 Days Kewaunee Degraded EDG due to fuel oil leak YELLOW EA-07-058
-47 Days Ginna Auxiliary feedwater pump failure due to inadequate 
-preventative maintenanceWHITE EA-09-045
-46 Days Peach Bottom 3 High Pressure Coolant Injection unavailable WHITE LER-278/04-
-001
-38 Days Farley 1 EDG exhaust pipe failure WHITE EA-08-192
-34 Days H.B. Robinson Failure of dedicated shutdown diesel generator WHITE EA-13-129
-30 Days Limerick 2 Reactor Core Isolation Cooling (RCIC) inoperable 
-because main feedwater valve failures diverted flow WHITE EA-11-221
-30 Days Brunswick 2 EDG 3 unavailable doe to jacket water leak WHITE LER-325/04-
-001
-28 Days Fort Calhoun EDG inoperable due to blown fuse WHITE LER-285/04-
-05
-26 Days Seabrook Inadequate design of EDG cooling water flange leads to 
-leak & failureWHITE EA-09-145
-25 Days Waterford Emergency Diesel Generator inoperable due to room 
-exhaust fan fireWHITE EA-13-233
-25 Days H.B. Robinson EDG B inoperable due to failed out put breaker & EDG A 
-unavailable due to testing & maintenanceWHITE LER-261-10-
-001
-23 Days Farley 2 Stand by service water pump unavailable WHITE IR-50-
-364/10-07
-22  Days Duane Arnold Emergency Diesel Generator inoperability results in 
-safety system functional failureWHITE EA-13-182
-20 Days Commanche Peak 1 EDG failure during testing WHITE EA-08-028
-17 Days Indian Point 2 Potential degradation of safety injection system WHITE IR-50-
-247/05-06
-14 Days Fort Calhoun EDG failure during test due to degraded contacts WHITE EA-07-194
-9 Days Brunswick 1 EDG inoperable due to failure of foreign material 
-exclusion practiceWHITE EA-07-024
-2 Days Palo Verde 2 Failure to implement design of steam generator nozzle 
-requiring extended time in reduced RCS inventoryWHITE IR-529/04-
-04 & 09
-1 Day Brunswick Penetrations in wall of EDG fuel oil structure could lead 
-to EDG failure in postulated floodWHITE EA-11-251
-6.5 Hours Point Beach 2 Concurrant unavailabilities: auxiliary transformer & 480 
-volt safety busWHITE IR-50-
-266/08-07NUCLEAR NEAR MISS CONDITIONS 2004 - 2014
-
-43
-1Duration of 
-ConditionNuclear Reactor Description of Condition CDP/SDP 
-ColorCitation
-Since start up Kewaunee Multiplle design deficiencies and potential unavailability 
-of AFW pumpsYELLOW LER-305/05-
-002, 006, 
-008
-Since start up Clinton Potential air entrapment of HPCS due to incorrect suction 
-source switchover setpointWHITE EA-06-291
-Since start up Kewaunee Design deficiency could cause unavailability of safety 
-related equipment during postulated internal floodYELLOW LER-305/05-
-004
-Since start up Surry 1 Potential loss of reactor coolant pump seal cooling due to 
-postulated fire damage to switch gearWHITE LER-280/-3-
-005
-Since start up Surry 2 Potential loss of reactor coolant pump seal cooling due to 
-postulated fire damage to switch gearWHITE LER-280/-3-
-005
-Since start up Turkey Point 3 Triennial fire protection issues WHITE LER-251/04-
-007
-Since start up Turkey Point 4 Triennial fire protection issues WHITE LER-251/04-
-007
-40 Years Arkansas Nuclear 1 Inadequate External Flood Protection for Safety Related 
-Equipment Located Below the Design Basis Flood 
-ElevationYELLOW EA-14-088
-40 Years Arkansas Nuclear 2 Inadequate External Flood Protection for Safety Related 
-Equipment Located Below the Design Basis Flood 
-ElevationYELLOW EA-14-088
-39 Years Fort Calhoun High Energy Line Break could lead to failure of 
-equipment for safe shutdownWHITE EA-14-187
-36 Years St. Lucie 1 Internal Reactor Auxiliary Building Flooding During Heavy 
-Rain Due to degraded conduits lacking internal flood 
-barriersWHITE EA-14-131
-34 Years Prairie Island 2 Potential unavailability of component cooling water during 
-HELB due to inadequate designWHITE EA-09-167
-33 Years Millstone 2 Un planned reactivity additions during main turbine 
-control valve testingWHITE EA-11-047
-31 Years Ginna Unanalyzed condition for Potential Flood water intrusion 
-into Vital Battery RoomWHITE EA-13-247
-31 Years Sequoyah 1 Inadequate electrical conduit seals for Essential Raw 
-Cooling Water Pumping Station could result in the loss of 
-diesel generators during a flooding eventWHITE EA-13-045
-31 Years St Lucie 1 Air intrusion into component cooling water system causes 
-pump cavitationYELLOW EA-09-321
-30 Years Sequoyah 2 Inadequate electrical conduit seals for Essential Raw 
-Cooling Water Pumping Station could result in the loss of 
-diesel generators during a flooding eventWHITE EA-13-045
-28 Years Oconee 1 Failure to maintain design control of standby shutdown 
-facility (SSF) pressure heater breakersYELLOW EA-11-226
-28 Years Oconee 2 Failure to maintain design control of standby shutdown 
-facility (SSF) pressure heater breakersYELLOW EA-11-226
-28 Years Oconee 3 Failure to maintain design control of standby shutdown 
-facility (SSF) pressure heater breakersYELLOW EA-11-226
-23 Years Oyster Creek Technical Specification Prohibited Condition caused by 
-Two Electromagnetic relief valves inoperable for greater 
-than allowed outage timeYELLOW EA-14-178
-21 Years Dresden 2 Failure ot establish procedure to address tyler effect of 
-external flooding ont he plantWHITE EA-13-079
-21 Years Dresden 3 Failure ot establish procedure to address tyler effect of 
-external flooding ont he plantWHITE EA-13-079
-18 Years Browns Ferry 2 Failure to protect cables of redundant safety systems 
-from fire damageYELLOW EA-09-307
-17 years Point Beach 1 Flooding Procedure Failed to protect safety related 
-equipmentWHITE EA-13-125
-17 years Point Beach 2 Flooding Procedure Failed to protect safety related 
-equipmentWHITE EA-13-125
-15 Years Prairie Island 1 Battery chargers potentially inoperable WHITE EA-11-110
-13 Years Cooper Deficient emergency procedures could lead to operators 
-failing to position valves necessary for core cooling in a 
-postulated fireWHITE EA-11-024
-13 Years Browns Ferry 3 Failure to protect cables of redundant safety systems 
-from fire damageYELLOW EA-09-307
-13 Years LaSalle 1 Single Failure Vulnerability of 4160 volt bus protective 
-relayWHITE LER-373/05-
-001
-13 Years LaSalle 2 Single Failure Vulnerability of 4160 volt bus protective 
-relayWHITE LER-373/05-
-001
-11 Years Palo Verde 1 Containment sump recirculation potentially inoperable 
-due to pipe voidsWHITE LER-528/04-
-009
-11 Years Palo Verde 2 Containment sump recirculation potentially inoperable 
-due to pipe voidsWHITE LER-528/04-
-009
-11 Years Palo Verde 3 Containment sump recirculation potentially inoperable 
-due to pipe voidsWHITE LER-528/04-
-009
-10 Years Oconee 1 High Cycle Fatigue resulted in Reactor Coolant Leak WHITE EA-14-091
-10 Years Cooper Inadequate post fire procedure could have prevented 
-achieving safe shutdownWHITE EA-07-204
-10 Years Crystal River 3 Single Failure Vulnerability of 4160 volt bus protective 
-relayWHITE LER-302/05-
-001
-9 Years Oyster Creek Technical Specification Prohibited Condition caused by 
-Emergency Deisel Generator inoperable for greater than 
-allowed outage timeWHITE EA-14-126
-9 Years Calvert Cliffs 1 Degraded EDG due to inadequate feed breaker WHITE LER-317/06-
-001
-6 Years Fort Calhoun Failure to establish and maintain procedures to protect 
-heat sink cooling water intake and auxiliary building from 
-external floodsYELLOW EA-10-084
-4 Years San Onofre 2 Deficient electrical connections with potential to affect 
-multiple safety systemsWHITE EA-08-296
-3 Years Palisades Failure of service water pump WHITE EA-11-241
-2 Years Turkey Point 3 AFW pump inoperable for longer than allowed by tech 
-specsWHITE EA-06-027
-2 Years Oconee 1 Failure to maintain design control for safe shutdown 
-facility flooding boundaryWHITE EA-06-199
-2 Years Oconee 2 Failure to maintain design control for safe shutdown 
-facility flooding boundaryWHITE EA-06-199
-2 Years Oconee 3 Failure to maintain design control for safe shutdown 
-facility flooding boundaryWHITE EA-06-199
-19 Months Browns Ferry 1 Failure to establish adequate design control and perform 
-adequate maintenance led to valve failure and residual 
-heat removal loop unavailableRED EA-11-018
-19 Months Fort Calhoun Fire in safety related 480n volt electrical breaker due to 
-deficient design control; 8 other breakers were also 
-susceptible RED EA-12-023
-19 Months Browns Ferry 1 Failure to protect cables of redundant safety systems 
-from fire damageYELLOW EA-09-307
-14 Months Oconee 2 Standby shutdown facility reactor coolant make up let 
-down line oriface strainer blocked by valve gasketYELLOW EA-10-094
-454 Days Fort Calhoun Faulty maintenance causes inoperability of containment 
-sprayWHITE EA-07-047
-1 Year Millstone 3 Turbine Driven Auxiliary Feedwater Pump Operability 
-imapcted by Incorrect BearingWHITE EA-14-092
-1 Year Monticello Failure to maintain flood plan to protect the site against 
-external floodsYELLOW EA -13-096
-1 Year Byron 1 Corrosion of equipment cooling water system piping WHITE EA-08-046
-1 Year Byron 2 Corrosion of equipment cooling water system piping WHITE EA-08-046
-1 Year Brunswick 1 All EDG unable to be operated locally due to incorrect 
-relay wiringWHITE EA-09-121
-1 Year Brunswick 2 All EDG unable to be operated locally due to incorrect 
-relay wiringWHITE EA-09-121
-1 Year Oconee 3 Potentially degraded containment sump recirculation due 
-to debrisWHITE EA-06-295
-322 Days Braidwood 1 Failure of containment sump function valve to open WHITE EA-09-259
-10 Months Byron 2 Failure to ensure EDG lube oil cooler was properly 
-connected after maintenanceWHITE EA-11-014
-9 Months Oconee 3 Standby shutdown facility reactor coolant make up let 
-down line oriface strainer blocked by valve gasketYELLOW EA-10-094
-251 Days Watts Bar 1 Component cooling back up line inoperable due to silt WHITE IR-390/04-
-05 
-194 Days Point Beach Failure of Turbine driven auxiliary feed water pump due 
-to inadequate maintenanceWHITE EA-12-220
-193 Days Palisades Turbine driven AFW pump unavailable WHITE EA-11-227
-183 Days Hatch 1 Degraded coupling leads to EDG inoperability WHITE EA-09-054
-183 Days Hatch 2 Degraded coupling leads to EDG inoperability WHITE EA-09-054
-180 Days Duane Arnold Breaker failure results in EDG failure during test WHITE EA-09-083
-6 Months San Onofre 3 Steam generator tube integrity WHITE EA-13-083
-147 Days Quad Cities Emergency relief valves inoperable during extended 
-power update WHITE EA-06-112
-138 Days Prairie Island 1 Turbine driven AFW pump inoperable due to valve out of 
-positionWHITE EA-08-272
-125 Days Cooper Failure to establish procedural controls for maintenance 
-of electrical connections on essential equipmentWHITE EA-08-124
-4 Months Oconee 1 Standby shutdown facility reactor coolant make up let 
-down line oriface strainer blocked by valve gasketYELLOW EA-10-094
-109 Days Clinton Failure of Shutdown Cooling Water Pump Due To 
-Damaged BrushingWHITE EA-15-064
-85 Days Farley 2 Residual heat removal containment sump suction valve 
-inoperableYELLOW EA-07-173
-66 Days Browns Ferry 1 Inadequate procedure revision could lead to failure of 
-operator response to a fireWHITE EA-09-307
-66 Days Browns Ferry 2 Inadequate procedure revision could lead to failure of 
-operator response to a fireWHITE EA-09-307
-66 Days Browns Ferry 3 Inadequate procedure revision could lead to failure of 
-operator response to a fireWHITE EA-09-307
-64 Days Duane Arnold Reactor core isolation cooling turbine trip WHITE EA-13-223
-2 Months Fort Calhoun Failure to identify the cause and prevent the failure of trip 
-contact assembly in reactor protection systemYELLOW EA-11-025
-58 Days Palo Verde 3 Inoperable EDG due to inadequate maintenance and 
-corrective actionsWHITE EA-06-296
-57 Days Cooper Failure of EDG voltage regulator due to inadequate 
-proceduresWHITE EA-07-090
-51 Days Ginna Corrosion binding of governor control valve results in 
-auxiliary feedwater pump failure WHITE EA-09-248
-51 Days Kewaunee Degraded EDG due to fuel oil leak YELLOW EA-07-058
-47 Days Ginna Auxiliary feedwater pump failure due to inadequate 
-preventative maintenanceWHITE EA-09-045
-46 Days Peach Bottom 3 High Pressure Coolant Injection unavailable WHITE LER-278/04-
-001
-38 Days Farley 1 EDG exhaust pipe failure WHITE EA-08-192
-34 Days H.B. Robinson Failure of dedicated shutdown diesel generator WHITE EA-13-129
-30 Days Limerick 2 Reactor Core Isolation Cooling (RCIC) inoperable 
-because main feedwater valve failures diverted flow WHITE EA-11-221
-30 Days Brunswick 2 EDG 3 unavailable doe to jacket water leak WHITE LER-325/04-
-001
-28 Days Fort Calhoun EDG inoperable due to blown fuse WHITE LER-285/04-
-05
-26 Days Seabrook Inadequate design of EDG cooling water flange leads to 
-leak & failureWHITE EA-09-145
-25 Days Waterford Emergency Diesel Generator inoperable due to room 
-exhaust fan fireWHITE EA-13-233
-25 Days H.B. Robinson EDG B inoperable due to failed out put breaker & EDG A 
-unavailable due to testing & maintenanceWHITE LER-261-10-
-001
-23 Days Farley 2 Stand by service water pump unavailable WHITE IR-50-
-364/10-07
-22  Days Duane Arnold Emergency Diesel Generator inoperability results in 
-safety system functional failureWHITE EA-13-182
-20 Days Commanche Peak 1 EDG failure during testing WHITE EA-08-028
-17 Days Indian Point 2 Potential degradation of safety injection system WHITE IR-50-
-247/05-06
-14 Days Fort Calhoun EDG failure during test due to degraded contacts WHITE EA-07-194
-9 Days Brunswick 1 EDG inoperable due to failure of foreign material 
-exclusion practiceWHITE EA-07-024
-2 Days Palo Verde 2 Failure to implement design of steam generator nozzle 
-requiring extended time in reduced RCS inventoryWHITE IR-529/04-
-04 & 09
-1 Day Brunswick Penetrations in wall of EDG fuel oil structure could lead 
-to EDG failure in postulated floodWHITE EA-11-251
-6.5 Hours Point Beach 2 Concurrant unavailabilities: auxiliary transformer & 480 
-volt safety busWHITE IR-50-
-266/08-07NUCLEAR NEAR MISS CONDITIONS 2004 - 2014
-
-44
-1Duration of 
-ConditionNuclear Reactor Description of Condition CDP/SDP 
-ColorCitation
-Since start up Kewaunee Multiplle design deficiencies and potential unavailability 
-of AFW pumpsYELLOW LER-305/05-
-002, 006, 
-008
-Since start up Clinton Potential air entrapment of HPCS due to incorrect suction 
-source switchover setpointWHITE EA-06-291
-Since start up Kewaunee Design deficiency could cause unavailability of safety 
-related equipment during postulated internal floodYELLOW LER-305/05-
-004
-Since start up Surry 1 Potential loss of reactor coolant pump seal cooling due to 
-postulated fire damage to switch gearWHITE LER-280/-3-
-005
-Since start up Surry 2 Potential loss of reactor coolant pump seal cooling due to 
-postulated fire damage to switch gearWHITE LER-280/-3-
-005
-Since start up Turkey Point 3 Triennial fire protection issues WHITE LER-251/04-
-007
-Since start up Turkey Point 4 Triennial fire protection issues WHITE LER-251/04-
-007
-40 Years Arkansas Nuclear 1 Inadequate External Flood Protection for Safety Related 
-Equipment Located Below the Design Basis Flood 
-ElevationYELLOW EA-14-088
-40 Years Arkansas Nuclear 2 Inadequate External Flood Protection for Safety Related 
-Equipment Located Below the Design Basis Flood 
-ElevationYELLOW EA-14-088
-39 Years Fort Calhoun High Energy Line Break could lead to failure of 
-equipment for safe shutdownWHITE EA-14-187
-36 Years St. Lucie 1 Internal Reactor Auxiliary Building Flooding During Heavy 
-Rain Due to degraded conduits lacking internal flood 
-barriersWHITE EA-14-131
-34 Years Prairie Island 2 Potential unavailability of component cooling water during 
-HELB due to inadequate designWHITE EA-09-167
-33 Years Millstone 2 Un planned reactivity additions during main turbine 
-control valve testingWHITE EA-11-047
-31 Years Ginna Unanalyzed condition for Potential Flood water intrusion 
-into Vital Battery RoomWHITE EA-13-247
-31 Years Sequoyah 1 Inadequate electrical conduit seals for Essential Raw 
-Cooling Water Pumping Station could result in the loss of 
-diesel generators during a flooding eventWHITE EA-13-045
-31 Years St Lucie 1 Air intrusion into component cooling water system causes 
-pump cavitationYELLOW EA-09-321
-30 Years Sequoyah 2 Inadequate electrical conduit seals for Essential Raw 
-Cooling Water Pumping Station could result in the loss of 
-diesel generators during a flooding eventWHITE EA-13-045
-28 Years Oconee 1 Failure to maintain design control of standby shutdown 
-facility (SSF) pressure heater breakersYELLOW EA-11-226
-28 Years Oconee 2 Failure to maintain design control of standby shutdown 
-facility (SSF) pressure heater breakersYELLOW EA-11-226
-28 Years Oconee 3 Failure to maintain design control of standby shutdown 
-facility (SSF) pressure heater breakersYELLOW EA-11-226
-23 Years Oyster Creek Technical Specification Prohibited Condition caused by 
-Two Electromagnetic relief valves inoperable for greater 
-than allowed outage timeYELLOW EA-14-178
-21 Years Dresden 2 Failure ot establish procedure to address tyler effect of 
-external flooding ont he plantWHITE EA-13-079
-21 Years Dresden 3 Failure ot establish procedure to address tyler effect of 
-external flooding ont he plantWHITE EA-13-079
-18 Years Browns Ferry 2 Failure to protect cables of redundant safety systems 
-from fire damageYELLOW EA-09-307
-17 years Point Beach 1 Flooding Procedure Failed to protect safety related 
-equipmentWHITE EA-13-125
-17 years Point Beach 2 Flooding Procedure Failed to protect safety related 
-equipmentWHITE EA-13-125
-15 Years Prairie Island 1 Battery chargers potentially inoperable WHITE EA-11-110
-13 Years Cooper Deficient emergency procedures could lead to operators 
-failing to position valves necessary for core cooling in a 
-postulated fireWHITE EA-11-024
-13 Years Browns Ferry 3 Failure to protect cables of redundant safety systems 
-from fire damageYELLOW EA-09-307
-13 Years LaSalle 1 Single Failure Vulnerability of 4160 volt bus protective 
-relayWHITE LER-373/05-
-001
-13 Years LaSalle 2 Single Failure Vulnerability of 4160 volt bus protective 
-relayWHITE LER-373/05-
-001
-11 Years Palo Verde 1 Containment sump recirculation potentially inoperable 
-due to pipe voidsWHITE LER-528/04-
-009
-11 Years Palo Verde 2 Containment sump recirculation potentially inoperable 
-due to pipe voidsWHITE LER-528/04-
-009
-11 Years Palo Verde 3 Containment sump recirculation potentially inoperable 
-due to pipe voidsWHITE LER-528/04-
-009
-10 Years Oconee 1 High Cycle Fatigue resulted in Reactor Coolant Leak WHITE EA-14-091
-10 Years Cooper Inadequate post fire procedure could have prevented 
-achieving safe shutdownWHITE EA-07-204
-10 Years Crystal River 3 Single Failure Vulnerability of 4160 volt bus protective 
-relayWHITE LER-302/05-
-001
-9 Years Oyster Creek Technical Specification Prohibited Condition caused by 
-Emergency Deisel Generator inoperable for greater than 
-allowed outage timeWHITE EA-14-126
-9 Years Calvert Cliffs 1 Degraded EDG due to inadequate feed breaker WHITE LER-317/06-
-001
-6 Years Fort Calhoun Failure to establish and maintain procedures to protect 
-heat sink cooling water intake and auxiliary building from 
-external floodsYELLOW EA-10-084
-4 Years San Onofre 2 Deficient electrical connections with potential to affect 
-multiple safety systemsWHITE EA-08-296
-3 Years Palisades Failure of service water pump WHITE EA-11-241
-2 Years Turkey Point 3 AFW pump inoperable for longer than allowed by tech 
-specsWHITE EA-06-027
-2 Years Oconee 1 Failure to maintain design control for safe shutdown 
-facility flooding boundaryWHITE EA-06-199
-2 Years Oconee 2 Failure to maintain design control for safe shutdown 
-facility flooding boundaryWHITE EA-06-199
-2 Years Oconee 3 Failure to maintain design control for safe shutdown 
-facility flooding boundaryWHITE EA-06-199
-19 Months Browns Ferry 1 Failure to establish adequate design control and perform 
-adequate maintenance led to valve failure and residual 
-heat removal loop unavailableRED EA-11-018
-19 Months Fort Calhoun Fire in safety related 480n volt electrical breaker due to 
-deficient design control; 8 other breakers were also 
-susceptible RED EA-12-023
-19 Months Browns Ferry 1 Failure to protect cables of redundant safety systems 
-from fire damageYELLOW EA-09-307
-14 Months Oconee 2 Standby shutdown facility reactor coolant make up let 
-down line oriface strainer blocked by valve gasketYELLOW EA-10-094
-454 Days Fort Calhoun Faulty maintenance causes inoperability of containment 
-sprayWHITE EA-07-047
-1 Year Millstone 3 Turbine Driven Auxiliary Feedwater Pump Operability 
-imapcted by Incorrect BearingWHITE EA-14-092
-1 Year Monticello Failure to maintain flood plan to protect the site against 
-external floodsYELLOW EA -13-096
-1 Year Byron 1 Corrosion of equipment cooling water system piping WHITE EA-08-046
-1 Year Byron 2 Corrosion of equipment cooling water system piping WHITE EA-08-046
-1 Year Brunswick 1 All EDG unable to be operated locally due to incorrect 
-relay wiringWHITE EA-09-121
-1 Year Brunswick 2 All EDG unable to be operated locally due to incorrect 
-relay wiringWHITE EA-09-121
-1 Year Oconee 3 Potentially degraded containment sump recirculation due 
-to debrisWHITE EA-06-295
-322 Days Braidwood 1 Failure of containment sump function valve to open WHITE EA-09-259
-10 Months Byron 2 Failure to ensure EDG lube oil cooler was properly 
-connected after maintenanceWHITE EA-11-014
-9 Months Oconee 3 Standby shutdown facility reactor coolant make up let 
-down line oriface strainer blocked by valve gasketYELLOW EA-10-094
-251 Days Watts Bar 1 Component cooling back up line inoperable due to silt WHITE IR-390/04-
-05 
-194 Days Point Beach Failure of Turbine driven auxiliary feed water pump due 
-to inadequate maintenanceWHITE EA-12-220
-193 Days Palisades Turbine driven AFW pump unavailable WHITE EA-11-227
-183 Days Hatch 1 Degraded coupling leads to EDG inoperability WHITE EA-09-054
-183 Days Hatch 2 Degraded coupling leads to EDG inoperability WHITE EA-09-054
-180 Days Duane Arnold Breaker failure results in EDG failure during test WHITE EA-09-083
-6 Months San Onofre 3 Steam generator tube integrity WHITE EA-13-083
-147 Days Quad Cities Emergency relief valves inoperable during extended 
-power update WHITE EA-06-112
-138 Days Prairie Island 1 Turbine driven AFW pump inoperable due to valve out of 
-positionWHITE EA-08-272
-125 Days Cooper Failure to establish procedural controls for maintenance 
-of electrical connections on essential equipmentWHITE EA-08-124
-4 Months Oconee 1 Standby shutdown facility reactor coolant make up let 
-down line oriface strainer blocked by valve gasketYELLOW EA-10-094
-109 Days Clinton Failure of Shutdown Cooling Water Pump Due To 
-Damaged BrushingWHITE EA-15-064
-85 Days Farley 2 Residual heat removal containment sump suction valve 
-inoperableYELLOW EA-07-173
-66 Days Browns Ferry 1 Inadequate procedure revision could lead to failure of 
-operator response to a fireWHITE EA-09-307
-66 Days Browns Ferry 2 Inadequate procedure revision could lead to failure of 
-operator response to a fireWHITE EA-09-307
-66 Days Browns Ferry 3 Inadequate procedure revision could lead to failure of 
-operator response to a fireWHITE EA-09-307
-64 Days Duane Arnold Reactor core isolation cooling turbine trip WHITE EA-13-223
-2 Months Fort Calhoun Failure to identify the cause and prevent the failure of trip 
-contact assembly in reactor protection systemYELLOW EA-11-025
-58 Days Palo Verde 3 Inoperable EDG due to inadequate maintenance and 
-corrective actionsWHITE EA-06-296
-57 Days Cooper Failure of EDG voltage regulator due to inadequate 
-proceduresWHITE EA-07-090
-51 Days Ginna Corrosion binding of governor control valve results in 
-auxiliary feedwater pump failure WHITE EA-09-248
-51 Days Kewaunee Degraded EDG due to fuel oil leak YELLOW EA-07-058
-47 Days Ginna Auxiliary feedwater pump failure due to inadequate 
-preventative maintenanceWHITE EA-09-045
-46 Days Peach Bottom 3 High Pressure Coolant Injection unavailable WHITE LER-278/04-
-001
-38 Days Farley 1 EDG exhaust pipe failure WHITE EA-08-192
-34 Days H.B. Robinson Failure of dedicated shutdown diesel generator WHITE EA-13-129
-30 Days Limerick 2 Reactor Core Isolation Cooling (RCIC) inoperable 
-because main feedwater valve failures diverted flow WHITE EA-11-221
-30 Days Brunswick 2 EDG 3 unavailable doe to jacket water leak WHITE LER-325/04-
-001
-28 Days Fort Calhoun EDG inoperable due to blown fuse WHITE LER-285/04-
-05
-26 Days Seabrook Inadequate design of EDG cooling water flange leads to 
-leak & failureWHITE EA-09-145
-25 Days Waterford Emergency Diesel Generator inoperable due to room 
-exhaust fan fireWHITE EA-13-233
-25 Days H.B. Robinson EDG B inoperable due to failed out put breaker & EDG A 
-unavailable due to testing & maintenanceWHITE LER-261-10-
-001
-23 Days Farley 2 Stand by service water pump unavailable WHITE IR-50-
-364/10-07
-22  Days Duane Arnold Emergency Diesel Generator inoperability results in 
-safety system functional failureWHITE EA-13-182
-20 Days Commanche Peak 1 EDG failure during testing WHITE EA-08-028
-17 Days Indian Point 2 Potential degradation of safety injection system WHITE IR-50-
-247/05-06
-14 Days Fort Calhoun EDG failure during test due to degraded contacts WHITE EA-07-194
-9 Days Brunswick 1 EDG inoperable due to failure of foreign material 
-exclusion practiceWHITE EA-07-024
-2 Days Palo Verde 2 Failure to implement design of steam generator nozzle 
-requiring extended time in reduced RCS inventoryWHITE IR-529/04-
-04 & 09
-1 Day Brunswick Penetrations in wall of EDG fuel oil structure could lead 
-to EDG failure in postulated floodWHITE EA-11-251
-6.5 Hours Point Beach 2 Concurrant unavailabilities: auxiliary transformer & 480 
-volt safety busWHITE IR-50-
-266/08-07NUCLEAR NEAR MISS CONDITIONS 2004 - 2014
-
-45Appendix C: Nuclear Near Misses Not Modeled in PRANuclear Near Misses: 
-A Decade of Accident Precursors at U.S. NuclearPlants                                                                                    Greenpeace                                                                       
-
-
-46 Appendix D: Oconee TimelineNuclear Near Misses: 
-A Decade of Accident Precursors at U.S. NuclearPlants                                                                                    Greenpeace                                                                       
-
-
-47
-
-
-48
-
-
-49
-
-
-50
-
-
-51
-
-
-52
-
-
-53
-
-
-54
-
-
-55
-
-
-56
-
-
-57
-
-
-58
-
-
-59
-
-
-60
-
-
-61
-
-
-62
-
-
-63

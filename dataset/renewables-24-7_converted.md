@@ -1,0 +1,19797 @@
+[r]enewables
+24/7
+
+INFRASTRUCTURE NEEDED TO SAVE THE CLIMATE
+
+O
+D
+N
+O
+D
+E
+R
+L
+E
+K
+R
+A
+M
+P
+G
+©
+
+/
+
+/
+
+P
+G
+A
+R
+T
+L
+E
+B
+L
+E
+I
+N
+A
+D
+©
+
+O
+D
+N
+O
+D
+E
+R
+L
+E
+K
+R
+A
+M
+E
+C
+A
+E
+P
+N
+E
+E
+R
+G
+©
+
+/
+
+report global energy grid scenario
+
+EUROPEAN RENEWABLE
+ENERGY COUNCIL
+
+foreword
+
+climate friendly
+infrastructure is
+needed in all countries
+
+The time to build up our ‘climate-
+friendly infrastructure’ –
+comprising networked smart grids
+and district heating pipelines – is
+now! The window of opportunity
+is available for industrialised
+countries as well as developing
+countries. While the industrialised
+nations in North America, Europe
+and Australia have to reinforce
+their 40- and 50-year old grids,
+developing countries – especially
+China and India – are in the
+process of building theirs
+for the first time.
+
+Smart grid or super grid,
+decentralised or
+centralised renewable
+power plants? The
+discussion about the
+future of our power supply
+is running hot, and hi- tech
+visions are everywhere.
+
+The solar and wind
+markets have continued to
+grow despite the economic
+crisis. So as more and
+more renewable power
+generation comes online a
+question arises. How do we
+transport and integrate
+renewable energy sources
+into existing power grids?
+Will the lights go out if the
+wind is not blowing and
+the sun is not shining?
+Do we still need coal or
+nuclear power to provide
+base-load and back-up for
+wind and solar power?
+
+foreword
+executive summary
+introduction
+
+4
+6
+9
+
+1
+
+2
+
+3
+
+renewable energy
+and hybrid systems
+
+smart grids
+
+super grid
+- the interconnection
+of smart grids
+
+14
+
+26
+
+41
+
+super grid:
+simulation of the
+energy [r]evolution
+for europe
+
+appendix
+
+4
+
+5
+
+47
+
+74
+
+contents
+
+image THE MARANCHON WIND TURBINE FARM IN GUADALAJARA, SPAIN IS THE LARGEST IN EUROPE WITH 104 GENERATORS, WHICH COLLECTIVELY PRODUCE 208 MEGAWATTS OF ELECTRICITY,
+ENOUGH POWER FOR 590,000 PEOPLE, ANUALLY. cover image ANDASOL 1 SOLAR POWER STATION IS EUROPE’S FIRST COMMERCIAL PARABOLIC TROUGH SOLAR POWER PLANT. IT WILL SUPPLY
+UP TO 200,000 PEOPLE WITH CLIMATE-FRIENDLY ELECTRICITY AND SAVE ABOUT 149,000 TONS OF CARBON DIOXIDE PER YEAR COMPARED WITH A MODERN COAL POWER PLANT.
+2
+
+But we do not need to start from scratch. Neither ‘smart grids’ nor ‘super
+grids’ are completely new. We can move from today’s infrastructure
+toward smarter grids step by step. To convert a city’s existing grid to a
+smart grid just means adding intelligence. In many cases, no new cables
+are needed, just an IT-driven control system that allows utilities to
+manage decentralised power production in line with local demand.
+
+As a wider network of these smart grids forms from city to city
+and country to country, a super grid emerges.
+
+50% wind power is possible already
+
+On 7 November 2009, wind power supplied more than half of Spain’s
+electricity demand for an entire night. Wind power’s share of supply
+reached 53% several times and was steadily above 50% between
+3:00am and 8:30am. A record figure of 11,546 MW of simultaneous
+wind power generation was reached. Events like this will occur more
+often in many countries worldwide, especially regarding renewable
+leaders like Denmark, Germany and Spain.
+
+This shows that there is still plenty of ‘room’ in the grid and no reason
+to slow down the development of renewable energy. Rather, it is time to
+start evolving the grid into a more flexible power supply system so that
+even higher levels can be sustained. This means a move away from a
+stiff, inflexible ‘base-load’-driven power system towards a smarter,
+interconnected system.
+
+This report, ‘[R]enewables 24/7 – Infrastructure needed to save the
+climate’ is one of the more technical reports in the series of Energy
+[R]evolution scenarios. For the first time, we have taken our own
+scenario and commissioned a detailed analysis of if and how the grid
+must be changed in order to implement a climate-friendly power supply;
+one where 90% of the power supplied comes from renewable energy
+sources. To compile the report, Energynautics – a leading research
+company in the field of Grid Integration – compared 30 years of weather
+data with European annual demand curves on a 15 minute basis.
+
+So, will the Energy [R]evolution mix in the year 2050 guarantee
+a safe and secure 24/7 power supply?
+
+The answer is yes! The analysis showed that there is only a 0.4%
+chance – or 12 hours a year – that high demand correlates with
+low solar and wind generation. In the past 30 years, we found only
+three extreme events when no or low sunshine and unusually low
+wind speeds coincided with high demand: August 2003, November
+1987 and January 1997.
+
+However, some new cable connections between countries are needed
+in order to be able to integrate offshore-wind from windy areas with
+concentrated solar power stations in deserts. This report presents a
+first draft of a possible grid expansion. But more research is needed
+to develop the most cost effective modern climate-friendly
+infrastructure. This report is Greenpeace’s contribution to this
+debate, and we appreciate that it is only one possible concept that
+will have to compete with others and evolve over time.
+
+Nevertheless, a different political framework is needed to
+implement any new infrastructure. Addressing climate change
+requires a drastic change in global energy generation – including
+the power grids that support it.
+
+Arthouros Zervos
+EUROPEAN RENEWABLE
+
+ENERGY COUNCIL (EREC)
+
+Sven Teske
+CLIMATE & ENERGY UNIT
+
+GREENPEACE INTERNATIONAL
+
+NOVEMBER 2009
+
+A
+G
+N
+O
+L
+A
+N
+N
+A
+C
+O
+I
+V
+A
+L
+F
+E
+C
+A
+E
+P
+N
+E
+E
+R
+G
+©
+
+/
+
+Greenpeace International, European Renewable Energy Council (EREC)
+date November 2009. EREC Arthouros Zervos, Christine Lins. Greenpeace International Sven Teske, Project
+Manager. authors Dr. Thomas Ackermann, Dr. Eckehard Tröster, Rebecca Short, Sven Teske. editor Rebecca Short,
+Dörte Müller. research Dr. Thomas Ackermann, Dr. Eckehard Tröster, energynautics GmbH, Mühlstraße 51, 63225
+Langen, Germany. printing www.primaveraquint.nl design & layout onehemisphere, Sweden, www.onehemisphere.se
+contact Greenpeace International: Sven Teske; sven.teske@greenpeace.org
+for further information about the global, regional and national scenarios please visit the energy [r]evolution website:
+www.energyblueprint.info/
+Published by Greenpeace International. Printed on 100% post consumer recycled chlorine-free paper.
+
+3
+
+[R]ENEWABLES 24/7
+INFRASTRUCTURE NEEDED TO SAVE THE CLIMATE
+
+executive summary
+
+“WE HAVE SUN, WIND, GEOTHERMAL SOURCES AND RUNNING RIVERS AVAILABLE RIGHT NOW, AND OCEAN ENERGY, BIOMASS
+
+AND EFFICIENT GAS TURBINES SET TO PROVIDE MASSIVE ENERGY SUPPLIES IN THE FUTURE.”
+
+E
+M
+I
+T
+S
+M
+A
+E
+R
+D
+©
+
+image OFFSHORE WIND FARM, COPENHAGEN, DENMARK.
+
+grids keep power systems working
+
+The grid is the sometimes over-looked part of the electricity system.
+The developed world has extensive electricity grids supplying power
+to nearly 100% of the population, but in parts of the developing
+world, many rural areas get by with unreliable grids or local, dirty
+electricity - for example from diesel - which is also expensive for
+small communities.
+
+Our future on this planet depends on a massive shift to clean energy
+sources worldwide, as outlined in Greenpeace’s Energy
+[R]evolution. However the grids that bring the electricity to our
+homes and factories were designed for big, centralised generators,
+now running at huge loads, providing what is known as ‘base-load’
+power. Until now, renewable energy had has to fit in as an extra,
+small slice of the energy mix and adapt to the conditions the grid
+currently operates under.
+
+Some critics of renewable energy say it is not ever going to be able
+to provide enough power for our current energy use, let alone for
+projected growth of energy demand. This is because it relies mostly
+on natural resources, like wind and sun, which don’t appear to be
+available 24/7.
+
+This report shows how that thinking is wrong.
+
+We have sun, wind, geothermal sources and running rivers available
+right now, and ocean energy, biomass and efficient gas turbines set
+to provide massive energy supplies in the future. Clever technologies
+can track and manage energy use patterns, provide flexible power
+that follows demand through the day, use better storage options and
+group customers together to form virtual batteries. With all these
+solutions we can secure the renewable energy future needed to
+avert catastrophic climate change.
+
+We just need smart grids to put it all together and effectively
+‘keep the lights on’.
+
+4
+
+image WELDER WORKING AT VESTAS
+WIND TURBINE FACTORY,
+CAMPBELLTOWN, SCOTLAND.
+
+/
+
+E
+C
+A
+E
+P
+N
+E
+E
+R
+G
+N
+O
+S
+I
+V
+A
+D
+E
+T
+A
+K
+©
+
+smart grids can handle renewable energy
+
+super grid – connecting the dots intelligently
+
+A smart grid is an electricity grid that connects decentralised
+renewable energy sources and co-generation and distributes power
+in a highly efficient way. It uses distributed energy resources and
+advanced communication and control technologies to deliver
+electricity more cost-effectively, with lower greenhouse gas intensity
+and in response to consumer needs. Typically, smaller forms of
+electricity generation are combined with energy management to
+balance out the load of all the users on the system. Small
+renewable energy generators can be closer to the users, rather than
+one large centralised source a long way away.
+
+Smart grids are a way to get massive amounts of renewable energy
+with no greenhouse gas emissions into the system, and to allow
+decommissioning of older, centralised power sources. Advanced
+types of control and management technologies for the electricity
+grid make it run more efficiently overall. This applies whether we
+are talking about a major, complex system like in Denmark or a
+small village system in the Pacific Islands.
+
+Smart and super grids are not a science fiction but a further
+development from today’s grids. So we do not need to start from
+scratch. In fact, various types of high voltage systems suitable for long-
+distance connections are already under development and deployment.
+With super grids, we can effectively plug in areas of high demand like
+Central Europe to areas of high supply, like Northern Africa, and
+provide a more sustainable energy supply and income to all.
+
+european modelling – the grid can support
+the energy [r]evolution
+
+This report includes an analysis of the EU 27 Energy [R]evolution1
+scenario showing that extreme weather events where the supplies of
+naturally occurring sun and wind drop too low for our needs occur
+rarely, around once a year. The conclusion is that we can develop
+towards a smarter super grid and expand renewable energy supplies
+in parallel. There is no reason to stop expansion of renewable
+energy while we wait for better grids.
+
+from little things, big things grow
+
+Hybrid systems, and to some extent micro grids, are concepts for
+islands and for rural communities, where a number of small
+generators like wind turbines or PV panels are linked together and
+controlled centrally, to provide sufficient power to all.
+
+When it comes to these kinds of power supplies, small is beautiful
+(and cheap to run). Significant savings are possible in remote areas
+in switching from diesel to renewable energy. Greenpeace outlines a
+method to bundle up several island power systems to attract more
+upfront funding from international sources. See Section 1 on hybrid
+systems and Micro Grids for more.
+
+get smart, manage demand
+
+Smart grids can help to get very large amounts of renewable
+energy into the system, while keeping a reliable and secure supply.
+Renewable energy 24/7 is technically and economically possible, it
+just needs the right policy and the commercial investment to get
+things moving. Demand management is a crucial part of this, it
+basically means turning off or down instead of boosting supplies.
+
+Section 2 outlines what demand management means and provides
+some exciting real-life examples of how it is possible to re-imagine
+the operation of the grid to use flexible supply. We don’t need to be
+stuck with the model of base-load generation. Electricity users can
+act together to take the strain out of a system, like the case study
+where hundreds of cool warehouses or thousands of electric car
+owners form giant virtual batteries and save power for everyone.
+
+When you look at the real scenarios, for example in Spain, where
+huge amounts of solar power have been added to the system, large,
+inflexible fossil and nuclear power plants simply do not fit together
+with renewable energy.
+
+reference
+1 THE ANALYSIS INCLUDES NORWAY, SWITZERLAND AS WELL AS THE EU-27
+
+policy recommendations
+
+towards a climate-friendly infrastructure: interconnected
+smart grids It is technically possible to operate a power system
+with over 90% renewables and guarantee a security of supply 24
+hours a day, seven days a week 365 days a year. This is why the title
+of this report is ‘Renewables 24/7’. However the existing grid
+system in most industrialised countries is over 40 years old.
+Reinforcement of this important infrastructure is needed,
+regardless. To prepare for a very high share of renewables, we need
+to move towards an ‘interconnected smart grid’.
+
+This document gives Greenpeace’s position on cross-border electrical
+interconnections and points out the benefits of a more interconnected
+electrical system and the disadvantages that this represents in a
+system with a high percentage of dirty energies. Greenpeace calls for
+an increase in international electrical interconnections and the build-
+up of ‘smart grids’ which are needed to operate decentralised
+renewable energy sources and co-generation power plants. The
+current grid must be upgraded towards a connected smart grid
+system in order to implement the Energy [R]evolution – the way out
+of the climate crisis. The following political changes are needed to
+implement this very much needed ‘climate infrastructure’:
+
+the advantages of a more interconnected and smarter system
+Greenpeace considers that a greater capacity of cross-border electrical
+interconnection brings advantages in security of supply, energy efficiency
+and the development of an electrical system based on renewables:
+
+• security of supply: An interconnected system allows an increase
+in the security of supply, since, for the same installed power, there
+are more options for managing the system assuring the quantity
+and quality of coverage of demand. For example, in the case of
+demand peaks, countries could import electricity from other
+geographic areas when it is necessary and this would reinforce
+the security of the electrical supply.
+
+5
+
+[R]ENEWABLES 24/7
+INFRASTRUCTURE NEEDED TO SAVE THE CLIMATE
+
+• energy efficiency: A more interconnected system allows better use
+of the installed power, avoiding the overall need for power production
+capacity. A similar effect is achieved through demand side
+management, which means changing demand to meet supply, rather
+than the other way around. Through exploiting these effects, polluting
+conventional power production capacity can be reduced substantially.
+
+renewable energies Global emission reductions of at least 30% by
+2020 and at least 80% by 2050 are necessary to prevent the most
+dangerous levels of climate change. In order to reach these objectives
+renewable energy sources will need to contribute a lot more to our
+electricity supply - at least 50% by 2030 and close to 100% by 2050.
+
+A large-scale penetration of renewables requires improvements in
+the infrastructure of the transmission network, both within a
+national electrical system and in the interconnections between
+countries, to balance variable power output and demand across
+regions and to transmit the renewable energy generated by off-
+shore installations and large-scale solar power stations. Also, the
+more distributed generation system with small-scale and larger
+renewable energy installations requires a smarter design and
+operation of the distribution and transmission system.
+
+Greenpeace demands the development of smart grid
+technology and the increase of international electrical
+connections The development of a smart grid will lead to an
+essential ‘climate protection infrastructure’ that will get distributed
+and variable renewable energy sources into the power system and
+maximise energy efficiency. It should be developed specifically with
+a view to achieving both these objectives.
+
+In parallel, greater interconnection capacity brings a range of
+advantages for the security of supply, energy and economic efficiency
+and the development of an electrical system based on renewable energy.
+Greenpeace is in favour of a more interconnected grid that is linked to a
+suitable energy plan focused on ecological sustainability criteria.
+
+However, the present planning system is based on a supply-side
+approach and not on a demand side management approach and runs
+on mainly on dirty energies. The opening of new interconnection lines
+without conditions could favour dirty energies and hinder energy saving.
+
+• The power system must be flexible to allow the large-scale
+
+integration of fluctuating renewable energy. No new, large nuclear
+or coal power plants should be licensed, and existing plants must
+be replaced progressively with flexible, highly efficient and more
+decentralised plants.
+
+• Renewable energy should be guaranteed priority access to the grid.
+Access to the exchange capacity available at any given moment
+should be fully transparent and the transmission of energy from
+renewable sources should always have preference, in both directions.
+
+• The design of distribution and transmission networks, in
+
+particular for interconnections, should be guided by the objective
+of facilitating the integration of renewables and to achieve a
+system as close as possible to 100% renewable.
+
+• Guarantees should be established that exclude the possibility
+
+of transferring electricity from nuclear origin through
+the new interconnections.
+
+• In planning new interconnections, the existing infrastructure should
+
+be exploited as much as possible. Where it is not possible, all
+environmental considerations should be taken into account, using a
+global and exhaustive analysis, so that the new installations have
+the minimum environmental impact. In order to achieve this, the
+interconnections should have a favourable Environmental Impact
+Statement in all cases where it is mandatory and should fulfil all
+the conditions and corrective measures included in the EIS. The
+Environmental Impact Assessment should include the option of
+burying the lines, along with all possible alternatives.
+Environmental criteria must prevail over economic criteria.
+
+• A complete ownership unbundling of electrical grids from power
+
+generation and supply companies should be enforced.
+
+Transmission and distribution system operators must make all
+relevant grid data accessible so that independent institutions can
+develop grid optimisation concepts.
+
+• For the construction of new transmission and distribution
+
+capacity, preference should be given to ground-based cables, rather
+than overland high tension lines, as is already done in Denmark.
+
+To promote the development of the grid system, Greenpeace
+demands the following:
+
+• Governments should create appropriate framework conditions to
+
+support and expand demand side management.
+
+• Governments, as a top priority, should establish by law mandatory
+
+• Regional pilot projects should promote the further optimisation
+
+energy planning objectives in the medium to long-term,
+specifically the following:
+
+and demonstration of smart grid technology, virtual power
+stations and highly-developed demand side management.
+
+• Increase Energy Efficiency to reduce the overall demand.
+
+• Increase contribution of renewables according to the
+
+Energy [R]evolution scenarios.
+
+• A timetable for the gradual but urgent phasing out of
+
+nuclear and coal power stations.
+
+• The transport sectors (e.g. electric vehicles) should increasingly
+be integrated into national and regional power supply strategies.
+
+• Communication standards for smart grids should be agreed.
+
+6
+
+introduction
+
+“IN THE FUTURE, WE NEED TO CHANGE THE GRIDS SO THEY DO NOT RELY ON LARGE, CENTRAL CONVENTIONAL POWER PLANTS,
+
+BUT INSTEAD ON CLEAN ENERGY, FROM SOURCES LIKE WIND, SOLAR, HYDRO AND BIOMASS.”
+
+Á
+R
+T
+L
+E
+B
+L
+E
+I
+N
+A
+D
+
+/
+
+E
+C
+A
+E
+P
+N
+E
+E
+R
+G
+©
+
+image THE MARANCHON WIND FARM IS THE LARGEST IN EUROPE WITH 104 GENERATORS WITH A TOTAL CAPACITY OF 208 MW, ENOUGH ANNUAL POWER FOR 590,000 PEOPLE. THE FARM
+ANNUALLY PRODUCES THE EQUIVALENT ELECTRICITY OF 100,000 TONS OF OIL, THEREBY ELIMINATING 430,000 TONS OF CO2.
+
+The electricity ‘grid’ is a collective name for all wires, transformers
+and infrastructure that transport electricity from power plants to
+users. In all networks, some energy is lost as it travels, making
+distribution inefficient.
+
+such as offshore wind power plants. Examples of big generators of
+the future are the massive wind farms in the North Sea and large
+areas of land covered in concentrating mirrors to generate energy in
+Southern Europe or Africa.
+
+The existing electricity transmission and distribution system was
+mainly designed and planned 40 to 60 years ago. All over the
+developed world, the grids were built with large power plants in the
+middle, with high voltage alternating current (AC) power lines to
+the areas where the power is being used. A smaller ‘distribution
+network’ carries the current to the final consumers. This is known as
+a centralised grid system and the large power sources are mostly
+coal and gas power stations. The systems supported massive
+industrialisation in cities and also brought electricity to rural areas
+in most developed parts of the world.
+
+In the future, we need to change the grids so they do not rely on
+large, central conventional power plants, but instead on clean
+energy, from sources like wind, solar, hydro and biomass. These are
+typically smaller power generators, and they will be distributed
+throughout the grid, as well as concentrated in large power plants
+
+The challenge ahead is to integrate new generation sources and at
+the same time phase out most of the large-scale conventional power
+plants, while keeping the lights on 24/7. This will need new types of
+grids and power system architecture. The major new technologies
+needed are to balance fluctuations in energy demand and supply.
+Plenty of new measures are available today, like demand-side
+management, advanced weather forecasting and energy storage;
+we just need to put them to work.
+
+The key elements of the new power system architecture are micro
+grids, smart grids and a number of interconnectors for an effective
+super grid. The first three sections of this report provide
+information on the technologies and economics of each of these
+systems. The final section outlines the study which applied the
+Greenpeace Energy [R]evolution scenario for Europe and worked
+out how big the onshore super grid would need to be to support it.
+
+7
+
+[R]ENEWABLES 24/7
+INFRASTRUCTURE NEEDED TO SAVE THE CLIMATE
+
+definitions
+
+the vision
+
+To create smart grids takes an overall approach; it is not bound to
+one particular distribution network. Micro grids and therefore also
+smart grids use new monitoring and control infrastructures
+embedded in distribution networks, that use local energy generation
+resources; for example, combinations of solar panels, micro
+turbines, fuel cells, energy efficiency and
+information/communication technology to control loads.
+
+The super grid is a concept that helps to guarantee the security of
+supply at all times. Broadly defined, the concept refers to micro
+grids supplying local power needs, to smart grids balancing demand
+out over a region, and to super grids operating to transport large
+energy loads between regions. The three types of systems support
+each other and interconnect with each other.
+
+The scenario in Section 4 sets out a way of supplying 90% of
+European electricity by renewable generation, as part of the global
+energy mix to meet the tough greenhouse gas reduction
+requirements needed to avoid dangerous climate change. The study
+answers the question of ‘what super grid infrastructure is needed to
+keep the lights on 24/7 when 90% of Europe’s electricity demand
+is supplied by renewable generation?’ It tracks the extreme weather
+situations that have occurred in Europe over the last 25 years in
+order to work out how much capacity the onshore super grid would
+need, and where it would be located in order to balance the local
+renewables resources available with big generating potentials like
+North Sea wind and southern Europe’s sun.
+
+Hybrid system is a term for new electricity supplied on
+islands or to bring electricity to rural areas, especially in
+developing countries. In the future, several hybrid systems
+could be connected and form micro grids which can support
+the functions of the smart grid by, for instance, enabling virtual
+power plants which can be used to firm up variable generation.
+In developing countries, hybrid systems can be built for remote
+locations or island; they are simpler than micro grids but they
+can be a step towards a micro grid, when they are upgraded
+and get integrated to a power system.
+
+Smart grid is an electricity grid that connects decentralised
+renewable energy sources and co-generation and distributes
+power highly efficiently. It is an electricity network that uses
+distributed energy resources and advanced communication
+and control technologies to deliver electricity more cost-
+effectively, with lower greenhouse intensity and in response to
+consumer needs. Typically, smaller forms of electricity
+generation are combined with energy management to balance
+out the load of all the users on the system. Small generators
+include wind turbines, solar panels, micro turbines, fuel cells
+and co-generation (combined heat and power). These types of
+energy sources can be closer to the users, rather than one
+large centralised source a far. Smart grids are a way to get
+massive amounts of renewable energy with no greenhouse
+emissions into the system, and to allow decommissioning of
+older, centralised power sources. Advanced types of control
+and management technologies for the electricity grid can also
+make it run more efficiently overall. These include things like
+smart electricity meters that show real-time use and costs
+and can respond to remote communication and dynamic
+electricity pricing.
+
+Super grid is a large interconnection - typically based on HVDC
+technology - between countries or areas with large supply and
+large demand. An example would be the interconnection of all
+the large renewable based power plants in the North Sea or a
+connection between Southern Europe and Africa where
+renewable energy could be exported to bigger cities and towns,
+from places with large locally available resources.
+
+8
+
+/
+
+/
+
+P
+G
+T
+I
+N
+E
+Z
+K
+C
+O
+R
+G
+N
+A
+L
+U
+A
+P
+©
+
+image CONSTRUCTION OF THE OFFSHORE WINDFARM AT
+MIDDELGRUNDEN NEAR COPENHAGEN, DENMARK.
+
+figure 1: overview of the future power system with high penetration of renewables
+
+North Sea wind turbines
+and offshore supergrid
+
+North Sea wind turbines
+and offshore supergrid
+
+CITY
+
+SMART
+GRID
+
+CITY
+
+SMART
+GRID
+
+CITY
+
+SMART
+GRID
+
+existing AC system
+
+NEW HVDC SUPERGRID
+
+CITY
+
+SMART
+GRID
+
+CITY
+
+SMART
+GRID
+
+CITY
+
+SMART
+GRID
+
+CITY
+
+SMART
+GRID
+
+CITY
+
+SMART
+GRID
+
+CITY
+
+SMART
+GRID
+
+Smart grid using micro grids and virtual power plants
+
+DISTRIBUTED GENERATION GRID
+
+3 x 20kW
+wind turbine
+
+90kW
+solar PV
+
+2 x 60kW
+gas turbine
+
+power grid
+
+CSP in Southern Europe and Africa
+
+APP MINIGRID
+
+1kW vertical
+wind turbine
+
+30kW gas
+turbine
+
+23kW
+solar PV
+
+64kW test
+load bank
+
+minigrid
+control room
+
+source ENERGYNAUTICS
+
+VIRTUAL POWER STATION MICROGRID
+
+16kWh
+battery bank
+
+1kW
+solar PV
+
+1kW wind
+turbine
+
++
+
+-
+
+site loads
+
+9
+
+[R]ENEWABLES 24/7
+INFRASTRUCTURE NEEDED TO SAVE THE CLIMATE
+
+a big role for the IT sector
+
+Greenpeace runs the ‘Cool IT’ campaign to put pressure on the
+IT sector to make the technologies described in this report a
+reality. The giants of the telecommunications and technology
+sector have the power to make the grid smarter, and to get us
+towards a clean energy future, faster.
+
+There are many opportunities for the ICT sector to help to redefine
+the power network, which will look a lot different to what we have
+today. Because a smart grid has power supplied from a diverse
+range of sources and places it relies on the gathering and analysis
+of a lot of data. This requires software, hardware and data
+networks that are capable of delivering data quickly, and of
+responding to the information that they contain.
+
+Several key IT players are racing to smarten up energy grids across
+the globe, and there are also hundreds of companies that could
+potentially be involved with the smart grid, from
+telecommunications companies, such as Deutsche Telecom, or
+AT&T; software providers, like Cisco, or Google, and hardware
+providers, like Fujitsu and IBM; and many more.
+
+figure 2: ICT solutions opportunities
+
+SUB
+SECTORS
+
+SMARTGRID
+
+TRANSPORTATION
+
+DE-MATERIALIZATION
+
+BUILDINGS
+
+INFORMATION
+MANAGEMENT
+
+integration and
+management of distributed
+power generation
+
+congestion
+pricing and
+management
+
+tele-conference
+
+real-time transfer
+of information
+
+facility level
+GHG management
+
+Network
+
+remote demand
+management
+
+smart
+parking systems
+
+route planning/goods
+management
+
+distributed storage
+systems
+
+supply chain management
+and GHG reporting
+
+Telecom
+
+wireless grid
+management
+
+access to low(er) trans alternatives
+
+smart meter connectivity
+
+vehicle to grid
+charging/storage
+
+meeting
+facilitation software
+
+GHG management dashboards
+
+Software
+
+software for
+demand response
+
+social networking
+for ride/car sharing
+
+route planning/
+goods management
+
+cloud server/virtualization software
+
+desktop virtualization
+
+smart
+appliances
+
+Equipment
+
+demand response integration
+with IT equipment
+
+e-books, e-music, digital
+photos, paperless workspace
+
+highly efficient PCs
+
+3D video
+conference
+
+cloud virtualization
+of servers
+
+building energy
+management
+
+source GREENPEACE
+
+10
+
+Then there is the requirement for smart metering and information
+systems on the consumer side of the equation. This enhanced energy
+management information is needed to monitor any local resource,
+such as a private photovoltaic array, ensuring that this resource is
+managed and any excess is sold to the grid accurately. Providing
+energy users with real-time data about their energy consumption
+patterns and the appliances in their buildings helps them to improve
+their own energy efficiency, and will allow many energy using
+appliances to be used at a time when local supply is high, for
+example, when the wind is blowing. As the grids get smarter still,
+there will be implications for storage and use in times of low
+demand, to mop up any excess that may exist.
+
+There are many IT companies offering products and services to
+manage and monitor energy. The companies are of varying size from
+small start-ups through to large household names, and other companies
+that are better known as service providers.
+
+image ANDASOL 1 SOLAR POWER STATION IS EUROPE’S
+FIRST COMMERCIAL PARABOLIC TROUGH SOLAR POWER
+PLANT. IT WILL SUPPLY UP TO 200,000 PEOPLE WITH
+CLIMATE-FRIENDLY ELECTRICITY AND SAVE ABOUT
+149,000 TONS OF CARBON DIOXIDE PER YEAR COMPARED
+WITH A MODERN COAL POWER PLANT.
+
+O
+D
+N
+O
+D
+E
+R
+L
+E
+K
+R
+A
+M
+P
+G
+©
+
+/
+
+IBM and Fujitsu both provide some hardware solutions to facilitate
+smart power production and they are involved in producing
+monitoring equipment for the loads and weather. Google has
+provided open source software application Powermeter, to help
+consumers directly leverage their electricity consumption data from
+their smart meter, providing real-time analysis of energy
+consumption. Microsoft has also entered the market with its Holm
+energy meter software. Cisco is looking to duplicate its role in the
+development of smart grids as they did in building the internet,
+providing enterprise scale networks for application to energy
+management. It is rapidly expanding its smart grid product offerings
+to become a fully vertically integrated smart grid solutions company
+and are exploring all kinds of solutions in this area.
+
+Technology companies need to be pushing for the development of
+decentralised smart grids. These companies should be leading the
+way to a clean technology revolution over vested interests of some
+energy utilities that use smart grids to refer only to improving the
+efficiency of centralised fossil fuel based generation. Smart grids
+have the potential to transform the way that people use energy, and
+drive the massive global shift away from fossil fuels and towards
+renewable energy that is required to prevent the worst ravages of
+climate change. The onus is on leading technology companies to
+take the bold steps needed to realise this potential.
+
+image THE PS10 CONCENTRATING SOLAR TOWER PLANT IN SEVILLA, SPAIN, USES 624 LARGE MOVABLE MIRRORS CALLED HELIOSTATS. THE MIRRORS CONCENTRATE THE SUN’S RAYS TO
+THE TOP OF A 115 METER (377 FOOT) HIGH TOWER WHERE A SOLAR RECEIVER AND A STEAM TURBINE ARE LOCATED. THE TURBINE DRIVES A GENERATOR, PRODUCING ELECTRICITY.
+
+O
+D
+N
+O
+D
+E
+R
+L
+E
+K
+R
+A
+M
+P
+G
+©
+
+/
+
+11
+
+[R]ENEWABLES 24/7
+INFRASTRUCTURE NEEDED TO SAVE THE CLIMATE
+
+1
+
+renewable energy and hybrid systems
+
+GLOBAL
+
+RENEWABLE TECHNOLOGIES
+HYBRID SYSTEMS DESIGN
+
+MICRO UTILITY MODEL
+
+1
+
+“...more power,
+at a cheaper rate...”
+
+GREENPEACE INTERNATIONAL
+CLIMATE CAMPAIGN
+
+12
+
+/
+
+E
+M
+I
+T
+S
+M
+A
+E
+R
+D
+S
+N
+E
+G
+R
+E
+U
+J
+D
+N
+R
+E
+B
+©
+
+.
+
+L
+E
+N
+A
+P
+R
+A
+L
+O
+S
+e
+g
+a
+m
+
+i
+
+1
+
+r
+e
+n
+e
+w
+a
+b
+l
+e
+
+e
+n
+e
+r
+g
+y
+a
+n
+d
+h
+y
+b
+r
+i
+d
+s
+y
+s
+t
+e
+m
+s
+
+|
+
+E
+L
+E
+C
+T
+R
+I
+C
+I
+T
+Y
+
+A
+C
+C
+E
+S
+S
+
+image BIOMASS POWER PLANT IN LELYSTAD, THE
+NETHERLANDS. BY BURNING WOOD CHIPS THE POWER
+PLANT GENERATES ELECTRICITY, ENERGY AND HEAT
+AND PROVIDES FOR 3000 HOUSEHOLDS.
+
+S
+E
+J
+T
+N
+E
+E
+B
+S
+A
+B
+
+/
+
+P
+G
+©
+
+In particular, the electrification of rural areas that currently have
+no access to any power system cannot go ahead as it has in the
+past. A standard approach in developed countries would be to
+extend the grid by installing high- or medium-voltage lines, adding
+new substation(s) and a low-voltage distribution grid. But when
+there is low potential electricity demand, and long distances
+between the existing grid and rural areas, this method is often not
+economically feasible.
+
+Electrification based on renewable energy systems (RES) with
+hybrid electricity systems is often the cheapest as well as least
+polluting alternative. Hybrid systems connect renewable energy
+sources such as wind and solar power to a battery via a charge
+controller, which stores the generated electricity and acts as the
+main power supply. They typically have back-up from a fossil fuel,
+wind-battery-diesel or PV-battery-diesel systems, for instance.
+Decentralised hybrid systems are more reliable, consumers can be
+involved in operation through innovative technologies and they can
+make best use of local resources. Decentralised renewable energy
+systems are less dependent on larger-scale infrastructure and can
+be constructed and connected faster, especially in rural areas.
+
+The following sections describe today’s state-of-the-art solutions of
+renewable energy solutions for grid connection and electrification of
+rural areas in developing countries. The focus is on renewable
+energy solutions which already exist and have been successfully
+employed in developing countries.
+
+‘Hybrid systems’ can provide renewable energy solutions on
+islands or rural electrification in developing countries. This
+section describes the way that renewable energy technologies
+can provide more power, at a cheaper rate, with a reliable
+supply on islands and in rural areas. The ‘grid’ part of the
+equation refers to how the technology for interconnection and
+system control can make renewable energy systems more
+feasible economically, by connecting several small generators
+to one integrated system.
+
+Richer countries have more people connected to electricity in their
+homes and work-place. The percentage of people with access to
+electricity in a country is also referred to as ‘electrification.’ Table 1
+gives an overview of electricity access in three representative
+countries: Zambia, a developing economy, India, a rapidly
+industrialising economy and Germany, a post-industrial country.
+
+In post-industrial countries and regions such as Japan, Europe and
+North America, the power system essentially reaches everywhere.
+In these countries each person typically uses 20-25 kWh per day.
+In developing countries however, the power system does not reach
+as far, and each person typically uses only 1-2 kWh per day when
+averaged across a country’s entire population.
+
+There are challenges in developing countries to update the electricity
+system: the existing system is very small, with poor quality of supply
+and frequent power interruptions and at the same time, there is a
+rapid increase in demand in the areas that are already connected to
+the grid. Any solution must address climate change issues; otherwise
+providing more power in developing countries will have a significant
+impact on climate change in the future.
+
+table 1: electricity access and use in illustrative countries
+
+COUNTRY
+
+Zambia
+
+India
+
+Germany
+
+CIRCUIT OF > 132 KV
+TRANSMISSION
+LINES/SQ KM
+
+PERCENTAGE WITH
+ACCESS TO ELECTRICITY
+IN 2000
+
+PER CAPITA KWH
+USE IN 2000
+
+PER CAPITA KWH
+USE IN 2003
+
+AVERAGE ANNUAL CHANGE
+IN PER CAPITA KWH USE
+IN 2000 - 2003 (%)
+
+0.0048
+
+0.021
+
+0.234
+
+12
+
+43
+
+100
+
+582
+
+402
+
+6,682
+
+662
+
+435
+
+6,900
+
+source ENERGY BALANCES OF OECD COUNTRIES (2006 EDITION); ECONOMIC INDICATORS AND ENERGY BALANCES OF NON-OECD COUNTRIES
+(2006 EDITION);WORLD ENERGY OUTLOOK: ENERGY AND POVERTY (2002), PARIS: IEA; . HTTP://WWW.SAPP.CO.ZW/; HTTP://WWW.POWERGRIDINDIA.
+COM/POWERGRID/; HTTP://WWW.EON-NETZ.COM/.
+graph source HTTP://EETD.LBL.GOV/EA/EMS/REPORTS/MICROGRIDS-LARGER-ROLE.PDF
+
+4.6
+
+2.7
+
+1.1
+
+13
+
+E
+
+M
+
+I
+
+T
+
+S
+
+M
+
+A
+
+E
+
+R
+
+D
+
+/
+
+S
+
+N
+
+E
+
+G
+
+R
+
+E
+
+U
+
+J
+
+D
+
+N
+
+R
+
+E
+
+B
+
+©
+
+.
+
+L
+
+E
+
+N
+
+A
+
+P
+
+R
+
+A
+
+L
+
+O
+
+S
+
+e
+
+g
+
+a
+
+m
+
+i
+
+1
+
+r
+e
+n
+e
+w
+a
+b
+l
+e
+
+e
+n
+e
+r
+g
+y
+a
+n
+d
+h
+y
+b
+r
+i
+d
+s
+y
+s
+t
+e
+m
+s
+
+|
+
+R
+E
+N
+E
+W
+A
+B
+L
+E
+
+T
+E
+C
+H
+N
+O
+L
+O
+G
+I
+E
+S
+
+[R]ENEWABLES 24/7
+INFRASTRUCTURE NEEDED TO SAVE THE CLIMATE
+
+1.1 renewable technologies
+
+Over the past decade, most renewable energy technologies have become
+mainstream energy technology and they are applied world-wide where
+there are sufficient natural resources (Table 2). For example, there is now
+more than 125 GW of wind energy installed world-wide, from small wind
+turbines with a few kW to multi-megawatt plants. Approximately 25 GW
+are added every year, making this a truly established energy technology.
+
+Renewable energy technology is now reliable and economically
+competitive in many areas around the world, particularly if compared
+to grid extension. The implications for integrating renewable energy to
+conventional power grids are discussed in smart grids Section 2.1.
+
+table 2: status of renewable energy technology
+
+TECHNOLOGY
+
+EXPERIENCE
+WORLDWIDE
+
+COMMERCIAL STATUS
+
+Photovoltaics
+
+Small wind power
+(electric)
+
+Small modular
+biopower units
+(10 kWe to 100+ kWe)
+
+Small packaged
+biopower units
+(100 - 500 kWe)
+
+Extensive
+
+Extensive
+
+Some
+
+Some
+
+Bioenergy > 0.5 Mwe
+
+Microhydro electric
+
+Extensive, in
+wood and agro
+industries worldwide
+
+Enormous (e.g. China,
+Nepal, Vietnam)
+
+Fully commercial
+
+Commercial and
+evolving rapidly
+
+Under development, first
+commercial products
+becoming available
+
+Limited but expanding
+commercial availability;
+expanded commercialization
+underway
+
+Commercial
+site-engineered systems
+
+Fully commercial,
+with innovative products
+emerging
+
+source ALLIANCE FOR RURAL ELECTRIFICATION, HTTP://WWW.RURALELEC.ORG/
+
+1.1.1 selecting the right type of renewable energy source
+
+The most appropriate type of renewable energy for any one site,
+depends on the local conditions, and needs field data to be collected.
+The best choice of technology will take technical, economic, financial,
+and socio-cultural considerations into account. The following basic
+criteria should be considered to design an optimal power solution:2
+
+• location: The suitability of the site to be electrified,
+its topographic and geographical characteristics.
+
+• For example, wind turbines should not be installed near buildings,
+trees and other obstacles to avoid turbulence and loss of energy
+production. Wind turbines should be at least 2m above any
+building or obstacles in the area.
+
+and interpretation.
+
+solar: The solar resource is linked to solar irradiation, latitude,
+altitude, cloud cover and content of water vapour and dust in the
+air. Therefore, the essential factors for developing solar energy
+are the monthly average of daily sunshine hours, site latitude,
+local average cloudy days, foggy days and rainfall day.
+
+14
+
+wind: The power in the wind is directly related to the cube of the
+wind speed and to the air density, i.e. a 10% higher average wind
+speed will result in an approximately 30% higher energy yield.
+Wind resources become exploitable where average annual wind
+speeds exceed 5 m/s. Essential factors for wind resource
+evaluation are the yearly average wind speed; height at which
+wind speeds were measured; site altitude; primary seasonal wind
+directions; topography of the site and forestry cover at the site.
+
+small hydro power (SHP): The energy output of a hydro power is
+determined by flow rate (litres/s) and net head (m) of water. Therefore,
+the essential factors for evaluating resources for small hydro power
+are annual flow-rate; monthly distribution of the resource.
+
+• load analysis: A load analysis is done to match supply to
+
+demand, it typically includes:
+
+load type: There are three main groups to be considered:
+domestic loads (lighting, TV, refrigerator, iron, etc), community
+loads (schools and public lighting and appliances, water pumping,
+etc) and commercial loads (electric power tools, etc);
+
+load calculation or how much power is required;
+
+load growth: A study of the current and future local demand for
+electricity is needed to match the system size to future use and
+avoid power shortages. A flexible system design that can be
+expanded as load demand increases helps to mitigate risks
+associated with unpredictable load growth rates.
+
+Table 3 provides an overview of average daily working hours for
+typical loads and their rated power.
+
+table 3: rated power and average daily working
+hours for typical loads
+
+LOAD / APPLICATION
+
+RATED POWER
+(W)
+
+AVERAGE DAILY
+WORKING HOURS (H)
+
+Energy-saving lights
+
+21” Color TV
+
+B/W TV
+
+Cassette recorder
+
+Washing machine
+
+Refrigerator
+
+1/5 HP Water Pump
+
+Radio set
+
+Dust cleaner
+
+2 Pair conditioner
+
+Electric fan
+
+Bubble Jet Printer
+
+Desk computer
+
+Monitor
+
+Fax machine
+
+Microwave stove
+
+9-30
+
+70
+
+20
+
+40
+
+150
+
+120
+
+165
+
+10
+
+750
+
+2,000
+
+50
+
+1,000
+
+20
+
+400
+
+200
+
+100
+
+1,000
+
+5
+
+5
+
+5
+
+2
+
+2
+
+10
+
+0,5
+
+1
+
+1
+
+5 (Summer)
+
+2 (Summer)
+
+3
+
+1
+
+5
+
+5
+
+30min
+
+10min
+
+source ALLIANCE FOR RURAL ELECTRIFICATION, HTTP://WWW.RURALELEC.ORG/,
+HTTP://WWW.RURALELEC.ORG/8.0.HTML?&L=0,
+
+• resource: Resource evaluation requires data collection
+
+Moveable Electric Heater
+
+1.2 hybrid systems design
+
+The electrification of rural areas that have a poor security of supply
+or are entirely without access to any power system requires new
+solutions. Often; diesel generators are used for power supply in
+these areas they may supply just a single load (house or business)
+or island power systems. Using diesel is expensive for communities
+and they cause significant emissions. Fuel prices are only going up,
+so the costs will increase for towns running on diesel. Hybrid
+systems that use a significant share of renewable power sources are
+becoming economically competitive and are a lot cleaner. The hybrid
+system definition for this report is ‘a combination of different, but
+complementary energy supply systems used in the same island
+power system’. Hybrid systems are typically designed to balance
+variable renewable energy resources and other energy supply
+systems, including storage systems such as battery and flywheel
+systems. The advantage is being able to supply energy even at times
+when one part of the hybrid system is not available.
+
+A typical example for a hybrid system is a wind/PV/Battery/Diesel
+hybrid system. In many places in the world wind and solar
+resources occur at different times, if solar radiation is high, wind
+speeds are low and vice versa.
+
+The storage systems within hybrid systems are typically designed to
+cope with short-term fluctuations; they can store surplus power
+supply for times when demand is higher than local renewable
+generation capacity. The storage capacity, however, is typically only
+enough to provide balancing in the time frame of minutes (5 to 10
+minutes). In places where renewable energy does not provide power
+100% of the time, diesel gensets are typically used as back-up
+systems.Hybrid systems can be designed in many different ways,
+mainly because of great variations in the availability of local natural
+resources. Often diesel generator sets are already installed in the
+local area, and hybrid systems are usually developed in two steps:
+
+1 Small amounts of renewable energy sources are added to a diesel
+island power system, i.e. the renewable energy sources have a
+rather small influence on the overall island power system
+operation. In this case, the only impact is the reduction of fuel
+consumption in the diesel gensets, but the general control scheme
+is typically not affected.
+
+2 Increasing shares of variable renewable energy sources, which
+requires adjustment of the overall control scheme and the
+possible addition of storage systems. One of these control
+schemes is known under the term micro grid (see also Section
+1.3.2 about control approaches for hybrid systems).
+
+reference
+2 BASED ON ALLIANCE FOR RURAL ELECTRIFICATION,HTTP://WWW.RURALELEC.ORG/.
+
+1
+
+r
+e
+n
+e
+w
+a
+b
+l
+e
+
+e
+n
+e
+r
+g
+y
+a
+n
+d
+h
+y
+b
+r
+i
+d
+s
+y
+s
+t
+e
+m
+s
+
+|
+
+H
+Y
+B
+R
+I
+D
+
+S
+Y
+S
+T
+E
+M
+S
+
+D
+E
+S
+I
+G
+N
+
+image WORKERS ON A WIND TURBINE
+BY THE VILLAGES OF NIEBÜLL AND
+MARIENKOOG, GERMANY.
+
+S
+K
+R
+O
+W
+R
+E
+W
+O
+P
+D
+N
+I
+W
+C
+E
+W
+G
+©
+
+/
+
+Hybrid systems can be designed in a variety of ways, and there are
+many different combinations in working systems.
+
+A common hybrid system suitable for developing countries consists of:
+
+• A primary source of energy, i.e. renewable such as wind or PV;
+
+• A secondary source of energy for supply in case of shortages
+
+e.g. Diesel;
+
+• A storage system to guarantee stable output (battery) during
+
+short periods of time and/or to meet peak demands;
+
+• A charge controller which regulates the state-of-load of the battery;
+
+• DC/AC inverters may also be needed.
+
+Some examples of technologies in operation are: PV/Battery,
+PV/Diesel, PV/Battery/Diesel, PV/Flywheel/Diesel, Wind/Battery;
+Wind/Diesel; Wind/Battery/Diesel, Wind/Flywheel/Diesel,
+Wind/PV/Small Hydro; Wind/Small Hydro; Wind/Small
+Hydro/Battery; Small Hydro/Biomass; Small
+Hydro/Battery/Biomass; Wind/PV/Biomass.
+
+1.2.1 hybrid systems: main technical design options
+
+There are different principal technical design options for hybrid
+systems, depending on the overall system demand. A general
+categorisation of hybrid systems is given in Table 4.
+
+table 4: categorization of hybrid systems
+
+INSTALLED POWER
+
+CATEGORY
+
+DESCRIPTION
+
+< 1kW
+
+1 – 100kW
+
+Micro systems
+
+Single Point DC-based system
+
+Village power systems
+
+Small power system
+(DC and AC)
+
+100 kW -10MW
+
+Island power systems
+
+Isolated grid systems (AC)
+
+> 10MW
+
+Large interconnected
+systems
+
+Large remote
+power system (AC)
+
+source WIND POWER IN POWER SYSTEMS, EDITOR T. ACKERMANN, WILEY & SONS
+
+Examples of these four categories are:
+
+• A micro system is a small PV or wind turbine with a capacity of
+
+less than 1kW and a small battery (DC bus system);
+
+• A village home system typically has a load between 1 and 100 kW
+with a renewable energy generation capacity of 1-50 kW (AC and
+DC bus possible);
+
+• An island power system typically has a peak load from 100 kW to
+
+10 MW and an installed renewable generation capacity in the range
+from 100 kW to 1 MW, and
+
+• A large (interconnected) island power system typically is larger
+
+than 10 MW with several renewable power plants installed, each
+typically larger than 1 MW.
+
+15
+
+1
+
+r
+e
+n
+e
+w
+a
+b
+l
+e
+
+e
+n
+e
+r
+g
+y
+a
+n
+d
+h
+y
+b
+r
+i
+d
+s
+y
+s
+t
+e
+m
+s
+
+|
+
+D
+C
+
+I
+N
+T
+E
+R
+C
+O
+N
+N
+E
+C
+T
+E
+D
+
+H
+Y
+B
+R
+I
+D
+
+S
+Y
+S
+T
+E
+M
+
+[R]ENEWABLES 24/7
+INFRASTRUCTURE NEEDED TO SAVE THE CLIMATE
+
+Wind Energy-diesel systems are the most established hybrid
+systems, they can provide a model for how much renewable energy
+can be included in hybrid systems. Figure 3 shows the maximum
+penetration level of wind power in existing hybrid systems, defined
+as the ratio between instantaneous wind power output and
+instantaneous primary electrical load. The real-life conditions in
+Denmark in 1998 and a projection for Denmark for the year 2030,
+give an indication of how much wind energy could be included in
+different power systems of varying sizes.
+
+It shows that small hybrid systems can achieve a renewable
+penetration level of 100%, but with the penetration levels typically
+lower for systems of greater capacity. However, the reasons are often
+economic and not technical issues – the increasing price of diesel fuel
+is likely to raise renewable penetration levels in larger hybrid systems.
+
+In the following, we will briefly describe the principal design options.
+
+DC interconnected hybrid system All electricity generating
+components are interconnected via a DC (direct current)
+connection which is used to charge a battery. AC generating
+components need an AC/DC converter. The battery is typically
+protected from overcharge and discharge by a charge controller.
+The battery supplies power to the DC loads in response to the
+demand. AC loads can be operated via a DC/AC inverter (see Figure
+4 for a principal overview).
+
+Security of supply is typically limited as no back-up supply is available.
+
+figure 3: present and expected future development of
+the wind energy penetration vs. the installed system
+capacity based on lundsager et al. (2001)
+
+)
+
+%
+
+(
+
+n
+o
+i
+t
+a
+r
+t
+e
+n
+e
+p
+
+d
+n
+i
+w
+
+100
+
+80
+
+60
+
+40
+
+20
+
+0
+
+Frøya Island
+
+Foula Island
+
+Cape Clear
+
+Rathlin Island
+
+Masabit
+La Desirade
+
+Dachen
+
+Denham
+Sal
+
+Denmark
+(2030)
+
+Denmark
+(1998)
+
+Mindelo
+
+10
+
+100 1k
+
+10k 100k 1M 10M 100M 1G 10G 100G 1T
+
+installed system power (W)
+
+• MICRO SYSTEMS
+• VILLAGE POWER SYSTEMS
+• ISLAND POWER SYSTEMS
+
+LARGE INTERCONNECTED SYSTEM
+
+TODAY
+
+FUTURE
+
+source SOURCE: WIND POWER IN POWER SYSTEMS,
+EDITOR T. ACKERMANN, WILEY & SONS.
+
+figure 4: example for DC interconnected hybrid system
+
+PHOTOVOLTAICS
+
+WIND
+
+HYDRO
+
+GENSET
+
+~
+
+~
+
+~
+
+AC/DC converters and chargers
+
+DC bus line
+
+DC VOLTAGE
+
+AC VOLTAGE
+
+Charge controller
+
+DC LOADS
+
+optional
+
+~
+
+BATTERY
+
+INVERTER
+
+AC LOADS
+
+source HYBRID POWER SYSTEMS BASED ON RENEWABLE ENERGIES: A SUITABLE AND COST-COMPETITIVE SOLUTION FOR RURAL ELECTRIFICATION, ALLIANCE FOR RURAL
+ELECTRIFICATION.
+
+16
+
+image THE HUGE SHADOW OF A 60-METRE-HIGH WIND
+TURBINE EXTENDS ACROSS THE GOBI DESERT FLOOR AT
+THE HE LAN SHAN WIND FARM IN THE NINGXIA
+PROVINCE, CHINA.
+
+AC interconnected hybrid system All generating components are
+connected to an AC interconnection and AC generating components
+may be directly connected to loads via AC connection or via an AC/AC
+inverter (Option A, see Figure 5). The battery is connected to the AC
+system via an inverter. The inverter controls the energy supply to the AC
+loads; and DC loads can optionally be supplied directly via the battery.
+
+In option B (see Figure 6), the DC generation resources are directly
+connected to the battery via a DC connection.
+
+There are different options for the frequency control and voltage control
+in the AC system, see also section on control for hybrid systems.
+
+figure 5: AC interconnected hybrid system – option A
+
+PHOTOVOLTAICS
+
+WIND
+
+HYDRO
+
+GENSET
+
+~
+
+~
+
+~
+
+~
+
+AC/AC converters
+
+~
+
+AC bus line
+
+DC VOLTAGE
+
+AC VOLTAGE
+
+Inverters
+
+AC LOADS
+
+Master inverter and
+battery charger
+
+~
+
+DC LOADS
+
+optional
+
+BATTERY
+
+source HYBRID POWER SYSTEMS BASED ON RENEWABLE ENERGIES: A SUITABLE AND COST-COMPETITIVE SOLUTION FOR RURAL ELECTRIFICATION,
+ALLIANCE FOR RURAL ELECTRIFICATION.
+
+I
+E
+W
+U
+H
+P
+G
+©
+
+/
+
+1
+
+r
+e
+n
+e
+w
+a
+b
+l
+e
+
+e
+n
+e
+r
+g
+y
+a
+n
+d
+h
+y
+b
+r
+i
+d
+s
+y
+s
+t
+e
+m
+s
+
+|
+
+A
+C
+
+I
+N
+T
+E
+R
+C
+O
+N
+N
+E
+C
+T
+E
+D
+
+H
+Y
+B
+R
+I
+D
+
+S
+Y
+S
+T
+E
+M
+
+17
+
+1
+
+r
+e
+n
+e
+w
+a
+b
+l
+e
+
+e
+n
+e
+r
+g
+y
+a
+n
+d
+h
+y
+b
+r
+i
+d
+s
+y
+s
+t
+e
+m
+s
+
+|
+
+H
+Y
+B
+R
+I
+D
+
+S
+Y
+S
+T
+E
+M
+S
+:
+
+C
+O
+N
+T
+R
+O
+L
+
+T
+E
+C
+H
+N
+O
+L
+O
+G
+I
+E
+S
+
+[R]ENEWABLES 24/7
+INFRASTRUCTURE NEEDED TO SAVE THE CLIMATE
+
+figure 6: AC interconnected hybrid system – option B
+
+PHOTOVOLTAICS
+
+WIND
+
+HYDRO
+
+GENSET
+
+~
+
+~
+
+~
+
+AC/AC converter
+
+AC/DC converter and charger
+
+Charge controller
+
+AC LOADS
+
+AC bus line
+
+Master inverter and
+battery charger
+
+~
+
+DC bus line
+
+DC VOLTAGE
+
+AC VOLTAGE
+
+DC LOADS
+
+optional
+
+BATTERY
+
+source HYBRID POWER SYSTEMS BASED ON RENEWABLE ENERGIES: A SUITABLE AND COST-COMPETITIVE SOLUTION FOR RURAL ELECTRIFICATION,
+ALLIANCE FOR RURAL ELECTRIFICATION.
+
+1.2.2 hybrid systems: control technologies
+
+In hybrid systems that focus around a DC interconnection, batteries
+act as a large power resistor, smoothing out any short or long-term
+fluctuations in the power flow. Hence the control required for DC
+systems is very simple as it regulates itself based on a few battery-
+specific parameters.
+
+AC-interconnected hybrid systems have greater control requirements –
+both for production balancing as well as load and voltage regulation.
+The simplest control approach is based on ‘droop control’, a simple
+proportional control scheme. The big advantage of droop control is
+that it does not require any complicated communication system.
+
+Droop control is commonly used in diesel-based island systems where
+several generators are running at once. Because it is simple, and based
+on inverter technology already used in PV/batteries and wind turbines,
+island systems now use droop control. Island systems using inverter
+systems with droop control are often referred to as micro grids.3
+Micro grids typically can also be part of a larger power system.
+
+During a utility-grid disturbance, they can separate and isolate
+themselves seamlessly from the utility with little or no disruption to
+the loads within the micro grids. When the utility grid then returns
+
+18
+
+to normal, the micro grid automatically resynchronises and
+reconnects itself to the grid, in an equally seamless fashion.4 This is
+particularly interesting for areas in developing countries which have
+grid supply, but experience frequent power interruptions. Distributed
+PV systems and other renewable generation sources can be
+interconnected to a micro grid and be operated in a micro grid in
+case the main power supply is interrupted.
+
+In hybrid systems that have more than one-third of variable
+renewable generation, additional devices will be integrated into the
+hybrid system to achieve high overall efficiency. This is largely done
+with the use of synchronous condensers, dispatchable load banks,
+storage, demand-side management which may require advanced
+supervisory control systems that carefully monitor the operating
+conditions of each component to ensure that the result is power
+with a consistent frequency and voltage. The disadvantage of such a
+supervisory control system is the need for additional fast
+communication in the island system.
+
+references
+3 MICRO GRIDS – AN OVERVIEW OF ONGOING RESEARCH, DEVELOPMENT AND
+DEMONSTRATION PROJECTS, SEE HTTP://EETD.LBL.GOV/EA/EMP/REPORTS/62937.PDF,
+FOR DEMONSTRATION PROJECTS FOR PV BASED MICRO GRID SYSTEMS SEE ALSO
+HTTP://DOWNLOAD.SMA.DE/SMAPROSA/DATEIEN/1698/REFOCUS_ELECCHINA.PDF
+4 HTTP://CERTS.LBL.GOV/CERTS-DER-MICRO.HTML
+
+1
+
+r
+e
+n
+e
+w
+a
+b
+l
+e
+
+e
+n
+e
+r
+g
+y
+a
+n
+d
+h
+y
+b
+r
+i
+d
+s
+y
+s
+t
+e
+m
+s
+
+|
+
+H
+Y
+B
+R
+I
+D
+
+S
+Y
+S
+T
+E
+M
+S
+:
+
+D
+E
+S
+I
+G
+N
+
+A
+N
+D
+
+E
+C
+O
+N
+O
+M
+
+I
+C
+M
+O
+D
+E
+L
+L
+I
+N
+G
+
+T
+O
+O
+L
+S
+
+image CONSTRUCTION OF
+WIND TURBINES.
+
+/
+
+/
+
+P
+G
+T
+I
+N
+E
+Z
+K
+C
+O
+R
+G
+N
+A
+L
+©
+
+1.2.3 hybrid systems: design and economic modelling tools
+
+• Hybrid2 is a state-of-the-art time series model for the prediction
+
+For a principal first evaluation of the economic and technical feasibility
+of a particular hybrid system the following software tools are useful:
+
+• HOMER is a computer model that simplifies the task of
+
+evaluating design options for both off-grid and grid-connected
+power systems using large shares of renewable generation.
+HOMER’s optimisation and sensitivity analysis algorithms allow
+the user to evaluate the economic and technical feasibility of a
+large number of technology options and to account for
+uncertainty in technology costs, energy resource availability, and
+other variables. The model is available for free from the National
+Renewable Energy Laboratory (NREL),
+https://analysis.nrel.gov/homer/.
+
+of the technical-economical performance of hybrid wind/PV
+systems and offers a very high flexibility in specifying the
+connectivity of systems. Publicly available at
+http://www.ceere.org/rerl/rerl_hybridpower.html
+
+• RETScreen is a spreadsheet (Microsoft Excel)-based analysis
+
+and evaluation tool for the assessment of the cost-effectiveness of
+potential projects with renewable energy technologies. The
+software package consists of a series of work sheets with a
+standardised layout as well as an online manual and a weather
+and cost database. Publicly available in 34 languages at
+www.retscreen.net. See the case study below, comparing two
+types of village power systems.5
+
+case study: comparison of PV with diesel or grid connections
+
+Location: Far & Middle East, Africa (>5,000 kWh/ m2 / year)
+Daily energy requirement: 10,000 Wh/day
+Maximum peak power of load: <20kW
+Power supply of load equipment: 3x230V AC
+
+Case study Figure 2 shows the investment cost for a public grid
+extension versus an independent 30kWp photovoltaic power
+supply system. If we suppose a certain amount for a transformer
+station and 20,000 Euro per km of grid extension, the initial
+investment cost for a PV system is cheaper if it is situated
+further than 17 km away from the public grid.
+
+case study figure 1: economic comparison between
+diesel / fuel operated power supply
+and a photovaltaic power supply
+
+case study figure 2: village power supply by PV
+systems: public grid versus 30kWp photovaltaic
+power supply (VPS)
+
+800, 000
+
+700,000
+
+600,000
+
+500,000
+
+400,000
+
+300,000
+
+200,000
+
+100,000
+
+€ 0
+
+generator
+
+photovaltaic
+
+1,000,000
+
+900,000
+
+800, 000
+
+700,000
+
+600,000
+
+500,000
+
+400,000
+
+300,000
+
+200,000
+
+100,000
+
+€ 0
+
+public grid
+
+30 kWp PV power supply
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+years
+
+years
+
+case study table 1: pv power supply
+
+case study table 2: diesel generator
+
+Investment cost of 30 kWp PV village power supply
+PV modules
+
+150,000 Euro
+
+Investment cost of 20> KWA diesel generator
+Generator
+
+Industrial batteries
+
+Electronics
+
+Accessories
+
+Infrastructure & installation
+
+Total
+
+Annual cost
+Maintenance
+
+Interest rate (5%)
+
+Total
+
+80,000 Euro
+
+30,000 Euro
+
+20,000 Euro
+
+20,000 Euro
+
+20,000 l tank
+
+48 V DC supply
+
+Accessories
+
+Infrastructure & installation
+
+300,000 Euro
+
+Total
+
+2,000 Euro
+
+15,000 Euro
+
+17,000 Euro
+
+Annual cost
+Maintenance
+
+Fuel consumption (15l/h)
+(131,000 liter / year 0.30 € / liter)
+Transport of fuel (9x)
+
+reference
+5 HTTP://WWW.RURALELEC.ORG/INDEX.PHP?ID=118&TYPE=0&JUMPURL=UPLOADS%2
+FMEDIA%2FECONOMIC_ANALYSIS_COMPARISON_PV-DIESEL_BY_SOLAR_02.PDF&
+JUSECURE=1&LOCATIONDATA=118%3ATT_CONTENT%3A487&JUHASH=5776920B9D
+
+Oil consumption
+
+Interest rate (5%)
+
+Total
+
+20,000 Euro
+
+6,000 Euro
+
+10,000 Euro
+
+10,000 Euro
+
+20,000 Euro
+
+66,000 Euro
+
+15,000 Euro
+
+40,000 Euro
+
+4,500 Euro
+
+2,000 Euro
+
+3,300 Euro
+
+64,800 Euro
+
+19
+
+1
+
+r
+e
+n
+e
+w
+a
+b
+l
+e
+
+e
+n
+e
+r
+g
+y
+a
+n
+d
+h
+y
+b
+r
+i
+d
+s
+y
+s
+t
+e
+m
+s
+
+|
+
+P
+V
+
+-
+S
+Y
+S
+T
+E
+M
+S
+
+/
+
+P
+V
+
+-
+
+D
+I
+E
+S
+E
+L
+
+S
+Y
+S
+T
+E
+M
+S
+
+[R]ENEWABLES 24/7
+INFRASTRUCTURE NEEDED TO SAVE THE CLIMATE
+
+1.2.4 PV-systems / PV-diesel systems
+
+table 5: current status of pv-diesel systems
+
+TECHNOLOGY
+
+EXPERIENCE
+WORLDWIDE
+
+COMMERCIAL STATUS
+
+PV/diesel hybrids
+
+Extensive, especially for
+telecommunications
+worldwide
+
+Fully commercial and the
+preferred option for remote
+telecommunications,
+commercially evolving for
+village power
+
+source ALLIANCE FOR RURAL ELECTRIFICATION, HTTP://WWW.RURALELEC.ORG/.
+
+example PV-diesel micro grid: Greek island
+
+The system in Gaidouromantra, Kythnos6 electrifies 12 houses in a
+small valley in Kythnos, an island in the cluster of Cyclades situated in
+the middle of the Aegean Sea. It is a 1-phase hybrid micro grid system
+composed of overhead power lines and a communication cable running
+in parallel (see Figure 7). The settlement is situated about 4 km away
+
+figure 7: kythnos pv-diesel micro grid
+
+from the closest pole of the medium voltage line of the island. The
+system just needed one new building with a surface area of 20 m2 in
+the middle of the settlement to house the battery inverters, the battery
+banks, the diesel genset and its tank, the computer equipment for
+monitoring and the communication hardware.
+
+The system produces 10kW (peak) and the solar cells are divided
+into smaller sub-systems and a battery bank with a nominal capacity
+of 53kWh and a diesel genset with a nominal output of 5kVA.
+A second system with about 2 kW(peak) mounted on the roof of the
+system house is connected to a Sunny-island inverter and a 32kWh
+battery bank. This second system provides the power for the
+monitoring and communication needs of the systems. The PV modules
+are integrated as canopies to various houses of the settlements.
+
+The power in each user’s house is limited by a 6 Amp fuse. The
+micro grid is powered by 3 island battery inverters connected in
+parallel, which means that more than one battery inverter can be
+used when more power is demanded by the consumers. The battery
+inverters in the Kythnos system can operate in both isochronous or
+‘droop’ mode. In frequency droop mode the system can pass
+information on to switching load controllers when the batteries
+have low charge and can limit the power output of the PV inverters
+when the battery bank is full.
+
+PV Array
+
+=
+
+~
+
+=
+
+~
+
+=
+
+~
+
+AC Grid: 3~ 400 V
+
+~
+
+~
+
+~
+
+~
+
+=
+
+=
+
+=
+
+=
+
+G
+
+~
+
+~
+
+~
+
+~
+
+=
+
+=
+
+=
+
+=
+
+Battery
+
+PV Diesel
+
+Battery
+
+PV
+
+MORE
+
+PV MODE
+
+PV Array
+
+=
+
+~
+
+AC Grid: 3~ 400 V
+
+PV Array
+
+=
+
+~
+
+source FRAUNHOFER IWES
+
+20
+
+reference
+6 HTTP://WWW.MICROGRIDS.EU/INDEX.PHP?PAGE=KYTHNOS&ID=2
+
+1.2.5 wind-diesel systems
+
+table 6: current status of wind-diesel systems
+
+TECHNOLOGY
+
+EXPERIENCE
+WORLDWIDE
+
+COMMERCIAL STATUS
+
+Wind/diesel hybrids
+
+Significant, not
+yet extensive
+
+Commercial, competitive,
+and evolving
+
+source ALLIANCE FOR RURAL ELECTRIFICATION, HTTP://WWW.RURALELEC.ORG/.
+
+The following five case studies show how wind-diesel systems are
+appropriate for a diverse range of circumstances around the world.
+
+Afghanistan: small wind/PV/battery system The main aim of this
+system is to supply power to water disinfection/treatment units. Eleven
+stand-alone systems have been installed in villages, including the districts
+of Parwan, Wardak and Kapisa. The power system consists of a Bergey 1
+1kW wind turbine on a 42 ft tilt-up tower, a 280W PV, a battery bank,
+and an inverter. The water treatment technology uses a small-scale
+ozonation system. Ozone is very effective for water treatment and uses
+minimal amounts of energy. Most communities are using the system to
+treat around 2,000 to 4,000 litres of drinking water per day.7
+
+Guadeloupe Islands: wind/diesel In January 1993 twelve 12 kW
+wind-powered generators were set up at an altitude of 270 m on
+the island of La Désirade, on high table-land facing the open sea,
+swept most of the time by trade winds blowing at an average of 9
+to 10 metres a second. Before this, electricity generation on the
+island was wholly dependent on a 350- kW diesel-driven power
+plant that consumed nearly 600 tons of oil per year.
+
+Now, the wind farm saves around 220 tons of diesel oil a year and
+the price of wind-generated electricity per kW/h is now less than that
+of diesel-generated power. The installed capacity of the wind farm
+was more than doubled in 1996 and is now rated at 500 kW, and is
+now producing about 80% of the island’s power requirements. When
+local energy demand is low, La Désirade even exports wind-generated
+electricity to the neighbouring island of Guadeloupe.
+
+An extra design feature is that the wind turbines on the Guadeloupe
+islands can be lowered when a hurricane is approaching. On August 16,
+2007, for instance, while Hurricane Dean was approaching, local crews
+lowered the 27 turbines of Guadeloupe securely fastened them to the
+ground and they survived wind gusts of more than 250 km/h. Once Dean
+had passed over the islands, the wind farms quickly resumed production.8
+
+Bonaire: wind/diesel system A wind-diesel system is currently
+under construction on the island of Bonaire in the Dutch Carribean.
+The system has a total capacity of 10.8 MW, made up of connects
+14 wind turbines. The turbines are connected to 5 diesel gensets with
+a total capacity of 14.33 MW and it has a 3 MW battery system,
+which provides 100 kWh for 3 minutes. The diesel gensets can
+operate on bio-diesel, so the system can run on 100% renewable
+
+1
+
+r
+e
+n
+e
+w
+a
+b
+l
+e
+
+e
+n
+e
+r
+g
+y
+a
+n
+d
+h
+y
+b
+r
+i
+d
+s
+y
+s
+t
+e
+m
+s
+
+|
+
+W
+
+I
+N
+D
+
+D
+I
+E
+S
+E
+L
+
+S
+Y
+S
+T
+E
+M
+S
+
+image THE PS10 CONCENTRATING SOLAR TOWER PLANT
+IN SEVILLA, SPAIN, USES 624 LARGE MOVABLE MIRRORS
+CALLED HELIOSTATS. THE MIRRORS CONCENTRATE THE
+SUN’S RAYS TO THE TOP OF A 115 METER (377 FOOT) HIGH
+TOWER WHERE A SOLAR RECEIVER AND A STEAM TURBINE
+ARE LOCATED. THE TURBINE DRIVES A GENERATOR,
+PRODUCING ELECTRICITY.
+
+O
+D
+N
+O
+D
+E
+R
+L
+E
+K
+R
+A
+M
+P
+G
+©
+
+/
+
+energy. The overall hybrid system runs with a ‘loss of load’ probability
+of 99.932%, so locals can expect only 6 hours per year when the
+system might not be able to meet the island’s electricity demand.
+Finally, the system fulfils an advanced grid code which is similar to
+Western European grid codes for large integrated power systems, so
+the power quality is equal to large interconnected power systems.
+
+Galapagos: wind/diesel system The wind-diesel hybrid system on
+San Cristobal Island in Galapagos, Ecuador reduces the amount of
+diesel fuel used for power generation and promotes new renewable
+energy on the Galapagos Islands. There are three 800 kW wind
+turbines coupled to the existing diesel generator system.  An
+electrical collector system gathers the power from each wind turbine
+through underground cabling and transports the power to the wind
+farm boundary where it connects to a transmission line via a
+disconnect switch.  Output at the wind farm is 13.8 kV to allow for
+voltage drop in the transmission line. A new transmission line was
+installed to transport the power from the wind farm to the existing
+Elecgalapagos S.A. Diesel Plant substation which was updated with
+a new control system.  The new transmission line connects to the
+Elecgalapagos distribution substation at the diesel plant.9
+
+Alto Baguales: wind-hydro-diesel system This system in Patagonia,
+Chile, supplies energy to the regional capital of Coyhaique, providing a
+maximum power of 13.75 MW. The wind turbines are now connected
+to hydro power, installed in 2003 so the whole load is met by wind and
+hydropower, completely eliminating diesel production.
+
+Three 660-kW Vestas wind turbines were installed to supplement
+the diesel and hydro production in 2001. Initially, the Alto Baguales
+wind energy project was designed to supply more than 16% of the
+local electric demand and replace about 600,000 litres (158,500
+gallons) of diesel fuel per year.
+
+The turbines are operated remotely from the diesel plant with no
+additional control capabilities; and they operate at capacity factor of
+approximately 50% due to strong winds at the turbine site. To date,
+the highest percentage of supply was 22% of total demand based on
+15-minute instantaneous readings taken at the power station.
+
+Cape Verde: wind-diesel system The Archipelago of the Republic
+of Cape Verde consists of 10 major islands off the Western cost of
+Africa. Three wind-diesel systems have successfully provided power
+to the three main communities of Cape Verde: Sal, Mindelo, and
+Praia since the mid-1990s. These power systems are very simple,
+containing only a dump load and a wind turbine shut-down function
+to keep minimum diesel load conditions. Three 300-kW wind
+turbines at each site are connected to the existing diesel
+distribution grid in a standard grid-connected fashion. The average
+loads for the communities vary from 1.15 MW for the smallest,
+Sal, to 4.5 MW for the largest, Praia (the nation’s capital).
+
+The power systems operate at monthly wind energy penetrations of
+up to 25%, depending on the system and time of year. At Sal and
+Mindelo the wind turbines have provided 14% of the total
+consumption by wind power each year. The maximum monthly
+percentage of wind power was of 35% was reached in Sal.
+
+references
+7 HTTP://WWW.BERGEY.COM/EXAMPLES/AFGHANISTAN.HTML
+8 HTTP://WWW.VERGNET.FR/IMAGES/STORIES/PDF/EN/DOCUMENTS/PLAQUETTE-
+GEV_MP275-UK.PDF
+
+reference
+9 HTTP://WWW.EOLICSA.COM.EC/INDEX.PHP?ID=3
+
+21
+
+financing island utilities
+
+The main obstacles to switching from diesel to solar are the high
+
+upfront investment costs, and utilities in Pacific Island countries
+
+cannot finance the required new solar capacities. The graph
+
+below provides an overview of the annual payment (total
+
+payment – including interest) and the interest costs of a 20 kW
+
+system which will be completely financed with a 3% soft loan, or
+
+6% and 10% conventional bank credit over 20 years. The Island
+
+Utility concept needs to overcome this investment barrier.
+
+how to read the graph - examples:
+
+• In regions with 5.4 kWh/day solar energy, the annual savings
+
+on diesel fuel (with a diesel price of $1.78/L) can balance out
+
+the average annual interest rates of a soft loan credit with 3%
+
+interest & 20 years).
+
+• In regions with 6.95 kWh/day solar energy, the annual diesel fuel
+
+savings (with a diesel price of $1.78/L) can balance out the
+
+average annual total payment of credit with 10% interest
+
+& 20 years.
+
+Example A shows that a solar system could be financed with fuel
+
+savings alone if the diesel price is at $ 1.78/L or higher. With an
+
+average consumer price of 15 cents/kWh – the break-even point for
+
+solar systems operated by a utility will be at around $1.3 /L diesel.
+
+1
+
+r
+e
+n
+e
+w
+a
+b
+l
+e
+
+e
+n
+e
+r
+g
+y
+a
+n
+d
+h
+y
+b
+r
+i
+d
+s
+y
+s
+t
+e
+m
+s
+
+|
+
+T
+H
+E
+M
+
+I
+C
+R
+O
+
+-
+
+U
+T
+I
+L
+I
+T
+Y
+M
+O
+D
+E
+L
+
+[R]ENEWABLES 24/7
+INFRASTRUCTURE NEEDED TO SAVE THE CLIMATE
+
+1.3 new ownership approaches:
+the micro-utility model
+
+In many developing countries, communities or individuals cannot
+afford to install a hybrid system or a PV home system. For this
+reason, new ownership models are required in developing countries
+to help the growth of clean energy options.
+
+The power company Grameen Shakti (GS) in Bangladesh10, for
+instance, has introduced the idea of micro-utility systems. Under
+this model, one entrepreneur installs the system at his own premises
+and shares the load with some of his neighbours. The owner of the
+system is responsible for making the instalment payments to the
+power company, but more than 50% is covered by the rents
+collected from the users of the system. The micro-utility model has
+become very popular in rural market places in Bangladesh and has
+helped to increase business turnover by extending business hours.
+More than 1,000 micro-utility systems are now operating in rural
+market places.
+
+case study: solar island states
+
+solar island states – a Greenpeace concept to help island
+utilities go fossil-free
+
+The ‘Solar Island States’ idea is a way to get financing from the
+‘top-down’, but planning for the systems from the ‘bottom-up’,
+which means that communities are involved in deciding where
+systems are built and how they are run.
+
+A) top-down financing In remote islands, individual and rural
+electrification projects are usually too small to be interesting for
+foreign investors and quality control is difficult. A solution
+proposed by Greenpeace is to bundle power generation projects
+from whole islands, the entire island state (such as the Maldives)
+or even several Island states (such as the 14 Pacific Island States)
+into one project package. This would make it large enough for
+funding as an international project, by OECD countries. Funding
+mechanisms can come from a mix of a feed-in tariff and a fund
+which covers the extra costs as proposed in the Energy
+[R]evolution, called FSTM (Feed-in Tariff Support Mechanism).
+
+A bundled project could be worth $US 2 billion or more – that
+means in the range of an average size power plant investment
+such as a coal power plant -making it relevant for international
+finance institutions and for infrastructure projects. A project this
+size would be too big for a single project developer or an existing
+small island utility, but it would be interesting for institutional
+investors. A bigger project also achieves ‘economies of scale’ so
+project developers and potential hardware manufacturers can
+operate with lower costs and centralised quality control and
+equipment performance guarantees.
+
+B) bottom-up planning A research paper from UNDP11 and
+numerous other organisations come to a very clear result: Almost
+all renewable energy projects in the Pacific have failed because of
+top-down planning and poor maintenance due to a lack of training
+of local technicians. Only a few projects – which were planned
+from the community – were successful. Good planning and a long-
+term organisation of the maintenance are required to make rural
+electrification with renewable energy a success.
+
+reference
+10 HTTP://WWW.GSHAKTI.ORG/SOLAR_MICROUTILITY.HTML
+
+22
+
+reference
+11 PACIFIC ISLANDS RENEWABLE SPREP ENERGY PROJECT; A CLIMATE CHANGE
+PARTNERSHIP OF GEF, UNDP, SPREP AND THE PACIFIC ISLANDS, OCTOBER 2004,
+PETER JOHNSTON, JOHN VOS, HERBERT WADE
+
+case study: solar island states
+
+moving from diesel to renewable energies
+
+financing island utilities
+
+image ELECTRICAL TOWER IN A FLOODED FIELD IN THE
+SEVERN RIVER VALLEY. GLOUCESTERSHIRE, UK, 2000.
+
+solar island states – a Greenpeace concept to help island
+
+utilities go fossil-free
+
+The ‘Solar Island States’ idea is a way to get financing from the
+
+‘top-down’, but planning for the systems from the ‘bottom-up’,
+
+which means that communities are involved in deciding where
+
+systems are built and how they are run.
+
+A) top-down financing In remote islands, individual and rural
+
+electrification projects are usually too small to be interesting for
+
+foreign investors and quality control is difficult. A solution
+
+proposed by Greenpeace is to bundle power generation projects
+
+from whole islands, the entire island state (such as the Maldives)
+
+or even several Island states (such as the 14 Pacific Island States)
+
+into one project package. This would make it large enough for
+
+funding as an international project, by OECD countries. Funding
+
+mechanisms can come from a mix of a feed-in tariff and a fund
+
+which covers the extra costs as proposed in the Energy
+
+[R]evolution, called FSTM (Feed-in Tariff Support Mechanism).
+
+A bundled project could be worth $US 2 billion or more – that
+
+means in the range of an average size power plant investment
+
+such as a coal power plant -making it relevant for international
+
+finance institutions and for infrastructure projects. A project this
+
+size would be too big for a single project developer or an existing
+
+small island utility, but it would be interesting for institutional
+
+investors. A bigger project also achieves ‘economies of scale’ so
+
+project developers and potential hardware manufacturers can
+
+operate with lower costs and centralised quality control and
+
+equipment performance guarantees.
+
+B) bottom-up planning A research paper from UNDP11 and
+
+numerous other organisations come to a very clear result: Almost
+
+all renewable energy projects in the Pacific have failed because of
+
+top-down planning and poor maintenance due to a lack of training
+
+of local technicians. Only a few projects – which were planned
+
+from the community – were successful. Good planning and a long-
+
+term organisation of the maintenance are required to make rural
+
+electrification with renewable energy a success.
+
+Currently most islands and island states are powered almost
+exclusively with diesel generators. In the Pacific for example, Fiji,
+Papua New Guinea and Samoa are the only pacific island countries
+with a substantial use of other sources for electricity generation
+than diesel – mainly hydro. All other pacific islands have 90% to
+100% diesel power supply.
+
+This high diesel share in the electricity supply makes the electricity
+prices very dependent on global oil prices and diesel prices have
+increased significantly within the past 2 years. The average price
+per litre diesel increased from around $US 0.80 in 2006 to
+$US1.70 in 2008 – and the diesel price will almost certainly not
+drop in the future, but continue to rise.
+
+limited access to diesel
+
+In some cases, the access to diesel is difficult for remote islands
+and is a constant problem for a reliable electricity supply for these
+islands. Research on diesel access in Pacific island countries shows
+problems with access and / or lack of competition, which puts the
+prices up for the customers.
+
+generation costs for clean energy on island states
+
+Solar electricity systems are in most cases already cheaper than
+diesel power generation. The graph below shows the fuel costs per
+kWh for different diesel prices and solar radiation per day (both
+excluding capital costs):
+
+• Solar PV systems in regions with 5.4 kWh/day annual average
+
+solar radiation (like Niue) can produce electricity at a fuel price
+level of $1.20 per litre diesel.
+
+• If diesel costs are more than $1.20 per litre, solar photovoltaics is
+
+cheaper almost everywhere within the Pacific Island region.
+
+case study figure 1: diesel generator versus solar generator
+
+h
+W
+k
+/
+s
+t
+n
+e
+c
+
+$
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+solar radiation
+4 kWh/day
+
+niue diesel price
+january 2008:
+> 190 cent/liter
+=> ca. 57 cent/kWh
+
+niue solar radiation: ca.
+5.4 kWh/day - 1,950 h/a
+=> 40 cent/kWh
+
+solar radiation
+5.89 kWh/day
+[2,150 h/a]
+
+200 cent/liter
+diesel
+
+120
+cent/liter
+diesel
+
+100
+cent/liter
+diesel
+
+solar radiation
+8 kWh/day
+
+50 cent/liter diesel
+
+DIESEL
+
+SOLAR
+
+source SVEN TESKE / GREENPEACEINTERNATIONAL
+
+The main obstacles to switching from diesel to solar are the high
+upfront investment costs, and utilities in Pacific Island countries
+cannot finance the required new solar capacities. The graph
+below provides an overview of the annual payment (total
+payment – including interest) and the interest costs of a 20 kW
+system which will be completely financed with a 3% soft loan, or
+6% and 10% conventional bank credit over 20 years. The Island
+Utility concept needs to overcome this investment barrier.
+
+how to read the graph - examples:
+
+• In regions with 5.4 kWh/day solar energy, the annual savings
+
+on diesel fuel (with a diesel price of $1.78/L) can balance out
+the average annual interest rates of a soft loan credit with 3%
+interest & 20 years).
+
+• In regions with 6.95 kWh/day solar energy, the annual diesel fuel
+
+savings (with a diesel price of $1.78/L) can balance out the
+average annual total payment of credit with 10% interest
+& 20 years.
+
+Example A shows that a solar system could be financed with fuel
+savings alone if the diesel price is at $ 1.78/L or higher. With an
+average consumer price of 15 cents/kWh – the break-even point for
+solar systems operated by a utility will be at around $1.3 /L diesel.
+
+case study figure 2: annual fuel savings of a 20 kW solar
+could finance solar systems
+
+5.4 kWh/day
+
+6.85 kWh/day 7.5 kWh/day
+
+B
+
+A
+
+40,000
+
+35,000
+
+30,000
+
+25,000
+
+20,000
+
+15,000
+
+10,000
+
+5,000
+
+$ / a  0
+
+DIESEL PRICE: 0.8 $/LITER
+
+DIESEL PRICE: 1.2 $/LITER
+
+DIESEL PRICE: 1.78 $/LITER
+
+ANNUAL PAYMENT WITH 6%
+
+ANNUAL PAYMENT WITH 10%
+
+ANNUAL PAYMENT WITH 3%
+
+source SVEN TESKE / GREENPEACEINTERNATIONAL
+
+N
+A
+G
+R
+O
+M
+E
+V
+E
+T
+S
+
+/
+
+P
+G
+©
+
+1
+
+r
+e
+n
+e
+w
+a
+b
+l
+e
+
+e
+n
+e
+r
+g
+y
+a
+n
+d
+h
+y
+b
+r
+i
+d
+s
+y
+s
+t
+e
+m
+s
+
+|
+
+S
+O
+L
+A
+R
+
+I
+S
+L
+A
+N
+D
+
+S
+T
+A
+T
+E
+S
+
+23
+
+[R]ENEWABLES 24/7
+INFRASTRUCTURE NEEDED TO SAVE THE CLIMATE
+
+2
+
+smart grids
+
+GLOBAL
+
+INTEGRATING RENEWABLE
+GENERATION INTO POWER SYSTEMS
+
+WHY DO WE NEED SMART GRIDS?
+
+THE SMART GRID VISION FOR THE
+ENERGY [R]EVOLUTION
+
+D2
+
+R
+O
+F
+F
+O
+H
+X
+E
+L
+A
+E
+C
+A
+E
+P
+N
+E
+E
+R
+G
+©
+
+A
+N
+I
+H
+C
+N
+I
+
+C
+I
+A
+T
+L
+O
+V
+
+S
+L
+L
+E
+C
+
+)
+V
+P
+(
+
+.
+
+/
+
+“...a vision for better,
+cleaner future
+power systems...”
+
+GREENPEACE INTERNATIONAL
+CLIMATE CAMPAIGN
+
+24
+
+-
+O
+T
+O
+H
+P
+D
+E
+R
+E
+W
+O
+P
+R
+A
+L
+O
+S
+G
+N
+I
+L
+B
+M
+E
+S
+S
+A
+e
+g
+a
+m
+
+i
+
+2
+
+s
+m
+a
+r
+t
+
+g
+r
+i
+d
+s
+
+|
+
+I
+N
+T
+E
+G
+R
+A
+T
+I
+N
+G
+
+R
+E
+N
+E
+W
+A
+B
+L
+E
+
+G
+E
+N
+E
+R
+A
+T
+I
+O
+N
+
+image WIND TURBINE WORKER IN MARANCHÓN,
+GUADALAJARA, SPAIN.
+
+S
+K
+R
+O
+W
+R
+E
+W
+O
+P
+D
+N
+I
+W
+C
+E
+W
+G
+©
+
+/
+
+The term ‘smart grids’ is being used in the media and by
+politicians, but it is very difficult to find a commonly accepted
+definition. Typically, the term signifies a vision for better,
+cleaner future power systems, that will use more information
+technology than they do today. The section presents more
+information on the overall system architecture and the smart
+components in these electric power systems.
+
+2.1 integrating renewable generation into power
+systems: it can be done!
+
+The key task of any power system, with or without renewable power
+generation, is to keep the power available 24 hours a day, 7 days a
+week. To do this, the system needs to balance electricity consumption
+and generation at all times, and the network must be designed to
+cope with different system states.
+
+Some of the specifics of a smart grid-based power system architecture
+are still emerging through academic research and industry development.
+However, there is sufficient knowledge and experience for a sound overall
+description of future power systems that use smart grids.
+
+For this report we define the term as:
+
+An electricity network that uses distributed energy resources and
+advanced communication and control technologies to deliver
+electricity more cost-effectively, with lower greenhouse intensity
+and in response to consumer needs. Smart grids have smaller forms
+of electricity generation and high percentages of renewable energy,
+combined with energy management to balance out the load of all
+the users on the system. The energy sources are closer to the users,
+instead of one large centralised source a long distance away.
+
+Genuine smart grids rely on renewable energy with no greenhouse
+emissions, but control technology can also make more efficient use
+of conventional fossil fuel power plants and help to integrate more
+renewables to older-style networks. Today’s power systems account
+for about 41% of world-wide carbon emissions12 It is a fact that
+power systems of the future will need a much higher percentage of
+renewable energy in the mix to help achieve the national and
+international emission-reduction objectives that will prevent
+dangerous levels of climate change.
+
+The impact of carbon emissions and other greenhouse gases on
+climate change was acknowledged in 1992, when 154 governments
+and the European Community signed the United Nations’ Framework
+Convention on Climate Change at the Rio Earth Summit. Today, there
+are many national and international targets to reduce these
+emissions. Denmark, for instance, has a national target of 50% of its
+national energy consumption from renewables in 2050. The EU has a
+target of producing 20% of electricity from renewables by 2020,
+compared to the current level of 8.5%.13 However, we can only
+stabilise carbon emission levels in the atmosphere and reduce the
+impact of climate change with future electric power systems
+operating with between 80 to 90% renewable energy.
+
+This section lays out the concept of future power systems based on
+smart grid systems with high levels of renewables which can ensure
+security of supply at all times. We present technical solutions and
+existing demonstration projects to illustrate key elements of a
+future power system that runs on clean sources and is supported
+by smart grids.
+
+references
+12 HTTP://WWW.IEA.ORG/WEO/DOCS/WEO2009/CLIMATE_CHANGE_EXCERPT.PDF
+13 HTTP://EUR-LEX.EUROPA.EU/LEXURISERV/LEXURISERV.DO?URI=OJ:L:2009:140:0016:
+0062:EN:PDF
+
+2.1.1 integration of renewable energy into power systems
+
+The task of integrating renewable energy technologies into existing
+power systems is similar in all power systems around the world,
+whether they are large, centralised systems or island systems.
+The main aim of power system operation is to balance electricity
+consumption and generation at all times.
+
+Thorough planning ahead is needed to ensure that the available
+production can match demand at all times. In addition to balancing
+supply and demand, the power system must also be able to:
+
+• Fulfil defined power quality standards –voltage/frequency- which
+may require additional technical equipment in the power system
+and support from different ancillary services (see Appendix 1
+for definitions of terms); and
+
+• Survive extreme situations such as sudden interruptions of supply
+
+(e.g. a fault at a generation unit) or interruption of the
+transmission system.
+
+Typically, power systems use cheap power sources as base-load
+power plants which operate most of the time at rated capacity. These
+centralised units are often ‘inflexible’ generation resource, meaning
+they are quite inefficient and it is expensive to change their output
+over the day, to match what people actually use (load variation).
+
+“Smart Grids is a new concept for
+electricity networks across Europe.
+… [It is] a shared vision which
+enables Europe’s electricity grids
+to meet the challenges and
+opportunities of the 21st century
+[and] fulfils the expectations
+of society.”
+
+SMARTGRIDS EUROPEAN TECHNOLOGY PLATFORM
+FOR ELECTRICITY NETWORKS OF THE FUTURE:
+VISION AND STRATEGY FOR EUROPE’S ELECTRICITY
+NETWORKS OF THE FUTURE,
+HTTP://WWW.SMARTGRIDS.EU/DOCUMENTS/VISION.PDF
+
+25
+
+[R]ENEWABLES 24/7
+INFRASTRUCTURE NEEDED TO SAVE THE CLIMATE
+
+2
+
+s
+m
+a
+r
+t
+
+g
+r
+i
+d
+s
+
+|
+
+I
+N
+T
+E
+G
+R
+A
+T
+I
+N
+G
+
+R
+E
+N
+E
+W
+A
+B
+L
+E
+
+G
+E
+N
+E
+R
+A
+T
+I
+O
+N
+
+figure 8: typical load variations over 24 hour and the generation sources supplying the load in a hybrid power
+system with PV and batteries
+
+1,000
+
+900
+
+800
+
+700
+
+600
+
+500
+
+400
+
+300
+
+200
+
+100
+
+W 0
+
+1,000
+
+900
+
+800
+
+700
+
+600
+
+500
+
+400
+
+300
+
+200
+
+100
+
+W 0
+
+1
+
+3
+
+5
+
+7
+
+9
+
+11
+
+13
+
+15
+
+17
+
+19
+
+21
+
+23
+
+1
+
+3
+
+5
+
+7
+
+9
+
+11
+
+13
+
+15
+
+17
+
+19
+
+21
+
+23
+
+hour of day
+
+hour of day
+
+• ELECTRICITY DEMAND
+
+• ELECTRICITY DEMAND MET BY BATTERY / OTHER RES / GENSET
+• ENERGY FROM PV GENERATOR
+
+source HYBRID POWER SYSTEMS BASED ON RENEWABLE ENERGIES: A SUITABLE AND COST-COMPETITIVE SOLUTION FOR RURAL ELECTRIFICATION,
+ALLIANCE FOR RURAL ELECTRIFICATION. ALLIANCE FOR RURAL ELECTRIFICATION, HTTP://WWW.RURALELEC.ORG/.
+
+In reality, load varies over time (see Figure 8) which means that
+additional flexible power generation resources are required to provide
+the right amount of power. For larger power systems, typical
+technologies are combined-cycle gas turbines (CCGT) or hydro-power
+stations with a sufficient storage capacity to follow the daily load
+variations. In conventional island power systems, typically a number
+of small diesel generators (gensets) are used to provide 24/7 supply.
+Several gensets have to operate continuously at the point of their
+highest efficiency, while one is used to follow the load variations.
+
+The impact of adding renewable power generation to a
+conventionally centralised or island power system will affect the
+way in which a conventionally-designed electricity system runs.
+The level of impact depends on the renewable energy technology:
+
+• Biomass/geothermal/solar thermal (CSP)/hydro power with
+
+storage: power output can be regulated, i.e. they can supply base
+load as well as peak load;
+
+• Hydro power without storage (run–of-the-river)/photovoltaic/wind
+power: power output depends on the available natural resources,
+so the power output is variable.14
+
+There are two main types of impact to consider when introducing
+renewable energy to micro grids, the balancing impact and
+reliability impact.
+
+26
+
+Balancing impact relates to the short-term adjustments needed to
+manage fluctuations over a period ranging from minutes to hours
+before the time of delivery. In power systems without variable power
+generation, there can be a mismatch between demand and supply.
+The reasons could be that the energy load was not forecast
+correctly, or a conventional power plant is not operating as it is
+scheduled, for instance a power station has tripped due to a
+technical problem.
+
+Adding a variable power generation source increases the risk that
+the forecasted power generation in the power system will not be
+reached, for instance, due to a weather system moving faster than
+predicted into the area. The overall impact on the system depends
+on how large and how widely distributed the variable power sources
+are. A certain amount of wind power distributed over a larger
+geographical area will have a lower impact on system balancing
+than the same amount of wind power concentrated in one single
+location, as geographical distribution will smoothen out the
+renewable power generation. System balancing is relevant to:
+
+• Day-ahead planning, which needs to make sure that sufficient
+generation is available to match expected demand taking into
+account forecasted generation from variable power generation
+sources (typically 12 to 36 hours ahead);
+
+• Short-term system balancing, which allocates balancing
+
+resources to cover events such as a mismatch between forecasted
+generation/demand or sudden loss of generation (typically
+seconds to hours ahead planning).In island power systems, both
+aspects must be handled automatically by the system (see
+Section 1.3.2 on Control Approaches for further details)
+
+reference
+14 SOMETIMES THESE RENEWABLE ENERGY SOURCES ARE DESCRIBED AS ‘INTERMITTENT’
+POWER SOURCES, HOWEVER, THE TERMINOLOGY IS NOT CORRECT AS INTERMITTENT STANDS
+FOR UNCONTROLLABLY, I.E. NON-DISPATCHABLE, BUT THE POWER OUTPUT OF THESE
+GENERATION PLANTS CAN BE FORECASTED, HENCE THEY CAN BE DISPATCHED.
+FURTHERMORE, THEY CAN ALWAYS BE OPERATED DOWN-REGULATED IF NEEDED.
+
+Reliability impact is the extent to which sufficient generation will
+be available to meet peak demand at all times. No electricity system
+can be 100% reliable, since there will always be a small chance of
+major failures in power stations or transmission lines when demand
+is high. However, renewable power production is often more
+distributed than conventional large-scale power plants, so it may
+reduce the risk of sudden drop-outs of major individual production
+units. On the other hand, variable renewable power generation
+reduces the probability that generation is available at the time of
+high demand, and thus adds complexity to system planning.
+
+Reliability is important for long-term system planning, which
+assesses the system adequacy typically 2 to 10 years ahead. Long-
+term system planning with variable generation sources is a
+challenge because of where the resources are located. To get a high
+level of renewable energy into the system, ideally plants must be
+situated at some distance from each other, for example using solar
+power from Southern Europe when there is no or limited wind
+power available in Northern Europe. These issues are discussed in
+more detail in Section 3 regarding super grids.
+
+In island power systems, power generators are typically close to
+each other, which means that there must be a mix of different
+generation technologies in the island system or that they must be
+partly over-designed to make sure that there is always sufficient
+generation capacity available. This is typically done by adding some
+back-up diesel gensets. In addition, island power systems can adjust
+power demand to meet power supply, rather than the other way
+round. This approach is called demand-side management. An
+example of a ‘flexible’ load in island systems for demand-side
+management is water pumps and irrigation pumps which can be
+turned on and off depending on how much electricity supply there
+is. The basic planning challenges for integrating renewable energy
+technology into power systems are not new to power system design,
+they apply to all power systems around the world regardless of
+capacity mix, demand levels, and market design. High penetrations
+of variable renewable generation introduce new challenges, but
+existing experience shows that renewables penetration can reach
+significant levels also in island power systems (see Section 4).
+
+In Denmark, for instance, wind power supplied 21.22% of the
+national consumption in 2007.15 Many times, for example during
+nights with high wind speeds and low load, the supplied wind power
+exceeds local consumption. At those times surplus wind power is
+exported to the neighbouring countries.
+
+2.1.2 about base-load and system balancing
+
+image AS PART OF THE LAUNCHING OF THE BRAZIL
+ENERGY [R]EVOLUTION REPORT, GREENPEACE
+INSTALLED 40 PHOTOVOLTAIC SOLAR PANELS THAT
+SUPPLY THE GREENPEACE OFFICE IN SAO PAULO.
+
+A
+I
+È
+L
+A
+B
+O
+G
+I
+R
+D
+O
+R
+P
+G
+©
+
+/
+
+planning were tasks carried out by a centralised organisation, usually
+by the company responsible for operating the transmission system
+(transmission system operator - TSO). Today, generation investment
+planning is decentralised and influenced by electricity market prices.
+
+The existing power systems around the world have developed
+certain technologies and generation resources, often influenced by
+the national energy policy. Typically, power systems were designed
+around large power stations providing base-load capacity, i.e. base-
+load power plants of more than 660 MW capacity, operating
+almost constantly at full output (see also Figure 9).
+
+These centralised units, typically nuclear or coal power plants, are
+inflexible generation resources – they can’t ‘follow load’, i.e. change
+their supply to match the changing demand throughout the day. It is
+inefficient and expensive to change their operating capacity.
+Furthermore, large, centralised units require significant investment
+in grid infrastructure.
+
+figure 9: typical load variations over 24 hours and the
+generation sources supplying the load in a power
+system with large centralized units
+
+2
+
+s
+m
+a
+r
+t
+
+g
+r
+i
+d
+s
+
+|
+
+B
+A
+S
+E
+
+-
+L
+O
+A
+D
+
+A
+N
+D
+
+S
+Y
+S
+T
+E
+M
+B
+A
+L
+A
+N
+C
+I
+N
+G
+
+60
+
+p
+o
+t
+
+50
+
+e
+l
+d
+d
+i
+m
+
+e
+s
+a
+b
+
+40
+
+30
+
+20
+
+10
+
+d
+a
+o
+l
+
+MW      0
+
+discharge
+pump storage
+
+charge
+pump
+storage
+
+charge pump
+storage
+
+0
+
+4
+
+8
+
+12
+
+16
+
+20
+
+24
+
+hour of day
+
+STORAGE
+
+HEATING OIL
+
+• CHARGE/DISCHARGE
+• INDUSTRY FEED IN
+• NATURAL GAS &
+• COAL• LIGNITE
+• NUCLEAR
+• WATER
+
+In Finland, a planned expansion of the Olkiluoto nuclear power
+station providing an extra 1,600 MWe was originally scheduled to
+become operative in 2012. Now it is unclear if and when it will be
+completed. For the expansion to be feasible it requires an 800 MW
+undersea transmission line from near Olkiluoto to Sweden to export
+surplus electricity production. This considerable network upgrade is
+required in the Scandinavian power system for base-load operation
+of the expanded Olkiluto nuclear power station.
+
+Energy power balance aims to keep frequency in the system
+consistent. The mains frequency describes the frequency at which
+AC electricity is delivered from the generator to the end user, and it
+is measured in Hertz (Hz). Frequency varies in a system as the load
+(demand) changes. In a power grid operating close to its peak
+capacity, there can be rapid fluctuations in frequency, and dramatic
+examples can occur just before a major power outage.
+
+Load varies over time, see Figure 9, therefore more flexible power
+generation resources can ‘follow the load’. Typical technologies
+which can do this are combined-cycle gas turbines (CCGT) or hydro
+power stations because they have significant storage capacity to
+match the variations over a day. Power systems with large amounts
+of inflexible generation resources, such as nuclear power stations,
+also require a significant amount of flexible generation resources.
+
+System engineers plan many years ahead so that the available
+production can match demand at all times and keep frequency
+variations to a minimum. In the past, generation and power system
+
+reference
+15 WIND POWER TO COMBAT CLIMATE CHANGE, HOW TO INTEGRATE WIND ENERGY INTO
+THE POWER SYSTEM, BY ENERGINET.DK, THE DANISH TRANSMISSION SYSTEM
+OPERATOR, HTTP://WWW.E-PAGES.DK/ENERGINET/126/
+
+27
+
+2
+
+s
+m
+a
+r
+t
+
+g
+r
+i
+d
+s
+
+|
+
+B
+A
+S
+E
+
+-
+L
+O
+A
+D
+
+V
+E
+R
+S
+U
+S
+
+F
+L
+E
+X
+I
+B
+L
+E
+
+R
+E
+N
+E
+W
+A
+B
+L
+E
+
+P
+O
+W
+E
+R
+
+G
+E
+N
+E
+R
+A
+T
+I
+O
+N
+
+[R]ENEWABLES 24/7
+INFRASTRUCTURE NEEDED TO SAVE THE CLIMATE
+
+2.1.3 base-load versus flexible renewable power generation
+
+technical or economic barriers?
+
+Renewable energy integrated into a smart grid changes the need for
+‘base load’ power. In the new energy vision, it is better to think of
+energy as ‘inflexible’ or ‘flexible’. In countries with good support for
+renewable energy and natural resources, in Spain for example, the
+clean, renewable technologies already provide more than 40% of
+daily demand on certain days. Worldwide, we can bring about an
+energy switch based on renewables which redefines the need for
+‘base load’ power. Instead, a mix of flexible energy providers can
+follow the load during the day and night (e.g. solar plus gas,
+geothermal, wind and demand management), without blackouts.
+
+Figure 10 shows a typical situation with significant variable
+renewable generation – in this case mainly PV- in the European
+power system. Here, geothermal, ocean and run-of-the-river power
+plants are operated in base-load and conventional plants – in this
+case gas-fired- and biomass plants are used to follow the variations
+caused by demand changes and changes in renewable generation
+such as PV and wind power.16
+
+figure 10: power production (in MW) from different
+sources and overall demand in europe during extreme
+january event
+
+600,000
+
+500,000
+
+400,000
+
+300,000
+
+200,000
+
+100,000
+
+MW      0
+
+1
+0
+.
+5
+0
+
+1
+0
+.
+6
+0
+
+.
+1
+0
+.
+7
+0
+
+.
+1
+0
+.
+8
+0
+
+.
+1
+0
+.
+9
+0
+
+.
+1
+0
+.
+0
+1
+
+.
+1
+0
+.
+0
+1
+
+.
+1
+0
+.
+1
+1
+
+.
+1
+0
+.
+2
+1
+
+.
+1
+0
+.
+3
+1
+
+.
+1
+0
+.
+4
+1
+
+days - january 1997
+
+• PHOTOVOLTAICS
+• CSP• WIND OFFSHORE
+• WIND ONSHORE
+• BIOMASS
+• HYDRO STORAGE
+
+• CONVENTIONAL
+• RUN-OF-RIVER
+• OCEAN• GEOTHERMAL
+
+DEMAND
+
+source ENERGYNAUTICS
+
+28
+
+In the example of Spain, renewable power supply already
+exceeds 40% of the daily demand on certain days. The power
+system is able to cope with this, there have been no black-
+outs or major technical problems. However, the renewable
+industry now faces an economic barrier, because Spain now
+has an overcapacity of supply. Effectively, Spain has much
+more generation capacity than demand, and the gap is
+exacerbated because of the economic crisis. The reason is
+that extra renewable capacity (and combined-cycle gas
+turbines) was built with the intention to move Spain to a
+clean renewable energy future, however no conventional
+capacity has been decommissioned so far.
+
+Now renewable generation takes an increasing market share
+in the electricity supply, taking it away from conventional
+fossil power plants. The conventional power plants sell less
+kWh than originally planned, and they cannot run power
+plants in base-load mode anymore, which increases costs of
+operation and lowers the profit on each kWh sold. In Spain,
+the operators of conventional power plants have begun to
+lobby against renewable power generation because renewable
+generation impacts their business plans. They are typically
+providers of base-load power, which is less and less needed
+with larger amounts of renewable in the power system.
+Instead more flexible and fast controllable generation assets
+are needed. In this case, the integration of large-scale
+renewable energy is becoming less of a technical issue, but
+more of an economic one. The barriers are from companies
+reluctant to abandon their economic investment in
+conventional base-load power plants.
+
+Decommissioned power plants, or ‘stranded assets’, for
+certain companies are not a sufficiently strong reason for
+holding up the development of a massive renewable energy
+infrastructure. Greenpeace campaigns to dramatically reduce
+our reliance on coal and nuclear power in order to halt
+climate change and its devastating impact on the planet. Our
+energy options are advanced enough for conventional base
+units to become redundant in the future renewable-based
+power system. However, the power industry is planning more
+and more coal and nuclear power plants in Europe, which do
+not fit into a future renewable-based system. They are not
+clean enough and they cannot be operated flexibly enough to
+fit into the future power system.
+
+reference
+16 IN PRINCIPAL ALSO GEOTHERMAL COULD BE USED TO PROVIDE LOAD
+FOLLOWING CAPABILITIES.
+
+2
+
+s
+m
+a
+r
+t
+
+g
+r
+i
+d
+s
+
+|
+
+W
+H
+Y
+
+D
+O
+W
+E
+
+N
+E
+E
+D
+
+S
+M
+A
+R
+T
+
+G
+R
+I
+D
+S
+
+image BERLINER GEOSOL INSTALLING
+THE SOLAR ENERGY PLANT
+(PHOTOVOLTAIK) “LEIPZIGER LAND”
+OWNED BY SHELL SOLAR IN A FORMER
+BROWN COAL AREA NEAR LEIPZIG,
+SACHSEN, GERMANY.
+
+/
+
+/
+
+P
+G
+T
+I
+N
+E
+Z
+K
+C
+O
+R
+G
+N
+A
+L
+©
+
+2.2 why do we need smart grids for high
+penetration of renewables?
+
+The future power systems around the world will need to be based
+on renewable generation with up to 90% of the consumption
+supplied by renewable energy technologies such as wind, solar,
+biomass or hydro power.
+
+Until now renewable power technology development has put much
+effort into adjusting the technical performance to the needs of the
+power system, mainly by complying with grid codes (See Appendix 2
+on Grid Codes). For this reason, most large wind turbines comply
+with the same grid codes as conventional power stations and wind
+farms have become wind power plants. However, the time has come
+for the power systems themselves to better adjust to the needs of
+variable power generation, i.e. the power system has to become more
+flexible and less reliant on large, inflexible conventional power plants.
+
+The Danish example of integrating significant shares of wind power
+into the power system was mainly possible because of the
+availability of very flexible hydro power from Scandinavia, which is
+used to balance wind power variations. Similar resources are not
+available everywhere, therefore the power system has to become
+more flexible in other ways. Smart grid technology will play a
+significant role in achieving this, in particular by integrating
+demand-side management into power system operation.
+
+The future power system will not consist of a few centralised power
+plants but of tens of thousands generation units such as solar
+panels, wind turbines and other renewable generation, partly
+distributed in the distribution network, partly concentrated in large
+power plants, like offshore wind power plants. Smart grid solutions
+will help to monitor and integrate this diversity into power system
+operation and at the same time will make interconnection simpler.
+
+The trade-off is that power system planning will become more
+complex due to the larger number of generation assets and the
+significant share of variable power generation causing constantly
+changing power flows in the power systems. Smart grid technology
+will be needed to support power system planning, i.e. actively support
+day-ahead planning and power system balancing by providing real-
+time information about the status of the network and the generation
+units in combination with weather forecasts. Smart grid technology
+will also play a significant role in making sure systems can meet the
+peak demand at all times. Smart grid technology will make better
+use of distribution and transmission assets thereby limiting the need
+for transmission network extension to the absolute minimum.
+
+Smart grids use information and communication technology (ICT)
+to enable a power system based on renewable energy sources.
+ICT in smart grids is used to:
+
+• easily interconnect a large number of renewable generation assets
+
+into the power system (plug and play);
+
+• create a more flexible power system through large-scale demand-
+side management and integrating storage to balance the impact
+of variable renewable generation resources;
+
+• provide the system operator with better information about the state
+
+of the system, which so they can operate the system more efficiently;
+
+• minimise network upgrades by using network assets efficiently and
+supporting an efficient coordination of power generation over very
+large geographic areas needed for renewable energy generation.
+
+figure 11: wind energy in the western danish power system.
+
+25% wind energy (west denmark january 2008)
+
+4,500
+
+4,000
+
+3,500
+
+3,000
+
+2,500
+
+2,000
+
+1,500
+
+1,000
+
+500
+
+MW      0
+
+50% wind energy
+
+4,500
+
+4,000
+
+3,500
+
+3,000
+
+2,500
+
+2,000
+
+1,500
+
+1,000
+
+500
+
+MW     0
+
+• WIND POWER
+
+DEMAND
+
+• WIND POWER
+
+DEMAND
+
+The left picture shows 25% wind energy in the Western Danish power
+system while the left picture shows 50% wind penetration (wind in
+grey/demand as orange line). It can be seen that with increasing
+penetration levels surplus wind power might be available at certain
+
+times, while at other times, it will be not sufficient to supply the load.
+Hence, the power system must become more flexible to follow the
+variable renewable power generation, for example by adjusting demand
+via demand-side management and/or by deploying storage systems.
+
+source ECOGRID PHASE 1 SUMMARY REPORT, AVAILABLE AT: HTTP://WWW.ENERGINET.DK/NR/RDONLYRES/8B1A4A06-CBA3-41DA-9402-
+B56C2C288FB0/0/ECOGRIDDK_PHASE1_SUMMARYREPORT.PDF.
+
+29
+
+2
+
+s
+m
+a
+r
+t
+
+g
+r
+i
+d
+s
+
+|
+
+T
+H
+E
+
+S
+M
+A
+R
+T
+
+G
+R
+I
+D
+
+V
+I
+S
+I
+O
+N
+
+F
+O
+R
+
+T
+H
+E
+
+E
+N
+E
+R
+G
+Y
+
+[
+R
+]
+E
+V
+O
+L
+U
+T
+I
+O
+N
+
+[R]ENEWABLES 24/7
+INFRASTRUCTURE NEEDED TO SAVE THE CLIMATE
+
+2.4 the smart grid vision for the energy [r]evolution
+
+To develop a power system based almost entirely on renewable
+energy sources will require a new overall power system architecture
+
+–including smart grid technology, which will need substantial
+amounts of work to emerge.17 Figure 12 shows a very basic graphic
+representation of the key elements of future, renewable-based power
+systems using smart grid technology.
+
+figure 12: the smart-grid vision for the energy [r]evolution
+A VISION FOR THE FUTURE – A NETWORK OF INTEGRATED MICROGRIDS THAT CAN MONITOR AND HEAL ITSELF.
+
+HOUSES WITH
+SOLAR PANELS
+
+ISOLATED MICROGRID
+
+OFFICES WITH
+SOLAR PANELS
+
+WIND FARM
+
+CENTRAL POWER PLANT
+
+• PROCESSORS EXECUTE SPECIAL PROTECTION SCHEMES IN MICROSECONDS
+• SENSORS ON ‘STANDBY’ – DETECT FLUCTUATIONS AND DISTURBANCES, AND CAN SIGNAL FOR AREAS TO BE ISOLATED
+• SENSORS ‘ACTIVATED’ – DETECT FLUCTUATIONS AND DISTURBANCES, AND CAN SIGNAL FOR AREAS TO BE ISOLATED
+
+SMART APPLIANCES CAN SHUT OFF IN RESPONSE TO FREQUENCY FLUCTUATIONS
+
+INDUSTRIAL PLANT
+
+DEMAND MANAGEMENT USE CAN BE SHIFTED TO OFF-PEAK TIMES TO SAVE MONEY
+
+GENERATORS ENERGY FROM SMALL GENERATORS AND SOLAR PANELS CAN REDUCE OVERALL DEMAND ON THE GRID
+
+STORAGE ENERGY GENERATED AT OFF-PEAK TIMES COULD BE STORED IN BATTERIES FOR LATER USE
+
+DISTURBANCE IN THE GRID
+
+30
+
+reference
+17 SEE ALSO ECOGRID PHASE 1 SUMMARY REPORT, AVAILABLE AT:
+HTTP://WWW.ENERGINET.DK/NR/RDONLYRES/8B1A4A06-CBA3-41DA-9402-
+B56C2C288FB0/0/ECOGRIDDK_PHASE1_SUMMARYREPORT.PDF
+
+A more detailed outline of the system architecture of the smart grid
+vision will be defined through ongoing research and dynamic technology
+developments. The first steps in the transition process towards a new,
+renewable-based power system using smart grid technology have
+already been taken in some countries. This section presents innovative
+demonstration projects based on smart grid technology.
+
+The examples show that smart grid technology is much more than just
+smart metering and that technology development does not need to start
+from scratch. In many cases there is already enough experience available
+to move from demonstration projects to a large-scale deployment. The
+largest problem the power system industry currently faces is not the
+lack of ideas or possible solutions, but the lack of incentives to test and
+implement the solutions in real power systems. Testing and real-life
+examples are essential for gaining additional knowledge with the
+thousands or even tens of thousands of electrical devices in the real
+world compared to often only a few dozen devices used in demonstration
+projects. Incentives help apply new technology to existing electric power
+systems. However, transmission systems are classical monopolies and so
+they have little incentive to innovate to gain greater market shares.
+
+The smart grid concept typically focuses on applications connected to
+the medium or low voltage network, using IT technologies to monitor
+and control different applications such as small generation
+technologies (PV, Wind), and storage systems or demand technologies
+such electric; cars or heat pumps. However, the smart grid vision, is
+an overall power system approach and is not bound to one particular
+distribution network. Smart grids, micro grids and super grids will all
+be needed to work in harmony to provide day-to-day system
+balancing and also transport power from areas with large amounts of
+renewable resource to areas with high electricity demand.
+
+2.4.1 smart grid solutions for the integration of renewables
+using micro grids
+
+The large-scale integration of variable renewable energy resources
+into the power system will require new measures to make the power
+system more flexible on several time scales. Figure 10 provides an
+overview of selected new measures in relation to their time impact
+in the balancing process. The integration of these new measures into
+power system operation will require new ICT solutions, which can
+be considered part of the smart grid vision for Energy [R]evolution.
+
+Figure 13 shows that there is a large range of possible options to make
+the power system more flexible for supporting balancing from a very
+short time frame (seconds) to approximately day-ahead balancing (day-
+ahead planning). Long-term aspects are related to seasonal weather
+cycles and the need to meet peak demand at all times, so power system
+planning must includes large geographic areas. This is the point where
+the smart grid vision meets the super grid vision. For smart grids to
+work, micro grids are needed on the distribution network level.
+Examples of island and rural micro grids are provided in section 1.
+More broadly, the term micro grid refers to the IT monitoring and
+control infrastructure on the distribution level. Each distribution level
+will represent one unique micro grid enabling selected functions based
+on the available resources or technologies in the distribution network.
+The key tasks of micro grids in a smart grid system are to:
+
+• enable informed participation by customers to ultimately support
+
+demand side management;
+
+2
+
+s
+m
+a
+r
+t
+
+g
+r
+i
+d
+s
+
+|
+
+S
+M
+A
+R
+T
+
+G
+R
+I
+D
+
+S
+O
+L
+U
+T
+I
+O
+N
+S
+T
+
+image THE PS10 SOLAR TOWER PLANT AT SAN LUCAR LA
+MAYOR OUTSIDE SEVILLE, SPAIN, APRIL 29, 2008.
+
+figure 13: overview of new and conventional
+measures in relation to the time impact
+in the balancing process
+
+wind power
+
+power control
+
+geographical
+spreading
+
+household
+
+demand side
+
+electric vehicles
+
+heat systems
+
+micro CHP
+
+cooling
+towers
+
+dump
+loads
+
+heat pumps
+
+heat
+storage
+
+storage
+
+flywheels
+
+CAES
+
+flow batteries
+
+pump storage
+
+thermal storage
+
+“conventional”
+measures
+
+ancillary services
+
+transmission system
+
+hydro power plants
+
+new interconnections
+
+a
+i
+t
+r
+e
+n
+i
+
+g
+n
+i
+c
+n
+a
+l
+a
+b
+
+r
+u
+o
+h
+
+a
+r
+t
+n
+i
+
+l
+o
+r
+t
+n
+o
+c
+
+y
+c
+n
+e
+u
+q
+e
+r
+f
+
+p
+o
+o
+r
+d
+
+r
+u
+o
+h
+
+y
+b
+
+r
+u
+o
+h
+
+e
+l
+c
+y
+c
+
+l
+a
+n
+r
+u
+i
+d
+
+s
+m
+e
+t
+s
+y
+s
+
+r
+e
+h
+t
+a
+e
+w
+
+g
+n
+i
+l
+u
+d
+e
+h
+c
+s
+
+d
+a
+e
+h
+a
+
+y
+a
+d
+
+r
+a
+e
+y
+
+y
+b
+
+r
+a
+e
+y
+
+e
+l
+c
+y
+c
+
+l
+a
+n
+o
+s
+a
+e
+s
+
+s
+t
+n
+e
+m
+t
+s
+e
+v
+n
+i
+
+m
+r
+e
+t
+
+g
+n
+o
+l
+
+source ECOGRID PHASE 1 SUMMARY REPORT, AVAILABLE AT:
+HTTP://WWW.ENERGINET.DK/NR/RDONLYRES/8B1A4A06-CBA3-41DA-9402-
+B56C2C288FB0/0/ECOGRIDDK_PHASE1_SUMMARYREPORT.PDF.
+
+• monitor and control all generation and storage options in the
+
+distribution network;
+
+• enable new products and services such as demand side
+
+management and virtual power plants;
+
+• address disturbances in the power system locally, e.g. by
+
+automated prevention or containment of faults in the power
+system or by automated restoration in case of a black-start.
+
+In the following, we will present selected examples of existing smart
+grid applications focusing mainly on day-ahead planning and balancing
+support. The main focus here is on how micro grid and smart grid
+technologies work together to achieve a certain functionality, less
+emphasis is given to the overall control and information structure.
+The following examples are only a selection of possible smart grid
+applications for the large integration of renewables into the power
+system; many more are currently under investigation/development.
+
+31
+
+[R]ENEWABLES 24/7
+INFRASTRUCTURE NEEDED TO SAVE THE CLIMATE
+
+2
+
+s
+m
+a
+r
+t
+
+g
+r
+i
+d
+s
+
+|
+
+M
+A
+N
+A
+G
+E
+M
+E
+N
+T
+
+O
+F
+
+P
+O
+W
+E
+R
+
+G
+E
+N
+E
+R
+A
+T
+I
+O
+N
+
+2.4.2 management of power generation
+
+The function of the renewable VPP can be divided into two stages:
+
+The virtual power plant A virtual power plant interconnects
+different real power plants (of different nature such as solar, wind
+and hydro) as well as storage devices distributed in the power
+system via information technology. This virtual power plant (VPP)
+can be designed / operated so that it can always comply with a
+given schedule. From the perspective of the overall power system, a
+VPP is similar to a conventional power plant and will simplify day-
+ahead scheduling. The variability of certain renewable energy
+technologies is taken care of within the VPP and does not need to
+be dealt with in the power system’s day-ahead planning.
+
+A real-world example is the Combined Renewable Energy Power
+Plant that was developed by three German companies and is now
+operating in Germany.18 The VPP interconnects and controls eleven
+wind power plants, twenty solar power plants, four combined heat-
+and-power plants based on biomass, plus a pump storage unit, all of
+them spread throughout Germany. The VPP thereby combines the
+advantages of various renewable energy sources. Wind turbines and
+solar modules help generate electricity in accordance with how
+much wind and sun is available. Biogas and the pump storage units
+are used to make up the difference: they are converted into
+electricity as needed in order to balance short-term fluctuations, or
+are temporarily stored.19 Together they ensure sufficient electricity
+supply to cover the demand.
+
+• anticipatory control similar to day-ahead planning, and
+
+• fine-tuning similar to final system balancing at the time of delivery.
+
+The actual forecasted demand is the central starting point for the
+day-ahead planning. The forecast of the electricity demand, the
+‘load profile’, is communicated to the central control unit. The
+central control unit also has access to a wind and solar production
+forecast for the different power plants, delivered by the German
+Weather Service (DWD). Because wind and solar energy cannot
+precisely meet a given electricity demand, oversupplies and
+shortages need to be compensated by the biomass and pump
+storage unit to ensure security of supply and grid stability.
+
+There are the following options to balance wind and solar generation:
+
+• Firstly, combined heat–and-power (CHP) plants are used to
+
+produce electricity and heat from biogas.
+
+• Secondly, energy can be stored temporarily in a pumped storage
+
+power plant and can be quickly made available again.
+
+Forecasts of the expected solar and wind production makes it
+possible to plan ahead for the operation of combined heat-and-
+power plants and storage systems. If the amount of electricity
+produced by wind and solar power installations exceeds demand,
+the surplus of energy is used for filling up storage reservoirs.
+Another option would be to use surplus electricity to charge
+batteries in electrical cars. If maximum storage capacity is reached,
+wind and solar power plants can be curtailed.
+
+figure 14: principle of a VPP: stage 1 – day-ahead planning.
+
+SOLAR
+
+WIND
+
+CENTRAL CONTROL UNIT
+
+0000
+
+100
+
+0400
+
+0800
+
+1200
+
+1600
+
+2000
+
+2400
+
+FORECAST
+
+REQUIRED
+VALUES
+
+PROGNOSE
+
+REQUIRED
+VALUES
+
+90
+
+80
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+MW 0
+
+OPERATING
+SCHEDULE
+
+OPERATING
+SCHEDULE
+
+BIOGAS
+
+RESERVOIR
+
+ELECTRICITY
+DEMAND
+
+FORECAST
+
+source HTTP://WWW.SOLARSERVER.DE/SOLARMAGAZIN/
+ANLAGEJANUAR2008_E.HTML
+
+32
+
+D
+R
+O
+F
+F
+O
+H
+X
+E
+L
+A
+P
+G
+©
+
+/
+
+2
+
+s
+m
+a
+r
+t
+
+g
+r
+i
+d
+s
+
+|
+
+T
+H
+E
+
+V
+I
+R
+T
+U
+A
+L
+
+P
+O
+W
+E
+R
+
+P
+L
+A
+N
+T
+
+image SOLAR POWERED PHOTO-VOLTAIC (PV) CELLS ARE
+ASSEMBLED BY WORKERS AT A FACTORY OWNED BY THE
+HIMIN GROUP, THE WORLD’S LARGEST MANUFACTURER
+OF SOLAR THERMAL WATER HEATERS. THE CITY OF
+DEZHOU IS LEADING THE WAY IN ADOPTING SOLAR
+ENERGY AND HAS BECOME KNOWN AS THE SOLAR
+VALLEY OF CHINA.
+
+Even with good weather forecasts the actual electricity production
+of solar and wind power can be different to predictions. To deal
+with this, the operating schedules need to be fine-tuned and
+adjusted based on the actually measured values, see also Figure 15.
+
+figure 15: principle of a VPP: stage 2 – fine tuning or balancing in real time.
+
+SOLAR
+
+WIND
+
+CENTRAL CONTROL UNIT
+
+0000
+
+100
+
+0400
+
+0800
+
+1200
+
+1600
+
+2000
+
+2400
+
+OUTPUT
+
+OUTPUT
+
+90
+
+80
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+MW 0
+
+OUTPUT
+
+ADJUSTED
+OPERATING
+SCHEDULES
+
+OUTPUT
+
+BIOGAS
+
+RESERVOIR
+
+ELECTRICITY
+DEMAND
+
+OUTPUT
+
+source HTTP://WWW.SOLARSERVER.DE/SOLARMAGAZIN/ANLAGEJANUAR2008_E.HTML
+
+references
+18 SEE ALSO HTTP://WWW.KOMBIKRAFTWERK.DE/INDEX.PHP?ID=27
+19 SEE ALSO HTTP://WWW.SOLARSERVER.DE/SOLARMAGAZIN/ANLAGEJANUAR2008_E.HTML
+
+33
+
+[R]ENEWABLES 24/7
+INFRASTRUCTURE NEEDED TO SAVE THE CLIMATE
+
+2
+
+s
+m
+a
+r
+t
+
+g
+r
+i
+d
+s
+
+|
+
+G
+R
+E
+E
+N
+P
+E
+A
+C
+E
+
+E
+N
+E
+R
+G
+Y
+
+E
+G
+
+case study: greenpeace energy eG - the consumer
+cooperative for clean electricity
+
+In Germany, as of April 2009 about 91,000 households and about
+5,000 companies from all over the country are being supplied by
+Greenpeace Energy. They operate under a cooperative model, with
+18,000 members. Apart from providing customers with a guarantee
+that they are getting power with dramatically less greenhouse gas, and
+no nuclear power, the cooperative employs both demand management
+and supports development of new renewable and CHP plants.
+Electricity prices are approx 1.5 or 2 cents higher, at 21.40 cent per
+kilowatt-hour plus a basic charge of 8.90 euro per month, but there is
+a large market willing to pay the premium for a safe future. The
+consumer cooperative effectively gathers up consumer power and
+makes it possible to ensure monitoring of the quality of the electricity
+supplied, customers care and the finances.
+
+case study figure 1: daily generation mix of Greenpeace
+energy over the entire year
+
+)
+
+W
+M
+
+(
+
+e
+s
+u
+
+y
+g
+r
+e
+n
+e
+
+y
+l
+i
+a
+D
+
+700
+
+600
+
+500
+
+400
+
+300
+
+200
+
+100
+
+0
+
+jan feb mar apr may jun july aug sep oct nov dec
+
+source SVEN TESKE / GREENPEACEINTERNATIONAL
+
+real-time monitoring and demand management
+
+With the Greenpeace eG, the production of electricity fits the
+customer’s consumption in real time, using a computerised control
+station. Every generating facility is monitored by remote inquiry. BET,
+an independent engineering office in Aachen, has access to all the data
+and regularly checks that composition of electricity is being kept and
+random checks are made by facility operators.
+
+helping to build new renewable energy
+
+Clean power from Greenpeace Energy is at least 50% from
+renewable sources (hydro, wind, biomass), with a maximum of
+50% of combined heat and power plants (natural gas only). The
+supplier guarantees no nuclear, coal or oil-based power. The eG
+cooperative has also established a business for planning, financing
+and operating green power installations so Greenpeace can
+supply its members and customers with green energy from own
+power plants. These tasks are done by Planet energy Ltd., which
+is a 100% daughter company of Greenpeace Energy eG. Three
+wind parks and three PV-installations have been built already
+and another wind park is under construction. Further investments
+in hydropower, solar energy, and biomass are in planning.
+
+• WATER• WIND• SOLAR• BIOMASS
+
+• COMBINED HEAT AND POWER (CHP)
+• RENEWABLE ENERGY LAW
+
+Ancillary services from a wind power plant To ensure availability,
+quality and safety of power supply at all locations in the overall
+system, some plants must provide ancillary services. One of the key
+ancillary services is called Frequency Control Ancillary Services
+(FCAS) and combines the medium-term energy balancing. Sometimes
+this is called secondary control and the short-term, minute-by-minute
+control of the power system frequency is also known as primary
+control. The balancing service is required to adjust generation (and
+load, if applicable) continuously until minutes before delivery when
+frequency regulation service (primary control) takes over to maintain
+a minute-to minute generation-load balance.
+
+Historically, such ancillary services were only supplied by
+conventional power plants, but nowadays also wind farms are able
+to provide this service. Therefore they should be better referred to
+as wind power plants as they can fulfil now the same ancillary
+services as conventional power plants. Renewable energy must be
+able to work as ‘power plant’ to achieve very high penetration levels
+in the power system.
+
+For wind power, several new features are now integrated into the
+plant operation to support the operation of the power system. The
+most significant step in this direction is the wind farm controller for
+the first large offshore wind farm, the Danish Horns Rev offshore
+wind farm. The Horns Rev wind farm consists of 80 Vestas V80 (2
+MW) wind turbines with double-fed induction generators (DFIG).
+
+To illustrate the performance of wind power at this scale, a ‘normal’
+day of operation at the Horns Rev wind farm is explained below. At
+about 4:00 am, the mode to provide frequency control ancillary
+services is activated. This causes the actual power generation of the
+wind farm to decrease below the theoretically possible power
+production. This makes the difference between actual power
+generation and theoretically possible power production available as
+spinning reserve which can be used in case of under-frequency. For
+about two hours the power output of the wind power plant is reduced
+significantly because of overproduction in the grid. Then the balance
+control and frequency control are cancelled, and the wind farm
+returns to normal operation, just as day starts and demand increases.
+
+34
+
+figure 16: balance control and reservation for
+frequency control at the same time
+
+)
+
+W
+M
+
+(
+
+r
+e
+w
+o
+P
+
+180
+
+160
+
+140
+
+120
+
+100
+
+80
+
+60
+
+40
+
+20
+
+0
+
+possible wind
+power production
+
+setpoint
+
+actual power
+
+00:00 01:00 02:00 03:00
+
+04:00 05:00 06:00 07:00 08:00
+
+Time [hh:mm]
+
+source IEEE.
+
+Another important development is that wind turbines can have now
+fault-ride-through control capabilities that enable the wind turbines
+to stay connected during and after grid faults in the power system,
+a capability that most conventional power plants have (see also
+Appendix 3 on Wind Turbine Control Functions). The fault-ride-
+through capability is an important feature to secure stable
+operation in case of a voltage or frequency distortion.
+
+2.4.3 demand-side management (DSM)
+
+Demand-Side Management (DSM) means taking active control of the
+demand by the electricity industry, including customers, to influence
+the amount and timing of electricity use. It can be done either by
+industrial or residential customers, but usually involves some advanced
+information technology so that load changes can be communicated to
+those controlling the grid, in order to regulate demand as well as
+supply. This is a new paradigm for many grid operators. A full
+definition and detailed information is given in Appendix 4 on DSM.
+
+DSM in the Norwegian balancing market The idea of a market for
+ancillary services is for other players besides the central power plants
+to provide the necessary ancillary services and to make the power
+system more flexible. The easiest market for ancillary services is a
+real-power balancing market (real-time frequency regulation).
+Those who can participate in an ancillary service market should be
+generation units as those who are creating the demand, hence the
+term ‘demand-side participation’. Demand-side participation
+increases competition in electricity markets and gives great potential
+to regulate resources. Information and communication technology in
+a smart grid is typically used to bring together a number of
+electricity users so they can bid together in the market for their
+services. The basic concept is that they can increase or decrease
+demand after an order from the market operator is released, and that
+this is cheaper than for the generators to alter supply.
+
+In Norway, the national transmission system operator (TSO) Statnett
+developed an ‘options’ market to secure sufficient fast operating reserves
+in high-demand periods. This Regulating Capacity Option Market was
+launched in 2000. From the beginning, Statnett has encouraged the
+demand side (electricity users) to participate in this market.
+
+2
+
+s
+m
+a
+r
+t
+
+g
+r
+i
+d
+s
+
+|
+
+D
+E
+M
+A
+N
+D
+
+-
+S
+I
+D
+E
+M
+A
+N
+A
+G
+E
+M
+E
+N
+T
+
+image LOADING SUBMARINE
+SEA CABLES.
+
+B
+B
+A
+F
+O
+Y
+S
+E
+T
+R
+U
+O
+C
+©
+
+Offers are based on area, option price, and size (a minimum of 25
+MW). The basic concept is that users can offer to ‘switch off’ in times
+of high demand, and that this gives them a cheaper electricity price.
+In the Norwegian market this has meant demand measures can
+compete with generation for ancillary services to the grid. A number of
+consumers have prepared for demand disconnection on short notice, in
+return for the financial reward of lower prices. Mainly big industries
+(aluminium industry, steal industry, oil industry) have participated,
+though there is a potential for smaller demand to participate.
+
+The maximum purchase from the demand side so far has been
+1,300 MW (mainly from the power-intensive industry). The offered
+volume is even higher. In addition, up to 1000 MW of electric
+boilers have been made available. This potential depends on
+temperature and the price ratio between oil (or other fuels) and
+average daily or weekly electricity prices.
+
+DSM using virtual power plant of cold storage warehouses
+The EU research project Night Wind has investigated the
+possibilities of using Cold Store Warehouses for DSM to balance
+variability from wind generation.20 Cold Store Warehouses are large
+facilities for storing refrigerated and frozen products. The total
+capacity of cold stores in the EU 27 is estimated at 4,300 MW
+(installed electrical maximum capacity).21 Typically cold stores do
+not operate at maximum capacity during normal operation, but
+actually at about 60-70% of maximum capacity.
+
+When the cold store operates above average capacity, the
+temperature in the cold store drops and the products are cooled
+down. In other words, the additional energy supplied to the cold
+store is transformed into thermal energy (lower product
+temperatures). The ‘battery’ is being charged.
+
+When the cold store operates below average capacity, the
+temperature of the products rises. The thermal ‘battery’ is
+discharged. There is no ‘real’ electricity produced in this discharging
+process. More precisely, the electricity that would have been
+required to keep the cold store at constant temperature is now
+available for other purposes, and is thus virtually produced.
+
+The process of charging and discharging the cold store ‘battery’ is
+almost free of losses. For example you could run the refrigeration
+machine for half an hour at -16 ºC plus half an hour at –20 ºC,
+instead of for one hour at -18 ºC. Doing this, you would lose less
+than 1%, efficiency – the overall efficiency is above 99%. For
+comparison, storing energy in heat pumps has an overall efficiency
+of approximately 70 to 85%.
+
+Thus, these cold storage warehouses can become part of the system
+voluntarily ‘charging’ and ‘discharging’ to help deal with oversupply
+and keeping the temperature in the warehouses at the right level. To
+do this, they would become part of the Virtual Power Plant,
+requiring two-way communication systems and software that
+aggregates the warehouses so they can take part in the electricity
+market as ancillary services.
+
+references
+20 SEE HTTP://WWW.NIGHTWIND.EU/.
+21 SOURCE: HTTP://WWW.NIGHTWIND.EU/MEDIAPOOL/48/485045/DATA/COLD_STORAGE_
+OF_WIND_ENERGY.PDF
+
+35
+
+[R]ENEWABLES 24/7
+INFRASTRUCTURE NEEDED TO SAVE THE CLIMATE
+
+2
+
+s
+m
+a
+r
+t
+
+g
+r
+i
+d
+s
+
+|
+
+D
+S
+M
+W
+
+I
+T
+H
+
+C
+O
+M
+B
+I
+N
+E
+D
+
+H
+E
+A
+T
+
+A
+N
+D
+
+P
+O
+W
+E
+R
+
+DSM with combined heat and power plants A combined heat
+and power (CHP) plant is a plant where both heat and electricity
+are produced from one fuel source, see Figure 17. The heat can be
+used to heat up water which is distributed via a district heating
+system, i.e. a pipe system in the ground, to the customers which use
+the water to heat buildings, for instance. The cold water is then
+returned to the CHP plant via additional return pipes.
+
+Denmark’s major cities, for instance, have city-wide district heating
+schemes where most of the heat (95%-98%) is produced in large
+coal- or gas-fired CHP plants. Smaller cities in Denmark,
+communities and even small villages typically also have a district
+heating system powered by a small-scale CHP plant, utilising
+typically natural gas and operated with rather high power-to-heat
+ratio. The size of the CHP plants varies from around a few 100 MWe
+in larger cities to 0.5-10 MWe in small communities and villages.
+
+The CHP systems combined with a district heating system installed
+all over Denmark are unique in their design because almost all
+district heating systems are equipped with a hot water storage tank
+which is, if filled completely, typically capable of supplying the heat
+demand in the district heating system without any support of the
+CHP plant for at least 48 hours.
+
+In addition, most CHP systems are also equipped with boilers, so
+electricity supplied via the Danish power system can be converted to
+heat which can be stored and distributed via the exiting
+infrastructure of the district heating systems. At times when there is
+surplus electricity generated by wind power, for example when there
+is high wind speeds and low loads, it can easily be converted to heat
+and stored in the existing heat storage tanks. Hence, instead of
+‘spilling’ power when it is in oversupply it can be used to replace
+natural gas usually used in CHP stations for producing heat.
+
+figure 17: example for a district heating system based on a CHP plant
+
+2
+
+1
+
+3
+
+4
+
+GENERATOR
+
+5
+
+CONDENSER
+
+WATER
+STORAGE TANK
+
+WARM WATER
+
+COOLED WATER
+
+1. BIOFUEL OR NATURAL GAS FIRED CHP PLANT.
+2. STEAM IS LED TO THE TURBINE.
+3. THE TURBINE PRODUCES ELECTRICITY WITH THE HELP OF A GENERATOR.
+4. THE STEAM (RESIDUAL HEAT) FROM THE TURBINE, CONDENSES AND IS TRANSFERRED TO THE DISTRICT HEATING NETWORK.
+5. ELECTRICITY FOR LIGHTING ETC.
+
+source HTTP://WWW.KRISTIANSTAD.SE/SV/KRISTIANSTADS-KOMMUN/SPRAK/ENGLISH/ENVIRONMENT/DISTRICT-HEATING/WHAT-IS-DISTRICT-HEATING/
+
+36
+
+2.4.3 storage technologies
+
+A number of mature and emerging technologies are viable options
+for electrical energy storage. Each has benefits and drawbacks in
+terms of energy storage capacity, peak power capability, and
+response time among other variables. Therefore, each technology
+will be most viable for a particular energy storage application, such
+as peak load shaving, or local voltage control. Appendix 5 provides
+a detailed overview of the newest storage options available and
+under development for renewable energy sources.
+
+Storage with vehicle-to-grid The idea of the Vehicle-to-Grid (V2G)
+concept is based on electric cars equipped with batteries that could be
+used to make the power system more flexible, i.e. they can be charged
+during times with surplus renewable generation and can be discharged
+to supply peaking capacity or ancillary services to the power system
+while they are parked. Investment costs would be considered zero and
+the power supply to the market would be an opportunity for an
+additional income for the car owner. Most important, during peak
+times cars are often parked close to main load centres, e.g. outside
+factories, so there would be no network issues.
+
+Within the V2G concept a Virtual Power Plant would be built using
+ICT technology to aggregate the electric cars for participating in
+the relevant electricity markets and to meter the charging/de-
+charging activities. The V2G concept is probably the VPP concept
+that will include the largest number of devices, i.e. electric cars,
+easily amounting to several hundred thousand units. In addition, the
+VPP has to take into account the preference of the car owner, so
+the system has to know when each owner wants to use the car.
+
+The Danish EDISON demonstration project started 2009 to
+develop and test the infrastructure for integrating electric cars into
+the electric power system of the Danish island of Bornholm.
+
+Storage with pump storage Pumped storage can be considered a
+traditional technology because it has been in operation for more
+than 100 years. Pump storage can be compared to a normal hydro
+power station22 - it is a type of hydroelectric power generation that
+can store energy. Water is pumped from a lower elevation reservoir
+to a higher elevation during times of low-cost, off-peak electricity.
+During periods of high electrical demand, the stored water is
+released through turbines. Losses in the pumping process make the
+plant a net consumer of energy overall, however the system makes
+income by selling more electricity during periods of peak demand,
+when electricity prices are highest.
+
+Pumped storage is the largest capacity form of grid energy storage
+now available. The technology is currently the most cost-effective
+means of storing large amounts of electrical energy on an operating
+basis, but capital costs and appropriate geography are critical
+decision factors for building new infrastructure. Taking into account
+evaporation losses from the exposed water surface and conversion
+losses, approximately 70% to 85% of the electrical energy used to
+pump the water into the elevated reservoir can be regained when it
+is released. The technology has been successfully used for many
+decades all over the world. In 2007 the EU had 38. 3 GW net
+capacity of pumped storage out of a total of 140 GW of
+hydropower, representing 5% of total net electrical capacity in the
+EU (Eurostat, consulted August 2009)
+
+2
+
+s
+m
+a
+r
+t
+
+g
+r
+i
+d
+s
+
+|
+
+S
+T
+O
+R
+A
+G
+E
+
+T
+E
+C
+H
+N
+O
+L
+O
+G
+I
+E
+S
+
+image ANDASOL 1 SOLAR POWER STATION IS EUROPE’S
+FIRST COMMERCIAL PARABOLIC TROUGH SOLAR POWER
+PLANT. IT WILL SUPPLY UP TO 200,000 PEOPLE WITH
+CLIMATE-FRIENDLY ELECTRICITY AND SAVE ABOUT
+149,000 TONS OF CARBON DIOXIDE PER YEAR COMPARED
+WITH A MODERN COAL POWER PLANT.
+
+O
+D
+N
+O
+D
+E
+R
+L
+E
+K
+R
+A
+M
+P
+G
+©
+
+/
+
+Along with energy management, i.e. smart grids, pumped storage
+systems help control electrical network frequency and provide
+reserve generation. Thermal plants are much less able to respond to
+sudden changes in electrical demand, potentially causing frequency
+and voltage instability. Pumped storage plants, like other
+hydroelectric plants, can respond to load changes within seconds.
+
+2.4.4 other power system integration services
+
+Black-start In a power system with large amounts of renewable
+generation, centralised generation units will no longer be available
+to re-start the power after a black-out (called ‘black-start’ by
+system engineers). This has already become an issue in the Danish
+power system which has one of the highest wind penetration levels
+in the world. During times of high wind production only a limited
+number of conventional centralised generation units are online,
+which might not be enough to black-start the power system in an
+emergency situation.
+
+The so-called ‘Cell Project’ is investigating ‘black-start’ options and
+was initiated by the Danish TSO Energinet.dk. Within this project, the
+power system is divided into cells, each cell consisting of a 10-60kV
+distribution network. In the Danish case, there are a large number of
+wind turbines and to a lesser extent combined heat–and-power (CHP)
+units scattered all over the distribution network. The aim of the Cell
+Project is to use these local generation assets to either:
+
+• transfers the local distribution network to controlled island
+
+operation supplied by the local generators, or
+
+• after a total black-out, to use the local generators to black-start
+
+the cell to a state of controlled island operation.
+
+For this purpose, an ICT-based communication system was
+implemented in a demonstration cell in the Danish network. In
+addition, a control software, known as the cell controller, was
+developed to control and coordinate the operation of generators, load
+feeders and main power circuit breakers. The first successful tests
+were performed in November 2008.23 The project is currently
+extended to a larger cell area and more tests are scheduled for 2011.
+
+references
+22 CONVENTIONAL HYDROELECTRIC PLANTS THAT HAVE SIGNIFICANT STORAGE
+CAPACITY MAY BE ABLE TO PLAY A SIMILAR ROLE IN THE ELECTRICAL GRID AS
+PUMPED STORAGE, BY DEFERRING OUTPUT UNTIL NEEDED.
+23 HTTP://WWW.ENERGINET.DK/EN/MENU/NEWS/NEWSARTICLES/ENERGINET.DK+IN+
+FRONT+WITH+SMARTGRID+CONCEPT.HTM
+
+37
+
+[R]ENEWABLES 24/7
+INFRASTRUCTURE NEEDED TO SAVE THE CLIMATE
+
+2
+
+s
+m
+a
+r
+t
+
+g
+r
+i
+d
+s
+
+|
+
+N
+E
+W
+O
+P
+E
+R
+A
+T
+I
+O
+N
+T
+O
+O
+L
+S
+
+New operation tools The development of smart grids will create a
+whole set of new tools for the companies that operate the power
+system. New operation tools will mean operators can better
+understand the status of the power system and control will be
+faster and more sophisticated.
+
+One example is the Renewable Energies Control Centre (CECRE)
+at the Spanish system operator (see also Figure 18) which was
+commissioned in June 2006. The aim of the control centre is to give
+greater supervision and control of renewable energy generation so
+more renewable sources can be integrated to the system. CECRE’s
+main function is to manage and integrate the special regime
+production depending on the needs of the electrical system.
+
+In Spain, all renewable production facilities with a total installed
+power greater than 10 MW must be controlled by a control centre
+that is directly connected to the CECRE. These local renewable
+generation control centres (RESCCs) must have enough control
+over the plants in order to be able to execute CECRE’s orders
+within 15 minutes at all times This advanced system information
+sharing allows for a fast and reliable control of the renewable
+generation assets.
+
+In addition, the Spanish TSO has developed special computer tools
+such as GEMAS, which use the data from the control centres to
+study possible operation scenarios, power system failures in
+particular, to determine the best strategies to keep the system secure.
+
+figure 18: the Renewable Energies Control Centre (CECRE)
+
+source RED ELÉCTRICA DE ESPAÑA. WWW.REE.ES.
+
+38
+
+super grid – the interconnection of smart grids
+
+EUROPE
+
+BENEFITS OF A SUPER GRID
+SUPER GRID TRANSMISSION OPTIONS
+
+COMPARISON OF
+TRANSMISSION SOLUTIONS
+
+REGULATORY AND ENERGY POLICY
+ISSUES / POLICY RECOMMENDATIONS
+
+3
+
+3
+
+“super grids
+provide a solution to
+transfer energy over
+large distances”
+
+GREENPEACE INTERNATIONAL
+CLIMATE CAMPAIGN
+
+.
+
+K
+R
+A
+M
+N
+E
+D
+
+,
+
+G
+N
+I
+B
+O
+K
+G
+N
+I
+R
+N
+I
+Y
+G
+R
+E
+N
+E
+D
+N
+I
+W
+E
+R
+O
+H
+S
+F
+F
+O
+R
+O
+F
+
+S
+R
+O
+T
+O
+R
+D
+N
+I
+W
+G
+N
+I
+C
+U
+D
+O
+R
+P
+e
+g
+a
+m
+
+i
+
+/
+
+/
+
+P
+G
+T
+I
+N
+E
+Z
+K
+C
+O
+R
+G
+N
+A
+L
+
+L
+U
+A
+P
+©
+
+39
+
+[R]ENEWABLES 24/7
+INFRASTRUCTURE NEEDED TO SAVE THE CLIMATE
+
+3
+
+s
+u
+p
+e
+r
+
+g
+r
+i
+d
+–
+
+t
+h
+e
+
+i
+n
+t
+e
+r
+c
+o
+n
+n
+e
+c
+t
+i
+o
+n
+o
+f
+
+s
+m
+a
+r
+t
+
+g
+r
+i
+d
+s
+
+|
+
+B
+E
+N
+E
+F
+I
+T
+S
+
+O
+F
+
+A
+
+S
+U
+P
+R
+
+G
+R
+I
+D
+
+In a power system electricity demand and supply must be
+equalised at all times to keep supply flowing to where it is
+needed. To guarantee this, sufficient generation capacity must
+be available at all times and network capacity must be
+adequate and operational when needed. Adding large shares of
+–partly variable- renewable generation to a power system does
+not change this criteria. The concept of super grids provides a
+solution to transferring energy supply between areas of large
+resources and areas of large demand.
+
+The Greenpeace simulation study (Section 4) shows that in a largely
+renewables-based power system, extreme situations can occur.
+Essentially, during two successive weeks of low solar radiation and
+little wind most of the European electricity would have to be filled by
+other sources. Although these cases are not frequent, the power system
+must be adequately designed to cope with such extreme situations.
+
+Based on the current technology development of energy storage
+technologies, it is difficult to envision that energy storage could
+provide a comprehensive solution to this challenge. While different
+storage technologies such as electrochemical batteries are already
+available today, it is not clear whether large-scale electricity
+storage, other than hydro power described in the previous section,
+will become technically and economically viable.
+
+Feasible storage systems would have to cover most of the European
+electricity supply during up to two successive weeks of low solar
+radiation and little wind – this is difficult to envision based on
+current technology development. The Greenpeace simulation study
+shows (Section 4) that extreme situations with low solar radiation
+and little wind in many parts of Europe are not frequent, but they
+can occur. The power system, even with massive amounts of
+renewable energy, must be adequately designed to cope with such
+extreme situations.
+
+To design a power system that can adequately react to such
+extreme situations a substantial amount of planning ahead is
+needed in order to ensure that available generation capacity
+together with sufficient network capacity can match demand. In
+order to do so, different timescales must be considered:
+
+• Long-term system plans to assess the system adequacy over the
+coming years (typically a time horizon of 2 to 10 years ahead
+is considered).
+
+• Day-ahead planning, making sure that sufficient generation is
+
+available to match expected demand (typically 12 to 36
+hours ahead)
+
+• Short-term balancing, covering events such as a mismatch
+between forecasted generation/demand or sudden loss of
+generation (typically seconds to hours ahead planning).
+
+Small changes in the power system – such as a small addition of
+solar or wind generation to an existing power system - will have
+little impact on the overall design of the system design. The E[R]
+energy mix proposed by Greenpeace, however, results in a major
+change in the generation structure, hence the network structure
+must be adopted to the new generation structure in order to be able
+
+40
+
+to ‘keep the lights on’ even in extreme situations such as low solar
+radiation and little wind in many parts of Europe. A key element of
+this new network structure will be the onshore and offshore super
+grid, discussed in more detail in the following.
+
+3.1 benefits of a super grid
+
+From around 1920 each load centre in Europe had its own isolated
+power system. With the development of transmission lines using
+higher voltages, the transport of power over larger distances became
+feasible, and soon the different power systems were interconnected. In
+the beginning, only stations in the same region were interconnected.
+Over the years, technology developed further and maximum possible
+transmission line voltage increased step by step.
+
+The main driver of extending network structure had two main reasons:
+
+• Larger transmission networks and high voltage lines meant
+
+suppliers could follow the aggregated demand of a large number
+of customers, instead of the demand variation of one customer -
+which can change significantly over time- with one generation
+resource. The demand of those aggregated customers became
+easier to predict and generation scheduling therefore significantly
+easier (see Figure 19);
+
+• The larger transmission networks created economies of scale by
+installing larger generation units. In the 1930s, the most cost-
+effective size of thermal power stations was about 60 MW. In the
+1950s, it was 180 MW, and by the 1980s about 1,000 MW. This
+approach made only economic sense because extending the power
+system was cheaper than adding local generation capacity.
+
+This approach includes some major risks, like the break-down of a
+large power station or the interruption of a major transmission line,
+which can interrupt the power system over a large area. To be
+better prepared for such situations national transmission systems in
+Europe and elsewhere were interconnected across borders.
+Countries can help each other in case of emergency situations by
+cooperating in the organisation of spinning reserve, reserve capacity
+and frequency control.
+
+Transmission network expansion has always played a key role in
+developing a reliable and economic power supply. Now, shifting to
+the Energy [R]evolution energy mix with approximately 90% of the
+electricity supply coming from renewable energy sources will also
+require a significant redesign of the transmission network to adapt
+to the needs of the new generation structure. The right kind of grid
+gives us an economic, reliable and sustainable energy supply.
+
+In the E[R] energy mix, distributed generation that is close to the
+actual demand, plays a key role (about 70% of all generation is
+located close to the load centres). Biomass, pump storage systems as
+well as large-scale renewable power plants, such as offshore wind
+farms in the North Sea and CSP in North Africa are used to
+compensate the variations in local supply caused by the variability of
+the demand and the local renewable energy sources. In addition, the
+E[R] assumes that customers become more flexible in their demand;
+that about 20% of the local demand can be reduced for 3-4 hours by
+demand-side management and/or local storage options.
+
+image GEOTHERMAL POWER
+STATION,TUSCANY, ITALY.
+
+figure 19: customer aggregation in a power system
+
+22 kW
+
+15 kW
+
+2 Households
+
+5 Households
+
+.
+t
+s
+u
+c
+/
+d
+a
+o
+L
+
+.
+t
+s
+u
+c
+/
+d
+a
+o
+L
+
+0
+
+15 kW
+
+Time of day
+
+20 Households
+
+.
+t
+s
+u
+c
+/
+d
+a
+o
+L
+
+.
+t
+s
+u
+c
+/
+d
+a
+o
+L
+
+0
+
+15 kW
+
+Time of day
+
+100 Households
+
+0
+
+0
+
+Time of day
+
+Time of day
+
+K
+C
+O
+T
+S
+I
+/
+C
+I
+R
+D
+N
+A
+I
+L
+E
+©
+
+3
+
+s
+u
+p
+e
+r
+
+g
+r
+i
+d
+–
+
+t
+h
+e
+
+i
+n
+t
+e
+r
+c
+o
+n
+n
+e
+c
+t
+i
+o
+n
+o
+f
+
+s
+m
+a
+r
+t
+
+g
+r
+i
+d
+s
+
+|
+
+B
+E
+N
+E
+F
+I
+T
+S
+
+O
+F
+
+A
+
+S
+U
+P
+R
+
+G
+R
+I
+D
+
+In principal, oversizing local generation would reduce the need for
+large-scale renewable generation elsewhere as well as upgrading the
+transmission network.24 However, making local plants bigger
+(oversized) is less economic compared to installing large-scale
+renewable energy plants at a regional scale integrating them into
+the power system via extending the transmission system. The
+allocation of 70% distributed renewable generation and 30%
+large-scale renewable generation is not based on a detailed
+technical or economic optimisation – in each location the optimum
+mix is specific to local conditions. Further detailed studies on
+regional levels will be needed to better quantify the split between
+distributed and large-scale renewable generation.
+
+The main aim of the transmission system redesign under the E[R]
+energy mix scenario is to keep the lights on 24/7, even in extreme
+situations. Such extreme situations are, for instance:
+
+• Less than average wind production over main parts of Europe
+
+during the winter, when solar radiation is low;
+
+An appropriately designed transmission system is the solution in
+both cases as it can be used to transmit the required electricity
+from areas with surplus of generation to areas that have an
+electricity deficit.
+
+In general, the transmission system must be designed to cope with:
+
+1) Long-term issues:
+
+• Extreme variations in the availability of natural resources from
+one year to another, e.g. the output of wind turbines in any given
+area can vary by up to 30% from one year to the next, for hydro
+power the variations can be even larger.
+
+2) Medium-term issues:
+
+• Extreme combinations in the availability of natural resources,
+
+e.g. less than average wind production over main parts of Europe
+during the winter, when solar radiation is low.
+
+3) Short-term issues:
+
+• An unscheduled interruption of supply, for instance, of a major
+
+interconnection to a large offshore wind farm (n-1 criteria). The
+impact of such a sudden interruption will be within milliseconds.
+
+• Significant mismatch between forecasted wind or solar
+
+production and actual production with significant impact on
+power system operation in the range of 15 minutes to 3 hours;
+
+reference
+24 IN THIS CASE THE LOCAL POWER SYSTEM WILL EVOLVE INTO A HYBRID SYSTEM
+THAT CAN OPERATE WITHOUT ANY OUTSIDE SUPPORT.
+
+41
+
+WORKING FOR THE CLIMATE
+RENEWABLE ENERGY & THE GREEN JOB [R]EVOLUTION
+
+3
+
+s
+u
+p
+e
+r
+
+g
+r
+i
+d
+–
+
+t
+h
+e
+
+i
+n
+t
+e
+r
+c
+o
+n
+n
+e
+c
+t
+i
+o
+n
+o
+f
+
+s
+m
+a
+r
+t
+
+g
+r
+i
+d
+s
+
+|
+
+S
+U
+P
+E
+R
+
+G
+R
+I
+D
+
+T
+R
+A
+N
+S
+M
+
+I
+S
+S
+I
+O
+N
+
+O
+P
+T
+I
+O
+N
+S
+
+• Loss of a significant amount of generation due to unscheduled
+
+break-down or network interruption, impact within milliseconds.
+The mainland European power system is currently designed to
+cope with a maximum sudden loss of generation of 3000 MW.
+If this is sufficient for the future depends, for example, on the
+maximum transmission capacity of a single transmission line.
+Most likely the maximum transmission capacity of a single
+transmission line in the future HVDC super grid will exceed a
+capacity of 3000 MW, hence sufficient spare generation and/or
+network capacity must be considered when redesigning the power
+system (considered in the simulation report (Section 4) by
+loading the super grid to a maximum of 70%).
+
+Section 4 aims to determine the appropriate transmission capacity
+between key regions based on extreme combinations in the
+availability of natural resources (medium-term issues). The medium-
+term issues are most critical for the design of the transmission
+system, i.e. as long as the transmission system is appropriately
+designed to cope with the medium-term issues, it will most likely
+also be able to cope with the long-term and short-term issues. The
+model focuses on determining the transmission capacity between
+different European regions, but no power system dynamic issues
+were investigated.
+
+3.2 super grid transmission options
+
+In principle, there are different technical options for the redesign
+of the onshore transmission network. In the following, the technical
+options are briefly presented, followed by a general comparison.
+
+1200 kV AC has been tested in several test-installations and even
+short-term commercial applications but is not currently used in any
+commercial application.26 There are several challenges involved in
+building such lines and new equipment to be developed includes
+transformers, breakers, transformers, and switches.
+
+The major advantage of an AC-based system is the flexibility with
+which loads and generation along the route can be connected. This
+is especially important if the transmission route passes through a
+highly populated area and if many local generation facilities are
+located at many places along the route. The disadvantage of HVAC
+systems are the comparatively high costs for transmission of large
+capacity (> 1000 MW) over very long distances (> 1000 km) due
+to the additional equipment required for keeping the voltage level
+on the overhead lines, for instance.
+
+3.2.2 HVDC LCC
+
+The advantage of line commutated converter (LCC) based high
+voltage DC (HVDC) connections is certainly its proven track
+record. The first commercial LCC HVDC link was installed in 1954
+between the island of Gotland and the Swedish mainland. The link
+was 96 km long, 20 MW rated and used a 100 kV submarine
+cable. Since then, LCC based HVDC technology has been installed
+in many locations in the world, primarily for bulk power
+transmission over long geographical distances and for
+interconnecting power systems, e.g. the different island systems in
+Japan or New Zealand. Other well-known examples for conventional
+HVDC technology are:
+
+• HVAC (High Voltage Alternating Current);
+
+• The 1,354 km Pacific Interie DC link with a rating of 3,100 MW
+
+• HVDC LCC (High voltage direct current system using line
+
+commutated converter);
+
+• HVDC VSC (High voltage direct current system using voltage
+
+source converter);
+
+• Other technical solutions
+
+3.2.1 HVAC
+
+A high voltage AC transmission (HVAC) using overhead line has
+become a leading technology in electrical networks.25 Its advantage is
+in using transformers to increase the typical, rather low voltage at the
+generators to higher voltage levels, which is a significantly cheaper
+approach than the AC/DC converter stations for the HVDC
+technologies. Transmission over long distances with low or medium
+voltage will result in high and prohibitively expensive losses, so high
+voltage AC (400 kV or more) over medium distance (a few hundred
+kilometres) is typically the most cost-effective solution. As AC
+systems develop, there are increases in transmission voltage. Typically,
+doubling the voltage quadruples the power transfer capability.
+Consequently, the evolution of grids in most countries is characterised
+by the addition of network layers of higher and higher voltages.
+
+Today, the highest HVAC voltage used is around 800 kV for
+overhead lines. The Canadian company Hydro Quebec, for instance,
+operates a massive 735 kV transmission system using overhead
+lines, the first line was put into operation in 1965. 1000 kV and
+
+42
+
+at a DC voltage of ± 500 kV;
+
+• The Itaipu link between Brazil and Paraguay, rated at 6,300 MW
+
+at a DC voltage of ± 600 kV (2 bipoles x 3,150 MW).
+
+The total conversion efficiency from AC to DC and back to AC
+using the two converters lies in the range of 97 to 98% and
+depends on design details of the converter stations. A system design
+with a 98% efficiency will have higher investment costs compared
+to a design with lower efficiency. The advantages of an LCC HVDC
+solution are comparatively low losses – in the order of 2-3% for a
+500 MW transmission over 100 km, including losses in converters
+and transmission. In addition, the higher transmission capacity of a
+single cable compared to the HVAC transmission or the voltage
+source converter based transmission can be an advantage when
+transmitting large capacities. The disadvantage of the HVDC LCC
+design is the lack of power system support capability. Typically, a
+strong HVAC network is required on both sites of the HVDC LCC
+connection. Hence, to build an entire HVDC back-bone network
+using HVDC LCC technology that has to support the underlaying
+HVAC network is technically challenging and only possible with the
+installation of additional equipment such as Statcoms.27
+
+references
+25 HVAC CABLE SYSTEMS ARE CURRENTLY LESS ATTRACTIVE AS CABLE LOSSES ARE
+HIGHER AND TRANSMISSION CAPACITY IS LESS THAN WITH HVAC OVERHEAD LINES.
+26 IN 1986 A 1200 KV AC TRANSMISSION LINE, CONNECTING RUSSIA AND KAZAKHSTAN,
+WAS PUT INTO OPERATION. THE LINE, HOWEVER, WAS TAKEN OUT OF OPERATION IN 1996.
+27 STATCOM = STATIC SYNCHRONOUS COMPENSATOR.
+28 ALSO KNOWN AS FORCED COMMUTATED CONVERTER.
+
+image ELECTRICITY STATION PYLONS.
+
+N
+N
+A
+M
+E
+F
+A
+H
+R
+E
+D
+N
+A
+X
+E
+L
+A
+©
+
+3.2.3 HVDC VSC
+
+The voltage source converter (VSC)28 based HVDC technology is
+capturing more and more attention. This comparatively new
+technology has only become possible due to advances in high power
+electronics, namely Insulated Gate Bipolar Transistors (IGBTs).
+This way Pulse Width Modulation (PWM) can be used for the VSC
+converter, as opposed to thyristor based line-commutated converters
+used in the conventional HVDC technology.
+
+The first commercial VSC-based HVDC link was installed by ABB
+on the Swedish island of Gotland in 1999. It is 70 km long, with
+60 MVA at ± 80 kV. The link was mainly built in order to provide
+voltage support for the large amount of wind power installed in the
+South of Gotland.
+
+Today about 10 VSC-based HVDC links are in operation world-wide.
+Key projects are:
+
+• In 2000, the Murraylink was built in Australia with a length of
+almost 180 km. This connection was the longest VSC-based
+HVDC link in the world until 2009. It has a capacity of 220
+MVA at a DC voltage of ±150 kV.
+
+The total efficiency of a VSC-based HVDC system is slightly less than
+that of a LCC HVDC system, but it is expected that the efficiency will
+improve in the future due to future technical development. Also, rating
+per converter is presently limited to approximately 400-500 MW, while
+the cable rating at +/-150 kV is 600 MW. More cable and converter
+stations are required for a VSC based HVDC solution compared to a
+LCC based HVDC solution, however, manufacturers are already
+working on converter stations with higher ratings and increased cable
+ratings. The significant advantages of VSC-based HVDC solutions are
+its power system support capabilities such as independent control of
+active and reactive power. In addition, a VSC-based HVDC link does
+not require a strong AC network, it can even start up against a non-
+load network. Building up a VSC based HVDC back-bone network will
+be technically easier than using LCC based HVDC technology. However,
+Multi-terminal VSC HVDC systems are also new for the power system
+industry, so there will be a learning curve to achieve that.
+
+3.2.4 other technical solutions
+
+In principal other technical transmission solutions are possible, for
+instance, using
+
+• The Bard Offshore 1 Project BorWind in Germany connects a
+
+• Gas insulated transmission lines (GIL), or
+
+400 MW offshore wind farm to the onshore grid using a 203 km
+long cable, operating at a DC voltage of ±150 kV.
+
+• The longest HVDC VSC project is the Caprivi link in Namibia.
+
+It is 970 km long and operates at ±350 kV, which is the highest
+voltage level used so far for HVDC VSC projects, to transmit a
+capacity of 300 MW.
+
+• AC transmission systems with lower network frequency, or
+
+• Four or six-phase bipolar HVAC systems.
+
+The development of these transmission technologies is, however less
+advanced than the three technologies described in the previous
+sections. In the long-run, some of those technologies might become
+an important option when replacing overhead lines with cable
+systems (hence reduced environmental impact).
+
+3
+
+s
+u
+p
+e
+r
+
+g
+r
+i
+d
+–
+
+t
+h
+e
+
+i
+n
+t
+e
+r
+c
+o
+n
+n
+e
+c
+t
+i
+o
+n
+o
+f
+
+s
+m
+a
+r
+t
+
+g
+r
+i
+d
+s
+
+|
+
+C
+O
+M
+P
+A
+R
+I
+S
+O
+N
+
+O
+F
+
+T
+R
+A
+N
+S
+M
+
+I
+S
+S
+I
+O
+N
+
+S
+O
+L
+U
+T
+I
+O
+N
+S
+
+table 7: overview of the three main transmission solutions
+
+HVAC
+
+LCC HVDC
+
+VSC HVDC
+
+Maximum available capacity per system
+
+Voltage level
+
+Cable system:
+• 200 MW at 150 KV;
+• 350 MW at 245 KV;
+
+Overhead lines:
+• 2000 MW at 800 KV
+• 4000 MW at 1000 kV
+(under development)
+
+Cable system:
+• Up to 245 kV realistic, short
+cables up to 400 kV possible
+
+Cable system:
+• ~ 1200 MW
+
+Overhead lines:
+• 3150 MW at ± 600 kV
+• 6400 MW at ± 800 kV
+(under development)
+
+Cable system:
+• Up to ± 500 kV
+
+Overhead lines:
+• Up to 800 kV
+• 1000 kV under Development
+
+Overhead lines:
+• Up to ± 600 kV
+• ± 800 kV under development
+
+Transmission capacity distance depending?
+
+Yes
+
+Total system losses
+
+Distance depending
+
+Black start capability
+
+Technical capability for network support
+
+Space requirements for substation.
+
+(Yes)
+
+Limited
+
+Small
+
+No
+
+2 - 3%
+
+No
+
+Limited
+
+Depending on capacity.
+Converter larger than VSC.
+
+source ENERGYNAUTICS
+
+Cable/Overhead:
+• 400 MW
+• 500 - 800 MW announced
+
+Cable:Up to ± 150 kV, higher
+voltages announced
+
+Overhead lines:Up to ± 350 kV
+
+No
+
+5 – 10%
+
+Yes
+
+Large range of possibilities.
+
+Depending on capacity. Converter
+smaller than LCC but larger than
+HVAC substation.
+
+43
+
+[R]ENEWABLES 24/7
+INFRASTRUCTURE NEEDED TO SAVE THE CLIMATE
+
+3
+
+k
+e
+y
+
+r
+e
+s
+u
+l
+t
+s
+
+|
+
+G
+L
+O
+B
+A
+L
+
+3.3 comparison of transmission solutions
+
+Table 7 compares the three standard transmission solutions. The
+technical capabilities of each system can probably be improved by
+adding additional equipment to the overall system solution.
+
+The cost of transmitting electricity is dominated by the investment
+cost of the transmission lines and by the electricity losses during
+transmission. At present, overhead lines are predominant since costs
+of overhead lines are about 20% of that for underground cables.
+The transmission losses of HVAC overhead lines are roughly twice
+as high as those of HVDC. On the one hand, the cost of overhead
+lines is similar for the lower voltage level, but at 800 kV HVDC
+lines are much less expensive than comparable AC lines. On the
+other hand, AC/DC converter stations for HVDC technology are
+considerably more expensive than the transformer stations of AC
+systems. Therefore, for shorter distances and lower voltages AC is
+typically the most economic solution, while HVDC lines are applied
+at distances well over 500 km (see Figure 20).
+
+The most economic system design is typically a combination of
+HVAC and HVDC technology. HVAC is a cost-effective and flexible
+solution over medium distances (up to 1000 km), for instance to
+distribute power along the route to different load centres or to
+collect locally distributed generation and transmit the surplus
+electricity to other regions. HVDC technology can be used as an
+overlaying network structure to transmit bulk power, i.e. large
+capacity, over long distances to the areas where the energy is
+needed. An HVDC super grid will have only a very limited number
+of connection points, because the substation (converter station)
+costs are significant.
+
+In addition, an HVAC solution will require significantly more lines
+than HVDC solutions. The transmission of 10,000 MW or 10 GW, for
+
+instance, can be achieved with two lines using 800 kV and applying
+LCC HVDC technology, while transmitting the same power with 800
+kV AC would require five lines. For a given transmission capacity of
+10 GW, the space requirement of HVDC overhead lines can be four
+times lower than that of HVAC lines (Figure 21). While an 800 kV
+HVAC line would require a width of 425 metres over the total length
+of a power link of 10 GW, a HVDC line of the same capacity would
+only require a band of 100 metres width. This leads to considerable
+differences in the environmental impact of both technologies.
+
+A final advantage of using HVDC technology is that it is easier to
+move the entire HVDC super grid underground by using HVDC
+cables. This approach will be more costly, but following existing
+transporting routes, e.g. laying the cables along motorways, railway
+tracks or even in rivers will allow a fast roll-out of the HVDC super
+grid infrastructure and reduce the visual impact of the installation.
+
+3.4 regulatory and energy policy issues / policy
+recommendations
+
+The planning, design, realisation and operation of a European super
+grid requires a European-wide effort with close coordination between
+the various connected power systems. In addition, the onshore super
+grid must be coordinated with the development of the offshore super
+grid as well as the developments in North Africa and the ongoing
+electricity market harmonisation in Europe. To quickly achieve and
+develop this infrastructure, a European-wide regulatory authority is
+required to moderate between and coordinate the different European
+transmission system operators (TSOs), national governments as well
+the different electricity markets. The regulatory authority must also
+develop economic incentives so that the electricity industry
+undertakes the relevant investments in the upgrade of the HVAC
+system and the construction of the HVDC super grid.
+
+figure 20: comparison of AC and DC investment costs using
+overhead lines. BREAK EVEN POINT IS TYPICALLY BETWEEN 500 TO 1000 KM.
+
+total AC cost
+
+total DC cost
+
+DC line cost
+
+DC terminal cost
+
+break even distance
+
+500-1,000 km
+
+t
+s
+o
+c
+
+t
+n
+e
+m
+t
+s
+e
+v
+n
+I
+
+AC line cost
+
+AC terminal
+cost
+
+Distance
+
+44
+
+figure 21: comparison of the required number of parallel
+pylons and space to transfer 10 GW of electric capacity
+
+y
+n
+a
+p
+m
+o
+C
+n
+o
+i
+t
+u
+b
+i
+r
+t
+s
+i
+D
+
+y
+n
+a
+p
+m
+o
+C
+n
+o
+i
+t
+u
+b
+i
+r
+t
+s
+i
+D
+
+y
+n
+a
+p
+m
+o
+C
+n
+o
+i
+t
+u
+b
+i
+r
+t
+s
+i
+D
+
+y
+n
+a
+p
+m
+o
+C
+n
+o
+i
+t
+u
+b
+i
+r
+t
+s
+i
+D
+
+y
+n
+a
+p
+m
+o
+C
+n
+o
+i
+t
+u
+b
+i
+r
+t
+s
+i
+D
+
+800 kV AC
+
+y
+n
+a
+p
+m
+o
+C
+n
+o
+i
+t
+u
+b
+i
+r
+t
+s
+i
+D
+
+y
+n
+a
+p
+m
+o
+C
+n
+o
+i
+t
+u
+b
+i
+r
+t
+s
+i
+D
+
+y
+n
+a
+p
+m
+o
+C
+n
+o
+i
+t
+u
+b
+i
+r
+t
+s
+i
+D
+
+600 kV HVDC
+
+y
+n
+a
+p
+m
+o
+C
+n
+o
+i
+t
+u
+b
+i
+r
+t
+s
+i
+D
+
+y
+n
+a
+p
+m
+o
+C
+n
+o
+i
+t
+u
+b
+i
+r
+t
+s
+i
+D
+
+800 kV HVDC
+
+425 m
+
+150 m
+
+100 m
+
+super grid: simulation of the energy [r]evolution for europe
+
+EUROPE
+
+GRID MODEL
+APPROACH
+
+EXTREME EVENTS
+ADDITIONAL SIMULATIONS
+WITH REDUCED PV
+
+SUPER GRID PROPOSAL
+ESTIMATION OF COSTS
+LITERATURE
+
+P4
+
+N
+E
+D
+S
+E
+R
+D
+R
+A
+E
+N
+N
+E
+D
+E
+O
+R
+G
+N
+I
+”
+S
+A
+G
+O
+I
+B
+N
+E
+D
+A
+R
+H
+C
+S
+“
+Y
+T
+I
+L
+I
+C
+A
+F
+
+Y
+N
+A
+M
+R
+E
+G
+
+,
+
+.
+
+/
+
+“we know that
+there are enough
+resources to power
+the whole continent
+with renewables.”
+
+/
+
+G
+T
+I
+N
+E
+Z
+K
+C
+O
+R
+G
+N
+A
+L
+©
+
+S
+A
+G
+O
+I
+B
+e
+g
+a
+m
+
+i
+
+GREENPEACE INTERNATIONAL
+CLIMATE CAMPAIGN
+
+45
+
+In 2006, water levels in the water reservoirs were rather low (see
+Figure 22). In addition, in August 2006 three out of ten Swedish
+nuclear reactors were shut down due to safety concerns following an
+incident at Forsmark Nuclear Power Plant. Another reactor in
+Forsmark and a fifth at Ringhals nuclear power plant were offline due
+to planned maintenance work. Hence suddenly five of the ten Swedish
+reactors were not in operation (about 5100 MW out of 8961 MW of
+nuclear generation capacity), reducing the Swedish generation
+capacity significantly (nuclear power typically generates between 45 to
+50% of the Swedish demand). Because the levels in the water
+reservoirs were also very low, Swedish electricity security of supply
+relied heavily on foreign imports, a situation which continued for
+almost two months until the safety concerns were removed.
+
+But also fast demand changes can be a challenge for a power system.
+For instance, the first game of the Brazil national soccer team at the
+2006 FIFA World Champion Cup caused a major drop in electricity
+demand because all industrial activities went to a virtual standstill.
+After the game, the demand increased rapidly, from approximately
+43.5 GW nation-wide to 55 GW in 15 minutes (11.5 GW in 15
+minutes). Even though these are extreme cases, the power system
+must be designed to cope with such events. This document describes
+the model as well as its basic assumptions and data, which have been
+derived from different sources. The results identify the necessary
+actions to strengthen the existing interconnections.
+
+4.1.1 summary of results
+
+To evaluate the frequency of occurrences of extreme events, the study
+analysed the wind data of the last 30 years for all Europe. As
+simulations showed, the extreme events can be expected during winter
+time, when electricity demand is high and solar production low.
+
+During the last 30 years, the potential power production from
+wind during winter time throughout Europe in the Energy
+[R]evolution scenario would have only dropped below 50GW
+0.4% of the time, equivalent to once a year if the average
+duration of the event is 12 hours.
+
+This study selected key ‘extreme events’, with regard to balance of
+wind and solar power production on the one hand, and high demand
+on the other hand, and created a model of power supply based on
+the E[R] energy mix. The results were:
+
+• In an extreme summer event of high demand and extremely low
+wind (as in August 2003), the available power from locally
+distributed PV is enough to compensate for the lack of wind
+power; therefore no change to the existing grid would be needed
+under a renewable energy scenario.
+
+4
+
+s
+u
+p
+e
+r
+
+g
+r
+i
+d
+
+:
+
+s
+i
+m
+u
+l
+a
+t
+i
+o
+n
+o
+f
+
+t
+h
+e
+
+e
+n
+e
+r
+g
+y
+
+[
+r
+]
+e
+v
+o
+l
+u
+t
+i
+o
+n
+f
+o
+r
+
+e
+u
+r
+o
+p
+e
+
+|
+
+I
+N
+T
+R
+O
+D
+U
+C
+T
+I
+O
+N
+
+The following case study looks at extreme weather events to
+work out what kind of grid technology is needed to achieve a
+secure power supply based on the Energy [R]evolution energy
+mix in Europe. Technically, we know that there are enough
+resources to power the whole continent with renewables –
+solar in the Southern nations, wind in the North, and
+geothermal, biomass, and combined heat and power making up
+the bulk of the energy needed. Smart grids will connect
+distributed energy sources and consumers with the forward-
+looking use of information and communications technology,
+virtual power plants, and control technology that helps the
+system to follow the load. The technical design aspects needs to
+account for the rare events when weather-based renewable
+energy in certain geographic areas drops below the supply
+capacity needed. Interconnections of smart grid systems will
+add up to a ‘super grid’ which provides more transport capacity
+for large-scale renewables such as offshore wind and
+concentrated solar power stations.
+
+4.1 introduction
+
+Extreme situations in power systems can happen for a variety of
+reasons, independent of the actual power generation resources or
+the power system design.
+
+The Swedish power system, for instance, is based on hydro and
+nuclear power generation. Hydro power generation depends mainly
+on the water inflow into the water reservoirs. The inflow in a dry
+year can be 40% lower than in a wet year, causing significant
+changes in hydro power generation from one year to another,
+see also Figure 22.
+
+figure 22: storage levels in the regulating reservoirs
+
+%
+
+100
+
+80
+
+60
+
+40
+
+20
+
+0
+
+jan feb mar apr may jun july aug sep oct nov dec
+
+• MAX/MIN 1950-2005
+• 2006• AVERAGE
+
+source HTTP://WWW.SVENSKENERGI.SE/UPLOAD/OM%20EL/EL%C3%A5RET/FILER/
+ELARET%202006_ENGLISH.PDF, PAGE 18.
+
+46
+
+image CONSTRUCTING WINDTURBINES IN
+HÉTOMESNIL, PICARDIE, FRANCE.
+
+S
+K
+R
+O
+W
+R
+E
+W
+O
+P
+D
+N
+I
+W
+
+/
+
+C
+E
+W
+G
+©
+
+• In an extreme winter event of high demand, low solar power
+
+4.1.3 assumptions
+
+production in most parts of Europe due to low solar radiation
+combined with low wind power production in Central and
+Northern Europe (as in January 1997), Central-Europe and
+Great Britain have a higher demand than they can supply
+whereas North and South of Europe have higher productions
+than demand. In this situation electricity has to be transported
+from Northern Europe (mainly hydro power) and from Southern-
+Europe (mainly solar power) to Central-Europe. For this to be
+achieved by renewable energy, the interconnections between Spain
+and France, Italy and France, Romania and Poland, Sweden and
+Poland, and Ireland and Great Britain have to be strengthened
+(see Figure 45) and a super grid must be built (Figure 48).
+
+• In an extreme autumn event (as in November 1987) with very
+
+low sun radiation and low wind production, the reinforcement of
+the HVAC grid as well as the installation of the super grid as
+proposed would be sufficient to also cope with this event.
+
+4.1.2 recommendations for grid improvements
+
+To be able to provide reliable, secure power supply to Europe,
+taking into account extreme weather and high demand scenarios,
+this study proposes:
+
+• Strengthening 34 HVAC interconnections between neighbouring
+
+countries in Europe: 5,347 km of upgrades at a cost of
+approximately 3 billion.
+
+• 17 new or strengthened HVDC interconnections within Europe :
+5, 125 km of upgrades at a cost of approximately €16 billion
+(see Figure 45).
+
+• Up to15 new HVDC ‘super grid’ connections,
+
+- Within Europe: up to 11 connections with a total of up to
+6,000 km at a cost approximately €100 billion
+
+- Between Europe and Africa: The capacity of interconnections
+needed depends largely on the amount of imported CSP
+electricity and on the availability of storage capacity within
+Europe. Without further optimisation and storage capacity, 4
+HVDC connections with a total length of 5,500 to 6,000 km at a
+cost of approximately €90 billion
+
+All together the proposal would cost around €209 billion or
+€5.225 billion per year till 2050. Assuming the level of electricity
+consumption in Greenpeace’s Energy [R]evolution, this would
+increase costs of every kWh by 0.15 cent over 40 years. However,
+the real costs for the required grid need further research, especially
+the availability of storage capacity within Europe, e.g. from electric
+vehicles. To exploit further optimisation potential in the energy
+generation mix can significantly reduce grid expansion costs and
+could reduce the links needed between North Africa and Europe.
+
+The study is based on a given E[R] energy mix provided by
+Greenpeace and doesn’t look at economic optimisation between
+local and large-scale generation. It was assumed that High
+Voltage Direct Current (HVDC) technology was used for the
+transmission over long distance and HVAC for medium distances
+(outlined in Section 3).
+
+The simulation is a first indication of the possible design and costs
+of the required transmission network redesign, but further studies
+will be required to identify the economic optimal design. We did not
+look at overall economic optimisation between upgrading the
+existing HVAC system and building a new HVDC system.
+
+Greenpeace and energynautics recommend further research to
+optimise this concept economically and technically via the use of
+advanced storage technologies or slight changes in the energy mix.
+
+The simulation study focuses on the redesign of the onshore grid.
+The offshore super grid connecting the offshore wind farms in the
+North Sea using HVDC technology is based on the results of the
+Greenpeace report ‘A-North-Sea-electricity-grid-(r)evolution’.29
+
+4.2 grid model
+
+The model to do the load flow calculations has been built in
+DIgSILENT PowerFactory. It is a simplification of the European
+power system and comprises Central, East and Southern Europe
+(UCTE) as well as Scandinavia (Nordel), Britain (UKTSOA), and
+Ireland (ATSOI). The following figure shows the map of the grid
+model for Europe and represents the situation today.
+
+4
+
+s
+u
+p
+e
+r
+
+g
+r
+i
+d
+
+:
+
+s
+i
+m
+u
+l
+a
+t
+i
+o
+n
+o
+f
+
+t
+h
+e
+
+e
+n
+e
+r
+g
+y
+
+[
+r
+]
+e
+v
+o
+l
+u
+t
+i
+o
+n
+f
+o
+r
+
+e
+u
+r
+o
+p
+e
+
+|
+
+G
+R
+I
+D
+M
+O
+D
+E
+L
+
+reference
+29 SOURCE: HTTP://WWW.GREENPEACE.ORG/RAW/CONTENT/EU-UNIT/PRESS-
+CENTRE/REPORTS/A-NORTH-SEA-ELECTRICITY-GRID-%28R%29EVOLUTION.PDF,
+A SUMMARY OF DIFFERENT PROPOSALS FOR THE OFFSHORE SUPER GRID IS GIVEN IN
+THE EWEA REPORT: “OCEANS OF OPPORTUNITIES” AVAILABLE AT:
+HTTP://WWW.EWEA.ORG/FILEADMIN/EWEA_DOCUMENTS/DOCUMENTS/PUBLICATIONS/RE
+PORTS/OFFSHORE_REPORT_2009.PDF
+
+47
+
+LEGEND
+
+HIGH VOLTAGE
+AC-LINE
+
+HIGH VOLTAGE
+DC-LINE
+
+[R]ENEWABLES 24/7
+INFRASTRUCTURE NEEDED TO SAVE THE CLIMATE
+
+figure 23: map of the high voltage network of europe with the overlaying
+simplification of the european power system
+
+4
+
+s
+u
+p
+e
+r
+
+g
+r
+i
+d
+
+:
+
+s
+i
+m
+u
+l
+a
+t
+i
+o
+n
+o
+f
+
+t
+h
+e
+
+e
+n
+e
+r
+g
+y
+
+[
+r
+]
+e
+v
+o
+l
+u
+t
+i
+o
+n
+f
+o
+r
+
+e
+u
+r
+o
+p
+e
+
+|
+
+G
+R
+I
+D
+M
+O
+D
+E
+L
+
+source UCTE, NORDEL & ENERGYNAUTICS
+
+48
+
+image GREENPEACE DONATES A SOLAR
+POWER SYSTEM TO A COASTAL VILLAGE
+IN ACEH, INDONESIA, ONE OF THE WORST
+HIT AREAS BY THE TSUNAMI IN
+DECEMBER 2004.
+
+K
+A
+T
+N
+U
+J
+N
+A
+M
+I
+S
+P
+G
+©
+A
+
+/
+
+4
+
+s
+u
+p
+e
+r
+
+g
+r
+i
+d
+
+:
+
+s
+i
+m
+u
+l
+a
+t
+i
+o
+n
+o
+f
+
+t
+h
+e
+
+e
+n
+e
+r
+g
+y
+
+[
+r
+]
+e
+v
+o
+l
+u
+t
+i
+o
+n
+f
+o
+r
+
+e
+u
+r
+o
+p
+e
+
+|
+
+M
+O
+D
+E
+L
+L
+I
+N
+G
+
+G
+E
+N
+E
+R
+A
+T
+I
+O
+N
+
+4.2.1 modelling generation
+
+The generation scenario is based on the energy mix presented by
+Greenpeace in the Energy [R]evolution30 report. However, this
+report does not show how the different energy resources are
+allocated to each region or country within Europe. Energy
+[R]evolution reports have been available individually for some
+countries. This has been taken into account when distributing the
+renewable resources within Europe.
+
+A detailed split up of different renewable sources within Europe
+can be found in the MED-CSP31 study conducted by the German
+Aerospace Centre (DLR). However, this study is much more focused
+
+on concentrating solar power (CSP), whereas in the E[R] scenario
+photovoltaics play a major role. Thus, the MED-CSP scenario has
+been scaled to match the figures provided in the E[R] report.
+Further adjustment has been carried out by including the results of
+the TradeWind32 study as well as performing a reasonability check
+(e.g., the share of solar power has been reduced in Scandinavia and
+increased in the Mediterranean area).
+
+The following table gives an overview over the resources in each
+country as it was used for this study.
+
+In the following sections, each resource will be described in detail.
+
+table 8: installed capacity and maximum demand (both in GW) based on E[R] scenario for 2050
+
+COUNTRY
+
+WIND
+
+PHOTOVOLTAICS
+
+GEOTHERMAL
+
+BIOMASS
+
+CSP PLANTS
+
+WAVE/TIDAL
+
+HYDROPOWER
+
+GAS
+
+COAL
+
+TOTAL
+
+MAX DEMAND
+
+Europe
+Slovenia
+
+Ireland
+
+Greece
+
+Finland
+
+Netherlands
+
+378.1
+0.9
+
+6.2
+
+12.5
+
+6.5
+
+8.5
+
+United Kingdom
+
+53.6
+
+Denmark
+
+Slovak Republic
+
+Czech Republic
+
+Portugal
+
+Hungary
+
+Bulgaria
+
+Belgium
+
+Poland
+
+Romania
+
+Austria
+
+Italy
+
+Germany
+
+France
+
+Spain
+
+Sweden
+
+Macedonia
+
+6.3
+
+0.6
+
+1.9
+
+9.0
+
+2.4
+
+1.6
+
+5.7
+
+40.8
+
+4.0
+
+2.3
+
+18.0
+
+62.1
+
+49.7
+
+45.3
+
+21.0
+
+0.0
+
+Serbia & Montenegro
+
+0.5
+
+Bosnia-Herzegovina
+
+Croatia
+
+Switzerland
+
+Norway
+
+0.0
+
+5.6
+
+1.1
+
+12.0
+
+source GREENPEACE
+
+383.3
+4.0
+
+38.5
+0.1
+
+115.7
+0.7
+
+31.0
+0.0
+
+10.0
+
+16.1
+
+3.0
+
+6.5
+
+36.3
+
+5.5
+
+7.0
+
+7.0
+
+12.0
+
+7.3
+
+11.0
+
+5.0
+
+29.0
+
+11.0
+
+10.9
+
+40.0
+
+50.0
+
+40.0
+
+49.5
+
+7.0
+
+2.1
+
+3.2
+
+2.1
+
+2.9
+
+3.7
+
+1.3
+
+0.0
+
+1.7
+
+0.0
+
+0.4
+
+0.1
+
+0.0
+
+0.9
+
+0.0
+
+1.6
+
+5.3
+
+0.2
+
+0.0
+
+0.5
+
+0.2
+
+1.1
+
+6.8
+
+8.2
+
+4.1
+
+6.6
+
+0.4
+
+0.0
+
+0.4
+
+0.0
+
+0.1
+
+0.0
+
+0.0
+
+1.4
+
+0.8
+
+4.0
+
+2.9
+
+7.1
+
+1.4
+
+1.2
+
+2.1
+
+2.6
+
+1.2
+
+1.0
+
+2.2
+
+10.4
+
+5.5
+
+2.8
+
+11.0
+
+21.8
+
+6.3
+
+12.0
+
+11.5
+
+0.3
+
+1.4
+
+0.9
+
+1.0
+
+0.8
+
+1.4
+
+0.0
+
+2.3
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+2.9
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+13.0
+
+0.0
+
+0.0
+
+12.8
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+27.3
+0.0
+
+0.8
+
+0.8
+
+0.4
+
+0.2
+
+12.5
+
+0.5
+
+0.0
+
+0.0
+
+1.5
+
+0.0
+
+0.0
+
+0.0
+
+0.2
+
+0.0
+
+0.0
+
+2.0
+
+1.5
+
+2.5
+
+2.7
+
+0.4
+
+0.0
+
+0.3
+
+0.0
+
+0.4
+
+0.0
+
+0.6
+
+190.8
+1.4
+
+113.8
+0.0
+
+0.5
+
+2.8
+
+3.4
+
+0.0
+
+3.9
+
+0.0
+
+2.6
+
+2.2
+
+5.6
+
+0.0
+
+2.9
+
+0.1
+
+1.0
+
+5.3
+
+11.7
+
+21.0
+
+6.5
+
+29.4
+
+19.0
+
+16.4
+
+1.0
+
+5.0
+
+3.9
+
+2.5
+
+13.2
+
+29.3
+
+1.8
+
+1.0
+
+3.3
+
+6.6
+
+22.0
+
+3.8
+
+0.9
+
+1.2
+
+1.7
+
+0.9
+
+1.5
+
+1.4
+
+2.3
+
+5.9
+
+0.7
+
+11.0
+
+15.1
+
+15.6
+
+5.7
+
+2.8
+
+0.7
+
+4.6
+
+0.3
+
+0.8
+
+0.0
+
+2.4
+
+3.6
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.1
+
+0.3
+
+0.1
+
+0.0
+
+0.1
+
+0.0
+
+0.0
+
+0.0
+
+0.1
+
+0.2
+
+0.0
+
+0.0
+
+0.0
+
+0.7
+
+0.3
+
+0.1
+
+0.0
+
+0.6
+
+1.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+references
+30 HTTP://WWW.ENERGYBLUEPRINT.INFO/
+31 HTTP://WWW.DLR.DE/TT/MED-CSP
+32 HTTP://WWW.TRADE-WIND.EU/
+
+1282.2
+
+545.1
+
+7.2
+
+20.8
+
+38.0
+
+20.6
+
+25.2
+
+135.8
+
+17.5
+
+13.2
+
+14.5
+
+36.9
+
+17.0
+
+18.2
+
+14.5
+
+84.4
+
+31.9
+
+29.4
+
+122.9
+
+165.9
+
+147.9
+
+153.6
+
+59.4
+
+4.8
+
+16.4
+
+7.2
+
+13.2
+
+18.8
+
+47.1
+
+2.2
+
+4.8
+
+9.8
+
+13.8
+
+17.8
+
+59.2
+
+6.4
+
+4.4
+
+10.0
+
+9.1
+
+6.5
+
+6.8
+
+13.8
+
+22.6
+
+8.7
+
+9.3
+
+55.9
+
+82.8
+
+87.9
+
+43.4
+
+24.5
+
+1.6
+
+7.2
+
+2.0
+
+3.0
+
+10.0
+
+21.6
+
+49
+
+[R]ENEWABLES 24/7
+INFRASTRUCTURE NEEDED TO SAVE THE CLIMATE
+
+wind power
+
+geothermal
+
+4
+
+s
+u
+p
+e
+r
+
+g
+r
+i
+d
+
+:
+
+s
+i
+m
+u
+l
+a
+t
+i
+o
+n
+o
+f
+
+t
+h
+e
+
+e
+n
+e
+r
+g
+y
+
+[
+r
+]
+e
+v
+o
+l
+u
+t
+i
+o
+n
+f
+o
+r
+
+e
+u
+r
+o
+p
+e
+
+|
+
+M
+O
+D
+E
+L
+L
+I
+N
+G
+
+G
+E
+N
+E
+R
+A
+T
+I
+O
+N
+
+Besides PV, wind power has the highest share of installed capacity
+within this study and by far the highest share of energy produced,
+thus wind power plays a major role in the scenario.
+
+To determine the amount of wind power produced during the time
+frame of investigated scenarios, the approach described in the
+TradeWind study has applied. For each region the wind speed is
+taken from the reanalysis data source from the National Centre for
+Environmental Prediction (NCEP).33
+
+Figure 24 shows the wind speed from the reanalysis source
+in comparison to the measured site data. A good match can
+be observed.
+
+The wind speed has to be further processed to calculate the
+relevant power output of all wind turbines within each region.
+This is done according to the equivalent regional power curves in
+Figure 25.
+
+photovoltaics (PV)
+
+PV has along with wind power the highest share of installed
+capacity in Europe. However, due to its production characteristic,
+i.e., no production at night, partial production in the morning and
+evening, the amount of energy produced is only one third of the
+energy generated by wind power.
+
+Due to its highly fluctuating characteristics, it is important to have
+a higher sampling rate than wind power. Although NCEP-2
+reanalysis data provide solar data, the time resolution is with 6
+hour values not sufficient. A better data set is provided by S@tel-
+Light.34 This source provides half hour values for all over Europe.
+However, it is limited to the years 1996 to 2000.
+
+Geothermal power does not have the highest share of capacity due
+to limited resources in Europe. Typically, geothermal power plants
+always run at full load, because there is no heat storage included
+(like CSP) or fuel to be saved (like Biomass). To account for
+maintenance work and failures in geothermal power plants,
+the power output is set to 90% of rated capacity.
+
+concentrating solar power (CSP)
+
+CSP plays an important role within this study, as it is to a certain
+extent a controllable source, due to its heat storage. The calculation
+of the available power is done according to the approach described
+for PV, but taking only direct sunlight into account. In addition to the
+installed capacity within Europe, another 60 GW will be installed in
+North Africa for power export to Europe via HVDC lines.
+
+ocean energy
+
+Wave and tidal power has only a small share within the E[R]
+scenario, thus a detailed analysis of the prevailing waves or tides
+during the time frame of the event has not been carried out. Instead
+a typical mean value of 30% of the installed capacity is taken.
+
+hydropower
+
+Hydropower has to be divided into power plants with and without a
+reservoir. Run-of-river power plants typically do not have a capacity
+for energy storage and are therefore not controllable; whereas
+those with reservoir can be considered controllable. The power
+output of run-of-river power plants can vary; depending on the
+region, the river has either more water in summer due to melting
+snow (e.g. the Alps) or less in summer, especially when it is a dry
+summer and there is no rainfall (e.g. Spain).
+
+figure 24: comparison of NCEP-2 reanalysis data
+and site data, 19th and 20th january, 2004.
+
+figure 25: equivalent regional power curve
+
+)
+s
+/
+m
+
+(
+
+d
+e
+e
+p
+s
+
+d
+n
+i
+W
+
+20
+
+15
+
+10
+
+5
+
+0
+
+]
+d
+e
+t
+a
+r
+
+f
+o
+%
+
+[
+
+r
+e
+w
+o
+P
+
+100
+
+90
+
+80
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+00:00
+
+06:00
+
+12:00
+
+18:00
+
+00:00
+
+06:00
+
+12:00
+
+0
+
+2
+
+4
+
+6
+
+8 10 12 14 16 18 20 22 24 26 28 30
+
+19 January 2004
+
+20 January 2004
+
+Wind speed [m/s]
+
+Time of day
+
+• SITE DATA
+• REANALYSIS DATA POINTS
+• LINEAR INTERPOLATION
+
+source TRADEWIND
+
+50
+
+source TRADEWIND
+
+references
+33 NCEP-2 REANALYSIS DATA PROVIDED BY NOAA/OAR/ESRL PSD, BOULDER, COLORADO,
+USA, HTTP://WWW.CDC.NOAA.GOV
+34 HTTP://WWW.SATELLIGHT.COM
+
+image WORKERS EXAMINE PARABOLIC TROUGH
+COLLECTORS IN THE PS10 CONCENTRATING SOLAR TOWER
+PLANT. EACH TROUGH HAS A LENGTH OF 150 METERS AND
+CONCENTRATES SOLAR RADIATION INTO A HEAT-
+ABSORBING PIPE IN WHICH A HEAT-BEARING FLUID
+FLOWS THAT IS THEN USED TO HEAT STEAM IN A
+STANDARD TURBINE GENERATOR.
+
+biomass
+
+natural gas
+
+Biomass can be considered as power on demand, therefore it plays
+an important role in the study. These power plants are applicable
+almost all over Europe, as the following map shows. The availability
+of biomass power plants has been taken into account with a
+share of 95%.
+
+Gas power plants can be used for control purposes. In the study,
+the non renewable plants are strategically placed where there is a
+high demand and low amount of renewable sources. These plants
+are only used as backup system in times when the amount of
+renewable power production is too low.
+
+LEGEND (DATA 2007)
+
+• HIGHLY SUITABLE
+• MODERATELY SUITABLE
+• MARGINALLY SUITABLE
+• UN SUITABLE
+• OUTSIDE DATA COVERAGE
+
+figure 26: biomass potential in europe
+
+-30°
+
+-20°
+
+-10°
+
+0°
+
+10°
+
+20°
+
+30°
+
+40°
+
+50°
+
+60°
+
+60°
+
+50°
+
+40°
+
+60°
+
+50°
+
+40°
+
+/
+
+P
+G
+O
+D
+N
+O
+D
+E
+R
+L
+E
+K
+R
+A
+M
+©
+
+4
+
+s
+u
+p
+e
+r
+
+g
+r
+i
+d
+
+:
+
+s
+i
+m
+u
+l
+a
+t
+i
+o
+n
+o
+f
+
+t
+h
+e
+
+e
+n
+e
+r
+g
+y
+
+[
+r
+]
+e
+v
+o
+l
+u
+t
+i
+o
+n
+f
+o
+r
+
+e
+u
+r
+o
+p
+e
+
+|
+
+B
+I
+O
+M
+A
+S
+S
+
+/
+
+N
+A
+T
+U
+R
+A
+L
+
+G
+A
+S
+
+0
+
+5
+
+00
+
+1 000
+
+0°
+
+1 500  Km
+10°
+
+20°
+
+30°
+
+source EUROPEAN ENVIRONMENT AGENCY - 200835
+
+reference
+35 HTTP://WWW.EEA.EUROPA.EU/
+
+51
+
+[R]ENEWABLES 24/7
+INFRASTRUCTURE NEEDED TO SAVE THE CLIMATE
+
+4.2.2 modelling demand
+
+figure 27: vertical load in germany on 7 june 2009
+
+According to the E[R] report, the energy demand in 2050 within
+Europe will not increase in comparison to today’s demand, due to
+higher efficiency in energy use required to keep greenhouse gas
+emissions stable. In the model, the power demand of today is used as
+input. To determine the amount of power demand of each country, the
+so called ‘vertical load’ is taken. The European Network of
+Transmission System Operators for Electricity (entso-e36) provides
+hourly values of the vertical load in each country (Figure 27).
+
+To further allocate the load to each node within the model, the
+population density is taken. According to Zhou and Bialek37 there is a
+good correlation between consumption and population density, as in most
+cases a high population is where there is employment and thus industry.
+
+The population density can be found in the statistics database of
+the European Commission (Eurostat38). The following map shows
+the population density within Europe.
+
+As it is expected that there will be higher use of demand-side
+management and local storage (see smart grid report) in the future
+power system with high amounts of fluctuating sources, this is
+taken into account by adapting the load to a certain extent to the
+available power production.
+
+W
+M
+
+36,000
+
+34,000
+
+32,000
+
+30,000
+
+28,000
+
+26,000
+
+24,000
+
+22,000
+
+20,000
+
+0
+0
+:
+1
+
+0
+0
+:
+2
+
+0
+0
+:
+3
+
+0
+0
+:
+4
+
+0
+0
+:
+5
+
+0
+0
+:
+6
+
+0
+0
+:
+7
+
+0
+0
+:
+8
+
+0
+0
+:
+9
+
+0
+0
+:
+0
+1
+
+0
+0
+:
+1
+1
+
+0
+0
+:
+2
+1
+
+0
+0
+:
+3
+1
+
+0
+0
+:
+4
+1
+
+0
+0
+:
+5
+1
+
+0
+0
+:
+6
+1
+
+0
+0
+:
+7
+1
+
+0
+0
+:
+8
+1
+
+0
+0
+:
+9
+1
+
+0
+0
+:
+0
+2
+
+0
+0
+:
+1
+2
+
+0
+0
+:
+2
+2
+
+0
+0
+:
+3
+2
+
+0
+0
+:
+0
+0
+
+Time of day
+
+• D-1 FORECAST (MW)
+• REALISED LOAD (MW)
+
+source ENTSO-E
+
+figure 28: map of the population density by regions in 2007 INHABITENTS PER KM2
+
+4
+
+s
+u
+p
+e
+r
+
+g
+r
+i
+d
+
+:
+
+s
+i
+m
+u
+l
+a
+t
+i
+o
+n
+o
+f
+
+t
+h
+e
+
+e
+n
+e
+r
+g
+y
+
+[
+r
+]
+e
+v
+o
+l
+u
+t
+i
+o
+n
+f
+o
+r
+
+e
+u
+r
+o
+p
+e
+
+|
+
+M
+O
+D
+E
+L
+L
+I
+N
+G
+
+D
+E
+M
+A
+N
+D
+
+LEGEND (DATA 2007)
+
+• 2.5 - 50.0
+• 50.0 - 100.0
+• 100.0 - 200.0
+• 200.0 - 500.0
+• 500.0 - 9,158.8
+• N/A
+
+source EUROSTAT
+
+52
+
+references
+36 HTTPS://WWW.ETSOVISTA.ORG/
+37 ZHOU, BIALEK “APPROXIMATION MODEL OF EUROPEAN INTERCONNECTED SYSTEM
+AS A BENCHMARK SYSTEM TO STUDY EFFECTS OF CROSS-BORDER TRADES”, IEEE
+TRANSACTIONS ON POWER SYSTEMS, MAI 2005
+38 HTTP://EPP.EUROSTAT.EC.EUROPA.EU/PORTAL/PAGE/PORTAL/POPULATION/INTRODUCTION
+
+image OCEANLINX IS
+COMMERCIALISING WAVE POWER
+TECHNOLOGY WHICH USES A COLUMN OF
+WATER TO DRIVE A TURBINE, PRODUCING
+ZERO EMISSIONS.
+
+4.3 approach
+
+4.3.3 optimal power flow
+
+The following approach has been taken to determine the needs of a
+future power grid with a high share of renewable energies.
+
+4.3.1 non-controllable renewable energy source
+
+In the model, priority is given to electrical power from sources that
+can only be controlled by not using the available power to the full
+extent (e.g. by pitch control of wind turbines). These sources are
+‘downward controllable’ – as compared to fossil fuels where
+production can be ‘ramped up’ to meet demand. They are
+fluctuating sources like wind, PV and ocean but also run-of-river as
+well as geothermal power plants. The amount of power produced by
+these sources at each node of the model is used first to meet the
+demand at each node.
+
+4.3.2 demand-side management
+
+To take advantage of demand-side management and local storage
+the resulting power difference between production and generation is
+smoothed over the time. The following figure shows the operation of
+such a demand-side management: depending on the available local
+source, in this case PV, the demand is increased or decreased.
+
+figure 29: operation of demand-side management
+and local storage
+
+1,800
+
+1,600
+
+1,400
+
+1,200
+
+1,000
+
+800
+
+600
+
+400
+
+200
+
+MW 0
+
+0
+0
+:
+0
+0
+
+0
+0
+:
+2
+0
+
+0
+0
+:
+4
+0
+
+0
+0
+:
+6
+0
+
+0
+0
+:
+8
+0
+
+0
+0
+:
+0
+1
+
+0
+0
+:
+2
+1
+
+0
+0
+:
+4
+1
+
+0
+0
+:
+6
+1
+
+0
+0
+:
+8
+1
+
+0
+0
+:
+0
+2
+
+0
+0
+:
+2
+2
+
+0
+0
+:
+0
+0
+
+0
+0
+:
+2
+0
+
+0
+0
+:
+4
+0
+
+0
+0
+:
+6
+0
+
+0
+0
+:
+8
+0
+
+0
+0
+:
+0
+1
+
+0
+0
+:
+2
+1
+
+0
+0
+:
+4
+1
+
+0
+0
+:
+6
+1
+
+0
+0
+:
+8
+1
+
+0
+0
+:
+0
+2
+
+0
+0
+:
+4
+2
+
+0
+0
+:
+0
+0
+
+1 August 2003
+
+2 August 2003
+
+Time of day
+
+• DEMAND
+• DEMAND DSM
+• PHOTOVOLTAICS
+
+source ENERGYNAUTICS
+
+L
+L
+E
+W
+E
+S
+N
+A
+E
+D
+P
+G
+©
+
+/
+
+4
+
+s
+u
+p
+e
+r
+
+g
+r
+i
+d
+
+:
+
+s
+i
+m
+u
+l
+a
+t
+i
+o
+n
+o
+f
+
+t
+h
+e
+
+e
+n
+e
+r
+g
+y
+
+[
+r
+]
+e
+v
+o
+l
+u
+t
+i
+o
+n
+f
+o
+r
+
+e
+u
+r
+o
+p
+e
+
+|
+
+A
+P
+P
+R
+O
+A
+C
+H
+
+The next step is to perform a DC load flow calculation and power
+flow optimisation. The result of this calculation is the necessary
+amount of additional power (within given limits) at each node to
+keep the high voltage network within allowed operation limits.
+This additional power is provided by controllable sources such as:
+
+• CSP
+
+• Hydropower (storage)
+
+• Biomass
+
+• Natural gas
+
+Renewable sources are prioritised.
+
+In case there is a surplus of power, the power will be fed into
+the high voltage grid, in case there is a lack of power, it will be
+withdrawn from the grid.
+
+Definition of N-1 security: A system is N-1 secure if any
+element in the system may fail without overloading any other
+element.39 As the model does not represent exactly each
+physical HVAC line in the network, but instead aggregates a
+number of lines, the N-1 security cannot be assured by
+evaluating each single line. Instead, a maximum loading of
+80% on the lines has been allowed to account for N-1
+security. On the other hand, the HVDC lines and thus the
+super grid are represented by physical lines, thus each HVDC
+connection has been evaluated for N-1 security.
+
+4.3.4 evaluation
+
+With the help of the load flow calculations described in the previous
+section it can be determined where the grid will be overloaded due to
+high production at one point and high demand at another point of the
+network. Depending on the distance between these points, it is either
+reasonable to strengthen the HVAC grid in between or in case the
+distance is too high to build an HVDC line or even a super grid
+consisting of several HVDC lines.
+
+In case there is no further demand but still excessive amount of
+variable power, there are two options, either to store the available
+power and to use it at another time or to curtail it. From an
+economic point of view it might be more economic to oversize and
+occasionally regulate down the wind farms than to build expensive
+electric storage systems.
+
+This study was done to find out how the electrical network has to
+be strengthened to allow 24/7 power supply with a very high share
+of renewables also in extreme situations as described in the next
+section. More information on super grids is provided in Section 3
+of this report.
+
+reference
+39 HTTP://WWW.ENTSOE.EU/_LIBRARY/PUBLICATIONS/CE/OH/POLICY3_FINAL.PDF
+
+53
+
+[R]ENEWABLES 24/7
+INFRASTRUCTURE NEEDED TO SAVE THE CLIMATE
+
+4
+
+s
+u
+p
+e
+r
+
+g
+r
+i
+d
+
+:
+
+s
+i
+m
+u
+l
+a
+t
+i
+o
+n
+o
+f
+
+t
+h
+e
+
+e
+n
+e
+r
+g
+y
+
+[
+r
+]
+e
+v
+o
+l
+u
+t
+i
+o
+n
+f
+o
+r
+
+e
+u
+r
+o
+p
+e
+
+|
+
+E
+X
+T
+R
+E
+M
+E
+
+E
+V
+E
+N
+T
+S
+
+4.4 extreme events
+
+4.4.2 medium-term issues
+
+Several extreme events on a short, medium and long-term basis
+have been investigated to determine the necessary layout of a future
+power system with a high share of renewable energy sources.
+
+4.4.1 long-term issues
+
+As renewable resources can vary from year to year, this study
+focuses on extreme events on a long-term basis. In effect this study
+evaluates the Energy [R]evolution Scenario to see whether it would
+have an impact on the security of supply.
+
+The variation of different sources from year to year has been
+analysed. As wind energy has by far the highest share in
+energy production in the E[R] Scenario, it has been chosen
+for further investigations.
+
+The lowest values found were around 20% below the long-term
+average (An example for Germany can be found in Figure 30), this
+is an amount the portfolio in the E[R] Scenario can easily cope
+with and will not influence the layout of the future power system.
+
+Variable renewable energy sources like wind and solar power as
+well as the demand vary within the range of minutes to hours, and
+generation and consumption has to be balanced at all times, while
+electrical storages are limited and expensive. For these reasons the
+medium-term issues are the most critical and dimensioning
+situation for the power system.
+
+For this purpose three extreme events have been identified
+and analysed:
+
+• Extreme summer event in August 2003
+
+• Extreme winter event in January 1997
+
+• Extreme autumn event in November 1987
+
+4.4.3 evaluation of occurrences of extreme events
+
+Renewables 24/7: A mix of different renewable energy sources such
+as solar PV, wind, biomass, geothermal, hydro – and ocean energy
+in the future – guarantees a secure around the clock power supply –
+even though the wind is sometimes not blowing or the sun won’t
+shine! The extreme weather event as described here appear very
+seldom and last only for a short period.
+
+figure 30: yearly wind energy yield in comparison
+to long-term average; example germany
+
+figure 31: available wind power (in GW) according
+to energy [r]evolution scenario in november 1987
+compared to 30 years average (6 hour values)
+
+%
+
+120
+
+100
+
+80
+
+60
+
+40
+
+20
+
+0
+
+1999 2000 2001 2002 2003 2004 2005 2006 2007 2008
+
+source WINDMONITOR / ISET
+
+20%
+
+250
+
+200
+
+150
+
+100
+
+50
+
+GW 0
+
+0
+0
+:
+0
+0
+V
+O
+N
+1
+
+0
+0
+:
+8
+1
+V
+O
+N
+1
+
+0
+0
+:
+2
+1
+V
+O
+N
+2
+
+0
+0
+:
+6
+0
+V
+O
+N
+3
+
+0
+0
+:
+0
+0
+V
+O
+N
+4
+
+0
+0
+:
+8
+1
+V
+O
+N
+4
+
+0
+0
+:
+2
+1
+V
+O
+N
+5
+
+0
+0
+:
+6
+0
+V
+O
+N
+6
+
+0
+0
+:
+0
+0
+V
+O
+N
+7
+
+0
+0
+:
+8
+1
+V
+O
+N
+7
+
+0
+0
+:
+2
+1
+V
+O
+N
+8
+
+0
+0
+:
+6
+0
+V
+O
+N
+6
+
+0
+0
+:
+0
+0
+V
+O
+N
+0
+1
+
+0
+0
+:
+8
+1
+V
+O
+N
+0
+1
+
+0
+0
+:
+2
+1
+V
+O
+N
+1
+1
+
+0
+0
+:
+6
+0
+V
+O
+N
+2
+1
+
+0
+0
+:
+0
+0
+V
+O
+N
+3
+1
+
+0
+0
+:
+8
+1
+V
+O
+N
+3
+1
+
+0
+0
+:
+2
+1
+V
+O
+N
+4
+1
+
+Time of day
+
+• NOVEMBER 1987
+• 30 YEAR AVERAGE
+
+source ENERGYNAUTICS
+
+54
+
+To evaluate the frequency of occurrences of extreme events, we
+have analysed the wind data of the last 30 years. As simulations
+showed, the extreme events can be expected during winter time,
+when the electricity demand is high and the solar production low.
+
+During the last 30 years the potential power production from wind
+during the winter time within Europe in the E[R] Scenario would
+have been only dropped below 50GW 0.4% of the time. Taking an
+average duration of an extreme event of 12 hours, this is equivalent
+to once a year.
+
+The following two figures show the wind power production in
+Europe during the two simulated extreme winter events:
+November 1987 and January 1997
+
+The next figure shows the PV production during the extreme January
+event. During January 1997 there are some days (5th to 10th),
+where the production is considerably lower than the long-term
+average. Together with a high demand (Figure 34) and low wind
+power production (Figure 32), this is a critical situation for the
+European power system. (see also Figure 35)
+
+image PUBLIC BATH HOUSE THAT USES
+SOLAR THERMAL TECHNOLOGY IS SEEN
+BESIDE A FARM. THE CITY OF DEZHOU IS
+LEADING THE WAY IN ADOPTING SOLAR
+ENERGY AND HAS BECOME KNOWN AS
+THE SOLAR VALLEY OF CHINA.
+
+D
+R
+O
+F
+F
+O
+H
+X
+E
+L
+A
+©
+
+figure 33: available solar pv power (in GW) according
+to energy [r]evolution scenario in january 1997
+compared to 5 years average (1 hour values)
+
+180
+
+160
+
+140
+
+120
+
+100
+
+80
+
+60
+
+40
+
+20
+
+GW 0
+
+0
+0
+:
+0
+0
+N
+A
+J
+
+0
+0
+:
+9
+0
+N
+A
+J
+
+0
+0
+:
+8
+1
+N
+A
+J
+
+0
+0
+:
+3
+0
+N
+A
+J
+
+0
+0
+:
+2
+1
+N
+A
+J
+
+0
+0
+:
+1
+2
+N
+A
+J
+
+0
+0
+:
+6
+0
+N
+A
+J
+
+0
+0
+:
+5
+1
+N
+A
+J
+
+0
+0
+:
+0
+0
+N
+A
+J
+
+0
+0
+:
+9
+0
+N
+A
+J
+
+0
+0
+:
+8
+1
+N
+A
+J
+
+0
+0
+:
+3
+0
+N
+A
+J
+
+0
+0
+:
+2
+1
+N
+A
+J
+
+0
+0
+:
+1
+2
+N
+A
+J
+
+0
+0
+:
+6
+0
+N
+A
+J
+
+0
+0
+:
+5
+1
+N
+A
+J
+
+0
+0
+:
+0
+0
+N
+A
+J
+
+0
+0
+:
+9
+0
+N
+A
+J
+
+0
+0
+:
+8
+1
+N
+A
+J
+
+0
+0
+:
+3
+0
+N
+A
+J
+
+0
+0
+:
+2
+1
+N
+A
+J
+
+0
+0
+:
+1
+2
+N
+A
+J
+
+0
+0
+:
+6
+0
+N
+A
+J
+
+0
+0
+:
+5
+1
+N
+A
+J
+
+0
+0
+:
+0
+0
+N
+A
+J
+
+0
+0
+:
+9
+0
+N
+A
+J
+
+0
+0
+:
+8
+1
+N
+A
+J
+
+4
+
+5
+
+5
+
+6
+
+6
+
+6
+
+7
+
+7
+
+8
+
+8
+
+8
+
+9
+
+9
+
+9
+
+0
+1
+
+0
+1
+
+1
+1
+
+1
+1
+
+1
+1
+
+2
+1
+
+2
+1
+
+2
+1
+
+3
+1
+
+3
+1
+
+4
+1
+
+4
+1
+
+4
+1
+
+Time of day
+
+•JANUARY 1997
+•5 YEAR AVERAGE
+
+source ENERGYNAUTICS
+
+figure 32: available wind power (in GW) according
+to energy [r]evolution scenario in january 1997
+compared to 30 years average (6 hour values)
+
+figure 34: demand (in MW) during january 1997 event
+compared to all time high, yearly average and
+minimum (1 hour values)
+
+200
+
+180
+
+160
+
+140
+
+120
+
+100
+
+80
+
+60
+
+40
+
+20
+
+GW 0
+
+600,000
+
+500,000
+
+400,000
+
+300,000
+
+200,000
+
+100,000
+
+MW 0
+
+0
+0
+:
+0
+0
+N
+A
+J
+
+5
+
+0
+0
+:
+2
+1
+N
+A
+J
+
+5
+
+0
+0
+:
+0
+0
+N
+A
+J
+
+6
+
+0
+0
+:
+2
+1
+N
+A
+J
+
+6
+
+0
+0
+:
+0
+0
+N
+A
+J
+
+7
+
+0
+0
+:
+2
+1
+N
+A
+J
+
+7
+
+0
+0
+:
+0
+0
+N
+A
+J
+
+8
+
+0
+0
+:
+2
+1
+N
+A
+J
+
+8
+
+0
+0
+:
+0
+0
+N
+A
+J
+
+9
+
+0
+0
+:
+2
+1
+N
+A
+J
+
+9
+
+0
+0
+:
+0
+0
+N
+A
+J
+
+0
+1
+
+0
+0
+:
+2
+1
+N
+A
+J
+
+0
+1
+
+0
+0
+:
+0
+0
+N
+A
+J
+
+1
+1
+
+0
+0
+:
+2
+1
+N
+A
+J
+
+1
+1
+
+0
+0
+:
+0
+0
+N
+A
+J
+
+2
+1
+
+0
+0
+:
+2
+1
+N
+A
+J
+
+2
+1
+
+0
+0
+:
+0
+0
+N
+A
+J
+
+3
+1
+
+0
+0
+:
+2
+1
+N
+A
+J
+
+3
+1
+
+0
+0
+:
+0
+0
+N
+A
+J
+
+4
+1
+
+0
+0
+:
+2
+1
+N
+A
+J
+
+4
+1
+
+0
+0
+:
+0
+0
+N
+A
+J
+
+0
+0
+:
+0
+1
+N
+A
+J
+
+0
+0
+:
+0
+2
+N
+A
+J
+
+0
+0
+:
+6
+0
+N
+A
+J
+
+0
+0
+:
+6
+1
+N
+A
+J
+
+0
+0
+:
+2
+0
+N
+A
+J
+
+0
+0
+:
+2
+1
+N
+A
+J
+
+0
+0
+:
+2
+2
+N
+A
+J
+
+0
+0
+:
+8
+0
+N
+A
+J
+
+0
+0
+:
+8
+1
+N
+A
+J
+
+0
+0
+:
+4
+0
+N
+A
+J
+
+0
+0
+:
+4
+1
+N
+A
+J
+
+5
+
+5
+
+5
+
+6
+
+6
+
+7
+
+7
+
+7
+
+8
+
+8
+
+9
+
+9
+
+0
+0
+:
+0
+0
+N
+A
+J
+
+0
+1
+
+0
+0
+:
+0
+1
+N
+A
+J
+
+0
+1
+
+0
+0
+:
+0
+2
+N
+A
+J
+
+0
+1
+
+0
+0
+:
+6
+0
+N
+A
+J
+
+1
+1
+
+0
+0
+:
+6
+1
+N
+A
+J
+
+1
+1
+
+0
+0
+:
+2
+0
+N
+A
+J
+
+2
+1
+
+0
+0
+:
+2
+1
+N
+A
+J
+
+2
+1
+
+0
+0
+:
+2
+2
+N
+A
+J
+
+2
+1
+
+0
+0
+:
+8
+0
+N
+A
+J
+
+3
+1
+
+0
+0
+:
+8
+1
+N
+A
+J
+
+3
+1
+
+0
+0
+:
+4
+0
+N
+A
+J
+
+4
+1
+
+0
+0
+:
+4
+1
+N
+A
+J
+
+4
+1
+
+Time of day
+
+• JANUARY 1997
+• 30 YEAR AVERAGE
+
+• DEMAND
+•ALL TIME HIGH
+
+Time of day
+
+• YEARLY AVERAGE
+•YEARLY MINIMUM
+
+source ENERGYNAUTICS
+
+source ENERGYNAUTICS
+
+4
+
+s
+u
+p
+e
+r
+
+g
+r
+i
+d
+
+:
+
+s
+i
+m
+u
+l
+a
+t
+i
+o
+n
+o
+f
+
+t
+h
+e
+
+e
+n
+e
+r
+g
+y
+
+[
+r
+]
+e
+v
+o
+l
+u
+t
+i
+o
+n
+f
+o
+r
+
+e
+u
+r
+o
+p
+e
+
+|
+
+E
+X
+T
+R
+E
+M
+E
+
+E
+V
+E
+N
+T
+S
+
+55
+
+4
+
+s
+u
+p
+e
+r
+
+g
+r
+i
+d
+
+:
+
+s
+i
+m
+u
+l
+a
+t
+i
+o
+n
+o
+f
+
+t
+h
+e
+
+e
+n
+e
+r
+g
+y
+
+[
+r
+]
+e
+v
+o
+l
+u
+t
+i
+o
+n
+f
+o
+r
+
+e
+u
+r
+o
+p
+e
+
+|
+
+E
+X
+T
+R
+E
+M
+E
+
+E
+V
+E
+N
+T
+S
+
+200
+
+180
+
+160
+
+140
+
+120
+
+100
+
+80
+
+60
+
+40
+
+20
+
+GW 0
+
+180
+
+160
+
+140
+
+120
+
+100
+
+80
+
+60
+
+40
+
+20
+
+GW 0
+
+600,000
+
+500,000
+
+400,000
+
+300,000
+
+200,000
+
+100,000
+
+MW 0
+
+[R]ENEWABLES 24/7
+INFRASTRUCTURE NEEDED TO SAVE THE CLIMATE
+
+figure 35: overview extreme january event: wind and solar
+production as well as demand (in MW) during january
+
+wind
+
+low production
+
+• JANUARY 1987
+• 30 YEAR AVERAGE
+
+0
+0
+:
+0
+0
+N
+A
+J
+
+5
+
+0
+0
+:
+2
+1
+N
+A
+J
+
+5
+
+0
+0
+:
+0
+0
+N
+A
+J
+
+6
+
+0
+0
+:
+2
+1
+N
+A
+J
+
+6
+
+0
+0
+:
+0
+0
+N
+A
+J
+
+7
+
+0
+0
+:
+2
+1
+N
+A
+J
+
+7
+
+0
+0
+:
+0
+0
+N
+A
+J
+
+8
+
+0
+0
+:
+2
+1
+N
+A
+J
+
+8
+
+0
+0
+:
+0
+0
+N
+A
+J
+
+9
+
+0
+0
+:
+2
+1
+N
+A
+J
+
+9
+
+0
+0
+:
+0
+0
+N
+A
+J
+
+0
+1
+
+0
+0
+:
+2
+1
+N
+A
+J
+
+0
+1
+
+0
+0
+:
+0
+0
+N
+A
+J
+
+1
+1
+
+0
+0
+:
+2
+1
+N
+A
+J
+
+1
+1
+
+0
+0
+:
+0
+0
+N
+A
+J
+
+2
+1
+
+0
+0
+:
+2
+1
+N
+A
+J
+
+2
+1
+
+0
+0
+:
+0
+0
+N
+A
+J
+
+3
+1
+
+0
+0
+:
+2
+1
+N
+A
+J
+
+3
+1
+
+0
+0
+:
+0
+0
+N
+A
+J
+
+4
+1
+
+0
+0
+:
+2
+1
+N
+A
+J
+
+4
+1
+
+]
+s
+/
+m
+
+[
+
+s
+d
+e
+e
+p
+s
+
+d
+n
+i
+W
+
+14
+
+12
+
+10
+
+8
+
+6
+
+4
+
+2
+
+0
+
+Time of day
+
+solar pv
+
+low production
+
+• JANUARY 1997
+•5 YEAR AVERAGE
+
+source NCEP-2
+
+0
+0
+:
+0
+0
+N
+A
+J
+
+0
+0
+:
+9
+0
+N
+A
+J
+
+0
+0
+:
+8
+1
+N
+A
+J
+
+0
+0
+:
+3
+0
+N
+A
+J
+
+0
+0
+:
+2
+1
+N
+A
+J
+
+0
+0
+:
+1
+2
+N
+A
+J
+
+0
+0
+:
+6
+0
+N
+A
+J
+
+0
+0
+:
+5
+1
+N
+A
+J
+
+0
+0
+:
+0
+0
+N
+A
+J
+
+0
+0
+:
+9
+0
+N
+A
+J
+
+0
+0
+:
+8
+1
+N
+A
+J
+
+0
+0
+:
+3
+0
+N
+A
+J
+
+0
+0
+:
+2
+1
+N
+A
+J
+
+0
+0
+:
+1
+2
+N
+A
+J
+
+0
+0
+:
+6
+0
+N
+A
+J
+
+0
+0
+:
+5
+1
+N
+A
+J
+
+0
+0
+:
+0
+0
+N
+A
+J
+
+0
+0
+:
+9
+0
+N
+A
+J
+
+0
+0
+:
+8
+1
+N
+A
+J
+
+0
+0
+:
+3
+0
+N
+A
+J
+
+0
+0
+:
+2
+1
+N
+A
+J
+
+0
+0
+:
+1
+2
+N
+A
+J
+
+0
+0
+:
+6
+0
+N
+A
+J
+
+0
+0
+:
+5
+1
+N
+A
+J
+
+0
+0
+:
+0
+0
+N
+A
+J
+
+0
+0
+:
+9
+0
+N
+A
+J
+
+0
+0
+:
+8
+1
+N
+A
+J
+
+4
+
+5
+
+5
+
+6
+
+6
+
+6
+
+7
+
+7
+
+8
+
+8
+
+8
+
+9
+
+9
+
+9
+
+0
+1
+
+0
+1
+
+1
+1
+
+1
+1
+
+1
+1
+
+2
+1
+
+2
+1
+
+2
+1
+
+3
+1
+
+3
+1
+
+4
+1
+
+4
+1
+
+4
+1
+
+Time of day
+
+demand
+
+high demand
+
+~ 5th january
+18:00
+
+0
+0
+:
+0
+0
+N
+A
+J
+
+0
+0
+:
+0
+1
+N
+A
+J
+
+0
+0
+:
+0
+2
+N
+A
+J
+
+0
+0
+:
+6
+0
+N
+A
+J
+
+0
+0
+:
+6
+1
+N
+A
+J
+
+0
+0
+:
+2
+0
+N
+A
+J
+
+0
+0
+:
+2
+1
+N
+A
+J
+
+0
+0
+:
+2
+2
+N
+A
+J
+
+0
+0
+:
+8
+0
+N
+A
+J
+
+0
+0
+:
+8
+1
+N
+A
+J
+
+0
+0
+:
+4
+0
+N
+A
+J
+
+0
+0
+:
+4
+1
+N
+A
+J
+
+5
+
+5
+
+5
+
+6
+
+6
+
+7
+
+7
+
+7
+
+8
+
+8
+
+9
+
+9
+
+0
+0
+:
+0
+0
+N
+A
+J
+
+0
+1
+
+0
+0
+:
+0
+1
+N
+A
+J
+
+0
+1
+
+0
+0
+:
+0
+2
+N
+A
+J
+
+0
+1
+
+0
+0
+:
+6
+0
+N
+A
+J
+
+1
+1
+
+0
+0
+:
+6
+1
+N
+A
+J
+
+1
+1
+
+0
+0
+:
+2
+0
+N
+A
+J
+
+2
+1
+
+0
+0
+:
+2
+1
+N
+A
+J
+
+2
+1
+
+0
+0
+:
+2
+2
+N
+A
+J
+
+2
+1
+
+0
+0
+:
+8
+0
+N
+A
+J
+
+3
+1
+
+0
+0
+:
+8
+1
+N
+A
+J
+
+3
+1
+
+0
+0
+:
+4
+0
+N
+A
+J
+
+4
+1
+
+0
+0
+:
+4
+1
+N
+A
+J
+
+4
+1
+
+Time of day
+
+• DEMAND DSM
+•ALL TIME HIGH
+
+• YEARLY AVERAGE
+•YEARLY MINIMUM
+
+56
+
+extreme summer event (august 2003)
+
+This extreme event is characterised by two weeks of no or very
+little wind in the North Sea (Figure 36).
+
+figure 36: wind speed in the north sea during august
+2003 (extreme summer event)
+
+5 m/s
+
+1 Aug
+
+3 Aug
+
+5 Aug
+
+7 Aug
+
+9 Aug 11 Aug 13 Aug 15 Aug
+
+2003: North Sea, Location: 5E 55N
+
+As the following table shows, the highest demand is around 68%
+of the all time high, which is typical for the load during summer.
+The amount of PV power produced is very high due to lots of
+sunshine during August. Further characteristics are presented
+in the following table.
+
+table 9: characteristic of extreme summer event
+(available power in MW)
+
+HIGH
+
+AVERAGE
+
+LOW
+
+Demand
+% of all time high
+
+Non Contr. RES
+% of inst. cap
+
+Windpower
+% of inst. cap
+
+Photovoltaics
+% of inst. cap
+
+source ENERGYNAUTICS
+
+366,959
+68%
+
+408,570
+45%
+
+119,603
+31%
+
+296,661
+77%
+
+287,666
+53%
+
+193,881
+21%
+
+43,661
+11%
+
+91,130
+24%
+
+203,092
+38%
+
+82,743
+9%
+
+17,538
+5%
+
+0
+0%
+
+image A WORKER ENTERS A TURBINE
+TOWER FOR MAINTENANCE AT
+DABANCHENG WIND FARM. CHINA HAS
+HUGE WIND RESOURCES, WHICH COULD
+BE EASILY AND PROFITABLY EXPLOITED
+BY SWITCHING INVESTMENT FROM
+CLIMATE DESTROYING FOSSIL FUELS
+INTO HARVESTING THIS CLEAN,
+ABUNDANT ENERGY RESOURCE.
+
+P
+G
+
+/
+I
+E
+W
+U
+H
+©
+
+table 10: (medium) generated power in MW and share
+of different sources during extreme summer event
+
+results
+
+Results of load flow calculations show that during an extreme
+summer event, the available power from PV is enough to
+compensate for the lack of wind power. Therefore it is not necessary
+to improve the current design of the European grid or to install
+additional HVDC lines. The necessary power is mainly provided by
+distributed PV, which is well available during August.
+
+The following table gives an overview over the share of different
+sources during the event. The amount of wind power and run-of-
+river is obviously fairly small whereas the amount of PV and
+Biomass is high. Only 10% have to be provided by conventional
+power plants.
+
+There was almost no storage included in the study, and an analysis
+of the calculation results reveals a high amount of renewable
+energy supplies has to be curtailed – or better – is available for
+storage to be used e.g. in electric vehicles, this is mainly PV. For
+this we use the term ‘surplus power’ for power generation which
+must be ‘curtailed’ if there is no storage capacity available. Figure
+37 shows the used versus the available PV power.
+
+Wind Onshore
+
+Wind Offshore
+
+Photovoltaics
+
+Geothermal
+
+Biomass
+
+CSP Plants
+
+Wave / Tidal
+
+Hydro run-of-river
+
+Hydro Storage
+
+Conventional
+
+Total
+
+source ENERGYNAUTICS
+
+14,558
+
+14,232
+
+65,914
+
+32,208
+
+60,561
+
+17,549
+
+6,604
+
+11,425
+
+36,976
+
+30,299
+
+290,327
+
+figure 37: surplus PV capacity available for storage (sample for a region in austria, august 2003)
+
+1,800
+
+1,600
+
+1,400
+
+1,200
+
+1,000
+
+800
+
+600
+
+400
+
+200
+
+MW 0
+
+0
+0
+:
+0
+0
+
+0
+0
+:
+2
+0
+
+0
+0
+:
+4
+0
+
+0
+0
+:
+6
+0
+
+0
+0
+:
+8
+0
+
+0
+0
+:
+0
+1
+
+0
+0
+:
+2
+1
+
+0
+0
+:
+4
+1
+
+0
+0
+:
+6
+1
+
+0
+0
+:
+8
+1
+
+0
+0
+:
+0
+2
+
+0
+0
+:
+2
+2
+
+0
+0
+:
+0
+0
+
+0
+0
+:
+2
+0
+
+0
+0
+:
+4
+0
+
+0
+0
+:
+6
+0
+
+0
+0
+:
+8
+0
+
+0
+0
+:
+0
+1
+
+0
+0
+:
+2
+1
+
+0
+0
+:
+4
+1
+
+0
+0
+:
+6
+1
+
+0
+0
+:
+8
+1
+
+0
+0
+:
+0
+2
+
+0
+0
+:
+2
+2
+
+0
+0
+:
+0
+0
+
+0
+0
+:
+2
+0
+
+0
+0
+:
+4
+0
+
+0
+0
+:
+6
+0
+
+0
+0
+:
+8
+0
+
+0
+0
+:
+0
+1
+
+0
+0
+:
+2
+1
+
+0
+0
+:
+4
+1
+
+0
+0
+:
+6
+1
+
+0
+0
+:
+8
+1
+
+0
+0
+:
+0
+2
+
+0
+0
+:
+4
+2
+
+0
+0
+:
+0
+0
+
+1 August
+
+2 August
+
+Time of day
+
+3 August
+
+4 August
+
+• AVAILABLE PV
+• USED PV
+
+source ENERGYNAUTICS
+
+5%
+
+5%
+
+23%
+
+11%
+
+21%
+
+6%
+
+2%
+
+4%
+
+13%
+
+10%
+
+100%
+
+4
+
+s
+u
+p
+e
+r
+
+g
+r
+i
+d
+
+:
+
+s
+i
+m
+u
+l
+a
+t
+i
+o
+n
+o
+f
+
+t
+h
+e
+
+e
+n
+e
+r
+g
+y
+
+[
+r
+]
+e
+v
+o
+l
+u
+t
+i
+o
+n
+f
+o
+r
+
+e
+u
+r
+o
+p
+e
+
+|
+
+E
+X
+T
+R
+E
+M
+E
+
+E
+V
+E
+N
+T
+S
+
+57
+
+WORKING FOR THE CLIMATE
+RENEWABLE ENERGY & THE GREEN JOB [R]EVOLUTION
+
+4
+
+s
+u
+p
+e
+r
+
+g
+r
+i
+d
+
+:
+
+s
+i
+m
+u
+l
+a
+t
+i
+o
+n
+o
+f
+
+t
+h
+e
+
+e
+n
+e
+r
+g
+y
+
+[
+r
+]
+e
+v
+o
+l
+u
+t
+i
+o
+n
+f
+o
+r
+
+e
+u
+r
+o
+p
+e
+
+|
+
+E
+X
+T
+R
+E
+M
+E
+
+E
+V
+E
+N
+T
+S
+
+table 11: maximum of surplus power in MW during
+different hours of the extreme event in august 2003
+
+figure 38: power production (in MW) from different
+sources and overall demand in europe during extreme
+january event, 1997
+
+600,000
+
+500,000
+
+400,000
+
+300,000
+
+200,000
+
+100,000
+
+MW      0
+
+Max Wind Onshore
+
+Max Wind Offshore
+
+Max Photovoltaics
+
+Max Total
+
+source ENERGYNAUTICS
+
+19,469
+
+44,866
+
+117,474
+
+161,749
+
+extreme winter event (january 1997)
+
+This event is characterised by a very high demand on one hand and
+a low solar power and medium to low wind power production on the
+other hand (Table 12).
+
+It is typical to have the highest demands of electricity in Europe
+during winter. Sunlight in the daytime is reduced and the angle of
+incident is low, thus the amount of solar power is also low during
+winter time. Together with these two facts, there were also times
+when there was hardly any wind during January 1997 making this
+a critical situation for proposed future power supply.
+
+table 12: characteristic of extreme winter event
+january 1997 (available power in MW)
+
+0
+0
+:
+0
+0
+N
+A
+J
+
+0
+0
+:
+0
+1
+N
+A
+J
+
+0
+0
+:
+0
+2
+N
+A
+J
+
+0
+0
+:
+6
+0
+N
+A
+J
+
+0
+0
+:
+6
+1
+N
+A
+J
+
+0
+0
+:
+2
+0
+N
+A
+J
+
+0
+0
+:
+2
+1
+N
+A
+J
+
+0
+0
+:
+2
+2
+N
+A
+J
+
+0
+0
+:
+8
+0
+N
+A
+J
+
+0
+0
+:
+8
+1
+N
+A
+J
+
+0
+0
+:
+4
+0
+N
+A
+J
+
+0
+0
+:
+4
+1
+N
+A
+J
+
+0
+0
+:
+0
+0
+N
+A
+J
+
+0
+0
+:
+0
+1
+N
+A
+J
+
+0
+0
+:
+0
+2
+N
+A
+J
+
+0
+0
+:
+6
+0
+N
+A
+J
+
+0
+0
+:
+6
+1
+N
+A
+J
+
+0
+0
+:
+2
+0
+N
+A
+J
+
+0
+0
+:
+2
+1
+N
+A
+J
+
+0
+0
+:
+2
+2
+N
+A
+J
+
+0
+0
+:
+8
+0
+N
+A
+J
+
+0
+0
+:
+8
+1
+N
+A
+J
+
+0
+0
+:
+4
+0
+N
+A
+J
+
+0
+0
+:
+4
+1
+N
+A
+J
+
+5
+
+5
+
+5
+
+6
+
+6
+
+7
+
+7
+
+7
+
+8
+
+8
+
+9
+
+9
+
+0
+1
+
+0
+1
+
+0
+1
+
+1
+1
+
+1
+1
+
+2
+1
+
+2
+1
+
+2
+1
+
+3
+1
+
+3
+1
+
+4
+1
+
+4
+1
+
+Time of day
+
+• CONVENTIONAL
+• RUN-OF-RIVER
+• OCEAN• GEOTHERMAL
+
+DEMAND DSM
+
+• PHOTOVOLTAICS
+• CSP• WIND OFFSHORE
+• WIND ONSHORE
+• BIOMASS
+• HYDRO STORAGE
+
+HIGH
+
+AVERAGE
+
+LOW
+
+source ENERGYNAUTICS
+
+Demand
+% of all time high
+
+Non Contr. RES
+% of inst. cap
+
+Windpower
+% of inst. cap
+
+Photovoltaics
+% of inst. cap
+
+source ENERGYNAUTICS
+
+491,064
+91%
+
+378,419
+42%
+
+200,795
+53%
+
+197,032
+51%
+
+406,098
+75%
+
+195,426
+22%
+
+96,818
+25%
+
+33,313
+9%
+
+311,837
+58%
+
+108,067
+12%
+
+32,533
+9%
+
+0
+0%
+
+energy production during extreme january event
+
+Figure 38 gives an overview on the different sources during this
+extreme January event. To keep the lights on, the demand has to be
+met at all times.
+
+For comparison, the power production for August 2003 is shown in
+the Figure 39. During summer there is a lower demand than in
+winter and far more PV production.
+
+figure 39: power production (in MW) from different
+sources and overall demand in europe during extreme
+august event, 2003
+
+400,000
+
+300,000
+
+200,000
+
+100,000
+
+MW      0
+
+0
+0
+:
+9
+0
+G
+U
+A
+1
+
+0
+0
+:
+3
+2
+G
+U
+A
+1
+
+0
+0
+:
+3
+1
+G
+U
+A
+2
+
+0
+0
+:
+3
+0
+G
+U
+A
+3
+
+0
+0
+:
+7
+1
+G
+U
+A
+3
+
+0
+0
+:
+7
+0
+G
+U
+A
+4
+
+0
+0
+:
+1
+2
+G
+U
+A
+4
+
+0
+0
+:
+1
+1
+G
+U
+A
+5
+
+0
+0
+:
+1
+0
+G
+U
+A
+6
+
+0
+0
+:
+5
+1
+G
+U
+A
+6
+
+0
+0
+:
+5
+0
+G
+U
+A
+7
+
+0
+0
+:
+9
+1
+G
+U
+A
+7
+
+0
+0
+:
+9
+0
+G
+U
+A
+8
+
+0
+0
+:
+3
+2
+G
+U
+A
+8
+
+0
+0
+:
+3
+1
+G
+U
+A
+9
+
+0
+0
+:
+3
+0
+G
+U
+A
+0
+1
+
+0
+0
+:
+7
+1
+G
+U
+A
+0
+1
+
+0
+0
+:
+7
+0
+G
+U
+A
+1
+1
+
+0
+0
+:
+1
+2
+G
+U
+A
+1
+1
+
+0
+0
+:
+1
+1
+G
+U
+A
+2
+1
+
+0
+0
+:
+1
+0
+G
+U
+A
+3
+1
+
+0
+0
+:
+5
+1
+G
+U
+A
+3
+1
+
+0
+0
+:
+5
+0
+G
+U
+A
+4
+1
+
+0
+0
+:
+9
+1
+G
+U
+A
+4
+1
+
+Time of day
+
+• CONVENTIONAL
+• RUN-OF-RIVER
+• OCEAN• GEOTHERMAL
+
+DEMAND DSM
+
+• PHOTOVOLTAICS
+• CSP• WIND OFFSHORE
+• WIND ONSHORE
+• BIOMASS
+• HYDRO STORAGE
+
+58
+
+source ENERGYNAUTICS
+
+As the power production and demand is not balanced at each
+location at all times, the electrical network has to transport the
+energy from one location to another.
+
+The following figures show the power production from different
+sources during the extreme January event at three different
+locations. Depending on the available renewable energy supply, the
+power can both be exported and transported via the grid to other
+locations or has to be imported. (See also Figure 43)
+
+image WORKERS IN THAILAND INSTALL
+A WIND TURBINE IN THEIR COMMUNITY.
+THE IMPACTS OF SEA-LEVEL RISE DUE
+TO CLIMATE CHANGE ARE PREDICTED TO
+HIT HARD ON COASTAL COUNTRIES IN
+ASIA, AND CLEAN RENEWABLE ENERGY
+IS A SOLUTION.
+
+N
+H
+O
+J
+A
+H
+T
+I
+D
+I
+A
+N
+I
+V
+
+/
+
+P
+G
+©
+
+figure 41: power production (in MW) from different sources
+and local demand during extreme january event at a second
+location in south germany, 1997. there are times with
+surplus of power production and times with lack of power
+
+1,200
+
+1,000
+
+800
+
+600
+
+400
+
+200
+
+MW      0
+
+0
+0
+:
+0
+0
+N
+A
+J
+
+0
+0
+:
+0
+1
+N
+A
+J
+
+0
+0
+:
+0
+2
+N
+A
+J
+
+0
+0
+:
+6
+0
+N
+A
+J
+
+0
+0
+:
+6
+1
+N
+A
+J
+
+0
+0
+:
+2
+0
+N
+A
+J
+
+0
+0
+:
+2
+1
+N
+A
+J
+
+0
+0
+:
+2
+2
+N
+A
+J
+
+0
+0
+:
+8
+0
+N
+A
+J
+
+0
+0
+:
+8
+1
+N
+A
+J
+
+0
+0
+:
+4
+0
+N
+A
+J
+
+0
+0
+:
+4
+1
+N
+A
+J
+
+0
+0
+:
+0
+0
+N
+A
+J
+
+0
+0
+:
+0
+1
+N
+A
+J
+
+0
+0
+:
+0
+2
+N
+A
+J
+
+0
+0
+:
+6
+0
+N
+A
+J
+
+0
+0
+:
+6
+1
+N
+A
+J
+
+0
+0
+:
+2
+0
+N
+A
+J
+
+0
+0
+:
+2
+1
+N
+A
+J
+
+0
+0
+:
+2
+2
+N
+A
+J
+
+0
+0
+:
+8
+0
+N
+A
+J
+
+0
+0
+:
+8
+1
+N
+A
+J
+
+0
+0
+:
+4
+0
+N
+A
+J
+
+0
+0
+:
+4
+1
+N
+A
+J
+
+5
+
+5
+
+5
+
+6
+
+6
+
+7
+
+7
+
+7
+
+8
+
+8
+
+9
+
+9
+
+0
+1
+
+0
+1
+
+0
+1
+
+1
+1
+
+1
+1
+
+2
+1
+
+2
+1
+
+2
+1
+
+3
+1
+
+3
+1
+
+4
+1
+
+4
+1
+
+• PHOTOVOLTAICS
+• CSP• WIND OFFSHORE
+• WIND ONSHORE
+• BIOMASS
+
+• HYDRO STORAGE
+• RUN-OF-RIVER
+• WAVE & TIDAL
+• GEOTHERMAL
+
+DEMAND DSM
+
+source ENERGYNAUTICS
+
+4
+
+s
+u
+p
+e
+r
+
+g
+r
+i
+d
+
+:
+
+s
+i
+m
+u
+l
+a
+t
+i
+o
+n
+o
+f
+
+t
+h
+e
+
+e
+n
+e
+r
+g
+y
+
+[
+r
+]
+e
+v
+o
+l
+u
+t
+i
+o
+n
+f
+o
+r
+
+e
+u
+r
+o
+p
+e
+
+|
+
+E
+X
+T
+R
+E
+M
+E
+
+E
+V
+E
+N
+T
+S
+
+figure 40: power production (in MW) from different
+sources and local demand during extreme january event
+at a location in south germany, 1997. there is a surplus
+of power production, so power can be exported
+
+figure 42: power production (in MW) from different
+sources and local demand during extreme january event
+at a location in the netherlands, 1997. this location has
+to import power at all times during the event
+
+1,400
+
+1,200
+
+1,000
+
+800
+
+600
+
+400
+
+200
+
+MW      0
+
+2,000
+
+1,500
+
+1,000
+
+500
+
+MW      0
+
+0
+0
+:
+0
+0
+N
+A
+J
+
+0
+0
+:
+0
+1
+N
+A
+J
+
+0
+0
+:
+0
+2
+N
+A
+J
+
+0
+0
+:
+6
+0
+N
+A
+J
+
+0
+0
+:
+6
+1
+N
+A
+J
+
+0
+0
+:
+2
+0
+N
+A
+J
+
+0
+0
+:
+2
+1
+N
+A
+J
+
+0
+0
+:
+2
+2
+N
+A
+J
+
+0
+0
+:
+8
+0
+N
+A
+J
+
+0
+0
+:
+8
+1
+N
+A
+J
+
+0
+0
+:
+4
+0
+N
+A
+J
+
+0
+0
+:
+4
+1
+N
+A
+J
+
+0
+0
+:
+0
+0
+N
+A
+J
+
+0
+0
+:
+0
+1
+N
+A
+J
+
+0
+0
+:
+0
+2
+N
+A
+J
+
+0
+0
+:
+6
+0
+N
+A
+J
+
+0
+0
+:
+6
+1
+N
+A
+J
+
+0
+0
+:
+2
+0
+N
+A
+J
+
+0
+0
+:
+2
+1
+N
+A
+J
+
+0
+0
+:
+2
+2
+N
+A
+J
+
+0
+0
+:
+8
+0
+N
+A
+J
+
+0
+0
+:
+8
+1
+N
+A
+J
+
+0
+0
+:
+4
+0
+N
+A
+J
+
+0
+0
+:
+4
+1
+N
+A
+J
+
+5
+
+5
+
+5
+
+6
+
+6
+
+7
+
+7
+
+7
+
+8
+
+8
+
+9
+
+9
+
+0
+1
+
+0
+1
+
+0
+1
+
+1
+1
+
+1
+1
+
+2
+1
+
+2
+1
+
+2
+1
+
+3
+1
+
+3
+1
+
+4
+1
+
+4
+1
+
+0
+0
+:
+0
+0
+N
+A
+J
+
+0
+0
+:
+0
+1
+N
+A
+J
+
+0
+0
+:
+0
+2
+N
+A
+J
+
+0
+0
+:
+6
+0
+N
+A
+J
+
+0
+0
+:
+6
+1
+N
+A
+J
+
+0
+0
+:
+2
+0
+N
+A
+J
+
+0
+0
+:
+2
+1
+N
+A
+J
+
+0
+0
+:
+2
+2
+N
+A
+J
+
+0
+0
+:
+8
+0
+N
+A
+J
+
+0
+0
+:
+8
+1
+N
+A
+J
+
+0
+0
+:
+4
+0
+N
+A
+J
+
+0
+0
+:
+4
+1
+N
+A
+J
+
+0
+0
+:
+0
+0
+N
+A
+J
+
+0
+0
+:
+0
+1
+N
+A
+J
+
+0
+0
+:
+0
+2
+N
+A
+J
+
+0
+0
+:
+6
+0
+N
+A
+J
+
+0
+0
+:
+6
+1
+N
+A
+J
+
+0
+0
+:
+2
+0
+N
+A
+J
+
+0
+0
+:
+2
+1
+N
+A
+J
+
+0
+0
+:
+2
+2
+N
+A
+J
+
+0
+0
+:
+8
+0
+N
+A
+J
+
+0
+0
+:
+8
+1
+N
+A
+J
+
+0
+0
+:
+4
+0
+N
+A
+J
+
+0
+0
+:
+4
+1
+N
+A
+J
+
+5
+
+5
+
+5
+
+6
+
+6
+
+7
+
+7
+
+7
+
+8
+
+8
+
+9
+
+9
+
+0
+1
+
+0
+1
+
+0
+1
+
+1
+1
+
+1
+1
+
+2
+1
+
+2
+1
+
+2
+1
+
+3
+1
+
+3
+1
+
+4
+1
+
+4
+1
+
+• PHOTOVOLTAICS
+• CSP• WIND OFFSHORE
+• WIND ONSHORE
+• BIOMASS
+
+Time of day
+
+• HYDRO STORAGE
+• RUN-OF-RIVER
+• WAVE & TIDAL
+• GEOTHERMAL
+
+DEMAND DSM
+
+• PHOTOVOLTAICS
+• CSP• WIND OFFSHORE
+• WIND ONSHORE
+• BIOMASS
+
+• HYDRO STORAGE
+• RUN-OF-RIVER
+• WAVE & TIDAL
+• GEOTHERMAL
+
+DEMAND DSM
+
+source ENERGYNAUTICS
+
+source ENERGYNAUTICS
+
+59
+59
+
+4
+
+s
+u
+p
+e
+r
+
+g
+r
+i
+d
+
+:
+
+s
+i
+m
+u
+l
+a
+t
+i
+o
+n
+o
+f
+
+t
+h
+e
+
+e
+n
+e
+r
+g
+y
+
+[
+r
+]
+e
+v
+o
+l
+u
+t
+i
+o
+n
+f
+o
+r
+
+e
+u
+r
+o
+p
+e
+
+|
+
+E
+X
+T
+R
+E
+M
+E
+
+E
+V
+E
+N
+T
+S
+
+[R]ENEWABLES 24/7
+INFRASTRUCTURE NEEDED TO SAVE THE CLIMATE
+
+The following figure demonstrates the necessary transport between
+the different locations within the power system
+
+figure 43: power production (in MW) at three different
+locations. demonstration of necessary transport of power
+between the locations
+
+surplus power
+
+surplus
+
+0
+0
+:
+0
+0
+N
+A
+J
+
+0
+0
+:
+0
+1
+N
+A
+J
+
+0
+0
+:
+0
+2
+N
+A
+J
+
+0
+0
+:
+6
+0
+N
+A
+J
+
+0
+0
+:
+6
+1
+N
+A
+J
+
+0
+0
+:
+2
+0
+N
+A
+J
+
+0
+0
+:
+2
+1
+N
+A
+J
+
+0
+0
+:
+2
+2
+N
+A
+J
+
+0
+0
+:
+8
+0
+N
+A
+J
+
+0
+0
+:
+8
+1
+N
+A
+J
+
+0
+0
+:
+4
+0
+N
+A
+J
+
+0
+0
+:
+4
+1
+N
+A
+J
+
+0
+0
+:
+0
+0
+N
+A
+J
+
+0
+0
+:
+0
+1
+N
+A
+J
+
+0
+0
+:
+0
+2
+N
+A
+J
+
+0
+0
+:
+6
+0
+N
+A
+J
+
+0
+0
+:
+6
+1
+N
+A
+J
+
+0
+0
+:
+2
+0
+N
+A
+J
+
+0
+0
+:
+2
+1
+N
+A
+J
+
+0
+0
+:
+2
+2
+N
+A
+J
+
+0
+0
+:
+8
+0
+N
+A
+J
+
+0
+0
+:
+8
+1
+N
+A
+J
+
+0
+0
+:
+4
+0
+N
+A
+J
+
+0
+0
+:
+4
+1
+N
+A
+J
+
+5
+
+5
+
+5
+
+6
+
+6
+
+7
+
+7
+
+7
+
+8
+
+8
+
+9
+
+9
+
+0
+1
+
+0
+1
+
+0
+1
+
+1
+1
+
+1
+1
+
+2
+1
+
+2
+1
+
+2
+1
+
+3
+1
+
+3
+1
+
+4
+1
+
+4
+1
+
+Time of day
+
+transport
+via grid
+
+lack of
+power
+
+transport
+power
+
+surplus
+
+0
+0
+:
+0
+0
+N
+A
+J
+
+0
+0
+:
+0
+1
+N
+A
+J
+
+0
+0
+:
+0
+2
+N
+A
+J
+
+0
+0
+:
+6
+0
+N
+A
+J
+
+0
+0
+:
+6
+1
+N
+A
+J
+
+0
+0
+:
+2
+0
+N
+A
+J
+
+0
+0
+:
+2
+1
+N
+A
+J
+
+0
+0
+:
+2
+2
+N
+A
+J
+
+0
+0
+:
+8
+0
+N
+A
+J
+
+0
+0
+:
+8
+1
+N
+A
+J
+
+0
+0
+:
+4
+0
+N
+A
+J
+
+0
+0
+:
+4
+1
+N
+A
+J
+
+0
+0
+:
+0
+0
+N
+A
+J
+
+0
+0
+:
+0
+1
+N
+A
+J
+
+0
+0
+:
+0
+2
+N
+A
+J
+
+0
+0
+:
+6
+0
+N
+A
+J
+
+0
+0
+:
+6
+1
+N
+A
+J
+
+0
+0
+:
+2
+0
+N
+A
+J
+
+0
+0
+:
+2
+1
+N
+A
+J
+
+0
+0
+:
+2
+2
+N
+A
+J
+
+0
+0
+:
+8
+0
+N
+A
+J
+
+0
+0
+:
+8
+1
+N
+A
+J
+
+0
+0
+:
+4
+0
+N
+A
+J
+
+0
+0
+:
+4
+1
+N
+A
+J
+
+5
+
+5
+
+5
+
+6
+
+6
+
+7
+
+7
+
+7
+
+8
+
+8
+
+9
+
+9
+
+0
+1
+
+0
+1
+
+0
+1
+
+1
+1
+
+1
+1
+
+2
+1
+
+2
+1
+
+2
+1
+
+3
+1
+
+3
+1
+
+4
+1
+
+4
+1
+
+transport
+
+lack of
+power
+
+lack
+
+0
+0
+:
+0
+0
+N
+A
+J
+
+0
+0
+:
+0
+1
+N
+A
+J
+
+0
+0
+:
+0
+2
+N
+A
+J
+
+0
+0
+:
+6
+0
+N
+A
+J
+
+0
+0
+:
+6
+1
+N
+A
+J
+
+0
+0
+:
+2
+0
+N
+A
+J
+
+0
+0
+:
+2
+1
+N
+A
+J
+
+0
+0
+:
+2
+2
+N
+A
+J
+
+0
+0
+:
+8
+0
+N
+A
+J
+
+0
+0
+:
+8
+1
+N
+A
+J
+
+0
+0
+:
+4
+0
+N
+A
+J
+
+0
+0
+:
+4
+1
+N
+A
+J
+
+0
+0
+:
+0
+0
+N
+A
+J
+
+0
+0
+:
+0
+1
+N
+A
+J
+
+0
+0
+:
+0
+2
+N
+A
+J
+
+0
+0
+:
+6
+0
+N
+A
+J
+
+0
+0
+:
+6
+1
+N
+A
+J
+
+0
+0
+:
+2
+0
+N
+A
+J
+
+0
+0
+:
+2
+1
+N
+A
+J
+
+0
+0
+:
+2
+2
+N
+A
+J
+
+0
+0
+:
+8
+0
+N
+A
+J
+
+0
+0
+:
+8
+1
+N
+A
+J
+
+0
+0
+:
+4
+0
+N
+A
+J
+
+0
+0
+:
+4
+1
+N
+A
+J
+
+5
+
+5
+
+5
+
+6
+
+6
+
+7
+
+7
+
+7
+
+8
+
+8
+
+9
+
+9
+
+0
+1
+
+0
+1
+
+0
+1
+
+1
+1
+
+1
+1
+
+2
+1
+
+2
+1
+
+2
+1
+
+3
+1
+
+3
+1
+
+4
+1
+
+4
+1
+
+1,400
+
+1,200
+
+1,000
+
+800
+
+600
+
+400
+
+200
+
+MW      0
+
+1,200
+
+1,000
+
+800
+
+600
+
+400
+
+200
+
+MW      0
+
+2,000
+
+1,500
+
+1,000
+
+500
+
+MW      0
+
+60
+
+• PHOTOVOLTAICS
+• CSP• WIND OFFSHORE
+• WIND ONSHORE
+• BIOMASS
+
+• HYDRO STORAGE
+• RUN-OF-RIVER
+• WAVE & TIDAL
+• GEOTHERMAL
+
+DEMAND DSM
+
+• PHOTOVOLTAICS
+• CSP• WIND OFFSHORE
+• WIND ONSHORE
+• BIOMASS
+
+• HYDRO STORAGE
+• RUN-OF-RIVER
+• WAVE & TIDAL
+• GEOTHERMAL
+
+DEMAND DSM
+
+• PHOTOVOLTAICS
+• CSP• WIND OFFSHORE
+• WIND ONSHORE
+• BIOMASS
+
+• HYDRO STORAGE
+• RUN-OF-RIVER
+• WAVE & TIDAL
+• GEOTHERMAL
+
+DEMAND DSM
+
+image CONSTRUCTION OF OFFSHORE WIND TURBINES.
+
+E
+C
+A
+E
+P
+N
+E
+E
+R
+G
+N
+O
+S
+I
+V
+A
+D
+©
+
+/
+
+results
+
+The simulations of this event show that the currently installed grid
+and the available power during this event make it necessary:
+
+• to strengthen the grid in certain parts of Europe and
+
+• to transport further power (from e.g. CSP or Hydro) via HVDC
+
+lines directly to the centres of highest demand
+
+The following figure shows which regions would supply excess power
+and which region would lack power (have excess demand) during
+the January event. Arrows indicate the resulting load flow.
+
+figure 44: areas of lack and surplus of power during extreme january event
+
+LEGEND
+
+HIGH VOLTAGE
+NETWORK
+
+SURPLUS
+
+DEMAND
+
+4
+
+s
+u
+p
+e
+r
+
+g
+r
+i
+d
+
+:
+
+s
+i
+m
+u
+l
+a
+t
+i
+o
+n
+o
+f
+
+t
+h
+e
+
+e
+n
+e
+r
+g
+y
+
+[
+r
+]
+e
+v
+o
+l
+u
+t
+i
+o
+n
+f
+o
+r
+
+e
+u
+r
+o
+p
+e
+
+|
+
+E
+X
+T
+R
+E
+M
+E
+
+E
+V
+E
+N
+T
+S
+
+source UCTE, NORDEL AND ENERGYNAUTICS
+
+61
+
+During this event, Central-Europe and Great Britain would have a
+higher demand than they can supply whereas Northern and
+Southern Europe would have higher production than demand.
+Thus the load-flow is mainly from Northern Europe (mainly hydro
+power) and from Southern Europe (mainly solar power) to Central
+
+Europe. Due to this load flow, the interconnections between Spain
+and France, Italy and France, Romania and Poland, Sweden and
+Poland, and Ireland and Great Britain would have to be
+strengthened (Figure 45).
+
+figure 45: european high voltage network with marked reinforcements of interconnections
+
+LEGEND
+
+HIGH VOLTAGE
+NETWORK
+
+REINFORCEMENTS
+
+4
+
+s
+u
+p
+e
+r
+
+g
+r
+i
+d
+
+:
+
+s
+i
+m
+u
+l
+a
+t
+i
+o
+n
+o
+f
+
+t
+h
+e
+
+e
+n
+e
+r
+g
+y
+
+[
+r
+]
+e
+v
+o
+l
+u
+t
+i
+o
+n
+f
+o
+r
+
+e
+u
+r
+o
+p
+e
+
+|
+
+E
+X
+T
+R
+E
+M
+E
+
+E
+V
+E
+N
+T
+S
+
+62
+
+source UCTE, NORDEL AND ENERGYNAUTICS
+
+Due to the widespread lack of power within Central Europe, a
+further reinforcement of the HVAC grid seems not to be the best
+solution; instead the power should be transported directly from the
+source to the centres of demand via HVDC lines. This is the basis
+of the super grid, described in Section 3, with connections to
+sources in North Africa (Concentrating Solar Power) and
+Scandinavia (Hydro).
+
+The following table gives an overview over the medium generated
+power of different sources during the extreme January event. Wind
+power and PV have a fairly low proportion. Still 84% are provided
+by renewable energy supplies with a high share of biomass and
+hydro power. Only 16% has to be provided by conventional power.
+
+table 13: (medium) generated power in MW and share
+of different sources during extreme event
+
+Wind Onshore
+
+Wind Offshore
+
+Photovoltaics
+
+Geothermal
+
+Biomass
+
+CSP Plants
+
+Wave / Tidal
+
+Hydro run-of-river
+
+Hydro Storage
+
+Conventional
+
+Total
+
+source ENERGYNAUTICS
+
+36,260
+
+30,469
+
+22,220
+
+32,469
+
+83,510
+
+38,592
+
+7,214
+
+24,020
+
+65,295
+
+66,313
+
+406,362
+
+9%
+
+7%
+
+5%
+
+8%
+
+21%
+
+9%
+
+2%
+
+6%
+
+16%
+
+16%
+
+100%
+
+Again there is some surplus power which is available for storage.
+The following table gives an overview of maximum surplus power
+during this event. This time the amount of surplus PV power is
+lower in comparison to the previous investigated events.
+
+table 14: maximum of surplus power in MW during
+different hours of the extreme event
+
+Max Wind Onshore
+
+Max Wind Offshore
+
+Max Photovoltaics
+
+Max Total
+
+source ENERGYNAUTICS
+
+30,856
+
+58,049
+
+28,695
+
+117,600
+
+image GEO-THERMAL RESEARCH
+DRILLING IN THE SCHORFHEIDE DONE
+BY THE GEOFORSCHUNGSZENTRUM
+POTSDAM IN COOPERATION WITH THE
+GERMAN MINISTRY OF ENVIRONMENT
+AND VATTENFALL.
+
+P
+G
+
+/
+
+T
+I
+N
+E
+Z
+
+/
+
+K
+C
+O
+R
+G
+N
+A
+L
+L
+U
+A
+P
+©
+
+extreme autumn event (november 1987)
+
+The proposed improved grid is tested in a third extreme event,
+which has been identified for November 1987.
+
+In November solar power is considerably reduced due to the low
+path of the sun in the sky. During this event in November 1987,
+there was also a period of over twelve days, where there was hardly
+any wind. Both energy sources form the backbone of the E[R]
+scenario, therefore this is a critical situation for the whole power
+supply proposed.
+
+figure 46: wind speed in the north sea during oct/nov
+1987 (extreme winter event)
+
+]
+s
+/
+m
+
+[
+
+s
+d
+e
+e
+p
+s
+
+d
+n
+i
+W
+
+20
+
+18
+
+16
+
+14
+
+12
+
+10
+
+8
+
+6
+
+4
+
+2
+
+0
+
+source NCEP
+
+5 m/s
+
+27 Oct 29 Oct 1 Nov
+
+3 Nov
+
+5 Nov
+
+7 Nov
+
+9 Nov 11 Nov
+
+1987: North Sea, Location: 5E 55N
+
+4
+
+s
+u
+p
+e
+r
+
+g
+r
+i
+d
+
+:
+
+s
+i
+m
+u
+l
+a
+t
+i
+o
+n
+o
+f
+
+t
+h
+e
+
+e
+n
+e
+r
+g
+y
+
+[
+r
+]
+e
+v
+o
+l
+u
+t
+i
+o
+n
+f
+o
+r
+
+e
+u
+r
+o
+p
+e
+
+|
+
+E
+X
+T
+R
+E
+M
+E
+
+E
+V
+E
+N
+T
+S
+
+figure 47: solar radiation in north africa (tunis) during
+oct/nov 1997 (extreme winter event)
+
+2
+
+/
+
+m
+W
+n
+o
+i
+t
+a
+i
+d
+a
+r
+
+r
+a
+l
+o
+S
+
+700
+
+600
+
+500
+
+400
+
+300
+
+200
+
+100
+
+0
+
+23.10 23.10 23.10 23.10 23.10 23.10 23.10 23.10 23.10 23.10
+
+October- November 1997: North Africa (Tunis)
+
+source SATEL-LIGHT
+
+63
+
+4
+
+s
+u
+p
+e
+r
+
+g
+r
+i
+d
+
+:
+
+s
+i
+m
+u
+l
+a
+t
+i
+o
+n
+o
+f
+
+t
+h
+e
+
+e
+n
+e
+r
+g
+y
+
+[
+r
+]
+e
+v
+o
+l
+u
+t
+i
+o
+n
+f
+o
+r
+
+e
+u
+r
+o
+p
+e
+
+|
+
+E
+X
+T
+R
+E
+M
+E
+
+E
+V
+E
+N
+T
+S
+
+[R]ENEWABLES 24/7
+INFRASTRUCTURE NEEDED TO SAVE THE CLIMATE
+
+Further characteristics are presented in the following table.
+
+table 15: characteristic of extreme november event
+(available power in MW)
+
+Although there are regions with lack of power, in other regions
+there is a power surplus. The following table gives an overview over
+the maximum surplus power of different sources.
+
+HIGH
+
+AVERAGE
+
+LOW
+
+table 17: maximum of surplus power in MW during
+different hours of the extreme november event
+
+441,199
+82%
+
+444,999
+49%
+
+236,075
+62%
+
+200,106
+52%
+
+358,810
+67%
+
+212,189
+24%
+
+94,871
+25%
+
+44,264
+12%
+
+257,437
+48%
+
+112,415
+12%
+
+34,910
+9%
+
+0
+0%
+
+Max Wind Onshore
+
+Max Wind Offshore
+
+Max Photovoltaics
+
+Max Total
+
+source ENERGYNAUTICS
+
+42,922
+69,541
+66,400
+
+153,253
+
+Demand
+% of all time high
+
+Non Contr. RES
+% of inst. cap
+
+Windpower
+% of inst. cap
+
+Photovoltaics
+% of inst. cap
+
+source ENERGYNAUTICS
+
+results
+
+The reinforcement of the HVAC grid as well as the installation of
+the super grid as proposed in the previous section are sufficient to
+also cope with this event. No further actions have to be taken to
+keep the lights on during this extreme event.
+
+The following table gives an overview over the share of different
+sources during the event. The amount of wind power and PV is
+obviously fairly small whereas the amount of biomass is high. In this
+case 17% of the power is provided by conventional power plants.
+
+table 16: (medium) generated power in MW and share
+of different sources during extreme november event
+
+34,508
+
+26,654
+
+33,130
+
+29,166
+
+73,670
+
+9,284
+
+6,803
+
+22,057
+
+50,709
+
+58,394
+
+344,375
+
+10%
+
+8%
+
+10%
+
+8%
+
+21%
+
+3%
+
+2%
+
+6%
+
+15%
+
+17%
+
+100%
+
+Wind Onshore
+
+Wind Offshore
+
+Photovoltaics
+
+Geothermal
+
+Biomass
+
+CSP Plants
+
+Wave / Tidal
+
+Hydro run-of-river
+
+Hydro Storage
+
+Conventional
+
+Total
+
+source ENERGYNAUTICS
+
+64
+
+image HIGH VOLTAGE ELECTRICAL PYLON OVER
+CHAMPAGNE VINEYARDS. IF TEMPERATURES INCREASE
+BEYOND 2°C, FRANCE WILL BE FACED WITH A RUNAWAY
+GEOGRAPHICAL DISPLACEMENT OF BOTH ITS NATURAL
+AND CULTIVATED ECOSYSTEMS, AND THE EFFECTS ON
+THE SUSTAINABILITY OF WINE PRODUCTION WILL BE
+CATASTROPHIC FOR THE LOCAL INDUSTRY.
+
+S
+E
+Z
+I
+E
+L
+G
+E
+R
+R
+E
+I
+P
+
+/
+
+P
+G
+©
+
+4.5 additional simulations with reduced PV (2030
+scenario) with no storage capacity available
+
+The following table gives an overview over the medium generated
+power of different sources during the extreme January event.
+
+Additional to the 2050 scenario, the extreme events have been
+simulated with a reduced installation capacity of PV (2030
+scenario) from 383GW down to 211GW in order to reduce the
+amount of surplus PV power if there is no further storage capacity
+available. By systematic reduction at certain locations, where there
+are enough other renewable energy supplies available, the proposed
+power system including reinforcements and super grid can still cope
+with this situation during the extreme events.
+
+Simulation results show that further increasing PV installations
+above 211GW only makes sense if large-scale storage is available.
+These should be sized for about 12 hours’ storage to shift the power
+production during the day into evening and night hours. The usage of
+storages to this extent lies not within the scope of this study but
+should be investigated together with optimal placements of renewable
+energy generators and grid enhancements in further studies.
+
+extreme january event (1997) – reduced PV
+
+To further test the function of the grid, we took the extreme winter
+event described in Section 6 and modelled the available power with
+reduced PV (a small percentage of installed capacity operating).
+
+table 18: characteristic of extreme winter event
+january 1997 – reduced PV (available power in MW)
+
+HIGH
+
+AVERAGE
+
+LOW
+
+table 19: (medium) generated power in MW and share
+of different sources during extreme event
+
+Wind Onshore
+
+Wind Offshore
+
+Photovoltaics
+
+Geothermal
+
+Biomass
+
+CSP Plants
+
+Wave / Tidal
+
+Hydro run-of-river
+
+Hydro Storage
+
+Conventional
+
+Total
+
+source ENERGYNAUTICS
+
+36,954
+
+30,394
+
+11,129
+
+33,220
+
+85,930
+
+41,427
+
+7,266
+
+24,557
+
+68,362
+
+67,172
+
+406,412
+
+9%
+
+7%
+
+3%
+
+8%
+
+21%
+
+10%
+
+2%
+
+6%
+
+17%
+
+17%
+
+100%
+
+The following table gives an overview of maximum surplus power
+during this event. The amount of surplus PV is in comparison to the
+non-reduced scenario reduced from 27GW to only 5GW.
+
+table 20: maximum of surplus power in MW during
+different hours of the extreme event
+
+4
+
+s
+u
+p
+e
+r
+
+g
+r
+i
+d
+
+:
+
+s
+i
+m
+u
+l
+a
+t
+i
+o
+n
+o
+f
+
+t
+h
+e
+
+e
+n
+e
+r
+g
+y
+
+[
+r
+]
+e
+v
+o
+l
+u
+t
+i
+o
+n
+f
+o
+r
+
+e
+u
+r
+o
+p
+e
+
+|
+
+E
+X
+T
+R
+E
+M
+E
+
+E
+V
+E
+N
+T
+S
+
+Demand
+% of all time high
+
+Non Contr. RES
+% of inst. cap
+
+Windpower
+% of inst. cap
+
+Photovoltaics
+% of inst. cap
+
+source ENERGYNAUTICS
+
+491,064
+91%
+
+304,312
+42%
+
+184,042
+48%
+
+81,909
+39%
+
+406,098
+75%
+
+180,864
+25%
+
+96,236
+25%
+
+11,435
+5%
+
+Max Wind Onshore
+
+Max Wind Offshore
+
+Max Photovoltaics
+
+Max Total
+
+source ENERGYNAUTICS
+
+311,837
+58%
+
+108,067
+15%
+
+34,407
+9%
+
+0
+0%
+
+In comparison to the base simulation (Table 12) with 191GW there
+is at maximum 82GW PV available during this event.
+
+31,112
+
+58,265
+
+4,909
+
+102,414
+
+65
+
+[R]ENEWABLES 24/7
+INFRASTRUCTURE NEEDED TO SAVE THE CLIMATE
+
+4
+
+s
+u
+p
+e
+r
+
+g
+r
+i
+d
+
+:
+
+s
+i
+m
+u
+l
+a
+t
+i
+o
+n
+o
+f
+
+t
+h
+e
+
+e
+n
+e
+r
+g
+y
+
+[
+r
+]
+e
+v
+o
+l
+u
+t
+i
+o
+n
+f
+o
+r
+
+e
+u
+r
+o
+p
+e
+
+|
+
+T
+H
+E
+
+S
+U
+P
+E
+R
+
+G
+R
+I
+D
+
+P
+R
+O
+P
+O
+S
+A
+L
+
+extreme august event (2003) – reduced PV
+
+This extreme event has been described in the main document.
+For this simulation the installed PV capacity has been reduced
+from 383GW to 211GW.
+
+The following table shows the characteristic of this event
+with reduced PV.
+
+The following table gives an overview of maximum surplus power
+during this event. The amount of surplus PV is in comparison to the
+non-reduced scenario reduced from 117GW to 51GW. As described
+in the beginning of this section, a high amount of this power could
+be fed into storage systems and used at a later time. Doing this, the
+amount of conventional power can be further reduced.
+
+table 21: characteristic of extreme summer event
+august 2003– reduced PV (available power) in MW
+
+table 23: maximum of surplus power in MW during
+different hours of the extreme event
+
+HIGH
+
+AVERAGE
+
+LOW
+
+Demand
+% of all time high
+
+Non Contr. RES
+% of inst. cap
+
+Windpower
+% of inst. cap
+
+Photovoltaics
+% of inst. cap
+
+source ENERGYNAUTICS
+
+355,584
+66%
+
+271,333
+37%
+
+119,603
+81%
+
+146,509
+69%
+
+207,067
+38%
+
+148,631
+20%
+
+43,661
+29%
+
+45,881
+22%
+
+0
+0%
+
+82,709
+11%
+
+17,538
+12%
+
+0
+0%
+
+The following table gives an overview over the medium generated
+power of different sources during the extreme August event.
+
+table 22: (medium) generated power in MW and share
+of different sources during extreme event
+
+Wind Onshore
+
+Wind Offshore
+
+Photovoltaics
+
+Geothermal
+
+Biomass
+
+CSP Plants
+
+Wave / Tidal
+
+Hydro run-of-river
+
+Hydro Storage
+
+Conventional
+
+Total
+
+source ENERGYNAUTICS
+
+14,606
+
+13,253
+
+36,586
+
+31,404
+
+67,751
+
+13,459
+
+22,315
+
+62,012
+
+51,232
+
+40,077
+
+352,696
+
+4%
+
+4%
+
+10%
+
+9%
+
+19%
+
+4%
+
+6%
+
+18%
+
+15%
+
+11%
+
+100%
+
+Max Wind Onshore
+
+Max Wind Offshore
+
+Max Photovoltaics
+
+Max Total
+
+source ENERGYNAUTICS
+
+short-term issues
+
+19,954
+
+44,479
+
+51,394
+
+102,317
+
+The proposed super grid would be designed so that the interruption of
+one onshore interconnection (onshore super grid) or loss of a 5,000
+MW wind farm (offshore super grid partially down) can be
+compensated by the other interconnections within the super grid (N-1).
+That means that in such a situation, energy supply will continue.
+Besides the (N-1)-security, the super grid will continue to function for
+an extreme event described in the previous sections which is likely to
+happen only once every 40 years. To have a situation with both an
+extreme event and an interruption of an interconnection is very unlikely.
+
+4.6 the super grid proposal
+
+The scenarios modelled in this report lead to a proposal for
+strengthening existing European grid interconnections (HVAC) and
+creating a new super grid of HDVC that takes power straight from
+its source to the population centres, without having to travel via
+existing networks.
+
+Interconnections to be strengthened are those between Spain and
+France, Italy and France, Romania and Poland, Sweden and
+Poland, and Ireland and Great Britain (Figure 45). A full list and
+costs are provided in Section 4.7.
+
+66
+
+image SUBMARINE CABLE
+WITH OPTICAL FIBRE.
+
+The super grid is an HVDC grid in Central-Europe with connections
+to sources in North Africa (Concentrating Solar Power) and
+Scandinavia (Hydro). The following figure shows the proposed super
+
+grid, which includes the North Sea offshore grid proposed by
+Greenpeace in an earlier study.40 A full list of new HDVC
+connections and costs are provided in the following section.
+
+figure 48: map of the proposed super grid
+
+LEGEND
+
+HIGH VOLTAGE
+NETWORK
+
+NORTH SEA
+OFFSHORE GRID
+
+SUPER GRID
+
+B
+B
+A
+F
+O
+Y
+S
+E
+T
+R
+U
+O
+C
+©
+
+4
+
+s
+u
+p
+e
+r
+
+g
+r
+i
+d
+
+:
+
+s
+i
+m
+u
+l
+a
+t
+i
+o
+n
+o
+f
+
+t
+h
+e
+
+e
+n
+e
+r
+g
+y
+
+[
+r
+]
+e
+v
+o
+l
+u
+t
+i
+o
+n
+f
+o
+r
+
+e
+u
+r
+o
+p
+e
+
+|
+
+T
+H
+E
+
+S
+U
+P
+E
+R
+
+G
+R
+I
+D
+
+P
+R
+O
+P
+O
+S
+A
+L
+
+source UCTE, NORDEL ENERGYNAUTICS
+
+reference
+40 HTTP://WWW.GREENPEACE.DE/FILEADMIN/GPD/USER_UPLOAD/
+THEMEN/ENERGIE/OFFSHOREWINDGRID_FINAL.PDF
+
+67
+
+4
+
+s
+u
+p
+e
+r
+
+g
+r
+i
+d
+
+:
+
+s
+i
+m
+u
+l
+a
+t
+i
+o
+n
+o
+f
+
+t
+h
+e
+
+e
+n
+e
+r
+g
+y
+
+[
+r
+]
+e
+v
+o
+l
+u
+t
+i
+o
+n
+f
+o
+r
+
+e
+u
+r
+o
+p
+e
+
+|
+
+E
+S
+T
+I
+
+M
+A
+T
+I
+O
+N
+
+O
+F
+
+C
+O
+S
+T
+S
+
+[R]ENEWABLES 24/7
+INFRASTRUCTURE NEEDED TO SAVE THE CLIMATE
+
+4.7 estimation of costs
+
+The following table lists the interconnections which have to be
+strengthened (see also Figure 42) and gives an overview over
+the necessary additional capacity and distance.
+
+The overall costs of the reinforced interconnections are
+approximately €3 billion.
+
+The next table gives an overview over the necessary additional
+capacity and distances of the North Sea Offshore grid plus some
+selected HVDC connections (Table 23). The total costs have been
+estimated at approximately €16 billion, which is in line with the
+E[R] offshore grid study by Greenpeace.
+
+The overall costs of the new or strengthened HVDC connections are
+approximately €15.9 billion.
+
+table 24: strengthened HVAC interconnections
+
+table 25: new or strengthened HVDC Connections
+
+ADD CAPACITIY / MW
+
+DISTANCE / KM
+
+ADD CAPACITIY / MW
+
+DISTANCE / KM
+
+1,000
+
+1,000
+
+1,500
+
+2,500
+
+500
+
+3,500
+
+3,000
+
+3,000
+
+1,000
+
+1,500
+
+1,000
+
+3,500
+
+1,000
+
+1,000
+
+600
+
+760
+
+1,200
+
+27,560
+
+200
+
+250
+
+125
+
+200
+
+250
+
+375
+
+675
+
+875
+
+550
+
+325
+
+200
+
+125
+
+250
+
+225
+
+125
+
+125
+
+250
+
+5,125
+
+3,400
+
+1,700
+
+1,700
+
+5,100
+
+3,400
+
+1,700
+
+1,700
+
+3,400
+
+3,400
+
+1,700
+
+3,400
+
+1,700
+
+5,100
+
+1,700
+
+1,700
+
+1,700
+
+5,100
+
+1,700
+
+1,700
+
+500
+
+1,700
+
+1,700
+
+1,700
+
+1,700
+
+Belgium - France
+
+Belgium - GB
+
+Belgium – The Netherlands
+
+Denmark – Germany
+
+East West Interconnector
+
+GB – Germany
+
+GB – Norway (1)
+
+GB – Norway (2)
+
+Germany – Norway
+
+Germany – The Netherlands
+
+Inside GB (1)
+
+Inside GB (2)
+
+Inside Germany (1)
+
+Inside Germany (2)
+
+Inside Germany (3)
+
+Moyle Interconnector
+
+SwePol
+
+source ENERGYNAUTICS
+
+131
+
+100
+
+118
+
+450
+
+312
+
+93
+
+125
+
+237
+
+250
+
+175
+
+325
+
+250
+
+531
+
+250
+
+250
+
+93
+
+260
+
+218
+
+218
+
+562
+
+106
+
+125
+
+75
+
+93
+
+58,300
+
+5,347
+
+Austria – Czech Republic
+
+Belgium – The Netherlands
+
+Czech Republic - Poland
+
+France – Spain (1)
+
+France – Spain (2)
+
+Germany – The Netherlands
+
+Inside Czech Republic
+
+Inside France (1)
+
+Inside France (2)
+
+Inside France (3)
+
+Inside France (4)
+
+Inside Italy (1)
+
+Inside Italy (2)
+
+Inside Italy (3)
+
+Inside Romania
+
+Inside Slovakia
+
+Italy – France
+
+Italy - Switzerland
+
+Norway - Sweden
+
+Norway- Finland
+
+Romania – Ukraine
+
+Slovakia - Poland
+
+Slovakia - Ukraine
+
+Switzerland – France
+
+source ENERGYNAUTICS
+
+68
+
+image WINDTURBINES AND
+ELECTRICITY CABLES.
+
+/
+
+/
+
+P
+G
+T
+I
+N
+E
+Z
+K
+C
+O
+R
+G
+N
+A
+L
+©
+
+The capacity and distances of the European super grid togetherwith
+the estimated costs are given below. The costs are calculated for
+HVDC VSC (also referred to as HVDC light or HVDC plus), this
+technology is slightly more expensive but has the main advantage
+that it can contribute to system stability by providing reactive
+power to the HVAC grid and is more applicable for an HVDC grid.
+However, more research is needed to determine the real costs for
+the needed grid. Especially the availability of storage capacity
+within Europe, e.g. from electric vehicles. Further optimisation
+potential in the energy generation mix can significantly reduce grid
+expansion costs and could reduce the needed links between North
+Africa and Europe. An optimisation study would be required to find
+out if some money would be better invested in additional storage
+capacity or additional HVDC connections.
+
+Without further optimisation, the maximum transport capacity from
+North Africa to Central Europe is 55GW. This is slightly lower than
+the 60GW mentioned in the Energy [R]evolution scenario. During the
+extreme event a maximum of 35GW CSP power from Africa is used.
+Part of the surplus production has to be provided to compensate for
+the losses on the lines and in the converters. Part of the installed
+capacity will not produce at rated capacity due to maintenance and
+cloudy weather. An estimation of the necessary installed CSP power
+can be done by evaluating the n-1-security: There are three major
+HVDC interconnections (Spain, Italy, Greece) and three major
+production areas (Morocco, Tunisia, Egypt).
+
+• Up to 15 new HVDC ‘super grid’ connections,
+
+• Within Europe: up to 11 connections with a total of up to 6000
+
+km at a cost approximately €100 billion.
+
+• Between Europe and Africa: The capacity of the required
+
+interconnections depends largely on the amount of imported CSP
+electricity and on the availability of storage capacity within
+Europe. Without further optimisation and storage capacity,
+4 HVDC Connections with a total length of 5,500 to 6,000 km
+at a cost of approximately €90 billion.
+
+or €5,225 billion per year till 2050. Assuming the level of
+electricity consumption in Greenpeace’s Energy [R]evolution,
+this would cost about 0.15 c/ kWh over 40 years.
+
+The costs are more like to be the maximum of the needed
+investments. With an optimisation process via a slight change of the
+overall energy mix and/or the use of more storage capacity, the
+need for grid expansion can go down.
+
+4
+
+s
+u
+p
+e
+r
+
+g
+r
+i
+d
+
+:
+
+s
+i
+m
+u
+l
+a
+t
+i
+o
+n
+o
+f
+
+t
+h
+e
+
+e
+n
+e
+r
+g
+y
+
+[
+r
+]
+e
+v
+o
+l
+u
+t
+i
+o
+n
+f
+o
+r
+
+e
+u
+r
+o
+p
+e
+
+|
+
+E
+X
+T
+R
+E
+M
+E
+
+E
+V
+E
+N
+T
+S
+
+4.8 literature
+
+1 energy [r]evolution report 2009,
+www.energyblueprint.info/fileadmin/media/documents/energy_revolu
+tion2009.pdf
+
+2 MED-CSP report,
+www.dlr.de/tt/Portaldata/41/Resources/dokumente/institut/system/p
+rojects/MED-CSP_Full_report_final.pdf
+
+3 Trade-Wind: Integrating Wind - Developing Europe’s power
+market for the large-scale integration of wind power,
+www.trade-wind.eu/fileadmin/documents/publications/Final_Report.pdf
+
+4 NCEP-2 Reanalysis data provided by NOAA/OAR/ESRL PSD,
+Boulder, Colorado, USA, www.cdc.noaa.gov
+
+5 Solar radiation data provided by S@tel-Light, www.satellight.com
+
+6 Biomass potential in Europe,
+http://dataservice.eea.europa.eu/atlas/viewdata/viewpub.asp?id=2132
+
+7 ETSOVista: ENTSO-E - European Network of Transmission
+System Operators for Electricity, www.etsovista.org
+
+8 Zhou, Bialek ‘Approximation Model of European Interconnected
+System as a Benchmark System to Study Effects of Cross-Border
+Trades’, IEEE Transactions on Power Systems, Mai 2005
+
+9 European Commission: Eurostat - Population,
+http://epp.eurostat.ec.europa.eu/portal/page/portal/population/introduction
+
+10 Operational Security,
+www.entsoe.eu/_library/publications/ce/oh/Policy3_final.pdf
+
+11 energy [r]evolution: a north sea electricity grid report,
+www.greenpeace.de/fileadmin/gpd/user_upload/themen/energie/offsh
+orewindgrid_final.pdf
+
+12 Wind power to combat climate change - How to integrate wind
+energy into the power system, published by Energinet.dk, the Danish
+TSO, www.energinet.dk/NR/rdonlyres/3097FD4E-F82A-43D0-
+BBD9-8BF07C349474/0/Windpowermagazine.pdf
+
+13 Wind Power in Power Systems, Editor: Thomas Ackermann,
+Wiley & Sons, 2005. www.windpowerinpowersystems.info
+
+69
+
+appendix
+
+GLOBAL
+
+DEFINITIONS
+GRID CODES
+
+NEW WIND TURBINE
+CONTROL FUNCTIONS
+DEMAND-SIDE MANAGEMENT
+
+OVERVIEW OF NEW ELECTRIC
+ENERGY STORAGE OPTIONS
+
+5
+
+5
+
+“the largest potential for
+demand-side control is in
+heat or cooling activities
+within households
+and industry.”
+
+GREENPEACE INTERNATIONAL
+CLIMATE CAMPAIGN
+
+70
+
+image WINDTURBINE
+CONSTRUCTION YARD, UK.
+
+E
+C
+A
+E
+P
+N
+E
+E
+R
+G
+N
+O
+S
+I
+V
+A
+D
+©
+
+/
+
+appendix 1: definitions
+
+Power System Control and Power system Operation: Control
+generally means the process of maintaining the instantaneous
+balance of a power system, keeping the system balance. Operation is
+typically a set of short-term actions taken by power system
+equipment aimed at reducing internal and external disturbances
+affecting the desired operating point. Examples. A voltage regular
+takes a control action by adjusting the output voltage in order for
+the terminal voltage to equal the desirable value, in response to a
+deviation at the terminal of a synchronous generator. A typical
+operational aspect of the power system would be to deliberately
+change the set point of a generator.
+
+Power quality is a measure of how well the available supply serves
+the connected premises. It is commonly measured by harmonic
+oscillations, voltage fluctuations, supply frequency, power surges,
+voltage dips or interruptions.
+
+Electricity system reliability has two components, adequacy and
+security. Adequacy is the ability of the system to supply the energy
+requirements of the customers at all times, taking into account
+scheduled and unscheduled outages of system facilities. Security is
+the ability of the system to withstand sudden disturbances such as
+electric short circuits or unanticipated loss of system facilities.
+Reliability is commonly measured in terms of duration and
+frequency of sustained outages experienced in a year.
+
+Security of supply resembles system reliability and usually
+consists of the same two aspects: Operational security of the power
+system, i.e. ensuring a secure day-to-day operation and long-term
+security of supply, which mainly aims at securing an adequate long-
+term generation and transmission capacity.
+
+Ancillary services maintain the physical balance and safeguard the
+quality of electricity in a power system at all times. There are three
+categories of ancillary services:
+
+Frequency Control Ancillary Services (FCAS) maintain power
+system frequency, keeping supply and demand in balance.
+
+Normal operation reserves are a type of FCAS used to maintain
+normal operation at all times. Used, for instance, to balance the
+difference between forecasted wind power production and the
+actual wind power production. Typically normal operation reserves
+must be operating at full capacity after 15 to 30 minutes of order.
+
+Operational disturbance reserves, are a type of FCAS used in
+emergency situations to restore the electricity system to a secure
+state of operation within a reasonable time after a disturbance such
+as a trip of a power line or power plant. The amount of operational
+disturbance reserves is based on the worst-case fault e.g. loss of
+one of the largest production units. Typically operational
+disturbance reserves are always spinning so they are immediately
+available after a system disturbance.
+
+Network Control Ancillary Services (NCAS) is related to aspects
+of quality of supply other than frequency, e.g. voltage control. Most
+of NCAS is a service that can only be supplied locally. In
+distribution systems, this service is typically performed entirely by
+specific equipment, e.g. voltage control by special transformer or
+capacity banks, as local generation and local customers seldom are
+able to perform this service. In the transmission systems, currently
+large conventional power plants provide the NCAS.
+
+System Restoration Ancillary Services (SRAS), are related to
+system restoration or re-starts following major blackouts.
+Currently, mainly large conventional power plants are used to
+provide the SRAS.
+
+5
+
+a
+p
+p
+e
+n
+d
+i
+x
+
+|
+
+D
+E
+F
+I
+N
+I
+T
+I
+O
+N
+S
+
+71
+
+[R]ENEWABLES 24/7
+INFRASTRUCTURE NEEDED TO SAVE THE CLIMATE
+
+5
+
+a
+p
+p
+e
+n
+d
+i
+x
+
+|
+
+G
+R
+I
+D
+
+C
+O
+D
+E
+S
+
+appendix 2: grid codes
+
+The relationship of transmission system operators (TSOs) and/or
+distribution network operators (DSOs) with their customer
+(generators, consumers, etc.) is outlined in different grid codes.
+The objectives of the grid codes are to secure efficient and reliable
+power generation, distribution and transmission, and regulate rights
+and responsibilities of the entities acting in the electricity sector.
+
+Grid codes for generators typically include:
+
+• Control of ramp rates, i.e. generators should not ramp up or
+
+down too fast;
+
+• Support the restoration of frequency in case of a system
+
+imbalance between demand and supply;
+
+• Fulfil certain power quality standards, e.g. keep given
+
+voltage levels;
+
+• Support voltage control to keep the system voltage within
+
+predefined standards;
+
+• Stay connected to the power system in case of a fault
+
+(fault-ride-through).
+
+For wind power plants, such requirements were introduced in most
+countries over the past five to ten years and today new wind power
+plants can typically comply with these requirements. A key element
+for compliance with some of the grid codes requirements are the
+new control functions presented listed in Appendix 1.
+
+One of the key issues related to wind power plants and grid codes is
+the fault-ride-through requirement. Fault ride-through is the ability
+of a generator to stay connected to the grid even when the grid is
+experiencing a fault condition so that once the fault is cleared
+(which is normally done in less than 400 milliseconds) the wind
+power plant will resume the delivery of power. Similar requirements
+exist in most countries for conventional power plants. This
+requirement is extremely important for power systems with high
+shares of wind power, otherwise a small fault in the power system
+causing a regional voltage drop could result in the disconnection of
+all wind turbines in a large area.
+
+The following figure shows the fault-ride-through requirement for
+the German high-voltage network, which basically means:
+
+• A voltage drop due to a disturbances in the network, which is in
+depth and duration above borderline 1 (Figure 49) must not lead
+to a disconnection of the wind turbine from the grid.
+
+• In case a voltage drop happens, which is located between
+
+borderline 1 and borderline 2, a short-time disconnection from
+the network is permitted by agreement with the network operator.
+
+• Below borderline 2 a short-time disconnection of the wind turbine
+
+from the grid is always permitted.
+
+figure 49: fault-ride-through requirements for wind
+turbines for the German high-voltage network
+
+largest value of the
+three line to line
+network voltages U/UN
+
+borderline 1
+
+borderline 2
+
+lower value of the
+voltage range
+
+%
+
+100
+95
+90
+85
+80
+75
+70
+65
+60
+55
+50
+45
+40
+35
+30
+25
+20
+15
+10
+5
+0
+
+range where only a disconnection
+through system automatics
+is admissible
+
+selective disconnection of
+generators depending on
+their state
+
+0 150
+
+700
+
+1,500
+
+3,000
+
+moment of fault occurence
+
+Time in ms
+
+source TRANSMISSION CODE 2007, NETWORK AND SYSTEM RULES OF THE GERMAN
+TRANSMISSION SYSTEM OPERATORS, VDN, AUGUST 2007
+
+appendix 3: new wind turbine control functions
+
+New wind turbine control functions mean that wind turbines can
+operate with a certain constant reserve capacity in relation to their
+momentarily possible power production capacity. The advantage of
+such control is that reserve capacity is available and can be used
+very quickly for ramping up in order to provide balancing or
+frequency control action (see also Figure 50 on the following
+page). Using pitch control, wind power becomes one of the fastest
+regulating generating resources currently available. The 160 MW
+Horns Rev offshore wind farm in , for instance, can ramp up from
+zero production to 160 MW in approximately 8 seconds, assuming
+sufficient wind conditions. Such ramp rates are similar to - if not
+faster than - most conventional gas power stations. on the following
+page). Using pitch control, wind power becomes one of the fastest
+regulating generating resources currently available. The 160 MW
+Horns Rev offshore wind farm in Denmark, for instance, can ramp
+up from zero production to 160 MW in approximately 8 seconds,
+assuming sufficient wind conditions. Such ramp rates are similar to
+- if not faster than - most conventional gas power stations.
+
+The advantage of this approach is that wind power plants gain
+similar technical characteristics as conventional power plants. The
+drawback is reduced efficiency because up-regulation can only be
+achieved if wind is spilled before the actual ramping situation.
+
+72
+
+figure 50: new wind turbine control schemes
+
+CONTROL TYPE
+
+OBJECTIVE
+
+PRIMARY CONTROL OBJECTIVE
+
+System protection
+
+Protection function that shall be able to
+perform automatic down-regulation of
+the power production to an acceptable
+level for electrical network. In order to
+avoid system collapse it should act fast.
+
+Frequency control
+
+All production units shall contribute
+to the frequency control.
+
+Stop control
+
+Wind farm shall keep the production on
+the actual level even if it is an increase
+in the wind speed.
+
+Balance control
+
+The power production shall be adjusted
+downwards or upwards in steps at
+constant levels.
+
+Production rate
+
+Sets how fast the power production can
+be adjusted upwards on downwards.
+
+Absolute production
+limit
+
+Limit the maximum production level in
+the PCC in order to avoid the
+overloading of the system.
+
+Delta control
+
+The wind farm shall operate with a
+certain constant reserve capacity in
+relation to its momentary possible power
+production capacity.
+
+5
+
+a
+p
+p
+e
+n
+d
+i
+x
+
+|
+
+N
+E
+W
+T
+U
+R
+B
+I
+N
+E
+
+C
+O
+N
+T
+R
+O
+L
+
+F
+U
+N
+C
+T
+I
+O
+N
+S
+
+power
+
+SYSTEM PROTECTION TWO-REGULATION
+
+possible
+
+actual
+
+time
+
+Automatic control of power production based
+on frequency measurement to re-establish
+the rated frequency.
+
+power
+
+STOP REGULATION
+
+possible
+
+actual
+
+time
+
+power
+
+BALANCE CONTROL
+
+possible
+
+actual
+
+time
+
+power
+
+POWER GRADIENT CONSTRAINT
+
+possible
+
+actual
+
+time
+
+power
+
+ABSOLUTE PRODUCTION CONSTRAINT
+
+possible
+
+actual
+
+time
+
+power
+
+DELTA CONTROL
+
+possible
+
+Δ
+
+actual
+
+time
+
+source ECOGRID WP4 REPORT, PAGE 219, HTTP://WWW.ENERGINET.DK/NR/RDONLYRES/B57A4B4A-AC10-41C4-AB31-AFA55634FD31/0/WP4REPORTMEASURES_2009.PDF. PERMISSION
+TO USE THE FIGURE NEEDED, SUGGEST THAT ORDER OF CONTROL TYPES SHOULD BE CHANGED, DELTA CONTROL SHOULD BE FIRST).
+
+73
+
+WORKING FOR THE CLIMATE
+RENEWABLE ENERGY & THE GREEN JOB [R]EVOLUTION
+
+appendix 4: demand-side management
+
+Demand-Side Management (DSM) means taking active control of
+the demand by the electricity industry, including customers, to
+influence the amount and timing of electricity use. However, DSM
+usually does not include interruptible loads used for example, in an
+emergency situation for system balancing. DSM is usually driven by
+economic reasons and not controlled by the independent System
+Operator (ISO) or transmission system operator (TSO).
+
+DSM can be used by industrial and residential customers. The main
+aim is to make the consumption more flexible to be able to better react
+to what the power system is doing. DSM can help balance the power
+system, for instance in case of forecast errors for variable renewable
+power generation, but also for providing ancillary services such as
+spinning reserve (switching on/off electrical devices is the fastest way
+of balancing the power system in case of a frequency deviation).
+
+The largest potential for demand-side control is in heat or cooling
+activities within households and industry. In effect, the devices can be
+operated as short-term thermal storage devices. For instance, a freezer
+or large industrial cold storage building can be cooled down several
+degrees more in the morning to avoid operation during times with
+reduced availability of variable renewable energy sources (which will
+result in high electricity prices in a market-based electricity system).
+
+5
+
+a
+p
+p
+e
+n
+d
+i
+x
+
+|
+
+D
+E
+M
+A
+N
+D
+
+-
+S
+I
+D
+E
+M
+A
+N
+A
+G
+E
+M
+E
+N
+T
+
+For room heating or cooling there is some degree of flexibility in
+operations, as long as the room temperature and humidity stays
+within a human comfort zone. For instance, air-conditioning units
+within a building can be coordinated so that total demand from a
+building is reduced during certain times. These two examples would
+rely on a central control unit that could turn adjust heating or
+cooling up and down by degrees, depending on conditions in the
+grid. Not all devices in homes and offices can be operated
+depending on the availability of renewable energy resources,
+but the potential is still very high.
+
+Table 26 presents an overview of the residential electricity
+consumption in the US, Japan and Germany as well as the share of
+that consumption that could be controlled. Between 28.5% and
+55% of the installed capacity could be controlled, which represents
+about 7.6% to 19.2% of the total consumption. The significant
+difference between the countries is due to different local effects, for
+example, in Japan electric heating is not as common as in the US
+or Germany. While in the US electric heating might also be used
+during peak times, Germany already uses mainly night storage
+heating systems which therefore cannot be used for load shifting to
+reduce the peak demand. presents an overview of the residential
+electricity consumption in the US, Japan and Germany as well as
+the share of that consumption that could be controlled. Between
+28.5% and 55% of the installed capacity could be controlled,
+which represents about 7.6% to 19.2% of the total consumption.
+The significant difference between the countries is due to different
+local effects, for example, in Japan electric heating is not as
+common as in the US or Germany. While in the US electric heating
+might also be used during peak times, Germany already uses mainly
+night storage heating systems which therefore cannot be used for
+load shifting to reduce the peak demand.
+
+74
+
+table 26: overview of potential residential
+electricity consumption
+
+USA
+
+JAPAN
+
+GERMANY
+
+Residential share of total
+electricity consumption
+
+35%
+(1,124 TWh)
+
+26.9%
+(252 TWh)
+
+26.7%
+(130 TWh)
+
+Not controllable:a
+
+Electric kotatsu
+Cooking
+Vacuum cleaner
+Heated toilet seats
+Electronics
+TV, audio, video, PC
+Television
+Light
+Furnace fans
+Motor
+Fans
+Other
+
+Sum not controllable:
+
+Limited controllable:b
+
+Water boiler kitchen
+Washing machine
+Dryer
+Dishwasher
+Night Electric heating
+
+Sum limited control:
+
+Controllable:c
+
+Refrigerator
+Freezer
+Water boiler bath
+Water heating
+Air conditioning
+Electric heating
+
+Sum controllable:
+
+Sum control in % of
+total consumption
+
+Controllable plus limited
+controllable load in % of
+total consumption
+
+Share of residential consumption:
+
+-
+3%
+-
+-
+-
+11%
+
+3%
+9%
+2%
+9%
+-
+
+37%
+
+3.8%
+3.1%
+2.6%
+3.8%
+2.9%
+1.9%
+
+9.4%
+15.5%
+-
+-
+11.9%
+
+54.9%
+
+-
+7.9%
+3%
+-
+-
+-
+5.9%
+
+7.1%
+-
+-
+20%
+
+44.2%
+
+Share of residential consumption:
+
+-
+1%
+6%
+1%
+-
+
+8%
+
+-
+1%
+2.5%
+0.9%
+-
+
+4.4%
+
+2.7%
+3.6%
+2.4%
+2.8%
+14.8%
+
+26.3%
+
+Share of residential consumption:
+
+11%
+3%
+-
+10%
+13%
+18%
+
+55%
+
+19.2%
+
+17.2%
+-
+-
+-
+23.5%
+-
+
+40.7%
+
+10.9%
+
+8.1%
+8.8%
+8.8%
+-
+-
+2.8%
+
+28.5%
+
+7.6%
+
+22%
+
+12.1%
+
+14.6%
+
+notes
+a. CONSUMERS WILL MOST LIKELY NOT ACCEPT ANY DEMAND-SIDE CONTROL FOR
+THOSE APPLIANCES.
+b. CONSUMERS WILL SOMETIMES ACCEPT DEMAND-SIDE CONTROLFOR THOSE APPLIANCES.
+c. CONSUMERS WILL ACCEPT DEMAND-SIDE CONTROL FOR THOSE APPLIANCES IF
+INTERRUPTION IS WITHIN THE STORAGE CAPACITY.
+
+source DISTRIBUTED RESOURCES IN A REREGULATED MARKET ENVIRONMENT, PH.D.
+THESIS T. ACKERMANN, ROYAL INSTITUTE OF TECHNOLOGY, STOCKHOLM, SWEDEN 2004.
+
+image HELIOSTATS MIRRORS AT THE PS10
+CONCENTRATING SOLAR TOWER PLANT IN SPAIN.
+
+O
+D
+N
+O
+D
+E
+R
+L
+E
+K
+R
+A
+M
+
+/
+
+P
+G
+©
+
+Currently, such storage is only possible using a large number of
+hydro dams with significant water storage capacity. The
+Scandinavian hydro-power system, for instance, can store sufficient
+water to cover total electricity demand in Scandinavia for 6
+months. However, this requires significant changes in the water level
+of the hydro reservoirs. In some cases the difference between a full
+and empty reservoir would amount to 15 meters causing severe
+environmental issues.
+
+figure 51: overview of operation range of different
+energy storage technologies. SMES = superconducting
+magnetic energy storage
+
+s
+h
+t
+n
+o
+m
+/
+s
+y
+a
+d
+
+s
+r
+u
+o
+h
+
+s
+e
+t
+u
+n
+i
+m
+
+s
+d
+n
+o
+c
+e
+s
+
+pump storage
+
+flower batteries
+
+compressed air
+
+lead acid batteries
+
+supercaps
+
+flywheels
+
+SMES
+
+1 kW
+
+10 kW 100 kW 1 MW
+
+10 MW 100 MW 1,000 MW
+
+source ECOGRID PHASE 1 WP4 REPORT, AVAILABLE AT:
+HTTP://WWW.ENERGINET.DK/NR/RDONLYRES/B57A4B4A-AC10-41C4-AB31-
+AFA55634FD31/0/WP4REPORTMEASURES_2009.PDF, PAGE 16
+
+5
+
+a
+p
+p
+e
+n
+d
+i
+x
+
+|
+
+O
+V
+E
+R
+V
+I
+E
+W
+O
+F
+
+N
+E
+W
+E
+L
+E
+C
+T
+R
+I
+C
+
+E
+N
+E
+R
+G
+Y
+
+S
+T
+O
+R
+A
+G
+E
+
+O
+P
+T
+I
+O
+N
+S
+
+appendix 5: overview of new electric energy
+storage options
+
+Among the technologies available for electrical energy storage, the
+relationship between peak power and energy is critical. Figure 49 shows
+the types of energy storage devices available, and their typical energy
+volume indicated by the time to completely fill the empty storage device
+as well as the typical power ratings. For flow batteries, the energy
+volume and the time can be designed independently of the power
+capacity, but for economic reasons, the typical time is limited to a
+maximum of one day. Table 27 provides a more detailed comparison of
+storage technology including current cost levels. With a wider
+implementation of storage technology, the costs would drop significantly.
+shows the types of energy storage devices available, and their typical
+energy volume indicated by the time to completely fill the empty storage
+device as well as the typical power ratings. For flow batteries, the energy
+volume and the time can be designed independently of the power
+capacity, but for economic reasons, the typical time is limited to a
+maximum of one day. Table 28 provides a more detailed comparison of
+storage technology including current cost levels. With a wider
+implementation of storage technology, the costs would drop significantly.
+provides a more detailed comparison of storage technology including
+current cost levels. With a wider implementation of storage technology,
+the costs would drop significantly.
+
+Figure 51 also shows that electrical energy storage will only be
+suitable for balancing variable generation for a day or so, i.e. by
+“moving” surplus wind energy generated during a storm to a day
+without wind. However, the electrical energy storage technologies
+listed here would not be able to store surplus wind energy generated in
+the winter for compensating long periods with low or no wind in the
+summer. also shows that electrical energy storage will only be suitable
+for balancing variable generation for a day or so, i.e. by “moving”
+surplus wind energy generated during a storm to a day without wind.
+However, the electrical energy storage technologies listed here would
+not be able to store surplus wind energy generated in the winter for
+compensating long periods with low or no wind in the summer.
+
+table 27: short comparison of different energy storage technologies
+
+ENERGY STORAGE
+TECHNOLOGY
+
+POWER CAPACITY
+(MW)
+
+ENERGY CAPACITY
+(MW)
+
+ELECTRICICAL
+EFFICIENCY
+
+ENERGY COST
+(€/KWH/YR)
+
+POWER COST
+(€/KWH/YR)
+
+Flywheel
+
+Compressed air
+
+Conventional battery
+
+Redox flow battery
+
+Superconducting magnetic
+energy storage (SMES)
+
+Supercapacitors
+
+Hydrogen
+
+< 10
+
+5 - 400
+
+4
+
+0.005 - 500
+
+2
+
+< 20
+
+0.2 - 4
+
+< 250
+
+2,600,000+
+
+40,000
+
+400,000
+
+< 5
+
+< 5
+
+n/a
+
+80+
+
+55 - 75
+
+75 - 85
+
+65 - 75
+
+95
+
+85 - 98
+
+75 - 80
+
+77
+
+1.5-3
+
+24-117
+
+9.4-12.5
+
+3x105
+
+570
+
+6.8
+
+0.88
+
+34.16
+
+73 - 351
+
+70 - 144
+
+47
+
+4.8
+
+128
+
+source ECOGRID PHASE 1 WP4 REPORT, AVAILABLE AT: HTTP://WWW.ENERGINET.DK/NR/RDONLYRES/B57A4B4A-AC10-41C4-AB31-AFA55634FD31/0/WP4REPORTMEASURES_2009.PDF, PAGE 20
+
+75
+
+the energy
+[r]evolution
+
+Greenpeace is a global organisation that uses non-violent direct
+action to tackle the most crucial threats to our planet’s biodiversity
+and environment. Greenpeace is a non-profit organisation, present
+in 40 countries across Europe, the Americas, Asia and the Pacific.
+It speaks for 2.8 million supporters worldwide, and inspires many
+millions more to take action every day. To maintain its
+independence, Greenpeace does not accept donations from
+governments or corporations but relies on contributions from
+individual supporters and foundation grants.
+
+Greenpeace has been campaigning against environmental
+degradation since 1971 when a small boat of volunteers and
+journalists sailed into Amchitka, an area west of Alaska, where
+the US Government was conducting underground nuclear tests.
+This tradition of ‘bearing witness’ in a non-violent manner continues
+today, and ships are an important part of all its campaign work.
+
+Greenpeace International
+Ottho Heldringstraat 5, 1066 AZ Amsterdam, The Netherlands
+t +31 20 718 2000  f +31 20 514 8151
+sven.teske@greenpeace.org
+www.greenpeace.org
+
+european renewable energy council - [EREC]
+Created on 13 April 2000, the European Renewable Energy Council
+(EREC) is the umbrella organisation of the European renewable
+energy industry, trade and research associations active in the
+sectors of bioenergy, geothermal, ocean, small hydro power, solar
+electricity, solar thermal and wind energy. EREC represents thus
+40 billion € turnover and provides jobs to around 350,000 people!
+
+EREC is composed of the following non-profit associations and
+federations: AEBIOM (European Biomass Association); eBIO
+(European Bioethanol Fuel Association); EGEC (European
+Geothermal Energy Council); EPIA (European Photovoltaic Industry
+Association); ESHA (European Small Hydro power Association);
+ESTIF (European Solar Thermal Industry Federation); EUBIA
+(European Biomass Industry Association); EWEA (European Wind
+Energy Association); EUREC Agency (European Association of
+Renewable Energy Research Centers); EREF (European Renewable
+Energies Federation); EU-OEA (European Ocean Energy Association);
+ESTELA (European Solar Thermal Electricity Association) and
+Associate Member: EBB (European Biodiesel Board)
+
+EREC European Renewable Energy Council
+Renewable Energy House, 63-67 rue d’Arlon,
+B-1040 Brussels, Belgium
+t +32 2 546 1933  f+32 2 546 1934
+erec@erec.org  www.erec.org
+
+O
+D
+N
+O
+D
+E
+R
+L
+E
+K
+R
+A
+M
+P
+G
+©
+
+/
+
+image AERIAL PHOTO OF THE PS10 CONCENTRATING SOLAR THERMAL POWER PLANT OUTSIDE SEVILLA, SPAIN. THE 11 MEGAWATT SOLAR POWER TOWER PRODUCES ELECTRICITY WITH
+624 LARGE MOVABLE MIRRORS CALLED HELIOSTATS. THE SOLAR RADIATION, MIRROR DESIGN PLANT IS CAPABLE OF PRODUCING 23 GWH OF ELECTRICITY WHICH IS ENOUGH TO SUPPLY
+POWER TO A POPULATION OF 10,000.
+

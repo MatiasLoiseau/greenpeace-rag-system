@@ -1,0 +1,1818 @@
+TOXIQUE À
+JAMAIS RECYCLAGE DU PLASTIQUE,
+
+UNE MENACE POUR
+LA SANTÉ SELON DES
+DONNÉES SCIENTIFIQUES
+
+T
+r
+i
+d
+e
+s
+d
+é
+c
+h
+e
+t
+s
+d
+a
+n
+s
+u
+n
+e
+u
+s
+i
+n
+e
+d
+e
+r
+e
+c
+y
+c
+l
+a
+g
+e
+
+,
+
+S
+t
+e
+r
+l
+i
+t
+a
+m
+a
+k
+
+,
+
+R
+u
+s
+s
+i
+e
+.
+1
+0
+J
+a
+n
+v
+i
+e
+r
+2
+0
+1
+9
+
+.
+.
+
+©
+S
+h
+u
+t
+t
+e
+r
+s
+t
+o
+c
+k
+
+Without dramatically reducing plastic production,
+it will be impossible to end plastic pollution
+and eliminate the health threats
+from chemicals in plastics.
+
+L
+e
+s
+b
+é
+b
+é
+s
+m
+â
+c
+h
+e
+n
+t
+d
+e
+s
+j
+o
+u
+e
+t
+s
+e
+n
+p
+l
+a
+s
+t
+i
+q
+u
+e
+©
+p
+a
+v
+l
+a
+/
+S
+h
+u
+t
+t
+e
+r
+s
+t
+o
+c
+k
+
+.
+
+CONTENTS
+
+3
+
+4
+
+7
+
+8
+
+10
+
+12
+
+14
+
+17
+
+RÉSUMÉ
+
+ PRODUITS CHIMIQUES
+DANGEREUX CONTENUS DANS LE
+PLASTIQUE RECYCLÉ : LES TROIS
+VOIES D’ACHEMINEMENT DES
+SUBSTANCES TOXIQUES
+
+ RECYCLAGE DU PLASTIQUE
+TOXIQUES = RECYCLAGE DES
+PRODUITS CHIMIQUES
+
+ DONNÉES SCIENTIFIQUES SUR LES
+MENACES CHIMIQUES LIÉES AU
+RECYCLAGE DU PLASTIQUE
+
+ LES PLASTIQUES RECYCLÉS
+PEUVENT EMPOISONNER
+LES TRAVAILLEURS ET LES
+COMMUNAUTÉS :
+
+ LES PRODUITS EN PLASTIQUE
+RECYCLÉ PEUVENT EMPOISONNER
+LES CONSOMMATEURS :
+
+ L’INDUSTRIE DU RECYCLAGE DES
+MATIÈRES PLASTIQUES PRÉSENTE
+DES RISQUES POUR LA SANTÉ
+
+ METTRE FIN À L’HISTOIRE D’AMOUR
+AVEC LE « PLASTIQUE RECYCLÉ »
+ET SE CONCENTRER SUR LA
+RÉDUCTION DE LA PRODUCTION ET
+DE L’UTILISATION DU PLASTIQUE
+
+18
+
+19
+
+RÉFÉRENCES
+
+NOTES DE FIN
+
+1
+
+TOXIQUE À JAMAIS
+
+PLASTICS ARE
+INHERENTLY
+INCOMPATIBLE
+WITH A
+CIRCULAR
+ECONOMY
+
+2
+
+© Les Stone / Greenpeace
+
+Plate-forme pétrolière dans le Colorado© Les Stone / Greenpeace
+
+TOXIQUE À JAMAISRÉSUMÉ
+
+Le réseau mondial de Greenpeace1 plaide en faveur
+d’un traité ambitieux et juridiquement contraignant sur
+la gestion des matières plastiques à l’échelle mondiale.
+L’objectif de ce traité est d’accélérer et de créer les
+conditions nécessaires à une transition juste permettant
+de s’affranchir de la dépendance au plastique. Le traité
+devrait promouvoir le recours à des matériaux plus
+sûrs et exempts de substances toxiques ainsi que des
+économies basées sur la réutilisation et l’absence de
+déchets. Cela devrait mener à la création de nouveaux
+emplois pour soutenir ces pratiques, en protégeant la
+santé humaine et planétaire, en minimisant l’utilisation
+des ressources et en assurant une transition juste pour
+les travailleurs et les communautés concernées tout au
+long de la chaîne d’approvisionnement et de traitement
+des déchets plastiques.
+
+Si la production de plastique n’est pas
+
+considérablement réduite, il sera impossible de mettre
+fin à la pollution plastique et de supprimer les menaces
+que représentent les substances chimiques contenues
+dans les plastiques pour la santé. Le traité doit donc
+plafonner et réduire la production de plastique, et
+définir la marche à suivre pour mettre fin à la production
+de plastique vierge.
+
+L’industrie du plastique, notamment les entreprises
+
+spécialisées dans les combustibles fossiles, la
+pétrochimie et les biens de consommation, constitue un
+obstacle majeur. En effet, elle continue de présenter le
+
+recyclage du plastique et le contenu recyclé comme des
+solutions idéales à la crise de la pollution par les matières
+plastiques. Mais la vérité est que moins de 10 % de tous
+les plastiques produits ont été recyclés.2 Fort de ce
+constat, de nombreuses voix s’élèvent pour promouvoir
+des objectifs de recyclage plus ambitieux, considérés
+comme la solution la plus adaptée à la crise mondiale
+du plastique. Par exemple, les membres du US Plastic
+Pact (Pacte américain sur les plastiques) plaident en
+faveur du recyclage et d’une « utilisation circulaire » des
+plastiques, détournant ainsi l’attention sur la nécessité
+de réduire radicalement la production mondiale de
+plastique. Ils transfèrent par la même occasion le
+fardeau de la gestion des déchets plastiques au public
+plutôt qu’à eux-mêmes, producteurs de ces déchets.
+
+De nombreuses entreprises de biens de
+
+consommation, dont Nestlé, Unilever et Coca-Cola,
+se targuent d’utiliser du plastique recyclé dans leurs
+emballages et y voient une partie importante de la
+solution. Pourtant, elles ne parviennent pas à réduire de
+manière substantielle l’utilisation globale de plastique,
+ni à réaliser des progrès significatifs en matière de
+réutilisation. Bien au contraire, l’on assiste plutôt à une
+augmentation de l’utilisation de plastique dans certains
+cas. Mais, la réalité est que la plupart des plastiques
+collectés pour le recyclage ne sont jamais recyclés,
+et lorsque c’est le cas, ils contiennent un cocktail
+toxique de produits chimiques qui les rend impropres
+à l’usage alimentaire et à d’autres utilisations par les
+consommateurs. À proprement parler, les plastiques sont
+incompatibles avec une économie circulaire.
+
+n
+o
+t
+l
+i
+
+m
+a
+H
+
+l
+u
+a
+P
+©
+a
+l
+o
+C
+-
+a
+c
+o
+C
+e
+d
+s
+e
+l
+l
+i
+e
+t
+u
+o
+B
+
+s
+e
+g
+a
+m
+
+I
+y
+t
+t
+e
+G
+/
+a
+i
+d
+e
+M
+x
+a
+f
+r
+i
+a
+F
+©
+
+3
+
+TOXIQUE À JAMAIS
+
+PRODUITS CHIMIQUES
+DANGEREUX CONTENUS DANS LE
+PLASTIQUE RECYCLÉ : LES TROIS
+VOIES D’ACHEMINEMENT DES
+SUBSTANCES TOXIQUES
+
+Des produits chimiques dangereux sont introduits dans
+les matériaux plastiques recyclés à partir de diverses
+sources. La plupart des plastiques étant fabriqués à
+partir d’une combinaison de carbone (principalement
+du pétrole/gaz) et de produits chimiques toxiques,
+la voie la plus évidente est la contamination directe,
+car les produits chimiques présents dans les matières
+plastiques d’origine sont simplement transférés
+dans le plastique recyclé. Cependant, les produits
+chimiques peuvent également pénétrer dans les
+plastiques recyclés par d’autres voies, en raison de
+la contamination du flux de déchets plastiques et du
+processus de recyclage lui-même.
+
+4
+
+Les trois voies incontrôlables d’acheminement des
+substances toxiques lors du recyclage du plastique sont
+les suivantes :
+
+1.  Des produits chimiques toxiques contenus dans les
+nouvelles matières plastiques vierges : Lorsqu’un
+produit plastique est fabriqué avec des produits
+chimiques toxiques et qu’il est ensuite recyclé, ces
+substances nocives peuvent être transférées dans les
+plastiques recyclés.
+
+2.  Lessivage de substances toxiques dans les déchets
+plastiques : De nombreuses études révèlent que
+les matières plastiques peuvent absorber des
+contaminants par contact direct et par absorption de
+composés volatils.3 Lorsque le plastique est contaminé
+par des toxines présentes dans le flux de déchets et
+dans l’environnement et qu’il est ensuite recyclé, il en
+résulte du plastique recyclé renfermant une multitude
+de produits chimiques toxiques. Par exemple, les
+contenants en plastique pour les pesticides, les solvants
+de nettoyage et d’autres produits chimiques toxiques
+qui entrent dans la chaîne de recyclage peuvent
+entraîner une contamination du plastique recyclé.
+
+3.  Les nouvelles substances chimiques toxiques créées
+par le processus de recyclage : Lorsque les matières
+plastiques sont chauffées au cours du processus de
+recyclage, cela peut générer de nouvelles substances
+chimiques toxiques qui s’introduisent dans les plastiques
+recyclés. Par exemple, des dioxines bromées sont créées
+lorsque des plastiques contenant des retardateurs de
+flamme bromés sont recyclés,4 et un stabilisateur utilisé
+dans le recyclage des plastiques peut se dégrader en
+une substance hautement toxique que l’on retrouve
+dans les plastiques recyclés.5 Les problèmes liés au tri et
+la présence de certains composants d’emballage dans
+les matériaux triés peuvent également être à l’origine de
+la toxicité du plastique recyclé. Des études ont montré
+que le benzène (un agent cancérigène) peut être créé
+par le recyclage mécanique du plastique PET#1, même
+avec des taux très faibles de contamination par le
+plastique PVC#3, ce qui fait que le produit chimique
+cancérigène se retrouve dans les plastiques recyclés.6
+
+TOXIQUE À JAMAISPLASTIC
+RECYCLING'S
+UNCONTROLABLE
+POISONOUS
+PATHWAY
+
+1
+
+TOXIC
+CHEMICALS
+IN NEW
+VIRGIN
+PLASTIC
+MATERIALS
+
+3
+
+NEW TOXIC
+CHEMICALS
+CREATED BY
+THE RECYCLING
+PROCESS
+
+2
+
+LEACHING
+OF TOXIC
+SUBSTANCES
+INTO PLASTIC
+WASTE
+
+1
+.
+
+C
+a
+n
+a
+r
+d
+d
+e
+b
+a
+i
+n
+©
+R
+o
+m
+a
+n
+G
+o
+r
+i
+e
+l
+o
+v
+/
+S
+h
+u
+t
+t
+e
+r
+s
+t
+o
+c
+k
+
+,
+
+2
+
+.
+
+C
+o
+n
+t
+e
+n
+e
+u
+r
+s
+d
+e
+s
+t
+o
+c
+k
+a
+g
+e
+i
+n
+d
+u
+s
+t
+r
+i
+e
+l
+s
+e
+n
+p
+l
+a
+s
+t
+i
+q
+u
+e
+©
+L
+e
+i
+t
+e
+n
+b
+e
+r
+g
+e
+r
+P
+h
+o
+t
+o
+g
+r
+a
+p
+h
+y
+/
+S
+h
+u
+t
+t
+e
+r
+s
+t
+o
+c
+k
+
+,
+
+3
+
+.
+
+P
+
+l
+a
+s
+t
+i
+q
+u
+e
+f
+o
+n
+d
+u
+©
+w
+
+i
+t
+t
+a
+y
+a
+p
+h
+o
+t
+o
+
+/
+S
+h
+u
+t
+t
+e
+r
+s
+t
+o
+c
+k
+
+5
+
+TOXIQUE À JAMAIS
+
+THE HUMAN
+ENDOCHRINE
+SYSTEM
+
+The hormones released by the
+endocrine system control many
+important functions in the body,
+including growth and development,
+metabolism, and reproduction.
+Because of the endocrine system’s
+critical role in so many important
+biological and physiological functions,
+impairments in any part of
+the endocrine system can lead to
+disease or even death.
+
+Pineal
+Hypothalmus
+Pituatary
+Thyroid
+Parathyroid
+Cardiovascular
+Mammary
+Liver
+Adrenal
+Kidney
+Pancreas
+Adipose tissue
+Ovary
+Prostate
+Testis
+Bone
+
+6
+
+TOXIQUE À JAMAISRECYCLAGE DU PLASTIQUE
+TOXIQUES = RECYCLAGE DES
+PRODUITS CHIMIQUES
+
+Les plastiques contiennent pas moins de 13 000
+substances chimiques, dont 3 200 sont préoccupantes
+selon les chercheurs (beaucoup d’autres n’ont jamais été
+évaluées et pourraient également être toxiques).7 Alors
+que les plastiques vierges contiennent des substances
+chimiques nocives inconnues et non testées, des
+études révèlent que les plastiques recyclés contiennent
+souvent des niveaux plus élevés de substances
+chimiques susceptibles de causer des intoxications et de
+contaminer les communautés.8 Les substances chimiques
+contenues dans les plastiques recyclés ont été associées
+au cancer, aux maladies cardiovasculaires, à l’obésité et
+à d’autres problèmes de santé.9
+
+•  Lorsque les matières plastiques sont exportées
+par le biais du recyclage, elles sont souvent
+mises en décharge ou brûlées, ce qui entraîne
+une contamination de l’environnement et de la
+chaîne alimentaire.
+
+•  Les travailleurs et leurs communautés sont exposés
+à des produits chimiques toxiques provenant des
+plastiques qu’ils collectent, trient et démontent
+en vue de leur recyclage. Les zones de recyclage
+du plastique devraient être soumises à la même
+réglementation que les installations qui traitent des
+déchets dangereux et que les sites contaminés qui
+libèrent des produits chimiques dangereux.
+•  Les produits plastiques recyclés exposent les
+
+Il est important de comprendre que non seulement les
+gens sont exposés à des produits chimiques toxiques lors
+de la production et de l’utilisation de plastique vierge,
+mais qu’ils sont également exposés à des produits
+chimiques toxiques lors du recyclage du plastique tout
+au long du flux de recyclage :
+
+consommateurs à des produits chimiques toxiques,
+y compris des produits chimiques interdits au niveau
+mondial. Le recyclage peut combiner des produits
+chimiques toxiques provenant de différents plastiques
+et créer de nouveaux produits chimiques dangereux, qui
+se retrouvent tous dans les produits en plastique recyclé.
+
+QUAND LES DÉCHETS
+PLASTIQUES SONT DES DÉCHETS
+POP HAUTEMENT TOXIQUES
+
+Les polluants organiques persistants (POP) figurent
+parmi les produits chimiques les plus toxiques au
+monde. Ils sont réglementés au niveau mondial par
+la Convention de
+Stockholm, tout comme
+les déchets contenant
+des POP. La Convention
+fixe une limite de
+concentration pour
+chaque POP, appelée
+« faible teneur en
+POP », et tout déchet
+plastique qui contient
+un ou plusieurs POP
+au-delà de ce seuil
+est défini comme
+un déchet POP. Les
+produits électroniques,
+les composantes
+
+intérieures en plastique des véhicules et des avions, les
+textiles synthétiques utilisés dans l’ameublement, les
+tapis et autres revêtements de sol, entre autres, sont
+des matières plastiques courantes dans lesquelles des
+POP ont été ajoutés intentionnellement. En vertu de la
+Convention, les parties doivent détruire et non recycler
+les déchets de POP (sauf si les POP peuvent être extraits
+et traités séparément). Mais actuellement, les normes
+
+de la LPCL sont faibles
+et ne permettent
+pas d’empêcher
+le recyclage des
+déchets plastiques
+contenant des POP. En
+conséquence, et comme
+l’illustrent plusieurs
+études ci-dessous, de
+nombreux nouveaux
+produits en plastique
+recyclé contiennent
+des niveaux significatifs
+de ces POP hautement
+toxiques interdits à
+l’échelle mondiale.
+
+k
+c
+o
+t
+s
+r
+e
+t
+t
+h
+S
+/
+z
+e
+i
+D
+o
+i
+c
+i
+r
+a
+p
+A
+l
+e
+u
+n
+a
+M
+n
+a
+u
+J
+
+'
+
+©
+n
+o
+i
+v
+a
+d
+r
+u
+e
+i
+r
+é
+t
+n
+I
+
+7
+
+TOXIQUE À JAMAIS
+
+1
+
+DONNÉES
+SCIENTIFIQUES
+SUR LES MENACES
+CHIMIQUES LIÉES
+AU RECYCLAGE
+DU PLASTIQUE
+
+De nombreuses études révèlent que le recyclage
+des matières plastiques peut nuire à la santé et à
+l’environnement.
+
+LES PLASTIQUES RECYCLÉS PEUVENT CONTAMINER
+L’ENVIRONNEMENT ET LES CHAÎNES ALIMENTAIRES :
+
+Un rapport publié en 201310 dans Nature recommande de
+soumettre les déchets plastiques à une réglementation
+les classant parmi les déchets dangereux, y compris les
+déchets probablement destinés au recyclage, en raison
+des menaces qu’ils représentent pour l’environnement, les
+chaînes alimentaires et la santé. Il est indiqué dans l’article
+que les substances chimiques toxiques contenues dans le
+plastique peuvent être nocives pour les animaux sauvages
+qui les consomment. Des recherches antérieures ont
+démontré que toutes les espèces de tortues de mer, 45 %
+des espèces de mammifères marins et 21 % des espèces
+d’oiseaux de mer étaient exposées à ce type de danger.
+Selon les auteurs, « étant donné que le plastique (les
+déchets) se fragmente en petits morceaux, il est plus enclin
+à s’infiltrer dans les réseaux alimentaires ».
+
+Une étude réalisée en 201311 a mis en évidence la présence
+
+de substances chimiques polluantes dans l’air autour et à
+l’intérieur des installations de recyclage des plastiques en
+Chine, ce qui pourrait avoir des répercussions sur la santé des
+travailleurs et des résidents locaux. Les concentrations de
+substances chimiques nocives à proximité des installations
+étaient plus élevées que celles d’un site de référence.
+
+Deux études12 menées en Chine ont révélé des niveaux
+
+élevés de produits chimiques ignifuges dans les sols,
+les sédiments et la poussière des routes à proximité des
+installations de recyclage des plastiques, par rapport à des
+niveaux faibles dans des échantillons prélevés dans des
+zones où il n’y a pas de recyclage des plastiques.
+
+Une étude13 réalisée en 2021 par le Réseau international
+
+pour l’élimination des polluants (IPEN) et Arnika a analysé
+35 échantillons groupés d’œufs de poules élevées en plein
+air et 1 échantillon individuel d’œufs provenant de 25 sites
+dans le monde entier pour y détecter certains polluants
+organiques persistants. Les œufs produits à proximité
+des sites de recyclage des déchets électroniques et des
+déchets plastiques figuraient parmi les échantillons les plus
+contaminés de l’étude.
+
+8
+
+TOXIQUE À JAMAIS3
+
+2
+
+4
+
+1. Pommes emballées dans du plastique dans un supermarché
+de Hong Kong © Patrick Cho / Greenpeace  2. Collecte municipale
+de recyclage © Dmitry Kalinovsky / Shutterstock  3.Déchets à
+côté des rizières en Chine © Greenpeace / Yat Yin  4. Poissons
+ayant ingéré du microplastique © The 5 Gyres Institute 5.
+Déchets à côté des rizières en Chine © Rumbo a lo desconocido
+/ Shutterstock  6. Pollution par les microplastiques du Rhin en
+Allemagne© Oliver Tjaden / Greenpeace  7. Cuisiner avec des
+oeufs © fizkes / Shutterstock
+
+6
+
+5
+
+7
+
+9
+
+TOXIQUE À JAMAIS1
+
+LES PLASTIQUES
+RECYCLÉS
+PEUVENT
+EMPOISONNER
+LES TRAVAILLEURS
+ET LES
+COMMUNAUTÉS :
+
+Selon une étude réalisée en 2015,14 les travailleurs des
+ateliers de recyclage du plastique sont exposés à des
+risques sanitaires liés aux composés organiques volatils
+produits par les processus de recyclage, certains d’entre
+eux étant exposés à un risque accru de cancer.
+
+Une étude réalisée en 202015 sur les travailleurs
+du secteur du recyclage du plastique (ramasseurs
+de déchets) dans la bande de Gaza a révélé que la
+plupart d’entre eux avaient été exposés à des matières
+dangereuses au cours des 12 mois précédents et que la
+majorité avait signalé des maladies professionnelles.
+Une étude de 202116 sur le recyclage au Viêt Nam
+a établi que « les processus typiques de recyclage du
+plastique dans les villages d’artisans s’accompagnent
+de risques pour la santé des travailleurs et des voisins
+et d’un risque élevé de pollution de l’environnement ».
+
+Un rapport de Human Rights Watch datant de 202217
+
+a documenté les effets sur la santé des installations de
+recyclage de plastique en Turquie, constatant que les
+travailleurs du secteur du recyclage et les habitants des
+environs peuvent être exposés à des produits chimiques
+nocifs lorsqu’ils inhalent des poussières ou des fumées
+toxiques. Ils risquent ainsi de souffrir toute leur vie de
+problèmes de santé, notamment de cancers et de
+troubles de la reproduction.
+
+Une étude de l’IPEN réalisée en 202318 a révélé
+
+la présence de Dechlorane Plus (DP), un produit
+chimique ignifuge pour plastiques, dans le sang, les
+aliments et l’environnement des personnes travaillant
+dans le secteur du recyclage à domicile. L’analyse
+du sang d’un travailleur du secteur du recyclage de
+matières plastiques en Thaïlande a révélé un niveau
+de DP près de 280 fois supérieur aux traces trouvées
+chez les travailleurs agricoles qui vivaient à 15 km des
+sites de recyclage.
+
+10
+
+TOXIQUE À JAMAIS2
+
+3
+
+1. Plastique recyclé en Inde
+© PradeepGaurs / Shutterstock
+2. Un éboueur travaillant dans une
+installation de collecte de déchets à
+Istanbul, en Turquie. © Sahan Nuhoglu
+/ Shutterstock  3. Usine de recyclage de
+déchets électroniques en Turquie
+© OVKNHR / Shutterstock  4. Bénévole
+portant des gants pour gérer les travaux
+de tri du plastique dans une usine de
+recyclage du plastique.
+
+4
+
+11
+
+TOXIQUE À JAMAISLES PRODUITS EN PLASTIQUE
+RECYCLÉ PEUVENT EMPOISONNER
+LES CONSOMMATEURS :
+
+Une étude menée en 201519 par des chercheurs tchèques
+et allemands a révélé que les plastiques recyclés
+utilisés dans les emballages alimentaires et d’autres
+produits contenaient des retardateurs de flamme
+toxiques, y compris des POP interdits, ce qui pourrait
+avoir des répercussions sur la santé des enfants et des
+consommateurs.
+
+Une étude réalisée en 201720 a révélé des niveaux élevés
+
+de retardateurs de flamme toxiques dans des jouets et
+d’autres produits en plastique recyclé achetés dans l’UE.
+Un jouet pour enfant contenait des niveaux d’un produit
+chimique réglementé neuf fois supérieurs aux limites de
+sécurité de l’UE.
+
+Une étude réalisée en 2018 par l’IPEN, Arnika, l’Alliance
+
+pour la santé et l’environnement et BUND21 a révélé des
+niveaux élevés de dioxine dans des produits en plastique
+recyclé, y compris des jouets, provenant de sept pays sur
+quatre continents. Les niveaux étaient similaires à ceux
+trouvés dans certains déchets dangereux, tels que les
+cendres d’incinération des déchets, et dans la moitié des
+produits, ils dépassaient les limites proposées pour les
+dioxines chlorées dans les déchets dangereux.
+
+Une étude de l’IPEN22 réalisée en 2021 a analysé
+des granulés de plastique recyclé achetés auprès de
+24 installations de recyclage dans 23 pays. Les tests
+ont montré que tous les granulés contenaient au moins
+un produit chimique toxique et que 21 échantillons
+contenaient les trois types de produits chimiques
+testés, notamment des perturbateurs endocriniens
+et des produits chimiques liés à la neurotoxicité, aux
+effets cytotoxiques et cardiovasculaires. Notant que les
+granulés recyclés sont souvent transformés en jouets et
+autres produits destinés aux enfants, le rapport avertit
+que ses résultats « soulèvent des inquiétudes quant
+aux effets potentiels sur la santé et à l’exposition des
+populations vulnérables telles que les enfants ».
+
+Une étude réalisée en 202023 a révélé des niveaux
+
+élevés de dioxines hautement toxiques dans des
+jouets en plastique recyclé, dont trois ont été jugés
+« aussi contaminés que des déchets dangereux »
+selon les limites fixées par la Convention de Stockholm.
+Elle a également évalué l’ingestion quotidienne
+de produits chimiques toxiques provenant des
+habitudes buccales des enfants et a constaté que
+
+12
+
+la « contribution de l’ingestion de plastique noir
+contaminé à la charge corporelle de dioxine des
+enfants est significative et souvent supérieure à la DJT
+[dose journalière tolérable] recommandée. »
+
+Un rapport de l’IPEN datant de 202224 résume les
+données relatives aux produits en plastique recyclé
+provenant de Chine, d’Indonésie et de Russie, et constate
+que tous ces produits contiennent des substances
+chimiques toxiques, y compris des substances interdites
+par les conventions internationales. Les 73 produits
+analysés contenaient un ou plusieurs produits chimiques
+ignifuges interdits au niveau mondial.
+
+Une étude réalisée en 202225 a révélé que les
+bouteilles en plastique recyclé présentaient des
+concentrations plus élevées de produits chimiques
+toxiques que les bouteilles fabriquées à partir de
+nouveaux plastiques, ce qui indique que le processus de
+recyclage peut intensifier les menaces chimiques.
+
+Une étude réalisée en 202226 par IPEN, Arnika et
+des partenaires dans 11 pays africains et arabes a
+révélé la présence de produits chimiques toxiques
+dans des jouets en plastique recyclé, des ustensiles de
+cuisine et d’autres produits. 61 des 83 produits analysés
+présentaient des teneurs en POP permettant de les
+considérer comme des déchets de POP dans les limites
+proposées par les pays africains.
+
+Une étude réalisée en 202327 par l’Institut Fraunhofer
+
+et l’IES Landau a testé des plastiques recyclés de post-
+consommation provenant de différents pays européens.
+Elle a trouvé 51 substances chimiques présentant des
+risques de toxicité intermédiaires à élevés et 30 qui
+n’ont pas pu être identifiées (en vertu de la législation
+européenne, seules les substances autorisées peuvent être
+utilisées dans les plastiques de qualité alimentaire28).
+
+Une étude de l’IPEN réalisée en 2023 sur des produits
+
+en plastique recyclé achetés au Kenya29 a révélé que
+14 des 18 produits contenaient des niveaux élevés
+de retardateurs de flamme toxiques, dépassant la
+définition des déchets POP dangereux proposée par les
+pays africains. Un échantillon, une voiture jouet, a été
+testé pour détecter la présence de dioxines bromées.
+Il contenait ces substances chimiques toxiques à des
+concentrations plus élevées que celles trouvées dans les
+cendres provenant de l’incinération des déchets.
+
+TOXIQUE À JAMAIS1
+
+3
+
+4
+
+2
+
+5
+
+1. Fragments de plastique
+© Meaw_stocker / Shutterstock
+2. Usine de recyclage de déchets
+électroniques en Turquie © OVKNHR
+/ Shutterstock  3. Fruits dans des
+emballages en plastique à usage
+unique © monticello / Shutterstock
+4. Images de produits de bouteilles
+en plastique fabriquées par Coca-
+Cola, Pepsi et Nestlé, trois des plus
+grands pollueurs de plastique.
+© Tim Aubry / Greenpeace  5.Enfant
+mâchant un jouet en plastique  ©
+DeymosHR / Shutterstock
+
+13
+
+TOXIQUE À JAMAISL’INDUSTRIE DU
+RECYCLAGE DES
+MATIÈRES PLASTIQUES
+PRÉSENTE DES RISQUES
+POUR LA SANTÉ
+
+L’augmentation des stocks de plastique accroît le risque
+d’incendies importants dans les installations de recyclage,
+en particulier lorsque les installations détiennent des
+déchets électroniques contenant des piles usagées. Une
+enquête menée aux États-Unis et au Canada en 2022
+a révélé un nombre record de 390 incendies dans des
+installations de recyclage de plastique et de déchets.30 Un
+autre projet a permis de cartographier les incendies dans
+les installations de recyclage des plastiques à l’échelle
+mondiale depuis 2018.31 Un rapport provenant de Turquie
+indique que le nombre d’incendies dans les installations de
+recyclage du plastique dans ce pays est passé de 33 en
+2019 à 121 en 2021, soit un tous les trois jours.32 De même, en
+
+1
+
+14
+
+TOXIQUE À JAMAISMalaisie, un rapport de 2020 fait état d’un doublement des
+incendies dans les installations de recyclage de plastique
+par rapport à l’année précédente. Il indique également que
+les experts en santé environnementale ont mis en garde les
+résidents contre les fumées provenant des incendies, qui
+peuvent causer des problèmes respiratoires, déclencher
+et aggraver l’asthme, et provoquer des éruptions cutanées
+et des lésions oculaires.33 Deux études réalisées en 201734
+ont révélé qu’un incendie survenu en 2015 dans une
+installation de recyclage de plastique en Grèce avait
+libéré des composés cancérigènes persistants (dioxines
+et furannes) et ont conclu que même des rejets de courte
+durée pouvaient augmenter les risques de cancer à vie pour
+
+les résidents. Après un nouvel incendie dans une installation
+de recyclage de plastique en Grèce en 2020, les experts
+en santé ont recommandé aux résidents d’éviter ou de
+laver soigneusement les produits locaux en raison de la
+toxicité des produits chimiques libérés par la combustion
+des plastiques.35 Au cours des 12 mois précédant avril 2023,
+d’importants incendies ont été signalés dans des
+installations de recyclage de plastique en Australie,36 au
+Canada,37 au Ghana,38 en Russie,39 dans le sud de Taïwan,40
+en Thaïlande,41 et au Royaume-Uni,42 ainsi que dans les
+États américains de Floride,43 de l’Indiana,44 de Caroline du
+Nord,45 et du Nebraska46 (dans une usine qui produisait du
+bois d’œuvre en plastique à partir de plastiques recyclés) ].
+
+1. Un incendie dans une usine de recyclage de
+plastiques à Richmond, dans l'Indiana, a forcé
+l'évacuation de 2 000 résidents à proximité. Credit:
+Kevin Shook/Global Media Enterprise. 2. Incendie
+dans une usine de plastique, Hull, Royaume-Uni
+3. De la fumée noire s'élève au-dessus d'une
+explosion dans une usine de plastique en Thaïlande.
+© Varit Soponpis / Shutterstock
+
+2
+
+3
+
+15
+
+TOXIQUE À JAMAISPLASTIC
+PRODUCTION
+FORECAST
+TO TRIPLE
+BY 2060
+
+16
+
+Eau potable dans des bouteille en plastique
+© Sergey Ryzhov / Shutterstock
+
+TOXIQUE À JAMAISMETTRE FIN À L’HISTOIRE
+D’AMOUR AVEC LE
+« PLASTIQUE RECYCLÉ »
+ET SE CONCENTRER
+SUR LA RÉDUCTION DE
+LA PRODUCTION ET DE
+L’UTILISATION DU PLASTIQUE
+
+Si la production de plastique n’est pas réduite de façon
+drastique, il sera impossible de mettre fin à la pollution
+plastique. L’écart entre la quantité de plastique produite
+et la quantité recyclée est énorme, l’Organisation de
+coopération et de développement économiques (OCDE)
+estimant que seulement 9 % des déchets plastiques sont
+recyclés dans le monde. La situation ne fera qu’empirer, car
+la production de plastique devrait tripler d’ici à 2060, alors
+que le recyclage ne devrait connaître qu’une augmentation
+minime.47 Les effets en aval de la surproduction de
+plastique sont bien documentés : ils nuisent à la santé des
+communautés vivant à proximité des décharges et des
+incinérateurs, la prévalence du plastique dans le corps
+humain est avérée et la vie marine est dévastée.
+
+Selon les statistiques de l’ONU, en 2018, environ 6 millions
+de tonnes de déchets plastiques ont fait l’objet d’un
+commerce international, en grande partie sous la forme
+d’exportations de plastiques mélangés non triés, des pays
+à revenu élevé vers les pays à faible revenu, principalement
+en Asie du Sud et du Sud-Est.48 Un rapport de 2023 a fait le
+constat selon lequel ce chiffre est probablement largement
+sous-estimé et a averti que « sans politiques mondiales
+visant à réduire la production de plastique, il continuera d’y
+avoir un échange inégal de déchets plastiques des pays
+à revenu élevé vers les pays à revenu faible ou moyen »49
+dont beaucoup ont un PIB inférieur au chiffre d’affaires des
+grandes entreprises productrices de plastique.
+
+Malgré les effets dévastateurs de la surproduction
+de plastique et la nécessité d’accélérer les systèmes
+basés sur le remplissage et la réutilisation, l’industrie du
+plastique continue de soutenir que la crise mondiale
+du plastique peut être résolue en relevant les objectifs
+nationaux de recyclage et en augmentant la quantité de
+contenu recyclé dans les emballages plastiques à usage
+unique. Outre les problèmes de santé liés à l’utilisation
+de plastiques recyclés, l’augmentation du recyclage
+des plastiques entraîne une augmentation des risques
+
+toxiques pour la santé et l’environnement dans l’ensemble
+du flux de recyclage. Ces menaces ont un impact inégal
+sur les communautés les plus vulnérables.
+
+Au lieu d’encourager le recyclage des plastiques
+toxiques, le traité mondial sur les plastiques doit :
+
+1.  Réduire immédiatement et de manière
+
+significative la production de plastique, en
+ouvrant la voie à l’arrêt de la production de
+plastique vierge.
+
+2.  Promouvoir le passage à des économies basées
+
+sur le remplissage et la réutilisation, en créant
+des emplois et des normes dans les nouvelles
+industries de réutilisation et en soutenant les
+pratiques établies de zéro déchet.
+
+3.  Soutenir une transition équitable pour les
+
+travailleurs de la chaîne d’approvisionnement en
+matières plastiques, en accordant la priorité aux
+ramasseurs de déchets qui collectent environ
+60 % de toutes les matières plastiques destinées
+au recyclage dans le monde.
+
+4.  Promouvoir les technologies de non-combustion
+
+5.
+
+pour les stocks de plastique et l’élimination des
+déchets.
+Instituer le principe du « pollueur-payeur »
+pour la gestion des déchets plastiques et pour
+la prise en compte des coûts sanitaires et
+environnementaux tout au long du cycle de vie
+des plastiques.
+
+6.  Renforcer de manière significative la
+
+réglementation, la surveillance, la sécurité et la
+protection des travailleurs dans les installations
+de recyclage existantes.
+
+7.  Exiger de la transparence sur les produits
+chimiques contenus dans les plastiques et
+éliminer tous les additifs et produits chimiques
+toxiques utilisés dans le cycle de vie des
+plastiques.
+
+17
+
+TOXIQUE À JAMAISRÉFÉRENCES
+
+6 News. 2023. Omaha Fire Investigating Large Fire at First Star
+Recycling. 30 mars 2023. https://www.wowt.com/2023/03/30/
+ofd-investigates-large-fire-first-star-recycling/
+
+Agence France Presse. 2022. In Turkey, Plastic Waste and Toxic Fumes.
+https://time.news/in-turkey-plastic-waste-and-toxic-fumes/
+
+Ahern, T.P., Spector, L.G., Damkier, P. Esen, B.Ö., Ulrichsen, S.P., Eriksen, K.,
+Lash, T.L. ... Cronin-Fenton, D.P. 2022. Medication-Associated Phthalate
+Exposure and Childhood Cancer Incidence. Journal of the National Can-
+cer Institute 114 (6): 885–894. https://doi.org/10.1093/jnci/djac045
+
+Al-Khatib, I.A., Al-Sari, M.I. & Kontofianni, S. 2020. Assessment of Occu-
+pational Health and Safety Among Scavengers in Gaza Strip, Palestine.
+Journal of Environmental and Public Health 2020: 3780431. https://doi.
+org/10.1155/2020/3780431
+
+Alvarado Chacon, F., Brouwer, M. & van Velzen, E. 2020. Effect of Recycled
+Content and rPET Quality on the Properties of PET Bottles, Part I: Optical
+and Mechanical Properties. Packaging Technology and Science 33(2):
+347–357. http://dx.doi.org/10.1002/pts.2490
+
+Associated Press. 2023. “Toxic” Plastic Fire Forces 1,000 People
+to Evacuate in Indiana. The Guardian, April 12, 2023. https://www.
+theguardian.com/us-news/2023/apr/12/toxic-indiana-plas-
+tic-fire-evacuation
+
+Ayamany, K. 2020. Incidence of Fire at Recycling Plants Spikes During
+MCO, Causing Health Hazards from Toxic Fumes. The Sun Daily, June
+16, 2020. https://www.thesundaily.my/local/incidence-of-fire-at-
+recycling-plants-spikes-during-mco-causing-health-hazards-from-
+toxic-fumes-AY2607057
+
+Brosché, S., Strakova, J., Bell, L. & Karlsson, T. 2021. Widespread Chemical
+Contamination of Recycled Plastic Pellets Globally. IPEN. https://ipen.
+org/documents/widespread-chemical-contamination-recycled-plas-
+tic-pellets-globally
+
+Budin, C., Petrlík, J., Strakova, J., Hamm, S., Beeler, B., Behnisch, P., Besse-
+link, H. ... Brouwer, A. 2020. Detection of High PBDD/Fs Levels and Diox-
+in-Like Activity in Toys Using a Combination of GC-HRMS, Rat-Based and
+Human-Based DR CALUX® Reporter Gene Assays. Chemosphere 251:
+126579. https://doi.org/10.1016/j.chemosphere.2020.126579
+
+Callaghan, M.A., Alatorre-Hinojosa, S., Connors, L.T., Singh, R.D. & Thomp-
+son, J.A. 2020. Plasticizers and Cardiovascular Health: Role of Adipose
+Tissue Dysfunction. Frontiers in Pharmacology 11: 626448. https://doi.
+org/10.3389%2Ffphar.2020.626448
+
+Elworthy, J. 2022. Multiple Crews Tackle Blaze at Fenland Plastics
+Recycling Plant. Ely Standard, July 11, 2022.  https://www.elystandard.
+co.uk/news/20684741.multiple-crews-tackle-blaze-fenland-plas-
+tics-recycling-plant/
+
+European Commission. 2011. Commission Regulation (EU) No 10/2011 of
+14 January 2011 on Plastic Materials and Articles Intended to Come into
+Contact with Food. https://eur-lex.europa.eu/LexUriServ/LexUriServ.
+do?uri=CONSLEG:2011R0010:20111230:EN:PDF
+
+Everington, K. 2022. Video Shows Fire Break Out in Southern Taiwan
+Factory. Taiwan News, October 11, 2022. https://www.taiwannews.com.
+tw/en/news/4682936
+
+Gerassimidou, S., Lanska, P., Hahladakis, J., Lovat, E., Vanzetto, S.,
+Geueke, B. ... Iacovidou, E. 2022. Unpacking the Complexity of the
+PET Drink Bottles Value Chain: A Chemicals Perspective. Journal
+of Hazardous Materials 430: 128410. https://doi.org/10.1016/j.
+jhazmat.2022.128410
+
+Guzzonato, A., Puype, F. & Harrad, S.J. 2017. Evidence of Bad Recycling
+Practices: BFRs in Children’s Toys and Food-Contact Articles.
+Environmental Science: Processes & Impacts 19(7): 956-963. https://
+doi.org/10.1039/c7em00160f
+
+He, Z., Li, G., Chen, J., Huang, Y., An, T. & Zhang, C. 2015. Pollution Charac-
+teristics and Health Risk Assessment of Volatile Organic Compounds
+Emitted from Different Plastic Solid Waste Recycling Workshops.
+Environment International 77: 85–94. https://doi.org/10.1016/j.
+envint.2015.01.004
+
+Heindel, J.J., Howard, S., Agay-Shay, K., Arrebola, J.P., Audouze, K., Babin,
+P.J., Barouki, R. … Blumberg, B. 2022. Obesity II: Establishing Causal Links
+Between Chemical Exposures and Obesity. Biochemical Pharmacology
+199: 115015. https://doi.org/10.1016/j.bcp.2022.115015
+
+Hromadske Int. [@Hromadske]. 2023. Twitter post, April 22, 2023.
+https://twitter.com/Hromadske/status/1649723411411738628
+
+Huang, D.-Y., Zhou, S.-G., Feng W.-F. & Tao, L. 2013. Pollution Characteris-
+tics of Volatile Organic Compounds, Polycyclic Aromatic Hydrocarbons
+and Phthalate Esters Emitted from Plastic Wastes Recycling Granula-
+tion Plants in Xingtan Town, South China. Atmospheric Environment 71:
+327–334. https://doi.org/10.1016/j.atmosenv.2013.02.011
+
+Human Rights Watch. 2022. “It’s as If They’re Poisoning Us”: The Health
+Impacts of Plastic Recycling in Turkey. https://www.hrw.org/sites/
+default/files/media_2022/09/turkey0922web_0.pdf
+
+CEJAD, IPEN & Arnika. 2023. Hazardous Chemicals in Plastic Products
+and Food Chain in Kenya. https://ipen.org/documents/hazard-
+ous-chemicals-plastic-products-and-food-chain-kenya
+
+IPEN. 2022. How Plastics Poison the Circular Economy: Data from China,
+Indonesia and Russia and Others Reveal the Dangers. https://ipen.org/
+documents/how-plastics-poison-circular-economy
+
+CHEM Trust. 2022. CHEM Trust Newsletter: Avril 2022. https://us18.
+campaign-archive.com/?u=427121cff9f1b71a8caa3e46c&id=-
+3c3a91623a
+
+Karlsson, T., Dell, J., Gündoğdu, S. & Carney Almroth, B. 2023. Plastic
+Waste Trade: The Hidden Numbers. IPEN. https://ipen.org/documents/
+plastic-waste-trade-hidden-numbers
+
+Cook, E., Derks, M. & Velis, C. 2023. Plastic Waste Reprocessing for Cir-
+cular Economy: A Systematic Scoping Review of Risks to Occupational
+and Public Health from Legacy Substances and Extrusion. Science
+of the Total Environment 859(2): 160385. https://doi.org/10.1016/j.
+scitotenv.2022.160385
+
+CTV News Edmonton. 2022. Fire at West-End Recycling Facility out After
+20 Hours. https://edmonton.ctvnews.ca/fire-at-west-end-recycling-
+facility-out-after-20-hours-1.6043319
+
+Dvorska, A., Strakova, J., Brosche, S., Petrlik, J., Boontongmai, T., Bub-
+phachat, N., Thowsakul, C. ... Jeungsmarn, P. 2023. Environmental, Food
+and Human Body Burden of Dechlorane Plus in a Waste Recycling Area
+in Thailand: No Room for Exemptions. IPEN, Arnika, and EARTH. https://
+ipen.org/documents/environmental-food-and-human-body-burden-
+dechlorane-plus-waste-recycling-area-thailand-no
+
+E.hope, K. 2022. Ghana: Fire Ravages Plastic Recycling Factory
+at Kronum. AllAfrica, August 8, 2022. https://allafrica.com/
+stories/202208080354.html
+
+ekathimerini.com. 2020. Recycling Plant Fire Causes Dangerous
+Air Pollution. https://www.ekathimerini.com/news/255937/
+recycling-plant-fire-causes-dangerous-air-pollution/
+
+Martin, L. 2022. Warehouse Fire Investigation Continues. rrspin,
+November 30, 2022. https://www.rrspin.com/news/6713-ware-
+house-fire-investigation-continues.html
+
+May, N. 2023. Huge Fire Rips Through Plastics Factory in South-East
+Melbourne. https://www.theguardian.com/australia-news/2023/
+feb/08/huge-fire-plastics-factory-south-east-melbourne-keysbor-
+ough
+
+McLaughlin, T. 2022. After 3-Month Closure, Escambia ECUA Recycling
+Facility Damaged by Fire on Reopening Week. Pensacola News Journal,
+3 octobre 2022. https://www.pnj.com/story/news/local/escam-
+bia-county/2022/10/03/ecua-recycling-center-escambia-coun-
+ty-hit-fire-sewer-overflow/8168153001/
+
+Newsflare. 2023. Fire Tears Through Plastic Recycling Factory in
+Thailand. https://www.newsflare.com/video/550931/fire-tears-
+through-plastic-recycling-factory-in-thailand
+
+OECD. 2022. Global Plastic Waste Set to Almost Triple by 2060. https://
+www.oecd.org/environment/global-plastic-waste-set-to-almost-
+triple-by-2060.htm
+
+Petrlík, J., Beeler, B., Strakova, J., Allo’o Allo’o, S.M., Amera, T., Brosche, S.,
+Gharbi, S. ... Zulkovska, K. 2022. Hazardous Chemicals in Plastic Prod-
+
+18
+
+ucts. IPEN & Arnika. https://ipen.org/documents/hazardous-chemi-
+cals-plastic-products
+
+Petrlík, J., Behnisch, P., DiGangi, J., Straková, J., Fernandez, M. & Jensen, G.
+2018. Toxic Soup: Dioxins in Plastic Toys. IPEN, Arnika, HEAL, and BUND.
+https://ipen.org/documents/toxic-soup-dioxins-plastic-toys
+
+Petrlík, J., Bell, L., Beeler, B., Møller, M., Jopkova, M., Arisandi, P., Brabcova,
+K. … Skalsky, M. 2021. Plastic Waste Disposal Leads to Contamination
+of the Food Chain. IPEN & Arnika. https://ipen.org/documents/
+plastic-waste-disposal-leads-contamination-food-chain
+
+Puype, F., Samsonek, J., Knoop, J., Egelkraut-Holtus, M. & Ortlieb, M. 2015.
+Evidence of Waste Electrical and Electronic Equipment (WEEE) Relevant
+Substances in Polymeric Food-Contact Articles Sold on the European
+Market. Food Additives & Contaminants: Part A 32(3): 410–426. https://
+doi.org/10.1080%2F19440049.2015.1009499
+
+Quinn, M. 2023. High Number of Facility Fires in 2022 Prompts Renewed
+Look at Battery Recycling Efforts. Waste Dive, 22 mars 2023. https://
+www.wastedive.com/news/high-number-of-facility-fires-in-2022-
+prompts-renewed-look-at-battery-recyc/645682/
+
+Rochman, C.M., Browne, M.A., Halpern, B.S., Hentschel, B.T., Karapanagi-
+oti, H.K., Rios-Mendoza, L.M., Takada, H. ... Thompson, R.C. 2013. Classify
+Plastic Waste as Hazardous. Nature 494: 169–171. https://www.nature.
+com/articles/494169a
+
+Rung, C., Welle, F., Gruner, A., Springer, A., Steinmetz, Z. & Munoz, K. 2023.
+Identification and Evaluation of (Non-)Intentionally Added Substances
+in Post-Consumer Recyclates and Their Toxicological Classification.
+Recycling 8(1): 24. https://doi.org/10.3390/recycling8010024
+
+Salhofer, S., Jandric, A., Soudachanh, S., Xuan, T.L. & Tran, T.D. 2021.
+Plastic Recycling Practices in Vietnam and Related Hazards for Health
+and the Environment. International Journal of Environmental Research
+and Public Health 18(8): 4203. https://doi.org/10.3390/ijerph18084203
+
+Sarigiannis, D.A. 2017. Assessing the Impact of Hazardous Waste on
+Children’s Health: The Exposome Paradigm. Environmental Research
+158: 531-541. https://doi.org/10.1016/j.envres.2017.06.031 and
+
+Sarigiannis, D.A., Gotti, A. & Karakitsios, S. 2017. Health Risk from
+Accidental Fire in a Plastics Recycling Facility.  http://uest.ntua.gr/
+athens2017/proceedings/presentations/16_30_Health_risk_from_
+accidental_fire_in_a_plastics_recycling_facility.pdf
+
+Tang, Z., Huang, Q., Cheng, J., Yang, Y., Yang, J., Guo, W., Nie, Z. ... Jin, L. 2014.
+Polybrominated Diphenyl Ethers in Soils, Sediments, and Human Hair
+in a Plastic Waste Recycling Area: A Neglected Heavily Polluted Area.
+Environmental Science & Technology 48(3): 1508–1516. https://doi.
+org/10.1021/es404905u
+
+Tang, Z., Zhang, L., Huang, Q., Yang, Y., Nie, Z., Cheng, J., Yang, J. ... Chai, M.
+2015. Contamination and Risk of Heavy Metals in Soils and Sediments
+from a Typical Plastic Waste Recycling Area in North China. Ecotoxicol-
+ogy and Environmental Safety 122: 343–351. https://doi.org/10.1016/j.
+ecoenv.2015.08.006
+
+The Last Beach Cleanup. Fires at Plastic Recycling Facilities [Online].
+https://www.lastbeachcleanup.org/fires
+
+Treasure, K. 2022. MISE À JOUR : Bins Go out as Usual Despite Fire Gutting
+Hume Recycling Plant. Riotact, 27 décembre 2022. https://the-riotact.
+com/fire-in-hume-recycling-plant-could-burn-for-days/625288
+
+UN Environment Programme. 2021. Drowning in Plastics – Marine Litter
+and Plastic Waste Vital Graphics. https://www.unep.org/resources/
+report/drowning-plastics-marine-litter-and-plastic-waste-vital-
+graphics
+
+UN Environment Programme & Secretariat of the Basel, Rotterdam
+and Stockholm Conventions. 2023. Chemicals in Plastics - A Technical
+Report. https://www.unep.org/resources/report/chemicals-plas-
+tics-technical-report
+
+van Velzen, E., Brouwer, M., Stärker, C. & Welle, F. 2020. Effect of Recycled
+Content and rPET Quality on the Properties of PET Bottles, Part II:
+Migration. Packaging Technology and Science 33(9): 359–371. https://
+doi.org/10.1002/pts.2528
+
+TOXIQUE À JAMAISDes volontaires de Greenpeace Afrique tiennent des banderoles en faveur d'un traité mondial sur les plastiques. Ngong Hills, Nairobi, Kenya, 02/24/2022 © Paul Basweti / Greenpeace
+
+NOTES DE FIN
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+  Les références à Greenpeace dans le présent document se rapportent aux
+activités de programmation de la campagne « Un avenir sans plastique »,
+une campagne mondiale impliquant plusieurs bureaux à travers le réseau
+mondial de Greenpeace, composé de 26 organisations indépendantes,
+dont Greenpeace USA et Greenpeace International ».
+
+ UN Environment Programme (2021)
+
+ See e.g. Cook et al. (2023).
+
+ Petrlík et al. (2022)
+
+ Rung et al. (2023)
+
+ Alvarado Chacon et al. (2020), van Velzen et al. (2020)
+
+  UN Environment Programme & Secretariat of the Basel, Rotterdam and
+Stockholm Conventions (2023)
+
+ CHEM Trust (2022)
+
+  See e.g. Ahern et al. (2022), Callaghan et al. (2020), and Heindel et al.
+(2022).
+
+ Rochman et al. (2013)
+
+ Huang et al. (2013)
+
+ Tang et al. (2014), Tang et al. (2015)
+
+ Petrlík et al. (2021)
+
+ He et al. (2015)
+
+ Al-Khatib et al. (2020)
+
+ Salhofer et al. (2021)
+
+ Human Rights Watch (2022)
+
+ Dvorska et al. (2023)
+
+ Puype et al. (2015)
+
+ Guzzonato et al. (2017)
+
+ Petrlík et al. (2018)
+
+ Brosché et al. (2021)
+
+ Budin et al. (2020)
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+32
+
+33
+
+34
+
+35
+
+36
+
+37
+
+38
+
+39
+
+40
+
+41
+
+42
+
+43
+
+44
+
+45
+
+46
+
+47
+
+48
+
+49
+
+ IPEN (2022)
+
+ Gerassimidou et al. (2022)
+
+ Petrlík et al. (2022)
+
+ Rung et al. (2023)
+
+ European Commission (2011)
+
+ CEJAD, IPEN & Arnika (2023)
+
+ Quinn (2023)
+
+   The Last Beach Cleanup, Fires at Plastic Recycling Facilities [Online]
+
+ Agence France Presse (2022)
+
+ Ayamany (2020)
+
+ Sarigiannis (2017), Sarigiannis et al. (2017)
+
+ ekathimerini.com (2020)
+
+ May (2023), Treasure (2022)
+
+ CTV News Edmonton (2022)
+
+ E.hope (2022)
+
+ Hromadske Int. [@Hromadske] (2023)
+
+ Everington (2022)
+
+ Newsflare (2023)
+
+ Elworthy (2022)
+
+ McLaughlin (2022)
+
+ Associated Press (2023)
+
+ Martin (2022)
+
+ 6 News (2023)
+
+  OECD (2022). The OECD estimates that the share of plastic waste that is
+recycled will increase to approximately 17% by 2060.
+
+ Cook et al. (2023)
+
+ Karlsson et al. (2023)
+
+19
+
+TOXIQUE À JAMAISPUBLIÉ EN MAI 2023
+
+GREENPEACE, INC.
+1300 Eye Street NW
+Suite 1100 East
+Washington, DC 20005
+www.greenpeace.org/usa
+
+Greenpeace est un réseau mondial
+d’organisations indépendantes
+qui mènent des campagnes de
+confrontation créative et non
+violente pour exposer les problèmes
+environnementaux globaux et pour
+imposer les solutions essentielles
+à un avenir vert et paisible.
+
+TOUS NOS REMERCIEMENTS À
+
+Asia Arminio, Tanya Brooks, Graham
+Forbes, Rachel Head, John Hocevar,
+Jamie Kalliongis, et Kate Melges.
+
+Ce rapport a été élaboré en
+collaboration avec le Réseau
+international pour l’élimination
+des polluants (IPEN) et The Last
+Beach Cleanup.
+
+CONCEPTION
+
+Paul Hamilton, weareoneanother.net
+
+Greenpeace projette des messages et des images sur les déchets plastiques en Uruguay alors que les dirigeants mondiaux se
+réunissent pour discuter d'un traité mondial sur les plastiques à Punta del Este, en Uruguay. © Greenpeace / Manuela Lourenço
+
