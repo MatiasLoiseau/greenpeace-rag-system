@@ -1,0 +1,112 @@
+======================================================================
+RESUMEN DE EVALUACIÓN DEL RAG
+======================================================================
+
+Fecha: 2025-10-21T18:01:05.787340
+Configuración: k=3
+Preguntas evaluadas: 10
+
+MÉTRICAS:
+  Correctitud: 70.00%
+  Relevancia: 50.00%
+  Fundamentación: 50.00%
+  Relevancia de Recuperación: 60.00%
+
+======================================================================
+DETALLES POR PREGUNTA
+======================================================================
+
+
+--- Pregunta 1 ---
+Q: How do taiga forest ecosystems evolve over time?
+Ground Truth: Taiga forests are characterized by slow growth rates, with dominant tree species such as spruce and ...
+Generated: The taiga forest ecosystem in Russia evolves over time through a complex interaction of natural and ...
+Correctitud: ✅
+Relevancia: ❌
+Fundamentación: ✅
+Recuperación: ❌
+
+--- Pregunta 2 ---
+Q: What's the designation for a proposed site in Papua?
+Ground Truth: The proposed plantation in Papua is called "Food estate"....
+Generated: The designation for a proposed site in Papua is not explicitly mentioned in the provided documents. ...
+Correctitud: ❌
+Relevancia: ❌
+Fundamentación: ✅
+Recuperación: ❌
+
+--- Pregunta 3 ---
+Q: Can US power plant emissions data be distilled to 1-yr avg rate?
+Ground Truth: The average annual emission rate of CO2 from power plants in the US is 1,950 million metric tons, ac...
+Generated: Yes, US power plant emissions data can be distilled to 1-yr avg rate, as stated in the document:
+
+"T...
+Correctitud: ✅
+Relevancia: ✅
+Fundamentación: ❌
+Recuperación: ✅
+
+--- Pregunta 4 ---
+Q: When is the capacity of wind energy typically known?
+Ground Truth: The capacity of wind energy in 2006 was over 74,000 MW....
+Generated: The capacity of wind energy is typically known through a combination of:
+
+1. Wind speed estimates fo...
+Correctitud: ❌
+Relevancia: ❌
+Fundamentación: ✅
+Recuperación: ✅
+
+--- Pregunta 5 ---
+Q: What's driving Surrey & NW's involvement in the legal dispute?
+Ground Truth: Surrey and New Westminster are intervening in the court challenge to ensure that any decisions made ...
+Generated: The driving force behind Surrey & NW's involvement in the legal dispute is to challenge the permit i...
+Correctitud: ✅
+Relevancia: ✅
+Fundamentación: ❌
+Recuperación: ✅
+
+--- Pregunta 6 ---
+Q: Can aquatic feed alternatives to fishmeal be developed?
+Ground Truth: Some herbivorous and omnivorous fish can be reared with plant-based feedstuffs without impacts on gr...
+Generated: Yes, aquatic feed alternatives to fishmeal can be developed for some species, particularly herbivoro...
+Correctitud: ✅
+Relevancia: ✅
+Fundamentación: ✅
+Recuperación: ✅
+
+--- Pregunta 7 ---
+Q: Did reactor incidents occur at US sites post-Chernobyl?
+Ground Truth: At least 56 precursors have occurred at reactors with questionable containments since Chernobyl....
+Generated: Yes, according to the document "Nuclear “Near Misses” at U.S. Reactors Since 1986", there have been ...
+Correctitud: ✅
+Relevancia: ✅
+Fundamentación: ❌
+Recuperación: ❌
+
+--- Pregunta 8 ---
+Q: How much of Unilever's palm oil comes from ADM?
+Ground Truth: It is not specified what percentage of Unilever's palm oil is supplied by ADM, however it is mention...
+Generated: According to the documents, most if not all of Unilever's palm oil is supplied by ADM (Archer Daniel...
+Correctitud: ✅
+Relevancia: ❌
+Fundamentación: ❌
+Recuperación: ❌
+
+--- Pregunta 9 ---
+Q: NRC defines what constitutes significant accident precursors?
+Ground Truth: According to the NRC, accident precursors with a Conditional Core Damage Probability (CCDP) of 1 in ...
+Generated: According to the NRC, significant accident precursors are actual events or conditions at nuclear rea...
+Correctitud: ❌
+Relevancia: ✅
+Fundamentación: ✅
+Recuperación: ✅
+
+--- Pregunta 10 ---
+Q: What % of global energy comes from coal?
+Ground Truth: Coal supplies almost one-quarter of the world’s energy....
+Generated: According to the documents, coal supplies almost one-quarter (25%) of the world's energy....
+Correctitud: ✅
+Relevancia: ❌
+Fundamentación: ❌
+Recuperación: ✅

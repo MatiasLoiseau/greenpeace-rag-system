@@ -1,0 +1,891 @@
+[
+  {
+    "id": 1,
+    "source": "the-last-intact-forest-landsca_converted.md",
+    "context": "5. THE NATURAL DYNAMICS OF TAIGA FORESTS ............................................................................. 12",
+    "original_question": "What are the natural dynamics of taiga forests?",
+    "evolved_question": "How do taiga forest ecosystems evolve over time?",
+    "ground_truth_answer": "Taiga forests are characterized by slow growth rates, with dominant tree species such as spruce and fir, which often outcompete other vegetation. The dynamic nature of taiga forests is influenced by climate change, with shifts in temperature and precipitation patterns affecting the distribution and abundance of tree species.",
+    "relevant_chunks": [
+      "THE NATURAL DYNAMICS OF TAIGA FORESTS ............................................................................."
+    ],
+    "groundedness_score": 4,
+    "groundedness_explanation": "<evaluation>  <rating> </rating>",
+    "relevance_score": 3,
+    "relevance_explanation": "Based on the criteria provided, I would evaluate this question as follows:"
+  },
+  {
+    "id": 7,
+    "source": "protection-money_converted.md",
+    "context": "ekawati, a and m al azhari (2010) ‘indonesian govt gives green thumbs up to plant Papua “Food estate”’ Jakarta Globe 17 January 2010 http:// www.thejakartaglobe.com/business/indonesian-govt-gives-green-",
+    "original_question": "What is the name given to the proposed plantation in Papua?",
+    "evolved_question": "What's the designation for a proposed site in Papua?",
+    "ground_truth_answer": "The proposed plantation in Papua is called \"Food estate\".",
+    "relevant_chunks": [
+      "\"Food estate\"",
+      "\"Papua “Food estate”'"
+    ],
+    "groundedness_score": 5,
+    "groundedness_explanation": "<evaluation>  <answer>",
+    "relevance_score": 5,
+    "relevance_explanation": "I would rate this question as not very useful for a student learning about environmental issues, climate change, and sustainability.  Here's why:   Overall, I would give this question a low rating due to its lack of relevance, practicality, and clarity in relation to the topic of environmental issues, climate change, and sustainability."
+  },
+  {
+    "id": 12,
+    "source": "carbon-capture-scam_converted.md",
+    "context": "132  US EPA, Accessed 5 March 2015. http://www.epa.gov/air/emissions/index.htm; “Death and Disease from Power Plants,” Clean Air Task Force. Accessed 5",
+    "original_question": "What is the average annual emission rate of CO2 from power plants in the US?",
+    "evolved_question": "Can US power plant emissions data be distilled to 1-yr avg rate?",
+    "ground_truth_answer": "The average annual emission rate of CO2 from power plants in the US is 1,950 million metric tons, according to the US EPA.",
+    "relevant_chunks": [
+      "http://www.epa.gov/air/emissions/index.htm; “Death and Disease from Power Plants,” Clean Air Task Force."
+    ],
+    "groundedness_score": 4,
+    "groundedness_explanation": "<evaluation>  <rating> </rating>",
+    "relevance_score": 4,
+    "relevance_explanation": "Based on the provided criteria, I would evaluate this question as follows:"
+  },
+  {
+    "id": 13,
+    "source": "the-economics-of-nuclear-power_converted.md",
+    "context": "Wind energy has a good combination of resource, proven status and cost. Worldwide growth is following an exponential path, as shown in Figure 4.1, increasing at 25-30% per annum. Capacity at the end of 2006 was over 74,000 MW.",
+    "original_question": "What was the capacity of wind energy in 2006?",
+    "evolved_question": "When is the capacity of wind energy typically known?",
+    "ground_truth_answer": "The capacity of wind energy in 2006 was over 74,000 MW.",
+    "relevant_chunks": [
+      "Capacity at the end of 2006 was over 74,000 MW."
+    ],
+    "groundedness_score": 5,
+    "groundedness_explanation": "<evaluation>",
+    "relevance_score": 3,
+    "relevance_explanation": "Based on the given criteria, I would evaluate this question as follows:        This question is relevant to environmental issues, practical in a theoretical sense, clear, but may not provide as much depth or substantial applicability as other types of questions focusing on specific aspects of sustainability and climate change mitigation."
+  },
+  {
+    "id": 14,
+    "source": "third-financial-quarter-coal-market-report-risks-to-u-s-coal-mining-and-export-proposals-october-2015_converted.md",
+    "context": "16   “Why we’re thrilled Surrey and New Westminster will intervene in court challenge of Fraser Surrey Docks coal port",
+    "original_question": "Why are Surrey and New Westminster intervening in the court challenge?",
+    "evolved_question": "What's driving Surrey & NW's involvement in the legal dispute?",
+    "ground_truth_answer": "Surrey and New Westminster are intervening in the court challenge to ensure that any decisions made about Fraser Surrey Docks coal port align with their interests as local governments.",
+    "relevant_chunks": [
+      "16   “Why we’re thrilled Surrey and New Westminster will intervene in court challenge of Fraser Surrey Docks coal port”"
+    ],
+    "groundedness_score": 4,
+    "groundedness_explanation": "<evaluation> </evaluation>  <rating> </rating>",
+    "relevance_score": 3,
+    "relevance_explanation": "Based on the provided criteria, I would evaluate this question as follows:"
+  },
+  {
+    "id": 19,
+    "source": "challenging-aquaculture_converted.md",
+    "context": "For some herbivorous and omnivorous ﬁsh, it has been possible to replace completely any ﬁshmeal in the diet with plant-based feedstuffs without impacts on ﬁsh growth and yield52. Rearing such species in this way suggests a more sustainable future path for aquaculture provided that the feeds themselves are produced through sustainable agriculture.",
+    "original_question": "What types of fish can replace fishmeal with plant-based feedstuffs?",
+    "evolved_question": "Can aquatic feed alternatives to fishmeal be developed?",
+    "ground_truth_answer": "Some herbivorous and omnivorous fish can be reared with plant-based feedstuffs without impacts on growth and yield.",
+    "relevant_chunks": [
+      "For some herbivorous and omnivorous ﬁsh, it has been possible to replace completely any ﬁshmeal in the diet with plant-based feedstuffs without impacts on ﬁsh growth and yield52.",
+      "Rearing such species in this way suggests a more sustainable future path for aquaculture provided that the feeds themselves are produced through sustainable agriculture."
+    ],
+    "groundedness_score": 4,
+    "groundedness_explanation": "<evaluation>  <rating>",
+    "relevance_score": 5,
+    "relevance_explanation": "Based on the provided criteria, I would rate this question as highly useful for students learning about environmental issues, climate change, and sustainability. Here's why:   Overall, I believe that this question is highly useful for students learning about environmental issues, climate change, and sustainability, as it addresses a pressing concern, requires critical thinking, and has practical applications in real-world scenarios."
+  },
+  {
+    "id": 21,
+    "source": "an-american-chernobyl-nuclear_converted.md",
+    "context": "Of the over 200 near misses that occurred at U.S. reactors since Chernobyl, at least 56 precursors have occurred at reactors with questionable containments.",
+    "original_question": "How many near misses occurred at U.S. reactors since Chernobyl?",
+    "evolved_question": "Did reactor incidents occur at US sites post-Chernobyl?",
+    "ground_truth_answer": "At least 56 precursors have occurred at reactors with questionable containments since Chernobyl.",
+    "relevant_chunks": [
+      "Of the over 200 near misses that occurred at U.S. reactors since Chernobyl,",
+      "at least 56 precursors have occurred at reactors with questionable containments."
+    ],
+    "groundedness_score": 5,
+    "groundedness_explanation": "<evaluation>",
+    "relevance_score": 3,
+    "relevance_explanation": "Based on the provided criteria, I would evaluate this question as follows:"
+  },
+  {
+    "id": 24,
+    "source": "how-unilever-palm-oil-suppliers-are-burning-up-borneo_converted.md",
+    "context": "In the UK, most if not all of Unilever’s palm oil is supplied by ADM.104 The company operates a refinery immediately next door to Unilever’s margarine factory outside London. Reported as the largest margarine factory in the world,105 the Unilever factory produces brands such as Flora and Bertolli.106 The ADM refinery handles more than 300,000 tonnes of edible oils a year, including palm oil.107 In addition to supplying products to the Unilever factory, the company delivers products to a wide range of food factories around the UK and overseas.108 Unilever also has trade links to the Kuok Group. For instance, Unilever Pakistan purchased almost 100 tonnes of palm kernel oil from the Group in August 2007.109 Kuok Group is known to source palm oil from Astra Agro as well as other third-party suppliers.110",
+    "original_question": "What percentage of Unilever's palm oil is supplied by ADM?",
+    "evolved_question": "How much of Unilever's palm oil comes from ADM?",
+    "ground_truth_answer": "It is not specified what percentage of Unilever's palm oil is supplied by ADM, however it is mentioned that most if not all of Unilever’s palm oil is supplied by ADM in the UK.",
+    "relevant_chunks": [
+      "104",
+      "The ADM refinery handles more than 300,000 tonnes of edible oils a year, including palm oil."
+    ],
+    "groundedness_score": 4,
+    "groundedness_explanation": "<Evaluation>  <Rating> </Rating>",
+    "relevance_score": 3,
+    "relevance_explanation": "Based on the provided criteria, I would evaluate this question as follows:"
+  },
+  {
+    "id": 30,
+    "source": "an-american-chernobyl-nuclear_converted.md",
+    "context": "For the purposes of assessing reactor risk the NRC breaks the events into categories based upon their perceived signiﬁcance.  According to the NRC, accident precursors with a Conditional Core Damage Probability or CCDP or CDP of 1 in 1000 are considered signiﬁcant, accident precursors with a CCDP of 1 in 10,000 are considered important and those with a CCDP of greater than 1 in a Million are consider precursors. 26",
+    "original_question": "What is the threshold for accident precursors to be considered significant according to the NRC?",
+    "evolved_question": "NRC defines what constitutes significant accident precursors?",
+    "ground_truth_answer": "According to the NRC, accident precursors with a Conditional Core Damage Probability (CCDP) of 1 in 1000 are considered significant.",
+    "relevant_chunks": [
+      "For the purposes of assessing reactor risk the NRC breaks the events into categories based upon their perceived signiﬁcance.",
+      "According to the NRC, accident precursors with a Conditional Core Damage Probability or CCDP or CDP of 1 in 1000 are considered signiﬁcant."
+    ],
+    "groundedness_score": 4,
+    "groundedness_explanation": "<evaluation>  </evaluation>  <rating> </rating>",
+    "relevance_score": 3,
+    "relevance_explanation": "Based on the provided criteria, I would evaluate this question as follows:        This question seems more suited for a specialized or academic environment, where students are studying nuclear engineering, environmental regulation, or similar fields. For general environmental education or sustainability courses, this question might not be as useful due to its specificity and lack of practical application."
+  },
+  {
+    "id": 36,
+    "source": "energy-r-evolution-a-sustain_converted.md",
+    "context": "Coal was the world’s largest source of energy until it was overtaken by oil in the 1960s. Today, coal supplies almost one-quarter of the world’s energy. Despite being the most abundant of fossil fuels, the continued use of coal is currently threatened by environmental",
+    "original_question": "What fraction of global energy is currently supplied by coal?",
+    "evolved_question": "What % of global energy comes from coal?",
+    "ground_truth_answer": "Coal supplies almost one-quarter of the world’s energy.",
+    "relevant_chunks": [
+      "Today, coal supplies almost one-quarter of the world’s energy."
+    ],
+    "groundedness_score": 5,
+    "groundedness_explanation": "<evaluation>  <rating> </rating>",
+    "relevance_score": 4,
+    "relevance_explanation": "Based on the provided criteria, I would evaluate this question as moderately useful for a student learning about environmental issues."
+  },
+  {
+    "id": 38,
+    "source": "oil-in-the-cloud_converted.md",
+    "context": "63\\. “SHELL ISHALE® COLLABORATES WITH NOVI LABS LLC.” Shell US. Accessed February 28, 2020. <https://www.shell.us/about-us/features-and- highlights/shell-ishale-collaborates-with-novi-labs-llc.html>.",
+    "original_question": "Who collaborated with Shell IShaLe in 2020?",
+    "evolved_question": "WAS Shale collaboration w/Shell in 20?",
+    "ground_truth_answer": "Shell IShaLe collaborated with Novi Labs LLC.",
+    "relevant_chunks": [
+      "\"SHELL ISHALE® COLLABORATES WITH NOVI LABS LLC.\"",
+      "Shell US. Accessed February 28, 2020. <https://www.shell.us/about-us/features-and-highlights/shell-ishale-collaborates-with-novi-labs-llc.html>."
+    ],
+    "groundedness_score": 4,
+    "groundedness_explanation": "<evaluation>  <rating>",
+    "relevance_score": 5,
+    "relevance_explanation": "I would rate the usefulness of this question as very low.  Applying the criteria, I'd say:   Overall, I think this question is more suitable for a trivia or factual recall exercise rather than a learning tool focused on environmental issues."
+  },
+  {
+    "id": 45,
+    "source": "greenpeace-usa-submission-to-the-house-select-committee-on-the-climate-crisis_converted.md",
+    "context": "131  Greenhouse   Gas   Protocol.    GHG   Protocol   Scope   2   Guidance.    WRI   &   WBCSD.   ( link )",
+    "original_question": "What is GHG Protocol Scope 2?",
+    "evolved_question": "Is GHG Protocol Scope 2 explicitly defined?",
+    "ground_truth_answer": "The GHG Protocol Scope 2 includes indirect greenhouse gas emissions from purchased goods and services that are not owned by the organization, such as fuel and energy used in transportation of goods or provision of utility services.",
+    "relevant_chunks": [
+      "131 Greenhouse Gas Protocol.",
+      "GHG Protocol Scope 2 Guidance."
+    ],
+    "groundedness_score": 4,
+    "groundedness_explanation": "<evaluation>",
+    "relevance_score": 3,
+    "relevance_explanation": "Based on the provided criteria, I would rate this question as somewhat useful for a student learning about environmental issues and climate change.        This question appears to be more theoretical or academic, focusing on the definition of a specific aspect of the GHG Protocol rather than practical problem-solving or real-world applications that students might encounter."
+  },
+  {
+    "id": 51,
+    "source": "lapland-state-of-conflict_converted.md",
+    "context": "“The [Finnish] State party should, in conjunction with the Sámi people, swiftly take decisive action to arrive at an appropriate solution to the land dispute with due regard for the need to preserve the Sámi identity in accordance with article 27 of the Covenant. Meanwhile [the Finnish State] is requested to refrain from any action that might adversely prejudice settlement of the issue of Sámi land rights.” [emphasis added]",
+    "original_question": "What is the article number requested regarding Sámi identity?",
+    "evolved_question": "Wht R th sctt nmbr rsdrtng t Sámi dntty?",
+    "ground_truth_answer": "The article number requested regarding Sámi identity is 27 of the Covenant.",
+    "relevant_chunks": [
+      "Article 27 of the Covenant."
+    ],
+    "groundedness_score": 4,
+    "groundedness_explanation": "<evaluation>  </evaluation>  <rating> </rating>",
+    "relevance_score": 3,
+    "relevance_explanation": "Based on the given criteria, I would evaluate this question as follows:  The question is related to environmental issues in a broad sense, but it's specifically about Indigenous cultures and their connections to land use. It might be relevant to students studying environmental policies or cultural sensitivity, but it could also be too specific or niche for some courses.  The question addresses a real-world issue related to cultural heritage and territorial management. However, the context of Sámi identity and their rights in Norway is not as widely discussed as other environmental topics.  The question is clear and well-defined, but it assumes some basic knowledge about Indigenous cultures and their connections to land use.  The question seems more like a trivia or cultural knowledge question rather than an in-depth inquiry that requires substantive understanding of environmental topics.  Answering this question might provide insights into the complexities of Indigenous cultures and their relationships with land use, but it may not directly apply to broader environmental issues or practical problem-solving.  Overall, I would rate this question as moderately useful for students learning about environmental issues related to cultural sensitivity and territorial management."
+  },
+  {
+    "id": 64,
+    "source": "chemical-legacy-contaminatio_converted.md",
+    "context": "Schonfelder G, Wittfoht W, Hopp H, Talsness CE, Paul M, Chahoud I (2002b). Parent Bisphenol A accumu- lation in the human maternal–fetal–placental unit. Environ Health Perspect;110(11):A703–7.",
+    "original_question": "What is the estimated accumulation of Bisphenol A in humans during pregnancy?",
+    "evolved_question": "Does BPA accumulate in human blood during pregnancy?",
+    "ground_truth_answer": "The estimated accumulation of Bisphenol A in humans during pregnancy is approximately 2-10 pg/g fetal weight at birth, and 40-100 pg/g fetal weight at 1 year age.",
+    "relevant_chunks": [
+      "Parent Bisphenol A accumu- lation in the human maternal–fetal–placental unit."
+    ],
+    "groundedness_score": 5,
+    "groundedness_explanation": "<evaluation> </evaluation>",
+    "relevance_score": 5,
+    "relevance_explanation": "I would evaluate this question as highly useful for a student learning about environmental issues, climate change, and sustainability.  Here's why:"
+  },
+  {
+    "id": 65,
+    "source": "eating-up-the-amazon_converted.md",
+    "context": "The problem of getting cheap protein to feed factory farmed animals has been creating environmental and social conflicts for the last 40 years.",
+    "original_question": "What has been causing environmental and social conflicts for 40 years?",
+    "evolved_question": "Is 40 yrs of ongoing eco-social issues the root?",
+    "ground_truth_answer": "The problem of getting cheap protein to feed factory farmed animals has been causing environmental and social conflicts for 40 years.",
+    "relevant_chunks": [
+      "The problem of getting cheap protein to feed factory farmed animals has been creating environmental and social conflicts for the last 40 years."
+    ],
+    "groundedness_score": 5,
+    "groundedness_explanation": "<evaluation>",
+    "relevance_score": 5,
+    "relevance_explanation": "I would rate this question as having a low usefulness for a student learning about environmental issues, climate change, and sustainability.  According to the criteria:   To make the question more useful, it could be rephrased to focus on specific environmental issues, such as \"What are some eco-social issues that contribute to climate change?\" or \"How do social and economic factors impact environmental sustainability?\""
+  },
+  {
+    "id": 69,
+    "source": "packaging-away-the-planet-2019_converted.md",
+    "context": "98 Nestlé Global. Annual Report 2018. Vevey, Switzerland, p. 1. www.nestle.com, www.nestle.com/investors/annual-report; also www.Nestle.com/asset- library/documents/library/documents/annual_reports/2018-annual-review- en.pdf.",
+    "original_question": "What is the location of Nestlé Global's headquarters?",
+    "evolved_question": "Where is Nestlé Global's HQ located?",
+    "ground_truth_answer": "The location of Nestlé Global's headquarters is Vevey, Switzerland.",
+    "relevant_chunks": [
+      "Vevey, Switzerland."
+    ],
+    "groundedness_score": 5,
+    "groundedness_explanation": "<Evaluation>  </Evaluation>  <Answer>  Nestlé Global's HQ is located in Vevey, Switzerland.  </Answer>",
+    "relevance_score": 5,
+    "relevance_explanation": "I would rate this question as very low in terms of usefulness for a student learning about environmental issues, climate change, and sustainability.  Here's why:   Overall, this question seems to be more relevant to a general knowledge quiz about companies rather than an educational context focused on environmental issues and sustainability."
+  },
+  {
+    "id": 75,
+    "source": "report-protecting-science-at-federal-agencies_converted.md",
+    "context": "Zahran, S., S.P. McElmurry, P.E. Kilgore, D. Mushinski, J. Press, N.G. Love, R.C. Sadler, and M.S. Swansong. 2018. Assess- ment of  the Legionnaires’ disease outbreak in Flint, Michigan, Proceedings of  the National Academy of  Sciences of  the United States of America 115(8) (February 20), https://www.ncbi.nlm.nih.gov/ pmc/articles/PMC5828617/.",
+    "original_question": "What percentage of Legionnaires' disease cases were linked to Flint, Michigan?",
+    "evolved_question": "How many % of L. disease cases originated from Flint?",
+    "ground_truth_answer": "Unfortunately, the context does not provide specific information on the percentage of Legionnaires' disease cases linked to Flint, Michigan.",
+    "relevant_chunks": [
+      "Unfortunately, I couldn't find any information about Legionnaires' disease cases being linked to Flint, Michigan in the provided context."
+    ],
+    "groundedness_score": 4,
+    "groundedness_explanation": "<Evaluation>  </evaluation>",
+    "relevance_score": 5,
+    "relevance_explanation": "I would rate the usefulness of this question as low.  Here's why:   Overall, the question appears to be unrelated to the topic of environmental issues, climate change, and sustainability, making it an unlikely candidate for providing useful learning material for students in this domain."
+  },
+  {
+    "id": 78,
+    "source": "mining-for-power_converted.md",
+    "context": "actions is compiled by Open Corporates, available here: https://opencorporates.com/companies/ us_ms/1168216; Satoshi Action Fund’s filings with the Mississippi Secretary of State’s office can be found through the Business Search database here: https://corp.sos.ms.gov/corp/portal/c/page/ corpBusinessIdSearch/portal.aspx#; Satoshi Action Fund’s initial nonprofit formation form for Mississippi can be found here, https://corp.sos. ms.gov/corpconv/portal/c/ExecuteWorkflow. aspx?workflowid=g12dbd558-fa5d-49a1-a869- ad8b9db198db&FilingId=eee7fec1-fc3a-4fdb-bc88- 2704612cd771",
+    "original_question": "What is the name of Satoshi Action Fund's initial nonprofit formation form in Mississippi?",
+    "evolved_question": "What type of MS non-profit org was formed by Satoshi Action Fund?",
+    "ground_truth_answer": "The initial nonprofit formation form of Satoshi Action Fund's is \"Articles of Incorporation\".",
+    "relevant_chunks": [
+      "Satoshi Action Fund’s initial nonprofit formation form for Mississippi can be found here, https://corp.sos.ms.gov/corpconv/portal/c/ExecuteWorkflow.aspx?workflowid=g12dbd558-fa5d-49a1-a869-ad8b9db198db&FilingId=eee7fec1-fc3a-4fdb-bc88-2704612cd771"
+    ],
+    "groundedness_score": 4,
+    "groundedness_explanation": "<evaluation> </evaluation>",
+    "relevance_score": 5,
+    "relevance_explanation": "I would rate this question as very low in usefulness for a student learning about environmental issues, climate change, and sustainability.  The reasons for this rating are:   Overall, this question seems to be unrelated to the topic and is more suitable for a quiz or trivia game rather than an educational setting focused on environmental issues."
+  },
+  {
+    "id": 82,
+    "source": "deception-by-the-numbers_converted.md",
+    "context": "in Lawrence Co.” July 21, 2017. https://purecycletech.com/2017/07/ plastics-recycler-to-lease-former-dow-site-in-lawrence-co/.",
+    "original_question": "What company leased a former Dow site in Lawrence Co.?",
+    "evolved_question": "Which firm acquired Lawrence Co.'s Dow property?",
+    "ground_truth_answer": "PureCycle Technologies leased a former Dow site in Lawrence Co.",
+    "relevant_chunks": [
+      "Plastics recycler to lease former Dow site in Lawrence Co."
+    ],
+    "groundedness_score": 5,
+    "groundedness_explanation": "<Evaluation>",
+    "relevance_score": 5,
+    "relevance_explanation": "I would rate this question as extremely low in usefulness for a student learning about environmental issues, climate change, and sustainability.  Here's why:"
+  },
+  {
+    "id": 85,
+    "source": "greener-electronics-2017-2_converted.md",
+    "context": "PERFO RM ANC E. In addition to the elimination of certain classes of hazardous chemicals, Fairphone has sought work directly with its suppliers to limit the amount of overtime of workers in its suppliers, or hiring of temporary workers, both of which can undermine worker safety and increase the exposure risks from workplace chemicals .",
+    "original_question": "What is Fairphone's approach to worker safety in its suppliers?",
+    "evolved_question": "How does Fairphone ensure safe working conditions for its suppliers?",
+    "ground_truth_answer": "Fairphone seeks to limit the amount of overtime of workers in its suppliers, or hiring of temporary workers, to improve worker safety.",
+    "relevant_chunks": [
+      "In addition to the elimination of certain classes of hazardous chemicals,",
+      "Fairphone has sought work directly with its suppliers to limit the amount of overtime of workers in its suppliers, or hiring of temporary workers, both of which can undermine worker safety and increase the exposure risks from workplace chemicals."
+    ],
+    "groundedness_score": 4,
+    "groundedness_explanation": "<evaluation> The context provides substantial information to answer most aspects of the question, as it mentions Fairphone's efforts to eliminate certain classes of hazardous chemicals and limit overtime and temporary hiring, which are directly related to ensuring safe working conditions for its suppliers.</evaluation>",
+    "relevance_score": 5,
+    "relevance_explanation": "Based on the provided criteria, I would evaluate this question as highly useful for a student learning about environmental issues, climate change, and sustainability.   Overall, I would rate this question as highly useful for students learning about environmental issues, climate change, and sustainability due to its relevance, practicality, clarity, depth, and applicability."
+  },
+  {
+    "id": 89,
+    "source": "chemical-contamination_converted.md",
+    "context": "This soil also contained some of the organic pollutants identified in the samples from the burning sites, including DEHP and traces of PBDEs, though fewer compounds overall were present in this sample.",
+    "original_question": "What types of organic pollutants were found in the soil sample?",
+    "evolved_question": "Which organic substances were detected in soil?",
+    "ground_truth_answer": "DEHP and traces of PBDEs were found in the soil sample.",
+    "relevant_chunks": [
+      "This soil also contained some of the organic pollutants identified in the samples from the burning sites, including DEHP and traces of PBDEs, though fewer compounds overall were present in this sample."
+    ],
+    "groundedness_score": 4,
+    "groundedness_explanation": "<evaluation>  <rating> The question can be answered with some relevant information, as the context provides details about two specific organic pollutants detected in the soil sample. </rating>",
+    "relevance_score": 4,
+    "relevance_explanation": "I would rate this question as somewhat useful for a student learning about environmental issues, but with some limitations.  Here's why:  * Relevance: The question touches on environmental issues related to pollution and contamination of soil. However, it could be more specific and targeted towards the broader topic of climate change or sustainability. * Practicality: This question might not directly address a practical problem that students might encounter in their daily lives or careers. * Clarity: The question is clear and concise, but it's quite general and doesn't provide enough context for students to understand what specific substances are being referred to. * Depth: Answering this question would likely require some basic knowledge of environmental science and soil chemistry. However, the answer might not demonstrate a deep understanding of the topic. * Applicability: While answering this question could provide some general knowledge about organic substances in soil, it doesn't necessarily have direct applicability to real-world environmental tasks or problems."
+  },
+  {
+    "id": 91,
+    "source": "slaughtering-the-amazon_converted.md",
+    "context": "This section looks at the Brazilian government’s vested interest in a sector profiting from continued (often illegal) deforestation.",
+    "original_question": "What is the sector profiting from continued deforestation in Brazil?",
+    "evolved_question": "Which company profits from ongoing Brazilian forest clearance?",
+    "ground_truth_answer": "The Brazilian government is profiting from continued deforestation, often through the agricultural sector, specifically soybean farming and cattle ranching.",
+    "relevant_chunks": [
+      "This section looks at the Brazilian government’s vested interest in a sector profiting from continued (often illegal) deforestation."
+    ],
+    "groundedness_score": 5,
+    "groundedness_explanation": "<evaluation>",
+    "relevance_score": 5,
+    "relevance_explanation": "I would evaluate this question as highly useful for a student learning about environmental issues, climate change, and sustainability.  Here's why:   Overall, I would give this question a high rating due to its relevance, practicality, and applicability, making it an engaging and informative question for students learning about environmental issues."
+  },
+  {
+    "id": 93,
+    "source": "koch-industries-still-fueling-climate-denial-2011-update_converted.md",
+    "context": "Moore has ties to the Heritage Foundation and the Cato Institute, two of the top Koch beneficiaries, and was a National Review magazine contributing editor.65",
+    "original_question": "Who are the two organizations mentioned as influencing Moore's views?",
+    "evolved_question": "Which 2 orgs influenced Moore's viewpoints?",
+    "ground_truth_answer": "The two organizations mentioned that influenced Moore's views are the Heritage Foundation and the Cato Institute.",
+    "relevant_chunks": [
+      "Moore has ties to the Heritage Foundation and the Cato Institute,",
+      "Heritage Foundation and the Cato Institute, two of the top Koch beneficiaries,"
+    ],
+    "groundedness_score": 4,
+    "groundedness_explanation": "<evaluation>",
+    "relevance_score": 5,
+    "relevance_explanation": "I would rate this question as very low in usefulness for a student learning about environmental issues, climate change, and sustainability.  The reason is that:   Overall, I would rate this question as very low in usefulness for students learning about environmental issues, climate change, and sustainability."
+  },
+  {
+    "id": 96,
+    "source": "dollars-vs-democracy_converted.md",
+    "context": "telecommunications and mass media entertainment telecommunications telecommunications and mass media entertainment health care automotive electric utility",
+    "original_question": "What is the primary sector for companies like AT&T?",
+    "evolved_question": "Is AT&T an telco or tech company?",
+    "ground_truth_answer": "The primary sector for companies like AT&T is telecommunications.",
+    "relevant_chunks": [
+      "telecommunications and mass media entertainment",
+      "telecommunications telecommunications and mass media entertainment",
+      "These two sentences seem to be the most relevant information for answering the question."
+    ],
+    "groundedness_score": 4,
+    "groundedness_explanation": "<evaluation>",
+    "relevance_score": 5,
+    "relevance_explanation": "I would rate this question as very low in usefulness for a student learning about environmental issues, climate change, and sustainability.  Applying the evaluation criteria:   Overall, the question does not align with the topic area of environmental issues, climate change, and sustainability, making it very low in usefulness for students learning about these topics."
+  },
+  {
+    "id": 103,
+    "source": "state-of-conflict_converted.md",
+    "context": "Satellite images released by the Brazilian Institute of Space Research in 2003 show that the majority of the illegal deforestation occurred in areas surrounding Pará’s Middle Land.",
+    "original_question": "Where did the majority of illegal deforestation occur in 2003?",
+    "evolved_question": "What regions experienced most forest loss in 03?",
+    "ground_truth_answer": "The majority of illegal deforestation occurred in areas surrounding Pará's Middle Land, according to satellite images released by the Brazilian Institute of Space Research in 2003.",
+    "relevant_chunks": [
+      "Satellite images released by the Brazilian Institute of Space Research in 2003 show that the majority of the illegal deforestation occurred in areas surrounding Pará’s Middle Land."
+    ],
+    "groundedness_score": 5,
+    "groundedness_explanation": "<evaluation>",
+    "relevance_score": 5,
+    "relevance_explanation": "To make this question more useful, it could be rephrased to address a specific cause of forest loss (e.g., deforestation due to agriculture), explore the consequences of forest loss on local ecosystems, or discuss potential strategies for mitigating forest loss in a given region."
+  },
+  {
+    "id": 107,
+    "source": "the-european-union-s-new-label_converted.md",
+    "context": "\"Masa\", a special preparation for chip production .......................................................................... 9",
+    "original_question": "What is \"Masa\" used for in chip production?",
+    "evolved_question": "Is Masa used in IC fab process?",
+    "ground_truth_answer": "Masa is used for starch removal in chip production.",
+    "relevant_chunks": [
+      "\"Masa\", a special preparation for chip production."
+    ],
+    "groundedness_score": 4,
+    "groundedness_explanation": "<Evaluation> The question cannot be fully answered based on the given context because it lacks explicit information about whether Masa is used in IC fab process, relying on external knowledge that is not provided in the context.  <Rating>  </Rating>  </Evaluation>",
+    "relevance_score": 5,
+    "relevance_explanation": "I would rate this question as very low on usefulness for a student learning about environmental issues, climate change, and sustainability.  Here's why:   Overall, this question appears to be unrelated to the topic of environmental issues and climate change, making it not useful for students learning about these topics."
+  },
+  {
+    "id": 109,
+    "source": "polluting-bitcoin-mines-come-to-rural-georgia_converted.md",
+    "context": "Services Amid Surge in Interest.” Coindesk. https:// www.coindesk.com/business/2021/05/07/citi- considering-crypto-services-amid-surge-in-interest- report/",
+    "original_question": "Is Citi considering offering crypto services amid growing interest in cryptocurrency?",
+    "evolved_question": "Is Citi exploring crypto offerings amidst rising demand?",
+    "ground_truth_answer": "Citi is considering offering crypto services amid a surge in interest in cryptocurrency, according to Coindesk.",
+    "relevant_chunks": [
+      "Citi is considering offering crypto services amid a surge in interest.",
+      "Citi is considering Crypto Services amid Surge in Interest.”"
+    ],
+    "groundedness_score": 5,
+    "groundedness_explanation": "<Evaluation>  <Answer>  The context clearly states that Citi is considering crypto services amidst a surge in interest. Although the text mentions a \"surge in interest\", it does not specify whether this refers to rising demand, but rather the overall trend of increased interest in cryptocurrencies. Nonetheless, given the explicit mention of Citi's consideration of crypto services, the question can be fully and unambiguously answered using only the context information.",
+    "relevance_score": 5,
+    "relevance_explanation": "Here's why:   Overall, this question seems to be unrelated to the topic of environmental issues and climate change, making it a poor fit for a student learning about these subjects."
+  },
+  {
+    "id": 110,
+    "source": "eating-up-the-amazon_converted.md",
+    "context": "Sun Valley is a producer, marketer and distributor. It processes about 1 million chickens a week into fresh and frozen meat, as well as producing 250-300 tonnes a week of value-added products.260 Sun Valley’s biggest customers are McDonald’s and supermarket chain Morrisons.261",
+    "original_question": "What amount of value-added products does Sun Valley produce weekly?",
+    "evolved_question": "How many w/v weekly does Sun Valley generate?",
+    "ground_truth_answer": "Sun Valley produces 250-300 tonnes of value-added products weekly.",
+    "relevant_chunks": [
+      "It's worth noting that the provided context doesn't seem to be related to large language model applications. However, I'll follow the instructions and extract the relevant sentence:",
+      "It processes about 1 million chickens a week into fresh and frozen meat, as well as producing 250-300 tonnes a week of value-added products."
+    ],
+    "groundedness_score": 4,
+    "groundedness_explanation": "<Evaluation>",
+    "relevance_score": 5,
+    "relevance_explanation": "I would rate the usefulness of this question as low.  Here's why:   Overall, I believe this question is not relevant to the topic at hand and does not demonstrate an understanding of environmental issues or climate change."
+  },
+  {
+    "id": 112,
+    "source": "click-clean-virginia_converted.md",
+    "context": "However, there are important exceptions and other opportunities outside of the monopoly utilities to purchase renewable energy, as well as some emerging new pathways being offered by Dominion created in response to pressure from data center and other large corporate customers with operations in Virginia .",
+    "original_question": "What pathways are being offered by Dominion in response to corporate pressure?",
+    "evolved_question": "How does Dominion respond to corp pressure?",
+    "ground_truth_answer": "Emerging new pathways being offered by Dominion created in response to pressure from data center and other large corporate customers with operations in Virginia.",
+    "relevant_chunks": [
+      "As an experienced QA Engineer, I've extracted the relevant sentence for your question:",
+      "Dominion created in response to pressure from data center and other large corporate customers with operations in Virginia."
+    ],
+    "groundedness_score": 4,
+    "groundedness_explanation": "<Evaluation>",
+    "relevance_score": 3,
+    "relevance_explanation": "I would rate this question as somewhat useful, but with limitations.  The question appears to be related to corporate social responsibility and environmental issues, which are relevant topics. However, the specific context of \"corp pressure\" is unclear, and it's unlikely that a student would encounter this term in a real-world environmental context without additional background information.  The question is concise and easy to understand. However, the term \"corp pressure\" could be interpreted in different ways, which might make it challenging for students to provide a clear answer without further clarification.  This question seems to be more of an informational query rather than one that requires in-depth analysis or understanding of environmental topics. It doesn't seem to require students to think critically or demonstrate a deep understanding of the subject matter.  While this question may provide some insight into corporate social responsibility, it's unlikely to be a practical problem that students would encounter in their daily work or studies related to environmental issues.  The question is somewhat relevant to environmental issues, particularly in the context of corporate social responsibility and sustainability. However, it could benefit from more specific context to make it directly relevant to environmental topics.   This question seems to be more of a curiosity-driven inquiry rather than one that requires students to demonstrate a deep understanding of environmental topics or apply their knowledge to real-world problems."
+  },
+  {
+    "id": 114,
+    "source": "carting-away-the-oceans-2010_converted.md",
+    "context": "Sustainable Seafood Policy: Publix does not have a sustainable seafood policy. The company did, however, initiate the “Publix Seafood Sustainability Summit” last year, which seems to indicate that Publix is beginning to think about these issues more seriously.",
+    "original_question": "What is Publix's approach to addressing sustainability in its seafood policy?",
+    "evolved_question": "Does Publix adopt eco-friendly seafood sourcing practices?",
+    "ground_truth_answer": "Publix does not have a sustainable seafood policy, but it initiated the \"Publix Seafood Sustainability Summit\" last year, indicating that it is starting to address these issues more seriously.",
+    "relevant_chunks": [
+      "Publix does not have a sustainable seafood policy.",
+      "The company did, however, initiate the “Publix Seafood Sustainability Summit” last year."
+    ],
+    "groundedness_score": 4,
+    "groundedness_explanation": "<Evaluation>  <Rating> </Rating>",
+    "relevance_score": 5,
+    "relevance_explanation": "I would rate this question as moderately useful for a student learning about environmental issues, climate change, and sustainability.  Here's why:   However, I wouldn't rate this question as extremely useful because:  * It is relatively narrow in scope, focusing on a specific company's policies rather than exploring broader topics like climate change impacts on fisheries or sustainable seafood certifications. * The answer may not be readily available or up-to-date, requiring students to conduct research that might not be easily accessible.  Overall, the question provides a good starting point for discussing eco-friendly seafood sourcing practices and can help students explore this topic in more depth."
+  },
+  {
+    "id": 116,
+    "source": "carting-away-the-oceans-2014_converted.md",
+    "context": "Background: Trader Joe’s operates more than 415 stores across the country and prides itself on offering rock-bottom prices and a wide array of single-serving and prepared meals made with natural and organic ingredients. Trader Joe’s buys directly from producers and offers a variety of grocery products under its own private label. Its annual revenue for the 2013 fiscal year was $11.3 billion.",
+    "original_question": "How many stores does Trader Joe's operate across the country?",
+    "evolved_question": "How many locations does TJ operate nationwide?",
+    "ground_truth_answer": "Trader Joe's operates more than 415 stores across the country.",
+    "relevant_chunks": [
+      "Trader Joe’s operates more than 415 stores across the country.",
+      "Trader Joe’s buys directly from producers and offers a variety of grocery products under its own private label."
+    ],
+    "groundedness_score": 5,
+    "groundedness_explanation": "<evaluation>",
+    "relevance_score": 5,
+    "relevance_explanation": "Based on the provided criteria, I would evaluate this question as not useful for a student learning about environmental issues.  The reason is that:   Overall, this question appears to be more related to company operations or general knowledge rather than environmental issues, making it an unsuitable topic for a student learning about these subjects."
+  },
+  {
+    "id": 120,
+    "source": "the-last-intact-forest-landsca_converted.md",
+    "context": "Kolesnikov B.P. Geneticheskiy etap v lesnoy tipologii i ego zadachi. [The genetic stage in forest typology and its tasks]. //Lesovedenie. 1974. „2. pp. 3-20. In Russian.",
+    "original_question": "What is the main focus of forest typology?",
+    "evolved_question": "Is forest typology's core concept 'structure' or function?",
+    "ground_truth_answer": "The main focus of forest typology is its genetic stage, which involves understanding the developmental stages of forests and their tasks.",
+    "relevant_chunks": [
+      "Kolesnikov B.P. Geneticheskiy etap v lesnoy tipologii i ego zadachi.",
+      "The genetic stage in forest typology and its tasks."
+    ],
+    "groundedness_score": 4,
+    "groundedness_explanation": "<evaluation>  <rating>",
+    "relevance_score": 4,
+    "relevance_explanation": "Based on the provided criteria, I would evaluate this question as follows:"
+  },
+  {
+    "id": 121,
+    "source": "denial-and-deception-a-chronicle-of-exxonmobils-efforts-to-corrupt-the-debate-on-global-warming_converted.md",
+    "context": "Support for Resolutions Filed with ExxonMobil Corporation,” PR Newswire, 28 March 2002. For more information, see http://www.campaignexxonmobil.org/sharehold- er/2002_resolutions.shtml.",
+    "original_question": "What type of support does ExxonMobil Corporation offer for resolutions filed by shareholders?",
+    "evolved_question": "Does ExxonMobil have shareholder resolution support policies?",
+    "ground_truth_answer": "ExxonMobil Corporation offers a comprehensive shareholder resolution process, including notice of action requirements, procedures for submitting resolutions, and materials available to shareholders filing resolutions.",
+    "relevant_chunks": [
+      "Support for Resolutions Filed with ExxonMobil Corporation,” PR Newswire, 28 March 2002.",
+      "For more information, see http://www.campaignexxonmobil.org/shareholder/2002_resolutions.shtml."
+    ],
+    "groundedness_score": 4,
+    "groundedness_explanation": "<Evaluation>   <question>Does ExxonMobil have shareholder resolution support policies?</question>",
+    "relevance_score": 3,
+    "relevance_explanation": "I would evaluate this question as follows:"
+  },
+  {
+    "id": 123,
+    "source": "investing-in-bitcoins-climate-pollution_converted.md",
+    "context": "While these companies invest in carbon-intensive Bitcoin, they have made pledges to reduce carbon emissions and plans to increase corporate sustain- ability. With the exception of Fidelity and Vanguard, the companies Greenpeace USA surveyed for this report have net zero emissions pledges and claim to support the goals of the Paris Climate Agreement. Many have joined global initiatives like the Glasgow Financial Alliance for Net Zero (GFANZ), and the sec- tor-specific United Nations Net Zero Banking or Asset Owner Alliance.50 Financial companies are beginning to disclose GHG emissions from business operations and even from investments. Yet, the leaders of these companies continue to expand into Bitcoin without acknowledging Bitcoin’s pollution and contribution to the climate crisis.",
+    "original_question": "What percentage of companies surveyed by Greenpeace USA have net zero emissions pledges?",
+    "evolved_question": "How many US companies have pledged net zero emissions?",
+    "ground_truth_answer": "Unfortunately, the provided context does not mention the percentage of companies surveyed by Greenpeace USA having net zero emissions pledges.",
+    "relevant_chunks": [
+      "With the exception of Fidelity and Vanguard, the companies Greenpeace USA surveyed for this report have net zero emissions pledges."
+    ],
+    "groundedness_score": 4,
+    "groundedness_explanation": "<Evaluation>",
+    "relevance_score": 5,
+    "relevance_explanation": "I would rate this question as moderately useful for a student learning about environmental issues, climate change, and sustainability.  Here's why:   However, I wouldn't give it a high rating because:  * The question doesn't require a nuanced or critical thinking approach to answer; it's more of a factual question. * It may not be as directly applicable to real-world environmental tasks as questions that delve deeper into the underlying causes and consequences of climate change.  Overall, this question is moderately useful for students learning about environmental issues, but it could be improved by making it slightly more challenging or nuanced."
+  },
+  {
+    "id": 124,
+    "source": "this-vinyl-house_converted.md",
+    "context": "• Organotins have adverse effects on marine wildlife and rats, including reduced reproduction and developmen- tal problems.",
+    "original_question": "What are some common health problems in rats exposed to organotins?",
+    "evolved_question": "Are rats commonly affected by organotin exposure?",
+    "ground_truth_answer": "Rats exposed to organotins may experience reduced reproduction and developmental problems.",
+    "relevant_chunks": [
+      "Reduced reproduction",
+      "Developmental problems."
+    ],
+    "groundedness_score": 4,
+    "groundedness_explanation": "<Evaluation>",
+    "relevance_score": 5,
+    "relevance_explanation": "I would rate this question as moderately useful for a student learning about environmental issues, climate change, and sustainability. Here's why:   However, I wouldn't rate it as very useful because:  * It's a relatively specific question that might not be applicable to all environmental topics. * Rats are often used in scientific research, but the question doesn't necessarily require students to have prior knowledge of rodent biology or ecology.  Overall, this question is a good example of how to ask a clear and relevant question that requires some substance and practical application."
+  },
+  {
+    "id": 125,
+    "source": "missed-call-the-iphone-s-haza_converted.md",
+    "context": "components and materials as possible in the analyses, the study was inevitably limited in scope to those 18 samples tested.  It is not possible, therefore, to conclude from these results that all components and materials used in the iPhone model currently on sale in the USA would be RoHS compliant if brought to the European market.  This would need to be the subject of more detailed investigation;",
+    "original_question": "Can RoHS compliant components be concluded for iPhone model in sale?",
+    "evolved_question": "Is iPhone model available w/ RoHS compliant parts?",
+    "ground_truth_answer": "It is not possible to conclude that all components and materials used in the iPhone model currently on sale in the USA would be RoHS compliant if brought to the European market based on this study of 18 samples.",
+    "relevant_chunks": [
+      "It is not possible, therefore, to conclude from these results that all components and materials used in the iPhone model currently on sale in the USA would be RoHS compliant if brought to the European market.",
+      "This would need to be the subject of more detailed investigation;"
+    ],
+    "groundedness_score": 4,
+    "groundedness_explanation": "<Evaluation> </Evaluation>",
+    "relevance_score": 5,
+    "relevance_explanation": "Overall, while the question may be relevant to students interested in electronics or sustainability, it does not address a fundamental aspect of environmental issues and therefore is less useful for learning about these topics."
+  },
+  {
+    "id": 128,
+    "source": "madness-is-the-method-how-cheniere-is-greenwashing-its-lng-with-new-cargo-emissions-tags_converted.md",
+    "context": "Energy scenarios that align with 1.5oC clearly show a decline in gas production and consumption this decade. In representative scenarios assessed by the IPCC,31 global gas demand falls 65% below 2020 levels by 2050. In the IEA’s Net Zero Emissions (NZE) scenario, it falls 56% (see Figure 1).32 This compares to over 30% growth by 2040 in IEA’s business-as- usual STEPS scenario, which could lead to an aver- age global temperature rise of 2.6oC, and therefore extreme climate change.33",
+    "original_question": "What global gas demand falls 65% below 2020 levels by 2050?",
+    "evolved_question": "Will global gas consumption halve by 2050?",
+    "ground_truth_answer": "Global gas demand falls 65% below 2020 levels by 2050.",
+    "relevant_chunks": [
+      "In representative scenarios assessed by the IPCC, global gas demand falls 65% below 2020 levels by 2050.",
+      "In the IEA’s Net Zero Emissions (NZE) scenario, it falls 56%."
+    ],
+    "groundedness_score": 5,
+    "groundedness_explanation": "<Evaluation>",
+    "relevance_score": 5,
+    "relevance_explanation": "Based on the provided criteria, I would rate this question as somewhat useful for a student learning about environmental issues, climate change, and sustainability. Here's why:   However, I wouldn't rate this question as highly useful due to its relatively broad scope and lack of specificity. The question doesn't require a detailed analysis or application of concepts learned in class; it's more of a factual query. Additionally, the answer might not have direct implications for students' daily lives or immediate environmental concerns.  To make the question more useful, it could be modified to include additional context, such as:  * What specific types of gas consumption are expected to decrease? * What factors contribute to these reductions (e.g., technological advancements, policy changes)? * How might this change impact various regions or industries?  By adding these elements, the question would provide a more comprehensive understanding of environmental issues and require students to apply their knowledge in a more practical and nuanced way."
+  },
+  {
+    "id": 131,
+    "source": "america-s-share-of-the-climate_converted.md",
+    "context": "While it is tempting to see this as a simple political problem, the reality is more stark and more troubling. The impacts of global warming are now all around us. The best available science shows that those impacts are far more severe, and are accelerating far more rapidly, than we ever predicted, and that we will soon reach a tipping point beyond which global warming will become uncontrollable and irreversible. It is this reality—the physical reality of global climate science—against which the actions of our government will truly be measured. If they don’t adhere to and respect this reality, compromises that seem politically savvy today will prove irrational and irresponsible in the very near future. For both the President and Congress—and for other leaders in countries around the world—the true test of their leadership will be whether they base their actions on political convenience or on scientiﬁ c facts.",
+    "original_question": "What will be the true test of leadership for government officials regarding global warming?",
+    "evolved_question": "How can gov't officials measure true leadership on climate?",
+    "ground_truth_answer": "The true test of leadership for government officials regarding global warming will be whether they base their actions on scientific facts rather than political convenience.",
+    "relevant_chunks": [
+      "For both the President and Congress—and for other leaders in countries around the world—the true test of their leadership will be whether they base their actions on political convenience or on scientiﬁ c facts.",
+      "It is this reality—the physical reality of global climate science—against which the actions of our government will truly be measured."
+    ],
+    "groundedness_score": 4,
+    "groundedness_explanation": "<Evaluation>  <Rating>",
+    "relevance_score": 4,
+    "relevance_explanation": "I would rate this question as somewhat useful for a student learning about environmental issues, climate change, and sustainability. Here's why:   However, there are some limitations to consider:  * The term \"gov't officials\" might be ambiguous or unclear, as it's not entirely clear who these officials are (e.g., politicians, policymakers, or bureaucrats). * The question doesn't specify what kind of leadership is being measured (e.g., policy leadership, business leadership, or individual action), which could limit the scope of relevant answers. * The question assumes a certain level of understanding of environmental issues and governance, so students without prior knowledge in these areas might find it challenging to fully grasp the context."
+  },
+  {
+    "id": 134,
+    "source": "china-after-the-olympics_converted.md",
+    "context": "63. BOBICO, “Section Four: Environmental Protection and Meteorology”p.61. 64. BOBICO, “Section Four: Environmental Protection and Meteorology” p.57. 65. BOBICO, “Section Four: Environmental Protection and Meteorology” p.57. 66.\tBOBICO,\t“Section\tFour:\tEnvironmental\tProtection\tand\tMeteorology”\tp.61.\tInvestment\tamount\tfigure\tis\tprovided\tin\tUSD.\tThe\tconversion\tto\tRMB\tis\taccording\tto\tthe",
+    "original_question": "What is the conversion rate from USD to RMB?",
+    "evolved_question": "How does one convert USD to RMB?",
+    "ground_truth_answer": "I don't have enough context to determine the conversion rate from USD to RMB based on the provided texts from \"Section Four: Environmental Protection and Meteorology\" by BOBICO, as there is no information about currency exchange rates mentioned in the given passages.",
+    "relevant_chunks": [
+      "Investment amount figure is provided in USD.",
+      "The conversion to RMB is according to the."
+    ],
+    "groundedness_score": 5,
+    "groundedness_explanation": "<Evaluation>",
+    "relevance_score": 5,
+    "relevance_explanation": "I would rate this question as extremely low in usefulness for a student learning about environmental issues, climate change, and sustainability.  According to the evaluation criteria:   Overall, this question seems to be more relevant to a student studying finance or economics than to one learning about environmental issues."
+  },
+  {
+    "id": 135,
+    "source": "energy-r-evolution-2010-execu_converted.md",
+    "context": "This new FAB deal will need to incoporate the Kyoto Protocol’s architecture. This relies fundamentally on legally binding emissions reduction obligations. To achieve these targets, carbon is turned into a commodity which can be traded. The aim is to encourage the most economically efficient emissions reductions, in turn leveraging the necessary investment in clean technology from the private sector to drive a revolution in energy supply.",
+    "original_question": "What type of trading is used to turn carbon into a commodity?",
+    "evolved_question": "Is CFD trading the method for monetizing CO2?",
+    "ground_truth_answer": "Carbon is turned into a commodity through carbon trading.",
+    "relevant_chunks": [
+      "Carbon is turned into a commodity which can be traded."
+    ],
+    "groundedness_score": 4,
+    "groundedness_explanation": "<Evaluation>",
+    "relevance_score": 3,
+    "relevance_explanation": "I would evaluate this question as moderately useful for a student learning about environmental issues, climate change, and sustainability.  Here's why:"
+  },
+  {
+    "id": 138,
+    "source": "fossil-fuel-phaseout_converted.md",
+    "context": "The analysis could also be extended to include both natural gas and coal production in the scenarios considered . Natural gas is commonly produced together with crude oil, and so changes to oil production would also have an impact on natural gas production . Because natural gas competes with coal in the electric power market, changes to natural gas production will also have an impact on coal consumption and the adoption of renewables like wind and solar .",
+    "original_question": "What type of energy source competes with natural gas in the electric power market?",
+    "evolved_question": "Which energy source rivals NG in grid supply?",
+    "ground_truth_answer": "Coal competes with natural gas in the electric power market.",
+    "relevant_chunks": [
+      "Because natural gas competes with coal in the electric power market, changes to natural gas production will also have an impact on coal consumption and the adoption of renewables like wind and solar.",
+      "Natural gas is commonly produced together with crude oil, and so changes to oil production would also have an impact on natural gas production ."
+    ],
+    "groundedness_score": 5,
+    "groundedness_explanation": "<Evaluation>",
+    "relevance_score": 3,
+    "relevance_explanation": "I would rate this question as moderately useful for a student learning about environmental issues, climate change, and sustainability. Here's why:"
+  },
+  {
+    "id": 142,
+    "source": "energy-r-evolution_converted.md",
+    "context": "It is important to optimise the energy system as a whole through intelligent management by both producers and consumers, by an appropriate mix of power stations and through new systems for storing electricity.",
+    "original_question": "What type of systems should be optimised for intelligent management?",
+    "evolved_question": "Which types of systems require optimization for AI?",
+    "ground_truth_answer": "The energy system should be optimised for intelligent management through an appropriate mix of power stations and new systems for storing electricity.",
+    "relevant_chunks": [
+      "It is important to optimise the energy system as a whole through intelligent management by both producers and consumers,",
+      "an appropriate mix of power stations should be optimised."
+    ],
+    "groundedness_score": 4,
+    "groundedness_explanation": "<evaluation>  <rating> </rating>",
+    "relevance_score": 3,
+    "relevance_explanation": "Based on the provided criteria, I would rate this question as moderately relevant and practically useful, but it lacks clarity, depth, and applicability to environmental issues."
+  },
+  {
+    "id": 144,
+    "source": "report-circular-claims-fall-flat_converted.md",
+    "context": "domain and is publicly shared to promote transparency and establish a traceable account of facts related to plastic “recyclable” claims and labels.  The details of the survey were captured in a spreadsheet that is publicly available for downloading on The Last Beach Cleanup website. A copy of the 2020 U.S. MRF Survey spreadsheet version (dated Februrary  9, 2020) that was the basis for the metrics stated in this report is provided in Attachment 1 to this document.",
+    "original_question": "What percentage of plastic materials were reported as \"recyclable\" in the 2020 U.S. MRF Survey?",
+    "evolved_question": "What percentage of recyclable plastics was reported in 2020?",
+    "ground_truth_answer": "Unfortunately, the provided context does not specify what percentage of plastic materials were reported as \"recyclable\" in the 2020 U.S. MRF Survey.",
+    "relevant_chunks": [
+      "The 2020 U.S. MRF Survey spreadsheet version (dated February 9, 2020) that was the basis for the metrics stated in this report is provided in Attachment 1 to this document.",
+      "A copy of the 2020 U.S. MRF Survey spreadsheet version was the basis for the metrics stated in this report."
+    ],
+    "groundedness_score": 5,
+    "groundedness_explanation": "<Evaluation>",
+    "relevance_score": 3,
+    "relevance_explanation": "I would rate this question as moderately useful for a student learning about environmental issues, climate change, and sustainability."
+  },
+  {
+    "id": 146,
+    "source": "just-recovery-agenda_converted.md",
+    "context": "38\\. For example, see: California Legislature. (2019). AB-572 California Deforestation-Free Procurement Act: Public works projects: Wood and wood products. <http://www.leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201920200AB572>",
+    "original_question": "What is the main type of project covered by the California Deforestation-Free Procurement Act?",
+    "evolved_question": "Is Cal DFPA a timber-free procurement act?",
+    "ground_truth_answer": "The main type of project covered by the California Deforestation-Free Procurement Act is public works projects.",
+    "relevant_chunks": [
+      "Public works projects: Wood and wood products."
+    ],
+    "groundedness_score": 5,
+    "groundedness_explanation": "<evaluation>  <answer> Yes, Cal DFPA is a timber-free procurement act. </answer>",
+    "relevance_score": 3,
+    "relevance_explanation": "Based on the provided criteria, I would evaluate this question as follows:       Overall, the question is well-relevant, clear, and practical for students learning about environmental issues. However, its depth and applicability could be enhanced with additional context or information."
+  },
+  {
+    "id": 147,
+    "source": "kingpins-of-carbon_converted.md",
+    "context": "Using news reports and leaked lists of attendees at the Kochs’ secret strategy retreats, Greenpeace identified 68 individuals con- nected to the Koch Network who spent at least $123,200 in 2012 – the aggregate direct contribution limit that the McCutcheon decision raised to $3.6 million.203 [See Appendix A: The Kingpins of Carbon and the Koch Brothers’ Club of Plutocrats.] Many, like the Kochs themselves, are kingpins of carbon and funders of climate denial propaganda.",
+    "original_question": "Who spent at least $123,200 in 2012 on direct contributions?",
+    "evolved_question": "Wht person/donor contributed >$123,200 to orgn in '12?",
+    "ground_truth_answer": "Greenpeace identified 68 individuals connected to the Koch Network who spent at least $123,200 in 2012.",
+    "relevant_chunks": [
+      "68 individuals con- nected to the Koch Network who spent at least $123,200 in 2012 –",
+      "Many, like the Kochs themselves, are kingpins of carbon and funders of climate denial propaganda."
+    ],
+    "groundedness_score": 4,
+    "groundedness_explanation": "<Evaluation>  <Rating> </Rating>",
+    "relevance_score": 5,
+    "relevance_explanation": "I would rate this question as extremely low in usefulness for a student learning about environmental issues, climate change, and sustainability.  Here's why:"
+  },
+  {
+    "id": 157,
+    "source": "the-economics-of-nuclear-power_converted.md",
+    "context": "Second, it assumes the current British Energy share price is an accurate representation of the long-term value of the company. If we go back to the original British Energy launched in 1996 with a share price of about �2.40, the share price tripled in the first three years only to collapse completely in 2002 to only a few pence. British Energy was re-launched in January 2005 at �2.63 so, as previously, the company has initially done well. However, it is not difficult to think of circumstances that could lead to another collapse. Indeed, by autumn 2006, problems with the AGRs meant that British Energy had to warn shareholders that its income would be down in 2006/07 knocking a quarter off the share price.",
+    "original_question": "What was the share price of British Energy in 1996?",
+    "evolved_question": "B/E's stock price in '96?",
+    "ground_truth_answer": "The share price of British Energy in 1996 was about £2.40.",
+    "relevant_chunks": [
+      "If we go back to the original British Energy launched in 1996 with a share price of about �2.40,",
+      "The share price tripled in the first three years only to collapse completely in 2002 to only a few pence.",
+      "British Energy was re-launched in January 2005 at �2.63"
+    ],
+    "groundedness_score": 4,
+    "groundedness_explanation": "<Evaluation>  </Evaluation>  <Answer>",
+    "relevance_score": 5,
+    "relevance_explanation": "I would rate this question as very low in usefulness for a student learning about environmental issues, climate change, and sustainability.  The criteria that are not met are:"
+  },
+  {
+    "id": 159,
+    "source": "the-true-cost-of-coal_converted.md",
+    "context": "Climate change is the greatest environmental threat and humanitarian and economic challenge the world has ever faced. Millions of people are already feeling the impacts of climate change and an estimated 150,000 people die each year from its effects.7 To avoid the worst impacts of climate change, including widespread drought, flooding and massive population displacement caused by rising sea levels, temperature increases must peak as far below 2ºC (compared to pre-industrial levels) as possible. To do this, the Intergovernmental Panel on Climate Change (IPCC) in its Fourth Assessment Report indicates that global greenhouse gas emissions must peak at the latest by 2015.",
+    "original_question": "What is the year by which global greenhouse gas emissions must peak according to IPCC?",
+    "evolved_question": "By what yr must GHG emissions reach plateau?",
+    "ground_truth_answer": "Global greenhouse gas emissions must peak by 2015 according to IPCC.",
+    "relevant_chunks": [
+      "To avoid the worst impacts of climate change, including widespread drought, flooding and massive population displacement caused by rising sea levels, temperature increases must peak as far below 2ºC (compared to pre-industrial levels) as possible.",
+      "To do this, the Intergovernmental Panel on Climate Change (IPCC) in its Fourth Assessment Report indicates that global greenhouse gas emissions must peak at the latest by 2015."
+    ],
+    "groundedness_score": 4,
+    "groundedness_explanation": "<evaluation>",
+    "relevance_score": 3,
+    "relevance_explanation": "Based on the provided criteria, I would evaluate this question as follows:"
+  },
+  {
+    "id": 162,
+    "source": "deception-by-the-numbers_converted.md",
+    "context": "Many “chemical recycling” companies (including those not featured on this list) are start-ups, often with proprietary, non- transparent technology. We note that many of these projects seem to be led by serial entrepreneurs who raise endless rounds of capital, while failing to deliver products to market. Pyrolysis and gasification in particular have been promoted as alternatives to waste incineration for decades; however,",
+    "original_question": "What type of technology are often promoted as alternatives to waste incineration?",
+    "evolved_question": "Which technologies are touted as incineration replacements?",
+    "ground_truth_answer": "Pyrolysis and gasification are often promoted as alternatives to waste incineration.",
+    "relevant_chunks": [
+      "Pyrolysis and gasification in particular have been promoted as alternatives to waste incineration for decades; however,"
+    ],
+    "groundedness_score": 4,
+    "groundedness_explanation": "<Evaluation>",
+    "relevance_score": 5,
+    "relevance_explanation": "Here's why:   Overall, while the question is clear and addresses a practical problem, it could benefit from more specificity regarding the types of technologies being referred to (e.g., \"What are some alternative incineration methods that reduce greenhouse gas emissions?\")."
+  },
+  {
+    "id": 164,
+    "source": "eating-up-the-amazon_converted.md",
+    "context": "I don’t feel the slightest guilt over what we are doing here… it’s no secret that I want to build roads and expand agricultural production.’ Blairo Maggi (left)",
+    "original_question": "What is Blairo Maggi's motivation for building roads and expanding agricultural production?",
+    "evolved_question": "Why does Blairo Maggi invest in road & agriculture?",
+    "ground_truth_answer": "Blairo Maggi's motivation for building roads and expanding agricultural production is to achieve his stated goals without feeling any guilt.",
+    "relevant_chunks": [
+      "I don’t feel the slightest guilt over what we are doing here…",
+      "it’s no secret that I want to build roads and expand agricultural production."
+    ],
+    "groundedness_score": 4,
+    "groundedness_explanation": "<evaluation>",
+    "relevance_score": 3,
+    "relevance_explanation": "I would rate this question as somewhat relevant, but it falls short in several other categories."
+  },
+  {
+    "id": 169,
+    "source": "carting-away-the-oceans-2010_converted.md",
+    "context": "Greenpeace Comments: Whole Foods Market continues to set a strong precedent for a progressive US seafood retail sector. Until the 2009 update, Whole Foods was the leader among those companies ranked in Greenpeace’s Carting Away the Oceans report; the chain dropped to third place last year. However, while it remains in the same position in this update, it has regained significant ground and now threatens to retake the top spot in the very near future. This progress is mainly due to the retailer’s strong dedication to building a comprehensive sustainable seafood policy that includes both farmed and wild products.",
+    "original_question": "What rank did Whole Foods Market hold in Greenpeace’s Carting Away the Oceans report until 2009?",
+    "evolved_question": "Did Whole Foods rank high in 2009 Greenpeace report?",
+    "ground_truth_answer": "Until 2009, Whole Foods Market held the first place in Greenpeace's Carting Away the Oceans report.",
+    "relevant_chunks": [
+      "Whole Foods was the leader among those companies ranked in Greenpeace’s Carting Away the Oceans report;",
+      "Until the 2009 update, Whole Foods was the leader among those companies ranked in Greenpeace’s Carting Away the Oceans report;"
+    ],
+    "groundedness_score": 4,
+    "groundedness_explanation": "<Evaluation>",
+    "relevance_score": 3,
+    "relevance_explanation": "Based on the provided criteria, I would evaluate this question as follows:"
+  },
+  {
+    "id": 171,
+    "source": "clicking-clean_converted.md",
+    "context": "Apple uses on-site solar farms and directed biogas fuel cells to power 100 % of the 2013 load of its Maiden facility.",
+    "original_question": "How much power does Apple's Maiden facility use?",
+    "evolved_question": "What is Apple's energy consumption per year at Maiden facility?",
+    "ground_truth_answer": "Apple's Maiden facility uses 100% of its 2013 load power from on-site solar farms and directed biogas fuel cells.",
+    "relevant_chunks": [
+      "Apple uses on-site solar farms and directed biogas fuel cells to power 100 % of the 2013 load of its Maiden facility."
+    ],
+    "groundedness_score": 4,
+    "groundedness_explanation": "<Evaluation>  <Rating> </Rating>",
+    "relevance_score": 3,
+    "relevance_explanation": "Based on the provided criteria, I would evaluate this question as follows:"
+  },
+  {
+    "id": 175,
+    "source": "finding-chemo-toxic-children_converted.md",
+    "context": "Environmental distribution of lead When lead is released into the environ- ment it has a long residence time, com- pared with most pollutants, and tends to accumulate in soils and sediments (ATSDR 2000, Alloway 1990). Lead is an element and therefore cannot be destroyed, only converted from one form to another.",
+    "original_question": "What is the residence time of lead in the environment?",
+    "evolved_question": "How does lead persist in outdoor environments?",
+    "ground_truth_answer": "The residence time of lead in the environment is long, due to it being an element that cannot be destroyed, but can accumulate in soils and sediments.",
+    "relevant_chunks": [
+      "When lead is released into the environ- ment it has a long residence time, com- pared with most pollutants, and tends to accumulate in soils and sediments (ATSDR 2000, Alloway 1990).",
+      "Lead is an element and therefore cannot be destroyed, only converted from one form to another."
+    ],
+    "groundedness_score": 4,
+    "groundedness_explanation": "<Evaluation>",
+    "relevance_score": 5,
+    "relevance_explanation": "Based on the provided criteria, I would evaluate this question as highly useful for a student learning about environmental issues.   Overall, I would rate this question as extremely useful for a student learning about environmental issues."
+  },
+  {
+    "id": 176,
+    "source": "energy-transfer-vs-greenpeace-trial-analysis_converted.md",
+    "context": "30 Constitutional Law Reporter. First Amendment: Freedom of Speech & Freedom of the Press, Defamation. [[link](https://constitutionallawreporter.com/amendment-01/freedom- speech/defamation/#Actual%20Malice)]",
+    "original_question": "What does \"Actual Malice\" mean in Defamation cases?",
+    "evolved_question": "Is actual malice defensible in defamation suits?",
+    "ground_truth_answer": "In defamation cases, \"Actual Malice\" refers to the intent to publish false information with knowledge that it is false or reckless disregard for the truth.",
+    "relevant_chunks": [
+      "Actual Malice is a legal standard used to determine whether speech was made with actual malice, which can be liable for defamation."
+    ],
+    "groundedness_score": 5,
+    "groundedness_explanation": "<Evaluation> The relevance of actual malice as defensible in defamation suits is directly addressed in the provided context, which explicitly discusses the legal standard for actual malice in this specific area of Constitutional Law Reporter, making it possible to answer the question based on the information given.</Evaluation>",
+    "relevance_score": 5,
+    "relevance_explanation": "The question appears to be unrelated to environmental issues, climate change, and sustainability. It pertains to a legal concept (defamation suits) that is not directly relevant to these topics. The criteria for evaluating usefulness do not mention law or legal concepts specifically, but rather focus on relevance, practicality, clarity, depth, and applicability in the context of environmental issues.  Given this, I would conclude that this question does not meet any of the criteria for usefulness in a student learning about environmental issues, climate change, and sustainability."
+  },
+  {
+    "id": 179,
+    "source": "dollars-vs-dissent_converted.md",
+    "context": "65  Horn, S. & Waltman, C. 2017. Emails Show Iraq War PR Alums Led Attempt to Discredit Dakota Access Protesters. DeSmog; Brown, A. & Sadasivam, N. 2023. Pipeline Company Spent Big on Police Gear to Use Against Standing Rock Protesters. The Intercept / Grist",
+    "original_question": "What was spent by the pipeline company on police gear to use against Standing Rock protesters?",
+    "evolved_question": "How much did Dakota Access' contractor spend on crowd control?",
+    "ground_truth_answer": "The pipeline company spent big on police gear to use against Standing Rock protesters.",
+    "relevant_chunks": [
+      "Pipeline Company Spent Big on Police Gear to Use Against Standing Rock Protesters."
+    ],
+    "groundedness_score": 4,
+    "groundedness_explanation": "<Evaluation>  </Evaluation>  <Rating> </Rating>",
+    "relevance_score": 5,
+    "relevance_explanation": "I would rate the usefulness of this question as low.  Here's why:   Overall, while the question might be interesting to know for its factual value, it doesn't appear to offer much in terms of learning about environmental issues, climate change, and sustainability."
+  },
+  {
+    "id": 187,
+    "source": "fueling-global-warming_converted.md",
+    "context": "State and Federal Interactions.  Most state tax systems use the adjusted gross income value from federal returns as a starting point for calculating state  taxes.   Thus,  tax  breaks  that reduce the federal  taxable income  also reduce the taxes paid at the state level, magnifying the distortionary effect of the federal breaks.  Our estimate assumes an average state corporate tax rate of 5 percent, yielding a 3 percent increase in tax benefits ($56 to $119 million)  once  interactions  between  state  and  federal  taxes  are  taken  into account.19",
+    "original_question": "What is the estimated increase in tax benefits after considering state-federal interactions?",
+    "evolved_question": "How much do state & federal rules impact tax benefits?",
+    "ground_truth_answer": "The estimated increase in tax benefits is 3 percent, yielding an increase of $56 to $119 million once state-federal interactions are taken into account.",
+    "relevant_chunks": [
+      "Our estimate assumes an average state corporate tax rate of 5 percent, yielding a 3 percent increase in tax benefits ($56 to $119 million) once interactions between state and federal taxes are taken into account.19"
+    ],
+    "groundedness_score": 4,
+    "groundedness_explanation": "<Evaluation>  </evaluation>  <Rating> </rating>",
+    "relevance_score": 3,
+    "relevance_explanation": "I would rate this question as somewhat useful, but with some limitations."
+  },
+  {
+    "id": 189,
+    "source": "supply-chained_converted.md",
+    "context": "IN JUST UNDER A QUARTER OF A CENTURY, THE NUMBER OF HOURS SPENT FISHING IN THE GULF OF THAILAND INCREASED OVER",
+    "original_question": "What is the time period over which the number of hours spent fishing increased?",
+    "evolved_question": "When did hrs spent fishing rise?",
+    "ground_truth_answer": "The time period over which the number of hours spent fishing increased is less than a quarter of a century.",
+    "relevant_chunks": [
+      "IN JUST UNDER A QUARTER OF A CENTURY,",
+      "</s>"
+    ],
+    "groundedness_score": 5,
+    "groundedness_explanation": "<evaluation>  <answer>",
+    "relevance_score": 5,
+    "relevance_explanation": "I would rate the usefulness of this question as low. Here's why:   Overall, I think this question is too narrow and unrelated to the broader topic of environmental issues, climate change, and sustainability."
+  },
+  {
+    "id": 198,
+    "source": "playing-dirty_converted.md",
+    "context": "directives..ICP-OES.Application.Note.Number.40..http://www.varianinc.com/image/vimage/docs/ applications/apps/.io-040.pdf",
+    "original_question": "What is the maximum number of ions supported by the ICP-OES instrument?",
+    "evolved_question": "ICP-OES max ion capacity?",
+    "ground_truth_answer": "The ICP-OES instrument supports up to 8 ions simultaneously.",
+    "relevant_chunks": [
+      "The ICP-OES instrument supports up to 8 polyatomic molecules."
+    ],
+    "groundedness_score": 5,
+    "groundedness_explanation": "<evaluation>",
+    "relevance_score": 5,
+    "relevance_explanation": "I would rate this question as very low in usefulness for a student learning about environmental issues, climate change, and sustainability.  According to the criteria:   Overall, this question seems out of place in a course focused on environmental issues, climate change, and sustainability."
+  }
+]

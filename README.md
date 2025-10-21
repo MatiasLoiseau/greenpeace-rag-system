@@ -10,12 +10,18 @@ Este proyecto procesa documentos en formato Markdown de Greenpeace, los fragment
 
 ```
 greenpeace-rag-system/
-├── dataset/                  # Archivos markdown originales
-├── chroma_db/               # Base de datos vectorial (generada)
-├── docs/                    # Documentación y ejemplos
-├── process_dataset.py       # Script para procesar y almacenar documentos
-├── query_rag.py            # Script para consultar el RAG
-└── requirements.txt        # Dependencias del proyecto
+├── dataset/                     # Archivos markdown originales
+├── chroma_db/                  # Base de datos vectorial (generada)
+├── docs/                       # Documentación y ejemplos
+├── evaluation_results/         # Resultados de evaluaciones (generado)
+├── process_dataset.py          # Script para procesar y almacenar documentos
+├── query_rag.py               # Script para consultar el RAG
+├── generate_test_questions.py  # Genera preguntas de evaluación
+├── evaluate_rag.py            # Evalúa el rendimiento del RAG
+├── test_evaluation_system.py  # Verifica que todo esté configurado
+├── requirements.txt           # Dependencias del proyecto
+├── EVALUATION_README.md       # Documentación del sistema de evaluación
+└── test_questions.json        # Preguntas de evaluación (generado)
 ```
 
 ## Instalación
@@ -85,7 +91,56 @@ Ejemplo:
 python query_rag.py "climate change impacts on forests"
 ```
 
-### 3. Usar en tu Código
+### 3. Evaluar el RAG
+
+El sistema incluye un completo sistema de evaluación que permite medir el rendimiento del RAG de manera sistemática.
+
+#### Verificar que todo esté configurado
+
+```bash
+python test_evaluation_system.py
+```
+
+Este script verifica:
+- Dependencias instaladas
+- Dataset disponible
+- ChromaDB funcionando
+- Ollama corriendo con Llama 3.1
+
+#### Generar preguntas de evaluación (una sola vez)
+
+```bash
+python generate_test_questions.py
+```
+
+Esto genera 100 preguntas de evaluación basadas en párrafos aleatorios de los documentos. Las preguntas se guardan en `test_questions.json` y se reutilizan en todas las evaluaciones futuras.
+
+**Tiempo estimado**: 30-60 minutos
+
+#### Evaluar el rendimiento del RAG
+
+```bash
+# Evaluar con todas las preguntas
+python evaluate_rag.py
+
+# Evaluar con un subconjunto
+python evaluate_rag.py -n 10
+
+# Cambiar número de documentos recuperados
+python evaluate_rag.py -k 5
+```
+
+El script evalúa 4 métricas clave:
+- **Correctitud**: ¿La respuesta es factualmente correcta?
+- **Relevancia**: ¿La respuesta responde la pregunta?
+- **Fundamentación**: ¿La respuesta está basada en los documentos?
+- **Relevancia de Recuperación**: ¿Los documentos recuperados son relevantes?
+
+Los resultados se guardan en `evaluation_results/` con métricas detalladas.
+
+📚 **Para más detalles**, consulta [EVALUATION_README.md](EVALUATION_README.md)
+
+### 4. Usar en tu Código
 
 ```python
 from langchain_community.vectorstores import Chroma
