@@ -1,0 +1,477 @@
+======================================================================
+RESUMEN DE EVALUACIÓN DEL RAG
+======================================================================
+
+Fecha: 2025-10-21T19:13:21.829172
+Configuración: k=3
+Preguntas evaluadas: 50
+
+MÉTRICAS:
+  Correctitud: 60.00%
+  Relevancia: 54.00%
+  Fundamentación: 46.00%
+  Relevancia de Recuperación: 34.00%
+
+======================================================================
+DETALLES POR PREGUNTA
+======================================================================
+
+
+--- Pregunta 1 ---
+Q: How do taiga forest ecosystems evolve over time?
+Ground Truth: Taiga forests are characterized by slow growth rates, with dominant tree species such as spruce and ...
+Generated: The taiga forest ecosystems in Russia evolve over time through a complex interaction of natural and ...
+Correctitud: ✅
+Relevancia: ✅
+Fundamentación: ✅
+Recuperación: ✅
+
+--- Pregunta 2 ---
+Q: What's the designation for a proposed site in Papua?
+Ground Truth: The proposed plantation in Papua is called "Food estate"....
+Generated: The designation for a proposed site in Papua is not explicitly mentioned in the provided documents. ...
+Correctitud: ❌
+Relevancia: ❌
+Fundamentación: ❌
+Recuperación: ❌
+
+--- Pregunta 3 ---
+Q: Can US power plant emissions data be distilled to 1-yr avg rate?
+Ground Truth: The average annual emission rate of CO2 from power plants in the US is 1,950 million metric tons, ac...
+Generated: Yes, US power plant emissions data can be distilled to 1-yr avg rate. The document mentions that the...
+Correctitud: ✅
+Relevancia: ❌
+Fundamentación: ❌
+Recuperación: ✅
+
+--- Pregunta 4 ---
+Q: When is the capacity of wind energy typically known?
+Ground Truth: The capacity of wind energy in 2006 was over 74,000 MW....
+Generated: The capacity of wind energy is typically known when it is estimated by combining wind speed estimate...
+Correctitud: ✅
+Relevancia: ❌
+Fundamentación: ❌
+Recuperación: ❌
+
+--- Pregunta 5 ---
+Q: What's driving Surrey & NW's involvement in the legal dispute?
+Ground Truth: Surrey and New Westminster are intervening in the court challenge to ensure that any decisions made ...
+Generated: The driving force behind Surrey & NW's involvement in the legal dispute is to challenge the permit i...
+Correctitud: ✅
+Relevancia: ❌
+Fundamentación: ✅
+Recuperación: ❌
+
+--- Pregunta 6 ---
+Q: Can aquatic feed alternatives to fishmeal be developed?
+Ground Truth: Some herbivorous and omnivorous fish can be reared with plant-based feedstuffs without impacts on gr...
+Generated: Yes, aquatic feed alternatives to fishmeal can be developed for some species of fish, particularly h...
+Correctitud: ❌
+Relevancia: ✅
+Fundamentación: ✅
+Recuperación: ✅
+
+--- Pregunta 7 ---
+Q: Did reactor incidents occur at US sites post-Chernobyl?
+Ground Truth: At least 56 precursors have occurred at reactors with questionable containments since Chernobyl....
+Generated: Yes, according to the document "Nuclear “Near Misses” at U.S. Reactors Since 1986", there were nucle...
+Correctitud: ✅
+Relevancia: ✅
+Fundamentación: ❌
+Recuperación: ❌
+
+--- Pregunta 8 ---
+Q: How much of Unilever's palm oil comes from ADM?
+Ground Truth: It is not specified what percentage of Unilever's palm oil is supplied by ADM, however it is mention...
+Generated: According to the document, most if not all of Unilever's palm oil is supplied by ADM (Archer Daniels...
+Correctitud: ✅
+Relevancia: ✅
+Fundamentación: ✅
+Recuperación: ❌
+
+--- Pregunta 9 ---
+Q: NRC defines what constitutes significant accident precursors?
+Ground Truth: According to the NRC, accident precursors with a Conditional Core Damage Probability (CCDP) of 1 in ...
+Generated: The NRC defines significant accident precursors as actual events or conditions at nuclear reactors t...
+Correctitud: ❌
+Relevancia: ✅
+Fundamentación: ✅
+Recuperación: ✅
+
+--- Pregunta 10 ---
+Q: What % of global energy comes from coal?
+Ground Truth: Coal supplies almost one-quarter of the world’s energy....
+Generated: According to the documents, coal supplies almost one-quarter (25%) of the world's energy....
+Correctitud: ✅
+Relevancia: ✅
+Fundamentación: ✅
+Recuperación: ✅
+
+--- Pregunta 11 ---
+Q: WAS Shale collaboration w/Shell in 20?
+Ground Truth: Shell IShaLe collaborated with Novi Labs LLC....
+Generated: Based on the provided documents, there is no mention of a shale collaboration between Shell and WAS ...
+Correctitud: ✅
+Relevancia: ✅
+Fundamentación: ✅
+Recuperación: ❌
+
+--- Pregunta 12 ---
+Q: Is GHG Protocol Scope 2 explicitly defined?
+Ground Truth: The GHG Protocol Scope 2 includes indirect greenhouse gas emissions from purchased goods and service...
+Generated: No, the GHG Protocol Scope 2 is not explicitly defined in the provided documents. The document appea...
+Correctitud: ✅
+Relevancia: ✅
+Fundamentación: ✅
+Recuperación: ❌
+
+--- Pregunta 13 ---
+Q: Wht R th sctt nmbr rsdrtng t Sámi dntty?
+Ground Truth: The article number requested regarding Sámi identity is 27 of the Covenant....
+Generated: The Sámi district is not explicitly mentioned in the provided documents. However, the document does ...
+Correctitud: ❌
+Relevancia: ❌
+Fundamentación: ✅
+Recuperación: ❌
+
+--- Pregunta 14 ---
+Q: Does BPA accumulate in human blood during pregnancy?
+Ground Truth: The estimated accumulation of Bisphenol A in humans during pregnancy is approximately 2-10 pg/g feta...
+Generated: Yes, BPA accumulates in human blood during pregnancy. Studies have shown that foetal plasma levels o...
+Correctitud: ❌
+Relevancia: ✅
+Fundamentación: ❌
+Recuperación: ✅
+
+--- Pregunta 15 ---
+Q: Is 40 yrs of ongoing eco-social issues the root?
+Ground Truth: The problem of getting cheap protein to feed factory farmed animals has been causing environmental a...
+Generated: The documents suggest that 40 years of ongoing eco-social issues, including climate change, social d...
+Correctitud: ❌
+Relevancia: ❌
+Fundamentación: ✅
+Recuperación: ❌
+
+--- Pregunta 16 ---
+Q: Where is Nestlé Global's HQ located?
+Ground Truth: The location of Nestlé Global's headquarters is Vevey, Switzerland....
+Generated: The headquarters location for Nestlé Global is not explicitly stated in the provided documents. Howe...
+Correctitud: ❌
+Relevancia: ❌
+Fundamentación: ✅
+Recuperación: ❌
+
+--- Pregunta 17 ---
+Q: How many % of L. disease cases originated from Flint?
+Ground Truth: Unfortunately, the context does not provide specific information on the percentage of Legionnaires' ...
+Generated: The provided documents do not mention the percentage of L. disease cases originating from Flint. The...
+Correctitud: ✅
+Relevancia: ✅
+Fundamentación: ✅
+Recuperación: ❌
+
+--- Pregunta 18 ---
+Q: What type of MS non-profit org was formed by Satoshi Action Fund?
+Ground Truth: The initial nonprofit formation form of Satoshi Action Fund's is "Articles of Incorporation"....
+Generated: The Satoshi Action Fund was formed by the Center to Protect Patient Rights as a 501(c)(4) organizati...
+Correctitud: ✅
+Relevancia: ✅
+Fundamentación: ❌
+Recuperación: ❌
+
+--- Pregunta 19 ---
+Q: Which firm acquired Lawrence Co.'s Dow property?
+Ground Truth: PureCycle Technologies leased a former Dow site in Lawrence Co....
+Generated: The document does not specify which firm acquired Lawrence Co.'s Dow property. It appears that "Dow"...
+Correctitud: ✅
+Relevancia: ❌
+Fundamentación: ❌
+Recuperación: ❌
+
+--- Pregunta 20 ---
+Q: How does Fairphone ensure safe working conditions for its suppliers?
+Ground Truth: Fairphone seeks to limit the amount of overtime of workers in its suppliers, or hiring of temporary ...
+Generated: The document does not explicitly state how Fairphone ensures safe working conditions for its supplie...
+Correctitud: ❌
+Relevancia: ❌
+Fundamentación: ❌
+Recuperación: ❌
+
+--- Pregunta 21 ---
+Q: Which organic substances were detected in soil?
+Ground Truth: DEHP and traces of PBDEs were found in the soil sample....
+Generated: The organic substances detected in soil are:
+
+1. Phthalates (45%, 17%)
+2. Sterol derivatives (23%, 2...
+Correctitud: ❌
+Relevancia: ✅
+Fundamentación: ❌
+Recuperación: ❌
+
+--- Pregunta 22 ---
+Q: Which company profits from ongoing Brazilian forest clearance?
+Ground Truth: The Brazilian government is profiting from continued deforestation, often through the agricultural s...
+Generated: Based on the provided documents, it appears that Madenorte S/A is a company involved in forest clear...
+Correctitud: ❌
+Relevancia: ❌
+Fundamentación: ❌
+Recuperación: ❌
+
+--- Pregunta 23 ---
+Q: Which 2 orgs influenced Moore's viewpoints?
+Ground Truth: The two organizations mentioned that influenced Moore's views are the Heritage Foundation and the Ca...
+Generated: Based on the provided documents, the two organizations that influenced Stephen Moore's viewpoints ar...
+Correctitud: ❌
+Relevancia: ❌
+Fundamentación: ❌
+Recuperación: ✅
+
+--- Pregunta 24 ---
+Q: Is AT&T an telco or tech company?
+Ground Truth: The primary sector for companies like AT&T is telecommunications....
+Generated: Based on the provided documents, AT&T is not listed as a telco or tech company. The document appears...
+Correctitud: ❌
+Relevancia: ✅
+Fundamentación: ❌
+Recuperación: ❌
+
+--- Pregunta 25 ---
+Q: What regions experienced most forest loss in 03?
+Ground Truth: The majority of illegal deforestation occurred in areas surrounding Pará's Middle Land, according to...
+Generated: The regions that experienced most forest loss in 03 are not explicitly stated in the provided docume...
+Correctitud: ❌
+Relevancia: ❌
+Fundamentación: ❌
+Recuperación: ✅
+
+--- Pregunta 26 ---
+Q: Is Masa used in IC fab process?
+Ground Truth: Masa is used for starch removal in chip production....
+Generated: There is no mention of "Masa" in the provided documents related to IC fab (Integrated Circuit fabric...
+Correctitud: ✅
+Relevancia: ❌
+Fundamentación: ❌
+Recuperación: ❌
+
+--- Pregunta 27 ---
+Q: Is Citi exploring crypto offerings amidst rising demand?
+Ground Truth: Citi is considering offering crypto services amid a surge in interest in cryptocurrency, according t...
+Generated: Yes, Citi is exploring crypto offerings amidst rising demand. The company has been expanding its pre...
+Correctitud: ✅
+Relevancia: ✅
+Fundamentación: ✅
+Recuperación: ❌
+
+--- Pregunta 28 ---
+Q: How many w/v weekly does Sun Valley generate?
+Ground Truth: Sun Valley produces 250-300 tonnes of value-added products weekly....
+Generated: The provided documents do not mention "Sun Valley" or its generation capacity in terms of w/v (watts...
+Correctitud: ✅
+Relevancia: ❌
+Fundamentación: ❌
+Recuperación: ❌
+
+--- Pregunta 29 ---
+Q: How does Dominion respond to corp pressure?
+Ground Truth: Emerging new pathways being offered by Dominion created in response to pressure from data center and...
+Generated: Based on the provided documents, Dominion responds to corporate pressure by:
+
+* Using its influence ...
+Correctitud: ✅
+Relevancia: ✅
+Fundamentación: ❌
+Recuperación: ✅
+
+--- Pregunta 30 ---
+Q: Does Publix adopt eco-friendly seafood sourcing practices?
+Ground Truth: Publix does not have a sustainable seafood policy, but it initiated the "Publix Seafood Sustainabili...
+Generated: Based on the provided documents, it appears that Publix does not have an established eco-friendly se...
+Correctitud: ✅
+Relevancia: ❌
+Fundamentación: ❌
+Recuperación: ✅
+
+--- Pregunta 31 ---
+Q: How many locations does TJ operate nationwide?
+Ground Truth: Trader Joe's operates more than 415 stores across the country....
+Generated: The provided documents do not mention Twitter or TJ operating nationwide. The documents appear to be...
+Correctitud: ✅
+Relevancia: ✅
+Fundamentación: ❌
+Recuperación: ❌
+
+--- Pregunta 32 ---
+Q: Is forest typology's core concept 'structure' or function?
+Ground Truth: The main focus of forest typology is its genetic stage, which involves understanding the development...
+Generated: The core concept of forest typology is not explicitly stated as either "structure" or "function". Ho...
+Correctitud: ❌
+Relevancia: ❌
+Fundamentación: ✅
+Recuperación: ✅
+
+--- Pregunta 33 ---
+Q: Does ExxonMobil have shareholder resolution support policies?
+Ground Truth: ExxonMobil Corporation offers a comprehensive shareholder resolution process, including notice of ac...
+Generated: Yes, ExxonMobil has shareholder resolution support policies. In March 2002, the Securities and Excha...
+Correctitud: ✅
+Relevancia: ✅
+Fundamentación: ✅
+Recuperación: ✅
+
+--- Pregunta 34 ---
+Q: How many US companies have pledged net zero emissions?
+Ground Truth: Unfortunately, the provided context does not mention the percentage of companies surveyed by Greenpe...
+Generated: The document does not provide information on how many US companies have pledged net zero emissions. ...
+Correctitud: ✅
+Relevancia: ✅
+Fundamentación: ❌
+Recuperación: ✅
+
+--- Pregunta 35 ---
+Q: Are rats commonly affected by organotin exposure?
+Ground Truth: Rats exposed to organotins may experience reduced reproduction and developmental problems....
+Generated: Yes, rats are commonly affected by organotin exposure, as demonstrated by studies such as Ema et al....
+Correctitud: ✅
+Relevancia: ✅
+Fundamentación: ✅
+Recuperación: ❌
+
+--- Pregunta 36 ---
+Q: Is iPhone model available w/ RoHS compliant parts?
+Ground Truth: It is not possible to conclude that all components and materials used in the iPhone model currently ...
+Generated: Based on the provided documents, it appears that some iPhone models may contain non-RoHS compliant p...
+Correctitud: ✅
+Relevancia: ✅
+Fundamentación: ✅
+Recuperación: ❌
+
+--- Pregunta 37 ---
+Q: Will global gas consumption halve by 2050?
+Ground Truth: Global gas demand falls 65% below 2020 levels by 2050....
+Generated: According to the documents, there is no indication that global gas consumption will halve by 2050. I...
+Correctitud: ✅
+Relevancia: ✅
+Fundamentación: ❌
+Recuperación: ❌
+
+--- Pregunta 38 ---
+Q: How can gov't officials measure true leadership on climate?
+Ground Truth: The true test of leadership for government officials regarding global warming will be whether they b...
+Generated: According to the document, frontline leadership in policymaking has been rated as 2.5/5. The Biden a...
+Correctitud: ✅
+Relevancia: ✅
+Fundamentación: ✅
+Recuperación: ✅
+
+--- Pregunta 39 ---
+Q: How does one convert USD to RMB?
+Ground Truth: I don't have enough context to determine the conversion rate from USD to RMB based on the provided t...
+Generated: To convert USD to RMB, there is no conversion rate provided in the documents. The documents provide ...
+Correctitud: ✅
+Relevancia: ❌
+Fundamentación: ✅
+Recuperación: ❌
+
+--- Pregunta 40 ---
+Q: Is CFD trading the method for monetizing CO2?
+Ground Truth: Carbon is turned into a commodity through carbon trading....
+Generated: Based on the provided documents, CFD trading (also referred to as Carbon Financial Derivatives or Ca...
+Correctitud: ✅
+Relevancia: ✅
+Fundamentación: ✅
+Recuperación: ✅
+
+--- Pregunta 41 ---
+Q: Which energy source rivals NG in grid supply?
+Ground Truth: Coal competes with natural gas in the electric power market....
+Generated: The document does not explicitly state which energy source rivals Natural Gas (NG) in grid supply. H...
+Correctitud: ❌
+Relevancia: ❌
+Fundamentación: ✅
+Recuperación: ❌
+
+--- Pregunta 42 ---
+Q: Which types of systems require optimization for AI?
+Ground Truth: The energy system should be optimised for intelligent management through an appropriate mix of power...
+Generated: Based on the provided documents, AI optimization is required for systems that:
+
+1. Involves seismic ...
+Correctitud: ✅
+Relevancia: ❌
+Fundamentación: ❌
+Recuperación: ❌
+
+--- Pregunta 43 ---
+Q: What percentage of recyclable plastics was reported in 2020?
+Ground Truth: Unfortunately, the provided context does not specify what percentage of plastic materials were repor...
+Generated: The percentage of recyclable plastics reported in 2020 is not explicitly stated in the provided docu...
+Correctitud: ❌
+Relevancia: ❌
+Fundamentación: ❌
+Recuperación: ✅
+
+--- Pregunta 44 ---
+Q: Is Cal DFPA a timber-free procurement act?
+Ground Truth: The main type of project covered by the California Deforestation-Free Procurement Act is public work...
+Generated: Based on the provided documents, there is no mention of Cal DFPA being a timber-free procurement act...
+Correctitud: ✅
+Relevancia: ✅
+Fundamentación: ❌
+Recuperación: ❌
+
+--- Pregunta 45 ---
+Q: Wht person/donor contributed >$123,200 to orgn in '12?
+Ground Truth: Greenpeace identified 68 individuals connected to the Koch Network who spent at least $123,200 in 20...
+Generated: There is no information in the provided documents about a person/donor who contributed more than $12...
+Correctitud: ✅
+Relevancia: ❌
+Fundamentación: ✅
+Recuperación: ❌
+
+--- Pregunta 46 ---
+Q: B/E's stock price in '96?
+Ground Truth: The share price of British Energy in 1996 was about £2.40....
+Generated: There is no information about B/E's stock price in '96 or any other specific year in the provided do...
+Correctitud: ❌
+Relevancia: ❌
+Fundamentación: ✅
+Recuperación: ❌
+
+--- Pregunta 47 ---
+Q: By what yr must GHG emissions reach plateau?
+Ground Truth: Global greenhouse gas emissions must peak by 2015 according to IPCC....
+Generated: The document does not specify a specific year by which GHG emissions must reach a plateau, but it su...
+Correctitud: ❌
+Relevancia: ❌
+Fundamentación: ❌
+Recuperación: ❌
+
+--- Pregunta 48 ---
+Q: Which technologies are touted as incineration replacements?
+Ground Truth: Pyrolysis and gasification are often promoted as alternatives to waste incineration....
+Generated: The technologies touted as incineration replacements are:
+
+1. "Waste-to-fuel" or "plastic-to-fuel" t...
+Correctitud: ❌
+Relevancia: ✅
+Fundamentación: ❌
+Recuperación: ❌
+
+--- Pregunta 49 ---
+Q: Why does Blairo Maggi invest in road & agriculture?
+Ground Truth: Blairo Maggi's motivation for building roads and expanding agricultural production is to achieve his...
+Generated: Blairo Maggi invests in road and agriculture because he wants to "build roads and expand agricultura...
+Correctitud: ✅
+Relevancia: ✅
+Fundamentación: ❌
+Recuperación: ❌
+
+--- Pregunta 50 ---
+Q: Did Whole Foods rank high in 2009 Greenpeace report?
+Ground Truth: Until 2009, Whole Foods Market held the first place in Greenpeace's Carting Away the Oceans report....
+Generated: According to the Greenpeace report, Whole Foods ranked high in 2009 (the year the document was writt...
+Correctitud: ❌
+Relevancia: ✅
+Fundamentación: ❌
+Recuperación: ✅
